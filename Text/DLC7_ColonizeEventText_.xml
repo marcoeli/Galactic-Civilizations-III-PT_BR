@@ -234,12 +234,12 @@ xsi:noNamespaceSchemaLocation="../../../data/Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>PlasmaArcEvent_Name</Label>
-    <String>Plasma Arc</String>
+    <String>Arco de Plasma</String>
   </StringTable>
  
   <StringTable>
     <Label>PlasmaArcEvent_Dec</Label>
-    <String>One of our traders has stumbled across a derelict vessel that appears to contain a new type of beam weapon. It has obvious military applications, but it also contains a unique power source which could be adapted to power an entire planet.</String>
+    <String>Um de nossos comerciantes encontrou uma embarcação abandonada que parece conter um novo tipo de arma de raios. Ela tem aplicações militares óbvias, mas também contém uma fonte de energia única que poderia ser adaptada para alimentar um planeta inteiro.</String>
   </StringTable>
  
   <StringTable>
@@ -259,7 +259,7 @@ xsi:noNamespaceSchemaLocation="../../../data/Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>PlasmaArcEvent_Neutral_Bonus_Name</Label>
-    <String>Study the power source without disassembling it. But we can't ignore the potential this has as a weapon.</String>
+    <String>Estudar a fonte de energia sem desmontá-la. Mas não podemos ignorar o potencial que isto tem como arma.</String>
   </StringTable>
  
   <StringTable>
