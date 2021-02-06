@@ -5,7 +5,7 @@ xsi:noNamespaceSchemaLocation="../../../data/Schema/Lib/StringTable.xsd">
 <!-- Created with the Gal Civ 3 Editor -->
 <!-- ColonizeEventText.xml -->
  
-<!-- Event Names and Descriptions incompleto -->
+<!-- Event Names and Descriptions -->
  
   <StringTable>
     <Label>HyperGateCoreEvent_Name</Label>
@@ -665,32 +665,32 @@ Ela tem uma arma estranha que parece funcionar muito como uma arma de feixe padr
  
   <StringTable>
     <Label>PrecursorBio-ReplicatorEvent_Neutral_Bonus_Name</Label>
-    <String>Let's split the food supply. Give half to our colonists, and half to traders who can turn this gift into profit.</String>
+    <String>Vamos dividir o fornecimento de alimentos. Dê metade para nossos colonos, e metade para os comerciantes que podem transformar este presente em lucro.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorBio-ReplicatorEvent_Neutral_Bonus_Dec</Label>
-    <String>+25 Pragmatic, Precursor Bio-Replicator-P Improvement</String>
+    <String>+25 Pragmático, Melhoria de Bio-Replicador-P Precursor</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorBio-ReplicatorEvent_Merciless_Bonus_Name</Label>
-    <String>The people can have whatever food is left after our soldiers get fed.</String>
+    <String>O povo pode ter qualquer alimento que sobrar depois que nossos soldados forem alimentados.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorBio-ReplicatorEvent_Merciless_Bonus_Dec</Label>
-    <String>+25 Malevolent, Precursor Bio-Replicator Improvement and +10% Soldering.</String>
+    <String>+25 Malévolo, Melhoria do Bio-Replicador Precursor e +10% de soldados.</String>
   </StringTable>
  
   <StringTable>
     <Label>ElementalExtractorEvent_Name</Label>
-    <String>Elemental Extractor</String>
+    <String>Extrator Elemental</String>
   </StringTable>
  
   <StringTable>
     <Label>ElementalExtractorEvent_Dec</Label>
-    <String>One of our scouts has found a mysterious artifact in the outer solar system. It seems to be a mining tool, capable of quickly locating and extracting precious metals. It requires a lot of power to use, but we could certainly deploy it as a planetary improvement. Alternately, we could take it apart to learn some of its secrets.</String>
+    <String>Um de nossos batedores encontrou um artefato misterioso no sistema solar externo. Parece ser uma ferramenta de mineração, capaz de localizar e extrair rapidamente metais preciosos. Ela requer muita energia para ser usada, mas certamente poderíamos implantá-la como uma melhoria planetária. Alternativamente, poderíamos desmontá-lo para aprender alguns de seus segredos.</String>
   </StringTable>
  
   <StringTable>
@@ -700,32 +700,32 @@ Ela tem uma arma estranha que parece funcionar muito como uma arma de feixe padr
  
   <StringTable>
     <Label>ElementalExtractorEvent_Benevolent_Bonus_Name</Label>
-    <String>Take it apart. We need to learn how to boost all of our mining operations, not just those on a single world.</String>
+    <String>Desmonte-o. Precisamos aprender como impulsionar todas as nossas operações de mineração, não apenas aquelas em um único mundo.</String>
   </StringTable>
  
   <StringTable>
     <Label>ElementalExtractorEvent_Benevolent_Bonus_Dec</Label>
-    <String>+25 Benevolent, +1 Resource to all mining bases.</String>
+    <String>+25 Benevolente, +1 Recurso para todas as bases de mineração.</String>
   </StringTable>
  
   <StringTable>
     <Label>ElementalExtractorEvent_Neutral_Bonus_Name</Label>
-    <String>Study it as it's deployed. Even if tinkering reduces it's efficiency, this should maximize our profit.</String>
+    <String>Estude-o à medida que ele é implantado. Mesmo que o conserto reduza sua eficiência, isto deve maximizar nosso lucro.</String>
   </StringTable>
  
   <StringTable>
     <Label>ElementalExtractorEvent_Neutral_Bonus_Dec</Label>
-    <String>+25 Pragmatic, Elemental Extractor Improvement with +5% colony wealth.</String>
+    <String>+25 Pragmático, Melhoramento do Extrator Elemental com +5% de riqueza em colônia.</String>
   </StringTable>
  
   <StringTable>
     <Label>ElementalExtractorEvent_Merciless_Bonus_Name</Label>
-    <String>Turn it on. With this we can squeeze every possible credit out of one of our colonies.</String>
+    <String>Ligue-o. Com isso, podemos espremer todo crédito possível de uma de nossas colônias.</String>
   </StringTable>
  
   <StringTable>
     <Label>ElementalExtractorEvent_Merciless_Bonus_Dec</Label>
-    <String>+25 Malevolent, More powerful Elemental Extractor Improvement.</String>
+    <String>+25 Malévolo, Mais poderoso Melhoramento do extrator elementar.</String>
   </StringTable>
  
   <StringTable>
@@ -735,7 +735,7 @@ Ela tem uma arma estranha que parece funcionar muito como uma arma de feixe padr
  
   <StringTable>
     <Label>PrecursorFabricatorEvent_Dec</Label>
-    <String>While approaching the inner solar system of one of our stars, a comet has recently broken up, revealing a strange Precursor device inside. It appears to be a fabrication device capable of manufacturing just about anything. It's an incredible gift, and there are a number of ways we could take advantage of it to boost this world.</String>
+    <String>Ao se aproximar do sistema solar interno de uma de nossas estrelas, um cometa se rompeu recentemente, revelando um estranho dispositivo Precursor no seu interior. Parece ser um dispositivo de fabricação capaz de fabricar praticamente qualquer coisa. É um presente incrível, e há uma série de maneiras que poderíamos tirar proveito dele para impulsionar este mundo.</String>
   </StringTable>
  
   <StringTable>
@@ -745,42 +745,42 @@ Ela tem uma arma estranha que parece funcionar muito como uma arma de feixe padr
  
   <StringTable>
     <Label>PrecursorFabricatorEvent_Benevolent_Bonus_Name</Label>
-    <String>Use it to improve our manufacturing and make our workers' lives a bit easier.</String>
+    <String>Use-o para melhorar nossa fabricação e tornar a vida de nossos trabalhadores um pouco mais fácil.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorFabricatorEvent_Benevolent_Bonus_Dec</Label>
-    <String>+25 Benevolent, Precursor Fabricator Improvement that boosts Manufacturing.</String>
+    <String>+25 Benevolente, Aperfeiçoamento do Fabricador Precursor que impulsiona a fabricação.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorFabricatorEvent_Neutral_Bonus_Name</Label>
-    <String>Improving our production could free up some of our workers to do other things.</String>
+    <String>A melhoria de nossa produção poderia liberar alguns de nossos trabalhadores para fazer outras coisas.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorFabricatorEvent_Neutral_Bonus_Dec</Label>
-    <String>+25 Pragmatic, Precursor Fabricator Improvement that also boosts Production.</String>
+    <String>+25 Pragmatico, Aprimoramento do Fabricador Precursor que também impulsiona a Produção.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorFabricatorEvent_Merciless_Bonus_Name</Label>
-    <String>No, only one way to use it. Put it to work building ships. Big ones. Right now.</String>
+    <String>Não, apenas uma maneira de usá-la. Colocá-lo para construir navios. Os grandes. Agora mesmo.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorFabricatorEvent_Merciless_Bonus_Dec</Label>
-    <String>+25 Malevolent, Precursor Fabricator Improvement, Boost Military Manufacturing.</String>
+    <String>+25 Malévolo, Melhoria do Fabricador Precursor, Impulsionar a Fabricação Militar.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorResearchNodeEvent_Name</Label>
-    <String>Precursor Research Node</String>
+    <String>Nó de pesquisa do Precursor</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorResearchNodeEvent_Dec</Label>
-    <String>We've found an unusual artifact that  contains the code for a limited form of artificial intelligence. Analysis suggests that it's completely benign, and was designed to passively boost the research efforts of whatever being it remains in the possession of.</String>
+    <String>Encontramos um artefato incomum que contém o código para uma forma limitada de inteligência artificial. A análise sugere que ele é completamente benigno, e foi projetado para impulsionar passivamente os esforços de pesquisa do que quer que seja que permaneça na posse dele.</String>
   </StringTable>
  
   <StringTable>
@@ -790,32 +790,32 @@ Ela tem uma arma estranha que parece funcionar muito como uma arma de feixe padr
  
   <StringTable>
     <Label>PrecursorResearchNodeEvent_Benevolent_Bonus_Name</Label>
-    <String>Let it ponder the mysteries of the galaxy. We'll see what it comes up with.</String>
+    <String>Deixe-o refletir sobre os mistérios da galáxia. Veremos o que ela nos propõe.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorResearchNodeEvent_Benevolent_Bonus_Dec</Label>
-    <String>+25 Benevolent, Precursor Research Node, Raw research points.</String>
+    <String>+25 Benevolente, Nó de pesquisa do Precursor, Pontos de pesquisa bruta.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorResearchNodeEvent_Neutral_Bonus_Name</Label>
-    <String>Build it a home and charge private sector researchers who want to access it.</String>
+    <String>Construir uma casa e cobrar dos pesquisadores do setor privado que queiram ter acesso a ela.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorResearchNodeEvent_Neutral_Bonus_Dec</Label>
-    <String>+25 Pragmatic, Precursor Research Node Improvement that also boosts wealth.</String>
+    <String>+25 Pragmático, Melhoria do Nó de Pesquisa do Precursor que também aumenta a riqueza.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorResearchNodeEvent_Merciless_Bonus_Name</Label>
-    <String>Emplace it on one of our primary research worlds to speed their efforts at finding new ways to kill things.</String>
+    <String>Colocá-lo em um de nossos principais mundos de pesquisa para acelerar seus esforços na busca de novas maneiras de matar as coisas.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorResearchNodeEvent_Merciless_Bonus_Dec</Label>
-    <String>+25 Malevolent, powerful Precursor Research Node Improvement.</String>
+    <String>+25 Malévolo, potente Melhoria do Nó de Pesquisa do Precursor.</String>
   </StringTable>
  
 </StringTableList>
