@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- DistantResources_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>DistantResources_MegaEvent_Message_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>A breakthrough in deep space scanning has been made. As a result we are now able to detect previously unknown Nodes of Antimatter and Elerium. This has both our Miners and our Military very excited.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DistantResources_MegaEvent_Message_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We should try and claim these new Resources before our enemeies would make weapons from them. [COLOR=BenevolentBlue](Benevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DistantResources_MegaEvent_Message_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Such valuable resource should not be left untapped. [COLOR=PragmaticGold](Pragmatic +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DistantResources_MegaEvent_Message_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our military can always make use of both Elerium and Antimatter. We should claim them at all cost. [COLOR=WarRed](Malevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

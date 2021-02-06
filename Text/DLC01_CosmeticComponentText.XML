@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+ 
+  <StringTable>
+    <Label>FounderModel_01_Name</Label>
+    <String>Founder Model 01</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FounderModel_01_Dec</Label>
+    <String>Founder Model 01</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FounderModel_02_Name</Label>
+    <String>Founder Model 02</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FounderModel_02_Dec</Label>
+    <String>Founder Model 02</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FounderModel_03_Name</Label>
+    <String>Founder Model 03</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FounderModel_03_Dec</Label>
+    <String>Founder Model 03</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FounderModel_04_Name</Label>
+    <String>Founder Model 04</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FounderModel_04_Dec</Label>
+    <String>Founder Model 04</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FounderModel_05_Name</Label>
+    <String>Founder Model 05</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FounderModel_05_Dec</Label>
+    <String>Founder Model 05</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FounderModel_06_Name</Label>
+    <String>Founder Model 06</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FounderModel_06_Dec</Label>
+    <String>Founder Model 06</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FounderModel_07_Name</Label>
+    <String>Founder Model 07</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FounderModel_07_Dec</Label>
+    <String>Founder Model 07</String>
+  </StringTable>
+
+</StringTableList>

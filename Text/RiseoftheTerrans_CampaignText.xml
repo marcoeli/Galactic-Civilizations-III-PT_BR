@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- CampaignText.XML -->
+ 
+  <StringTable>
+    <Label>RiseoftheTerrans_Name</Label>
+    <String>Rise of the Terrans</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RiseoftheTerrans_Haven_Name</Label>
+    <String>Haven</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RiseoftheTerrans_Haven_Dec</Label>
+    <String> January 2178: 10 years have passed since Earth has heard from the Arcean Empire. Tired of waiting, humanity now is ready for its first steps into the galaxy. Lead them as they found their first colonies, face their first challenges, and encounter their first galactic neighbor: The Xendar.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RiseoftheTerrans_Haven_ShortDec</Label>
+    <String> January 2178: 10 years have passed since Earth has heard from the Arcean Empire. Tired of waiting, humanity now is ready to take its first steps into the galaxy. Lead them as they found their first colonies, face their first challenges, and encounter the Xendar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RiseoftheTerrans_Haven_Haven_FACTION_TERRAN_Name</Label>
+    <String>United Earth</String>
+  </StringTable>
+  <StringTable>
+    <Label>RiseoftheTerrans_Haven_Haven_FACTION_GUILD_Name</Label>
+    <String>Stellar Guild</String>
+  </StringTable>
+  <StringTable>
+    <Label>RiseoftheTerrans_Haven_Haven_DLC_SPACEMONSTER_Name</Label>
+    <String>Space Monsters</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RiseoftheTerrans_Haven_ColonizeBlue_AlphaCentauri_Message</Label>
+    <String>Colonize Alpha Centauri</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RiseoftheTerrans_Haven_ColonizeBlue_ProximaUrsae_Message</Label>
+    <String>Colonize Proxima Ursae</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RiseoftheTerrans_Haven_ColonizeBlue_Haven_Message</Label>
+    <String>Colonize Haven</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RiseoftheTerrans_Haven_KillSpaceMonster_Message</Label>
+    <String>Kill Space Monster (Optional)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RiseoftheTerrans_Haven_DistroyStellerGuild_Message</Label>
+    <String>Confront the Stellar Guild</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RiseoftheTerrans_Xendar_Name</Label>
+    <String>Xendar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RiseoftheTerrans_Xendar_Dec</Label>
+    <String>Earth and its colonies have united; this new Terran Alliance is now threatened by the loss of one of its key world: Haven.  A race known only as the Xendar has taken the world, and all the colonists have been lost. Lead by Earth, the remaining worlds of the Terran Alliance has vowed revenge.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RiseoftheTerrans_Xendar_ShortDec</Label>
+    <String>Earth and its colonies have united; this new Terran Alliance is now threatened by the loss of one of its key world: Haven.  A race known only as the Xendar has taken the world, and all the colonists have been lost. Lead by Earth, the remaining worlds of the Terran Alliance has vowed revenge.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RiseoftheTerrans_Xendar_Xendar_FACTION_TERRAN_Name</Label>
+    <String>United Earth</String>
+  </StringTable>
+  <StringTable>
+    <Label>RiseoftheTerrans_Xendar_Xendar_Xendar_Faction_Name</Label>
+    <String>The Xendar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RiseoftheTerrans_Xendar_Retake_Haven_Message</Label>
+    <String>Re-Capture Haven</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RiseoftheTerrans_Xendar_Destoy_Xender_Message</Label>
+    <String>Eliminate the Xendar Menace</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RiseoftheTerrans_Xendar_ProtectEarth_Message</Label>
+    <String>Protect Earth</String>
+  </StringTable>
+ 
+</StringTableList>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- CampaignText.XML -->
+ 
+  <StringTable>
+    <Label>Mercenaries_Name</Label>
+    <String>Mercenaries</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_Rebirth_Name</Label>
+    <String>Mercenaries</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_Rebirth_Dec</Label>
+    <String>The Terran's return forces the Drengin to pull warships from their occupied worlds. The Torians take advantage of this to gain their freedom. But they are still in Drengin space and will be enslaved unless they claim this sector, even if that means dealing with the Mercenaries of the Galactic Bazaar.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_Rebirth_ShortDec</Label>
+    <String>The Terran's return forces the Drengin to pull warships from their occupied worlds. The Torians take advantage of this to gain their freedom. But they are still in Drengin space and will be enslaved unless they claim this sector, even if that means dealing with the Mercenaries of the Galactic Bazaar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_Rebirth_Mercenaries_DLC_Torians_Name</Label>
+    <String>Torian Regime</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_Rebirth_Mercenaries_FACTION_DRENGIN_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_Rebirth_Mercenaries_DLC_Arceans_Name</Label>
+    <String>Arcean Empire</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_Rebirth_Mercenaries_FACTION_TERRAN_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_Rebirth_CaptureBlight_Message</Label>
+    <String>Capture Blight II</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_Rebirth_ColonizeBlue_Ocean_Message</Label>
+    <String>Found colony in Drengin Territory</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_Rebirth_DestroytheDrengin_Message</Label>
+    <String>Destroy the Drengin (Optional)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_Rebirth_CaptureDarkSky_Message</Label>
+    <String>Capture Dark Sky</String>
+  </StringTable>
+ 
+</StringTableList>

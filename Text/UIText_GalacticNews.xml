@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- UIText_GalacticNews.xml -->
+ 
+<!-- Galactic News Text Strings -->
+ 
+  <StringTable>
+    <Label>TopFivePlanetApproval_InternalName</Label>
+    <String>TopFivePlanetApproval</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetApproval_NewsTitle</Label>
+    <String>Pesquisa anual da qualidade de vida de Bel</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetApproval_NewsDescription</Label>
+    <String>O Centro de Pesquisa Bel divulgou os resultados de sua extensa pesquisa com o objetivo de encontrar os planetas de maior conteúdo da galáxia conhecida.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetProduction_InternalName</Label>
+    <String>TopFivePlanetProduction</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetProduction_NewsTitle</Label>
+    <String>Os Cinco da Fortuna</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetProduction_NewsDescription</Label>
+    <String>Nossos editores de economia encontraram as colônias mais produtivas do espaço conhecido, mundos onde cada cidadão é uma engrenagem em uma máquina gloriosa.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetPopulation_InternalName</Label>
+    <String>TopFivePlanetPopulation</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetPopulation_NewsTitle</Label>
+    <String>Top 5 Destinos de encontros</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetPopulation_NewsDescription</Label>
+    <String>Os especialistas em estilo de vida e encontros da GNN sabem que há muito peixe na galáxia. Mas há ainda mais do que o normal nestes cinco mundos devido a suas populações maciças.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetResearch_InternalName</Label>
+    <String>TopFivePlanetResearch</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetResearch_NewsTitle</Label>
+    <String>Pesquisa da Universidade de Elite</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetResearch_NewsDescription</Label>
+    <String>O periódico semanal Zintor publicou seus rankings universitários anuais, identificando as melhores colônias da galáxia com base em suas culturas acadêmicas, de pesquisa e de bebida.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetFarming_InternalName</Label>
+    <String>TopFivePlanetFarming</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetFarming_NewsTitle</Label>
+    <String>Prêmio UPFP Breadbasket</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetFarming_NewsDescription</Label>
+    <String>O Programa Alimentar dos Planetas Unidos gerou sua lista dos maiores planetas contribuintes para a luta contra a fome galáctica.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetInfluence_InternalName</Label>
+    <String>TopFivePlanetInfluence</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetInfluence_NewsTitle</Label>
+    <String>Líderes do pensamento planetário</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetInfluence_NewsDescription</Label>
+    <String>A revista Being Magazine divulgou sua lista dos líderes de pensamento mais influentes da galáxia, os mais capazes de administrar todos os nossos assuntos para nós.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BottomFivePlanetApproval_InternalName</Label>
+    <String>BottomFivePlanetApproval</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BottomFivePlanetApproval_NewsTitle</Label>
+    <String>Vigilância da Corrupção Top 5</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BottomFivePlanetApproval_NewsDescription</Label>
+    <String>VileRant, o Centro de Reclamações Pós-Éticas divulgou sua contagem anual dos governos mais coercitivos e incompetentes da galáxia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveMostPowerfulCivs_InternalName</Label>
+    <String>TopFiveMostPowerfulCivs</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveMostPowerfulCivs_NewsTitle</Label>
+    <String>Cinco fortes</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveMostPowerfulCivs_NewsDescription</Label>
+    <String>A empresa privada de segurança ForceUse documentou as civilizações mais poderosas da galáxia, as mais capazes de influenciar o destino da galáxia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivApproval_InternalName</Label>
+    <String>TopFiveCivApproval</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivApproval_NewsTitle</Label>
+    <String>Levantamento da estabilidade</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivApproval_NewsDescription</Label>
+    <String>O site de viagens Galaxia divulgou sua lista das civilizações mais estáveis da galáxia, escolhas ideais para qualquer férias amigáveis para a família.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivProduction_InternalName</Label>
+    <String>TopFiveCivProduction</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivProduction_NewsTitle</Label>
+    <String>A Lista Lucre</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivProduction_NewsDescription</Label>
+    <String>O Instituto Lucre divulgou sua contagem das economias mais quentes da galáxia, proporcionando a seus usuários ainda mais oportunidades de investimento.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivPopulation_InternalName</Label>
+    <String>TopFiveCivPopulation</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivPopulation_NewsTitle</Label>
+    <String>Censo Galáctico da BIA</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivPopulation_NewsDescription</Label>
+    <String>A BIA, a agência atuarial galáctica, terminou de compilar seu censo galáctico, identificando quais são as facções mais populosas.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivResearch_InternalName</Label>
+    <String>TopFiveCivResearch</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivResearch_NewsTitle</Label>
+    <String>Auditoria de conhecimento da NTOR</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivResearch_NewsDescription</Label>
+    <String>Um estudo de estudos identificou as facções que publicaram mais trabalhos de pesquisa e foram mais longe em sua busca por tecnologias avançadas.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivFarming_InternalName</Label>
+    <String>TopFiveCivFarming</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivFarming_NewsTitle</Label>
+    <String>A Lista de Víveres</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivFarming_NewsDescription</Label>
+    <String>A Galactic Larder, uma publicação comercial para distribuidores de alimentos, publicou sua mais recente pesquisa sobre as civilizações mais bem alimentadas da galáxia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivInfluence_InternalName</Label>
+    <String>TopFiveCivInfluence</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivInfluence_NewsTitle</Label>
+    <String>TheStyle! Estilo de tendência!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivInfluence_NewsDescription</Label>
+    <String>A revista TheStyle! divulgou sua contagem das civilizações mais influentes da galáxia, aquelas cujo estilo é apurado por todos os outros sencientes, e até mesmo alguns dos animais mais inteligentes.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivBenevolent_InternalName</Label>
+    <String>TopFiveCivBenevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivBenevolent_NewsTitle</Label>
+    <String>As Massas doadoras</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivBenevolent_NewsDescription</Label>
+    <String>Embora normalmente desconfortáveis com listas desta natureza, os líderes de grupos religiosos de toda a galáxia acharam por bem honrar as civilizações mais responsáveis por melhorar o bem-estar dos seres sencientes.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivNeutral_InternalName</Label>
+    <String>TopFiveCivNeutral</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivNeutral_NewsTitle</Label>
+    <String>As civilizações mais racionais</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivNeutral_NewsDescription</Label>
+    <String>Ration, a revista dos pensadores não aliados, publicou mais uma vez uma lista das civilizações mais pragmáticas da galáxia, as mais capazes de tomar decisões difíceis e de se manterem fiéis a elas.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivMerciless_InternalName</Label>
+    <String>TopFiveCivMerciless</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivMerciless_NewsTitle</Label>
+    <String>A lista de vergonha</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivMerciless_NewsDescription</Label>
+    <String>A Organização Galáctica para o Diálogo publicou anualmente sua Lista da Vergonha das civilizações mais militantes, fortemente armadas e simplesmente desagradáveis da galáxia.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>WarWasDeclared_NewsTitle</Label>
+    <String>Isto significa guerra</String>
+  </StringTable>
+  
+</StringTableList>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- EXP4_CampaignShipClassText.xml -->
+ 
+  <StringTable>
+    <Label>EXP4M4CampaignTerranCrusader_Name</Label>
+    <String>T.A.S. Crusader</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4M4CampaignTerranCrusader_Dec</Label>
+    <String>The Flag ship of the Terran 1st Fleet, and the most powerful ship ever created by the Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignTerranCruiser_Name</Label>
+    <String>T.A.S. Cruiser</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignTerranCruiser_Dec</Label>
+    <String>Large beam-combat platform capable of filling space with deadly, glittering colors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignTerranCruiserD_Name</Label>
+    <String>T.A.S. Cruiser D</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignTerranCruiserD_Dec</Label>
+    <String>Large beam-combat platform capable of filling space with deadly, glittering colors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignTerranPaladin_Name</Label>
+    <String>T.A.S. Battle Hammer</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignTerranPaladin_Dec</Label>
+    <String>Medium size combat ship of balanced capabilities. Could form the backbone of any fleet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignTerranPaladinD_Name</Label>
+    <String>T.A.S. Battle Hammer D</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignTerranPaladinD_Dec</Label>
+    <String>Medium size combat ship of balanced capabilities. Could form the backbone of any fleet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignTerranFury_Name</Label>
+    <String>T.A.S. Fury</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignTerranFury_Dec</Label>
+    <String>Medium range ship, capable of all forms of combat, though excelling at none. Still pretty tough though.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignTerranFuryD_Name</Label>
+    <String>T.A.S. Fury D</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignTerranFuryD_Dec</Label>
+    <String>Medium range ship, capable of all forms of combat, though excelling at none. Still pretty tough though.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignTerranKnight_Name</Label>
+    <String>T.A.S. Knight</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignTerranKnight_Dec</Label>
+    <String>Short range combat vessel. It's versatile, with all the pros and cons that implies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignTerranKnightD_Name</Label>
+    <String>T.A.S. Knight D</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignTerranKnightD_Dec</Label>
+    <String>Short range combat vessel. It's versatile, with all the pros and cons that implies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignDrenginDreadnought_Name</Label>
+    <String>D.E.S. Skullcrusher</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignDrenginDreadnought_Dec</Label>
+    <String>Gigantic vessel designed for kinetic warfare. Will lower property values anywhere it shows up.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignDrenginDreadnoughtD_Name</Label>
+    <String>D.E.S. Skullcrusher D</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignDrenginDreadnoughtD_Dec</Label>
+    <String>Gigantic vessel designed for kinetic warfare. Will lower property values anywhere it shows up.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignDrenginBattleship_Name</Label>
+    <String>D.E.S. Dominator</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignDrenginBattleship_Dec</Label>
+    <String>Large kinetic-combat platform, capable of delivering massive amounts of kinetic energy to things it doesn't like.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignDrenginBattleshipD_Name</Label>
+    <String>D.E.S. Dominator D</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignDrenginBattleshipD_Dec</Label>
+    <String>Large kinetic-combat platform, capable of delivering massive amounts of kinetic energy to things it doesn't like.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignDrenginFrigate_Name</Label>
+    <String>D.E.S. Torturer</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignDrenginFrigate_Dec</Label>
+    <String>Medium size kinetic-warfare ship. The larger the slug-thrower, the larger the slugs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignDrenginFrigateD_Name</Label>
+    <String>D.E.S. Torturer D</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignDrenginFrigateD_Dec</Label>
+    <String>Medium size kinetic-warfare ship. The larger the slug-thrower, the larger the slugs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignDrenginGunboat_Name</Label>
+    <String>D.E.S. Xa'Tala</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignDrenginGunboat_Dec</Label>
+    <String>Mid range shootist, arrayed with kinetic weapons and armor. A mean, mean ship.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignDrenginGunboatD_Name</Label>
+    <String>D.E.S. Xa'Tala D</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignDrenginGunboatD_Dec</Label>
+    <String>Mid range shootist, arrayed with kinetic weapons and armor. A mean, mean ship.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP3CampaginAwardThalanLarge_Name</Label>
+    <String>Prophecy</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP3CampaginAwardThalanLarge_Dec</Label>
+    <String>Large combat vessel, versatile in nature. For the indecisive who still wants a nice big stick.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4M1CampaignCorvette_Name</Label>
+    <String>T.A.S. Furan</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4M1CampaignCorvette_Dec</Label>
+    <String>Medium size beam-warfare ship. If you need a lot of things burnt very quickly, this is your ship.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4M1CampaignFrigate_Name</Label>
+    <String>T.A.S. Tom Chick</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4M1CampaignFrigate_Dec</Label>
+    <String>Medium size kinetic-warfare ship. The larger the slug-thrower, the larger the slugs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4M1CampaignGuardian_Name</Label>
+    <String>T.A.S. Guardian</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4M1CampaignGuardian_Dec</Label>
+    <String>Short range, optimized for kinetic combat. An ornery little stone thrower.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignValkrie_Name</Label>
+    <String>T.A.S. Valkrie</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignValkrie_Dec</Label>
+    <String>Large beam-combat platform capable of filling space with deadly, glittering colors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignRanger_Name</Label>
+    <String>T.A.S. Ranger</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignRanger_Dec</Label>
+    <String>Medium size missile-warfare ship. Can put a lot of missiles into space very quickly.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignDestroyer_Name</Label>
+    <String>T.A.S. Destroyer</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignDestroyer_Dec</Label>
+    <String>Large missile-combat platform capable of spewing forth clouds of deadly missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignAltarianOverlord_Name</Label>
+    <String>A.R.S. Last Hope</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4CampaignAltarianOverlord_Dec</Label>
+    <String>Large beam-combat platform capable of filling space with deadly, glittering colors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4M4CampaignDefenseThalanAvatar_Name</Label>
+    <String>T.C.S. Ambassador</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4M4CampaignDefenseThalanAvatar_Dec</Label>
+    <String>Enormous vessel designed for beam combat. Doesn't play nice with others.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4M1CampaignTransport_Name</Label>
+    <String>T.A.S. Invader</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4M1CampaignTransport_Dec</Label>
+    <String>Large but fragile ship, packed with troops and vehicles, built to invade unfriendly planets.</String>
+  </StringTable>
+</StringTableList>

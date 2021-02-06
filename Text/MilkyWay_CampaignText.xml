@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- CampaignText.XML -->
+ 
+  <StringTable>
+    <Label>MilkyWay_Name</Label>
+    <String>Milky Way</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_Name</Label>
+    <String>Milky Way</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_Dec</Label>
+    <String>Play as the Terran Alliance, starting at Earth and exploring the Galactic Civilizations galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_ShortDec</Label>
+    <String>Play as the Terran Alliance, starting at Earth and exploring the Galactic Civilizations galaxy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_FACTION_TERRAN_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_FACTION_DRENGIN_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_FACTION_ALTARIAN_Name</Label>
+    <String>Altarian Resistance</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_FACTION_IRIDIUM_Name</Label>
+    <String>Iridium Corporation</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_FACTION_KRYNN_Name</Label>
+    <String>Krynn Syndicate</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_FACTION_YOR_Name</Label>
+    <String>Yor Singularity</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_FACTION_THALAN_Name</Label>
+    <String>Thalan Contingency</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_FACTION_ICONIAN_Name</Label>
+    <String>Iconian Refuge</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_MINOR_MARAUDER_Name</Label>
+    <String>Marauders</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_MINOR_DARK_YOR_Name</Label>
+    <String>Dark Yor</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_MINOR_BURRAN_Name</Label>
+    <String>Burran</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_MINOR_SNATHI_Name</Label>
+    <String>Snathi</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_MINOR_GAULOX_Name</Label>
+    <String>Gaulox</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_MINOR_KAXX_Name</Label>
+    <String>Kaxx Collective</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_MINOR_ODAIR_Name</Label>
+    <String>Odair Conclave</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_MINOR_EXIS_Name</Label>
+    <String>Exis Empire</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_MINOR_KLEPART_Name</Label>
+    <String>Klepart</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_MINOR_LANTERN_Name</Label>
+    <String>Lantern</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_MINOR_GOSSAMER_Name</Label>
+    <String>Gossamer</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_MINOR_ORPHICA_Name</Label>
+    <String>Orphica Enclave</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_FACTION_PIRATES_Name</Label>
+    <String>Space Pirates</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MilkyWay_MilkyWay_Win_Message</Label>
+    <String>All paths to victory are open.</String>
+  </StringTable>
+ 
+</StringTableList>

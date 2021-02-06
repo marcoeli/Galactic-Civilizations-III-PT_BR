@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+<!-- Created with the Crusade editor -->
+<!-- FACTION_TORIAN_TechFlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>TechTree_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Torain Tree</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetaryImprovement_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Planetary Settlement</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetaryImprovement_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Half the fun of settling into a new pool is setting it up to suit your needs. That's harder when the pool is on an alien planet, and the water is a smidge too acidic, but we've finally developed the tools and techniques to get around those issues.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetarySpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Our hydroponic operations have made great strides since we reached the stars. We can now begin considering specific areas we'd like to improve upon.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoAgriculturalAdaptation_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Hydroponic Farming</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoAgriculturalAdaptation_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Allows construction of improved farms. Increases food production.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoAgriculturalAdaptation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Adapting our agricultural expertise to fit a variety of alien environments has proven challenging, and taken many simultaneous advances in our understanding of water, aquacultural science, and algae. By moving these efforts into controlled facilities, our food production should go way up.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Optimizing our aquacultural processes will lead to a number of benefits which will help our civilization for a very long time. Until Torians stop needing food, really.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalOptimization1_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Accelerated Hydroponics</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalOptimization2_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Efficient Hydroponics</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalOptimization3_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Sustainable Hydroponics</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IntensiveFarming_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Advanced Hydroponic Farming</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IntensiveFarming_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Growing food on dry land is a distasteful notion, but thanks to our latest advanced hydroponics facilities, the average Torian diner should never know the difference.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FarmingFocus_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Farming Focus</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FarmingFocus1_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Hydroponic Focus</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FarmingFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>The microbes present in alien water react in unpredictable ways to Torian crops. We've only now learned how to protect our precious food from being consumed by these tiny beasts, which should lead to greater food production.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FarmingFocus2_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Hydroponic Adaptability Focus</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FarmingFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Torian scholars have finally selected the strains of plants which will adapt to the widest range of alien aquatic climates. By forcing Torian colonists to eat these crops, instead of what they actually want, we'll lower our hydroponic farm startup costs. We never told them colonization was going to be easy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FarmingFocus3_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Hydroponic Management Focus</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FarmingFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>aquacultural Torians have always tended towards secrecy, preferring to share their experience to their brood rather than their neighbors. If we can make them co-operate at least a little more - especially with Torians on other worlds - we can spread our best practices, reducing farm operational costs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LosslessFarming_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Automated Hydroponic Farming</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LosslessFarming_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Improvements in our recycling and nutrient delivery systems have led to almost perfectly efficient farms. Our farmers don't even need to get their hands damp now, and are actually getting a bit precious about it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalMastery_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Agricultural Mastery</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Our hydroponic facilities now provide an almost unlimited bounty, the Super Kelp doing almost all of the harvesting itself. But still our aquiculturalists insist that more can be done.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalMastery1_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Master Aquaculturists</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Finally our aquaculturists have gotten that weird taste out of anemones. We'd been wasting a lot of capacity trying to grow those, and now that Torians will start eating them again, our effective food production has gone way up.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalMastery2_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Aquatic Abundance</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Our hydroponics farms are now so perfectly efficient, so perfectly Torian, that many colonists now want to live on them. Our farm-to-table metrics are off the charts, and our population growth rate has never been higher.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Barren world were a nightmare for our kind, but thanks to expensive, massively wasteful water-genesis technology, life on barren worlds is now tolerable to Torians, and more or less as productive as anywhere else.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HabitatImprovement_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Our ability to manipulate the biosphere has improved to the point that we can treat entire continents as a canvas, lacing them with canals and ponds as we best see fit.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarfareTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Protection</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarfareTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>The Drengin are still out there. And possibly even worse aliens still. From this point on, our ships must be armed.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetaryInvasion_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>We've developed the equipment and tactics necessary to land on a world and take it by force. It's a little hard to imagine that Torians are now the alien invaders, but we must accept the way this galaxy has made us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GravitationalFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>By directing powerful gravitational fields at enemy ground defenses, we can induce flooding and even tectonic activity. The waves shall crash down on our enemy's heads.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefenseSystemTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Torians are notoriously squishy, and otherwise difficult to protect in a ship that operates in hard vacuum. But we've got to do something, or they're going to stop getting in the ships.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CommunicationsTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>We already know we're not alone in this galaxy. In fact we've already been enslaved by other people in this galaxy. Let's develop the technologies to turn potential enemies into friends before that happens again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomacyTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>The profit potential an alliance with our neighbors offers is something we should always consider. And failing that, the cost of talking with them will be a fraction of the cost of going to war with them and a fraction the cost of avoiding slavery.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoEntertainment_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Healing Waters</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoEntertainment_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Allows for the constuction of the Healing Waters Improvement</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoEntertainment_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Despite our ability to live on air breathing worlds, we still forever yearn for the healing waters of our ancestors. We now have the ability to bring these waters to new worlds, for our people to bathe in and be refreshed.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PopulationDiversion_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Wellness Falls</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PopulationDiversion_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Allows for the construction of the Wellness Falls Improvement.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PopulationDiversion_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>The presence of the Wellness Falls will not only refresh and revitalize the morale of our people, it will increase their productivity when they return to their everyday lives.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Approval Focus</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Increases approval on specific planets.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Our cultural engineers inform us that some well planned manipulations of our cultural materials could make our people happier with what they already have. Which seems too good of an opportunity to pass up.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus1_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Easy to Please</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus1_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Increase the morale of your colonies.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>We have discovered that with little more than the sound of running water, we can make people feel more confident and happy without all the costly infrastructure that normally requires.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus2_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Easily Distracted</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus2_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Makes building Entertainment Improvements much cheaper.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>We have discovered that our efforts in keeping our people distracted have paid off. We can now build anything they want and they'll think it's fun and terrific.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus3_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Eager to Please</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus3_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Greatly reduces the Maintenance required by Entertainment Improvements.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Not only are our people easier to please, they will now do most of the work it takes to distract themselves, for free.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SuperiorRecreation_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Cleansing Tide</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SuperiorRecreation_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Allows the construction of a Cleansing Tide Improvement.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SuperiorRecreation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>We have learned how to reproduce the waters of our home world on any planet. With this technology our citizens, no matter how far from their home world, will be able to replenish themselves in the Cleansing Tides of Toria.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Rebuilding</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationTech_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>For generations Torians have dreamed of setting foot and flipper on other worlds. That dream is now a reality. Feet are being set on other worlds, and flippers are being dipped.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+</FlavorTextDefs>

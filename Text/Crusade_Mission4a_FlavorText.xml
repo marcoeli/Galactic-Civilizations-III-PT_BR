@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Crusade_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>Pushed back to their homeworld, the Drengin still refuse to surrender. With no other way to protect humanity from their threat, D.L. Bradley unleashes the full power of the Bane upon them, fulfilling a destiny written a long time ago...</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>Despite its incredible strength, the Terran fleet failed to defeat the Drengin. Dark days for humanity loom ahead.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_TurnOneMessage_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Admiral Bradley. We are sorry to see that humanity has ignored our warnings about the Bane.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_TurnOneMessage_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have. Are you here to stop us?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_TurnOneMessage2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>No. Despite all that has occured, humans are still our cousins. We have more in common with you than any other in this galaxy. Your tragedy is our own. We will stand with you until the end.
+
+And to be honest? I wish to see the end of the story of the Bane with my own eyes.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_TurnOneMessage2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This isn't the end, Altarian. It's the beginning of something better.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_TurnOneMessage2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Good. Just don't stand in our way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ScoutUnhide_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Admiral, our ships have detected a Drengin scout that's just emerged from that radiation storm. If it contacts Drengi, the Drengin will have enough time to prepare for our assault.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ScoutUnhide_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Do we have anyone in range to engage it?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ScoutUnhide2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Close. But not close enough. It's probably too late anyways. It will be transmitting back to Drengi any second now.
+
+Unless. The Bane. If we repositioned the Shard in front of its emitter coil... we could focus its energy to strike the scout even from this distance. We'd have to act now though.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ScoutUnhide2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Do it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ScoutUnhide2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>No, let the scout go. Let's not tip our hand yet.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ScoutUnhide3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Powering up the Bane now, sir. The Shard is focusing the power as expected. Greatly reduced output with it arranged this way, obviously, but...
+
+Boom. 
+
+Bye bye scout.
+
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ScoutUnhide3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Good work.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ScoutUnhide4_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Very well, sir. It's a shame, though. This might give them enough time to rush some more capital ships into production.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ScoutUnhide4_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We'll blow those up when we get to them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ColonyUnhide1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Admiral, we've detected a Drengin colony with something... obscene on it. Our scans suggest that this is the world the Drengin have based much of their recent Spore research.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ColonyUnhide1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's killed a lot of people.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ColonyUnhide1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well let's get rid of it then.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ColonyUnhide2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Invading the world might be difficult, sir. Our troops would almost certainly be infected if we land there. I bet the Altarians would be too. Even a conventional orbital bombardment might be risky, given the Spore's reported xenopsychological capabilities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ColonyUnhide2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Those filthy damned Drengin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ColonyUnhide2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They can't be invulnerable.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ColonyUnhide3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well there's always the Bane, sir. If we move the Crusader within range of the planet, we could probably destroy the research facility... along with the entire civilian population of the world.
+
+It's a big step to take.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ColonyUnhide3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Drengin would do the same to us. So I'll consider it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ColonyUnhide3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I'll have to think about that.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_CrusaderAttacksColony_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Crusader is in position, Admiral. Are you ready to procede with the destruction of this colony?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_CrusaderAttacksColony_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes I am.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_CrusaderAttacksColony_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>No, I've changed my mind.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_CrusaderAttacksColony2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Ok. Powering up the Bane now. Shard is resonating as expected. Power output set to 40%.
+
+And... wait! We're being contacted by the Altarians!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_CrusaderAttacksColony2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Ugh. Put them through.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_CrusaderAttacksColony2A_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Please don't use the Bane like this, Admiral Bradley. You know this will lead you down a path from which you cannot return.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_CrusaderAttacksColony2A_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We can't risk the Drengin unleashing this virus again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_CrusaderAttacksColony2B_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Using this power once will give you a taste for it, Admiral. You will become addicted to it, and see both the opportunity and need for it everywhere you turn.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_CrusaderAttacksColony2B_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's enough. Close the channel.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_CrusaderAttacksColony3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Bane is fully charged. We're firing now.
+ 
+It's done. We're showing almost total devestation on the surface. I hope you know what you're doing, sir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_CrusaderAttacksColony3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Getting rid of that damned Spore virus once and for all.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_CrusaderAttacksColony3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It had to be done.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_CrusaderAttacksColony4_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We're getting a radio signal from the planet, sir. There are survivors! They've pledged to join our Empire if we halt all further attacks.
+
+I'll let them know that's acceptable for now. We can consider their fate later when some human troops arrive.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_CrusaderAttacksColony4_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's fine. Let's carry on.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_CrusaderAttacksColony4_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Huh. We're not an Empire.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ColonyConquered_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Admiral! Why did you order that transport to land there!? Every marine who set foot on the surface has fallen ill! Worse, there seems to be some kind of xenopsychological effects coded deep within this variant of the Spore virus. Humans in orbit, even throughout the sector are starting to come down ill. 
+
+What have we done?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_ColonyConquered_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Oh no....</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_DrengiUnhide_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>There's Drengi, sir.
+
+My gosh. That is the most hardened planet I've ever seen. We could throw invasion transports at that for years and not make a dent.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_DrengiUnhide_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We've got something better than that.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_DrengiUnhide_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I wasn't intending to invade it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_DrengiUnhide2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Right. The Bane.
+
+With all the Drengin on that planet, we'll have to use its full power. I doubt even the planet would survive. We'll need to put the Crusader directly in front of Drengi to do it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_DrengiUnhide2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Then that's just what I'll do.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_DrengiAttack_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We're here, sir. 
+
+Wait. The Drengin are trying to open a channel with us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_DrengiAttack_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Put them through.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_DrenginBeat1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Have you come to exterminate us, human?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_DrenginBeat1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Would you like that?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_DrenginBeat2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Finally you cast off your cloak! Good. Let all the galaxy see your true nature. All will know what monsters you are.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_DrenginBeat2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You're the only monster here, Lord Kona.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_DrenginBeat2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I think the galaxy will thank us for this.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_DrenginBeat3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Fine. Get it over with.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_DrenginBeat3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Get this scum off my screen.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_DrengiAttack2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We'll power up the Bane now, Admiral.
+
+Any words for the occasion?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_DrengiAttack2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We're sorry it came to this. But humanity will never be made slaves again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_DrengiAttack2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>No. They don't deserve the honor.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_DrengiAttack3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Got it.
+
+The Bane's reaching full power now sir. On your viewscreen...</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4a_DrengiAttack3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Let's see it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

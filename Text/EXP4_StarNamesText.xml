@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- StarNamesText.xml -->
+ 
+  
+ <!-- Exp4  -->
+   <StringTable>
+    <Label>KoraStar_StarName</Label>
+    <String>Ra'nagoh</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>DrathaStar_StarName</Label>
+    <String>Drathis</String>
+  </StringTable>
+
+</StringTableList>

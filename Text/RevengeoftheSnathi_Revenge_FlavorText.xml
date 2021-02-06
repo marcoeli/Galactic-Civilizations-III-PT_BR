@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- RevengeoftheSnathi_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Revenge_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>At last the Snathi have taken their rightful place in the galaxy. They have established a strong foothold in an immense galaxy of foolish races. Soon they will destroy them all.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Revenge_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>The mighty Snathi Revenge have fallen. Despite their vicious nature, they were just too small and puny to be taken seriously by the rest of the galaxy. Their destiny has been buried once and for all in a shoebox out in the yard.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_TheScout_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Lord Snarky.
+The shipyard we have hidden in the asteroid belt has finally been able to patch together a space-worthy vessel that we think is fast enough to avoid the Wardens. Unfortunately its range is dismal, but it should be able to survey the immediate area, and find out what is left of our foes.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_TheScout_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent. Let us discover what has happened in our long absence.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_TheScout_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What can you tell me about the Warden positions?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_TheScout1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our survey ship has already reported spotting Arnoran Wardens in the area, including at least one Starbase. They do not seem to be interested in pursuing us as long as we stay near the planet.
+
+We can only hope they do not spot our shipyard before we can build something that can take them out.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_TheScout1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It is only a matter of time before we find a way to destroy those robotic monstrosities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_TheScout2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have located three Warden Starbases nearby. The Wardens themselves seem to be patrolling the area almost randomly. But every time we have gotten close to one it has been disastrous.
+
+We can only be thankful that they do not seem interested in capturing our planet, just keeping us on it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_TheScout2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will eradicate them one and all, when our new shipyard reaches full capacity.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_TheScout2_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That is if they do not destroy our new shipyard, as they have the last 342.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_DistressCall_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Lord Snarky.
+
+Our scout ship is receiving a distress call from a nearby ship. It is not from a race that we have record of. From our scans, their ship looks formidable.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_DistressCall_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Put the distress call through to me, quickly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Help_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>(Voice Only)
+If anyone is out there, this is the T.A.S. Revenge III, we are in desperate need of assistance. We have encountered some sort of giant robotic vessel that has captured us in some sort of energy field. It has immobilized our ship and is slowly killing our crew. If anyone can hear us, please help...</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Help_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Greetings T.A.S. Revenge, it seems you have stumbled upon one of the Wardens. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_HelpResponse1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Is someone out there? This is the Terran Alliance ship Revenge III, all our sensors are down. Can you help us? We won't last long without assistance in this energy field. 
+
+We have not seen any technology like this since we defeated the Dread Lords.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_HelpResponse1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You speak of the Dread Lords like you know anything of them?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_HelpResponse1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Since you blaspheme our Creators, you will receive no aid here.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_HelpResponse1-1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, the Dread Lords, they were defeated by the Terran Alliance and its allies ten years ago.
+
+We have just returned to this universe to liberate our home world, but were caught in this trap and are unable to rejoin the main fleet on the final attack on Earth.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_HelpResponse1-1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Fools, The Dread Lords were our Creators.  We will make you pay for your crimes against them. [COLOR=WarRed](Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_HelpResponse1-2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your Creators? Who is this? We mean no harm to you. We simply need assistance. Our life support is failing. Please help.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_HelpResponse1-2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have no interest in helping you, we will be able to make good use of your vessel once you have all died. [COLOR=WarRed](Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Vulnerable_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Lord Snarky!
+
+Our scans of the trapped Terran ship show that the energy trap is dissipating. The scans also show that the crew is dead.
+
+We should salvage the ship.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Vulnerable_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent. This ship might be the key we have been looking for to escape this prison.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_GetRevenge_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The ship is quite advanced and it has suffered very little damage, other than the strange pink corpses lying all over the place. 
+
+Once we jettison them, we should be ready to face even the most powerful warden.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_GetRevenge_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent! Give it a shakedown run by trying to kill something big.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Towers_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have located the Arnoran Warden base that surrounds the system. 
+
+If we are clever, we may now have the firepower to destroy them and escape this wretched corner of the galaxy at last.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Towers_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>At last! Who would have known that the cursed Wardens would provide us with the key to their doom?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Towers_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Use caution, there may be more powerful Warden ships out there. And we can't afford to lose that ship.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_WardenStation1Destroyed_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>While scavenging the wreckage of the Warden Space Station we were able to find some interesting technology that should prove very useful.
+
+(+1500 Research Points)
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_WardenStation1Destroyed_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent. Now we just need to find some planets to invade.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_WardenStation2Destroyed_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our salvage crews were able to find more valuable technology in the wreckage of the Warden station. With it we think we will be able to put together large enough fleets to take out the Wardens by sheer numbers.
+
+(+2000 Research Points)</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_WardenStation2Destroyed_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent. We will teach them that small ships can be deadly when in a pack.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_WardenStation3Destroyed_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent news from the crew. Scavenging this Warden space station, we have found the remains of their manufacturing system. By studying it, we have found how they were able to build such large ships. 
+
+(+2500 Research Points)</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_WardenStation3Destroyed_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>At last we will be able to build war ships worthy of our destiny!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_WardenStation4Destroyed_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Taking revenge on the Wardens continues to be profitable. We have been able to salvage more technologies from this Warden station.
+
+(+1000 Research Points)</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_WardenStation4Destroyed_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Destroying our ancient foes is its own reward.  The technology will also prove useful.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_WardenStation5Destroyed_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Taking revenge on the Wardens continues to be profitable. We have been able to salvage more technologies from this Warden station.
+
+(+1000 Research Points)</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_WardenStation5Destroyed_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Destroying our ancient foes is its own reward.  The technology will also prove useful.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_WardenStation6Destroyed_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Taking revenge on the Wardens continues to be profitable. We have been able to salvage more technologies from this Warden station.
+
+(+1000 Research Points)</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_WardenStation6Destroyed_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Destroying our ancient foes is its own reward.  The technology will also prove useful.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Stepstone_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>While scavenging through the wreckage of some of these Warden vessels, we have come across coordinates of a nearby colonizable world. 
+
+We think we can reach it with our existing technology and it could be a stepping stone out of this desolate corner of the galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Stepstone_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent. The sooner we escape this infernal limbo the better. [COLOR=PragmaticGold](Pragmatic)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Stepstone_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our highest priority is to make sure the Wardens have been wiped from the galaxy. After that we can worry about claiming new worlds. [COLOR=WarRed](Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_ColonizeStepstone_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The planet itself is nothing special.  Yet, we have found that controlling it puts us within range of several more star systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_ColonizeStepstone_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>At last we will be able to begin building an Empire worthy of our destiny.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Paradise_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Lord Snarky,
+
+While colonizing our new world, we have found the wreckage of an alien survey ship. We have deciphered the ship's log and found the quadrants of an amazingly high class world.  The planet is not far from our current location.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Paradise_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This will be an excellent den for us until we can reclaim our ancient homeworld.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_ColonizeParadise_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>My Lord,
+
+This new world is plentiful and strategically placed. From here we should be able to reach the Terran occupied section of the galaxy with very little effort.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_ColonizeParadise_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent. Now we can build fleets worthy of our Dread Lord Creators.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Pirates_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It seems that there are still pirates in the galaxy, even this close to Warden controlled space. We have destroyed one of their bases. While we were not able to salvage much, we did find quite a bit of valuable gear. 
+
+(+2500 Credits)</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Pirates_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Some things never change.  Some beings will always be thieves and murders. We will kill them last.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Terrans_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What have we here?
+
+It seems that one of our ships has been infested with rodents! </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Terrans_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Rodents! You fools!! We are the Snathi Revenge, the heirs of the Dread Lords!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Terrans_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You must be the Terran Alliance, It does not seem possible such pathetic creatures could have defeated the Dread Lords.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Terrans1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Really? I would have expected such great beings to be a bit more grand.
+
+We could be convinced to leave you in peace. Yet, we have a long history of exterminating rodents and you are an ugly bunch.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Terrans1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have no interest in leaving you alive. Your blasphemy will not go unpunished.  [COLOR=WarRed](Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Terrans2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Oh yes, you heard about that, not only did we defeat your precious Creators, we have wiped them from the Galaxy once and for all. 
+
+We will gladly do the same to their little pets if you continue to cause us trouble.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_Terrans2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You can try. We will destroy you and use your own ships and technology to do it.  [COLOR=WarRed](Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_ByTheWay_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Hello again little guy, I thought your cute little noses looked familiar. It seems we have  made a colony of your former home world.
+
+So I guess you can keep the ship you took, we are can be content with your ancestral home in exchange. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_ByTheWay_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Fools, we will give you one chance to turn over Snathi Prime to us, before we come to take it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_ByTheWay_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You hairless slugs! We will take back Snathi Prime, and drive your pathetic race from this sector.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_HelloDrengin_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Ho Ho, if it isn't the mighty Snathi.
+
+We have heard of your ferocity but expected you look a bit less tasty.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_HelloDrengin_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Ah, the Drengin Empire. It seems you are having a little Human problem at the moment. [COLOR=PragmaticGold](Pragmatic)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_HelloDrengin_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have heard of how you cooperated with the Dread Lords, for this we will kill you last. [COLOR=WarRed](Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_HelloDrengin1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They have proven to be a bit of a pest but we will crush them soon enough. 
+
+If you are wise you will stay out of our way and we might let you live when we are done with them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_HelloDrengin1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will destroy them, and take back our home. We can wait until then to deal with you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_HelloDrengin1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have no interest in your demands. We will crush the Terrans and then come for you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_HelloDrengin2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Ha! You are courageous little furballs I will admit. If you come near our worlds we will exterminate you. 
+
+Stay out of our way!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_HelloDrengin2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You will pay for your insolence.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_HelloDrengin1a_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Ha! You are courageous little fur balls I will admit. We will take your homeworld from the humans and reduce it to a glowing cinder. Then we will hunt down your entire race and turn you into our pets.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_HelloDrengin1a_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You will pay for your insolance and we will gnaw on your bones.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_TerransSaphire_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well, well, well.
+
+The little squirrels have found their way out of the maze. They've even managed to capture one of our weakest new colonies while we have been distracted by the Drengin.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_TerransSaphire_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Terran scum! We are at your door step. Soon we will take back our homeworld!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_TerransSaphire_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I suggest that you stop while you are ahead.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_GoCaptureTucker_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Lord Snarky.
+
+We have been looking through the ruins of the Terran improvements and found a communication message from a nearby planet. It appears that their headquarters is in this sector.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_GoCaptureTucker_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent. We will take their stronghold away from them and make the Terrans pay for their crimes against the Dread Lords. [COLOR=WarRed](Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_GoCaptureTucker_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must stay focused on retaking Snathi Prime. We will deal with the rest of the Terran worlds later. [COLOR=PragmaticGold](Pragmatic)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_CaptureTucker_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>My Lord.
+
+We have the Terrans on the run! Their sector headquarters has fallen and we have been able to salvage most of their improvements. These systems should be capable of building new Snathi fleets very quickly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_CaptureTucker_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent! We will crush each one of their worlds. They will pay for desecrating our home with their filth.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_SurveyShipLost_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have lost our first ship capable of finding our way out of this prison. 
+
+We will have to start all over again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_SurveyShipLost_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>oops.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_TerransRun_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Lord Snarky, you have proven to be harder to step on than we thought. You can have this pathetic corner of space.
+
+Once we have retaken Earth, we will return and exterminate you like the pest you are.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_TerransRun_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Run, pink monkey, run! I suggest you keep running, because the Snathi Revenge will be coming for you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_TakeSnathiPrime_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Lord Snarky, you have proven your greatness. We have taken back our ancestral world and run the Terran Alliance out of our home sector.
+
+Now we can rebuild and prepare for the greatest battle of all: the liquidation of all other life in the galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RevengeoftheSnathi_Revenge_TakeSnathiPrime_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Soon the entire galaxy will tremble at the sound of our itty bitty feet. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- AnomalyDefText.xml -->
+ 
+ 
+  <StringTable>
+    <Label>PrecursorAnomaly_Name</Label>
+    <String>Anomalia Precursora [COLOR=WarRed](Muito defendido)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorProductionAnomaly_Name</Label>
+    <String>Produção de Anomalias Precursoras</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorProductionAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Depois de assegurar o artefato Precursor, nossos cientistas encontraram uma nova tecnologia que aumentará muito a Produção Bruta de nosso mundo.[/COLOR]
+
+[ICON=Stat_Raw_Productive_Icon] +1 Produção bruta para todas as colônias</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchAnomaly_Name</Label>
+    <String>Anomalia na pesquisa de precursores</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Depois de proteger o Artefato Precursor, nossos cientistas descobriram algumas novas tecnologias surpreendentes que devem facilmente fazer avançar nossa Pesquisa atual.
+[/COLOR]
+[ICON=Stat_Research_Icon] + 300 pontos de pesquisa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorCreditsAnomaly_Name</Label>
+    <String>Anomalia da Riqueza Precursora</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorCreditsAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Depois de estudar este artefato precursor, nossos Pesquisadores estão muito entusiasmados.  Eles encontraram artefatos valiosos que irão aumentar a renda de toda a nossa civilização.[/COLOR]
+
+[ICON=Stat_Credits_Icon] +10% to income of all colonies</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorInfluenceAnomaly_Name</Label>
+    <String>Anomalia de Influência do Precursor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorInfluenceAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Depois de capturar o artefato Precursor, encontramos um tesouro da arte do Precursor. É tão impressionante que o tesouro aumentou muito nossa Influência por toda a galáxia.[/COLOR]
+
+[ICON=InfluenceGrowth_Icon] +10% Influência em todas as colônias</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorHitPointsAnomaly_Name</Label>
+    <String>Anomalia dos Hit Points precursor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorHitPointsAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Dentro do campo de detritos deste artefato precursor, encontramos uma nova e incrível liga que aumentará muito a durabilidade de nossos navios.[/COLOR]
+
+[ICON=Hitpoints_Icon] +10% Hit Points para todos os navios</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorMoraleAnomaly_Name</Label>
+    <String>Anomalia Moral do Precursor </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorMoraleAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]No fundo deste artefato precursor, nossos pesquisadores encontraram um estranho dispositivo que infunde um profundo senso de paz a qualquer pessoa na mesma sala. Eles pensam que podem reproduzir esta tecnologia para as massas.[/COLOR]
+
+[ICON=Stat_Morale_Icon] +1 Moral para todas as colônias.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorManufacturingAnomaly_Name</Label>
+    <String>Anomalia de fabricação dos precursores</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorManufacturingAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Este artefato precursor parece ter sido alimentado por um estranho novo tipo de células de energia. Pensamos que podemos aprender com elas como aumentar a eficiência da capacidade de fabricação de todas as nossas colônias.[/COLOR]
+
+[ICON=Stat_Manufacturing_Icon] +10% fabricação para todas as colônias</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorRangeAnomaly_Name</Label>
+    <String>Precursor Range Anomaly</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorRangeAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Muito para nossa surpresa, encontramos uma atmosfera respirável dentro deste artefato precursor. O dispositivo usado para manter este artefato durou vários milênios.  Estudá-lo provou ser bastante útil para nossos engenheiros.[/COLOR]
+
+[ICON=Stat_Temp_Icon] +10% alcance para todos os navios</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorEleriumAnomaly_Name</Label>
+    <String>Anomalia do Precursor Elerium</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorEleriumAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Este artefato precursor parece ter sido usado uma vez como um armazém de tipos Encontramos uma grande quantidade de Elerium já refinado e pronto para uso.[/COLOR]
+
+[ICON=Stat_Elerium_Icon] +5 Elerium</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAntimatterAnomaly_Name</Label>
+    <String>Anomalia de Antimatéria do Precursor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAntimatterAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Dentro deste artefato precursor, encontramos um Campo de Contenção maciço com Antimatéria perfeitamente bom, pronto para ser usado e "compartilhado" com nossos inimigos.[/COLOR]
+
+[ICON=Stat_Antimatter_Icon] +5 Antimatéria</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorLogisticsAnomaly_Name</Label>
+    <String>Anomalia logística do Precursor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorLogisticsAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Enquanto estudamos como este artefato precursor tem sido capaz de funcionar por milhares de anos, descobrimos novas técnicas que ajudarão muito a nossa capacidade de manter grandes frotas.[/COLOR]
+
+[ICON=ShipLogistics_Icon] +5 Logística</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorMovesAnomaly_Name</Label>
+    <String>Anomalia da velocidade do precursor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorMovesAnomaly_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Este artefato precursor parece ter usado um método previamente desconhecido para conter seu campo Hyperdrive. Este método é muito mais eficaz do que qualquer outro que temos agora. Devemos ser capazes de adaptar esta nova técnica para aumentar a velocidade de todos os nossos navios.[/COLOR]
+[ICON=Moves_Icon] +10% Movimentos para todos os navios</String>
+  </StringTable>
+ 
+</StringTableList>

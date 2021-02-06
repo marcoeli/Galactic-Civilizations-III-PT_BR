@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- FactionText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_TERRAN_Name</Label>
+    <String>Terran Remnant</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_TERRAN_ShortName</Label>
+    <String>Terran</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_TERRAN_LeaderName</Label>
+    <String>Commander Cory</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_TERRAN_Dec</Label>
+    <String>A small band of surviving Terran ships, who have formed a small fleet and begun a quest to find a new home.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_TERRAN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_TERRAN_Callsign</Label>
+    <String>T.A.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_TERRAN_StartupTitle</Label>
+    <String>In Search of Refuge</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_TERRAN_StartupDescription</Label>
+    <String>A small group of ships united under the frigate T.A.S. Revenge and its commander, Marcus Cory have fled after the Drengin takeover of their former worlds. Now they seek a safe place to recover and eventually rebuild the once great Terran Alliance. 
+
+They have found themselves in a distant corner of the galaxy long isolated by nebulae and cosmic storms. They are hoping to find sanctuary in this vast void.
+
+They are not alone.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_TERRAN_StartupTraitsDescription</Label>
+    <String>The Terran remnant has nothing but a small fleet of battered near-obsolete war ships, and one precious colony ship. Their only hope is to get this colony ship to a new world before their supplies run out.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_DRENGIN_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_DRENGIN_ShortName</Label>
+    <String>Drengin</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_DRENGIN_LeaderName</Label>
+    <String>Lord Kona</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_DRENGIN_Dec</Label>
+    <String>The Drengin are a profoundly evil and warlike civilization. Exceedingly clever and vicious, there are few beings capable of meeting a Drengin and not becoming its next meal.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_DRENGIN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_DRENGIN_Callsign</Label>
+    <String>D.E.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_DRENGIN_StartupTitle</Label>
+    <String>An Entire Galaxy to Conquer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_DRENGIN_StartupDescription</Label>
+    <String>The Drengin are one of the older races in the galaxy. They have a history rich with conquest and bloodshed and of  dominating the lesser species of their planet. 
+
+Cruel, but inventive, many of their victims have discovered that the Drengin are not mindlessly stupid, and can even be quite creative when it comes to the application of evil. There are few ways to devour a slaveling that the Drengin haven't thought up, though most acknowledge that simple beatings are usually the more economically prudent option.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_DRENGIN_StartupTraitsDescription</Label>
+    <String>Drengin soldiers are savagely effective at ground-based combat, and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slaveling revolts.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_ICONIAN_Name</Label>
+    <String>Iconian Refuge</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_ICONIAN_ShortName</Label>
+    <String>Iconian</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_ICONIAN_LeaderName</Label>
+    <String>Iso the Wise</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_ICONIAN_Dec</Label>
+    <String>Temp</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_ICONIAN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_ICONIAN_Callsign</Label>
+    <String>I.R.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_ICONIAN_StartupTitle</Label>
+    <String>The Iconian Legacy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_ICONIAN_StartupDescription</Label>
+    <String>The Iconians are the oldest of the young races, once servants to the Precursors. Creators of the Yor, they were almost wiped out when their creations were given sentience by the Dread Lords. Only a few Iconians survived, hiding in a distant colony.  
+
+Exceedingly cautious, and not without cause, Iconians have a strong sense of fatalism. That said, they have never given up reclaiming their ancestral home, though their cautious nature has prevented them from ever pursuing this dream. Until perhaps now.
+ </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_ICONIAN_StartupTraitsDescription</Label>
+    <String>Iconians are overcautious and even paranoid as a result of living in hiding for generations. That said, living with limited resources has made them excellent farmers and repairers, and surprisingly accurate shots, their entire culture built around minimizing waste. And the harsh population controls they live under have only enhanced their understanding of fertility.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_PIRATES_Name</Label>
+    <String>Space Pirates</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_PIRATES_ShortName</Label>
+    <String>Pirates</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_PIRATES_LeaderName</Label>
+    <String>Kurg</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_PIRATES_Dec</Label>
+    <String>Desperate beings from many races, willing to take what they need to survive, and not interested in talking about it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_PIRATES_Callsign</Label>
+    <String>Pirate</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_FACTION_PIRATES_StartupTraitsDescription</Label>
+    <String>Pirate forces are decentralized and brutal. They do not have the resources of most races, so are slow to build forces, but in time can become a powerful threat if left unchecked.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>SurveyShipStaticBlueprint_Name</Label>
+    <String>Discovery</String>
+  </StringTable>
+
+</StringTableList>

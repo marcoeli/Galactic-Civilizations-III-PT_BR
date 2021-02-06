@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+<!-- Created with the Crusade editor -->
+<!-- FACTION_DLC_SNATHI_TechFlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>TechTree_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Snathi Tree</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoIndustrializationTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Xeno Slavery</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoIndustrializationTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Keeping the slavelings alive and healthy on these awful alien planets seems like a pointless task. But it's not! Because we need the slaves to make things, we must kill them for aesthetic reasons only.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AdvancedConstruction_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Mechanized Slavery</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AdvancedConstruction_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>By giving our slavelings powerful and dangerous tools, we can manufacture goods and chew up slaves at greater rates than ever before.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ConstructionOptimization_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Labor Management</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ConstructionOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>If we waste even a few less slavelings, we can make things faster or cheaper. Don't worry. We will still waste lots of slavelings.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ConstructionOptimization1_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Optimized Chain Gangs</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ConstructionOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>By turning the slavelings against each other, competing for food or nicer whips, we can increase their work rate and our manufacturing capacity.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ConstructionOptimization2_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Slave Longevity</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ConstructionOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Modified whipping techniques - we stopped aiming at the head, basically - have dramatically improved slaveling survivability and reduced our manufacturing costs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ManufacturingFocus_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Slavery Focus</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ManufacturingFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>If we start using the slavelings for the jobs they're best at, or even breeding them that way, we can make everything more efficient.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ManufacturingFocus1_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Military Industry</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ManufacturingFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Some of our weirder slavelings have a natural inclination to working on weapon systems. By finding these strange loners and whipping them in the right direction, we can improve our weapons manufacturing ability.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ManufacturingFocus2_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Social Industry</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ManufacturingFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>By continually putting the weakest and ugliest slavelings in the most dangerous roles, we can thin out their numbers, resulting in a slave population that is much better looking and effective at manufacturing.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ManufacturingFocus3_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Competitive Manufacturing</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ManufacturingFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>By selectively whipping every slaveling who asked for food we eventually encouraged everyone to stop asking, resulting in cheaper manufacturing centers.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IndustrialExpertise_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Slave Masters</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IndustrialExpertise_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Mastery of slave manufacturing techniques.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IndustrialExpertise_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Our manufacturing capacity has reached its absolute peak. We're squeezing the most out of our slavelings, occasionally literally.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InstitutionalResearch_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Persuasive Research</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InstitutionalResearch_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Some of our slavelings, with gentle encouragement, can be made into excellent researchers. We theorize they will become smarter still with harsh whipping.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchOptimization_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Researcher Motivation</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchOptimization_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Forces our smart slavelings to be smarter. Or cheaper.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Getting more smarts out of the smart slavelings is tricky because of how fragile they are.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchOptimization1_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Creative Motivation</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Our smartest slavelings don't seem to like pain, and we've found a great way to put that to use!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchOptimization2_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Creative Living</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>It turns out that when we pack our researchers' kennels closer together, they're better able to share ideas.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchOptimization3_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Creative Resources</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>By making our least effective research slavelings into test subjects, we encourage better research and also save an awful lot of money on test subjects.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchCenters_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Research Extraction</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchCenters_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Some of our research slavelings have been holding out on us! They save their smartest thoughts for plans of escape and eating! So we have found a way to just suck the ideas from their brains. Sometimes they even survive the experience.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TechnologicalFocus_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Extraction Focus</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TechnologicalFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Getting the most out of research slavelings is an art. It's just not one that they like very much.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TechnologicalFocus1_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Focused Research</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TechnologicalFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>By focusing our efforts on pure research we have been able to get a significant improvement on the rate of new discoveries.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TechnologicalFocus2_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Research Production Focus</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TechnologicalFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>By focusing our efforts on our research infrastructure we have been able to cut down the cost of building new facilities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TechnologicalFocus3_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Research Economics</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TechnologicalFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>By focusing how our researchers work and eliminating some of the more wasteful experiments, we have been able to significantly reduce the maintenance of our research facilities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IntegratedResearch_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Intelligence Amplification</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IntegratedResearch_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Boosts the intelligence of slaves.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IntegratedResearch_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Applying powerful electrical currents to a slaveling's head was at first just a fun hobby. But by doing it in a very specific way, it can apparently make our slavelings far more intelligent. It still thankfully causes a great deal of pain.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DeeperKnowledge_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Mysterious Knowledge</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DeeperKnowledge_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Allows construction of reduced torture research facilities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DeeperKnowledge_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Our wisest and weakest slavelings predict that we will be able to research even faster if we torture them less. This is a dangerous idea which we will pursue very carefully.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>QuantumUnderstanding_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Pain-Free Understanding</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>QuantumUnderstanding_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Allows construction of torture-free research facilities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>QuantumUnderstanding_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Our untortured research slavelings have made remarkable progress unlocking the mysteries of the universe. Were we wrong to torture them for so long?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeyondMortality_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>We were wrong to stop torturing the slavelings! We tried torturing them even harder and look what they came up with! Ascension will allow us new dimensions to spread misery!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchCoordination_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Slave Coordination</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchCoordination_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Letting the slaves talk is dangerous but necessary.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchCoordination_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>We don't like when slavelings talk to each other. This is the cause of much whipping. But for the research slaves, sometimes they research better when they talk. This is problematic, but we will let more talking happen for now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TranslatorTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>In our absence, it seems that a great number of new races has arisen in the galaxy. We have found it useful to learn their pathetic languages so we know  what they have is worth taking.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomacyTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>At times, it proves necessary to work with the pathetically weak races of the galaxy. By tolerating their existence (and perhaps working with them for a while) we can find new ways to kill them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoEntertainment_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Fighting Pits</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoEntertainment_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Lets us build Fighting Pits.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoEntertainment_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>There are few things more relaxing than watching two other creatures fight each other to the death, or even just to the 'really badly hurt.' Our new fighting pits should boost Approval everywhere they're built.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PopulationDiversion_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Tournaments</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PopulationDiversion_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Lets us build an Arena.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PopulationDiversion_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>By organizing our regional fighting pits into tournament brackets, and inviting the best and most depraved fighters from other nearby worlds, we can ensure that the Arena is a fun time for the entire family.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Approval Focus</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Forces various planets to be happier.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Our regular program of inspirational beatings is no longer capable of delivering the approval benefits we need. We should begin targeting our inspiration more carefully.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus1_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Easy to Please</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus1_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Increase the morale of your colonies.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>We have discovered that we can make people feel more confident and happy. With proper messaging, we can keep our citizens happy without all that costly infrastructure.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus2_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Easily Distracted</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus2_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Makes building Entertainment Improvements much cheaper.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>We have discovered that our efforts in keeping our people distracted have paid off. We can now build anything, and they will think it is fun.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus3_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Eager to Please</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus3_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Greatly reduces the Maintenance required by Entertainment Improvements.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Not only are our people easier to please, they will now do most of the work it takes to distract themselves, for free.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SuperiorRecreation_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Saughtertorium</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SuperiorRecreation_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Lets us build a Slaughtertorium.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SuperiorRecreation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>A slaughtertorium will serve as more than a means to amuse the local populace, but also attract tourists from around the galaxy who might be interested in seeing what the insides of various creatures look like.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ContentmentTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Hunting Grounds</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ContentmentTech_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Lets us build Hunting Grounds.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ContentmentTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Hunting Grounds will give particularly wealthy individuals the opportunity to hunt and kill some of the most beautiful and delicate animals from around the galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XeonMysticism_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>The Altarians use "The Social Matrix" as a place to interact with and judge their peers. We do the same, but we call it name-calling and brawling. However, it has the additional effect of blowing off steam and making us stronger and more productive.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorHistory2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Our appreciation of the strength of will possessed by the Dread Lords gives every planet in our civilization a boost to its military production capacity.  This inspiration makes all of our soldiers more effective.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DLC_SNATHI</ListenerFaction>
+      </Requirements>
+      <Text>Burrowing</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+</FlavorTextDefs>

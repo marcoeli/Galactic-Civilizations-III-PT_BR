@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- SpaceMonsters_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>SpaceMonsters_SpaceMonsters_Warning_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our scouts are reporting sightings of giant star faring creatures coming out of deep space. They seem to be breeding and we fear they will become a very real threat to all civilizations of the galaxy, if not controlled.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>SpaceMonsters_SpaceMonsters_Warning_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>These majestic creatures should be left alone unless they directly threaten our ships or worlds.
+[COLOR=BenevolentBlue](Benevolent +30)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>SpaceMonsters_SpaceMonsters_Warning_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will destroy any of these monsters that venture into our space. [COLOR=PragmaticGold](Pragmatic +30)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>SpaceMonsters_SpaceMonsters_Warning_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>These Space Monsters sound like excellent hunting. [COLOR=WarRed](Malevolent +30)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

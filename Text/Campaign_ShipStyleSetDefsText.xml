@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- Campaign_ShipStyleSetDefsText.xml -->
+ 
+  <StringTable>
+    <Label>CampaignTerranShipStyleSet_Name</Label>
+    <String>Terran Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ArceaDrenginShipStyleSet_Name</Label>
+    <String>Drengin Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_ThalanShipStyleSet_Name</Label>
+    <String>Thalan Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_AltarianShipStyleSet_Name</Label>
+    <String>Altarian Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_IridiumShipStyleSet_Name</Label>
+    <String>Iridium Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_KrynnShipStyleSet_Name</Label>
+    <String>Krynn Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_YorShipStyleSet_Name</Label>
+    <String>Yor Ship Style</String>
+  </StringTable>
+ 
+</StringTableList>

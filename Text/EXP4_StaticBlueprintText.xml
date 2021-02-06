@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- EXP4_StaticBlueprintText.xml -->
+ 
+  <StringTable>
+    <Label>EXP4CampaignFrigateStaticBlueprint_Name</Label>
+    <String>EXP4_Tom_Chick</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignCorvetteStaticBlueprint_Name</Label>
+    <String>EXP4_Furan</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignStaticGuardianBlueprint_Name</Label>
+    <String>EXP4_Guardian</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignTransportStaticBlueprint_Name</Label>
+    <String>EXP4_Invader</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignValkrieStaticBlueprint_Name</Label>
+    <String>EXP4_Valkrie</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignRangerStaticBlueprint_Name</Label>
+    <String>EXP4_Ranger</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignDestroyerStaticBlueprint_Name</Label>
+    <String>EXP4_Destroyer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignAltarianStaticBlueprint_Name</Label>
+    <String>EXP4_Altarian_Overloard</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignThalanStaticBlueprint_Name</Label>
+    <String>EXP4_Thalan_Large</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignThalanHugeStaticBlueprint_Name</Label>
+    <String>EXP4_Thalan_Avatar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignCrusaderStaticBlueprint_Name</Label>
+    <String>EXP4 Crusader (Crusade)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignTerranCruiserStaticBlueprint_Name</Label>
+    <String>EXP4 Cruiser</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignTerranCruiserDStaticBlueprint_Name</Label>
+    <String>EXP4 Cruiser D</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignTerranPaladinStaticBlueprint_Name</Label>
+    <String>EXP4 Paladin</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignTerranPaladinDStaticBlueprint_Name</Label>
+    <String>EXP4 Paladin D</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignTerranFuryStaticBlueprint_Name</Label>
+    <String>EXP4 Fury</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignTerranFuryDStaticBlueprint_Name</Label>
+    <String>EXP4 Fury D</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignTerranKnightStaticBlueprint_Name</Label>
+    <String>EXP4 Knight</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignTerranKnightDStaticBlueprint_Name</Label>
+    <String>EXP4 Knight D</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignDrenginDreadnoughtStaticBlueprint_Name</Label>
+    <String>EXP4_Drengin_Dreadnought</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignDrenginDreadnoughtDStaticBlueprint_Name</Label>
+    <String>EXP4_Drengin_Dreadnought_D</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignDrenginBattleshipStaticBlueprint_Name</Label>
+    <String>EXP4_Drengin_Battleship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignDrenginBattleshipDStaticBlueprint_Name</Label>
+    <String>EXP4_Drengin_Battleship_D</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignDrenginFrigateStaticBlueprint_Name</Label>
+    <String>EXP4_Drengin_Frigate</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignDrenginFrigateDStaticBlueprint_Name</Label>
+    <String>EXP4_Drengin_Frigate_D</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignDrenginGunboatStaticBlueprint_Name</Label>
+    <String>EXP4_Drengin_Gunboat</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4CampaignDrenginGunboatDStaticBlueprint_Name</Label>
+    <String>EXP4_Drengin_Gunboat_D</String>
+  </StringTable>
+ 
+ 
+</StringTableList>

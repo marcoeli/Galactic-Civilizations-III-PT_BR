@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Retribution_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>It is a new day. The Drengin Empire is defeated but alive. The future predicted by the Thalan will not occur and the Thalan themselves are disappearing.   It seems it is time for the galactic civilizations to take a collective breath.   Even now, our scientists are predicting that hypergate technology will make other galaxies accessible to us in a few decades.  The Terran Alliance has emerged as a galactic super-power but who knows what other powers are out there? But in the meantime, we will relish in our success.  Peace is at hand. You have won.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>With the loss of the Valkyrie and with it, the last Shard of the Telenanth, D.L. Bradley has no choice but to use the Bane to utterly destroy Drengi and with it, the Drengin Empire. 
+
+But in doing so, he unleashes the ancient and malevolent powers stored within. Thus, beginning his great crusade against evil which will ultimately end only with the destruction of this universe, and begin the cycle of Draginol once more.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_Arrival1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have reached the Drengi system. From their energy signatures, I fear it might be too late. The battle around Drengi is like nothing we have ever seen before. The firepower and devastation is as awe inspiring as it is horrifying.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_Arrival1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Try to contact the Crusader. We must stop Bradley before he uses the Bane.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_Arrival2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have located their signal but they are not responding.
+
+They don't seem to be moving, even as the rest of the First Fleet is locked in combat with the Drengin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_Arrival2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Get me the location. We need to get to the Crusader now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_DestroyDrengi_VictoryOveride</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Jenna Casey and her small fleet of survivors, have witnessed the utter destruction of the Drengin Empire. Knowing she has lost her mentor and friend to this dark power; the remains of the Terran Resistance turn their back on the destruction and flee back toward earth.
+
+One last message comes from the Crusader, from the voice of a man she no longer recognizes.
+
+"This is just the beginning. Nothing shall stop us from annihilating all evil throughout the universe. There will be nowhere hide, from this Crusade."</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_Arrival3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have some bad news: Bradley is on the other side of the Drengin armada. The First Fleet clearly has the upper hand but we are no match for the Drengin armada in between, even in their weakened state.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_Arrival3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We need to find a way through as quickly as possible.
+[COLOR=BenevolentBlue](+30 Benevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_Arrival3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Look for a weak point in their lines. We will cut our way through. [COLOR=PragmaticGold](+30 Pragmatic)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_Arrival3_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We can be the hammer to the First Fleet's anvil. [COLOR=WarRed](+30 Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_DestroyTheBane_VictoryOveride</InternalName>
+    <FlavorTextOption>
+      <Text>With the appearance of Mascrithus, both the Bane and the Shard vanish in a flash of light. D.L. Bradley staggers and draws in a great heaving breath as if a great burden has been lifted. The voice of Mascrithus then continues to echo though out the ship:
+
+"The cycle of Draginol has resulted in the ultimate death of my universe. This universe has broken that cycle and for that, I am eternally grateful. You, D.L. Bradley, have shown great restraint and resisted the Bane's siren call, in doing so you have avoided a fate far worse than death. With the actions you and your people have taken today , a wider universe has been unlocked to you. Farewell."</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ArrivaResponse1Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It will be impossible to get through undetected. The Drengin are calling in reinforcements from all around the empire.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ArrivaResponse1Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The list of impossible things we have done recently is getting pretty long. So we just added another.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ArrivaResponse2Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will have to be cautious. The Drengin are calling in reinforcements from all around the empire.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ArrivaResponse2Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Unfortunately, our reinforcements are on the other side of the sector and not responding to our hails. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ArrivaResponse3Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The First fleet has weakened them but Drengi is still well defended. Reinforcements from the rest of the Drengin empire are still coming in.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ArrivaResponse3Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I don't care if we lose the entire fleet. We need to get the Shard to the Crusader at all costs.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_Incoming1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel, Drengin reinforcements are coming in from behind our lines.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_Incoming1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Warn Bower Colony of the threat, help will be coming when we can.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ReinfocmentsMessage1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Drengin reinforcements continue to arrive. They appear to be coming in from all around the sector. They are all heading toward Drengi.  We should probably avoid it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ReinfocmentsMessage1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Keep an eye out for further reinforcements and stay out of their way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ThalanMessage1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Casey, my people have come to realize the folly of our actions. A select few of us have volunteered to aid in your efforts. You are our only hope now, that much is clear. I hope you will let us assist you now as all hangs in the balance.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ThalanMessage1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You are late to the party Ambassador. This seems to be a trend.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ThalanMessage2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Indeed, but i hope you will accept my help. We have been allies often in the past. Let us unite, one final time.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ThalanMessage2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I will not trust your race again soon, but I will trust you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ThalanMessage2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your ships are welcome as long as you obey orders.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ThalanMessageResponse1Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>My fleet is yours. We will end this together.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ThalanMessageResponse1Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If it is not too late.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ThalanMessageResponse2Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>My fleet is yours. You will have no further trouble from us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ThalanMessageResponse2Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Just make sure that is true, Ambassador. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ReinfocmentsMessage3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The First Fleet is devastating the Drengin.  Yet  the constant reinforcements appear to be preventing the First Fleet from moving closer to Drengi.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ReinfocmentsMessage3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If we are lucky the Drengin will delay them long enough for us to reach the Crusader.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_DrenginMessage1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Casey, your little fleet has not gone unnoticed. We will deal with you when we are done with the First Fleet.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_DrenginMessage1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have never been friends but let us by and we might be able to stop this madness.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_DrenginMessage2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>How would you do that? Your puny fleet is nothing to the might of the Drengin.
+
+If you don't want to be brushed aside like insects, you will flee this sector immediately.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_DrenginMessage2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Bradley has the power to destroy your world. Let us stop that.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_DrenginMessage2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You are getting what you deserve. We are not going anywhere.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_DrenginMessageResponse1Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are not foolish enough to believe human words. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_DrenginMessageResponse1Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I should have known better then to try and reason with the Drengin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_DrenginMessageResponse2Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We should have spored your world before you ever crawled out of the ooze. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_DrenginMessageResponse2Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Don't worry. You will not have to live with your regrets much longer.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_CrusadeMessage1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Casey, what are you doing? Where have you been?
+
+Did you learn anything on Yiven III?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_CrusadeMessage1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It is important that you listen to me and stop using the Bane immediately.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_CrusadeMessage2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What are you talking about? 
+
+It has been because of the Bane that we have been able to drive the Drengin back to their home world. We will be rid of them once and for all and we will achieve complete peace.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_CrusadeMessage2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We found an imprisoned Dreadlord on Yiven... There is too much to explain.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_CrusadeMessage3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I don't have time to waste Colonel! We are preparing for our final push to Drengi.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_CrusadeMessage3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Please sir! Just wait until we arrive before you do anything with the Bane.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_CrusadeMessage3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Stand down!  You don't know what is at stake.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_CrusadeMessageResponse1Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Be quick, I will not wait long. You better have a good reason for this Colonel.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_CrusadeMessageResponse1Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are on our way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_CrusadeMessageResponse2Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel, I will not stand for insubordination. If you can get here fast enough I will listen to you but I have a war to fight. 
+
+Don't get in my way. I'm warning you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_CrusadeMessageResponse2Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes sir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ValkyrieLost_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I was wrong to put my faith in you. We are all doomed.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ReachCrusader1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This is Colonel Jenna Casey to the TAS Crusader.  You are ordered to stand down.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ReachCrusader1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This is the TAS Crusader. Colonel D.L. Bradley here.  Negative on that request.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ReachCrusader2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Bradley, we have the Shard of the Telenanth with us. 
+
+You must not destroy Drengi with the Bane!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ReachCrusader2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Drengin Empire is a menace. We now have the opportunity to eliminate them for all time.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ReachCrusader3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>On Yiven III we learned that every time you use the Bane it weakens the restraints on the malevolent powers within.
+
+The Arnor referred to it as the power of Ra and Gino: the spirits of Vengeance and Retribution.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ReachCrusader3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Are you saying the Thalan prophecies are true?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ReachCrusader3_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>
+
+  You would restart the cycle of the Draginol which would result in the destruction of this reality.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ReachCrusader4_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If you were to use it to destroy an entire world, D.L. would cease to exist, those spirits would merge with you and become, something else, something darker. The cycle of the Draginol would restart and in doing so, it would lead to the destruction of this reality.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ReachCrusader4_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Come aboard Colonel, I better hear the rest of your report.
+[COLOR=BenevolentBlue](Use the Shard to neutralize the Bane)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ReachCrusader4_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Accompanied by The Thalan Ambassador, Colonel Casey brings the Shard of the Telenanth aboard the Crusader to meet with D.L. Bradley. 
+
+As the two ancient artifacts are brought together, a great rift appears in the space above them.  An ancient but kindly voice fills the room. 
+
+"I am Mascrithus, the last of the Mithrilar, the guardians of this universe, at long last, the cycle is broken"</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission4_ReachCrusader4_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Enough of this, leave this sector immediately or be destroyed, with the Drengin.
+[COLOR=WarRed](Use the Bane to Destroy Dengi)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

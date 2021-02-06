@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the GalCiv editor -->
+<!-- ShipComponentText.xml -->
+ 
+  <StringTable>
+    <Label>PrototypeHyperDrive_Name</Label>
+    <String>Prototype Hyper Drive</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrototypeHyperDrive_Dec</Label>
+    <String>Requires Promethion to build</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperDrive_Name</Label>
+    <String>Hyper Drive</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperDrive_Dec</Label>
+    <String>Increases Ships Moves</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperdrivePlus_Name</Label>
+    <String>Hyperdrive Plus</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperdrivePlus_Dec</Label>
+    <String>Increases Ships Moves</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IonDrive_Name</Label>
+    <String>Ion Drive</String>
+  </StringTable>
+  <StringTable>
+    <Label>IonDrive_Dec</Label>
+    <String>Increases Ships Moves</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WarpDrive_Name</Label>
+    <String>Warp Drive</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarpDrive_Dec</Label>
+    <String>Increases Ships Moves</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperwarpDrive_Name</Label>
+    <String>Hyper Warp Drive</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperwarpDrive_Dec</Label>
+    <String>Increases Ships Moves</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>StellarFolding_Name</Label>
+    <String>Stellar Folding</String>
+  </StringTable>
+  <StringTable>
+    <Label>StellarFolding_Dec</Label>
+    <String>Increases Ships Moves</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Thrusters_Name</Label>
+    <String>Thrusters</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thrusters_Dec</Label>
+    <String>Makes ship faster and more maneuverable in battles</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IonThrusters_Name</Label>
+    <String>Ion Thrusters</String>
+  </StringTable>
+  <StringTable>
+    <Label>IonThrusters_Dec</Label>
+    <String>Makes ship faster and more maneuverable in battles</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FieldThrusters_Name</Label>
+    <String>Field Thrusters</String>
+  </StringTable>
+  <StringTable>
+    <Label>FieldThrusters_Dec</Label>
+    <String>Makes ship faster and more maneuverable in battles</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InertialAcceleration_Name</Label>
+    <String>Inertial Acceleration</String>
+  </StringTable>
+  <StringTable>
+    <Label>InertialAcceleration_Dec</Label>
+    <String>Makes ship faster and more maneuverable in battles</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GravityManipulationField_Name</Label>
+    <String>Gravity Manipulation Field</String>
+  </StringTable>
+  <StringTable>
+    <Label>GravityManipulationField_Dec</Label>
+    <String>Makes ship faster and more maneuverable in battles</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrototypeSurveyModule_Name</Label>
+    <String>Prototype Survey Module</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrototypeSurveyModule_Dec</Label>
+    <String>Allows ship to survey anomalies, but requires Thulium to build.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SurveyModule_Name</Label>
+    <String>Survey Module</String>
+  </StringTable>
+  <StringTable>
+    <Label>SurveyModule_Dec</Label>
+    <String>Allows ship to survey anomalies</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NavigationalSensors_Name</Label>
+    <String>Navigational Sensors</String>
+  </StringTable>
+  <StringTable>
+    <Label>NavigationalSensors_Dec</Label>
+    <String>Increases Ships Sensor Range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InterstellerSensors_Name</Label>
+    <String>Interstellar Sensors</String>
+  </StringTable>
+  <StringTable>
+    <Label>InterstellerSensors_Dec</Label>
+    <String>Increases Ships Sensor Range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SensorArray_Name</Label>
+    <String>Sensor Array</String>
+  </StringTable>
+  <StringTable>
+    <Label>SensorArray_Dec</Label>
+    <String>Increases Ships Sensor Range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FieldDetectors_Name</Label>
+    <String>Field Detectors</String>
+  </StringTable>
+  <StringTable>
+    <Label>FieldDetectors_Dec</Label>
+    <String>Increases Ships Sensor Range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SubspaceSensor_Name</Label>
+    <String>Subspace Sensor</String>
+  </StringTable>
+  <StringTable>
+    <Label>SubspaceSensor_Dec</Label>
+    <String>Increases Ships Sensor Range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TargetingScanners_Name</Label>
+    <String>Targeting Scanners</String>
+  </StringTable>
+  <StringTable>
+    <Label>TargetingScanners_Dec</Label>
+    <String>Boost Weapon Accuracy of Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>StealthField_Name</Label>
+    <String>Evasive Thrusters</String>
+  </StringTable>
+  <StringTable>
+    <Label>StealthField_Dec</Label>
+    <String>Helps ship dodge enemy fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>JammingArray_Name</Label>
+    <String>Evasion Array</String>
+  </StringTable>
+  <StringTable>
+    <Label>JammingArray_Dec</Label>
+    <String>Helps ship dodge enemy fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BasicLifeSupport_Name</Label>
+    <String>Life Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>BasicLifeSupport_Dec</Label>
+    <String>Increases Ships Range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnvironmentalSupport_Name</Label>
+    <String>Environmental Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>EnvironmentalSupport_Dec</Label>
+    <String>Increases Ships Range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>StellarSupport_Name</Label>
+    <String>Stellar Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>StellarSupport_Dec</Label>
+    <String>Increases Ships Range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DeepSpaceSupport_Name</Label>
+    <String>Deep Space Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>DeepSpaceSupport_Dec</Label>
+    <String>Increases Ships Range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SupportFieldGenerator_Name</Label>
+    <String>Support Field Generator</String>
+  </StringTable>
+  <StringTable>
+    <Label>SupportFieldGenerator_Dec</Label>
+    <String>Increases Ships Range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>StasisFieldGenerator_Name</Label>
+    <String>Stasis Field Generator</String>
+  </StringTable>
+  <StringTable>
+    <Label>StasisFieldGenerator_Dec</Label>
+    <String>Increases Ships Range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AquaticSupport_Name</Label>
+    <String>Aquatic Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>AquaticSupport_Dec</Label>
+    <String>Increases Ships Range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AquaticSupportSystem_Name</Label>
+    <String>Aquatic Support System</String>
+  </StringTable>
+  <StringTable>
+    <Label>AquaticSupportSystem_Dec</Label>
+    <String>Increases Ships Range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LongRangeAquaticSupport_Name</Label>
+    <String>Long Range Aquatic Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>LongRangeAquaticSupport_Dec</Label>
+    <String>Increases Ships Range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RecyclingAquaticSupport_Name</Label>
+    <String>Recycling Aquatic Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>RecyclingAquaticSupport_Dec</Label>
+    <String>Increases Ships Range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LosslessAquaticSupport_Name</Label>
+    <String>Lossless Aquatic Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>LosslessAquaticSupport_Dec</Label>
+    <String>Increases Ships Range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrototypeEleriumWeapon_Name</Label>
+    <String>Prototype Elerium Beam</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrototypeEleriumWeapon_Dec</Label>
+    <String>Increases Beam Attack  but requires Elerium to manufacture.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Lasers_Name</Label>
+    <String>Lasers</String>
+  </StringTable>
+  <StringTable>
+    <Label>Lasers_Dec</Label>
+    <String>Increase Beam attack, highly accurate with a
+well balanced rate of fire and range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ParticalBeam_Name</Label>
+    <String>Particle Beam</String>
+  </StringTable>
+  <StringTable>
+    <Label>ParticalBeam_Dec</Label>
+    <String>Increase Beam attack, highly accurate with a
+well balanced rate of fire and range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Disrupters_Name</Label>
+    <String>Disruptor Bank</String>
+  </StringTable>
+  <StringTable>
+    <Label>Disrupters_Dec</Label>
+    <String>Increase Beam attack, highly accurate with a
+well balanced rate of fire and range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Plasma_Name</Label>
+    <String>Plasma Pod</String>
+  </StringTable>
+  <StringTable>
+    <Label>Plasma_Dec</Label>
+    <String>Increase Beam attack, highly accurate with a
+well balanced rate of fire and range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Phasors_Name</Label>
+    <String>Phasors Pod</String>
+  </StringTable>
+  <StringTable>
+    <Label>Phasors_Dec</Label>
+    <String>Increase Beam attack, highly accurate with a
+well balanced rate of fire and range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DoomRay_Name</Label>
+    <String>Doom Ray</String>
+  </StringTable>
+  <StringTable>
+    <Label>DoomRay_Dec</Label>
+    <String>Increase Beam attack, highly accurate with a
+well balanced rate of fire and range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RapidRecharger_Name</Label>
+    <String>Rapid Recharger</String>
+  </StringTable>
+  <StringTable>
+    <Label>RapidRecharger_Dec</Label>
+    <String>Increases rate of fire of Beam Weapons 30% but lowers damage 15%</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnergyAccelerator_Name</Label>
+    <String>Energy Accelerator</String>
+  </StringTable>
+  <StringTable>
+    <Label>EnergyAccelerator_Dec</Label>
+    <String>Increases Beam Range 30%</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShieldLeach_Name</Label>
+    <String>Shield Leach</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShieldLeach_Dec</Label>
+    <String>Beams weapons will ignore 50% of Shields but do 25% less damage.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShieldPunch_Name</Label>
+    <String>Shield Punch</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShieldPunch_Dec</Label>
+    <String>Beams weapons will ignore 66% of Shields. But still do full damage.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeAntiMatterMissile_Name</Label>
+    <String>Prototype Antimatter Missile</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProtoTypeAntiMatterMissile_Dec</Label>
+    <String>Increases Missile Attack but requires Antimatter to manufacture.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Sparrow_Name</Label>
+    <String>Antimatter Missile</String>
+  </StringTable>
+  <StringTable>
+    <Label>Sparrow_Dec</Label>
+    <String>Increases Missile Attack but requires Antimatter to manufacture.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Stinger_Name</Label>
+    <String>Stinger</String>
+  </StringTable>
+  <StringTable>
+    <Label>Stinger_Dec</Label>
+    <String>Increase Missile attack, High Damage and Long
+range with good accuracy, but slow rate of fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Harpoon_Name</Label>
+    <String>Harpoon</String>
+  </StringTable>
+  <StringTable>
+    <Label>Harpoon_Dec</Label>
+    <String>Increase Missile attack, High Damage and Long
+range with good accuracy, but slow rate of fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PhotonicWarhead_Name</Label>
+    <String>Photonic Warheads</String>
+  </StringTable>
+  <StringTable>
+    <Label>PhotonicWarhead_Dec</Label>
+    <String>Increase Missile attack, High Damage and Long
+range with good accuracy, but slow rate of fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PhotonTorpedoes_Name</Label>
+    <String>Photon Torpedoes</String>
+  </StringTable>
+  <StringTable>
+    <Label>PhotonTorpedoes_Dec</Label>
+    <String>Increase Missile attack, High Damage and Long
+range with good accuracy, but slow rate of fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NightmareTorpedoes_Name</Label>
+    <String>Nightmare Torpedoes</String>
+  </StringTable>
+  <StringTable>
+    <Label>NightmareTorpedoes_Dec</Label>
+    <String>Increase Missile attack, High Damage and  Long
+range with good accuracy, but slow rate of fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MissleAssister_Name</Label>
+    <String>Missile Assister</String>
+  </StringTable>
+  <StringTable>
+    <Label>MissleAssister_Dec</Label>
+    <String>Increases rate of fire of Missile Weapons 25%</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SlingshotBooster_Name</Label>
+    <String>Slingshot Booster</String>
+  </StringTable>
+  <StringTable>
+    <Label>SlingshotBooster_Dec</Label>
+    <String>Increases Missiles range 25%</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ClusterWarheads_Name</Label>
+    <String>Cluster Warheads</String>
+  </StringTable>
+  <StringTable>
+    <Label>ClusterWarheads_Dec</Label>
+    <String>Missile Weapons take down Point Defenses at 100% efficiency</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LaunchAssister_Name</Label>
+    <String>Launch Assister</String>
+  </StringTable>
+  <StringTable>
+    <Label>LaunchAssister_Dec</Label>
+    <String>Increases rate of fire of Missile Weapons 50%</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeDurantiumDriver_Name</Label>
+    <String>Prototype Durantium Driver</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProtoTypeDurantiumDriver_Dec</Label>
+    <String>Increases Kinetic Attack but requires Durantium to manufacture.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Cannon_Name</Label>
+    <String>Durantium Driver</String>
+  </StringTable>
+  <StringTable>
+    <Label>Cannon_Dec</Label>
+    <String>Increases Kinetic Attack but requires Durantium to manufacture.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Railgun_Name</Label>
+    <String>Railgun</String>
+  </StringTable>
+  <StringTable>
+    <Label>Railgun_Dec</Label>
+    <String>Increase Kinetic attack, Very High Rate of fire,
+but short range, and marginal accuracy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PulseCannon_Name</Label>
+    <String>Pulse Cannon</String>
+  </StringTable>
+  <StringTable>
+    <Label>PulseCannon_Dec</Label>
+    <String>Increase Kinetic attack, Very High Rate of fire,
+but short range, and marginal accuracy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GravitonDriver_Name</Label>
+    <String>Graviton Driver</String>
+  </StringTable>
+  <StringTable>
+    <Label>GravitonDriver_Dec</Label>
+    <String>Increase Kinetic attack, Very High Rate of fire,
+but short range, and marginal accuracy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>QuantumDriver_Name</Label>
+    <String>Quantum Driver</String>
+  </StringTable>
+  <StringTable>
+    <Label>QuantumDriver_Dec</Label>
+    <String>Increase Kinetic attack, Very High Rate of fire,
+but short range, and marginal accuracy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SingularityDriver_Name</Label>
+    <String>Singularity Driver</String>
+  </StringTable>
+  <StringTable>
+    <Label>SingularityDriver_Dec</Label>
+    <String>Increase Kinetic attack, Very High Rate of fire,
+but short range, and marginal accuracy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RapidReload_Name</Label>
+    <String>Rapid Reload</String>
+  </StringTable>
+  <StringTable>
+    <Label>RapidReload_Dec</Label>
+    <String>Increases rate of fire of Kinetic Weapons 50%, but lowers Kinetic Acuracy 15%</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KineticAccelerator_Name</Label>
+    <String>Kinetic Accelerator</String>
+  </StringTable>
+  <StringTable>
+    <Label>KineticAccelerator_Dec</Label>
+    <String>Increases Kinetic weapon range 50%</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ArmorPiercing_Name</Label>
+    <String>Armor Piercing</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArmorPiercing_Dec</Label>
+    <String>Kinetic Weapons take down Armor at 100% efficiency</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Deflectors_Name</Label>
+    <String>Deflectors</String>
+  </StringTable>
+  <StringTable>
+    <Label>Deflectors_Dec</Label>
+    <String>Increases Shield Strength</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShieldGenerators_Name</Label>
+    <String>Shield Generators</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShieldGenerators_Dec</Label>
+    <String>Increases Shield Strength</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BarrierFields_Name</Label>
+    <String>Barrier Fields</String>
+  </StringTable>
+  <StringTable>
+    <Label>BarrierFields_Dec</Label>
+    <String>Increases Shield Strength</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ForceFields_Name</Label>
+    <String>Force Fields</String>
+  </StringTable>
+  <StringTable>
+    <Label>ForceFields_Dec</Label>
+    <String>Increases Shield Strength</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InvulnerabilityField_Name</Label>
+    <String>Invulnerability Field</String>
+  </StringTable>
+  <StringTable>
+    <Label>InvulnerabilityField_Dec</Label>
+    <String>Increases Shield Strength</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Chaff_Name</Label>
+    <String>Chaff</String>
+  </StringTable>
+  <StringTable>
+    <Label>Chaff_Dec</Label>
+    <String>Increases Point Defenses</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PointDefense_Name</Label>
+    <String>Point Defense</String>
+  </StringTable>
+  <StringTable>
+    <Label>PointDefense_Dec</Label>
+    <String>Increases Point Defenses</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ECM_Name</Label>
+    <String>ECM</String>
+  </StringTable>
+  <StringTable>
+    <Label>ECM_Dec</Label>
+    <String>Increases Point Defenses</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DroneSentries_Name</Label>
+    <String>Drone Sentries</String>
+  </StringTable>
+  <StringTable>
+    <Label>DroneSentries_Dec</Label>
+    <String>Increases Point Defenses</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ArreonMissileDefense_Name</Label>
+    <String>Arreon Missile Defense</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArreonMissileDefense_Dec</Label>
+    <String>Increases Point Defenses</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HullPlating_Name</Label>
+    <String>Hull Plating</String>
+  </StringTable>
+  <StringTable>
+    <Label>HullPlating_Dec</Label>
+    <String>Increases Armor Rating</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TitaniumPlating_Name</Label>
+    <String>Titanium Plating</String>
+  </StringTable>
+  <StringTable>
+    <Label>TitaniumPlating_Dec</Label>
+    <String>Increases Armor Rating</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumComposite_Name</Label>
+    <String>Durantium Composite</String>
+  </StringTable>
+  <StringTable>
+    <Label>DurantiumComposite_Dec</Label>
+    <String>Increases Armor Rating</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KanviumLaminate_Name</Label>
+    <String>Kanvium Laminate</String>
+  </StringTable>
+  <StringTable>
+    <Label>KanviumLaminate_Dec</Label>
+    <String>Increases Armor Rating</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ZeroPointArmor_Name</Label>
+    <String>Zero Point Armor</String>
+  </StringTable>
+  <StringTable>
+    <Label>ZeroPointArmor_Dec</Label>
+    <String>Increases Armor Rating</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumHullReinforcement_Name</Label>
+    <String>Thulium Hull Reinforcement</String>
+  </StringTable>
+  <StringTable>
+    <Label>DurantiumHullReinforcement_Dec</Label>
+    <String>Increases Hit points of ship, but requires Thulium to Manufacture.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Hull Integrity Generator_Name</Label>
+    <String>Hull Integrity Generator</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hull Integrity Generator_Dec</Label>
+    <String>Increases Hit points of ship, and helps them repair faster.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ArceanHullReinforcement_Name</Label>
+    <String>Arcean Hull Reinforcement</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanHullReinforcement_Dec</Label>
+    <String>Increases Hit points of ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>StructuralEnhancement_Name</Label>
+    <String>Structural Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>StructuralEnhancement_Dec</Label>
+    <String>Allows a ship to repair itself in battle.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SelfHealingHulls_Name</Label>
+    <String>Self Healing Hull</String>
+  </StringTable>
+  <StringTable>
+    <Label>SelfHealingHulls_Dec</Label>
+    <String>Allows a ship to repair itself in battle.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ColonyModule_Name</Label>
+    <String>Colony Module</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyModule_Dec</Label>
+    <String>Allows a ship to Colonize.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TorianColonyModule_Name</Label>
+    <String>Colony Module</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianColonyModule_Dec</Label>
+    <String>Allows a ship to Colonize.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ConstructorModule_Name</Label>
+    <String>Constructor Module</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConstructorModule_Dec</Label>
+    <String>Allows a ship to build a starbase.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CargoModule_Name</Label>
+    <String>Cargo Module</String>
+  </StringTable>
+  <StringTable>
+    <Label>CargoModule_Dec</Label>
+    <String>Allows a ship to create a trade route.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TorianCargoModule_Name</Label>
+    <String>Cargo Module</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianCargoModule_Dec</Label>
+    <String>Allows a ship to create a trade route.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TransportModule_Name</Label>
+    <String>Transport Module</String>
+  </StringTable>
+  <StringTable>
+    <Label>TransportModule_Dec</Label>
+    <String>Allows a ship to Invade planets.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AdvancedTransportModule_Name</Label>
+    <String>Advanced Transport Module</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdvancedTransportModule_Dec</Label>
+    <String>Allows a ship to Invade Planets, and carries 2 Interceptor Drones.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AssaultCarrier Module_Name</Label>
+    <String>Carrier Module</String>
+  </StringTable>
+  <StringTable>
+    <Label>AssaultCarrier Module_Dec</Label>
+    <String>Carries 2 Fast and deadly Assault Fighters</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DroneCarrierModule_Name</Label>
+    <String>Drone Carrier Module</String>
+  </StringTable>
+  <StringTable>
+    <Label>DroneCarrierModule_Dec</Label>
+    <String>Carries 2 small but nasty Interceptor Drones</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GuardianCarrierModule_Name</Label>
+    <String>Guardian Drones Module</String>
+  </StringTable>
+  <StringTable>
+    <Label>GuardianCarrierModule_Dec</Label>
+    <String>Carries 2 small but Tuff Guardian Drones</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EscortCarrierModule_Name</Label>
+    <String>High Capacity Carrier Module</String>
+  </StringTable>
+  <StringTable>
+    <Label>EscortCarrierModule_Dec</Label>
+    <String>Carries 3 Fast and deadly Assault Fighters</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FieldGenerator_Name</Label>
+    <String>Field Generator</String>
+  </StringTable>
+  <StringTable>
+    <Label>FieldGenerator_Dec</Label>
+    <String>Generates a basic shield system for all ships in the Fleet</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FieldAugmentationArray_Name</Label>
+    <String>Field Augmentation Array</String>
+  </StringTable>
+  <StringTable>
+    <Label>FieldAugmentationArray_Dec</Label>
+    <String>Increases shield strength of all ships in the Fleet</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LeachingField_Name</Label>
+    <String>Leaching Field</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeachingField_Dec</Label>
+    <String>Reduces shield strength of enemy ships 50%.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BarrierFieldGenerator_Name</Label>
+    <String>Barrier Field Generator</String>
+  </StringTable>
+  <StringTable>
+    <Label>BarrierFieldGenerator_Dec</Label>
+    <String>Generates a Powerful shield system for all ships in the Fleet</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MissileDisruptor_Name</Label>
+    <String>Missile Disruptor</String>
+  </StringTable>
+  <StringTable>
+    <Label>MissileDisruptor_Dec</Label>
+    <String>Creates a basic point defense system that protects the entire fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PointAugmentationArray_Name</Label>
+    <String>Point Augmentation Array</String>
+  </StringTable>
+  <StringTable>
+    <Label>PointAugmentationArray_Dec</Label>
+    <String>Increases point defense of entire fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PointDisruption_Name</Label>
+    <String>Point Disruption</String>
+  </StringTable>
+  <StringTable>
+    <Label>PointDisruption_Dec</Label>
+    <String>Reduces the Point defense of Enemy fleet by 50%</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PointDefenseArray_Name</Label>
+    <String>Point Defense Array</String>
+  </StringTable>
+  <StringTable>
+    <Label>PointDefenseArray_Dec</Label>
+    <String>Creates a powerful point defense array that protects entire fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IntegrityField_Name</Label>
+    <String>Integrity Field</String>
+  </StringTable>
+  <StringTable>
+    <Label>IntegrityField_Dec</Label>
+    <String>Increases the Armor strength of all ships in the Fleet</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HullEnhancementField_Name</Label>
+    <String>Hull Enhancement Field</String>
+  </StringTable>
+  <StringTable>
+    <Label>HullEnhancementField_Dec</Label>
+    <String>Increases the Armor strength of all ships in the Fleet</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IntegrityDisruptor_Name</Label>
+    <String>Integrity Disruptor</String>
+  </StringTable>
+  <StringTable>
+    <Label>IntegrityDisruptor_Dec</Label>
+    <String>Reduces the Integrity of enemy fleet's armor.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>StructuralEnhancementField_Name</Label>
+    <String>Structural Enhancement Field</String>
+  </StringTable>
+  <StringTable>
+    <Label>StructuralEnhancementField_Dec</Label>
+    <String>Slowly Repairs all ships in the Fleet when in battle</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RepairDrones_Name</Label>
+    <String>Repair Drones</String>
+  </StringTable>
+  <StringTable>
+    <Label>RepairDrones_Dec</Label>
+    <String>Repairs all ships in the Fleet when in battle</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NaniteProjectionArray_Name</Label>
+    <String>Nanite Projection Array</String>
+  </StringTable>
+  <StringTable>
+    <Label>NaniteProjectionArray_Dec</Label>
+    <String>Quickly Repairs all ships in the Fleet when in battle</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BeamAssist_Name</Label>
+    <String>Beam Assist</String>
+  </StringTable>
+  <StringTable>
+    <Label>BeamAssist_Dec</Label>
+    <String>Increase the rate of fire of all  beam weapons in the Fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BeamMagnificationArray_Name</Label>
+    <String>Beam Magnification Array</String>
+  </StringTable>
+  <StringTable>
+    <Label>BeamMagnificationArray_Dec</Label>
+    <String>Increase the Beam attack of all ships in the Fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MissileGuidanceSystem_Name</Label>
+    <String>Missile Guidance System</String>
+  </StringTable>
+  <StringTable>
+    <Label>MissileGuidanceSystem_Dec</Label>
+    <String>Increase the accuracy of all Missile Weapons in the Fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MissileGuidanceArray_Name</Label>
+    <String>Missile Guidance Array</String>
+  </StringTable>
+  <StringTable>
+    <Label>MissileGuidanceArray_Dec</Label>
+    <String>Increase the Damage done by all Missile Weapon in the Fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InertialDampeners_Name</Label>
+    <String>Inertial Dampeners</String>
+  </StringTable>
+  <StringTable>
+    <Label>InertialDampeners_Dec</Label>
+    <String>Increase damage done by all Kinetic weapons in the Fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InertialFieldProjector_Name</Label>
+    <String>Inertial Field Projector</String>
+  </StringTable>
+  <StringTable>
+    <Label>InertialFieldProjector_Dec</Label>
+    <String>Increase damage done by all Kinetic weapons in the Fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AccelerationField_Name</Label>
+    <String>Acceleration Field</String>
+  </StringTable>
+  <StringTable>
+    <Label>AccelerationField_Dec</Label>
+    <String>Increase the Range of all kinetic Weapons in the fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TargetingArray_Name</Label>
+    <String>Targeting Array</String>
+  </StringTable>
+  <StringTable>
+    <Label>TargetingArray_Dec</Label>
+    <String>Boost Weapon Accuracy of all ships in the Fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SubspaceTargetingGrid_Name</Label>
+    <String>Subspace Targeting Grid</String>
+  </StringTable>
+  <StringTable>
+    <Label>SubspaceTargetingGrid_Dec</Label>
+    <String>Boost Weapon Accuracy of all ships in the Fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>JammingFieldGenerator_Name</Label>
+    <String>Evasion Field Generator</String>
+  </StringTable>
+  <StringTable>
+    <Label>JammingFieldGenerator_Dec</Label>
+    <String>Helps Coordinates fleet to evade enemy fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FieldDisruption_Name</Label>
+    <String>Field Disruption</String>
+  </StringTable>
+  <StringTable>
+    <Label>FieldDisruption_Dec</Label>
+    <String>Helps Coordinates fleet to evade enemy fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WakeGenerator_Name</Label>
+    <String>Wake Generator</String>
+  </StringTable>
+  <StringTable>
+    <Label>WakeGenerator_Dec</Label>
+    <String>Increase the Tactical Speed of all ships in the fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SlipstreamGenerator_Name</Label>
+    <String>Slipstream Generator</String>
+  </StringTable>
+  <StringTable>
+    <Label>SlipstreamGenerator_Dec</Label>
+    <String>Increase the Tactical Speed of all ships in the fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RepulsorField_Name</Label>
+    <String>Repulsor Field</String>
+  </StringTable>
+  <StringTable>
+    <Label>RepulsorField_Dec</Label>
+    <String>Decreases the Tactical Speed of all enemy ships in battle.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>StellarAccelerator_Name</Label>
+    <String>Stellar Accelerator</String>
+  </StringTable>
+  <StringTable>
+    <Label>StellarAccelerator_Dec</Label>
+    <String>Increases the moves of all of the ships within a fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SlipstreamAccelerator_Name</Label>
+    <String>Slipstream Accelerator</String>
+  </StringTable>
+  <StringTable>
+    <Label>SlipstreamAccelerator_Dec</Label>
+    <String>Increases the moves of all of the ships within a fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnvironmentalShieldModule_Name</Label>
+    <String>Environmental Shield Module</String>
+  </StringTable>
+  <StringTable>
+    <Label>EnvironmentalShieldModule_Dec</Label>
+    <String>Makes all ships in the Fleet immune to damaging Nebula Effects.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>StasisFieldModule_Name</Label>
+    <String>Stasis Field Module</String>
+  </StringTable>
+  <StringTable>
+    <Label>StasisFieldModule_Dec</Label>
+    <String>Increases the range of all ships in the Fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DivineTempleSupportModule_Name</Label>
+    <String>Divine Temple Module</String>
+  </StringTable>
+  <StringTable>
+    <Label>DivineTempleSupportModule_Dec</Label>
+    <String>Greatly boost all types of defense, on all ships in a fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorProtectionField_Name</Label>
+    <String>Precursor Protection Field</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorProtectionField_Dec</Label>
+    <String>Greatly boost all types of defense, on all ships in a fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ZalonDefenseSystem_Name</Label>
+    <String>Zalon Defense System</String>
+  </StringTable>
+  <StringTable>
+    <Label>ZalonDefenseSystem_Dec</Label>
+    <String>Increase the Attack of all ships in the Fleet, and reduces the defense of all enemy ships in combat.</String>
+  </StringTable>
+ 
+</StringTableList>

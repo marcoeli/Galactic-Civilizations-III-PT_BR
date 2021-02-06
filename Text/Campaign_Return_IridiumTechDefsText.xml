@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Return_IridiumTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>Return_IridiumTechTree_Name</Label>
+    <String>Return Iridium Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumTechTree_ShortDec</Label>
+    <String>Tech tree focused on Commerce.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumColonizationTech_Name</Label>
+    <String>Expansion</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumXenoIndustrializationTech_Name</Label>
+    <String>Capital Investment</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumAdvancedConstruction_Name</Label>
+    <String>Industrial Investment</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumInstitutionalResearch_Name</Label>
+    <String>Research &amp; Development</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumResearchCenters_Name</Label>
+    <String>Think Tanks</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumResearchCoordination_Name</Label>
+    <String>Information Sharing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumPlanetaryImprovement_Name</Label>
+    <String>Planetary Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumIntensiveFarming_Name</Label>
+    <String>High Yield Crops</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumEnvironmentalEngineering_Name</Label>
+    <String>Property Management</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumLifeSupport_Name</Label>
+    <String>Range Extension</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumLifeSupportOptimization1_Name</Label>
+    <String>Improved Range</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumSupportFieldGeneration_Name</Label>
+    <String>Market Extension</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumSupportFieldMastery_Name</Label>
+    <String>Long Range Convoys</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumInterstellarMining_Name</Label>
+    <String>Recourse Procurement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumAcquisitionTech_Name</Label>
+    <String>Acquisitions</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumAcquisitionTech_ShortDec</Label>
+    <String>Improves military effectiveness.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumAcquisitionSpecialization1_Name</Label>
+    <String>Weapons Quality</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumAcquisitionSpecialization1_ShortDec</Label>
+    <String>Improves the quality of our weapon systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumAcquisitionSpecialization2_Name</Label>
+    <String>Defense Quality</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumAcquisitionSpecialization2_ShortDec</Label>
+    <String>Improves the quality of our defensive systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumAcquisitionSpecialization3_Name</Label>
+    <String>Ship Quality</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumAcquisitionSpecialization3_ShortDec</Label>
+    <String>Improves the hit points of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumEconomicsTech_Name</Label>
+    <String>Economics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumDiplomacyTech_Name</Label>
+    <String>Contracts</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumDiplomaticOptimization1_Name</Label>
+    <String>Economic Contract</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumDiplomaticOptimization2_Name</Label>
+    <String>Cultural Contract</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumDiplomaticOptimization3_Name</Label>
+    <String>Research Contract</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumInterstellarAlliances_Name</Label>
+    <String>Interstellar Partnership</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumAllianceFocus1_Name</Label>
+    <String>Military Partnership</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumAllianceFocus2_Name</Label>
+    <String>Technological Partnership</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumAllianceFocus3_Name</Label>
+    <String>Cultural Partnership</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumEminenceTech_Name</Label>
+    <String>Prominence</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumMajestyTech_Name</Label>
+    <String>Superiority</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumMarketingTech_Name</Label>
+    <String>Marketing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumMarketingTech_ShortDec</Label>
+    <String>Allows for the construction of the Iridium Store.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumMarketingSpecialization1_Name</Label>
+    <String>Brand Awareness</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumMarketingSpecialization1_ShortDec</Label>
+    <String>Increases Store Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumMarketingSpecialization2_Name</Label>
+    <String>Brand Quality</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumMarketingSpecialization2_ShortDec</Label>
+    <String>Increases Store Profits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumXenoCommerce_Name</Label>
+    <String>Customer Relations</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumCommerceSpecialization2_Name</Label>
+    <String>Customer Approval</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumCommerceSpecialization3_Name</Label>
+    <String>Customer Fulfillment</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumInterstellarCommerce_Name</Label>
+    <String>Interstellar Commerce</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumInterstellarCommerce_ShortDec</Label>
+    <String>Allows construction of Iridium Center Improvement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumInterstellarBanking_Name</Label>
+    <String>Interstellar Finance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumInterstellarBanking_ShortDec</Label>
+    <String>Allows construction of Investment Centers</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumMarketingMasters_Name</Label>
+    <String>Marketing Masters</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_IridiumMarketingMasters_ShortDec</Label>
+    <String>Allows construction of The Iridium World Improvement</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+ 
+</StringTableList>

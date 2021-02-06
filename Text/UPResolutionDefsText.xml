@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- UPResolutionDefsText.xml -->
+ 
+<!-- Culture Trait Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>ElectChairmanRes_Name</Label>
+    <String>Eleger uma cadeira Planeta Unido.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ElectChairmanRes_Dec</Label>
+    <String>A fim de melhor assistir todas as raças da Galáxia, a U.P. elege um Ser Presidente que liderará a U.P. para as próximas quatro sessões, cujo dever é escolher quais propostas devem ser apresentadas.
+[COLOR=UIDefaultHighlight](A corrida vencedora é nomeada a presidência da U.P. para a duração)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ElectChairmanRes_Question</Label>
+    <String>Quem deveria ser o presidente da U.P.?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnitedPlanetsHeadquarters_Name</Label>
+    <String>Sede do Planetas Unidos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnitedPlanetsHeadquarters_Dec</Label>
+    <String>Uma raça membro é escolhida para sediar a Sede dos Planetas Unidos pela duração.
+[COLOR=UIDefaultHighlight](50% bônus de Influência para a raça selecionada)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnitedPlanetsHeadquarters_Question</Label>
+    <String>Quem deve ficar com a sede da UP?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnitedPlanetsTourismBoard_Name</Label>
+    <String>Conselho de Turismo dos Planetas Unidos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnitedPlanetsTourismBoard_Dec</Label>
+    <String>A fim de facilitar as relações raciais e educar melhor seus cidadãos membros, os Planetas Unidos se movem para estabelecer um Conselho Galáctico de Turismo. Isto ajudará a popularizar os diversos pontos turísticos em toda a galáxia.
+[COLOR=UIDefaultHighlight](Os bônus de turismo são dobrados)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnitedPlanetsTourismBoard_Question</Label>
+    <String>Devemos abrir a Junta de Turismo dos Planetas Unidos?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalaxyUnitedCelebration_Name</Label>
+    <String>Celebração da Galáxia Unida</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalaxyUnitedCelebration_Dec</Label>
+    <String>Os Planetas Unidos se propõem a organizar uma celebração de um ano na tentativa de fazer com que os cidadãos da galáxia percebam o quanto a galáxia é boa.
+[COLOR=UIDefaultHighlight](10% Bônus de aprovação para todos os membros)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalaxyUnitedCelebration_Question</Label>
+    <String>Devemos iniciar a Celebração da Galáxia Unida?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EconomicRedistributionAct_Name</Label>
+    <String>Redistribuição econômica</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EconomicRedistributionAct_Dec</Label>
+    <String>Os Planetas Unidos têm se preocupado com o fato de que alguns se tornaram excessivamente ricos, explorando as outras raças da UP. Propõe, portanto, um imposto sobre a raça mais rica. A receita gerada será igualmente distribuída entre os demais membros.
+[COLOR=UIDefaultHighlight](A raça com a maior tesouraria dá 25% de seus créditos aos demais membros)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EconomicRedistributionAct_Question</Label>
+    <String>Devemos ter uma Redistribuição Econômica?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalacticPeace_Name</Label>
+    <String>Paz Galáctica</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalacticPeace_Dec</Label>
+    <String>Os Planetas Unidos propõem que todas as guerras interestelares tenham um fim imediato. 
+[COLOR=UIDefaultHighlight](As guerras são terminadas e não podem ser declaradas para a duração)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalacticPeace_Question</Label>
+    <String>Devemos ter a Paz Galáctica?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InterstellarWarFine_Name</Label>
+    <String>Multa Interstelar de Guerra</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InterstellarWarFine_Dec</Label>
+    <String>Os Planetas Unidos descobriram que o preço da guerra interestelar se tornou tão grande que afeta as economias de todas as raças, incluindo as que não estão envolvidas nestes conflitos. Portanto, propõe um imposto sobre todas as raças membros que continuam a travar uma guerra.
+[COLOR=UIDefaultHighlight](As raças beligerantes são multadas em 25% de sua tesouraria, esses créditos são distribuídos aos membros não beligerantes)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InterstellarWarFine_Question</Label>
+    <String>Devemos ter uma multa de Guerra Interstelar?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalacticGamesFund_Name</Label>
+    <String>Fundo dos Jogos Galácticos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalacticGamesFund_Dec</Label>
+    <String>Tomando nota dos Romanos, os Planetas Unidos propõem um evento esportivo de galáxia, os Jogos Galácticos, para reunir as diferentes raças para competir em praticamente todos os esportes conhecidos, durante um período de seis meses. A raça sortuda para sediar os JG's vai colher as recompensas financeiras. 
+[COLOR=UIDefaultHighlight](15% Bônus econômico para a raça escolhida)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalacticGamesFund_Question</Label>
+    <String>Quem deve sediar os Jogos Galácticos?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CulturalPreservationCouncil_Name</Label>
+    <String>Conselho de Preservação Cultural</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CulturalPreservationCouncil_Dec</Label>
+    <String>Em uma tentativa de diminuir a tensão entre as nações membros, a P.U. defende que as colônias não serão mais capazes de mudar sua lealdade.
+[COLOR=UIDefaultHighlight](Colônias controladas por membros não podem mais ter Influência afetada)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CulturalPreservationCouncil_Question</Label>
+    <String>Devemos ter um Conselho de Preservação Cultural?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InterstellarPatentBoard_Name</Label>
+    <String>Conselho Interstelar de Patentes</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InterstellarPatentBoard_Dec</Label>
+    <String>A fim de estimular a pesquisa, os Planetas Unidos endossam a formação de um Conselho Interstelar de Patentes. Isso permitirá que as raças inventoras tenham lucro como recompensa por seus esforços.
+[COLOR=UIDefaultHighlight](O primeiro membro a pesquisar uma tecnologia recebe 25% de seu custo de volta em créditos)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InterstellarPatentBoard_Question</Label>
+    <String>Devemos ter um Conselho Interstelar de Patentes?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FreedomOfTechnologyAct_Name</Label>
+    <String>Liberdade de tecnologia</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FreedomOfTechnologyAct_Dec</Label>
+    <String>Os Planetas Unidos, numa tentativa de equalizar oportunidades, exigirão que todos os seus membros forneçam uma tecnologia para ser compartilhada com todos os membros.
+[COLOR=UIDefaultHighlight](Uma tecnologia aleatória será escolhida de cada membro, e entregue a todos os outros)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FreedomOfTechnologyAct_Question</Label>
+    <String>Devemos ter uma Lei de Liberdade de Tecnologia?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnitedPlanetsResearchFoundation_Name</Label>
+    <String>Fundação de Pesquisa da P.U.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnitedPlanetsResearchFoundation_Dec</Label>
+    <String>A fim de promover o crescimento e a qualidade de vida, os Planetas Unidos se movimentam para financiar uma Fundação de Pesquisa que facilitará o compartilhamento do Conhecimento por toda a galáxia.
+[COLOR=UIDefaultHighlight](As tecnologias não-militares serão 25% mais baratas para a pesquisa para os membros)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnitedPlanetsResearchFoundation_Question</Label>
+    <String>Se tivermos uma Fundação de Pesquisa dos Planetas Unidos ?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TechnologyExploitationPreventionAct_Name</Label>
+    <String>Prevenção da Exploração Tecnologia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TechnologyExploitationPreventionAct_Dec</Label>
+    <String>Os Planetas Unidos descobriram que as raças comerciais de tecnologia se aproveitaram de raças incautas, intermediando essas tecnologias com seus inimigos. Portanto, propõe a proibição de toda intermediação de tecnologia.
+[COLOR=UIDefaultHighlight](As tecnologias não podem ser revendidas a outras raças)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TechnologyExploitationPreventionAct_Question</Label>
+    <String>Devemos ter uma Lei de Prevenção da Exploração da Tecnologia?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TechnologyNonInterferenceAct_Name</Label>
+    <String>Não interferência tecnológica</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TechnologyNonInterferenceAct_Dec</Label>
+    <String>Os Planetas Unidos se preocuparam com o fato de que o comércio acelerado da tecnologia começou a sufocar o desenvolvimento cultural de seus membros, incentivando a homogeneização sobre a diversidade cultural. Propõe, portanto, a proibição de todo comércio de tecnologia.
+[COLOR=UIDefaultHighlight](Desativa o comércio de tecnologia)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TechnologyNonInterferenceAct_Question</Label>
+    <String>Devemos ter uma Lei de Não Interferência Tecnológica?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnvironmentalProtectionAct_Name</Label>
+    <String>Proteção Ambiental</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnvironmentalProtectionAct_Dec</Label>
+    <String>Os Planetas Unidos, em uma tentativa de proteger o que resta dos mundos virgens na galáxia, exige o congelamento de toda a colonização. 
+[COLOR=UIDefaultHighlight](Os membros não podem colonizar novos planetas)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnvironmentalProtectionAct_Question</Label>
+    <String>Devemos ter uma Lei de Proteção Ambiental?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DemilitarizationTreaty_Name</Label>
+    <String>Desmilitarização</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DemilitarizationTreaty_Dec</Label>
+    <String>A fim de promover a paz na galáxia, os Planetas Unidos se movem para proibir a pesquisa de todas as novas tecnologias de armas por um período limitado. 
+[COLOR=UIDefaultHighlight](Os treinamentos em armas não pesquisados são trancados por toda a duração)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DemilitarizationTreaty_Question</Label>
+    <String>Deveríamos ter um Tratado de Desmilitarização?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InterstellarTradeStimulusAct_Name</Label>
+    <String>Estímulo ao Comércio Interstelar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InterstellarTradeStimulusAct_Dec</Label>
+    <String>Os Planetas Unidos acreditam que a paz interestelar próspera é boa para todos os seus membros, promovendo a boa vontade e o crescimento econômico. Para tanto, está endossando a expansão das licenças comerciais, concedendo a cada raça duas rotas comerciais adicionais cada uma..
+[COLOR=UIDefaultHighlight](Os membros ganham duas rotas comerciais adicionais)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InterstellarTradeStimulusAct_Question</Label>
+    <String>Devemos ter uma Lei de Estímulo ao Comércio Interstelar?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DiversityInTradeAct_Name</Label>
+    <String>Diversidade no comércio</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DiversityInTradeAct_Dec</Label>
+    <String>Os Planetas Unidos acham que o comércio exclusivo causa conflitos culturais nas ilhas da galáxia. A fim de incentivar a diversificação, a PU propõe uma recompensa econômica para as raças que comerciam com todos os membros que não estão em guerra com eles.
+[COLOR=UIDefaultHighlight](Ter pelo menos uma rota comercial com cada membro proporciona um bônus de 50% à renda comercial)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DiversityInTradeAct_Question</Label>
+    <String>Devemos ter uma Lei da Diversidade no Comércio?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalacticDomainAct_Name</Label>
+    <String>Domínio Galáctico</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalacticDomainAct_Dec</Label>
+    <String>Os Planetas Unidos sentem que os planetas não-colonizados nas fronteiras de um império pertencem a esse império. A PU propõe uma resolução para bloquear outras raças de colonizá-los.
+[COLOR=UIDefaultHighlight](Os jogadores não podem colonizar os planetas nas fronteiras de outro jogador)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalacticDomainAct_Question</Label>
+    <String>Devemos ter uma Lei de Domínios Galácticos?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DefiantRaceRemoval_Name</Label>
+    <String>Remoção da raça desafiante</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DefiantRaceRemoval_Dec</Label>
+    <String>Qualquer facção na PU deve prometer para sempre purgar a galáxia de qualquer facção que desafie a PU.
+[COLOR=UIDefaultHighlight](Todos os membros declaram guerra a qualquer um que esteja desafiando a PU)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DefiantRaceRemoval_Question</Label>
+    <String>Deveríamos ter uma Lei de Remoção de Raça Desafiante?</String>
+  </StringTable>
+ 
+</StringTableList>

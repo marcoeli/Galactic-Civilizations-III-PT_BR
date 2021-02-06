@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- IStarSystem.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>SolSystem_Name</Label>
+    <String>Sol</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SolSystem_Dec</Label>
+    <String>The human solar system containing a class 11 and a class 5 world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DrengiSystem_Name</Label>
+    <String>Drengia</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DrengiSystem_Dec</Label>
+    <String>The Drengin home system containing a class 11
+and a class 5 world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltariaSystem_Name</Label>
+    <String>Altaris</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltariaSystem_Dec</Label>
+    <String>The Altarian home system containing a class 10
+and a class 6 world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IridiaSystem_Name</Label>
+    <String>Iridii</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IridiaSystem_Dec</Label>
+    <String>The Iridium home system containing a class 12 and a class 4 world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IconiaSystem_Name</Label>
+    <String>Icos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IconiaSystem_Dec</Label>
+    <String>The ancient Iconian, and now Yor, home system.
+It contains a single class 16 world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrysethSystem_Name</Label>
+    <String>Kryseth</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrysethSystem_Dec</Label>
+    <String>The Krynn home system. It contains a class 8, and two class 4  worlds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IconisSystem_Name</Label>
+    <String>Iconis</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IconisSystem_Dec</Label>
+    <String>The new home system of the Iconian race containing a class 13 and a class 3 world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThalisSystem_Name</Label>
+    <String>Thalis</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThalisSystem_Dec</Label>
+    <String>The home of the Thalan Contingency in this Universe.
+It contains a single class 16
+world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SnathiSystem_Name</Label>
+    <String>Snathos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SnathiSystem_Dec</Label>
+    <String>The ancient home of the Snathi
+It contains a single class 15 (Bread Basket)
+world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MinorSystem_Name</Label>
+    <String>Arb System</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MinorSystem_Dec</Label>
+    <String>Randomized home system for Minor Races. It contains a class 16 world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DeadSystem_Name</Label>
+    <String>Abbydos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DeadSystem_Dec</Label>
+    <String>A ruined star system. No Habitable Planets, Just a burned out Rock. Used by the brave and adventuresome.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ArceaSystem_Name</Label>
+    <String>Arcea System</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ArceaSystem_Dec</Label>
+    <String>The home system of the Arcean Empire containing a 11 and a class 5 world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TorusSystem_Name</Label>
+    <String>Torus System</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TorusSystem_Dec</Label>
+    <String>The home system of the Torian Regime, containing class 5 and  11 Aquatic worlds. Not recommended for non Aquatic races.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>StarterSereneSystem_Name</Label>
+    <String>Serenity</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>StarterSereneSystem_Dec</Label>
+    <String>Contains a beautiful class 12 world with a bonus to Tourism and Approval.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OnyxSystem_Name</Label>
+    <String>Onyx System</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OnyxSystem_Dec</Label>
+    <String>The home system of the Onyx, an Asteroid heavy system, containing a Class 11 and a Class 5 world, both with Active Cores.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SlyneSystem_Name</Label>
+    <String>Slyne System</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SlyneSystem_Dec</Label>
+    <String>The home system of the Slyne containing a class 11 Shrouded World and a class 9 Frozen world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProximaCentauriSystem_Name</Label>
+    <String>Proxima Centauri</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProximaCentauriSystem_Dec</Label>
+    <String>The home system of the exiled Terran Resistance. With a single Class 15 Shielded world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KoraSystem_Name</Label>
+    <String>Ra'nagoh</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KoraSystem_Dec</Label>
+    <String>The home system of the Korath.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DrathaSystem_Name</Label>
+    <String>Drathis</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DrathaSystem_Dec</Label>
+    <String>The home system of the Drath.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TywomSystem_Name</Label>
+    <String>Alpha Repeculae</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TywomSystem_Dec</Label>
+    <String>The Tywom solar system containing a class 11 and a class 5 world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MukaySystem_Name</Label>
+    <String>Beta Pavo</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MukaySystem_Dec</Label>
+    <String>The Mukay solar system containing a class 11 and a class 5 world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MowlingsSystem_Name</Label>
+    <String>Delta Xiphios </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MowlingsSystem_Dec</Label>
+    <String>The Mowlings solar system containing a class 11 and a class 5 world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FreeTrandalsSystem_Name</Label>
+    <String>Delta Gladius</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FreeTrandalsSystem_Dec</Label>
+    <String>The Free Trandals solar system containing a class 11 and a class 5 world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ScryveSpace_Name</Label>
+    <String>Scryve System</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ScryveSpace_Dec</Label>
+    <String>The trial by fire known as home to the Scryve Empire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MeasuredSystem_Name</Label>
+    <String>Delta Domos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MeasuredSystem_Dec</Label>
+    <String>The hungry little hometown to the race known as the Phamysht.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PhamyshtSytem_Name</Label>
+    <String>Beta Ishikawa A</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PhamyshtSytem_Dec</Label>
+    <String>Homeworld to the Measured.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XrakiSystem_Name</Label>
+    <String>Urkarakah Scraetschi</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XrakiSystem_Dec</Label>
+    <String>Perfect, terrible, nothing, doesn't belong in such a small galaxy.</String>
+  </StringTable>
+ 
+</StringTableList>

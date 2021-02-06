@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Campaign_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Contingency_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>Having secured Arcea and the Thalis sector, the Terran Alliance has proven it is ready to cut its way to Earth, and now has the resources required to do it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Contingency_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>The Terran 1st Fleet's near-miraculous return to this universe has ended in tragedy. Despite the awesome power of the T.A.S. Crusader, the fleet was crushed under the heel of the ever-expanding Drengin Empire.
+
+All that remains of the Human race now is Earth, imprisoned behind its Precursor Shield, perhaps forever.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- NewOrders Note - New orders-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_NewOrders_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Now that we have secured the Arcea sector, we need to spend some time reinforcing the 1st Fleet. Even the T.A.S. Crusader is going to need some repairs to make it all the way to Earth on its own.
+
+In the mean time, I need you to take care of a problem.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_NewOrders_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir! I am at your disposal.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- DealWithTheThalan Note - Take care of the Thalan-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_DealWithTheThalan_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Thalan Contingency has apparently spent the time we were in the pocket universe attempting to convince former allies that we must not be allowed to free Earth. 
+
+I want you to take a small force to the Thalis system and deal with them, one way or the other.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_DealWithTheThalan_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Indeed, they approached us a year ago. We found their claims unlikely, to say the least. [COLOR=PragmaticGold](Pragmatic)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_DealWithTheThalan_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I'm giving you all the resources of the planet Dominion Prime to do what you have to.
+
+If you can convince them our cause is just, all the better. If they will not listen to reason, you know what to do.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_DealWithTheThalan_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They came to us last year with this; we sent their messenger back to them through a torpedo tube. [COLOR=WarRed](Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_DealWithTheThalan_Counter2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I'm giving you all the resources of the planet Dominion Prime to do what you have to. The Crusader will stay here at Arcea for repair.
+
+If you can convince them our cause is just, all the better. If they will not listen to reason, you know what to do.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- ThalanWarning Note - ThalanWarning-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_ThalanWarning_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Greetings, Commander. Now that you have been in command of that Terran monstrosity of a ship and have witnessed first-hand what one such vessel can do, do you still doubt our prophecy?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_ThalanWarning_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are trying to liberate our homeworld. You would do the same. Let us come to an agreement.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_ThalanWarning_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your prophecy is a joke. If you insist on standing in our way, we will have to remove you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- ThalanWarningResponse1 Note - Let us talk, work toward cooperation-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_ThalanWarningResponse1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If you continue down the path you are on, we will be forced to stop you.
+
+There are ways other than war to end this.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_ThalanWarningResponse1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Let us work together to fight the Drengin encroachment. Together we can clear this sector of their influence.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_ThalanWarningResponse1_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Perhaps.
+
+In truth your help with the Drengin would be welcome, but we can not let this war end the way it 'has before.' 
+
+I must commune with the Hive. We will contact you soon.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_ThalanWarningResponse1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You have seen what we have done in the Arcea Sector. The Drengin do not stand a chance if we work together.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_ThalanWarningResponse1_Counter2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It is true that what you have brought back from the pocket universe gives you an advantage. 
+
+However, there are other Precursor relics in the galaxy. If we must, we will use them to stop you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- ThalanWarningResponse2 Note - Get out of the way-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_ThalanWarningResponse2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are not so weak as to make it easy for you. 
+
+We will do what we must to stop you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_ThalanWarningResponse2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You must do what you feel is right, but this is your last warning. If you do not let us pass though this sector, we will remove you from it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_ThalanWarningResponse2_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This war will not end with your victory, we have had years to prepare for your return. 
+
+There are other Precursor relics that you brought back from the pocket universe.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_ThalanWarningResponse2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I do not have the patience for this. If you will not step aside we will move you!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_ThalanWarningResponse2_Counter2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>As we expected, you will not listen to reason. If you insist on war, you shall have it!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- WillingToWorkTogether Note - The Hive will try working with you.-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_WillingToWorkTogether_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Hive has communed. We have decided that we must let you prove that you can change your fate. 
+
+Work with us to hold back the Drengin tide, and together we may find a way to stop the the future from unravelling. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_WillingToWorkTogether_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Drengin are our true enemy. We mean the universe no harm and we will prove it!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_WillingToWorkTogether_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Let us work together, in the hopes that you will see the truth of our warning before it is too late.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_WillingToWorkTogether_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have also had time to think. We do not have the patience for this. If you will not step aside we will move you! </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_WillingToWorkTogether_Counter2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>As we expected, you will not listen to reason. If you insist on war, you shall have it!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- DrenginSayHi Note - Drengin say hi-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_DrenginSayHi_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your victory at Arcea means nothing, fleshlings. At least you have finally become an enemy worth fighting. 
+
+Please continue down the path of your own destruction. It will surely be interesting for us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_DrenginSayHi_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will give you one chance to get out of the way and clear a path to Earth.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_DrenginSayHi_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We appreciate your spirit! Come, we will be waiting for you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_DrenginSayHi_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You have no idea what is coming for you! When we are done the Drengin Empire will be dust.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- WipeOutDrengin Note - Victory, Wipe the Drengin off the map-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_WipeOutDrengin_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Once again you have proven your worth, Commander. While you were taking care of our little problem, we have been able to rebuild our fleet. Get some rest.
+
+Tomorrow, we start for Earth.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Contingency_WipeOutDrengin_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

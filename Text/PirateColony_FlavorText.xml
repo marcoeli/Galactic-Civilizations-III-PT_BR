@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- PirateColony_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>PirateColony_MegaEvent_Message_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Disturbing reports have begun coming in that pirates have settled a low class colony. They do not seem to be able to make much use of this world but nonetheless we find it disturbing. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PirateColony_MegaEvent_Message_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If they wish to build legitimate colonies all the better, but if they continue to raid our ships, these worlds will not protect them. [COLOR=BenevolentBlue](Benevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PirateColony_MegaEvent_Message_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The pirate threat must not be allowed to grow. Also we can certainly make good use of their newly terraformed world, despite its quality. [COLOR=PragmaticGold](Pragmatic +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PirateColony_MegaEvent_Message_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, we can use this pathetic colony as training exercises for our fleets and no one will miss a bunch of pirates. [COLOR=WarRed](Malevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

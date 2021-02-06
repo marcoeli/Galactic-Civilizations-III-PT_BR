@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- EXP4_FactionText.xml -->
+ 
+  <StringTable>
+    <Label>EXP4_FACTION_KORATH_Name</Label>
+    <String>Korath Clan</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_FACTION_KORATH_ShortName</Label>
+    <String>Korath</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_FACTION_KORATH_LeaderName</Label>
+    <String>Kindar A'Aghohl </String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_FACTION_KORATH_Dec</Label>
+    <String>O Clã Korath é formado por antigos guerreiros Drengin de elite, que se diferenciaram de seus irmãos tanto pela ferocidade de seu desejo de exterminar as raças não-drengins quanto por sua capacidade de realmente o fazer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_FACTION_KORATH_LeaderDec</Label>
+    <String>O mais irado dos Korath, que está dizendo algo, Kindar A' Aghohl liderou a secessão de seu clã do Império Drengin e sua subseqüente ascensão. Partes iguais temidas e temidas, sua maior aspiração é que um dia também seja arruinada.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_FACTION_KORATH_Callsign</Label>
+    <String>K.C.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_FACTION_KORATH_StartupTitle</Label>
+    <String>Esmagar o fraco</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_FACTION_KORATH_StartupDescription</Label>
+    <String>Dentro do Império Drengin, o clã Korath sempre foram as vozes mais fortes que pediam a destruição das raças não-drengins. Mas não foi até a chegada dos Senhores do Temido pan-dimensional que os Korath conseguiram perseguir este objetivo por conta própria. Torcidos pelas energias maléficas do Temido Senhor, os Korath ganharam agora sua independência do Drengin, e uma aparência única.
+
+Guerreiros extremamente poderosos, os Korath possuem mentes marciais apuradas e têm uma vantagem em todos os assuntos militares. Embora diplomaticamente fracos, eles têm pouco uso para isso.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_FACTION_KORATH_StartupTraitsDescription</Label>
+    <String>O Korath tem bônus para soldados e navios de combate, embora sua natureza excessivamente militarista limite um pouco seu desenvolvimento econômico.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4_FACTION_DRATH_Name</Label>
+    <String>Drath Legion</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_FACTION_DRATH_ShortName</Label>
+    <String>Drath</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_FACTION_DRATH_LeaderName</Label>
+    <String>Embryes Draken</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_FACTION_DRATH_Dec</Label>
+    <String>Criaturas misteriosas que gostam de se mover nas sombras, os Drath são mestres do subterfúgio e da manipulação. Dizem que estão por trás de todos os grandes conflitos da galáxia, embora seja igualmente provável que eles mesmos espalhem esses rumores.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_FACTION_DRATH_LeaderDec</Label>
+    <String>Não se poderia subir ao poder dentro da Legião Drath sem ser um especialista em má direção, então é difícil dizer quais das muitas histórias sobre Embreyes Draken e seu passado são verdadeiras. Que ela mesma é uma especialista em manipulação sutil parece uma aposta segura.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_FACTION_DRATH_Callsign</Label>
+    <String>D.L.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_FACTION_DRATH_StartupTitle</Label>
+    <String>Movendo-se nas sombras</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_FACTION_DRATH_StartupDescription</Label>
+    <String>Misteriosos e manipuladores, os Drath são marcados por seu ódio único e misterioso pelos Altaristas. O Drath até mesmo afirma ter se originado e ser o verdadeiro dono do planeta Altar, embora poucos possam ver como isso é possível.
+
+O que se sabe é que eles são espertos e manipuladores. Não agressivos por natureza, e possuindo uma taxa de crescimento naturalmente lenta, os Drath não são propensos a uma ampla expansão. Mas eles compensam isso com habilidades diplomáticas e econômicas excessivamente altas, mesmo suspeitas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_FACTION_DRATH_StartupTraitsDescription</Label>
+    <String>Os Drath têm bônus para as habilidades diplomáticas e econômicas, mas são prejudicados por uma lenta taxa de natalidade natural.</String>
+  </StringTable>
+ 
+ 
+</StringTableList>

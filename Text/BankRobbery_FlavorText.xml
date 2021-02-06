@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- BankRobbery_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>BankRobbery_MegaEvent_Message_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have just received some alarming news. It seems that one of our ships has stumbled upon a dead ship.  The crew has killed each other over a vast stash of credits found in the ship's hold.  So far no one has mentioned the thefts, so we are not sure what we should do with the Credits.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>BankRobbery_MegaEvent_Message_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must track down the victims of this crime and return to them what was taken.
+[COLOR=BenevolentBlue](Benevolent +50, +5 Diplomacy)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>BankRobbery_MegaEvent_Message_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Let us put some effort into returning the credits to the victims, minus a generous salvage fee of course.
+[COLOR=PragmaticGold](Pragmatic +50, +2500 Credits)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>BankRobbery_MegaEvent_Message_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Let the victims know that the ship was empty when we found it.  What a pity.
+[COLOR=WarRed](Malevolent +50, -5 Diplomacy, +5000 Credits)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

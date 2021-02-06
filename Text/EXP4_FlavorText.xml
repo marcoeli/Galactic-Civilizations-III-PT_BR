@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+
+	<FlavorTextDef>
+		<InternalName>FIRST_CONTACT_MAIN</InternalName>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_KORATH</SpeakerFaction>
+			</Requirements>
+			<Text>Que poluente sujo de uma criatura atravessa minha tela?</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_DRATH</SpeakerFaction>
+			</Requirements>
+			<Text>Um dia agradável para você.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+	</FlavorTextDef>
+
+	<FlavorTextDef>
+		<InternalName>FIRST_CONTACT_RESPONSE_PEACEFUL</InternalName>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_KORATH</SpeakerFaction>
+			</Requirements>
+			<Text>É um prazer conhecer você e sua espécie, Korath.</Text>
+			<PreferenceWeight>1</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_DRATH</SpeakerFaction>
+			</Requirements>
+			<Text>E para você, Drath.</Text>
+			<PreferenceWeight>1</PreferenceWeight>
+		</FlavorTextOption> 
+	</FlavorTextDef>	
+
+	<FlavorTextDef>
+		<InternalName>FIRST_CONTACT_RESPONSE_NEUTRAL</InternalName>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_KORATH</SpeakerFaction>
+			</Requirements>
+			<Text>Cuidado com seus modos, Korath. Você não vai intimidar ninguém aqui.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_DRATH</SpeakerFaction>
+			</Requirements>
+			<Text>Veremos como fica agradável.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+	</FlavorTextDef>	
+
+
+	<FlavorTextDef>
+		<InternalName>GENERIC_GREETING</InternalName>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_KORATH</SpeakerFaction>
+			</Requirements>
+			<Text>Faça isso rápido, escumalha alienígena.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>	
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_DRATH</SpeakerFaction>
+			</Requirements>
+			<Text>Olá, alienígena. Temos sempre tempo para nos comunicarmos com você.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>	
+
+
+	</FlavorTextDef>
+
+	<FlavorTextDef>
+		<InternalName>DECLARE_WAR_MAIN</InternalName>
+
+		<FlavorTextOption>
+			<ResponseTag>TYWOM_DECLARE_WAR_ON_PLAYER</ResponseTag>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_KORATH</SpeakerFaction>
+			</Requirements>
+			<Text>Como é miserável uma vida que você deve viver, não sendo um de nós. Em breve estará terminada, para você e toda a sua espécie.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_DRATH</SpeakerFaction>
+			</Requirements>
+			<Text>Todos conhecem o Drath como um povo pacífico. Todos ficarão surpresos por nos terem levado à guerra.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+	</FlavorTextDef>
+
+	<FlavorTextDef>
+		<InternalName>ASK_FOR_PEACE_MAIN</InternalName>
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_KORATH</SpeakerFaction>
+			</Requirements>
+			<Text>Você já provou sua força, alienígena. Já chega de brigas. Vamos cuidar de nossas feridas.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_DRATH</SpeakerFaction>
+			</Requirements>
+			<Text>Juntos podemos acabar com esta violência. Toda a galáxia nos pede que deixemos de lado nossas diferenças.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+	</FlavorTextDef>
+
+	<FlavorTextDef>
+		<InternalName>AI_CREATED_TRADE_OFFER</InternalName>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_KORATH</SpeakerFaction>
+			</Requirements>
+			<Text>Veja, alienígena. Uma oferta e um presente. Você seria um tolo se não aceitasse.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_DRATH</SpeakerFaction>
+			</Requirements>
+			<Text>Trouxemos a você uma oferta, mutuamente benéfica de todas as maneiras possíveis.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+	</FlavorTextDef>
+
+	<FlavorTextDef>
+		<InternalName>TRADE_OFFER_ACCEPT</InternalName>
+
+		<FlavorTextOption>
+			<ResponseTag>TYWOM_DECLARE_WAR_ON_PLAYER</ResponseTag>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_KORATH</SpeakerFaction>
+			</Requirements>
+			<Text>Aceitamos sua oferta, estrangeiro.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_DRATH</SpeakerFaction>
+			</Requirements>
+			<Text>Esta oferta é certamente benéfica para você. Nós aceitamos. É benéfica para nós mesmos? Talvez.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+	</FlavorTextDef>
+
+	<FlavorTextDef>
+		<InternalName>GENERAL_CONVERSATION_MAIN</InternalName>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_KORATH</SpeakerFaction>
+			</Requirements>
+			<Text>A galáxia está inundada de alienígenas imundos. É repugnante.</Text>
+			<Text>Você já se cansou dos sons que seu rosto horrível faz? Eu me canso.</Text>
+			<Text>Não desperdice meu tempo com conversas ociosas. Mas principalmente não desperdice o meu.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_DRATH</SpeakerFaction>
+			</Requirements>
+			<Text>Você veio até nós em conversa. Ótimo. Nós gostamos disso.</Text>
+			<Text>Uma troca de palavras leva a uma troca de pensamentos. Semeando idéias! Uma idéia poderosa em si.</Text>
+			<Text>Veja, é um de nossos pares, outra civilização poderosa. Temos sempre tempo para a sua espécie.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+	</FlavorTextDef>
+
+	<FlavorTextDef>
+		<InternalName>GENERAL_CONVERSATION_ACCEPT</InternalName>
+
+
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_KORATH</SpeakerFaction>
+			</Requirements>
+			<Text>Prazer em falar com você também, Korath.</Text>
+			<PreferenceWeight>50</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_KORATH</SpeakerFaction>
+			</Requirements>
+			<Text>Hoje você parece mais feio do que o normal.</Text>
+			<PreferenceWeight>50</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_DRATH</SpeakerFaction>
+			</Requirements>
+			<Text>Prazer em falar com você também, Drath.</Text>
+			<PreferenceWeight>50</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>EXP4_FACTION_DRATH</SpeakerFaction>
+			</Requirements>
+			<Text>Estamos de olho em você, Drath.</Text>
+			<PreferenceWeight>50</PreferenceWeight>
+		</FlavorTextOption>
+	</FlavorTextDef>
+
+</FlavorTextDefs>

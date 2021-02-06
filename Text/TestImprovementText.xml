@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Used for creating test improvements -->
+
+  <StringTable>
+    <Label>JaysLounge_Name</Label>
+    <String>Jay's Lounge</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>JaysLounge_ShortDec</Label>
+    <String>Taps into your influence by attracting tourists to generate income. The more parsecs you reach with your influence, especially connected to the capital, the more money it'll rake in.</String>
+  </StringTable>
+
+</StringTableList>

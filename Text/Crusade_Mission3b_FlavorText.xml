@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Crusade_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>The Yor Singularity has been destroyed, securing a new future. But reports are trickling in that some Yor escaped the purge, and envious of their power, D.L. Bradley has pursuied them into uncharted space, leaving Colonel Casey to confront the Drengin alone.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>Despite its incredible strength, the Terran fleet failed to defeat the Yor. Achieving Singularity will allow them to make full use of the Shard of the Telenanth. Dark days loom...</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_TurnOneMessage_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel, we received a message from the Thalan Contingency some time ago. Admiral Bradley wants nothing to do with the bugs, and has asked you to handle it. They wanted us to meet us somewhere in this sector.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_TurnOneMessage_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well then where are they?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_TurnOneMessage2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I'm not sure, sir. They weren't specific.
+
+I'd suggest we establish a base of operations, then proceed to scout around to find them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_TurnOneMessage2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Ok, let's get started.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_TurnOneMessage2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They couldn't just be right here? Never did like those bugs myself.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_ThalanUnhideA_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Welcome to the new future, humans. Finally, for the first time we can recall, we are pleased to see you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_ThalanUnhideA_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We're pleased to see you too. Especially now that you're not threatening us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_ThalanUnhideA_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This had better be good, Thalan. You're distracting us from the Drengin threat.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_ThalanUnhideB_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Welcome to the new future, humans. Finally, for the first time we can recall, we are pleased to see you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_ThalanUnhideB_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We're pleased to see you too. Especially now that you're not threatening us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_ThalanUnhideB_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This had better be good, Thalan. You're distracting us from the Drengin threat.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_ThalanUnhideC_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Welcome to the new future, humans. Finally, for the first time we can recall, we are pleased to see you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_ThalanUnhideC_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We're pleased to see you too. Especially now that you're not threatening us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_ThalanUnhideC_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This had better be good, Thalan. You're distracting us from the Drengin threat.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_ThalanUnhide2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The verbal threats will end, humans. From us at least.
+
+But other, external threats remain. The Yor, for example.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_ThalanUnhide2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What have the Yor done now?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_ThalanUnhide3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If you had dealt with the Drengin by using the Shard of the Telenanth, you would have destroyed us all. We have been over this many times.
+
+We're glad you rejected that path. Do not dwell on it any more. Because another threat remains. The Yor.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_ThalanUnhide3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This is the first you've even mentioned the Yor.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_ThalanUnhide4_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The problem with the Yor is something we have only now realized. As all know, the Yor have long planned to achieve Singularity. In our dimension, this never came to pass, halted as it was by humanity tearing all of reality to shreds. In this new, better future, they remain a pressing threat.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_ThalanUnhide4_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What's wrong with the Yor achieving Singularity?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_ThalanUnhide5_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It leads to the unknown. Worse, the unknowable. When the Yor achieve Singularity, their technology will accelerate at an exponential pace, far faster than the rest of the universe can cope with, or even foresee. Untold destructive energies will almost certainly be unleashed. Energies which might set us down the same path we just avoided.
+
+That is why we must now stop them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_ThalanUnhide5_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Ok. We never liked the Yor anyways.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_ThalanUnhide5_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>So long as we stop the Drengin eventually.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_YorUnhideA_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Humans. Have you made contact with the Yor yet? Something is very wrong. Their technology. They are much closer to achieving singularity than they should be.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_YorUnhideA_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Than they should be? How do you know? I thought this was a new future?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_YorUnhide2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It is. But we know how our future played out, and the Yor were nowhere near this level in our time. They must have done something. 
+
+The Slyne! Of course! When you rejected their path of vengeance, they must have presented the same deal to the Yor. There was another Shard of the Telenanth. And now the Yor have it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_YorUnhide2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That sounds bad.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_YorUnhide2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That sounds super bad.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_YorUnhide3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Without the Bane, the Yor cannot unlock the power of the Shard fully, not yet. But once they achieve Singularity... 
+
+We must stop them. Now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_YorUnhide3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes we must.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_YorUnhide3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well we were hardly planning on waiting.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_IconiaUnhide_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Humans! The signals coming from that nebula! There's a ship in there! A big one!
+
+The Yor must be going to use that... Singularity Ship... to finish the process!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_IconiaUnhide_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What's a Singularity Ship?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_IconiaUnhide_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We've killed lots of Yor ships. What's so special about this one?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_IconiaUnhide2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our scanners suggest it has power similar to your own Crusader. With it, the Yor won't need worlds any longer. Everything they'll need to complete the process is contained within its despicable hull. 
+
+Only you and your own Precursor powered ship have a chance of stopping it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_IconiaUnhide2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We'll contact Admiral Bradley now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_CrusaderArrives_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Casey? What are you interupting me for now? Have your bug friends betrayed you yet?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_CrusaderArrives_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>No sir. It's the Yor. They've created... Something.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_CrusaderArrives2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I see. This power they're chasing... I understand better than anyone.
+
+We have to stop them. I'll bring the Crusader into your sector now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_CrusaderArrives2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thanks. Sir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_SingularityShipKilled_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You did it. Destroying that ship has surely been enough to escape the apocalypse we feared.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_SingularityShipKilled_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's good news.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_SingularityShipKilled_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It had better be.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_SingularityShipKilled2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Saving the future is becoming something of a habit for you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_SingularityShipKilled2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Hang on. I'm getting an incoming signal from Admiral Bradley</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_SingularityShipKilled3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Casey? When that ship was destroyed, the Crusader detected a signal. Our scanners are seeing traces of another fleet of Yor ships escaping the sector at great speed.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_SingularityShipKilled3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well, we've hunted them down once. We can do it again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_SingularityShipKilled4_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Not you, Colonel. The Yor are pursuing a power you don't understand. I will pursue them alone with the Crusader. If I catch them... I might yet correct your mistake.
+
+If you think you can protect humanity without the power of the Bane, then prove it. Go to Drengi. Stop the Drengin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_SingularityShipKilled4_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes sir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3b_SingularityShipKilled4_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We'll stop them. But we won't exterminate them, sir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

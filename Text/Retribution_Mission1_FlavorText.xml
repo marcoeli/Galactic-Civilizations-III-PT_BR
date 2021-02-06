@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Retribution_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>The Thalan prophecies have proven true. Left unchecked, mankind will indeed cause the destruction of the galaxy. However, the appearance of the ancient dread lord Xoran has provided us with a slim hope of stopping the Apocalypse.
+
+We must make our way to the ancient world of Elemental (now known as Altaria) and take control of the last Shard of the Telenanth. Unfortunately, it is well behind enemy lines and heavily fortified by the Yor.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>The small but undeniably brave Terran task force has been overwhelmed by the vengeful Korath, who will soon uncover the ancient secrets of Yiven III and use it for their own dark purposes.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_Orders1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel, while securing the Sol system, I want you to investigate some disturbing information that the Thalan Ambassador has provided. 
+
+They claim that our war with the Drengin will result in the destruction of the galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_Orders1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That is disturbing.  How could they possibly know that?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_Orders2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They claim the proof can be found on the Precursor Prison planet called Yiven III.
+
+They also claim to be from 30 years in our future. So I am skeptical, to say the least.
+
+Regardless, I need you to investigate this Yiven III, and see if there is any truth to their story.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_Orders2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Should we expect any resistance in the area?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_Orders3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>There are signs of some unknown races hiding out in the Yiven sector but we don't think they will get in your way.
+
+If they do, I will leave it to your discretion on how best to deal with them. 
+
+However, don't lose focus. Our ultimate goal here is to find out what is on Yiven III and learn what we can.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_Orders3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Understood. We will take Yiven III and hopefully not make any new enemies doing it.  [COLOR=BenevolentBlue](+15 Benevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_Orders3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yiven III will be yours shortly. We will do whatever it takes. [COLOR=PragmaticGold](+15 Pragmatic)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_Orders3_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes sir, If anyone gets in our way they will regret it. [COLOR=WarRed](+15 Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_Orders3Response1Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Just see that it gets done.  I don't think anyone is going to want to be our enemy after I'm done with the Drengin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_Orders3Response2Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent Colonel, let us know when it is done.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_Orders3Response3Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's the spirit Colonel. Just see that it gets done.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_SignalDetected_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel, we are detecting signs of life on a nearby world. The signals look familiar. We think it might be the Drath.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_SignalDetected_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We were told they had been wiped out by the Drengin. We should investigate.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_UncoverNewDrath1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Greetings Humans. While we are glad to see you survived the coming of the Dreadlords, we would have preferred you had not stumbled upon our new home.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_UncoverNewDrath1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our sources indicated your race was lost in the war. I am pleased to find they were wrong.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_UncoverNewDrath2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have gone out of our way to let that rumor grow. It will take us generations to recover from our losses. We had hoped this quiet corner of the galaxy would allow us to do so in peace.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_UncoverNewDrath2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>	That is understandable. We are here on an urgent mission but if we can assist you in your recovery, let us know.
+[COLOR=BenevolentBlue](+15 Benevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_UncoverNewDrath2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It is always tempting to let others fight your battles for you. [COLOR=WarRed](+15 Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_UncoverNewDrath2Response1Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are greatfull for your offer. But all we ask is to be left alone.
+
+However we might be able to help you, if it will speed you out of our sector more quickly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_UncoverNewDrath2Response1Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We welcome any help.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_UncoverNewDrath2Response2Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have fought our own wars since before humans crawled onto land.
+ 
+However, we might be able to be of assistance to you, if it will speed you out of our sector more quickly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_UncoverNewDrath2Response2Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I'm listening...</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DrathHelp1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We assume you are here to investigate the signal from Yiven III?
+
+
+Know that we have been watching that Precursor World for some time. But you should also know that it has come to the attention of other races besides us as well, some with less then noble intentions.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DrathHelp1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What do you mean?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DrathHelp2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our old enemy, The Korath, also escaped the Dread Lord War alive. Unfortunately, they have colonized a world near Yiven III. We believe they are searching for an artifact on Yiven III that will allow them to take back the leadership of the Drengin Empire.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DrathHelp2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Great. It seems all our old friends have been hiding in this sector.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DrathHelp3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Indeed, we are not pleased with their vicinity either. 
+
+You will need to evict them if you wish to take control of Yiven III. 
+
+If you rid our sector of this menace we will be happy to share with you what resources we have at our disposal.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DrathHelp3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Korath are no friends of ours. We will be happy to help you out. [COLOR=BenevolentBlue](+15 Benevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DrathHelp3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our goal is to take Yiven III. If that means riding the sector of the Korath, all the better. [COLOR=PragmaticGold](+15 Pragmatic)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DrathHelp3_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If the Korath get in our way they will die. If we wanted your resources we'd kill you too. [COLOR=WarRed](+15 Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DrathHelp3Response1Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent. We will monitor your progress.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DrathHelp3Response2Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent. We will monitor your progress.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DrathHelp3Response3Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You might find that our destruction would be more difficult than you thought. Worry not we will not stand in your way but we will monitor your progress. Try not to die too quickly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_CaptureYivenKorath_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We see you there Fleshlings.
+
+You have come far too late, our forces have already landed on Yiven III. Research teams have been deployed and are already scouring the planet. Soon the Artifact will be ours.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_CaptureYivenKorath_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Ah, the Korath. I guess it was too much to ask that the Drengin had done something right and exterminated you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_CaptureYivenKorath2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They tried but the Korath have always been the Heart of the Empire. We knew too much to fall prey to our inferiors.
+
+With the wonders we uncover on Yiven III we will soon put that upstart Kona back in his place.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_CaptureYivenKorath2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You would be lucky to find anything left on Drengi after we are done with them. Not that you will be around to find out.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_CaptureYivenKorath3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Last warning Fleshling, remove your forces from this sector and return to D.L. Bradley before you become more of a nuisance and require immediate removal. 
+
+Yivin III is ours, as is the rest of this sector. You can tell Bradley and his highness Lord Kona, we will be coming for them next.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_CaptureYivenKorath3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I will return the favor: this is your last warning. We are coming for Yiven III. Don't be there when we arrive. [COLOR=PragmaticGold](+15 Pragmatic)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_CaptureYivenKorath3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I look forward to finishing the extermination that the Drengin were too weak to do. [COLOR=WarRed](+15 Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_CaptureYivenKorath3Response1Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You think a great deal of your puny fleet. I look forward to picking my teeth with your bones.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_CaptureYivenKorath3Response2Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You think a great deal of your puny fleet. I look forward to picking my teeth with your bones.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_UncoverKorathBase_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We were monitoring your conversation with the Korath. It appears we have a common enemy. 
+
+We have been stockpiling materials to rebuild, but we think they might serve you better than us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_UncoverKorathBase_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent. We are grateful for the supplies.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DrathWorkerShipAward_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are sending a Supply Ship your way.  Use our materials wisely.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DrathWorkerShipAward_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They will not be wasted. Thank you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DrathWorkerShipAward2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We continue to be grateful for your assistance with the Korath. We have managed to assemble another Supply Ship for you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DrathWorkerShipAward2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent. We are grateful for your continued support.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DrathWorkerShipAward3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are beginning to run short on supplies and our population will not put up with this much longer. Yet we have assembled another Supply Ship for your fight.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DrathWorkerShipAward3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent. We will use them wisely.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DrathWorkerShipAward4_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We dare not stretch our economy much further, but I have managed to convince my people to allow us to assemble one last Supply Ship for you. At this point, all we can do is wish you luck.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DrathWorkerShipAward4_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thank you for your sacrifice, it will not be in vain.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_UncoverKorathShipyard_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your continued push into Korath space has impressed my people. Though our supplies are beginning to run short, we do have a small stockpile of resources we are willing to share. Is there anything else you need to help you in your war effort?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_UncoverKorathShipyard_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We need Durantium to help us build up our fleets and fortify our Starbases. [COLOR=PragmaticGold](+50 Durantium)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_UncoverKorathShipyard_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We could use any Antimatter you can spare as our weapons could use a boost. [COLOR=PragmaticGold](+50 Antimatter)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_UncoverKorathShipyard_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are having difficulty locating the large amounts of Thulium that we need. [COLOR=PragmaticGold](+50 Thulium)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_UncoverKorathShipyardResourceAward1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This will leave us with very little reserves, but hopefully, you will use it well. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_UncoverKorathShipyardResourceAward2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This will leave us with very little reserves but hopefully you will use it well.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_UncoverKorathShipyardResourceAward3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This will leave us with very little reserves but hopefully you will use it well.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DestroyDrath_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Thalan are correct about you. Humans cannot be trusted. You will bring about the end of the galaxy. Our only consolation is that we will not have to be around to see it.
+
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_CaptureKorathHome_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>For such a soft race you have proven to have some teeth. But you will not take Yiven III from us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_CaptureKorathHome_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You can bluster all you like.  At least the Drengin have proven a challenge.  </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DestroyKorath_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You think you have defeated us but the Korath are the Heart of the Drengin Empire, and we will rise again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_DestroyKorath_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You should stay in the shadows like the cockroaches you are. But we will gladly crush you again if you don't.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_CaptureYiven_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel, we have taken control of Yiven III. 
+
+The moment we penetrated the outer rings of the Artifact we detected a large power surge on the surface. 
+
+Something is waking up down there! It is overpowering our communications.... </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_CaptureYiven_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Lock down that signal!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_CaptureYiven1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Greetings. I am Xoran the last of the Dreadlords. I have been waiting in this prison for millennia to deliver one last warning to you.
+
+Your leader has brought back a terrible tool from the pocket universe and it can only be used with terrible purpose. The Bane's power is too great, too corrupting, too evil. With it, he will destroy the galaxy, as he has done before.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_CaptureYiven1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Done before? How is that possible?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_CaptureYiven2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>He will escape the destruction of this galaxy and flee to yet another universe, starting the cycle, once more.
+
+You must not let this happen. You must go to the planet of Elemental and there will you find what you need to prevent this from happening again - the last Shard of the Telenanth. With it in your possession, only then can the Bane be neutralized and the cycle broken. But it will be up to D.L. Bradley to use it. 
+
+This is his and our only hope of redemption.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_CaptureYiven2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Elemental? We do not know of this world.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission1_CaptureYiven3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You know of it as Altaria.
+
+Now go. With this deed I am finally complete and can now be released into oblivion.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

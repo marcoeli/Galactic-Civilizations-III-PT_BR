@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- IconianTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>IconianTechTree_Name</Label>
+    <String>Iconian Tech Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianTechTree_ShortDec</Label>
+    <String>Tech tree focused on Expansion.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianTechTree_Dec</Label>
+    <String>Tech tree focused on Expansion.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianMolecularFabricationTech_Name</Label>
+    <String>Molecular Fabrication</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianMolecularFabricationTech_ShortDec</Label>
+    <String>Allows for the creation of the Molecular Fabricator</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianMolecularFabricationTech_Dec</Label>
+    <String>Molecular Fabrication is more than just a way to boost manufacturing, it can be used to make everything from more efficient weapons to more nutritious food.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianMolecularSpecialization1_Name</Label>
+    <String>Molecular Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianMolecularSpecialization1_ShortDec</Label>
+    <String>Increases the Manufacturing of your colonies</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianMolecularSpecialization1_Dec</Label>
+    <String>We have been able to use Molecular Fabrication techniques, to greatly increase the output of our factories, with no additional resources or cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianMolecularSpecialization2_Name</Label>
+    <String>Molecular Farming</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianMolecularSpecialization2_ShortDec</Label>
+    <String>Increases the Food supply of your colonies</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianMolecularSpecialization2_Dec</Label>
+    <String>We have been able to use Molecular Fabrication techniques to greatly increase the output of our farms, with no additional resources or cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianMolecularSpecialization3_Name</Label>
+    <String>Molecular Computers</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianMolecularSpecialization3_ShortDec</Label>
+    <String>Increases the Research output of our colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianMolecularSpecialization3_Dec</Label>
+    <String>We have been able to use Molecular Fabrication techniques to greatly increases the output of our research facilities, with no additional resources or cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianIndustrialReplicationTech_Name</Label>
+    <String>Industrial Replication</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianIndustrialReplicationTech_ShortDec</Label>
+    <String>Allows for the creation of the Industrial Replicator</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianIndustrialReplicationTech_Dec</Label>
+    <String>This is the Ultimate evolution of Molecular Fabrication. With Industrial Replication we can create anything we want, from anything we have.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorLegacy_Name</Label>
+    <String>Precursor Legacy</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorLegacy_ShortDec</Label>
+    <String>Allows for the creation of the Precursor Archive achievement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorLegacy_Dec</Label>
+    <String>As the heir of the Precursors, we have been able to gather all our collective knowledge into a archive, that contains many of the Precursor secrets, and gives us a decided advantage over the other races.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianRoboticFarming_Name</Label>
+    <String>Robotic Farming</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianRoboticFarming_ShortDec</Label>
+    <String>Ircreases the level of all Farms and Population Improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianRoboticFarming_Dec</Label>
+    <String>Through the use of obedient, yet still helpful robotic servants, we are able to greatly increase the output of our farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianUltimateAdaptability_Name</Label>
+    <String>Ultimate Adaptability</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianUltimateAdaptability_ShortDec</Label>
+    <String>Removes penalties from all types of extreme worlds, and gives them a Production Bonus</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianUltimateAdaptability_Dec</Label>
+    <String>As an ancient race, we have adapted to survive, and learned how to make the most of even the most hostile environments.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorTraditions_Name</Label>
+    <String>Precursor Traditions</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorTraditions_ShortDec</Label>
+    <String>Increase shipyard output and quality.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorTraditions_Dec</Label>
+    <String>As the heir of the Precursors we know that our ships are more than our tools, they are our loyal companions.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorTraditionSpecialization1_Name</Label>
+    <String>Healing Hulls</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorTraditionSpecialization1_ShortDec</Label>
+    <String>Our ships will repair themselves in battle.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorTraditionSpecialization1_Dec</Label>
+    <String>Though our ships are still no match for the great living beings that used to travel the stars, we have been able to learn enough to allow them to slowly heal on their own in battle.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorTraditionSpecialization2_Name</Label>
+    <String>Intelligent Ships</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorTraditionSpecialization2_ShortDec</Label>
+    <String>Reduces the Logistics of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorTraditionSpecialization2_Dec</Label>
+    <String>Our ships can literally work together, even without our aid. This allows us to field more ships with less logistical expense, allowing our fleets to grow larger than any seen since the time of the Precursors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorTraditionSpecialization3_Name</Label>
+    <String>Organic Materials</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorTraditionSpecialization3_ShortDec</Label>
+    <String>Increases the Hit Points of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorTraditionSpecialization3_Dec</Label>
+    <String>The Organic Materials we use to create our ships, are not only more beautiful, but stronger.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorMysteries_Name</Label>
+    <String>Precursor Mysteries</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorMysteries_ShortDec</Label>
+    <String>Allows us to build the Precursor Protection Field support module.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorMysteries_Dec</Label>
+    <String>We have discovered one how to reproduce a powerful Precursor Artifact. Though difficult to produce, it can make almost any fleet nearly indestructible.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianLivingShipsTech_Name</Label>
+    <String>Living Ships</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianLivingShipsTech_ShortDec</Label>
+    <String>Our ships no longer need to be Maintained, and will self heal</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianLivingShipsTech_Dec</Label>
+    <String>We are now able to create living ships. Unlike our pervious forays into artificial life, they have proven to be loyal and helpful companions.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianCommunicationsTech_Name</Label>
+    <String>Communications</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianTradeMasters_Dec</Label>
+    <String>Our civilization is synonymous with wealth and trading, and all intelligent beings know our markets are the best, really, only place to buy and sell goods. And, of course, certain advantages accrue to the owner of such a monopoly.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorSole_Name</Label>
+    <String>Precursor Sole</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorSole_ShortDec</Label>
+    <String>Allows construction of the Dream Conclave Achievement</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorSole_Dec</Label>
+    <String>The Precursors taught us that the study of the universe is the key to happiness, and will lead us to greater things, some of them helpful.</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+  <StringTable>
+    <Label>IconianMolecularSpecialization_Name</Label>
+    <String>Molecular Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianMolecularSpecialization_Dec</Label>
+    <String>What we can do with Molecular Fabrication is amazing, particularly if we specialize.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorTraditionSpecialization_Name</Label>
+    <String>Precursor Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianPrecursorTraditionSpecialization_Dec</Label>
+    <String>With the lessons we have learned form the our Precursor Traditions, we have been able to find new ways to make our ships superior to all others.</String>
+  </StringTable>
+ 
+</StringTableList>

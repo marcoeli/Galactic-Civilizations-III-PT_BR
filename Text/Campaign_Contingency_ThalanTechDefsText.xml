@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Contingency_ThalanTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>Contingency_ThalanTechTree_Name</Label>
+    <String>Thalan Tech Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanColonizationTech_Name</Label>
+    <String>Adaptation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanXenoIndustrializationTech_Name</Label>
+    <String>Industrialization Adaptation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanPracticalFusion_ShortDec</Label>
+    <String>Allows construction of improved powerplants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanQuantumPower_ShortDec</Label>
+    <String>Allows construction of exotic powerplants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanHiveTech_Name</Label>
+    <String>Hives</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanHiveTech_ShortDec</Label>
+    <String>Allows for the construction of the Dimensional Hive.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanHiveSpecialization1_Name</Label>
+    <String>Helpful Hives</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanHiveSpecialization1_ShortDec</Label>
+    <String>Lowers the Maintenance of all improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanHiveSpecialization2_Name</Label>
+    <String>Productive Hives</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanHiveSpecialization2_ShortDec</Label>
+    <String>Lowers the manufacturing cost of all improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanHiveSpecialization3_Name</Label>
+    <String>Coordinated Hives</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanHiveSpecialization3_ShortDec</Label>
+    <String>Increases the adjacency bonus of all improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanGaiaTheory_Name</Label>
+    <String>Gaia Theory</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanGaiaTheory_ShortDec</Label>
+    <String>Allows for the construction of the Gaia Vortex achievement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanMotherHiveTech_Name</Label>
+    <String>Mother Hives</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanMotherHiveTech_ShortDec</Label>
+    <String>Allows for the construction of the Mother Hive.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanHyperionMatrixTech_Name</Label>
+    <String>Hyperion Matrix</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanHyperionMatrixTech_ShortDec</Label>
+    <String>Allows the construction of the Hyperion Matrix achievement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanInstitutionalResearch_Name</Label>
+    <String>Technological Adaptation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanPlanetaryImprovement_Name</Label>
+    <String>Planetary Adaptation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanXenoBiology_Name</Label>
+    <String>Biological Adaptation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanEnvironmentalEngineering_Name</Label>
+    <String>Environmental Adaptation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanUniversalSoilAdaptation_Name</Label>
+    <String>Universal Soil Adaptation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanUniversalSoilAdaptation_ShortDec</Label>
+    <String>Allows the construction of the Universal Soil Adapter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanEngineeringTech_Name</Label>
+    <String>Exploration</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanGravitonics_Name</Label>
+    <String>Gravitonics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanGravitonics_ShortDec</Label>
+    <String>Increase the Hull Capacity of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanGravitonicSpecialization1_Name</Label>
+    <String>Offensive Gravitonics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanGravitonicSpecialization1_ShortDec</Label>
+    <String>Reduce the Mass of our weapons systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanGravitonicSpecialization2_Name</Label>
+    <String>Defensive Gravitonics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanGravitonicSpecialization2_ShortDec</Label>
+    <String>Reduce the Mass of our defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanGravitonicSpecialization3_Name</Label>
+    <String>System Gravitonics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanGravitonicSpecialization3_ShortDec</Label>
+    <String>Reduce the Mass of drive, life support and sensor systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanGravitonicManipulating_Name</Label>
+    <String>Gravitonic Manipulation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanGravitonicManipulating_ShortDec</Label>
+    <String>Increase Hull Capacity of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanGravitonicMastery_Name</Label>
+    <String>Gravitonic Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanGravitonicMastery_ShortDec</Label>
+    <String>Increase Hull Capacity of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanSelfHealingHulls_Name</Label>
+    <String>Self Repairing Hulls</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanPhotonTorpedos_Name</Label>
+    <String>Photon Torpedos</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanKineticOptimization1_Name</Label>
+    <String>Kinetic Range Extention</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanDimensionalWeapons_Name</Label>
+    <String>Dimensional Weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanDimensionalWeapons_ShortDec</Label>
+    <String>Increase the Attack of all weapons types.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanDimensionalWeaponFocus1_Name</Label>
+    <String>Beam Shifting</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanDimensionalWeaponFocus1_ShortDec</Label>
+    <String>Increase Accuracy of our beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanDimensionalWeaponFocus2_Name</Label>
+    <String>Missile Shifting</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanDimensionalWeaponFocus2_ShortDec</Label>
+    <String>Increase Accuracy of our missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanDimensionalWeaponFocus3_Name</Label>
+    <String>Kinetic Shifting</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanDimensionalWeaponFocus3_ShortDec</Label>
+    <String>Increase Accuracy of our kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanOrbitalDefencePlatform_Name</Label>
+    <String>Orbital Defense Platform</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanDimensionalFazing_Name</Label>
+    <String>Dimensional Phasing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanDimensionalFazing_ShortDec</Label>
+    <String>Jams enemy targeting systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanDimensionalFazingFocus1_Name</Label>
+    <String>Shield Phasing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanDimensionalFazingFocus1_ShortDec</Label>
+    <String>Boost the shield strength of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanDimensionalFazingFocus2_Name</Label>
+    <String>Phased Point Defenses</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanDimensionalFazingFocus2_ShortDec</Label>
+    <String>Boost the Point Defense of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanDimensionalFazingFocus3_Name</Label>
+    <String>Phased Armor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanDimensionalFazingFocus3_ShortDec</Label>
+    <String>Strengthens the Armor of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanShieldOptimization1_Name</Label>
+    <String>Shield Enhancment</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanArreonMissileDefenseTech_Name</Label>
+    <String>Arreon Missile Defense</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanCommunicationsTech_Name</Label>
+    <String>Relations</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanInterstellarGovernance_ShortDec</Label>
+    <String>Allows use of Steller Empire form of government.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanXenoAnthropology_Name</Label>
+    <String>Xeno Anthropology</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanXenoAnthropology_ShortDec</Label>
+    <String>Allows the construction of the Xeno Anthropology Center.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanAnthropologySpecialization1_Name</Label>
+    <String>Adaptive Anthropology</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanAnthropologySpecialization1_ShortDec</Label>
+    <String>Improves relations with other races.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanAnthropologySpecialization2_Name</Label>
+    <String>Educational Anthropology</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanAnthropologySpecialization2_ShortDec</Label>
+    <String>Helps to spread our influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanAnthropologySpecialization3_Name</Label>
+    <String>Economic Anthropology</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanAnthropologySpecialization3_ShortDec</Label>
+    <String>Helps to build our economy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanUniversalOutreach_Name</Label>
+    <String>Universal Outreach</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanUniversalOutreach_ShortDec</Label>
+    <String>Allows for the construction of the Universal Outreach Center.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanFutureStudies_Name</Label>
+    <String>Future Studies</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanFutureStudies_ShortDec</Label>
+    <String>Allows for the creation of the Future Studies Center.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Contingency_ThalanGalacticCruseLines_Name</Label>
+    <String>Galactic Cruse Lines</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+ 
+</StringTableList>

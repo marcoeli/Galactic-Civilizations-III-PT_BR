@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+
+     <!-- Tywom -->	
+<StringTable><Label>PlanetAlphaRepeculaeI_Name</Label><String>Alpha Repeculae I</String></StringTable>
+<StringTable><Label>PlanetAlphaRepeculaeII_Name</Label><String>Alpha Repeculae II</String></StringTable>
+<StringTable><Label>PlanetAlphaRepeculaeIII_Name</Label><String>Alpha Repeculae III</String></StringTable>
+<StringTable><Label>PlanetAlphaRepeculaeIV_Name</Label><String>Alpha Repeculae IV</String></StringTable>
+<StringTable><Label>PlanetTywomia_Name</Label><String>Tywomia</String></StringTable>
+<StringTable><Label>PlanetAlphaRepeculaeVI_Name</Label><String>Alpha Repeculae VI</String></StringTable>
+<StringTable><Label>PlanetAlphaRepeculaeVII_Name</Label><String>Alpha Repeculae VII</String></StringTable>
+<StringTable><Label>PlanetAlphaRepeculaeVIII_Name</Label><String>Alpha Repeculae VIII</String></StringTable>
+	
+	
+     <!-- Mukay -->	
+<StringTable><Label>PlanetBetaPavoI_Name</Label><String>Beta Pavo I</String></StringTable>
+<StringTable><Label>PlanetMuKayaan_Name</Label><String>Mu'Kayaan</String></StringTable>
+<StringTable><Label>PlanetBetaPavoIII_Name</Label><String>Beta Pavo III</String></StringTable>
+<StringTable><Label>PlanetBetaPavoIV_Name</Label><String>Beta Pavo IV</String></StringTable>
+<StringTable><Label>PlanetBetaPavoV_Name</Label><String>Beta Pavo V</String></StringTable>
+<StringTable><Label>PlanetPiRala_Name</Label><String>Pi'Rala</String></StringTable>
+	
+	
+	
+	    <!-- Mowlings -->
+		<StringTable><Label>PlanetMoop_Name</Label><String>Moop</String></StringTable>
+		<StringTable><Label>PlanetDeltaXiphiosII_Name</Label><String>Delta Xiphios B II</String></StringTable>
+		<StringTable><Label>PlanetDeltaXiphiosIII_Name</Label><String>Delta Xiphios B III</String></StringTable>
+		<StringTable><Label>PlanetBloop_Name</Label><String>Bloop</String></StringTable>
+		<StringTable><Label>PlanetIshara_Name</Label><String>Ishara</String></StringTable>
+		<StringTable><Label>PlanetPloop_Name</Label><String>Ploop</String></StringTable>
+		<StringTable><Label>PlanetBurrrr_Name</Label><String>Burrrr</String></StringTable>
+	
+	
+	<StringTable><Label>PlanetAlphaAcroixI</Label><String>Alpha Acroix I</String></StringTable>
+	<StringTable><Label>PlanetAlphaAcroixII</Label><String>Alpha Acroix II</String></StringTable>
+	<StringTable><Label>PlanetAlphaAcroixIII</Label><String>Alpha Acroix III</String></StringTable>
+	<StringTable><Label>PlanetAlphaAcroixIV</Label><String>Alpha Acroix IV</String></StringTable>
+	<StringTable><Label>PlanetAlphaAcroixV</Label><String>Alpha Acroix V</String></StringTable>
+	<StringTable><Label>PlanetAlphaAcroixVI</Label><String>Alpha Acroix VI</String></StringTable>
+	
+	
+		  <!-- Free Trandals -->
+		  
+<StringTable><Label>PlanetDeltaGladiusI_Name</Label><String>Delta Gladius I</String></StringTable>
+<StringTable><Label>PlanetDeltaGladiusII_Name</Label><String>Delta Gladius II</String></StringTable>
+<StringTable><Label>PlanetVillsy_Name</Label><String>Villsy</String></StringTable>
+<StringTable><Label>PlanetEmalsa_Name</Label><String>Emalsa</String></StringTable>
+<StringTable><Label>PlanetHilx_Name</Label><String>Hilx</String></StringTable>
+
+</StringTableList>

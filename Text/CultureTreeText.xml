@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- CultureTreeText.xml -->
+ 
+  <StringTable>
+    <Label>BenevolentPyramid_Name</Label>
+    <String>Benevolente</String>
+  </StringTable>
+  <StringTable>
+    <Label>BenevolentPyramid_Dec</Label>
+    <String>Descrição Completa Aqui</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BenevolentTier1_Name</Label>
+    <String>Divulgação</String>
+  </StringTable>
+  <StringTable>
+    <Label>BenevolentTier1_Dec</Label>
+    <String>As civilizações benevolentes acreditam que podem explorar e colonizar pacificamente a galáxia. O alcance lhes dá as ferramentas de que precisam para fazer isso.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BenevolentTier2_Name</Label>
+    <String>Afinidade</String>
+  </StringTable>
+  <StringTable>
+    <Label>BenevolentTier2_Dec</Label>
+    <String>Através de uma profunda afinidade com seu povo e com as raças que encontram, as Civilizações Benevolentes podem evitar quase todas as lutas internas.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BenevolentTier3_Name</Label>
+    <String>Destaque</String>
+  </StringTable>
+  <StringTable>
+    <Label>BenevolentTier3_Dec</Label>
+    <String>A persuasão é uma das principais formas de uma Civilização Benevolente resolver conflitos com outros e expande sua influência por toda a galáxia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BenevolentTier4_Name</Label>
+    <String>Iluminismo</String>
+  </StringTable>
+  <StringTable>
+    <Label>BenevolentTier4_Dec</Label>
+    <String>O Iluminismo de seus cidadãos é um objetivo importante de uma Civilização Benevolente. Ele os ajuda a manterem-se à frente das raças menos tolerantes da galáxia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NeutralPyramid_Name</Label>
+    <String>Pragmático</String>
+  </StringTable>
+  <StringTable>
+    <Label>NeutralPyramid_Dec</Label>
+    <String>Descrição Completa Aqui </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NeutralTier1_Name</Label>
+    <String>Vigilante</String>
+  </StringTable>
+  <StringTable>
+    <Label>NeutralTier1_Dec</Label>
+    <String>As civilizações pragmáticas sabem que é melhor estar seguro do que arrependido e se preparar para enfrentar as duras realidades da exploração galáctica.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NeutralTier2_Name</Label>
+    <String>Construtor</String>
+  </StringTable>
+  <StringTable>
+    <Label>NeutralTier2_Dec</Label>
+    <String>A construção de uma infra-estrutura forte pode ser a pedra angular de uma estratégia defensiva e econômica das Civilizações Pragmáticas.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NeutralTier3_Name</Label>
+    <String>Comerciantes</String>
+  </StringTable>
+  <StringTable>
+    <Label>NeutralTier3_Dec</Label>
+    <String>As raças pragmáticas sabem que uma política comercial agressiva com outras raças não só pode ser lucrativa, como pode ajudar a construir fortes laços diplomáticos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NeutralTier4_Name</Label>
+    <String>Negociador</String>
+  </StringTable>
+  <StringTable>
+    <Label>NeutralTier4_Dec</Label>
+    <String>A negociação é uma arma poderosa em um arsenal de Civilizações Pragmáticas. Com ela, eles podem evitar guerras e obter apoio de outras raças quando necessário.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MercilessPyramid_Name</Label>
+    <String>Malévolo</String>
+  </StringTable>
+  <StringTable>
+    <Label>MercilessPyramid_Dec</Label>
+    <String>Descrição Completa Aqui </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MercilessTier1_Name</Label>
+    <String>Agressão</String>
+  </StringTable>
+  <StringTable>
+    <Label>MercilessTier1_Dec</Label>
+    <String>A agressão chega naturalmente às Civilizações Malévolas. Tomar é quase sempre mais fácil do que construir, e muito mais divertido.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MercilessTier2_Name</Label>
+    <String>Motivação</String>
+  </StringTable>
+  <StringTable>
+    <Label>MercilessTier2_Dec</Label>
+    <String>A motivação de sua força de trabalho é uma arte que as Civilizações Malévolas dominam cedo. A alta produção pode ser dura, mas vale a pena.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MercilessTier3_Name</Label>
+    <String>Ganância</String>
+  </StringTable>
+  <StringTable>
+    <Label>MercilessTier3_Dec</Label>
+    <String>As civilizações malévolas sabem que a Riqueza pode ser muito útil no seu caminho, e certificam-se de que os créditos não sejam desperdiçados em mais nada.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MercilessTier4_Name</Label>
+    <String>Admiração</String>
+  </StringTable>
+  <StringTable>
+    <Label>MercilessTier4_Dec</Label>
+    <String>As civilizações malévolas esperam, e exigem, respeito. Assegurar que outras raças saibam que sua força pode colher grandes recompensas nas negociações.</String>
+  </StringTable>
+ 
+ 
+ 
+ 
+ 
+ 
+</StringTableList>

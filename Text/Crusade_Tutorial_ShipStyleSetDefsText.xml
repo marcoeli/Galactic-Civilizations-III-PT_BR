@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- Crusade_Tutorial_ShipStyleSetDefsText.xml -->
+ 
+  <StringTable>
+    <Label>EXP2TutorialResistanceShipStyleSet_Name</Label>
+    <String>Resistance Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP2TutorialSlyneShipStyleSet_Name</Label>
+    <String>Slyne Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP2TutorialDrenginShipStyleSet_Name</Label>
+    <String>Drengin Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP2TutorialPirateShipStyleSet_Name</Label>
+    <String>Pirate Ship Style</String>
+  </StringTable>
+ 
+</StringTableList>

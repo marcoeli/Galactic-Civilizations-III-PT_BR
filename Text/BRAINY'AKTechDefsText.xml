@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- BRAINY'AKTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>BRAINY'AKTechTree_Name</Label>
+    <String>Brainy'ak Tech Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>BRAINY'AKResearchMatrixTech_Name</Label>
+    <String>Research Matrix</String>
+  </StringTable>
+  <StringTable>
+    <Label>BRAINY'AKResearchMatrixTech_ShortDec</Label>
+    <String>Allows construction of the ultimate research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BRAINY'AKResearchMatrixTech_Dec</Label>
+    <String>The ultimate matrix of research Minds is the key to unlocking all the remaining secrets in the universe. The ultimate Singularity will soon be upon us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BRAINY'AKTargetingSupport_Dec</Label>
+    <String>We have created targeting and Evasion modules which will improve the accuracy and evasion of an entire Yor fleet. The meat minds will leak fluids in terror.</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+ 
+</StringTableList>

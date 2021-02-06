@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Crusade_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>The Terrans have seized the Shard of the Telenanth. With the Bane obtained in the pocket dimension, the Terrans now have more power than anyone has since the days of the Dread Lords. Possibly even more...</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>Despite its incredible strength, the Terran fleet failed to secure the shard. With the Drengin Empire still largely intact, the chances of Earth remaining free are now greatly diminished.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_TurnOneMessage_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have seen this day approaching for a long time, human. As the sky turned to fire above us, our people told stories of what we might do if we could only see this day again. How we might prevent another tragedy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_TurnOneMessage_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What are you talking about?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_TurnOneMessage_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Enough riddles, insect.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_TurnOneMessageA_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You will not claim the Shard, human. You have destroyed many different dimensions, many different futures. But you will not destroy this one.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_TurnOneMessageA_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Is that why you're here?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_TurnOneMessageA_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Get out of our way, Thalans. We will never be slaves again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_TurnOneMessageResponse1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We knew where the Shard of the Telenanth existed this whole time. Everything we have done since we arrived in this reality has been in preparation for this day.
+
+Our entire fleet now stands in your way. The resources of ten worlds have been dedicated to stopping you in your path.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_TurnOneMessageResponse1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You can't stop us. Step out of our way now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_TurnOneMessageResponse1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You should have brought more worlds.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_TurnOneMessageResponse2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You do not have to be slaves. But you cannot destroy all to achieve it. 
+
+We knew where the Shard of the Telenanth existed this whole time. Everything we have done since we arrived in this reality has been in preparation for this. Our entire fleet now stands in your way. The resources of 10 worlds have been dedicated to stopping you in your path.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_TurnOneMessageResponse2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You can't stop us. Step out of our way now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_TurnOneMessageResponse2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You should have brought more worlds.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_TurnOneMessageResponse3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We can stop you because we must stop you. All of existance depends on it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_TurnOneMessageResponse3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>There's no reasoning with you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_UncoverStarbase1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Casey, it looks like the Thalans have deployed specialized Starbases around the nebula which contains the Shard. They're emitting some kind of field which isolates the Shard from this universe. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_UncoverStarbase1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I hate those kinds of fields. Is there any way to shut them off?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_UncoverStarbase2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Casey, it looks like the Thalans have deployed specialized Starbases around the nebula which contains the Shard. They're emitting some kind of field which isolates the Shard from this universe. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_UncoverStarbase2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I hate those kinds of fields. Is there any way to shut them off?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_UncoverStarbase3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Casey, it looks like the Thalans have deployed specialized Starbases around the nebula which contains the Shard. They're emitting some kind of field which isolates the Shard from this universe. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_UncoverStarbase3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I hate those kinds of fields. Is there any way to shut them off?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_UncoverStarbaseFollowUp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The old fashioned way, probably. Destroy those Starbases and the Shard should appear in this universe again. 
+
+Once that's done, we can notify Admiral Bradley to come seize it with the Crusader.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_UncoverStarbaseFollowUp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thanks for the update.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_UncoverStarbaseFollowUp_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well, that's what we brought all these guns for.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColonyA_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Humans! You must stop this! Set aside your thoughts of revenge! There is so much more at stake than you understand.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColonyA_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>So tell us. What's at stake?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColonyA_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We've heard enough from you. Good bye, Thalan.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColonyB_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Humans! You must stop this! Set aside your thoughts of revenge! There is so much more at stake than you understand.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColonyB_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>So tell us. What's at stake?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColonyB_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We've heard enough from you. Good bye, Thalan.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColonyC_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Humans! You must stop this! Set aside your thoughts of revenge! There is so much more at stake than you understand.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColonyC_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>So tell us. What's at stake?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColonyC_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We've heard enough from you. Good bye, Thalan.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColony2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If you combine the Shard of the Telenanth with the Bane, you will possess a weapon not seen since the beginning of creation. A weapon of unimaginable power. So much power we suspect it might very well be responsible FOR creation.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColony2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That doesn't sound so bad.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColony2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We've heard enough from you. Good bye, Thalan.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColony3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The creation of a new reality, a new timeline will destroy this one. There's no way to use this weapon to just destroy the Drengin. You will destroy everything!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColony3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What do you want us to do? Forget everything the Drengin did to us?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColony3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We didn't start the fight with the Drengin. But we will finish it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColony4_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It is your thirst for vengeance lies at the root of all this evil!
+
+Please! It is not too late to turn back! Help us forge a new future. One that doesn't end in the destruction of all reality. THIS IS YOUR ABSOLUTE LAST CHANCE TO reject the Shard and the doom it offers!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColony4_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I'm going to get in trouble with my boss. But you've convinced me.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColony4_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We didn't start the fight with the Drengin. But we will finish it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColony5_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>My people weep across all realities. You have done a great thing, human.
+
+We have much work to do here to lay the groundwork for this new future. Please, leave this sector now. We will contact you again shortly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColony5_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Very well.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColony6_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You think there is honor in finishing a fight?
+
+How filled with hatred you are. And this is not a new thing, not something the Drengin caused. That hatred has been there a long time, human. You have been villains since the very beginning of your existance.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_CaptureColony6_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Enough. So long, Thalans.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_1First2Second3Third_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's the last of the Thalan starbases down, Colonel.
+
+We're radioing Admiral Bradley now. He'll need to bring the Crusader into that nebula to make contact with the Shard himself.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_1First2Second3Third_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Very well.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_1First3Second2Third_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's the last of the Thalan starbases down, Colonel.
+
+We're radioing Admiral Bradley now. He'll need to bring the Crusader into that nebula to make contact with the Shard himself.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_1First3Second2Third_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Very well.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_1FirstClose_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Casey. Well done.
+
+I've been monitoring your progress from nearby and am bringing the Crusader into the sector now. The Shard, and with it the end of the Drengin are nearly at hand.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_1FirstClose_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes sir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_2First1Second3Third_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's the last of the Thalan starbases down, Colonel.
+
+We're radioing Admiral Bradley now. He'll need to bring the Crusader into that nebula to make contact with the Shard himself.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_2First1Second3Third_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Very well.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_2First3Second1Third_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's the last of the Thalan starbases down, Colonel.
+
+We're radioing Admiral Bradley now. He'll need to bring the Crusader into that nebula to make contact with the Shard himself.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_2First3Second1Third_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Very well.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_2FirstClose_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Casey. Well done.
+
+I've been monitoring your progress from nearby and am bringing the Crusader into the sector now. The Shard, and with it the end of the Drengin are nearly at hand.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_2FirstClose_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes sir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_3First1Second2Third_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's the last of the Thalan starbases down, Colonel.
+
+We're radioing Admiral Bradley now. He'll need to bring the Crusader into that nebula to make contact with the Shard himself.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_3First1Second2Third_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Very well.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_3First2Second1Third_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's the last of the Thalan starbases down, Colonel.
+
+We're radioing Admiral Bradley now. He'll need to bring the Crusader into that nebula to make contact with the Shard himself.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_3First2Second1Third_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Very well.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_3FirstClose_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Casey. Well done.
+
+I've been monitoring your progress from nearby and am bringing the Crusader into the sector now. The Shard, and with it the end of the Drengin are nearly at hand.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_3FirstClose_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes sir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_ShardClaimed_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>No. We can't have failed!
+
+Please, human! You must stop this! You must not destroy it all again!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_ShardClaimed_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What do you think we're about to do?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_ShardClaimed_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We've heard enough out of you. Humans have died at your hands too, Thalan.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_ShardClaimed2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You will save yourselves. As you always have. As you will always will.
+
+And in doing so, you will doom everyone else.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_ShardClaimed2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will do no such thing. You'll see.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_ShardClaimed3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Then we have failed. We can only hope that somewhere, in another dimension, others have succeeded.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission3a_ShardClaimed3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Good luck with that.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

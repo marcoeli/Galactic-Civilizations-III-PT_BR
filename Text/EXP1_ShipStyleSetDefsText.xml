@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- EXP1_ShipStyleSetDefsText.xml -->
+ 
+  <StringTable>
+    <Label>Remove_TorianShipStyleSet_Name</Label>
+    <String>Torian Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Remove_ArceanShipStyleSet_Name</Label>
+    <String>Arcean Ship Style</String>
+  </StringTable>
+ 
+</StringTableList>

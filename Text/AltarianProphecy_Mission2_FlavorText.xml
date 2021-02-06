@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- AltarianProphecy_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Mission2_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>Humanity has formed it's first true Galactic Alliance. Together with their new Altarian partners, they have brought the Dominion of the Korx to it's knees. However, they have yet to learn that their true enemy still lurks in the shadows.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mission2_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>The newborn Terran Alliance, having failed to secure its place in the greater galactic community, has begun to retreat back toward earth.
+Will they ever recover from this loss? Or will they become nothing but a footnote in galactic history as the race that foolishly gave away its greatest achievement.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Orders_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commander Bradley.
+While I am tied up in the treaty talks on Altaria, you are in charge of the local fleet. 
+I can't stress enough how important it is that you do not do anything to antagonize the Altarians. 
+This includes being too friendly with the Drengin. We don't want to start a war with them but we also do not want the Altarians to think we approve of their "way of doing things." Whatever that means.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Orders_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir. I would like nothing better than to avoid starting any new wars. [COLOR=BenevolentBlue](Benevolent +5)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Orders_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir. But we know almost nothing about these Drengin -- how do we know they are as bad as the Altarians say? [COLOR=PragmaticGold](Pragmatic +5)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Concerns_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well,  we don't know if the Drengin are dangerous to us at this time. And we would like to keep our dealings with world spanning empires down to one at a time. The Altarians seem to think that the Korx will try and bring the Drengin in on their side. This must not be allowed to happen.
+Our best plan to prevent this is to help the Altarians end their war with the Korx quickly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Concerns_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That could be tricky. Our reports say they have several heavily built up colonies in this sector.  </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Concerns_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We beat them back once. We can do it again. [COLOR=WarRed](Malevolent +5)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Plan_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Do what you can to assist the Altarians in this war but don't wait for them. Our strategists believe that if you can take a few of their colonies, they will realize they have bit off more then they can chew and be willing to listen to reason. 
+However, if they will not surrender you have permission take them out entirely.
+Their colonies will serve as excellent frontier bases for us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Plan_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Won't the Altarians be concerned if we control so many worlds near their space?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Colonies_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Leave that to me. A strong alliance with us will benefit both sides greatly.  Furthermore, some Terran colonies might well serve as an excellent buffer between the Altarians and the Drengin.
+In fact, they have already given us permission to search for new colonies in the area as long as we do not colonize any worlds closer to Altaria than Vol. So if you see any worlds worth colonizing, make sure they get a Terran flag planted on them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Colonies_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir. [COLOR=PragmaticGold](Pragmatic +5)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Colonies_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Kill the Korx, avoid the Drengin, and grab any worlds we see that are worth colonizing.  Sounds fun. [COLOR=WarRed](Malevolent +5)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Report_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commander Bradley.
+The Altarians have been kind enough to send us the locations of the Korx colony that they believe is being used as a base of operations for their ongoing war. 
+They believe that capturing the colony could be the tipping point in the war. They believe it is heavily fortified so they are putting most of their efforts into building new ships before they make their move.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Report_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It seems our intelligence reports are in agreement. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Bitching_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Some of our commanders are concerned that if we push into Korx territory too soon, we will not have the firepower required to make it back alive, much less capture any of their core worlds.
+There has been a great deal of encrypted ship-to-ship communication since Secretary Mathews departed for Altaria.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Bitching_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will not be pushing into Korx held territory until we have fortified our new colonies. [COLOR=BenevolentBlue](Benevolent +10)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Bitching_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Make sure they know that we will not move in until we have the ships required to be victorious. [COLOR=PragmaticGold](Pragmatic +10)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Bitching_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I have been given command. Let them know that if they have questions they need to come to me. [COLOR=WarRed](Malevolent +10)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Bitching1and2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>A wise plan. May I suggest giving the fleet something to do in the meantime?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Bitching1and2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I will give them their orders personally.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Bitching3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir.  But to be blunt, many of the commanders want to know why you have been given the command instead of them. 
+Never the less, they will respect your orders I have no doubt.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Bitching3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I will give them their orders personally.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_OpenBorders_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commander Bradley.
+This is Ambassador Malara of the Altarian Confederation. I have been asked to relay some news to you.
+The talks go well and we have extended our 'Open Borders Treaty' for the foreseeable future. You may now feel free to explore our territory. Yet, we do ask that you do not colonize any of the worlds that you find within.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_OpenBorders_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This is good news indeed. It is a pleasure to meet you Ambassador. Hopefully this is just the start of long and fruitful friendship.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_DrenginHello_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Terran Alliance, this is Commander Kona of the Drengin Empire. 
+We have noticed that you have been associating with the Altarian Confederation and you seem to be building a fleet that could be quite a nuisance to our nearby colonies.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_DrenginHello_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Greetings Commander Kona. You have nothing to be concerned about. We are simply fortifying our latest colonies.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_WhatAreYouDoing_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Is that so? What of the reports we have been getting from the Korx? They keep whining about how the Terrible Terrans attacked them without provocation.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_WhatAreYouDoing_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We attempted to convince them to end their war with the Altarians and they responded by declaring war on us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_DrenginWarning_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well, the Korx are no concern of ours. Until recently they were not even worth our notice. 
+However, your association with the Altarians is concerning. Though we are at peace now, we have fought many wars in the past. And they have a reputation for treating the rest of the galaxy like unwashed barbarians. 
+I would recommend that you find a less troublesome trading partner before you make more enemies than friends.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_DrenginWarning_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Altarians have proven their worth to us. And, by all reports, it is the Drengin that the galaxy fears. [COLOR=BenevolentBlue](Benevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_DrenginWarning_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I will relay your warning to my government, I am a simple commander. [COLOR=PragmaticGold](Pragmatic +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_DrenginWarning_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I do feel as if they are hiding something from us. I will take your warning seriously. [COLOR=WarRed](Malevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_DrenginWarning1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You may put your trust where you will but know this: We have several colonies not far from Vol. If they begin to feel threatened by your military buildup, we will not hesitate to "secure" their space.
+This is the only warning you will get. This goes double for your beloved Altarian friends. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_DrenginWarning1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have no desire to start a war, but will defend ourselves at need. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_DrenginWarning1_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Very well, we will leave you to your little war.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_DrenginWarning2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>For a simple commander you certainly have a large fleet at your disposal. But know this: We have several colonies not far from Vol. If they begin to feel threatened by your military buildup, we will not hesitate to "secure" their space.
+This is the only warning you will get. This goes double for your beloved Altarian friends. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_DrenginWarning2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We do not think any conflict will be necessary. There are plenty of planets for us to share.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_DrenginWarning2_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Very well, we will leave you to your little war.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_DrenginWarning3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You would be wise to do so.
+But know this as well: We have several colonies not far from Vol. If they begin to feel threatened by your military buildup, we will not hesitate to "secure" their space.
+This is the only warning you will get. This goes double for your beloved Altarian friends. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_DrenginWarning3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will be cautious with both sides. Your planets are safe from us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_DrenginWarning3_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Very well, we will leave you to your little war.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_WhyDoYouHelp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Terrans. You helped the Altarians win a battle but the war continues.
+The question is: why are you helping them? There is no reason why we should fight. Our grievance is with the Altarians. Surely, we can come to some sort of accommodation.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_WhyDoYouHelp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We offered to broker a peace with between the Korx and the Altarians. Our reward was a declaration of war.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Makeadeal_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Commander that so rashly declared war on your people was lost on Vol. But he did not speak for all the Korx. 
+The Dominion has always thrived though trade. I'm sure we could make it worth you while to stand aside and let the Altarians fight their own war.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Makeadeal_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I have been ordered to protect the treaty talks above all else. [COLOR=BenevolentBlue](Benevolent +20)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Makeadeal_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Altarians have proven to be worthy of our friendship. This war must stop. [COLOR=PragmaticGold](Pragmatic +20)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Makeadeal_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I have no interest in your bribes. I would, however, gladly except your surrender. [COLOR=WarRed](Malevolent +20)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Makeadeal1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>As I feared, I am wasting my time with a powerless fool.
+Know this then: if you continue to support the Altarians, when we are done taking their worlds from them one by one, we will come for yours.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Makeadeal1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will stand with the Altarians and we will end this war. One way or another.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Makeadeal2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You think they are so noble. They are thieves and murders who will do what every they must in the name of their "greater good". 
+If you continue to support the Altarians, then when we are done taking their worlds from them one by one, we will come for yours.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Makeadeal2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your threats only strengthen our resolve.  We will end this war. One way or another.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Makeadeal3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Fool, you think one victory makes you a great force in the galaxy. We are considered a minor race and we have traveled the stars since before you crawled out of the primordial ooze. 
+If you will not listen to reason then know this: if you continue to support the Altarians, then when we are done taking their worlds from them one by one, we will come for yours.   </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Makeadeal3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You will regret threatening us. You will not have to come to our worlds, we are coming for yours.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_AllianceUnhide2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commander, I have good news. The Altarians have agreed to a formal alliance. 
+Your efforts in the war have convinced them that we are worthy of their trust. Together, we will have the forces required to bring an end to this war once and for all.
+We must still be cautious as the Drengin remain a dangerous factor, one we can not ignore.   </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_AllianceUnhide2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent news sir. We will continue our push to their core worlds.  It will be nice to know they have our backs if things go badly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_AllianceUnhide3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commander, I have good news. The Altarians have agreed to a formal alliance. 
+Your efforts in the war have convinced them that we are worthy of their trust. Together we will have the forces required to bring an end to this war once and for all.
+We must still be cautious as the Drengin remain a dangerous factor, one we can not ignore.   
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_AllianceUnhide3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent news sir. We will continue our push to their core worlds.  It will be nice to know they have our backs if things go badly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_AllianceTurnCount_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commander, I have good news. The Altarians have agreed to a formal alliance.
+We have been able to convince them we are worthy of trust, despite the ongoing Korx incursions. 
+It would be of greater assistance to us if you could make some visible progress the war. 
+We need you to take some of their core planets soon. We need to show the Korx that they have no hope of defeating our combined fleets.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_AllianceTurnCount_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir. I apologize for the delay, but we wanted to make sure we had the ships we needed before we make our move.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_DrenginWarTerrans_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commander, the Altarian Confederation would like to assure you that we will stand with you against the Drengin Empire. 
+This time, the Drengin have gone too far. They have always been a blight on the galaxy. But now in this age of hyperdrive, they spread like the rats they are.
+Together we can stand against both the Drengin and the Korx. 
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_DrenginWarTerrans_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We appreciate your help. Together we will drive the Drengin out of the Sector.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_DrenginWarAltairans_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commander, we have received grievous news. The Drengin Empire has declared war on the Altarian Confederation. 
+We do not know if it is on behalf of the Korx or if they are merely taking advantage of the current turmoil. Regardless of the reason, the Terran Alliance stands with the Altarians.
+We have declared open war with the Drengin. You are to treat all Drengin ships and colonies as hostile targets.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_DrenginWarAltairans_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Together, we will drive the Drengin out of this sector.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_TakeHarborFirst_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Congratulations on your victory in the Harbor system. Intelligence thinks we have the Korx on the edge of surrender. Unfortunately, it seems that the military leadership had evacuated the planet before your invasion. We think they have retreated to one of the other local systems, either Commerce or Wilson. 
+We need you to track them down. If you can capture their planet, we will be able to cut off the head of the snake and end this war once and for all.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_TakeHarborFirst_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes sir. We will end this war quickly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_TakeCommerceFirst_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Congratulations on your victory at in the Commerce system. Intelligence thinks we have the Korx on the edge of surrender. Unfortunately, it seems that the military leadership had evacuated the planet before your invasion. We think they have retreated to one of the other local systems, either Wilson or Harbor 
+We need you to track them down. If you can capture their planet, we will be able to cut off the head of the snake and end this war once and for all.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_TakeCommerceFirst_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes sir. We will end this war quickly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_TakeWilsonFirst_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Congratulations on your victory at in the Wilson system. Intelligence thinks we have the Korx on the edge of surrender. Unfortunately, it seems that the military leadership had evacuated the planet before your invasion. We think they have retreated to one of the other local systems, either Commerce or Harbor. 
+We need you to track them down. If you can capture their planet, we will be able to cut off the head of the snake and end this war once and for all.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_TakeWilsonFirst_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes sir. We will end this war quickly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_HarborFirstReward_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commander, you continue to impress. Word of your victory at harbor has already spread throughout the Confederation.
+You have proven that the Terran Alliance is a worthy ally. Our people have already begun to speak the name of D.L. Bradley with great respect. I have also been authorized to offer you some more tangible praise. Hopefully, this will small reward will strengthen our Alliance even more. [COLOR=PragmaticGold](6000 Credits, 3000 Research points)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_HarborFirstReward_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your aid is welcome indeed. But our true goal is to bring peace to both our people. As long as the Korx stand in the way, we will do what we must.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_CommerceFirstReward_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commander, you continue to impress. Word of your victory at Commerce has already spread throughout the Confederation.
+You have proven that the Terran Alliance is a worthy ally. Our people have already begun to speak the name of D.L. Bradley with great respect. I have also been authorized to offer you some more tangible praise. Hopefully, this will small reward will strengthen our Alliance even more. [COLOR=PragmaticGold](6000 Credits, 3000 Research points)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_CommerceFirstReward_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your aid is welcome indeed. But our true goal is to bring peace to both our people. As long as the Korx stand in the way, we will do what we must.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_WilsonFirstReward_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commander, you continue to impress. Word of your victory at Wilson has already spread throughout the Confederation.
+You have proven that the Terran Alliance is a worthy ally. Our people have already begun to speak the name of D.L. Bradley with great respect. I have also been authorized to offer you some more tangible praise. Hopefully, this will small reward will strengthen our Alliance even more. [COLOR=PragmaticGold](6000 Credits, 3000 Research points)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_WilsonFirstReward_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your aid is welcome indeed. But our true goal is to bring peace to both our people. As long as the Korx stand in the way, we will do what we must.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_TakeHarborSecond_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commander Bradley, we have taken Harbor. Better yet, we have located the Korx Command Structure. They were trying to flee the system but our troops were able to track them down before they even got off the planet. They now retreated into an underground bunker.
+We are now receiving a message from inside. It seems they are finally willing to talk.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_TakeHarborSecond_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Put them through to me.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_TakeCommerceSecond_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commander Bradley, we have taken Commerce. Better yet, we have located the Korx Command Structure. They were trying to flee the system but our troops were able to track them down before they even got off the planet. They now retreated into an underground bunker.
+We are now receiving a message from inside. It seems they are finally willing to talk.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_TakeCommerceSecond_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Put them through to me.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_TakeWilsonSecond_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commander Bradley, we have take Wilson. Better yet, we have located the Korx Command Structure. They were trying to flee the system but our troops were able to track them down before they even got off the planet. They now retreated into an underground bunker.
+We are now receiving a message from inside. It seems they are finally willing to talk.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_TakeWilsonSecond_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Put them through to me.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Concession_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>
+        Enough!
+        This is Governor Kralax of Korx. As the highest-ranking surviving member of this sector. I petition for peace and offer a cease fire on behalf of all that remains of our colonies in this sector.
+        I will play no further role in this farce.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Concession_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I may be convinced to agree to a cease-fire. Though I would hardly call an unprovoked war a farce.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_AltEndKorxKilled_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Enough!
+        This is Governor Kralax of Korx. As the highest-ranking surviving member of this sector. I petition for peace and offer a cease fire on  behalf of all that remains of our colonies in this sector.
+        I will play no further role in this farce.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_AltEndKorxKilled_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I may be convinced to agree to a cease-fire. Though I would hardly call an unprovoked war a farce.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Confession_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If you only knew.  The fools responsible for this war were, somewhat inconveniently, victims of your last attack on this world. 
+They were greedy fools who were being manipulated from the shadows. Bought off with new technologies and wealth. 
+But thanks to you, we are rid of them, and wiser heads rule the Dominion of the Korx once again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_Confession_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Who is it that was manipulating these "fools"? Was it the Drengin?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_TheDrath_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Ah, the Drengin would not deign to wipe their feet with us. To them, we are just a source of slaves and an occasional snack.
+It was the Drath! As always, they lurk in the shadows and convince others to do their dirty work. I warned against listening to them time and again, but I was ignored, and sent to this godforsaken colony to get me out of the way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_TheDrath_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Drath? We know very little about them. What reason would they have to start a war between the Korx and the Altarians?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_HomeWorld_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Don't you know? Of course not, your new friends would not have considered it worth sharing.
+The Drath claim that Altaria, the Altarian Capital, is their ancestral home.
+For all I know, they are telling the truth. But it was long ago, even by our standards. 
+In truth it does not matter anymore. All that matters is that we end this pointless war.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_HomeWorld_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Truly, you speak truth. I accept your ceasefire, Kralax of Korx. May you lead your people more wisely than your predecessors.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_EndTalk_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Congratulations on your victory. Both the Terran Alliance and the Altarian Confederation has agreed to your cease fire. Ambassador Malara and I will be arranging the formal Peace talks with this Kralax.
+I have also made discreet inquiries into their claims about the Drath and their motivations. We know very little of them but our intelligence suggests they are a powerful if reclusive race. They certainly have the resources required.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_EndTalk_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If these claims are true, then this war is not truly over. Certainly, the Altarians will want revenge.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_EndTalk1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I fear you are correct. Leave that to me. We have much to discuss with our Altarian friends and quite a few questions that we will insist on getting answers to.
+In the meantime, you have earned a much-needed rest. Get some rest 'Commodore' Bradley.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_EndTalk1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes sir!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_KillDrengin_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You may have been victorious in your skirmish with a few of our weakest outer colonies. But all you have truly done is forged the sword that we will use to cut off your pathetic fleshling heads.
+We concede this sector to you and your Altarian friends. I suggest that you stay near them, for when we meet again you will know the full might of the Drengin Empire.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_KillDrengin_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Make your threats, but we both know that you are beaten. If the Drengin insist on pushing us, we will push back. And you don't want that.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_WarWithAltarians_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Bradley, you fool! What have you done? Your orders were to help us make an alliance with the Altarians, not to start a war with them.
+You are relieved of your command and ordered confined to your quarters until you ship can return to Earth, where you will be court marshaled.
+I am very disappointed with you. At this point, you will be lucky to avoid execution.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission2_WarWithAltarians_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Um... gulp.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

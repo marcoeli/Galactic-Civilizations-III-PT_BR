@@ -1,0 +1,2752 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Snathi_DrenginTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>Snathi_DrenginTechTree_Name</Label>
+    <String>Snathi Drengin Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginImperialismTech_Name</Label>
+    <String>Imperialism</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginImperialismTech_ShortDec</Label>
+    <String>Colonizing new worlds is cheaper than invading them, if not as fun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginXenoExpoltation_Name</Label>
+    <String>Xeno Exploitation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginXenoExpoltation_ShortDec</Label>
+    <String>Put all those worthless colonists to work doing something useful.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIndustrialSpecialization1_Name</Label>
+    <String>Labor Exploitation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIndustrialSpecialization1_ShortDec</Label>
+    <String>Improves manufacturing capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIndustrialSpecialization2_Name</Label>
+    <String>Mental Exploitation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIndustrialSpecialization2_ShortDec</Label>
+    <String>Improves research capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIndustrialSpecialization3_Name</Label>
+    <String>Industrial Exploitation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIndustrialSpecialization3_ShortDec</Label>
+    <String>Reduces the cost of manufacturing and research centers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSlaveryTech_Name</Label>
+    <String>Xeno Slavery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSlaveryTech_ShortDec</Label>
+    <String>Forces the whelps into constructing more advanced facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginConstructionOptimization1_Name</Label>
+    <String>Optimized Chain Gangs</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginConstructionOptimization1_ShortDec</Label>
+    <String>Improves manufacturing capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginConstructionOptimization2_Name</Label>
+    <String>Slave Longevity</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginConstructionOptimization2_ShortDec</Label>
+    <String>Reduces manufacturing cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginConstructionOptimization3_Name</Label>
+    <String>Selective Slave Retention</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginConstructionOptimization3_ShortDec</Label>
+    <String>Reduces maintenance costs of manufacturing plants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMechanizedSlaveryTech_Name</Label>
+    <String>Mechanized Slavery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMechanizedSlaveryTech_ShortDec</Label>
+    <String>With the right tools, our slavelings can build even more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginManufacturingFocus1_Name</Label>
+    <String>Military Industry</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginManufacturingFocus1_ShortDec</Label>
+    <String>Encourage our slaves to have an interest in guns.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginManufacturingFocus2_Name</Label>
+    <String>Social Industry</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginManufacturingFocus2_ShortDec</Label>
+    <String>Thin out our weakest slaves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginManufacturingFocus3_Name</Label>
+    <String>Competitive Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginManufacturingFocus3_ShortDec</Label>
+    <String>Slaves that eat less and last longer</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSlaveMastersTech_Name</Label>
+    <String>Slave Masters</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSlaveMastersTech_ShortDec</Label>
+    <String>Mastery of slave manufacturing techniques.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSlavePits_Name</Label>
+    <String>Slave Pits</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSlavePits_ShortDec</Label>
+    <String>Makes more slaves available.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSlaveMills_Name</Label>
+    <String>Slave Mills</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSlaveMills_ShortDec</Label>
+    <String>The only thing better than cheap slaves are really cheap slaves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArtificialSlaves_Name</Label>
+    <String>Artificial Slaves</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArtificialSlaves_ShortDec</Label>
+    <String>Cloning slaves is much faster than waiting for them to grow up.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPersuasiveResearch_Name</Label>
+    <String>Persuasive Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPersuasiveResearch_ShortDec</Label>
+    <String>Force our smartest slaves to be smarter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginResearchOptimization1_Name</Label>
+    <String>Creative Motivation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginResearchOptimization1_ShortDec</Label>
+    <String>Improves research with the use of creative motivation techniques.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginResearchOptimization2_Name</Label>
+    <String>Creative Living</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginResearchOptimization2_ShortDec</Label>
+    <String>Pack more research slaves into the same amount of space.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginResearchOptimization3_Name</Label>
+    <String>Creative Resources</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginResearchOptimization3_ShortDec</Label>
+    <String>Who needs test subjects when you have researchers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginResearchExtraction_Name</Label>
+    <String>Research Extraction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginResearchExtraction_ShortDec</Label>
+    <String>Extract ideas from their smart little brains.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTechnologicalFocus1_Name</Label>
+    <String>Focused Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTechnologicalFocus1_ShortDec</Label>
+    <String>Increases Research capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTechnologicalFocus2_Name</Label>
+    <String>Research Production Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTechnologicalFocus2_ShortDec</Label>
+    <String>Reduces the Cost of Research improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTechnologicalFocus3_Name</Label>
+    <String>Research Economics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTechnologicalFocus3_ShortDec</Label>
+    <String>Reduces Maintenance of Research improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIntelligenceAmplification_Name</Label>
+    <String>Intelligence Amplification</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIntelligenceAmplification_ShortDec</Label>
+    <String>Boosts the intelligence of slaves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDeeperKnowledge_Name</Label>
+    <String>Mysterious Knowledge</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDeeperKnowledge_ShortDec</Label>
+    <String>Allows construction of reduced torture research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginQuantumUnderstanding_Name</Label>
+    <String>Pain-Free Understanding</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginQuantumUnderstanding_ShortDec</Label>
+    <String>Allows construction of torture-free research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBeyondMortality_Name</Label>
+    <String>Beyond Mortality</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBeyondMortality_ShortDec</Label>
+    <String>Allows construction of ultra-torture research facilities. Prepares civilization for Ascension.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginResearchCoordination_Name</Label>
+    <String>Slave Coordination</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginResearchCoordination_ShortDec</Label>
+    <String>Letting the slaves talk is dangerous but necessary.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginNeroLinking_Name</Label>
+    <String>Neuro Linking</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginNeroLinking_ShortDec</Label>
+    <String>Link slave brains together.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPlanetaryImprovement_Name</Label>
+    <String>Planetary Exploitation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPlanetaryImprovement_ShortDec</Label>
+    <String>We must whip these new planets into shape.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPlanetarySpecialization1_Name</Label>
+    <String>Soil Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPlanetarySpecialization1_ShortDec</Label>
+    <String>Force planets to make more food.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPlanetarySpecialization2_Name</Label>
+    <String>Accelerated Growth</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPlanetarySpecialization2_ShortDec</Label>
+    <String>Force planets to make more slavelings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPlanetarySpecialization3_Name</Label>
+    <String>Enhanced Production</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPlanetarySpecialization3_ShortDec</Label>
+    <String>Force planets to be more productive.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginXenoAgriculturalAdaptation_Name</Label>
+    <String>Agricultural Adaptation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginXenoAgriculturalAdaptation_ShortDec</Label>
+    <String>Adapt our livestock to alien environments.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAgriculturalOptimization1_Name</Label>
+    <String>Accelerated Agriculture</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAgriculturalOptimization1_ShortDec</Label>
+    <String>Make our meat crops meatier.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAgriculturalOptimization2_Name</Label>
+    <String>Efficient Agriculture</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAgriculturalOptimization2_ShortDec</Label>
+    <String>Make our meat farms more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAgriculturalOptimization3_Name</Label>
+    <String>Sustainable Agriculture</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAgriculturalOptimization3_ShortDec</Label>
+    <String>Reduces maintenance cost of meat farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIntensiveFarming_Name</Label>
+    <String>Intensive Farming</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIntensiveFarming_ShortDec</Label>
+    <String>Allows construction of high density meat farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginFarmingFocus1_Name</Label>
+    <String>Nutritional Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginFarmingFocus1_ShortDec</Label>
+    <String>Make our meat crops even meatier.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginFarmingFocus2_Name</Label>
+    <String>Farm Adaptability Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginFarmingFocus2_ShortDec</Label>
+    <String>Make meat farms even more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginFarmingFocus3_Name</Label>
+    <String>Farm Management Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginFarmingFocus3_ShortDec</Label>
+    <String>Reduces maintenance cost of meat farms even more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLosslessFarming_Name</Label>
+    <String>Meat Trees</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLosslessFarming_ShortDec</Label>
+    <String>Allows construction of exotic meat farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAgriculturalMastery1_Name</Label>
+    <String>Master Farmers</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAgriculturalMastery1_ShortDec</Label>
+    <String>Maximizes meat crop yield</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAgriculturalMastery2_Name</Label>
+    <String>Arousing Farming</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAgriculturalMastery2_ShortDec</Label>
+    <String>Meat farms increase population growth</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSlaveringRecycling_Name</Label>
+    <String>Slaveling Recycling</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSlaveringRecycling_ShortDec</Label>
+    <String>Recycled Slaves </String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginProteinResequencing_Name</Label>
+    <String>Protein Resequencing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginProteinResequencing_ShortDec</Label>
+    <String>Allows construction of Protein sequencing farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginXenoBiology_Name</Label>
+    <String>Xeno Biology</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginXenoBiology_ShortDec</Label>
+    <String>Allows construction of improved medical facilities. Increases population growth.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPopulationEnhancement_Name</Label>
+    <String>Bio Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPopulationEnhancement_ShortDec</Label>
+    <String>Forces the population to be stronger and live longer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBioReplication_Name</Label>
+    <String>Bio Replication</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBioReplication_ShortDec</Label>
+    <String>Begin cloning useful slavelings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnvironmentalEngineering_Name</Label>
+    <String>Environmental Engineering</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnvironmentalEngineering_ShortDec</Label>
+    <String>Beat the planet into submission.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnvironmentOptimization1_Name</Label>
+    <String>Environmental Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnvironmentOptimization1_ShortDec</Label>
+    <String>Force the planet to be better for manufacturing.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnvironmentOptimization2_Name</Label>
+    <String>Environmental Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnvironmentOptimization2_ShortDec</Label>
+    <String>Force the planet to be better for research.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnvironmentOptimization3_Name</Label>
+    <String>Environmental Economics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnvironmentOptimization3_ShortDec</Label>
+    <String>Force the planet to be better for the economy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginExtremeWorldColonization_Name</Label>
+    <String>Extreme Colonization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginExtremeWorldColonization_ShortDec</Label>
+    <String>Force the slavelings to settle on extreme worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginColonizationFocus1_Name</Label>
+    <String>Aquatic World Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginColonizationFocus1_ShortDec</Label>
+    <String>Normalizes Production of Aquatic Worlds, and boost their wealth and Tourism.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginColonizationFocus2_Name</Label>
+    <String>Frozen World Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginColonizationFocus2_ShortDec</Label>
+    <String>Normalizes Production of Frozen Worlds, and boost their Research and Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginColonizationFocus3_Name</Label>
+    <String>Barren World Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginColonizationFocus3_ShortDec</Label>
+    <String>Normalizes Production of Barren Worlds, and boost their Manufacturing and Military.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAtmosphericCleansing_Name</Label>
+    <String>Atmospheric Cleansing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAtmosphericCleansing_ShortDec</Label>
+    <String>Force the slavelings to live and die on radioactive and toxic worlds. Mostly die.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBiospherePerfection1_Name</Label>
+    <String>Radioactive World Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBiospherePerfection1_ShortDec</Label>
+    <String>Normalizes Production of Radioactive Worlds, and boost their Manufacturing output.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBiospherePerfection2_Name</Label>
+    <String>Toxic World Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBiospherePerfection2_ShortDec</Label>
+    <String>Normalizes Production of Toxic Worlds, and boost their Research output.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTerraformingTech_Name</Label>
+    <String>Terraforming</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTerraformingTech_ShortDec</Label>
+    <String>Make awful planets less awful.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHabitatImprovement_Name</Label>
+    <String>Habitat Improvement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHabitatImprovement_ShortDec</Label>
+    <String>Batter even the unruliest land into shape.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSoilReclamation_Name</Label>
+    <String>Soil Reclamation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSoilReclamation_ShortDec</Label>
+    <String>Create useful soil from almost nothing.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnvironmentalResequencing_Name</Label>
+    <String>Environmental Resequencing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnvironmentalResequencing_ShortDec</Label>
+    <String>Let's use continents that don't even exist yet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEngineeringTech_Name</Label>
+    <String>Engineering</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEngineeringTech_ShortDec</Label>
+    <String>We can now make hyperdrives and tiny hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarTravel_Name</Label>
+    <String>Interstellar Travel</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarTravel_ShortDec</Label>
+    <String>Gives weaklings more air, as well as better sensors and hyperdrives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarSpecialization1_Name</Label>
+    <String>Hyperdrive Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarSpecialization1_ShortDec</Label>
+    <String>Forces our ships to be faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarSpecialization2_Name</Label>
+    <String>Transportation Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarSpecialization2_ShortDec</Label>
+    <String>Reduces the Mass of Colony &amp; Constuctor modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarSpecialization3_Name</Label>
+    <String>Advanced Recirculation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarSpecialization3_ShortDec</Label>
+    <String>Forces our ships to travel further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIonDriveTech_Name</Label>
+    <String>Ion Drive</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIonDriveTech_ShortDec</Label>
+    <String>Now we can make hyperdrives that eat more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIonOptimization1_Name</Label>
+    <String>High Output Drives</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIonOptimization1_ShortDec</Label>
+    <String>Forces our ships to be faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIonOptimization2_Name</Label>
+    <String>Drive Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIonOptimization2_ShortDec</Label>
+    <String>Forces our drives to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIonOptimization3_Name</Label>
+    <String>Drive Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIonOptimization3_ShortDec</Label>
+    <String>Forces our drives to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWarpFieldTheory_Name</Label>
+    <String>Warp Field Theory</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWarpFieldTheory_ShortDec</Label>
+    <String>Now we can stack hyperfields on top of each other.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWarpFieldFocus1_Name</Label>
+    <String>Warp Field Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWarpFieldFocus1_ShortDec</Label>
+    <String>Forces our ships to go faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWarpFieldFocus2_Name</Label>
+    <String>Field Generator Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWarpFieldFocus2_ShortDec</Label>
+    <String>Forces our drives to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWarpFieldFocus3_Name</Label>
+    <String>Field Generator Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWarpFieldFocus3_ShortDec</Label>
+    <String>Forces our drives to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHyperwarpWaves_Name</Label>
+    <String>Hyperwarp Waves</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHyperwarpWaves_ShortDec</Label>
+    <String>Now we can make hyperdrives more hyper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHyperwarpMastery1_Name</Label>
+    <String>Master Drive Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHyperwarpMastery1_ShortDec</Label>
+    <String>Forces our drives to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHyperwarpMastery2_Name</Label>
+    <String>Drive Mass Reduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHyperwarpMastery2_ShortDec</Label>
+    <String>Forces our drives to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginStellarFoldingTech_Name</Label>
+    <String>Stellar Folding</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginStellarFoldingTech_ShortDec</Label>
+    <String>Lets us build the ultimate hyperdrives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHyperfieldProjection_Name</Label>
+    <String>Hyperfield Projection</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHyperfieldProjection_ShortDec</Label>
+    <String>Forces friendly ships to be faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGravityFieldManipulation_Name</Label>
+    <String>Gravity Field Manipulation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGravityFieldManipulation_ShortDec</Label>
+    <String>Forces our ships to be more maneuverable.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHyperfieldDisruption_Name</Label>
+    <String>Hyperfield Disruption</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHyperfieldDisruption_ShortDec</Label>
+    <String>Forces enemy ships to be slower.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginStellarFieldProjection_Name</Label>
+    <String>Stellar Field Projection</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginStellarFieldProjection_ShortDec</Label>
+    <String>Forces friendly ships to be even more faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarSurvey_Name</Label>
+    <String>Interstellar Survey</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarSurvey_ShortDec</Label>
+    <String>Now we can make better tools for looking at planets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSensorOptimization1_Name</Label>
+    <String>Sensor Amplification</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSensorOptimization1_ShortDec</Label>
+    <String>Forces our sensors to see further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSensorOptimization2_Name</Label>
+    <String>Sensors Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSensorOptimization2_ShortDec</Label>
+    <String>Forces our sensors to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSensorOptimization3_Name</Label>
+    <String>Sensor Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSensorOptimization3_ShortDec</Label>
+    <String>Forces our sensors to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnergyFieldSensors_Name</Label>
+    <String>Energy Field Sensors</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnergyFieldSensors_ShortDec</Label>
+    <String>Our looking tools have gotten more advanced again!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnergyFieldFocus1_Name</Label>
+    <String>Sensor Field Augmentation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnergyFieldFocus1_ShortDec</Label>
+    <String>Forces our sensors to see further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnergyFieldFocus2_Name</Label>
+    <String>Sensor Efficacy Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnergyFieldFocus2_ShortDec</Label>
+    <String>Forces our sensors to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnergyFieldFocus3_Name</Label>
+    <String>High Density Sensors</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnergyFieldFocus3_ShortDec</Label>
+    <String>Forces our sensors to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSubspaceSensors_Name</Label>
+    <String>Subspace Sensors</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSubspaceSensors_ShortDec</Label>
+    <String>Our looking tools are now very good looking.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSensorMastery1_Name</Label>
+    <String>Sensor Simplification</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSensorMastery1_ShortDec</Label>
+    <String>Forces our sensors to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSensorMastery2_Name</Label>
+    <String>Sensor Mass Reduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSensorMastery2_ShortDec</Label>
+    <String>Forces our sensors to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTargetingAssistTech_Name</Label>
+    <String>Targeting Assist</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTargetingAssistTech_ShortDec</Label>
+    <String>Lets us build targeting and stealth modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTargetingSupport_Name</Label>
+    <String>Targeting Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTargetingSupport_ShortDec</Label>
+    <String>Lets us build fleet-wide targeting and jamming modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginXenoArcheology_Name</Label>
+    <String>Xeno Archeology</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginXenoArcheology_ShortDec</Label>
+    <String>Forces Precursor research to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPrecursorStudies_Name</Label>
+    <String>Precursor Studies</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPrecursorStudies_ShortDec</Label>
+    <String>Forces Precursor research to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPrecursorRelicFocus1_Name</Label>
+    <String>Precursor Technologist</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPrecursorRelicFocus1_ShortDec</Label>
+    <String>Forces Precursor relic research to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPrecursorRelicFocus2_Name</Label>
+    <String>Precursor Cultural Studies</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPrecursorRelicFocus2_ShortDec</Label>
+    <String>Forces Precursor relic cultural benefits to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPrecursorRelicFocus3_Name</Label>
+    <String>Precursor Capitalization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPrecursorRelicFocus3_ShortDec</Label>
+    <String>Forces Precursor relic economic benefits to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPrecursorExploitation_Name</Label>
+    <String>Precursor Exploitation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPrecursorExploitation_ShortDec</Label>
+    <String>Forces Precursor research to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPrecursorEngineering_Name</Label>
+    <String>Precursor Engineering</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPrecursorEngineering_ShortDec</Label>
+    <String>Forces Precursor research to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPrecursorUnderstanding_Name</Label>
+    <String>Precursor Understanding</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPrecursorUnderstanding_ShortDec</Label>
+    <String>Forces Precursor research to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLifeSupport_Name</Label>
+    <String>Life Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLifeSupport_ShortDec</Label>
+    <String>Better life support systems makes our ships go further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLifeSupportOptimization1_Name</Label>
+    <String>Improved Life Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLifeSupportOptimization1_ShortDec</Label>
+    <String>Forces our ships to travel further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLifeSupportOptimization2_Name</Label>
+    <String>Life Support Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLifeSupportOptimization2_ShortDec</Label>
+    <String>Forces our life support systems to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLifeSupportOptimization3_Name</Label>
+    <String>Life Support Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLifeSupportOptimization3_ShortDec</Label>
+    <String>Forces our life support systems to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSupportFieldGeneration_Name</Label>
+    <String>Support Field Generation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSupportFieldGeneration_ShortDec</Label>
+    <String>Advanced life support forces our crew to do more with less.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSupportFieldFocus1_Name</Label>
+    <String>Support Range Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSupportFieldFocus1_ShortDec</Label>
+    <String>Forces our ships to travel further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSupportFieldFocus2_Name</Label>
+    <String>Support Manufacturing Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSupportFieldFocus2_ShortDec</Label>
+    <String>Forces our life support systems to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSupportFieldFocus3_Name</Label>
+    <String>Low Mass Support Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSupportFieldFocus3_ShortDec</Label>
+    <String>Forces our life support systems to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPromethionSupportSystems_Name</Label>
+    <String>Promethion Support Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPromethionSupportSystems_ShortDec</Label>
+    <String>Exotic life support systems feed our crews less than ever.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLifeSupportMastery1_Name</Label>
+    <String>Support System Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLifeSupportMastery1_ShortDec</Label>
+    <String>Forces our life support systems to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLifeSupportMastery2_Name</Label>
+    <String>Support Mass Reduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLifeSupportMastery2_ShortDec</Label>
+    <String>Forces our life support systems to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLosslessSupportSystems_Name</Label>
+    <String>Lossless Support Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLosslessSupportSystems_ShortDec</Label>
+    <String>Lossless life support systems humiliate our crews more than ever.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSupportFieldMastery_Name</Label>
+    <String>Support Field Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSupportFieldMastery_ShortDec</Label>
+    <String>Support fields extend the range of an entire fleet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginExplorationExtention_Name</Label>
+    <String>Exploration Extension</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginExplorationExtention_ShortDec</Label>
+    <String>Advanced support fields extend a fleet's range even more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginOrbitalManufacturing_Name</Label>
+    <String>Orbital Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginOrbitalManufacturing_ShortDec</Label>
+    <String>In orbit we can make bigger, meaner ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginOrbitalSpecialization1_Name</Label>
+    <String>Skilled Starship Construction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginOrbitalSpecialization1_ShortDec</Label>
+    <String>Force our Starports to work better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginOrbitalSpecialization3_Name</Label>
+    <String>Improved Logistics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginOrbitalSpecialization3_ShortDec</Label>
+    <String>Force our infrastructure to be more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginOrbitalSpecialization2_Name</Label>
+    <String>Storage Maximization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginOrbitalSpecialization2_ShortDec</Label>
+    <String>Forces our ships to be packed tighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginZeroGravityConstruction_Name</Label>
+    <String>Zero Gravity Construction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginZeroGravityConstruction_ShortDec</Label>
+    <String>Lets us build medium hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginZeroGravityOptimization1_Name</Label>
+    <String>Hull Reinforcement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginZeroGravityOptimization1_ShortDec</Label>
+    <String>Forces our ships to be tougher.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginZeroGravityOptimization3_Name</Label>
+    <String>Shipyard Efficiency</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginZeroGravityOptimization3_ShortDec</Label>
+    <String>Forces our ships to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginZeroGravityOptimization2_Name</Label>
+    <String>High Capacity Hulls</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginZeroGravityOptimization2_ShortDec</Label>
+    <String>Forces our ships to be packed tighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLargeScaleConstruction_Name</Label>
+    <String>Large Scale Construction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLargeScaleConstruction_ShortDec</Label>
+    <String>Lets us build large hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginOrbitalConstructionFocus1_Name</Label>
+    <String>Hardened Hulls</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginOrbitalConstructionFocus1_ShortDec</Label>
+    <String>Forces our ships to be tougher.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginOrbitalConstructionFocus3_Name</Label>
+    <String>Starship Manufacturing Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginOrbitalConstructionFocus3_ShortDec</Label>
+    <String>Forces our ships to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginOrbitalConstructionFocus2_Name</Label>
+    <String>Hull Capacity Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginOrbitalConstructionFocus2_ShortDec</Label>
+    <String>Forces our ships to be packed tighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMassiveScaleConstruction_Name</Label>
+    <String>Massive Scale Construction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMassiveScaleConstruction_ShortDec</Label>
+    <String>Lets us build huge hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHullMastery2_Name</Label>
+    <String>Master shipwrights</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHullMastery2_ShortDec</Label>
+    <String>Forces our ships to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHullMastery1_Name</Label>
+    <String>Hull Maximization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHullMastery1_ShortDec</Label>
+    <String>Forces our ships to be packed tighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHullStrengthening_Name</Label>
+    <String>Hull Strengthening</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHullStrengthening_ShortDec</Label>
+    <String>Forces our hulls to be tougher.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHullRepairSystems_Name</Label>
+    <String>Hull Repair Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHullRepairSystems_ShortDec</Label>
+    <String>Lets us build hull support and repair modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSelfHealingHulls_Name</Label>
+    <String>Self Healing Hulls</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSelfHealingHulls_ShortDec</Label>
+    <String>Lets us build tactical repair modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCarrierTech_Name</Label>
+    <String>Carriers</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCarrierTech_ShortDec</Label>
+    <String>Lets us build carrier modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCarrierFocus1_Name</Label>
+    <String>Interceptor Drones</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCarrierFocus1_ShortDec</Label>
+    <String>Allows for the construction of cheap and light Interceptor Drones</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCarrierFocus2_Name</Label>
+    <String>Guardian Drones</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCarrierFocus2_ShortDec</Label>
+    <String> Allows for the construction of cheap and light Guardian Drones.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHighCapacityCarriers_Name</Label>
+    <String>High Capacity Carriers</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHighCapacityCarriers_ShortDec</Label>
+    <String>Lets us build high capacity carrier modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarLogistics_Name</Label>
+    <String>Interstellar Logistics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarLogistics_ShortDec</Label>
+    <String>Forces Logistics to be better. Lets us build mining facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLogisticalOptimization1_Name</Label>
+    <String>Advanced Logistics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLogisticalOptimization1_ShortDec</Label>
+    <String>Forces Logistics to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLogisticalOptimization2_Name</Label>
+    <String>High Output Mining</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLogisticalOptimization2_ShortDec</Label>
+    <String>Forces mines to be more productive.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLogisticalOptimization3_Name</Label>
+    <String>Sustainable Starports</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLogisticalOptimization3_ShortDec</Label>
+    <String>Forces starports to decay less.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginFleetLogisticsTech_Name</Label>
+    <String>Fleet Logistics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginFleetLogisticsTech_ShortDec</Label>
+    <String>Forces Logistics to be way better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDeepSpaceLogistics_Name</Label>
+    <String>Deep Space Logistics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDeepSpaceLogistics_ShortDec</Label>
+    <String>Forces Logistics to be better still.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGalacticLogistics_Name</Label>
+    <String>Galactic Logistics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGalacticLogistics_ShortDec</Label>
+    <String>Forces Logistics to be the best.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarMining_Name</Label>
+    <String>Interstellar Mining</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarMining_ShortDec</Label>
+    <String>Lets us build mining facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHighEfficiencyMining_Name</Label>
+    <String>High Efficiency Mining</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHighEfficiencyMining_ShortDec</Label>
+    <String>Forces our mining facilities to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginResourceExtraction_Name</Label>
+    <String>Resource Extraction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginResourceExtraction_ShortDec</Label>
+    <String>Lets us build highly efficient extractors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLosslessMining_Name</Label>
+    <String>Lossless Mining</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginLosslessMining_ShortDec</Label>
+    <String>Lets us build targeted resource extractors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWarfareTech_Name</Label>
+    <String>Warfare</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWarfareTech_ShortDec</Label>
+    <String>War isn't the only thing we're good at. But we are really good at it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWeaponsSystemsTech_Name</Label>
+    <String>Weapons Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWeaponsSystemsTech_ShortDec</Label>
+    <String>Lets us build basic guns.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWeaponsSpecializationTech1_Name</Label>
+    <String>Targeting Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWeaponsSpecializationTech1_ShortDec</Label>
+    <String>Increases the Accuracy of all weapon systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWeaponsSpecializationTech2_Name</Label>
+    <String>Miniturization Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWeaponsSpecializationTech2_ShortDec</Label>
+    <String>Reduces the Mass of all weapons systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWeaponsSpecializationTech3_Name</Label>
+    <String>Production Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWeaponsSpecializationTech3_ShortDec</Label>
+    <String>Reduces the Cost of all weapons systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBeamWeapons_Name</Label>
+    <String>Beam Weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBeamWeapons_ShortDec</Label>
+    <String>Lets us build stronger beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBeamWeaponOptimization1_Name</Label>
+    <String>Focused Beam Weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBeamWeaponOptimization1_ShortDec</Label>
+    <String>Forces our beam weapons to do more damage.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBeamWeaponOptimization2_Name</Label>
+    <String>Low-Cost Beam Weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBeamWeaponOptimization2_ShortDec</Label>
+    <String>Forces our beam weapons to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBeamWeaponOptimization3_Name</Label>
+    <String>Beam Weapons Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBeamWeaponOptimization3_ShortDec</Label>
+    <String>Forces our beam weapons to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMatterDisruption_Name</Label>
+    <String>Matter Disruption</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMatterDisruption_ShortDec</Label>
+    <String>Lets us build advanced beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHighEnergyFocus1_Name</Label>
+    <String>Beam Amplification</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHighEnergyFocus1_ShortDec</Label>
+    <String>Forces our beam weapons to do more damage.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHighEnergyFocus2_Name</Label>
+    <String>Beam Manufacturing Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHighEnergyFocus2_ShortDec</Label>
+    <String>Forces our beam weapons to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHighEnergyFocus3_Name</Label>
+    <String>Low Mass Beam Weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHighEnergyFocus3_ShortDec</Label>
+    <String>Forces our beam weapons to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPlasmaProjection_Name</Label>
+    <String>Plasma Projection</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPlasmaProjection_ShortDec</Label>
+    <String>Lets us build extra deadly beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBeamWeaponMastery1_Name</Label>
+    <String>Master Beam Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBeamWeaponMastery1_ShortDec</Label>
+    <String>Forces our beam weapons to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBeamWeaponMastery2_Name</Label>
+    <String>High Density Beam Weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBeamWeaponMastery2_ShortDec</Label>
+    <String>Forces our beam weapons to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnergyPhasing_Name</Label>
+    <String>Energy Phasing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEnergyPhasing_ShortDec</Label>
+    <String>Lets us build face-meltingly powerful beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDoomRayTech_Name</Label>
+    <String>Doom Ray</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDoomRayTech_ShortDec</Label>
+    <String>Lets us build the ultimate beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBeamWeaponAugmentation_Name</Label>
+    <String>Beam Weapon Augmentation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBeamWeaponAugmentation_ShortDec</Label>
+    <String>Forces a fleet's beam weapons to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHighEnergyTransfer_Name</Label>
+    <String>High Energy Transfer</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHighEnergyTransfer_ShortDec</Label>
+    <String>Forces a fleet's beam weapons to be extra better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHighEnergyMagnification_Name</Label>
+    <String>High Energy Magnification</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHighEnergyMagnification_ShortDec</Label>
+    <String>Forces a fleet's beam weapons to be much extra better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMissileWeapons_Name</Label>
+    <String>Missile Weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMissileWeapons_ShortDec</Label>
+    <String>Lets us build better missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMissileOptimization1_Name</Label>
+    <String>Rapid Fire Missiles</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMissileOptimization1_ShortDec</Label>
+    <String>Forces missile launchers to shoot faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMissileOptimization2_Name</Label>
+    <String>Low Cost Missiles</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMissileOptimization2_ShortDec</Label>
+    <String>Forces missiles to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMissileOptimization3_Name</Label>
+    <String>Missile Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMissileOptimization3_ShortDec</Label>
+    <String>Forces missiles to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHarpoonTech_Name</Label>
+    <String>Harpoons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHarpoonTech_ShortDec</Label>
+    <String>Lets us build angrier missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWarheadFocus1_Name</Label>
+    <String>Warhead Acceleration</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWarheadFocus1_ShortDec</Label>
+    <String>Forces missile launchers to shoot farther.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWarheadFocus2_Name</Label>
+    <String>Warhead Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWarheadFocus2_ShortDec</Label>
+    <String>Forces missiles to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWarheadFocus3_Name</Label>
+    <String>Low Mass Warheads</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWarheadFocus3_ShortDec</Label>
+    <String>Forces missiles to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPhotonicWarheads_Name</Label>
+    <String>Photonic Warheads</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPhotonicWarheads_ShortDec</Label>
+    <String>Lets us build exotic missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPayloadMastery1_Name</Label>
+    <String>Master Missile Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPayloadMastery1_ShortDec</Label>
+    <String>Forces missiles to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPayloadMastery2_Name</Label>
+    <String>High Density Warheads</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPayloadMastery2_ShortDec</Label>
+    <String>Forces missiles to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPhotonTorpedos_Name</Label>
+    <String>Photon Torpedoes</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPhotonTorpedos_ShortDec</Label>
+    <String>Lets us build crazy dangerous missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginNightmareTorpedoTech_Name</Label>
+    <String>Nightmare Torpedoes</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginNightmareTorpedoTech_ShortDec</Label>
+    <String>Lets us build world ending missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMissileAugmentation_Name</Label>
+    <String>Missile Augmentation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMissileAugmentation_ShortDec</Label>
+    <String>Forces a fleet's missile weapons to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAdvancedMissileGuidance_Name</Label>
+    <String>Advanced Missile Guidance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAdvancedMissileGuidance_ShortDec</Label>
+    <String>Forces a fleet's missile weapons to be extra better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIntelligentWarheads_Name</Label>
+    <String>Intelligent Warheads</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginIntelligentWarheads_ShortDec</Label>
+    <String>Forces a fleet's missile weapons to be much extra better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticWeapons_Name</Label>
+    <String>Kinetic Weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticWeapons_ShortDec</Label>
+    <String>Lets us build better kinetic weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticOptimization1_Name</Label>
+    <String>Kinetic Range Extension</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticOptimization1_ShortDec</Label>
+    <String>Forces our kinetic weapons to shoot further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticOptimization2_Name</Label>
+    <String>Kinetic Weapon Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticOptimization2_ShortDec</Label>
+    <String>Forces our kinetic weapons to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticOptimization3_Name</Label>
+    <String>Kinetic Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticOptimization3_ShortDec</Label>
+    <String>Forces our kinetic weapons to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPulseCannonTech_Name</Label>
+    <String>Pulse Cannons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPulseCannonTech_ShortDec</Label>
+    <String>Lets us build more deadly kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticAccelerationFocus1_Name</Label>
+    <String>Frictionless Acceleration</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticAccelerationFocus1_ShortDec</Label>
+    <String>Forces our kinetic weapons to shoot further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticAccelerationFocus2_Name</Label>
+    <String>Low Cost Accelerators</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticAccelerationFocus2_ShortDec</Label>
+    <String>Forces our kinetic weapons to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticAccelerationFocus3_Name</Label>
+    <String>Low Mass Accelerators</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticAccelerationFocus3_ShortDec</Label>
+    <String>Forces our kinetic weapons to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGravitonThrower_Name</Label>
+    <String>Graviton Thrower</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGravitonThrower_ShortDec</Label>
+    <String>Lets us build very dangerous kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticMastery1_Name</Label>
+    <String>Master Accelerator Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticMastery1_ShortDec</Label>
+    <String>Forces our kinetic weapons to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticMastery2_Name</Label>
+    <String>High Density Accelerators</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticMastery2_ShortDec</Label>
+    <String>Forces our kinetic weapons to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginQuantumDrivers_Name</Label>
+    <String>Quantum Drivers</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginQuantumDrivers_ShortDec</Label>
+    <String>Lets us build impossibly deadly kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSingularityDrivers_Name</Label>
+    <String>Singularity Drivers</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSingularityDrivers_ShortDec</Label>
+    <String>Lets us build the ultimate kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticAugmentation_Name</Label>
+    <String>Kinetic Augmentation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKineticAugmentation_ShortDec</Label>
+    <String>Forces a fleet's kinetic weapons to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMassManipulation_Name</Label>
+    <String>Mass Manipulation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMassManipulation_ShortDec</Label>
+    <String>Forces a fleet's kinetic weapons to be extra better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInertialMagnification_Name</Label>
+    <String>Inertial Magnification</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInertialMagnification_ShortDec</Label>
+    <String>Forces a fleet's kinetic weapons to be much extra better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMilitarizationTech_Name</Label>
+    <String>Militarization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMilitarizationTech_ShortDec</Label>
+    <String>Lets us build military shipyards and defense platforms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMilitarySpecialization1_Name</Label>
+    <String>Enhanced Training</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMilitarySpecialization1_ShortDec</Label>
+    <String>Forces our soldiers to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMilitarySpecialization2_Name</Label>
+    <String>Defensive Fortifications</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMilitarySpecialization2_ShortDec</Label>
+    <String>Forces our planetary defenses to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMilitarySpecialization3_Name</Label>
+    <String>Resistance Forces</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginMilitarySpecialization3_ShortDec</Label>
+    <String>Increase our colonies ability to resist invaders.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWarMachine_Name</Label>
+    <String>War Machine</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWarMachine_ShortDec</Label>
+    <String>Lets us build Garrisons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPlanetaryInvasion_Name</Label>
+    <String>Planetary Invasion</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPlanetaryInvasion_ShortDec</Label>
+    <String>Lets us build transports to invade planets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInvasionOptimization1_Name</Label>
+    <String>Planetary Bombardment</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInvasionOptimization1_ShortDec</Label>
+    <String>Allows Planetary Bombardments to be conducted during invasions.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInvasionOptimization2_Name</Label>
+    <String>Information Warfare</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInvasionOptimization2_ShortDec</Label>
+    <String>Allows Informational Warfare tactics to be used during invasions.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInvasionOptimization3_Name</Label>
+    <String>Biological Warfare</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInvasionOptimization3_ShortDec</Label>
+    <String>Allows Biological Warfare tactics to be used during invasions.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginStallerMarines_Name</Label>
+    <String>Stellar Marines</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginStallerMarines_ShortDec</Label>
+    <String>Improves soldier effectiveness and transport capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGravitationalFocus1_Name</Label>
+    <String>Tidal Disruption</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGravitationalFocus1_ShortDec</Label>
+    <String>Allows tidal disruption tactics to be used during invasions.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGravitationalFocus2_Name</Label>
+    <String>Core Detonation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGravitationalFocus2_ShortDec</Label>
+    <String>Allows core detonation tactics to be used during invasions.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDroneSoldiers_Name</Label>
+    <String>Drone Soldiers</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDroneSoldiers_ShortDec</Label>
+    <String>Forces soldiers to be more effective and transports to carry more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAdvancedInvasionTactics_Name</Label>
+    <String>Advanced Invasion Tactics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAdvancedInvasionTactics_ShortDec</Label>
+    <String>Forces soldiers to be more effective and transports to carry more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginFortification_Name</Label>
+    <String>Bombardment Shelters</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginFortification_ShortDec</Label>
+    <String>Provides stronger defense against planetary bombardment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDefensiveFocus1_Name</Label>
+    <String>Information Systems Hardening</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDefensiveFocus1_ShortDec</Label>
+    <String>Makes all colonies Immune to Planetary Bombardment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDefensiveFocus2_Name</Label>
+    <String>Adaptive Vaccinations</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDefensiveFocus2_ShortDec</Label>
+    <String>Makes all colonies Immune to Information Warfare.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDefensiveFocus3_Name</Label>
+    <String>Orbital Defense Platform</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDefensiveFocus3_ShortDec</Label>
+    <String>Makes all colonies Immune to Biological Warfare.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginOrbitalDefencePlatform_Name</Label>
+    <String>Orbital Defense Platform </String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginOrbitalDefencePlatform_ShortDec</Label>
+    <String>Allows construction of planetary defense dome, improves planetary defense.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDefenseSystemTech_Name</Label>
+    <String>Defense Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDefenseSystemTech_ShortDec</Label>
+    <String>Lets us build defensive systems for our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDefensiveSpecialization1_Name</Label>
+    <String>Shield Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDefensiveSpecialization1_ShortDec</Label>
+    <String>Forces our shields to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDefensiveSpecialization2_Name</Label>
+    <String>Point Defense Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDefensiveSpecialization2_ShortDec</Label>
+    <String>Reduces cost of point defenses.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDefensiveSpecialization3_Name</Label>
+    <String>Armor Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDefensiveSpecialization3_ShortDec</Label>
+    <String>Forces our armor to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginShieldSystems_Name</Label>
+    <String>Shield Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginShieldSystems_ShortDec</Label>
+    <String>Lets us build better shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginShieldOptimization1_Name</Label>
+    <String>Shield Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginShieldOptimization1_ShortDec</Label>
+    <String>Forces our shields to be stronger.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginShieldOptimization2_Name</Label>
+    <String>Low Cost Shield Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginShieldOptimization2_ShortDec</Label>
+    <String>Forces our shields to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginShieldOptimization3_Name</Label>
+    <String>Shield Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginShieldOptimization3_ShortDec</Label>
+    <String>Forces our shields to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBarrierFieldGeneration_Name</Label>
+    <String>Barrier Field Generation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBarrierFieldGeneration_ShortDec</Label>
+    <String>Lets us build really great shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBarrierSystemFocus1_Name</Label>
+    <String>High Output Shield Generators</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBarrierSystemFocus1_ShortDec</Label>
+    <String>Forces our shields to be stronger.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBarrierSystemFocus2_Name</Label>
+    <String>Low Cost Shield Generators</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBarrierSystemFocus2_ShortDec</Label>
+    <String>Forces our shields to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBarrierSystemFocus3_Name</Label>
+    <String>Low Mass Shield Generators</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBarrierSystemFocus3_ShortDec</Label>
+    <String>Forces our shields to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginForceFieldTech_Name</Label>
+    <String>Force Fields</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginForceFieldTech_ShortDec</Label>
+    <String>Lets us build exotic shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginShieldMastery1_Name</Label>
+    <String>Master Shield Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginShieldMastery1_ShortDec</Label>
+    <String>Forces our shields to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginShieldMastery2_Name</Label>
+    <String>High Density Shield Generators</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginShieldMastery2_ShortDec</Label>
+    <String>Forces our shields to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInvulnerabilityTech_Name</Label>
+    <String>Invulnerability</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInvulnerabilityTech_ShortDec</Label>
+    <String>Lets us build the best shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginShieldSupportSystems_Name</Label>
+    <String>Shield Support Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginShieldSupportSystems_ShortDec</Label>
+    <String>Lets us build shield support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginShieldAugmentation_Name</Label>
+    <String>Shield Augmentation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginShieldAugmentation_ShortDec</Label>
+    <String>Lets us build better shield support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPointDefenses_Name</Label>
+    <String>Point Defenses</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPointDefenses_ShortDec</Label>
+    <String>Lets us build better point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPointDefenseOptimization1_Name</Label>
+    <String>Smart Point Defenses</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPointDefenseOptimization1_ShortDec</Label>
+    <String>Forces our point defenses to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPointDefenseOptimization2_Name</Label>
+    <String>Low Cost Point Defenses</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPointDefenseOptimization2_ShortDec</Label>
+    <String>Forces our point defenses to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPointDefenseOptimization3_Name</Label>
+    <String>Point Defense Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPointDefenseOptimization3_ShortDec</Label>
+    <String>Forces our point defenses to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCounterMeasures_Name</Label>
+    <String>Counter Measures</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCounterMeasures_ShortDec</Label>
+    <String>Lets us build even better point defenses.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCounterMeasureFocus1_Name</Label>
+    <String>Adaptive Counter Measures</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCounterMeasureFocus1_ShortDec</Label>
+    <String>Forces our point defenses to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCounterMeasureFocus2_Name</Label>
+    <String>Counter Measure Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCounterMeasureFocus2_ShortDec</Label>
+    <String>Forces our point defenses to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCounterMeasureFocus3_Name</Label>
+    <String>Low Mass Counter Measures</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCounterMeasureFocus3_ShortDec</Label>
+    <String>Forces our point defenses to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDroneSentrySystems_Name</Label>
+    <String>Drone Sentry Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDroneSentrySystems_ShortDec</Label>
+    <String>Lets us build exotic point defenses.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDroneSystemMastery1_Name</Label>
+    <String>Master Point Defense Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDroneSystemMastery1_ShortDec</Label>
+    <String>Forces our point defenses to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDroneSystemMastery2_Name</Label>
+    <String>High Density Point Defenses</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDroneSystemMastery2_ShortDec</Label>
+    <String>Forces our point defenses to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArreonMissileDefenseTech_Name</Label>
+    <String>Aereon Missile Defense</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArreonMissileDefenseTech_ShortDec</Label>
+    <String>Lets us build the ultimate point defenses.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPointDefenseSupportSystem_Name</Label>
+    <String>Point Defense Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPointDefenseSupportSystem_ShortDec</Label>
+    <String>Lets us build fleet point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPointDefenseAugmentation_Name</Label>
+    <String>Point Defense Augmentation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPointDefenseAugmentation_ShortDec</Label>
+    <String>Lets us build even better fleet point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorSystems_Name</Label>
+    <String>Armor Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorSystems_ShortDec</Label>
+    <String>Lets us build tougher armor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorOptimization1_Name</Label>
+    <String>Reinforced Armor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorOptimization1_ShortDec</Label>
+    <String>Forces our armor to be stronger.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorOptimization2_Name</Label>
+    <String>Low-Cost Armor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorOptimization2_ShortDec</Label>
+    <String>Forces our armor to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorOptimization3_Name</Label>
+    <String>Armor Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorOptimization3_ShortDec</Label>
+    <String>Forces our armor to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDurantiumCompositeTech_Name</Label>
+    <String>Durantium Composite</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDurantiumCompositeTech_ShortDec</Label>
+    <String>Lets us build way tougher armor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorFocus1_Name</Label>
+    <String>Armor Lamination</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorFocus1_ShortDec</Label>
+    <String>Forces our armor to be stronger.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorFocus2_Name</Label>
+    <String>Armor Manufacturing Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorFocus2_ShortDec</Label>
+    <String>Forces our armor to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorFocus3_Name</Label>
+    <String>Armor Mass Reduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorFocus3_ShortDec</Label>
+    <String>Forces our armor to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKanviumLaminateTech_Name</Label>
+    <String>Kanvium Laminate</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginKanviumLaminateTech_ShortDec</Label>
+    <String>Lets us build exotic armor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorMastery1_Name</Label>
+    <String>Master Armorers</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorMastery1_ShortDec</Label>
+    <String>Forces our armor to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorMastery2_Name</Label>
+    <String>High Density Armor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorMastery2_ShortDec</Label>
+    <String>Forces our armor to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginZeroPointArmorTech_Name</Label>
+    <String>Zero Point Armor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginZeroPointArmorTech_ShortDec</Label>
+    <String>Lets us build the ultimate armor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorSupportSystems_Name</Label>
+    <String>Armor Support Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorSupportSystems_ShortDec</Label>
+    <String>Lets us build fleet armor-support fields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorEnhancement_Name</Label>
+    <String>Armor Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginArmorEnhancement_ShortDec</Label>
+    <String>Lets us build better fleet armor-support fields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCommunicationsTech_Name</Label>
+    <String>Intimidation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCommunicationsTech_ShortDec</Label>
+    <String>Lets us research technology for intimidating our food.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTranslatorTech_Name</Label>
+    <String>Universal Translator</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTranslatorTech_ShortDec</Label>
+    <String>Lets us communicate with our food.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDiplomaticSpecialization1_Name</Label>
+    <String>Diplomatic Reasoning</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDiplomaticSpecialization1_ShortDec</Label>
+    <String>Forces our Diplomats to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDiplomaticSpecialization2_Name</Label>
+    <String>Influential Voice</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDiplomaticSpecialization2_ShortDec</Label>
+    <String>Spreads Drengin glory further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDiplomaticSpecialization3_Name</Label>
+    <String>Passionate Communicator</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDiplomaticSpecialization3_ShortDec</Label>
+    <String>Get better deals when trading with other races.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarGovernance_Name</Label>
+    <String>Interstellar Governance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarGovernance_ShortDec</Label>
+    <String>Allows use of Stellar Empire form of government.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPoliticalSpecialization1_Name</Label>
+    <String>Slave-Master Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPoliticalSpecialization1_ShortDec</Label>
+    <String>Allows use of the Slave-Master Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPoliticalSpecialization2_Name</Label>
+    <String>Coddling Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPoliticalSpecialization2_ShortDec</Label>
+    <String>Allows use of the Coddling Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPoliticalSpecialization3_Name</Label>
+    <String>Dominion Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPoliticalSpecialization3_ShortDec</Label>
+    <String>Allows use of the Dominion Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGalacticGovernance_Name</Label>
+    <String>Galactic Governance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGalacticGovernance_ShortDec</Label>
+    <String>Allows use of Galactic Republic form of government.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPoliticalFocus1_Name</Label>
+    <String>Plundering Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPoliticalFocus1_ShortDec</Label>
+    <String>Allows use of the Plundering Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPoliticalFocus2_Name</Label>
+    <String>Thievery Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPoliticalFocus2_ShortDec</Label>
+    <String>Allows use of the Thievery Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPoliticalFocus3_Name</Label>
+    <String>Smart Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPoliticalFocus3_ShortDec</Label>
+    <String>Allows use of the Smart Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarDemocracyTech_Name</Label>
+    <String>Interstellar Democracy</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarDemocracyTech_ShortDec</Label>
+    <String>Allows use of Interstellar Democracy form of government.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPoliticalMastery1_Name</Label>
+    <String>War Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPoliticalMastery1_ShortDec</Label>
+    <String>Allows use of the War Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPoliticalMastery2_Name</Label>
+    <String>Pre-War Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginPoliticalMastery2_ShortDec</Label>
+    <String>Allows use of the Pre-War Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginStarFederationTech_Name</Label>
+    <String>Star Federation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginStarFederationTech_ShortDec</Label>
+    <String>Allows use of Star Federation form of government.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDiplomacyTech_Name</Label>
+    <String>Diplomacy</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDiplomacyTech_ShortDec</Label>
+    <String>Lets us build embassies and form basic treaties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDiplomaticOptimization1_Name</Label>
+    <String>Economic Treaty</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDiplomaticOptimization1_ShortDec</Label>
+    <String>Allows formation of economic treaties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDiplomaticOptimization2_Name</Label>
+    <String>Cultural Treaty</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDiplomaticOptimization2_ShortDec</Label>
+    <String>Allows formation of cultural treaties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDiplomaticOptimization3_Name</Label>
+    <String>Research Treaty</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginDiplomaticOptimization3_ShortDec</Label>
+    <String>Allows formation of research treaties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarAlliances_Name</Label>
+    <String>Interstellar Alliances</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarAlliances_ShortDec</Label>
+    <String>Let us build improved diplomatic buildings. Increases Diplomacy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAllianceFocus1_Name</Label>
+    <String>Military Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAllianceFocus1_ShortDec</Label>
+    <String>Allows formation of military alliances.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAllianceFocus2_Name</Label>
+    <String>Technological Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAllianceFocus2_ShortDec</Label>
+    <String>Allows formation of technological alliances.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAllianceFocus3_Name</Label>
+    <String>Cultural Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginAllianceFocus3_ShortDec</Label>
+    <String>Allows formation of cultural alliances.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEminenceTech_Name</Label>
+    <String>Eminence</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEminenceTech_ShortDec</Label>
+    <String>Lets us build advanced diplomatic buildings. Increases Diplomacy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginUnitedPlanetsLobbyist_Name</Label>
+    <String>United Planets Lobbyist</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginUnitedPlanetsLobbyist_ShortDec</Label>
+    <String>Unlocks additional Resolutions to be proposed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginUnitedPlanetsClout_Name</Label>
+    <String>United Planets Clout</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginUnitedPlanetsClout_ShortDec</Label>
+    <String>Unlocks more powerful Resolutions to be proposed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalInfluence_Name</Label>
+    <String>Cultural Influence</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalInfluence_ShortDec</Label>
+    <String>Lets us build boring civilian buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalOptimization1_Name</Label>
+    <String>Passionate Representation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalOptimization1_ShortDec</Label>
+    <String>Forces others to like us more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalOptimization2_Name</Label>
+    <String>Efficient Representation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalOptimization2_ShortDec</Label>
+    <String>Forces our cultural buildings to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalOptimization3_Name</Label>
+    <String>Self Sufficient Representation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalOptimization3_ShortDec</Label>
+    <String>Forces cultural buildings to cost less to run.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalOutreach_Name</Label>
+    <String>Cultural Outreach</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalOutreach_ShortDec</Label>
+    <String>Lets us build improved boring civilian buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalFocus1_Name</Label>
+    <String>Research-Focused Culture</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalFocus1_ShortDec</Label>
+    <String>Increases Influence on research planets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalFocus2_Name</Label>
+    <String>Approval-Focused Culture</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalFocus2_ShortDec</Label>
+    <String>Increases Influence on planets with high approval.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalFocus3_Name</Label>
+    <String>Wealth-Focused Culture</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalFocus3_ShortDec</Label>
+    <String>Increases Influence on wealthy planets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginStellarEmigration_Name</Label>
+    <String>Stellar Emigration</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginStellarEmigration_ShortDec</Label>
+    <String>Lets us build advanced cultural buildings. Increases Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalAssimilation_Name</Label>
+    <String>Cultural Assimilation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalAssimilation_ShortDec</Label>
+    <String>Lets us build exotic cultural buildings. Increases Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalDomination_Name</Label>
+    <String>Cultural Domination</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalDomination_ShortDec</Label>
+    <String>Let us build the ultimate cultural buildings. Increases Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalAffinity_Name</Label>
+    <String>Cultural Affinity</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCulturalAffinity_ShortDec</Label>
+    <String>Prepares civilization for Ascension.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginXenoCommerce_Name</Label>
+    <String>Xeno Commerce</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginXenoCommerce_ShortDec</Label>
+    <String>Allows construction of basic economic buildings and freighters.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCommerceSpecialization1_Name</Label>
+    <String>Wealthy Population</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCommerceSpecialization1_ShortDec</Label>
+    <String>Forces planets to be wealthier.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCommerceSpecialization2_Name</Label>
+    <String>Supportive Population</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCommerceSpecialization2_ShortDec</Label>
+    <String>Forces planets to be happier.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCommerceSpecialization3_Name</Label>
+    <String>Designated Trading Partner</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginCommerceSpecialization3_ShortDec</Label>
+    <String>Forces a planet to trade more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginXenoEconomics_Name</Label>
+    <String>Xeno Economics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginXenoEconomics_ShortDec</Label>
+    <String>Lets us build improved economic buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBlackMarketTech_Name</Label>
+    <String>Black Market</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginBlackMarketTech_ShortDec</Label>
+    <String>Lets us build a Black Market.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarBanking_Name</Label>
+    <String>Interstellar Banking</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarBanking_ShortDec</Label>
+    <String>Lets us build advanced economic buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEconomicFocus1_Name</Label>
+    <String>Trade Economy</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEconomicFocus1_ShortDec</Label>
+    <String>Forces our trade routes to make more money.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEconomicFocus2_Name</Label>
+    <String>Well Crafted Treaties</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEconomicFocus2_ShortDec</Label>
+    <String>Increases Diplomatic trade income</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEconomicFocus3_Name</Label>
+    <String>Tourism Board</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginEconomicFocus3_ShortDec</Label>
+    <String>Force tourists to spend more money.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginFinancialSectorsTech_Name</Label>
+    <String>Financial Sectors</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginFinancialSectorsTech_ShortDec</Label>
+    <String>Lets us build exotic economic buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGalacticStockMarket_Name</Label>
+    <String>Galactic Stock Market</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGalacticStockMarket_ShortDec</Label>
+    <String>Lets us build the ultimate economic buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarTrade_Name</Label>
+    <String>Interstellar Trade</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginInterstellarTrade_ShortDec</Label>
+    <String>Allows construction of basic trading buildings. Adds two trade routes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTradeOptimization1_Name</Label>
+    <String>Trade route optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTradeOptimization1_ShortDec</Label>
+    <String>Increases overall value of trade routes</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTradeOptimization2_Name</Label>
+    <String>Expanded Trade</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTradeOptimization2_ShortDec</Label>
+    <String>Allows the establishment of one additional trade route.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGalacticTrade_Name</Label>
+    <String>Market Extortion</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGalacticTrade_ShortDec</Label>
+    <String>Let us build improved trading buildings. Adds two trade routes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTradeFocus1_Name</Label>
+    <String>Tariff Stations</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTradeFocus1_ShortDec</Label>
+    <String>All starbases now give a significant boost to the trade income of colonies with their Area of Effect.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTradeFocus2_Name</Label>
+    <String>Trade Route Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTradeFocus2_ShortDec</Label>
+    <String>Allows the establishment of one additional trade route</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGalacticFacilitation_Name</Label>
+    <String>Galactic Facilitation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGalacticFacilitation_ShortDec</Label>
+    <String>Lets us build advanced trading buildings. Adds two trade routes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginFightingPits_Name</Label>
+    <String>Fighting Pits</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginFightingPits_ShortDec</Label>
+    <String>Lets us build Fighting Pits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTournamentTech_Name</Label>
+    <String>Tournaments</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginTournamentTech_ShortDec</Label>
+    <String>Lets us build an Arena.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSaughtertoriumTech_Name</Label>
+    <String>Saughtertorium</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSaughtertoriumTech_ShortDec</Label>
+    <String>Lets us build a Slaughtertorium.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginApprovalFocus1_Name</Label>
+    <String>Easy to Please</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginApprovalFocus1_ShortDec</Label>
+    <String>Increase the morale of your colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginApprovalFocus2_Name</Label>
+    <String>Easily Distracted</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginApprovalFocus2_ShortDec</Label>
+    <String>Makes building Entertainment Improvements much cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginApprovalFocus3_Name</Label>
+    <String>Eager to Please</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginApprovalFocus3_ShortDec</Label>
+    <String>Greatly reduces the Maintenance required by Entertainment Improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSuperiorHunting_Name</Label>
+    <String>Hunting Grounds</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginSuperiorHunting_ShortDec</Label>
+    <String>Lets us build Hunting Grounds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGalacticCruseLines_Name</Label>
+    <String>Galactic Cruise Lines</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginGalacticCruseLines_ShortDec</Label>
+    <String>Lets us build tourism structures.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWondersoftheGalaxy_Name</Label>
+    <String>Wonders of the Galaxy</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginWondersoftheGalaxy_ShortDec</Label>
+    <String>Lets us build advanced tourism structures.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHomageTech_Name</Label>
+    <String>Homage</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DrenginHomageTech_ShortDec</Label>
+    <String>Lets us build the Temple of Strength.</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+ 
+</StringTableList>

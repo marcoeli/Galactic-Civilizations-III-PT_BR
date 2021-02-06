@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- ArtifactImprovementText.xml -->
+ 
+  <StringTable>
+    <Label>PrecursorLibraryArtifact_Name</Label>
+    <String>Arquivo de Precursores</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorLibraryArtifact_ShortDec</Label>
+    <String>Atualize este artefato para desbloquear cargas que completarão instantaneamente a pesquisa atual.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorLibraryArtifact01_Name</Label>
+    <String>Estudo do arquivo do Precursor</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorLibraryArtifact01_ShortDec</Label>
+    <String>Fornece uma Carga que completará instantaneamente a pesquisa atual.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorLibraryArtifact02_Name</Label>
+    <String>Centro de Arquivo de Precursores</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorLibraryArtifact02_ShortDec</Label>
+    <String>Fornece uma Carga que completará instantaneamente a pesquisa atual.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorLibraryArtifact03_Name</Label>
+    <String>Estudo Arquivo de Precursores</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorLibraryArtifact03_ShortDec</Label>
+    <String>Fornece uma Carga que completará instantaneamente a pesquisa atual.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NanoFabricatorArtifact_Name</Label>
+    <String>Nano fabricador</String>
+  </StringTable>
+  <StringTable>
+    <Label>NanoFabricatorArtifact_ShortDec</Label>
+    <String>Atualize este artefato para desbloquear as cargas que impulsionarão a construção no mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NanoFabricatorArtifact01_Name</Label>
+    <String>Estudo da Nano Fabricador</String>
+  </StringTable>
+  <StringTable>
+    <Label>NanoFabricatorArtifact01_ShortDec</Label>
+    <String>Fornece uma taxa que impulsionará a construção no mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NanoFabricatorArtifact02_Name</Label>
+    <String>Centro Nano Fabricador</String>
+  </StringTable>
+  <StringTable>
+    <Label>NanoFabricatorArtifact02_ShortDec</Label>
+    <String>Proporciona um custo adicional que impulsionará a construção no mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NanoFabricatorArtifact03_Name</Label>
+    <String>Estudo Nano Fabricador</String>
+  </StringTable>
+  <StringTable>
+    <Label>NanoFabricatorArtifact03_ShortDec</Label>
+    <String>Proporciona um custo adicional que impulsionará a construção no mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AcientShipyardArtifact_Name</Label>
+    <String>Hélice de Motivação</String>
+  </StringTable>
+  <StringTable>
+    <Label>AcientShipyardArtifact_ShortDec</Label>
+    <String>Atualize este artefato para desbloquear as cargas que impulsionarão a construção militar no estaleiro naval selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AcientShipyardArtifact01_Name</Label>
+    <String>Estudo da Hélice de Motivação</String>
+  </StringTable>
+  <StringTable>
+    <Label>AcientShipyardArtifact01_ShortDec</Label>
+    <String>Fornece uma Carga que impulsionará a construção militar no estaleiro selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AcientShipyardArtifact02_Name</Label>
+    <String>Centro Hélice de Motivação</String>
+  </StringTable>
+  <StringTable>
+    <Label>AcientShipyardArtifact02_ShortDec</Label>
+    <String>Fornece duas cargas que irão impulsionar a construção militar no estaleiro selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AcientShipyardArtifact03_Name</Label>
+    <String>Estudo Hélice motivacional</String>
+  </StringTable>
+  <StringTable>
+    <Label>AcientShipyardArtifact03_ShortDec</Label>
+    <String>Fornece quatro cargas que irão impulsionar a construção militar no estaleiro selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTempleArtifact_Name</Label>
+    <String>Ecoando Corações de Pedra</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTempleArtifact_ShortDec</Label>
+    <String>Atualize este artefato para liberar cargas que aumentarão a influência sobre o mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTempleArtifact01_Name</Label>
+    <String>Estudo de Eco Coração de Pedra</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTempleArtifact01_ShortDec</Label>
+    <String>Proporciona uma taxa que aumentará a influência no mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTempleArtifact02_Name</Label>
+    <String>Centro de Eco Coração de Pedra</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTempleArtifact02_ShortDec</Label>
+    <String>Fornece duas cargas que aumentarão a influência no mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTempleArtifact03_Name</Label>
+    <String>Estudo de Eco Coração de Pedra</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTempleArtifact03_ShortDec</Label>
+    <String>Fornece quatro cargas que aumentarão a influência no mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTerraformerArtifact_Name</Label>
+    <String>Biomassa quimérica</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTerraformerArtifact_ShortDec</Label>
+    <String>Atualize este artefato para destravar cargas que irão terraformar uma telha no mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTerraformerArtifact01_Name</Label>
+    <String>Estudo da Biomassa Quimérica</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTerraformerArtifact01_ShortDec</Label>
+    <String>Fornece uma carga que irá terraformar uma telha no mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTerraformerArtifact02_Name</Label>
+    <String>Centro de Biomassa Quimérica</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTerraformerArtifact02_ShortDec</Label>
+    <String>Fornece duas cargas que irão terraformar os ladrilhos no mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTerraformerArtifact03_Name</Label>
+    <String>Complexo de Biomassa Quimérica</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTerraformerArtifact03_ShortDec</Label>
+    <String>Fornece quatro cargas que irão terraformar ladrilhos sobre o mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FleetMovesArtifact_Name</Label>
+    <String>Infinito Astrocompass</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetMovesArtifact_ShortDec</Label>
+    <String>Atualize este artefato para desbloquear as cargas que aumentarão os movimentos da frota selecionada.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FleetMovesArtifact01_Name</Label>
+    <String>Estudo Infinito do Astrocompass</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetMovesArtifact01_ShortDec</Label>
+    <String>Proporciona uma Carga que aumentará os movimentos da frota selecionada.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FleetMovesArtifact02_Name</Label>
+    <String>Centro Infinito Astrocompass</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetMovesArtifact02_ShortDec</Label>
+    <String>Fornece duas cargas que aumentarão as movimentações da frota selecionada.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FleetMovesArtifact03_Name</Label>
+    <String>Complexo Infinito Astrocompass</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetMovesArtifact03_ShortDec</Label>
+    <String>Fornece quatro cargas que aumentarão as movimentações da frota selecionada.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FleetAttackArtifact_Name</Label>
+    <String>Embreagens de Arnor</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetAttackArtifact_ShortDec</Label>
+    <String>Atualize este artefato para desbloquear as cargas que aumentarão o ataque da frota selecionada.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FleetAttackArtifact01_Name</Label>
+    <String>Estudo das Embreagens de Arnor</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetAttackArtifact01_ShortDec</Label>
+    <String>Proporciona uma taxa que aumentará o ataque da frota selecionada.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FleetAttackArtifact02_Name</Label>
+    <String>Centro das Embreagens de Arnor</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetAttackArtifact02_ShortDec</Label>
+    <String>Fornece duas cargas que irão aumentar o ataque da frota selecionada.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FleetAttackArtifact03_Name</Label>
+    <String>Complexo das Embreagens de Arnor</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetAttackArtifact03_ShortDec</Label>
+    <String>Fornece quatro cargas que irão aumentar o ataque da frota selecionada.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FleetDefenseArtifact_Name</Label>
+    <String>Forja Matryoshka</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetDefenseArtifact_ShortDec</Label>
+    <String>Atualize este artefato para desbloquear as cargas que aumentarão a defesa da frota selecionada.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FleetDefenseArtifact01_Name</Label>
+    <String>Estudo da Forja Matryoshka</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetDefenseArtifact01_ShortDec</Label>
+    <String>Proporciona uma Carga que aumentará a defesa da frota selecionada.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FleetDefenseArtifact02_Name</Label>
+    <String>Centro de Forja Matryoshka</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetDefenseArtifact02_ShortDec</Label>
+    <String>Fornece duas cargas que irão aumentar a defesa da frota selecionada.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FleetDefenseArtifact03_Name</Label>
+    <String>Complexo de Forja Matryoshka</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetDefenseArtifact03_ShortDec</Label>
+    <String>Fornece quatro cargas que irão aumentar a defesa da frota selecionada.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HitPointArtifact_Name</Label>
+    <String>Arnor Halo</String>
+  </StringTable>
+  <StringTable>
+    <Label>HitPointArtifact_ShortDec</Label>
+    <String>Atualize este artefato para desbloquear as cargas que aumentarão os hit points da frota selecionada.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HitPointArtifact01_Name</Label>
+    <String>Estudo Arnor Halo</String>
+  </StringTable>
+  <StringTable>
+    <Label>HitPointArtifact01_ShortDec</Label>
+    <String>Fornece uma taxa que aumentará os hit points da frota selecionada.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HitPointArtifact02_Name</Label>
+    <String>Centro Arnor Halo</String>
+  </StringTable>
+  <StringTable>
+    <Label>HitPointArtifact02_ShortDec</Label>
+    <String>Fornece duas cargas que aumentarão os hit points da frota selecionada.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HitPointArtifact03_Name</Label>
+    <String>Complexo Arnor Halo</String>
+  </StringTable>
+  <StringTable>
+    <Label>HitPointArtifact03_ShortDec</Label>
+    <String>Fornece quatro cargas que aumentarão os hit points da frota selecionada.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WormholeArtifact_Name</Label>
+    <String>Gerador de buracos de minhoca</String>
+  </StringTable>
+  <StringTable>
+    <Label>WormholeArtifact_ShortDec</Label>
+    <String>Atualize este artefato para desbloquear cargas que enviarão uma frota para um ponto aleatório da galáxia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WormholeArtifact01_Name</Label>
+    <String>Estudo do Gerador de Buracos de Verme</String>
+  </StringTable>
+  <StringTable>
+    <Label>WormholeArtifact01_ShortDec</Label>
+    <String>Fornece uma carga para o artefato que enviará uma frota para um ponto aleatório na galáxia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WormholeArtifact02_Name</Label>
+    <String>Centro Gerador de Buracos de Verme</String>
+  </StringTable>
+  <StringTable>
+    <Label>WormholeArtifact02_ShortDec</Label>
+    <String>Carrega o artefato para um uso adicional que enviará uma frota para um ponto aleatório na galáxia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WormholeArtifact03_Name</Label>
+    <String>Estudo Gerador de Buraco de Verme</String>
+  </StringTable>
+  <StringTable>
+    <Label>WormholeArtifact03_ShortDec</Label>
+    <String>Fornece quatro cargas que enviarão uma frota a um ponto aleatório da galáxia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DimensionalMirrorArtifact_Name</Label>
+    <String>Espelho Dimensional</String>
+  </StringTable>
+  <StringTable>
+    <Label>DimensionalMirrorArtifact_ShortDec</Label>
+    <String>Atualize este artefato para desbloquear cargas que revelarão uma porção da galáxia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DimensionalMirrorArtifact01_Name</Label>
+    <String>Estudo do Espelho Dimensional</String>
+  </StringTable>
+  <StringTable>
+    <Label>DimensionalMirrorArtifact01_ShortDec</Label>
+    <String>Fornece duas cargas que revelarão uma porção da galáxia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DimensionalMirrorArtifact02_Name</Label>
+    <String>Centro de Espelho Dimensional</String>
+  </StringTable>
+  <StringTable>
+    <Label>DimensionalMirrorArtifact02_ShortDec</Label>
+    <String>Fornece três cargas que revelarão uma porção da galáxia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DimensionalMirrorArtifact03_Name</Label>
+    <String>Complexo de estudos de espelhos</String>
+  </StringTable>
+  <StringTable>
+    <Label>DimensionalMirrorArtifact03_ShortDec</Label>
+    <String>Carrega o artefato do Complexo de Espelhos para um uso adicional.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BetatronColliderArtifact_Name</Label>
+    <String>Colisor Betatron</String>
+  </StringTable>
+  <StringTable>
+    <Label>BetatronColliderArtifact_ShortDec</Label>
+    <String>Atualize este artefato para desbloquear cargas que danificarão uma frota inimiga.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BetatronColliderArtifact01_Name</Label>
+    <String>Estudo de colisão Betatron</String>
+  </StringTable>
+  <StringTable>
+    <Label>BetatronColliderArtifact01_ShortDec</Label>
+    <String>Fornece uma carga que danificará uma frota inimiga.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BetatronColliderArtifact02_Name</Label>
+    <String>Centro Colisor Betatron</String>
+  </StringTable>
+  <StringTable>
+    <Label>BetatronColliderArtifact02_ShortDec</Label>
+    <String>Fornece duas cargas que irão danificar uma frota inimiga.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BetatronColliderArtifact03_Name</Label>
+    <String>Complexo de Colisores Betatron</String>
+  </StringTable>
+  <StringTable>
+    <Label>BetatronColliderArtifact03_ShortDec</Label>
+    <String>Fornece quatro cargas que irão danificar uma frota inimiga.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NaniteTransmitterArtifact_Name</Label>
+    <String>Transmissor de nanites</String>
+  </StringTable>
+  <StringTable>
+    <Label>NaniteTransmitterArtifact_ShortDec</Label>
+    <String>Atualize este artefato para desbloquear as cargas que criarão um navio de guerra.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NaniteTransmitterArtifact01_Name</Label>
+    <String>Estudo do transmissor de nanites</String>
+  </StringTable>
+  <StringTable>
+    <Label>NaniteTransmitterArtifact01_ShortDec</Label>
+    <String>Fornece uma Carga que criará um navio de guerra.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NaniteTransmitterArtifact02_Name</Label>
+    <String>Centro transmissor de nanites</String>
+  </StringTable>
+  <StringTable>
+    <Label>NaniteTransmitterArtifact02_ShortDec</Label>
+    <String>Fornece duas cargas que irão criar um navio de guerra.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NaniteTransmitterArtifact03_Name</Label>
+    <String>Complexo de Transmissores de Nanite</String>
+  </StringTable>
+  <StringTable>
+    <Label>NaniteTransmitterArtifact03_ShortDec</Label>
+    <String>Fornece quatro cargas que irão criar um navio de guerra.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SpaceMonsterArtifact_Name</Label>
+    <String>Farol Pré-umbral</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpaceMonsterArtifact_ShortDec</Label>
+    <String>Atualize este artefato para desbloquear as cargas que irão invocar uma criatura do espaço.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SpaceMonsterArtifact01_Name</Label>
+    <String>Estudo do Farol Pré-umbral</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpaceMonsterArtifact01_ShortDec</Label>
+    <String>Fornece uma carga que irá desovar uma criatura do espaço.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SpaceMonsterArtifact02_Name</Label>
+    <String>Centro de Farol Pré-umbral</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpaceMonsterArtifact02_ShortDec</Label>
+    <String>Fornece duas cargas que irão desovar uma criatura do espaço.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SpaceMonsterArtifact03_Name</Label>
+    <String>Complexo de faróis pré-umbrais</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpaceMonsterArtifact03_ShortDec</Label>
+    <String>Fornece quatro cargas que irão desovar uma criatura do espaço.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlanetPopulationArtifact_Name</Label>
+    <String>Esfera Bernal</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetPopulationArtifact_ShortDec</Label>
+    <String>Atualize este artefato para desbloquear as cargas que aumentarão a capacidade da população no mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlanetPopulationArtifact01_Name</Label>
+    <String>Estudo da Esfera Bernal</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetPopulationArtifact01_ShortDec</Label>
+    <String>Proporciona uma carga que aumentará a capacidade da população no mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlanetPopulationArtifact02_Name</Label>
+    <String>Centro da Esfera Bernal</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetPopulationArtifact02_ShortDec</Label>
+    <String>Proporciona duas cargas que aumentarão a capacidade da população no mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlanetPopulationArtifact03_Name</Label>
+    <String>Complexo da Esfera Bernal</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetPopulationArtifact03_ShortDec</Label>
+    <String>Proporciona quatro cargas que aumentarão a capacidade da população no mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GlobalApprovalArtifact_Name</Label>
+    <String>Motor de Empatia</String>
+  </StringTable>
+  <StringTable>
+    <Label>GlobalApprovalArtifact_ShortDec</Label>
+    <String>Atualize este artefato para destravar as cargas que aumentarão temporariamente o moral de suas facções.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GlobalApprovalArtifact01_Name</Label>
+    <String>Estudo do Motor de Empatia</String>
+  </StringTable>
+  <StringTable>
+    <Label>GlobalApprovalArtifact01_ShortDec</Label>
+    <String>Proporciona uma carga que aumentará temporariamente o moral de suas facções.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GlobalApprovalArtifact02_Name</Label>
+    <String>Centro de Empatia de Motores</String>
+  </StringTable>
+  <StringTable>
+    <Label>GlobalApprovalArtifact02_ShortDec</Label>
+    <String>Proporciona duas cargas que aumentarão temporariamente o moral de suas facções.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GlobalApprovalArtifact03_Name</Label>
+    <String>Complexo de Motores de Empatia</String>
+  </StringTable>
+  <StringTable>
+    <Label>GlobalApprovalArtifact03_ShortDec</Label>
+    <String>Proporciona quatro cargas que aumentarão temporariamente o moral de suas facções.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlanetResistanceArtifact_Name</Label>
+    <String>Sensor Precognitivo</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetResistanceArtifact_ShortDec</Label>
+    <String>Atualize este artefato para liberar cargas que irão aumentar a resistência do mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlanetResistanceArtifact01_Name</Label>
+    <String>Estudo do Sensor Precognitivo</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetResistanceArtifact01_ShortDec</Label>
+    <String>Proporciona uma Carga que aumentará a Resistência do mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlanetResistanceArtifact02_Name</Label>
+    <String>Centro de sensores precognitivos</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetResistanceArtifact02_ShortDec</Label>
+    <String>Proporciona duas cargas que aumentarão a Resistência do mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlanetResistanceArtifact03_Name</Label>
+    <String>Complexo de sensores precognitivos</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetResistanceArtifact03_ShortDec</Label>
+    <String>Fornece quatro cargas que aumentarão a Resistência do mundo selecionado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ConvertDeadWorldArtifact_Name</Label>
+    <String>Forno do Mundo</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConvertDeadWorldArtifact_ShortDec</Label>
+    <String>Atualize este artefato para liberar cargas que darão vida a um mundo morto.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ConvertDeadWorldArtifact01_Name</Label>
+    <String>Estudo do Forno do Mundo</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConvertDeadWorldArtifact01_ShortDec</Label>
+    <String>Proporciona uma carga que trará vida a um mundo morto.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ConvertDeadWorldArtifact02_Name</Label>
+    <String>Centro de Forno do Mundo</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConvertDeadWorldArtifact02_ShortDec</Label>
+    <String>Proporciona uma carga que trará vida a um mundo morto.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ConvertDeadWorldArtifact03_Name</Label>
+    <String>Complexo do Forno do Mundo</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConvertDeadWorldArtifact03_ShortDec</Label>
+    <String>Proporciona uma carga que trará vida a um mundo morto.</String>
+  </StringTable>
+ 
+ 
+</StringTableList>

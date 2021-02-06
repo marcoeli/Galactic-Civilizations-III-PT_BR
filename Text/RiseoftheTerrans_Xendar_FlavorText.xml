@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- RiseoftheTerrans_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Xendar_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>The newly formed Terran Alliance has overcome its first great threat. The Xendar menace is defeated, and the entire Xendar race eradicated.
+
+The other races of the galaxy now know that the Terrans are not to be trifled with.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Xendar_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>The newly formed Terran Alliance has faced its worst fears, and was not prepared. Their planets lost and Earth in ruins, they have become little more than a footnote in the Galactapedia as the race that doomed itself with its misguided generosity, and gave the galaxy the drive that started the great colonization era.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_XendarReport_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Secretary General, we have finished debriefing the scout that escaped the Haven massacre. 
+She reports that the Haven shipyard was aware of the Xendar approach and tried to make contact with them, hoping for a peaceful encounter.
+It seems the Xendar either ignored our hails, or our Universal Translator does not work with their communications systems.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_XendarReport_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Based on the destruction of the planet, I doubt they were interested in talking.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_XendarReportCont1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your advisors agree. Several attempts have been made to contact Haven, but we have received no response. 
+From what we can tell, they are fortifying the planet. They do not appear to be planning on leaving any time soon.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_XendarReportCont1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Have our Altarian friends been able to give us any information on these Xendar?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_XendarReportCont2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They are being mysterious as always. From what we can tell, they have no more knowledge of the Xendar then we do.
+They say they have heard the name, but never had any dealing with them, but at least before the Hyperdive, they were not a force of any note in the galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_XendarReportCont2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Have they agreed to provide us any assistance?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_XendarReportCont3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They were very polite and elegant, but all their flowery words roughly translated came out to: 'Not our problem.'</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_XendarReportCont3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will have to deal with the Xendar ourselves, but this is very disappointing. What is news on our new Corvettes?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CorvettesFinished_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>All colonies have reported in; the first round of the new Corvette class ships have been completed.
+
+We will soon be ready to take the battle to the Xendar.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CorvettesFinished_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, have we heard anything new about Haven itself?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CorvettesFinished_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It's about time, we need these ships and more like them to rid the galaxy of these Xendar.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CorvettesFinished-1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I am sorry to say, but no.
+Since pulling back to our colonies after the attack, most of our sensor data has been lost or made unreliable, except in the are systems our colonies control themselves.
+Unfortunately, there is more bad news as well.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CorvettesFinished-1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What is it?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CorvettesFinished-2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our shipyards are eager to continue working on warships, and many of our researchers have come up with multiple ways to improve the next round of ships. 
+
+Unfortunately, there is some bad news as well.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CorvettesFinished-2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What is it?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CorvettesFinished-1A_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have lost contact with our starbases. It appears that though the Xendar have not been willing to attack any more colonies, they are willing to take out our infrastructure.
+In addition, the Governor of Mars has ordered the planet evacuated after several false alarms. He feels that Mars, with its fragile ecology, is too ripe of a target for the Xendar, and he does not want to risk the lives of billions of people.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CorvettesFinished-1A_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>His concerns are valid, he did the right thing. His people will be more helpful on Earth anyway. [COLOR=BenevolentBlue](Benevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CorvettesFinished-1A_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This might be a prudent plan, but we must send a new colony ship to mars, as soon as the Sol System is secured. [COLOR=PragmaticGold](Pragmatic +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CorvettesFinished-1A_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>He should have asked Earth for permission. I want him arrested, and a new colony ship ready to leave for Mars immediately. [COLOR=WarRed](Malevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CorvettesFinished-2A_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have lost contact with our starbases. It appears that though the Xendar have not been willing to attack any more colonies, they are willing to take out our infrastructure.
+In addition, the Governor of Mars has ordered the planet evacuated after several false alarms. He feels that Mars, with its fragile ecology, is too ripe of a target for the Xendar, and he does not want to risk the lives of billions of people.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CorvettesFinished-2A_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>His concerns are valid, he did the right thing. His people will be more helpful on Earth anyway. [COLOR=BenevolentBlue](Benevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CorvettesFinished-2A_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This might be a prudent plan, but we must send a new colony ship to Mars as soon as the Sol system is secured. [COLOR=PragmaticGold](Pragmatic +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CorvettesFinished-2A_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>He should have asked Earth for permission. I want him arrested, and a new colony ship ready to leave for Mars immediately. [COLOR=WarRed](Malevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_BeaconActivated_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have received some good news at last.
+One of our scientists was able to remotely reactivate one of the original colony survey modules remaining on Haven. 
+With it, we should be able to tell what the Xendar are up to, at least in Haven local space.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_BeaconActivated_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, do they have anything to report yet?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_BeaconActivated_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It's about time we got some good news, I will be expecting regular reports.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_BeaconActivated-1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Not much yet, the planet seems to be pretty heavily defended. Xendar life is quite prevalent on the planet, but we still have not been able to translate their communications systems.
+
+We still have no idea what they want, or even what they are doing.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_BeaconActivated-1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Very well, I expect to be kept informed as more is learned.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_Toxin_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Using the data we are receiving from Haven, our researchers think they have determined what killed our colonists. 
+
+The Xendar seem to have flooded the atmosphere with some sort of toxin, fatal to humans. They do not seem to be affected by it. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_Toxin_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Is there a chance that they did not know that the toxin would kill our colonists? [COLOR=BenevolentBlue](Benevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_Toxin_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This is very concerning, do we have enough information on the toxin to develop a counter to it? [COLOR=PragmaticGold](Pragmatic +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_Toxin_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Since their first avenue of attack is to commit genocide on an entire planet, we will return the favor when we take Haven back. [COLOR=WarRed](Malevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_Toxin-1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It does not appear so, they seem extremely Xenophobic, as shown by their refusal to communicate with us. 
+
+Our analysts are quite sure that they knew what they were doing.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_Toxin-1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will make them pay for this.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_Toxin-2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Not yet, the sensors have been heavily damaged, and most of what we are learning is having to be pieced togeather from partial data.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_Toxin-2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Keep me informed.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_BuildUp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Recent activity on Haven has led our analysts to believe that the Xendar are putting most of their efforts into fortifying their systems.
+
+They seem very interested in gathering as many resources as possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_BuildUp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must do the same, if the Xendar fortify Haven before we can secure the rest of our colonies, they will certainly come for us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_BuildUp_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must strike quickly, before they can fortify Haven.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_Transports_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Reports are coming in that the Xendar have built multiple Transports. Our analysts think that they may be reaching the end of their fortification phase. 
+
+If they continue to grow in strength the way they have been, there is a high probability that an attack on one or more of our colonies is imminent.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_Transports_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Have all our defense ships on standby. Those transports must not be allowed near any of our colonies.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_Transports_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We need to gather our forces and take out these transports before they leave Xendar space.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_XendarLeaveing_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our ships have drawn close to Haven; the Xendar seem to be concerned with a counter attack and have ordered what we think is a civilian evacuation.
+
+A great deal of small unarmed ships seem to be leaving the planet.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_XendarLeaveing_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our goal is to take back Haven. We will deal with the rest of the Xendar after that.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_RetakeHaven_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our invasion fleet has retaken Haven. 
+Once the Xendar realized they would not be able to hold the planet they began a mass evacuation of the remaining population.
+They left a rear guard that fought valiantly but apparently had orders to suicide before capture. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_RetakeHaven_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What of the atmospheric toxin?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_RetakeHaven_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It seems to have dissipated somewhat, the Xendar corpses were all in environmental suits. 
+
+Research thinks they will be able to restore the atmosphere to its original state with some work. Until then, the population will have to wear respirators.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_TryingToEscape_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have located the fleeing ship, but the commander of the invasion fleet would like to know what you would like us to do with it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_TryingToEscape_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Let them run, there have been enough lives lost this day. [COLOR=BenevolentBlue](Benevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_TryingToEscape_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Try and capture the ship, we need to interrogate one of these bastards. [COLOR=PragmaticGold](Pragmatic +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_TryingToEscape_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I want that ship turned to plasma, let the rest of the Xendar know what's coming for them. [COLOR=WarRed](Malevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_TryingToEscape-1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Xendar escape ship has been allowed to flee Haven space. They seem to have ducked into a nearby asteroid field, and we have lost their signal 
+
+Some of our troops are very upset that Earth has let these murderers escape. We will have to watch them. We don't want another Stellar Guild situation.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_TryingToEscape-1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must try and be better then our enimies. They will just have to understand.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_TryingToEscape-2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have captured the Xendar escape ship.
+Unfortunately, there appears to have been an accident while boarding the ship, and its Hyperdrive system went into meltdown. The Commander of the attack force reports that they were barely able to escape the explosion.
+The entire Xendar ship, and all the remaining Xendar from Haven were killed by the explosion.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_TryingToEscape-2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Unfotunate but at least no more human lives were lost.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_TryingToEscape-3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Xendar escape ship was destroyed while trying to flee into an asteroid belt near Haven. 
+It appears that the entire crew of the ship that destroyed it have become heroes to most of our troops. They will probably never have to buy their own drinks again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_TryingToEscape-3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, now we need to find their home and remove this threat forever.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_LocatedXenderHome_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Using the information we have found on Haven, we have been able to locate the Xendar homeworld. 
+From what we can tell it is the only other world that the Xendar control. 
+It appears to be of a very high class, but with a toxic atmosphere unbreathable by humans without environmental suits.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_LocatedXenderHome_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, now we can repay them for Haven.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_DiscoveredXenderHome_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>One of our ships has located a planet at the edge of the sector that they think is the Xendar homeworld. 
+
+It appears to be very high class, but with a toxic atmosphere unbreathable by humans without environmental suits.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_DiscoveredXenderHome_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, now we can repay them for Haven.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_DrenignMessage_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are receiving a signal from several sectors away; it appears to be from the same source as the Drengin Research team that we encountered shortly after the colonization of Haven.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_DrenignMessage_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Put it through...</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_DrenginHelp1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Greetings Human, I am Commander Kona of the Drengin survey vessel Inquisitor 
+
+We have observed that you have been having some difficulty with the Xendar. We might be able to help, if only with some advice.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_DrenginHelp1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We welcome any aid you can give.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_DrenginHelp2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Drengin encountered the Xendar long ago. They are a terrible race; they live on worlds so toxic that even we do not consider them habitable. 
+
+The Xendar, however, seem to have some sort of weapon that toxifies the atmospheres of almost any world. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_DrenginHelp2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have encountered this weapon already; they have used it on one of our colonies.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_DrenginHelp3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We were able to defeat them at last by creating a technology that nullifies their weapons. We would like to make this technology available to you as repayment for the gift of Hyperdrive.
+
+Simply equip your transports with these Anti-Spore emitters, and you will be able to take over the Xendar homeworld without fear of losing your troops to its toxic atmosphere. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_DrenginHelp3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This seems like a fair trade.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_DrenginHelp3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We thank you for the help, but we were unaware that we had shared Hyperdive with anyone but the Arceans. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_DrenginHelp4_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>With this gift, we will consider our debt to you paid in full. 
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_DrenginHelp4_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thank you for your assistance.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_DrenginHelp3-2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We received the Hyperdrive technology over ten of your years ago; it was broadcast on an open channel to the Arceans. We believed that you were sharing it with the entire galaxy, as some sort of gift.
+
+In fact, I believe all the major races in the galaxy now have the technology, and many are already making use of it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_DrenginHelp3-2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Of course, that is what we meant to do, I guess I forgot to mention that...</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_DrenginHelp3-2_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>With this gift we will consider our debt to you paid in full.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_DrenginHelp3-2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That was not our intent, but at least it has brought you to us in our time of need.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_DrenginHelp3-2_Counter2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>With this gift we will consider our debt to you paid in full. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_AntiSporeEquiped_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>All our transports have been equipped with the new Anti-Spore systems. 
+
+We are ready to take the Xendar homeworld as soon as we have the opportunity.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_AntiSporeEquiped_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, let's just hope it works as well as the Drengin promised. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CaptureXendar_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have taken the Xendar homeworld. The Anti-Spore system worked well. Perhaps too well. 
+It seems to have altered the atmosphere of the entire planet, in mere moments. The Xendar population seems to have almost instantly suffocated.
+By all reports the Xendar have been wiped out. Unless they had other colonies, we may have just committed genocide. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CaptureXendar_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must live with the consequences of our actions.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CaptureXendar_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That is unfortunate, but we had to do what we needed to survive.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CaptureXendar_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Good riddance, let this be a lesson to any race that threatens the Earth.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CaptureXendar-1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our researchers have been studying the Drengin Anti-Spore system. It seems to be almost identical to the weapon the Xendar used on Haven. We think it very odd that such a weapon would be developed by two separate races simultaneously. 
+
+It's almost as if the Drengin wanted us to wipe out the Xendar.
+
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CaptureXendar-1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will have to be more wary of the Drengin in the future, perhaps there is more to them than we have seen.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CaptureXendar-2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our researchers have been studying the Drengin Anti-Spore system. It seems to be almost identical to the weapon the Xendar used on Haven. We think it very odd that such a weapon would be developed by two separate races simultaneously. 
+
+Perhaps the Drengin and the Xendar traded technologies more recently than Kona lead us to believe.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CaptureXendar-2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This is disturbing, to say the least. We will have to be more wary of the Drengin in the future.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CaptureXendar-3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our researchers have been studying the Drengin Anti-Spore system. It seems to be almost identical to the weapon the Xendar used on Haven. We think it very odd that such a weapon would be developed by two separate races simultaneously. 
+
+It's almost as if the Drengin wanted us to wipe out the Xendar. They could have just asked.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_CaptureXendar-3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I knew there was more to the Drengin than they were letting on. We will have to keep an eye on them in the future.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_Hummm_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our researchers have begun examining the remaining Xendar infrastructure. It appears that the signal that we were detecting before Haven was lost was coming from this world.
+We have not been able to crack the encryption yet. What we have learned is disturbing. We have triangulated the destination of the signals.
+It was the same location that our recent messages from the Drengin came from. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_Hummm_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Why would the Drengin be communicating with the Xendar if they were enemies?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_Hummm_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That is the question we are all asking.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- ProximaTaken Note - Award survey ship humans-->
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_ProximaTaken_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Proxima Ursae has been taken by the Xendar.
+A civilian survey ship seems to have escaped, and is reporting that the Xendar started the invasion by seeding the atmosphere with toxins. The population immediately began to die. 
+The survivors are trying to reach Earth, but they are asking for help. The Xendar have several armed ships pursuing them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_ProximaTaken_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will send help to the survivors immediately.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_AlphaTaken_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Alpha Centauri has been lost. 
+Once again the Xendar have completely wiped out the colony, though this time it appears to have been done with more conventional means. 
+They bombarded the planet with captured asteroids. The devastation is beyond anything we have ever seen before. 
+Apparently they do not think Alpha Centauri worth much as a colony.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_AlphaTaken_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>At this rate they will reach Earth soon, we must throw everything we have at them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_EarthTaken_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Xendar have reached Earth.
+
+We are receiving reports of a buildup of the Xendar toxin in the atmosphere.
+
+Our troops are unable to fight the poison.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_EarthTaken_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Get everyone into shelters.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Xendar_EarthTaken_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Silence.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

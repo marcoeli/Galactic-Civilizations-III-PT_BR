@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- EXP4_Retribution_ShipStyleSetDefsText.xml -->
+ 
+  <StringTable>
+    <Label>EXP4_DrathShipStyleSet_Name</Label>
+    <String>Drath Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KorathShipStyleSet_Name</Label>
+    <String>Korath Ship Style</String>
+  </StringTable>
+ 
+</StringTableList>

@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+<!-- Created with the Crusade editor -->
+<!-- FACTION_ICONIAN_TechFlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>TechTree_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Iconan Tree</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EngineeringTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Reinvention</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EngineeringTech_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Rediscover the technologies we once had.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Researchers are great at inventing things, but surprisingly bad at the business of inventing things. A number of inefficient practices have developed which we should be able to streamline.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DeeperKnowledge_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>In the past years, our understanding of the universe has grown by leaps and bounds. Teams who have made an effort to slow down and consider some of the implications of these discoveries are now revealing deeper patterns in the fabric of reality.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>QuantumUnderstanding_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>We're no longer groping blindly at the edge of the sub-atomic world. For one thing, our researchers are pretty sure there are actually twenty eight edges to the sub-atomic world, that they're less edges than toroids, and that there are actually now zero of them. It turns out that reality is super complicated.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchCoordination_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Coordinating research teams scattered across multiple worlds has only gotten more challenging as our civilization has grown. Research Coordination Centers should help ease that challenge, and minimize any duplication of effort.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetarySpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Our farming technology has improved dramatically, and we're beginning to see enhanced crop yields as a result.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LosslessFarming_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Our food production capacity has taken another step forward. Also, we've finally gotten that weird taste out of micro-gravity raised carrots.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Our farms now provide an almost unlimited bounty, the food doing much of the hard work itself. The first time you see a plant or animal self-harvest is a little grim though, and school field trips have gotten harder.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SoilReclamation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>We can now terraform just about any terrain on a planet. If you can crash a ship there, we can make it usable.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarpFieldTheory_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Our researchers are now able to "stack" up the space-bending fields of our hyperdrives, magnifying the acceleration effect. They call these stacked fields "Warp Fields" and are able to use them to create vastly more powerful engines.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HyperwarpMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Our ships are the envy of the galaxy, and our engineers heralded as heroes wherever they go. Fortunately they don't like going out much.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HyperwarpMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>No other civilization in the galaxy can match ours for the efficiency and ease with which we build our drives.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GravityFieldManipulation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>It took many decades of effort before our physicists were finally able to find the graviton. It turned out to be inside us the whole time. Inside of everything the whole time, to be technical. Anyways, having harnessed its power, we can now generate large artificial gravity fields, which should greatly increase the maneuverability and tactical options of our ships in combat.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HyperfieldDisruption_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>By analyzing the interference effects of multiple hyperwave fields from different ships travelling in close proximity, and combining that with our ability to generate hyperfield effects at ever increasing ranges, we can now limit the speed of enemy ships within the range of a properly equipped starbase.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>A concentrated effort to optimize our sensor systems could lead to a number of different improvements.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldSensors_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>We've long been able to detect the fields which all ships emit to control their hyperdrives. But improvements in our understanding of the effects of space folding have revealed that those fields are detectable at much greater distances than previously believed.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorRelicFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>The public seems fascinated by the very idea of the Precursors, and the few relics that we've found have had a surprising range of effects on our society. If we desire, we can begin trying to capitalize on these cultural benefits. Precursor souvenirs. Wacky Precursor catchphrases. Things like that.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorRelicFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>The study of Precursor relics requires very specialized equipment. The construction of dedicated facilities staffed with Precursor specialists will allow us to make the most of these incredible artifacts.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Our early attempts at building field-based life support systems left behind many messes and many possible opportunities for improvement, which we're starting to identify now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>It turns out that by aerating the nutrient sludge we provide our crews it takes up significantly more volume in their stomachs, making them feel full with less food. There are some associated problems with, uh, gas, but we're coming up with special filters to address that.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>We have all but mastered direct-nutrient injection technologies, and are wringing out a few additional efficiencies to reduce equipment size and cost.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>We've figured out how to coax nutrient sludge to deliver itself to the crew using embedded Promethion field effectors, saving us the weight of carrying around heavy fixed effectors. And the embedded effectors come right out in the waste stream, ready for reuse!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalSpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Orbital plane change maneuvers are expensive, and something we want to avoid if we can. Getting material to the right orbit when it needs to be there is a huge challenge which we're only just coming to grips with.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ZeroGravityOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Our new zero gravity construction program has enabled us to build hollow structural elements which are still able to handle very high compression loads. By maximizing the use of these, and routing various ancillary ship systems through the cavities, we can save space for mission critical equipment.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HullMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Our shipyards are already the envy of the civilized galaxy. But however great they are, they're still capable of more.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HullMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>That we build the best ships in the galaxy is undeniable, but that we do it so economically is what's really impressive. Our enemies have never been menaced so thriftily.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HullStrengthening_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Using new force field technologies, we've been able to embed strengthening fields within the structures of our vessels, making them substantially more resistant to damage. They also now tingle if you lick them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HullRepairSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>The same field technology we use to strength our ships can be used to conduct partial repairs to them as well, straightening and reinforcing battle-damaged structural elements.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SelfHealingHulls_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Tiny little self-replicating nanobots are capable of almost anything so long as you don't ask too many questions about them. By installing nanobot repair modules in our ships and starbases, our ships will be able to repair damage during battle itself.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>For a long time the manufacture of beam weapons was as much art as science, requiring highly trained technicians to individually polish and tune each weapon. By making concentrated efforts to standardize beam weapon manufacturing, we're finally able to automate portions of it, reducing the cost of each unit.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlasmaProjection_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Thanks to a breakthrough in containment technology, we're now able to generate columnated plasma containment fields at incredible distances. The upshot to this is that we can now send massive quantities of plasma at relativistic velocities in the direction of anything we don't like very much.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>We're now able to push our beam weapons right up to the limits that physics allow. If we want any more power, we may have to move to a different universe.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Our supply chain for the creation of plasma containment fields had a couple of kinks that needed to get worked out, but now that we have, we expect to be able to create beam weapons for far less resources.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DoomRayTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>An adaptation of the phaser particle emitter has resulted in massive improvements in the induced matter-breakdown reaction, making it effective against even the highest density armor. Also of note, our scientists are pretty sure the reaction won't consume the entire universe, so feel free to continue deploying it as you see fit.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponAugmentation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Our beam weapons use a variety of systems to accumulate energy prior to the weapon firing. We've found that the capacity of these energy storage systems can be augmented by an external field, which although expensive, allows for increased beam output. Most interestingly, such fields can be theoretically projected at great distances, potentially improving the beam output of an entire fleet.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyMagnification_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>An improved understanding of the effects our beam augmentation fields have has resulted in the possibility of even greater beam outputs. Our beam weapons have that funny smell again, but we don't hear many crew members complaining.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PhotonicWarheads_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>One of the biggest downsides to missile based technology is that much of the energy is expended on the outer surface of enemy vessels. By including with our warheads a device which releases a high energy burst of photons at the moment of impact, we can achieve substantial penetration against both armor and shield systems, greatly increasing the destructive potential of our warheads.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PulseCannonTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Research efforts to emit tight clusters of particles at rapid velocities have led to a weapon which gets around some of the practical limitations of slug based mass drivers. Called pulse cannons, they have similar tactical characteristics as previous generations of kinetic weapons. They're just much more powerful.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticAccelerationFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Our new ultra-low resistance electromagnets generate a lot more kick per unit weight, leading to lower mass accelerators. So feel free to cram more of them into whatever you're cramming them into.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GravitonThrower_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>By synthesizing and launching pulses of gravitons at the enemy, we can induce massive shifts in the local gravity of the ship systems they strike. This will cause incredible amounts of damage, and probably make anyone standing nearby feel really dizzy. Before they die.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Our scientists have all but mastered kinetic weapons, and are approaching the limits of the field, making them as mass efficient as theoretically possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MilitarySpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Administration and oversight is certainly the least glamorous aspect of the military, even though the benefits that they provide are so critical.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetaryInvasion_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>We've developed the equipment and tactics necessary to land on a world and take it by force. We are now the alien invaders.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InvasionOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Information warfare lacks a certain visceral appeal, but by using EMP's and targetted hacking attacks, we can cripple an enemy's coordination abilities, dramatically limiting the effectiveness of their defenses. If they want to keep fighting after that, then it can get visceral.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Tasked with improving the survivability of our naval officers in combat situations, our engineer's first solution: "Don't enter combat situations," was less than helpful. So, after studying the wreckage of a few vessels we've lost in combat, they've come up with a number of possible improvements we can make in our defensive technologies.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Optimizing our point defense systems should lead to a number of different performance gains. Also importantly, less dead naval officers.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseManipulation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Our mastery of point defense technologies has led to the development of fleet-wide drone systems. Additionally, our fleets can now be equipped with point defense disruptors, essentially a type of counter-counter-measure, which should greatly boost the effectiveness of our own missile attacks.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DurantiumCompositeTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Experminents have revealed that when certain materials are stacked in specific arrangements, they have a synergistic effect on the strength of their neighbors when exposed to compressive forces, which greatly magnifiess their damage absorption potential. We call these new composites Durantium, and they should tremendously increase the survivability of our ships.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KanviumLaminateTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Kanvium armor systems use a new type of lamination which, upon impact, causes surrounding materials to partially fluidize, deforming to absorb energy, but in a recoverable way. Impacts are spread out over a much larger area, increasing the effectiveness of the armor. After the impact, the armor flows back into its original shape, minimizing the risk posed by repeat hits.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>With modern armoring systems, the design of the armor informs the shape of the ship as much as the other way around, and properly armoring a ship is a complicated trade off between armoror and ship designer. It's an art essentially, and it's one that we have mastered.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>We've created and shredded countless generations of armor, and worn out entire test ranges with our target practice. On a weight basis, our armor systems are now as efficient as they can possibly be.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarGovernance_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Governing a civilization whose distant outposts are many weeks of travel away isn't a new challenge for us, parallaling our experience exploring our own world hundreds of years ago. But it's a field we're having to refamiliarize ourselves with pretty quickly, before we get any space tea dumped in one of our harbors.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GalacticGovernance_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>By granting limited powers of self rule to various elements of society, reserving the most critical functions for our own central government, we expect to see increased public satisfaction and more trite political slogans.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Mercantilists seek to ensure their civilization's prosperity through trade, via careful negotiations, hard-earned intelligence, or brutally unfair tariffs. The exposure their traders have with other civilizations also gives them a unique advantage at espionage.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Technologists understand that throughout history, any time two civilizations have met, the less technologically advanced one has come out very poorly from the encounter. By dedicating all their effort and resources to R and D, Technologists hope to never be that dumber civilization.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarDemocracyTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>A system which lets people pick their own rulers, or at least think they're picking their own rulers, has been one of the crowning achievments of political theory. Adapting it to a galaxy-spanning civilization has posed a number of challenges - the campaign trail is now rather long - but the increase in public satisfaction and market certainty will certainly be worth it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Coordinating the activities and direction of an entire galaxy-wide civilization is tremendously dificult. There's just so many damned people. But thanks to advances in deceit and brain injection technology, we can now put this whole show entirely on a war footing, or, if we choose, the exact opposite.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>We profit more from some types of treaties than others, and should begin slanting our diplomatic posture in those directions right away.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalInfluence_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Winning the hearts and minds of both our people and our neighbors will make almost every aspect of running this civilization easier. It lacks some of the visceral appeal of a new type of mass driver, but may in the long run be far more effective.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>StellarEmigration_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Our civilization is seen across the galaxy as a haven for all those who desire a more fulfilling intellectual life. If we make the process of emigration easier, we can spread our influence wider still.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalAssimilation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>We've long since encorporated all the worthy ideas of other cultures into our own, and can now safely say that they serve no purpose other than muddying the waters. By quickly assimilating and removing the cultural trappings of new arrivals, and even those just trying to pass through, we can increase the penetration and acceptance of our culture more still.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CommerceSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>With a bit of experience managing and regulating markets on an extraplanetary scale, we're now able to target some specific economic improvements that will benefit us in a variety of ways.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CommerceSpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>With targeted tax rates, we can encourage a number of different areas of our economy. A tax policy which favor business and investment should ultimately lead to a wealthier economy, for example.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoEconomics_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>The recent explosion in newly available commodities combined with the sheer distance between buyers and sellers, has resulted in us having to rewrite a number of different theories of economics.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TradeOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>Trading has long been as much an art as a science, by inducing our traders to use just a smidge more science, they might be able to maximize their profits when dealing with certain sectors.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GalacticCruseLines_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>It's actually surprising that for the amount of time our citizens spend in space, very little of it is done for pleasure. Now, to be fair, that's mainly because space is incredibly boring and also still a bit deadly. But if we were to spruce it up a bit, there might be some tourism income in there for us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WondersoftheGalaxy_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ICONIAN</ListenerFaction>
+      </Requirements>
+      <Text>The galactic community is beginning to realize just how awesome we are, and if they aren't, we'll soon be airing targetted advertisements which tell them to. The expected increase in tourism revenue is anticipated to be very nice indeed.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+</FlavorTextDefs>

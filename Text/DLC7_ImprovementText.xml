@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- ImprovementText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>SubspaceResonatorB_Name</Label>
+    <String>Subspace Resonator-B</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SubspaceResonatorB_ShortDec</Label>
+    <String>Aumenta consideravelmente a potência do sensor de uma única colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SubspaceResonatorB_Dec</Label>
+    <String>Aumenta consideravelmente o Poder do Sensor de uma única colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlasmaFurnaceB_Name</Label>
+    <String>Plasma Furnace-B</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlasmaFurnaceB_ShortDec</Label>
+    <String>Aumenta consideravelmente a fabricação de uma única colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlasmaFurnaceB_Dec</Label>
+    <String>Aumenta consideravelmente a fabricação de uma única colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label> AncientDefenseSystem-B_Name</Label>
+    <String> Ancient Defense System-B</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label> AncientDefenseSystem-B_ShortDec</Label>
+    <String>Torna qualquer colônia imune ao Bombardeamento Planetário.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label> AncientDefenseSystem-B_Dec</Label>
+    <String>Torna qualquer colônia imune ao Bombardeamento Planetário.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorBio-ReplicatorB_Name</Label>
+    <String>Precursor Bio-Replicator-B</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorBio-ReplicatorB_ShortDec</Label>
+    <String>Aumenta consideravelmente a Produção de Alimentos de uma única colônia e aumenta a produção de alimentos de todas as colônias.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorBio-ReplicatorB_Dec</Label>
+    <String>Aumenta consideravelmente a Produção de Alimentos de uma única colônia e aumenta a produção de alimentos de todas as colônias.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorBio-ReplicatorP_Name</Label>
+    <String>Precursor Bio-Replicator-P</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorBio-ReplicatorP_ShortDec</Label>
+    <String>Aumenta a produção de alimentos e a riqueza de uma única colônia</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorBio-ReplicatorP_Dec</Label>
+    <String>Aumenta a produção de alimentos e a riqueza de uma única colônia</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorBio-ReplicatorM_Name</Label>
+    <String>Precursor Bio-Replicator-M</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorBio-ReplicatorM_ShortDec</Label>
+    <String>Aumenta a Produção de Alimentos de uma única colônia, e impulsiona a Soldagem de todas as nossas tropas.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorBio-ReplicatorM_Dec</Label>
+    <String>Aumenta a Produção de Alimentos de uma única colônia, e impulsiona a Soldagem de todas as nossas tropas.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ElementalExtractorP_Name</Label>
+    <String>Elemental Extractor-P</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ElementalExtractorP_ShortDec</Label>
+    <String>Aumenta a Riqueza de uma única colônia, e aumenta a Riqueza de todas as colônias.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ElementalExtractorP_Dec</Label>
+    <String>Aumenta a Riqueza de uma única colônia, e aumenta a Riqueza de todas as colônias.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ElementalExtractorM_Name</Label>
+    <String>Elemental Extractor-M</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ElementalExtractorM_ShortDec</Label>
+    <String>Aumenta muito a riqueza de uma única colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ElementalExtractorM_Dec</Label>
+    <String>Aumenta muito a riqueza de uma única colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFabricatorB_Name</Label>
+    <String>Precursor Fabricator-B</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFabricatorB_ShortDec</Label>
+    <String>Aumenta consideravelmente a capacidade de fabricação de uma única colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFabricatorB_Dec</Label>
+    <String>Aumenta consideravelmente a capacidade de fabricação de uma única colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFabricatorP_Name</Label>
+    <String>Precursor Fabricator-P</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFabricatorP_ShortDec</Label>
+    <String>Impulsionar a produção bruta de uma única colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFabricatorP_Dec</Label>
+    <String>Impulsionar a produção bruta de uma única colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFabricatorM_Name</Label>
+    <String>Precursor Fabricator-M</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFabricatorM_ShortDec</Label>
+    <String>Aumenta consideravelmente a capacidade de Fabricação Militar de uma única colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFabricatorM_Dec</Label>
+    <String>Aumenta consideravelmente a capacidade de Fabricação Militar de uma única colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchNodeB_Name</Label>
+    <String>Precursor Research Node-B</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchNodeB_ShortDec</Label>
+    <String>Impulsionar a Pesquisa Primária de uma única Colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchNodeB_Dec</Label>
+    <String>Impulsionar a Pesquisa Primária de uma única Colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchNodeP_Name</Label>
+    <String>Precursor Research Node-P</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchNodeP_ShortDec</Label>
+    <String>Aumenta a pesquisa de uma única colônia e aumenta também a renda das colônias.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchNodeP_Dec</Label>
+    <String>Aumenta a pesquisa de uma única colônia e aumenta também a renda das colônias.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchNodeM_Name</Label>
+    <String>Precursor Research Node-M</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchNodeM_ShortDec</Label>
+    <String>Aumenta consideravelmente a Pesquisa de uma única Colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchNodeM_Dec</Label>
+    <String>Aumenta consideravelmente a Pesquisa de uma única Colônia.</String>
+  </StringTable>
+ 
+</StringTableList>

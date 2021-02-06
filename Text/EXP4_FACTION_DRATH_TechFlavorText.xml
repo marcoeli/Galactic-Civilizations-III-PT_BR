@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+<!-- Created with the Crusade editor -->
+<!-- EXP4_FACTION_DRATH_TechFlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>TechTree_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_DRATH</ListenerFaction>
+      </Requirements>
+      <Text>Drath Tree</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TranslatorTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_DRATH</ListenerFaction>
+      </Requirements>
+      <Text>Language Conversion</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TranslatorTech_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_DRATH</ListenerFaction>
+      </Requirements>
+      <Text>Converts the words of other species into our native language.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MinistryOfAliensAffairs_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_DRATH</ListenerFaction>
+      </Requirements>
+      <Text>Foreign Influence Police</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MinistryOfAliensAffairs_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_DRATH</ListenerFaction>
+      </Requirements>
+      <Text>Before we allow aliens into our realms, we must first set up an organization to ensure that they will not lead our noble population astray.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>Immigration_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_DRATH</ListenerFaction>
+      </Requirements>
+      <Text>Open Travel</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>Immigration_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_DRATH</ListenerFaction>
+      </Requirements>
+      <Text>Allowing alien species to visit our worlds will speed their growth, but will anger our most militant citizens.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OpenImmigration_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_DRATH</ListenerFaction>
+      </Requirements>
+      <Text>Alien Integration</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OpenImmigration_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_DRATH</ListenerFaction>
+      </Requirements>
+      <Text>Not all of our noble citizens will appreciate the need to import workers from other worlds. But integrating these beings into our economy is a necessary evil.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  
+ <FlavorTextDef>
+    <InternalName>DepartmentofColonization_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_DRATH</ListenerFaction>
+      </Requirements>
+      <Text>Cities of Tomorrow</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DepartmentofColonization_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_DRATH</ListenerFaction>
+      </Requirements>
+      <Text>From the ancient records, we know that we are much larger than other sentient beings. Being able to construct cities on other worlds requires a lot of careful planning and administration.  This technology also allows our noble builders to practice this craft on our home world.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  
+
+</FlavorTextDefs>

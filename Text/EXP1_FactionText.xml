@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- EXP1_FactionText.xml -->
+ 
+  <StringTable>
+    <Label>FACTION_TORIAN_Name</Label>
+    <String>Torian Regime</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TORIAN_ShortName</Label>
+    <String>Torians</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TORIAN_LeaderName</Label>
+    <String>Tlas Kzientha</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TORIAN_Dec</Label>
+    <String>Duas vezes feito escravos do Império Drengin. Os torianos agora se esforçam para reconstruir sua outrora grande civilização. Embora ainda não confiem em outras raças, eles estão dispostos a trabalhar até mesmo com as forças mais indesejáveis para garantir seu futuro.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TORIAN_LeaderDec</Label>
+    <String>Agora chamado de Inquebrável por seu povo por causa de sua recusa em se submeter a quase 10 anos de prisão e tortura de Drengin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TORIAN_Callsign</Label>
+    <String>T.C.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TORIAN_StartupTitle</Label>
+    <String>Nunca mais!</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TORIAN_StartupDescription</Label>
+    <String>O regime de Torian foi escravizado duas vezes pelo Império Drengin. Pensados para serem totalmente derrotados pelo resto da galáxia, os torianos aproveitaram a Cruzada Terrana contra o Drengin para mais uma vez se libertarem.  Libertando seu mundo natal da ocupação Drengin com a ajuda de mercenários contratados, eles agora lutam para reconstruir seu Regime e garantir seu lugar na galáxia, jurando nunca mais ser escravos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TORIAN_StartupTraitsDescription</Label>
+    <String>O Regime Toriano perdeu muito, mas seu espírito permanece inquebrantável. Eles também ganharam o favor de poderosas forças mercenárias e aprenderam a usá-las com grande vantagem. 
+
+Como uma raça que evoluiu primeiro para o sentimento nos oceanos de seu mundo natal, eles também têm a vantagem de poder colonizar mundos aquáticos e são hospitaleiros para a maioria das raças.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ARCEAN_Name</Label>
+    <String>Arcean Empire</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ARCEAN_ShortName</Label>
+    <String>Arcean</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ARCEAN_LeaderName</Label>
+    <String>Lord Verga</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ARCEAN_Dec</Label>
+    <String>O Império Acreano é uma raça nobre com uma rica história de neutralidade. Libertados pela Aliança Terrestre, eles agora se esforçam para reconstruir seu império. Jurando nunca mais serem subjugados, eles agora honram seus guerreiros acima de todos os outros.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ARCEAN_LeaderDec</Label>
+    <String>Lord Verga passou os últimos 10 anos liderando uma força de resistência subterrânea e agora é considerado um dos maiores guerreiros da história de Arcean.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ARCEAN_Callsign</Label>
+    <String>A.E.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ARCEAN_StartupTitle</Label>
+    <String>Nunca quebrado, sempre vigilante.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ARCEAN_StartupDescription</Label>
+    <String>A raça Arcean foi empurrada à beira da destruição pelo Drengin.   No entanto, com a ajuda da Aliança Terrestre, eles recuperaram seu mundo natal e a chance de reconstruir seu outrora poderoso Império.
+
+ Nos anos da ocupação Drengin, a Resistência Arcean nunca parou de lutar. Seu líder, Lorde Verga, se tornou uma lenda cujo nome atingiu até mesmo os soldados Drengin mais brutais.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ARCEAN_StartupTraitsDescription</Label>
+    <String>O Império Arceano não ficou com muitos bens, apenas com seu mundo natal e alguns recursos preciosos que liberaram do Drengin. Eles voltaram do limiar, mais resistentes e mais resistentes do que nunca. 
+
+O povo arceano tem uma longa história de nobreza e neutralidade, mas a ocupação o deixou muito menos disposto a perdoar ofensas ou a tolerar ameaças à sua liberdade.</String>
+  </StringTable>
+ 
+</StringTableList>

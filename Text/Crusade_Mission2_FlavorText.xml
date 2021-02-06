@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Crusade_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>The Torian situation addressed for now, greater issues loom on the horizon. The possibility of obtaining a weapon capable of eliminating the Drengin threat is tempting. Perhaps too tempting. Suddenly the dire warnings long spoken of by the Thalans sound all too plausible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>Despite its incredible strength, the Terran fleet failed to free its allies. With the Drengin Empire still largely intact, the chances that Earth will remain free for long are now greatly diminished.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Orders_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Hello again, Colonel Casey. It looks like we're going to be able to secure the Arcea region soon. Can you give me an update on the situation there? How likely is it that we'll be able to rescue Toria from the Drengin?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Orders_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Hard to say. Our sensors are showing signs of Hyperspace Destabilizers in the vicinity of Torus.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Orders2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We've seen some of those here too. They'll dramatically slow down any assault on Toria. After you establish a base of operation, that will be your next task, then. Get those Destabilizer Starbases down. 
+
+Contact me when that's done. I should be done in the Arecean sector by that point, and we can move on to the next front against the Drengin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Orders2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Warning_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Casey? It's General Alan, Sol Defense Fleet. Good to see you again. I've got something you need to know about. 
+
+I've had a chat with the Altarians here in the local sector. They have some concerns about Bradley and that ship of his.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Warning_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What's their concern?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Warning_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They're not the only ones.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Warning_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Sounds like they're jealous.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Warning2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They say it has some kind of Dread Lord artifact on it. The Bane, they call it. Apparently if it's combined with certain other artifacts it will become incredibly dangerous.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Warning2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What do you think we should do?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Warning2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Dangerous to who? Our enemies?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Warning3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Maybe. Maybe not. They say it has some kind of Dread Lord artifact on it. The Bane, they call it. Apparently if it's combined with certain other artifacts it will become incredibly dangerous.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Warning3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What do you think we should do?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Warning3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Dangerous to who? Our enemies?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Warning4_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I guess you should just keep an eye out for any of these other artifacts for now. Whether they're useful or dangerous, it can't hurt if we know about them. And if you do find any, well... I'm sure you'll know the right way to use them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Warning4_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I hope so.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Warning4_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes I will.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Warning5_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I don't know. 
+
+Keep an eye out for any of these other artifacts for now. Whether they're useful or dangerous, it can't hurt if we know about them. And if you do find any, well... I'm sure you'll know the right way to use them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Warning5_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I hope so.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_Warning5_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes I will.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_OnColony1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We've established a colony, Colonel. From here we should be able to build up enough strength to defeat the local Drengin garrisons and take back Toria.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_OnColony1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thanks for the update.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_OnColony2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We've established a colony, Colonel. This should serve as a suitable foundation to build up enough strength to defeat the local Drengin garrisons and take back Toria.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_OnColony2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thanks for the update.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_OnColonyFollowup_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>There's something else, Colonel. We're getting intermittent signals from that large nebula. It's not any comm protocol we're familiar with. Signs of a new alien, perhaps. Might be worth investigating.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_OnColonyFollowup_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I'll look into it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_OnColonyFollowup_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I hate unknown things.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneUnhide_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Ahh, another of the bizarre multicellular lifeforms this galaxy seems to team with. Though you at least aren't shooting us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneUnhide_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We're humans. Nice to meet you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneUnhide_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We're not shooting you yet. Who are you?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are the Slyne. Please forgive the shabbiness of our circumstances. The Drengin annihilated our homeworld many years ago. This is but a colony, where the last few of us survive, cloaked by the powerful storms in this nebula.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It's a common story with the Drengin. We suffered greatly at their hands ourselves.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We're on our way to destroy the Drengin right now. Care to help?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse1a_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It warms our organelles to see that others hate the Drengin. For years we have longed to see them suffer, to see them crushed and tortured, soldiers and civilians alike begging us for their lives. These visions fed us. Sustained us.
+
+Lately we've accepted that a simple extermination would also be acceptable.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse1a_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's a little extreme.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse1a_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I've been keeping a notebook filled with similar ideas myself.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse2a_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Is it? What small inconvenience did they inflict upon you to leave you so forgiving?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse2a_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They wiped out all of our colonies. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse2a_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They killed or enslaved billions of us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse2a_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They trapped our homeworld behind a shield.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse2b_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>And you still are willing to forgive them?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse2b_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Not forgive. Just not exterminate.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse2b_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Maybe. Maybe not.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse2c_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That is interesting. And disappointing. I wonder if some information might change your mind.
+
+A trader informed us that another human ship carries a relic of the Dread Lords. We know of other such artifacts. Shards of an ancient crystal called the Telenanth. You could use these to destroy the Drengin's world as they destroyed ours.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse2c_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's pretty harsh.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse2d_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Truly? Hmm. Although we cannot help you directly, we have some valuable information which may help you confront the Drengin.
+
+A trader informed us that another human ship carries a relic of the Dread Lords. We know of other such artifacts. Shards of an ancient crystal called the Telenanth. You could use these to destroy the Drengin's world as they destroyed ours.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse2d_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's pretty harsh.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse2d_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>How would we do this?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Do not decide yet. There is more to tell. 
+
+We have also been monitoring Drengin communications. They know you are here to free the Torians, and have laid a trap for you on their planet. A variant of the Spore virus, designed to only affect humans. If one of your soldiers sets foot on the world, the disease will spread through your entire fleet.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>How could it spread to our entire fleet?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse3a_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We do not fully understand it ourselves. But we do know that there is no limit to Drengin ingenuity when it comes to inflicting pain. And they have been researching this Spore virus a long time. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse3a_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thanks for the heads up.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse3a_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You're telling us this for a reason, aren't you?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse4_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The virus is tailored for human genetic code. The Slyne are immune to it. And we would glady help you free your allies, the Torians. On one condition:
+
+After we free the Torians, we will tell you where the Shard of the Telenanth is located. You must find it and you must use it to wipe out the Drengin. All Drengin, everywhere.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse4_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We won't commit genocide, Slyne. We'll find some other way to free the Torians.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse4_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You've got yourself a deal.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse5_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You will not regret this. And the Drengin most certainly will.
+
+We will form an alliance with you immediately. Contact us when the Destabilizers around Toria are down. We will provide transports to you then. Once Toria is freed, we can discuss the location of the Shard.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse5_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We'll do that. Take care, Slyne.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse5b_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Such arrogance. You will find no other way to free the Torians. How they'll suffer when you stand by, impotently watching.
+
+Do you love the Drengin that much, to let them get away with this?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse5b_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We despise the Drengin. But you ask too much.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse5b_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Fine. We'll help you. Tell us where this Shard is.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse6_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That is disappointing. We will have to find some other means of achieving our vengeance.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_SlyneResponse6_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Fine. Do as you will.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_1First2Second3Third_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's the last of the destabilizers down, Colonel.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_1First2Second3Third_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Glad to hear it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_1First3Second2Third_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's the last of the destabilizers down, Colonel.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_1First3Second2Third_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Glad to hear it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_2First1Second3Third_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's the last of the destabilizers down, Colonel.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_2First1Second3Third_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Glad to hear it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_2First3Second1Third_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's the last of the destabilizers down, Colonel.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_2First3Second1Third_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Glad to hear it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_3First1Second2Third_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's the last of the destabilizers down, Colonel.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_3First1Second2Third_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Glad to hear it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_3First2Second1Third_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's the last of the destabilizers down, Colonel.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_3First2Second1Third_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Glad to hear it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_LastDestabilizerDown1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We're sending word to Admiral Bradley. He's apparently wrapping up his activities in the Arcea sector now. We've been sending him regular reports on our activities here, so he should already be up to speed.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_LastDestabilizerDown1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Great.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_LastDestabilizerDown2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We're sending word to Admiral Bradley. He's apparently wrapping up his activities in the Arcea sector now. We've been sending him regular reports on our activities here, so he should already be up to speed.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_LastDestabilizerDown2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Great.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_LastDestabilizerDown3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We're sending word to Admiral Bradley. He's apparently wrapping up his activities in the Arcea sector now. We've been sending him regular reports on our activities here, so he should already be up to speed.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_LastDestabilizerDown3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Great.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_DestablizersDownSlyne_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>There he is now.
+
+Patching him through...</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_DestablizersDownSlyne_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Go ahead.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_DestablizersDownSlyne2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Good work getting all the destabilizers down, Colonel Casey. Why have you delayed sending transports down to liberate the Torians?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_DestablizersDownSlyne2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>There might be a problem with that, sir. There's apparently a trap on the surface.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_DestablizersDownSlyne3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Damn those Drengin filth! They know no decency. And they deserve none in return.
+
+A good thing you made friends with those Slyne then. Let them handle the dirty work. Once they provide you the location of the Shard, you are ordered to capture it immediately. I'll make preparations now to advance on Drengi.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_DestablizersDownSlyne3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I'll contact the Slyne now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_DestablizersDownSlyne3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I don't really like the Slyne, sir. But I guess we have no choice.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_DestablizersDownSlyne4_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well done removing those Destabilizers, human. Did many Drengin die during the process? Ahh, don't tell us. Your description could never match how we imagined it. 
+
+Time to uphold our end of the bargain. We'll detach a single troop transport to join your fleet now. Be careful with it. This is the only transport which can safely free the Torians!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_DestablizersDownSlyne4_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thanks. We'll be careful with it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_ToriaConquered_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel! A variant of the Spore virus laid dormant on Toria! The Torians were unaffected by it, but every human marine who set foot on the surface has fallen ill! Worse, there seems to be some kind of xenopsychological effects coded deep within this variant. Humans in orbit of Toria, even throughout the sector are starting to come down ill. 
+
+What have we done?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_ToriaConquered_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Oh no....</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_ToriaLiberatedBySlyne1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Slyne are reporting back to us now sir. The Drengin left minimal resistance on the planet. It will take some time to decontaminate the planet from the Spore variant, but for now at least the Torians are free!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_ToriaLiberatedBySlyne1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's good news.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_ToriaLiberatedSlyneFollowup_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We'll contact the Slyne now. Time to find the location of this Shard.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_ToriaLiberatedSlyneFollowup_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Good. Put the Slyne through.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_ToriaLiberatedSlyneFollowup2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Torians are freed, human. We have kept our end of the bargain. Now you shall keep yours.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_ToriaLiberatedSlyneFollowup2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Shard of the Telenanth. Where is it?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_ToriaLiberatedSlyneFollowup3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We'll transmit the location of the Shard to you now. We make no promises about how easy it will be to obtain. But you must get it!
+
+The Drengin must be made to suffer.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_ToriaLiberatedSlyneFollowup3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We'll do that.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_ToriaLiberatedSlyneFollowup3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thanks, Slyne.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_DestablizersDownNoSlyne_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>There he is now.
+
+Patching him through...</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_DestablizersDownNoSlyne_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Go ahead.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_DestablizersDownNoSlyne2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Good work getting all the destabilizers down, Colonel Casey. Why have you delayed sending transports down to liberate the Torians?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_DestablizersDownNoSlyne2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>There might be a problem with that, sir. There's apparently a trap on the surface.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_DestablizersDownNoSlyne3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Damn those Drengin filth! They know no decency. And they deserve none in return.
+
+I'm disappointed in you, Colonel. I've read the logs of your interaction with the Slyne. Wiping out the Drengin threat once and for all seems like a small price to pay for freeing the Torians. Barely a price at all. We're going to do that anyways.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_DestablizersDownNoSlyne3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Were we?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_DestablizersDownNoSlyne3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We can defeat the Drengin without killing them all, sir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_DestablizersDownNoSlyne4_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You rejected a weapon that might have been capable of destroying the Drengin, Colonel. You could have ended this war with one stroke. How many soldiers, how many humans will die because of it? In my eyes, that is damned close to treason.
+
+And now we just have to leave the Torians to their fate? This is a complete disaster, Colonel. We'll talk more about this later.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission2_DestablizersDownNoSlyne4_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

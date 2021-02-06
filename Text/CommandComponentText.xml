@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- CommandComponentText.xml -->
+ 
+  <StringTable>
+    <Label>Basic_Commander_Name</Label>
+    <String>Comandante</String>
+  </StringTable>
+  <StringTable>
+    <Label>Basic_Commander_Dec</Label>
+    <String>[ICON=Moves_Icon] Dobra movimentos da Frota
+[ICON=Hitpoints_Icon] +50% Hitpoints da frota
+[ICON=ShipLogistics_Icon] +25% Logistica</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Admiral_Commander_Name</Label>
+    <String>Almirante</String>
+  </StringTable>
+  <StringTable>
+    <Label>Admiral_Commander_Dec</Label>
+    <String>[ICON=AllWeaponsIcon] 25% Todas as Armas da Frota
+[ICON=ShipsDefendingWorldIcon] 25% Todas as defesas da Frota</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Navigator_Commander_Name</Label>
+    <String>Navegador</String>
+  </StringTable>
+  <StringTable>
+    <Label>Navigator_Commander_Dec</Label>
+    <String>Atualiza a nnave de comando para Surfista de Estrelas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Martyr_Commander_Name</Label>
+    <String>Mártir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Martyr_Commander_Dec</Label>
+    <String>Atualiza a nave de comando para a classe dos mártires, destrói qualquer frota inimiga com a qual entre em contato (destrói também a frota amigável)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Intimidator_Commander_Name</Label>
+    <String>Intimidator</String>
+  </StringTable>
+  <StringTable>
+    <Label>Intimidator_Commander_Dec</Label>
+    <String>Melhora a nave de comando para a classe Intimidator, e visa os bônus da frota inimiga</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Sovereign_Commander_Name</Label>
+    <String>Soberano</String>
+  </StringTable>
+  <StringTable>
+    <Label>Sovereign_Commander_Dec</Label>
+    <String>Atualiza a nave de comando para a classe dos soberanos, a frota inimiga alvo é alterada para ser propriedade da Liga dos Planetas Não-Alinhados. O navio soberano é um sacrifício.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Exterminator_Commander_Name</Label>
+    <String>Exterminador</String>
+  </StringTable>
+  <StringTable>
+    <Label>Exterminator_Commander_Dec</Label>
+    <String>Converte uma nave de comando em uma nave Esporo, capaz de aniquilar toda a população de um planeta indefeso.</String>
+  </StringTable>
+ 
+ 
+</StringTableList>

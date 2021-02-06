@@ -1,0 +1,1810 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../../Game/Data/Schema/Lib/StringTable.xsd">
+
+
+  <StringTable>
+    <Label>Unit Transport</Label>
+    <String>Unit Transport</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Mission Ship</Label>
+    <String>Mission Ship</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Commander</Label>
+    <String>Commander</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Admiral</Label>
+    <String>Admiral</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Navigator</Label>
+    <String>Navigator</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Martyr</Label>
+    <String>Martyr</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Intimidator</Label>
+    <String>Intimidator</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Sovereign</Label>
+    <String>Sovereign</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Exterminator</Label>
+    <String>Exterminator</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Campaign Spore Transport (Drengin)</Label>
+    <String>Campaign Spore Transport (Drengin)</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>DrenginSporeTransport_Class_Name</Label>
+    <String>Spore Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DrenginSporeTransport_Dec</Label>
+    <String>A special transport containing a module for dispersing the Spore virus.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Hyperspace Destabilizer</Label>
+    <String>Hyperspace Destabilizer</String>
+  </StringTable>  
+  
+  <StringTable>
+    <Label>The Suspicious Falcon</Label>
+    <String>The Suspicious Falcon</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Disease Resistant Slyne Transport</Label>
+    <String>Disease Resistant Slyne Transport</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>CrusadeSlyneTransport_Class_Name</Label>
+    <String>Disease Resistant Slyne Transport</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CrusadeSlyneTransport_Dec</Label>
+    <String>A special transport containing Slyne troops that are immune to the Spore virus.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CrusadeThalanCorvette_Class_Name</Label>
+    <String>Thalan Corvette</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CrusadeThalanCorvette_Dec</Label>
+    <String>A corvette provided by the Thalans to help blockade the Drengin Spore colony.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Crusade Corvette (Thalan)</Label>
+    <String>Crusade Corvette (Thalan)</String>
+  </StringTable>
+  
+
+  
+  <StringTable>
+    <Label>Yor Singularity Ship</Label>
+    <String>Yor Singularity Ship</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>CrusadeYorSingularityShip_Class_Name</Label>
+    <String>Yor Singularity Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CrusadeYorSingularityShip_Dec</Label>
+    <String>A mammoth ship where the Yor plan to finish their transition to the Singularity.</String>
+  </StringTable>
+  
+  
+  <StringTable>
+    <Label>Starting Survey (All Races)</Label>
+    <String>Starting Survey (All Races)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Starting Colony  (All Races)</Label>
+    <String>Starting Colony  (All Races)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Starting Scout (All Races)</Label>
+    <String>Starting Scout (All Races)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Starting Survey (Aquatic Races)</Label>
+    <String>Starting Survey (Aquatic Races)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Starting Colony  (Aquatic Races)</Label>
+    <String>Starting Colony  (Aquatic Races)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Starting Scout (Aquatic Races)</Label>
+    <String>Starting Scout (Aquatic Races)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial Survey (Terran)</Label>
+    <String>Tutorial Survey (Terran)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial Colony (Terran)</Label>
+    <String>Tutorial Colony (Terran)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial Cargo (Iconian)</Label>
+    <String>Tutorial Cargo (Iconian)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial Scout (Terran)</Label>
+    <String>Tutorial Scout (Terran)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial Cutter (Terran)</Label>
+    <String>Tutorial Cutter (Terran)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial Bomber (Terran)</Label>
+    <String>Tutorial Bomber (Terran)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial Gaurdian (Terran)</Label>
+    <String>Tutorial Gaurdian (Terran)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial Sniper (Terran)</Label>
+    <String>Tutorial Sniper (Terran)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial Frigate (Terran)</Label>
+    <String>Tutorial Frigate (Terran)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial Overloard (Terran, Iconian)</Label>
+    <String>Tutorial Overloard (Terran, Iconian)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial Starter Sniper (Pirate)</Label>
+    <String>Tutorial Starter Sniper (Pirate)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial Starter Bomber (Pirate)</Label>
+    <String>Tutorial Starter Bomber (Pirate)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Crusader (Terran)</Label>
+    <String>Campaign Crusader (Terran)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Overlord (Terran)</Label>
+    <String>Campaign Overlord (Terran)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Overlord 2 (Terran)</Label>
+    <String>Campaign Overlord 2 (Terran)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Paladin (Terran)</Label>
+    <String>Campaign Paladin (Terran)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Paladin 2 (Terran)</Label>
+    <String>Campaign Paladin 2 (Terran)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Fury (Terran)</Label>
+    <String>Campaign Fury (Terran)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Fury 2 (Terran)</Label>
+    <String>Campaign Fury 2 (Terran)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Interceptor (Terran)</Label>
+    <String>Campaign Interceptor (Terran)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Guardian (Terran)</Label>
+    <String>Campaign Guardian (Terran)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Transport (Terran)</Label>
+    <String>Campaign Transport (Terran)</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignConstructor  (Terran)</Label>
+    <String>CampaignConstructor  (Terran)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Dreadnought  (Drengin)</Label>
+    <String>Campaign Dreadnought  (Drengin)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Battleship (Drengin)</Label>
+    <String>Campaign Battleship (Drengin)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Defense Battleship (Drengin)</Label>
+    <String>Campaign Defense Battleship (Drengin)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign  Frigate (Drengin)</Label>
+    <String>Campaign  Frigate (Drengin)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Defense Frigate (Drengin)</Label>
+    <String>Campaign Defense Frigate (Drengin)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Gunboat (Drengin)</Label>
+    <String>Campaign Gunboat (Drengin)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Defense Gunboat (Drengin)</Label>
+    <String>Campaign Defense Gunboat (Drengin)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Interceptor (Drengin)</Label>
+    <String>Campaign Interceptor (Drengin)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Guardian (Drengin)</Label>
+    <String>Campaign Guardian (Drengin)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Defense Guardian (Drengin)</Label>
+    <String>Campaign Defense Guardian (Drengin)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Constructor (Drengin)</Label>
+    <String>Campaign Constructor (Drengin)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Carrier (Drengin)</Label>
+    <String>Campaign Carrier (Drengin)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Drone Carrier (Drengin)</Label>
+    <String>Campaign Drone Carrier (Drengin)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Sniper</Label>
+    <String>Campaign Sniper</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Defense Sniper</Label>
+    <String>Campaign Defense Sniper</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Cutter</Label>
+    <String>Campaign Cutter</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Defense Cutter</Label>
+    <String>Campaign Defense Cutter</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Corvette</Label>
+    <String>Campaign Corvette</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Defense Corvette</Label>
+    <String>Campaign Defense Corvette</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Cruiser</Label>
+    <String>Campaign Cruiser</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Defense Cruiser</Label>
+    <String>Campaign Defense Cruiser</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Avatar</Label>
+    <String>Campaign Avatar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Defense Avatar</Label>
+    <String>Campaign Defense Avatar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Constructor </Label>
+    <String>Campaign Constructor </String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Bomber </Label>
+    <String>Campaign Bomber </String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Defense Bomber </Label>
+    <String>Campaign Defense Bomber </String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Denender </Label>
+    <String>Campaign Denender </String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Defense Denender </Label>
+    <String>Campaign Defense Denender </String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Ranger </Label>
+    <String>Campaign Ranger</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Defense Ranger </Label>
+    <String>Campaign Defense Ranger </String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Destroyer</Label>
+    <String>Campaign Destroyer</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Defense Destroyer</Label>
+    <String>Campaign Defense Destroyer</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Fortress</Label>
+    <String>Campaign Fortress</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Defense Fortress</Label>
+    <String>Campaign Defense Fortress</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Guardian</Label>
+    <String>Campaign Guardian</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Defense Guardian</Label>
+    <String>Campaign Defense Guardian</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Gunboat</Label>
+    <String>Campaign Gunboat</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Defense Gunboat</Label>
+    <String>Campaign Defense Gunboat</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Frigate</Label>
+    <String>Campaign Frigate</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Defense Frigate</Label>
+    <String>Campaign Defense Frigate</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign Battleship</Label>
+    <String>Campaign Battleship</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Campaign Defense Battleship</Label>
+    <String>Campaign Defense Battleship</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Campaign Dreadnought</Label>
+    <String>Campaign Dreadnought</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Campaign Defense Dreadnought</Label>
+    <String>Campaign Defense Dreadnough</String>
+  </StringTable>
+    
+  <StringTable>
+    <Label>Campaign Sniper (Thalan)</Label>
+    <String>Campaign Sniper (Thalan)</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>Campaign Defense Sniper (Thalan)</Label>
+    <String>Campaign Defense Sniper (Thalan)</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>Campaign Cutter (Thalan)</Label>
+    <String>Campaign Cutter (Thalan)</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>Campaign Defense Cutter (Thalan)</Label>
+    <String>Campaign Defense Cutter (Thalan)</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>Campaign Corvette (Thalan)</Label>
+    <String>Campaign Corvette (Thalan)</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>Campaign Defense Corvette (Thalan)</Label>
+    <String>Campaign Defense Corvette (Thalan)</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>Campaign Cruiser (Thalan)</Label>
+    <String>Campaign Cruiser (Thalan)</String>
+  </StringTable>  
+  
+  <StringTable>
+    <Label>Campaign Defense Cruiser (Thalan)</Label>
+    <String>Campaign Defense Cruiser (Thalan)</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>Campaign Avatar (Thalan)</Label>
+    <String>Campaign Avatar (Thalan)</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>Campaign Defense Avatar (Thalan)</Label>
+    <String>Campaign Defense Avatar (Thalan)</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>Campaign Constructor (Thalan)</Label>
+    <String>Campaign Constructor (Thalan)</String>
+  </StringTable>     
+
+  <StringTable>
+    <Label>Campaign Sniper (Yor)</Label>
+    <String>Campaign Sniper (Yor)</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>Campaign Defense Sniper (Yor)</Label>
+    <String>Campaign Defense Sniper (Yor)</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>Campaign Cutter (Yor)</Label>
+    <String>Campaign Cutter (Yor)</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>Campaign Defense Cutter (Yor)</Label>
+    <String>Campaign Defense Cutter (Yor)</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>Campaign Corvette (Yor)</Label>
+    <String>Campaign Corvette (Yor)</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>Campaign Defense Corvette (Yor)</Label>
+    <String>Campaign Defense Corvette (Yor)</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>Campaign Cruiser (Yor)</Label>
+    <String>Campaign Cruiser (Yor)</String>
+  </StringTable>  
+  
+  <StringTable>
+    <Label>Campaign Defense Cruiser (Yor)</Label>
+    <String>Campaign Defense Cruiser (Yor)</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>Campaign Avatar (Yor)</Label>
+    <String>Campaign Avatar (Yor)</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>Campaign Defense Avatar (Yor)</Label>
+    <String>Campaign Defense Avatar (Yor)</String>
+  </StringTable>
+
+
+  <StringTable>
+    <Label>Peacekeeper Tiny</Label>
+    <String>Peacekeeper Tiny</String>
+  </StringTable>
+  <StringTable>
+    <Label>Peacekeeper Small</Label>
+    <String>Peacekeeper Small</String>
+  </StringTable>
+  <StringTable>
+    <Label>Peacekeeper Medium</Label>
+    <String>Peacekeeper Medium</String>
+  </StringTable>
+  <StringTable>
+    <Label>Peacekeeper Large</Label>
+    <String>Peacekeeper Large</String>
+  </StringTable>
+  <StringTable>
+    <Label>Peacekeeper Huge</Label>
+    <String>Peacekeeper Huge</String>
+  </StringTable>
+  <StringTable>
+    <Label>Juvenile SpaceMonster</Label>
+    <String>Juvenile Space Monster</String>
+  </StringTable>
+  <StringTable>
+    <Label>DreadLord Tiny</Label>
+    <String>DreadLord Tiny</String>
+  </StringTable>
+  <StringTable>
+    <Label>DreadLord Small</Label>
+    <String>DreadLord Small</String>
+  </StringTable>
+  <StringTable>
+    <Label>Warden Small (Wardens)</Label>
+    <String>Warden Small (Wardens)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Warden Medium (Wardens)</Label>
+    <String>Warden Medium (Wardens)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Warden Large (Wardens)</Label>
+    <String>Warden Large (Wardens)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi Terran Overlord (Snathi)</Label>
+    <String>Snathi Terran Overlord (Snathi)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Xendar Campaign Sniper</Label>
+    <String>Xendar Campaign Sniper</String>
+  </StringTable>
+  <StringTable>
+    <Label>Xendar Campaign Cutter</Label>
+    <String>Xendar Campaign Cutter</String>
+  </StringTable>
+  <StringTable>
+    <Label>Xendar Campaign Corvette</Label>
+    <String>Xendar Campaign Corvette</String>
+  </StringTable>
+  <StringTable>
+    <Label>Xendar Campaign Guardian</Label>
+    <String>Xendar Campaign Guardian</String>
+  </StringTable>
+  <StringTable>
+    <Label>Xendar Campaign Defense Guardian</Label>
+    <String>Xendar Campaign Defense Guardian</String>
+  </StringTable>
+  <StringTable>
+    <Label>Xendar Campaign Gunboat</Label>
+    <String>Xendar Campaign Gunboat</String>
+  </StringTable>
+  <StringTable>
+    <Label>Xendar Campaign Defense Gunboat</Label>
+    <String>Xendar Campaign Defense Gunboat</String>
+  </StringTable>
+  <StringTable>
+    <Label>Xendar Campaign Frigate</Label>
+    <String>Xendar Campaign Frigate</String>
+  </StringTable>
+  <StringTable>
+    <Label>Xendar Campaign Defense Frigate</Label>
+    <String>Xendar Campaign Defense Frigate</String>
+  </StringTable>
+  <StringTable>
+    <Label>Xendar Campaign Transport</Label>
+    <String>Xendar Campaign Transport</String>
+  </StringTable>
+  <StringTable>
+    <Label>AF Campaign Sniper</Label>
+    <String>AF Campaign Sniper</String>
+  </StringTable>
+  <StringTable>
+    <Label>AF2 Campaign Sniper</Label>
+    <String>AF2 Campaign Sniper</String>
+  </StringTable>
+  <StringTable>
+    <Label>AF-D Campaign Sniper</Label>
+    <String>AF-D Campaign Sniper</String>
+  </StringTable>
+  <StringTable>
+    <Label>AF Campaign Cutter</Label>
+    <String>AF Campaign Cutter</String>
+  </StringTable>
+  <StringTable>
+    <Label>AF-D Campaign Cutter</Label>
+    <String>AF-D Campaign Cutter</String>
+  </StringTable>
+  <StringTable>
+    <Label>AF2 Campaign Cutter</Label>
+    <String>AF2 Campaign Cutter</String>
+  </StringTable>
+  <StringTable>
+    <Label>AF Campaign Corvette</Label>
+    <String>AF Campaign Corvette</String>
+  </StringTable>
+  <StringTable>
+    <Label>AF2 Campaign Corvette</Label>
+    <String>AF2 Campaign Corvette</String>
+  </StringTable>
+  <StringTable>
+    <Label>AF-D Campaign Corvette</Label>
+    <String>AF-D Campaign Corvette</String>
+  </StringTable>
+  <StringTable>
+    <Label>AF Campaign Cruiser</Label>
+    <String>AF Campaign Cruiser</String>
+  </StringTable>
+  <StringTable>
+    <Label>AF-D Campaign Cruiser</Label>
+    <String>AF-D Campaign Cruiser</String>
+  </StringTable>
+  <StringTable>
+    <Label>AF Campaign Avatar</Label>
+    <String>AF Campaign Avatar</String>
+  </StringTable>
+  <StringTable>
+    <Label>AF-D Campaign Avatar</Label>
+    <String>AF-D Campaign Avatar</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>The Prospector</Label>
+	<String>The Prospector</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Facade</Label>
+	<String>The Facade</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Path of Rhuin</Label>
+	<String>The Path of Rhuin</String>
+    </StringTable>
+ 
+  <StringTable>
+    <Label>The Ysengard</Label>
+	<String>The Ysengard</String>
+  </StringTable>
+ 
+  <StringTable>  
+    <Label>The Sable</Label>
+	<String>The Sable</String>
+  </StringTable>
+ 
+  <StringTable>  
+    <Label>The H12-Super</Label>
+	<String>The H12-Super</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Scoper</Label>
+	<String>The Scoper</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Xorbert</Label>
+	<String>The Xorbert</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Fencer</Label>
+	<String>The Fencer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Whisper</Label>
+	<String>The Whisper</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Pollen</Label>
+	<String>The Pollen</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Perseverance</Label>
+	<String>The Perseverance</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Anvil</Label>
+	<String>The Anvil</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Legend</Label>
+	<String>The Legend</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RG-278</Label>
+	<String>RG-278</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Txlrp</Label>
+	<String>The Txlrp</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Starlab</Label>
+	<String>The Starlab</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Bacchanal</Label>
+	<String>The Bacchanal</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Friendly Mike's Traveling Emporium</Label>
+	<String>Friendly Mike's Traveling Emporium</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Raptor</Label>
+	<String>The Raptor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Nail</Label>
+	<String>The Nail</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Sabre</Label>
+	<String>The Sabre</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Bludgeon</Label>
+	<String>The Bludgeon</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Scion</Label>
+	<String>The Scion</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Fist of the Setting Suns</Label>
+	<String>The Fist of the Setting Suns</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Elembrial</Label>
+	<String>The Elembrial</String>
+  </StringTable>
+ 
+  <StringTable>  
+    <Label>The Zindellit</Label>
+	<String>The Zindellit</String>
+  </StringTable>
+	
+  <StringTable>
+    <Label>The Tecton</Label>
+	<String>The Tecton</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Orgot</Label>
+	<String>The Orgot</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Crux</Label>
+	<String>The Crux</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Trireme</Label>
+	<String>The Trireme</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Coronado</Label>
+	<String>The Coronado</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Tone Of Respect</Label>
+	<String>The Tone Of Respect</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Sussinkt</Label>
+	<String>The Sussinkt</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Elsa</Label>
+	<String>The Elsa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Phonz</Label>
+	<String>The Phonz</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Auspicious Start</Label>
+	<String>The Auspicious Start</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Praxis</Label>
+	<String>The Praxis</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Retribution</Label>
+	<String>The Retribution</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Gaze</Label>
+	<String>The Gaze</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Hivebase One</Label> 
+	<String>Hivebase One</String> 
+  </StringTable>
+ 
+  <StringTable> 
+    <Label>The Pursuit</Label>
+	<String>The Pursuit</String>
+  </StringTable>
+ 
+  <StringTable> 
+    <Label>The Viper</Label>
+	<String>The Viper</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Bitte</Label>
+	<String>The Bitte</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Safety In Numbers</Label>  
+	<String>Safety In Numbers</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Heptium</Label>
+	<String>The Heptium</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Gestalt</Label>
+	<String>The Gestalt</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Erragis</Label>
+	<String>The Erragis</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Miccim</Label>
+	<String>The Miccim</String>
+  </StringTable>
+ 
+  <StringTable>  
+    <Label>The Scow</Label>
+	<String>The Scow</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Gesture</Label>
+	<String>The Gesture</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Final Breath</Label>
+	<String>The Final Breath</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Swayer-11</Label>
+	<String>Swayer-11</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Apex</Label>
+	<String>Apex</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>The Sidrat</Label>  
+	<String>The Sidrat</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Compact</Label>
+	<String>The Compact</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Straisor</Label>  
+	<String>The Straisor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Lutitia</Label>
+	<String>The Lutitia</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Linked Aerie</Label>  
+	<String>The Linked Aerie</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Excruciator</Label>
+	<String>The Excruciator</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Fissure</Label>
+	<String>The Fissure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Sickle</Label>
+	<String>The Sickle</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Collective</Label>
+	<String>The Collective</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Helmder</Label>
+	<String>The Helmder</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Shaout</Label>
+	<String>The Shaout</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Hermitage</Label>
+	<String>The Hermitage</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Willow</Label>
+	<String>The Willow</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Cixma</Label>  
+	<String>The Cixma</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Caravan</Label>
+	<String>The Caravan</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Derr</Label>  
+	<String>The Derr</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Wraith</Label>
+	<String>The Wraith</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>The Pewpewpewpew</Label>
+	<String>The Pewpewpewpew</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>TerranStartingConstructor_Class_Name</Label>
+	<String>Constructor</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CampaignTerranCrusader_Class_Name</Label>
+	<String>Crusader</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CampaignTerranOverlord_Class_Name</Label>
+	<String>Overlord</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CampaignTerranPaladin_Class_Name</Label>
+	<String>Paladin</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CampaignTerranFury_Class_Name</Label>
+	<String>Fury</String>
+  </StringTable>  
+  
+  <StringTable>
+    <Label>CampaignTerranInterceptor_Class_Name</Label>
+	<String>Interceptor</String>
+  </StringTable>  
+  
+  <StringTable>
+    <Label>CampaignTerranGuardian_Class_Name</Label>
+	<String>Guardian</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>CampaignTerranTransport_Class_Name</Label>
+	<String>Transport</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>CampaignTerranCruiser_Class_Name</Label>
+	<String>Cruiser</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>CampaignTerranRanger_Class_Name</Label>
+	<String>Ranger</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>CampaignTerranCutter_Class_Name</Label>
+	<String>Cutter</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>CampaignDrenginDreadnought_Class_Name</Label>
+	<String>Dreadnought</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>CampaignDefenseDrenginDreadnought_Class_Name</Label>
+	<String>Defense Dreadnought</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>CampaignDrenginBattleship_Class_Name</Label>
+	<String>Battleship</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignDefenseDrenginBattleship_Class_Name</Label>
+	<String>Defense Battleship</String>
+  </StringTable>  
+  
+  <StringTable>
+    <Label>CampaignDrenginFrigate_Class_Name</Label>
+	<String>Frigate</String>
+  </StringTable>  
+  
+  <StringTable>
+    <Label>CampaignDefenseDrenginFrigate_Class_Name</Label>
+	<String>Defense Frigate</String>
+  </StringTable>  
+  
+  <StringTable>
+    <Label>CampaignDrenginGunboat_Class_Name</Label>
+	<String>Gunboat</String>
+  </StringTable>  
+  
+  <StringTable>
+    <Label>CampaignDefenseDrenginGunboat_Class_Name</Label>
+	<String>Defense Gunboat</String>
+  </StringTable>  
+  
+  <StringTable>
+    <Label>CampaignDrenginBomber_Class_Name</Label>
+	<String>Bomber</String>
+  </StringTable>  
+  
+  <StringTable>
+    <Label>CampaignDrengin_Class_Name</Label>
+	<String>Guardian</String>
+  </StringTable>  
+  
+  <StringTable>
+    <Label>CampaignDefenseDrenginGuardian_Class_Name</Label>
+	<String>Defense Guardian</String>
+  </StringTable>  
+  
+  <StringTable>
+    <Label>CampaignDrenginConstructor_Class_Name</Label>
+	<String>Constructor</String>
+  </StringTable>  
+  
+  <!--<StringTable>
+    <Label>CampaignThalanSniper_Name</Label>
+    <String>T.C.S. Flame</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignThalanSniper_Dec</Label>
+    <String>Short range, and kitted out for beam combat. A nasty little slicer.</String>
+  </StringTable>-->
+
+  <!--<StringTable>
+    <Label>CampaignDefenseThalanSniper_Name</Label>
+    <String>T.C.S. Flame D</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignDefenseThalanSniper_Dec</Label>
+    <String>Short range, and kitted out for beam combat. A nasty little slicer.</String>
+  </StringTable>-->
+
+  <!--<StringTable>
+    <Label>CampaignThalanCutter_Name</Label>
+    <String>T.C.S. Prospect</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignThalanCutter_Dec</Label>
+    <String>Mid range ship set up for beam weapons and shields. It's earned its name.</String>
+  </StringTable>-->
+
+  <!--<StringTable>
+    <Label>CampaignDefenseThalanCutter_Name</Label>
+    <String>T.C.S. Prospect D</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignDefenseThalanCutter_Dec</Label>
+    <String>Mid range ship set up for beam weapons and shields. It's earned its name.</String>
+  </StringTable>-->
+
+  <!--<StringTable>
+    <Label>CampaignThalanCorvette_Name</Label>
+    <String>T.C.S. Trust</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignThalanCorvette_Dec</Label>
+    <String>Medium size beam-warfare ship. If you need a lot of things burnt very quickly, this is your ship.</String>
+  </StringTable>-->
+
+  <!--<StringTable>
+    <Label>CampaignDefenseThalanCorvette_Name</Label>
+    <String>T.C.S. Trust D</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignDefenseThalanCorvette_Dec</Label>
+    <String>Medium size beam-warfare ship. If you need a lot of things burnt very quickly, this is your ship.</String>
+  </StringTable>-->
+
+  <!--<StringTable>
+    <Label>CampaignThalanCruiser_Name</Label>
+    <String>T.C.S. Revelation</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignThalanCruiser_Dec</Label>
+    <String>Large beam-combat platform capable of filling space with deadly, glittering colors.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CampaignDefenseThalanCruiser_Name</Label>
+    <String>T.C.S. Revelation D</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignDefenseThalanCruiser_Dec</Label>
+    <String>Large beam-combat platform capable of filling space with deadly, glittering colors.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CampaignThalanAvatar_Name</Label>
+    <String>T.C.S. Calamity</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignThalanAvatar_Dec</Label>
+    <String>Enormous vessel designed for beam combat. Doesn't play nice with others.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CampaignDefenseThalanAvatar_Name</Label>
+    <String>T.C.S. Calamity D</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignDefenseThalanAvatar_Dec</Label>
+    <String>Enormous vessel designed for beam combat. Doesn't play nice with others.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CampaignThalanConstructor_Name</Label>
+    <String>T.C.S. Formulator</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignThalanConstructor_Dec</Label>
+    <String>Large but fragile ship capable of building starbases.</String>
+  </StringTable>-->
+  
+  
+  <StringTable>
+    <Label>CampaignThalanSniper_Class_Name</Label>
+	<String>Sniper</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>CampaignDefenseThalanSniper_Class_Name</Label>
+	<String>Defense Sniper</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignThalanCutter_Class_Name</Label>
+	<String>Cutter</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignDefenseThalanCutter_Class_Name</Label>
+	<String>Defense Cutter</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignThalanCorvette_Class_Name</Label>
+	<String>Corvette</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignDefenseThalanCorvette_Class_Name</Label>
+	<String>Defense Corvette</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignThalanCruiser_Class_Name</Label>
+	<String>Cruiser</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignDefenseThalanCruiser_Class_Name</Label>
+	<String>Defense Cruiser</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignThalanAvatar_Class_Name</Label>
+	<String>Avatar</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignDefenseThalanAvatar_Class_Name</Label>
+	<String>Defense Avatar</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignThalanConstructor_Class_Name</Label>
+	<String>Constructor</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignYorSniper_Class_Name</Label>
+	<String>Sniper</String>
+  </StringTable>  
+
+  <StringTable>
+    <Label>CampaignDefenseYorSniper_Class_Name</Label>
+	<String>Defense Sniper</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignYorCutter_Class_Name</Label>
+	<String>Cutter</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignDefenseYorCutter_Class_Name</Label>
+	<String>Defense Cutter</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignYorCorvette_Class_Name</Label>
+	<String>Corvette</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignDefenseYorCorvette_Class_Name</Label>
+	<String>Defense Corvette</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignYorCruiser_Class_Name</Label>
+	<String>Cruiser</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignDefenseYorCruiser_Class_Name</Label>
+	<String>Defense Cruiser</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignYorAvatar_Class_Name</Label>
+	<String>Avatar</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignDefenseYorAvatar_Class_Name</Label>
+	<String>Defense Avatar</String>
+  </StringTable>    
+  
+  <StringTable>
+    <Label>CampaignYorConstructor_Class_Name</Label>
+	<String>Constructor</String>
+  </StringTable>    
+
+  <!--<StringTable>
+    <Label>CampaignYorConstructor_Class_Name</Label>
+	<String>Constructor</String>
+  </StringTable>-->
+  
+  <!--<StringTable>
+    <Label>CampaignYorSniper_Name</Label>
+    <String>Y.S.S. APU-BM</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignYorSniper_Dec</Label>
+    <String>Short range, and kitted out for beam combat. A nasty little slicer.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CampaignDefenseYorSniper_Name</Label>
+    <String>Y.S.S. APU-BM D</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignDefenseYorSniper_Dec</Label>
+    <String>Short range, and kitted out for beam combat. A nasty little slicer.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CampaignYorCutter_Name</Label>
+    <String>Y.S.S. BPU-BM</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignYorCutter_Dec</Label>
+    <String>Mid range ship set up for beam weapons and shields. It's earned its name.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CampaignDefenseYorCutter_Name</Label>
+    <String>Y.S.S. BPU-BM D</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignDefenseYorCutter_Dec</Label>
+    <String>Mid range ship set up for beam weapons and shields. It's earned its name.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CampaignYorCorvette_Name</Label>
+    <String>Y.S.S. CPU-BM</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignYorCorvette_Dec</Label>
+    <String>Medium size beam-warfare ship. If you need a lot of things burnt very quickly, this is your ship.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CampaignDefenseYorCorvette_Name</Label>
+    <String>Y.S.S. CPU-BM D</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignDefenseYorCorvette_Dec</Label>
+    <String>Medium size beam-warfare ship. If you need a lot of things burnt very quickly, this is your ship.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CampaignYorCruiser_Name</Label>
+    <String>Y.S.S. DPU-BM</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignYorCruiser_Dec</Label>
+    <String>Large beam-combat platform capable of filling space with deadly, glittering colors.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CampaignDefenseYorCruiser_Name</Label>
+    <String>Y.S.S. DPU-BM D</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignDefenseYorCruiser_Dec</Label>
+    <String>Large beam-combat platform capable of filling space with deadly, glittering colors.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CampaignYorAvatar_Name</Label>
+    <String>Y.S.S. Processor</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignYorAvatar_Dec</Label>
+    <String>Enormous vessel designed for beam combat. Doesn't play nice with others.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CampaignDefenseYorAvatar_Name</Label>
+    <String>Y.S.S. Processor D</String>
+  </StringTable>
+  <StringTable>
+    <Label>CampaignDefenseYorAvatar_Dec</Label>
+    <String>Enormous vessel designed for beam combat. Doesn't play nice with others.</String>
+  </StringTable>-->
+
+  <StringTable>
+    <Label>Tier1MercenaryShip01_Class_Name</Label>
+    <String>The Prospector</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1MercenaryShip02_Class_Name</Label>
+    <String>The Facade</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1MercenaryShip03_Class_Name</Label>
+    <String>The Path of Rhuin</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1MercenaryShip04_Class_Name</Label>
+    <String>The Ysengard</String>
+  </StringTable>
+
+ 
+  <StringTable>
+    <Label>Tier1MercenaryShip05_Class_Name</Label>
+    <String>The Sable</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Tier1MercenaryShip06_Class_Name</Label>
+    <String>The H12-Super</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1MercenaryShip07_Class_Name</Label>
+    <String>The Scoper</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Tier1MercenaryShip08_Class_Name</Label>
+    <String>The Xorbert</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1MercenaryShip09_Class_Name</Label>
+    <String>The Fencer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1MercenaryShip10_Class_Name</Label>
+    <String>The Whisper</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1MercenaryShip11_Class_Name</Label>
+    <String>The Pollen</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1MercenaryShip12_Class_Name</Label>
+    <String>The Perseverance</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1MercenaryShip13_Class_Name</Label>
+    <String>The Anvil</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1MercenaryShip14_Class_Name</Label>
+    <String>The Legend</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Tier1MercenaryShip15_Class_Name</Label>
+    <String>RG-278</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Tier1MercenaryShip16_Class_Name</Label>
+    <String>The Txlrp</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Tier1MercenaryShip17_Class_Name</Label>
+    <String>The Starlab</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1MercenaryShip18_Class_Name</Label>
+    <String>The Bacchanal</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1MercenaryShip19_Class_Name</Label>
+    <String>Friendly Mike's Traveling Emporium</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1MercenaryShip20_Class_Name</Label>
+    <String>The Raptor</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Tier1MercenaryShip21_Class_Name</Label>
+    <String>The Nail</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Tier1MercenaryShip22_Class_Name</Label>
+    <String>The Sabre</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1MercenaryShip23_Class_Name</Label>
+    <String>The Bludgeon</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1MercenaryShip24_Class_Name</Label>
+    <String>The Scion</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Tier1MercenaryShip25_Class_Name</Label>
+    <String>The Fist of the Sun</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1MercenaryShip26_Class_Name</Label>
+    <String>The Elembrial</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Tier2MercenaryShip01_Class_Name</Label>
+    <String>The Zindellit</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip02_Class_Name</Label>
+    <String>The Tecton</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip03_Class_Name</Label>
+    <String>The Orgot</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip04_Class_Name</Label>
+    <String>The Crux</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip05_Class_Name</Label>
+    <String>The Trireme</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip06_Class_Name</Label>
+    <String>The Coronado</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip07_Class_Name</Label>
+    <String>The Tone Of Respect</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Tier2MercenaryShip08_Class_Name</Label>
+    <String>The Sussinkt</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip09_Class_Name</Label>
+    <String>The Elsa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip10_Class_Name</Label>
+    <String>The Phonz</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip11_Class_Name</Label>
+    <String>The Auspicious Start</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip12_Class_Name</Label>
+    <String>The Praxis</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip13_Class_Name</Label>
+    <String>The Retribution</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip14_Class_Name</Label>
+    <String>The Gaze</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Tier2MercenaryShip15_Class_Name</Label>
+    <String>Hivebase One</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip16_Class_Name</Label>
+    <String>The Pursuit</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip17_Class_Name</Label>
+    <String>The Viper</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip18_Class_Name</Label>
+    <String>The Bitte</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip19_Class_Name</Label>
+    <String>Safety In Numbers</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip20_Class_Name</Label>
+    <String>The Heptium</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip21_Class_Name</Label>
+    <String>The Gestalt</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip22_Class_Name</Label>
+    <String>The Erragis</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip23_Class_Name</Label>
+    <String>The Miccim</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2MercenaryShip24_Class_Name</Label>
+    <String>The Scow</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3MercenaryShip01_Class_Name</Label>
+    <String>The Gesture</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3MercenaryShip02_Class_Name</Label>
+    <String>The Final Breath</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3MercenaryShip03_Class_Name</Label>
+    <String>Swayer-11</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3MercenaryShip04_Class_Name</Label>
+    <String>Apex</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Tier3MercenaryShip05_Class_Name</Label>
+    <String>The Sidrat</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3MercenaryShip06_Class_Name</Label>
+    <String>The Compact</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3MercenaryShip07_Class_Name</Label>
+    <String>The Straisor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3MercenaryShip08_Class_Name</Label>
+    <String>The Lutitia</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3MercenaryShip09_Class_Name</Label>
+    <String>The Linked Aerie</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3MercenaryShip10_Class_Name</Label>
+    <String>The Excruciator</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3MercenaryShip11_Class_Name</Label>
+    <String>The Fissure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3MercenaryShip12_Class_Name</Label>
+    <String>The Sickle</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3MercenaryShip13_Class_Name</Label>
+    <String>The Collective</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3MercenaryShip14_Class_Name</Label>
+    <String>The Helmder</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Tier3MercenaryShip15_Class_Name</Label>
+    <String>The Shaout</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3MercenaryShip16_Class_Name</Label>
+    <String>The Hermitage</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Tier3MercenaryShip17_Class_Name</Label>
+    <String>The Willow</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Tier3MercenaryShip18_Class_Name</Label>
+    <String>The Cixma</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Tier3MercenaryShip19_Class_Name</Label>
+    <String>The Caravan</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Tier3MercenaryShip20_Class_Name</Label>
+    <String>The Derr</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3MercenaryShip21_Class_Name</Label>
+    <String>The Wraith</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3MercenaryShip22_Class_Name</Label>
+    <String>The Pewpewpewpew</String>
+  </StringTable>
+  
+  
+</StringTableList>

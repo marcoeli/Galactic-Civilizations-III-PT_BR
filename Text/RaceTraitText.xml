@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- RaceTraitText.xml -->
+ 
+  <StringTable>
+    <Label>ProductiveGroup_Name</Label>
+    <String>[ICON=Stat_Productive_Icon]  Produtivo</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProductiveGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Productive1_Name</Label>
+    <String>[ICON=Stat_Productive_Icon]  Produtivo (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Productive1_Dec</Label>
+    <String>Modifica a rapidez com que as melhorias são construídas em seus planetas</String>
+  </StringTable>
+  <StringTable>
+    <Label>Productive2_Name</Label>
+    <String>[ICON=Stat_Productive_Icon]  Produtivo (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Productive2_Dec</Label>
+    <String>Modifica a rapidez com que as melhorias são construídas em seus planetas</String>
+  </StringTable>
+  <StringTable>
+    <Label>Productive3_Name</Label>
+    <String>[ICON=Stat_Productive_Icon]  Improdutivo (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Productive3_Dec</Label>
+    <String>Modifica a rapidez com que as melhorias são construídas em seus planetas</String>
+  </StringTable>
+  <StringTable>
+    <Label>Productive4_Name</Label>
+    <String>[ICON=Stat_Productive_Icon]  Improdutivo (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Productive4_Dec</Label>
+    <String>Modifica a rapidez com que as melhorias são construídas em seus planetas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CleverGroup_Name</Label>
+    <String>[ICON=Stat_Clever_Icon]  Esperto</String>
+  </StringTable>
+  <StringTable>
+    <Label>CleverGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clever1_Name</Label>
+    <String>[ICON=Stat_Clever_Icon]  Esperto (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clever1_Dec</Label>
+    <String>Modifica a rapidez com que as tecnologias são aprendidas</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clever2_Name</Label>
+    <String>[ICON=Stat_Clever_Icon]  Esperto (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clever2_Dec</Label>
+    <String>Modifica a rapidez com que as tecnologias são aprendidas</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clever3_Name</Label>
+    <String>[ICON=Stat_Clever_Icon]  Tonto (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clever3_Dec</Label>
+    <String>Modifica a rapidez com que as tecnologias são aprendidas</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clever4_Name</Label>
+    <String>[ICON=Stat_Clever_Icon]  Tonto (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clever4_Dec</Label>
+    <String>Modifica a rapidez com que as tecnologias são aprendidas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InfluentialGroup_Name</Label>
+    <String>[ICON=Stat_Influential_Icon]  Influente</String>
+  </StringTable>
+  <StringTable>
+    <Label>InfluentialGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Influential1_Name</Label>
+    <String>[ICON=Stat_Influential_Icon]  Influente (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Influential1_Dec</Label>
+    <String>Modifica a rapidez com que as fronteiras são expandidas</String>
+  </StringTable>
+  <StringTable>
+    <Label>Influential2_Name</Label>
+    <String>[ICON=Stat_Influential_Icon]  Influente (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Influential2_Dec</Label>
+    <String>Modifica a rapidez com que as fronteiras são expandidas</String>
+  </StringTable>
+  <StringTable>
+    <Label>Influential3_Name</Label>
+    <String>[ICON=Stat_Influential_Icon]  Esquecível (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Influential3_Dec</Label>
+    <String>Modifica a rapidez com que as fronteiras são expandidas</String>
+  </StringTable>
+  <StringTable>
+    <Label>Influential4_Name</Label>
+    <String>[ICON=Stat_Influential_Icon]  Esquecível (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Influential4_Dec</Label>
+    <String>Modifica a rapidez com que as fronteiras são expandidas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EconomicalGroup_Name</Label>
+    <String>[ICON=Stat_Economical_Icon]  Econômico</String>
+  </StringTable>
+  <StringTable>
+    <Label>EconomicalGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Economical1_Name</Label>
+    <String>[ICON=Stat_Economical_Icon]  Econômico (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Economical1_Dec</Label>
+    <String>Modifica a rapidez com que os créditos são obtidos</String>
+  </StringTable>
+  <StringTable>
+    <Label>Economical2_Name</Label>
+    <String>[ICON=Stat_Economical_Icon]  Econômico (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Economical2_Dec</Label>
+    <String>Modifica a rapidez com que os créditos são obtidos</String>
+  </StringTable>
+  <StringTable>
+    <Label>Economical3_Name</Label>
+    <String>[ICON=Stat_Economical_Icon]  Gastador (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Economical3_Dec</Label>
+    <String>Modifica a rapidez com que os créditos são obtidos</String>
+  </StringTable>
+  <StringTable>
+    <Label>Economical4_Name</Label>
+    <String>[ICON=Stat_Economical_Icon]  Gastador (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Economical4_Dec</Label>
+    <String>Modifica a rapidez com que os créditos são obtidos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ContentGroup_Name</Label>
+    <String>[ICON=Stat_Content_Icon]  Contente</String>
+  </StringTable>
+  <StringTable>
+    <Label>ContentGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Content1_Name</Label>
+    <String>[ICON=Stat_Content_Icon] Contente (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Content1_Dec</Label>
+    <String>Modifica a visão que seus cidadãos têm de você</String>
+  </StringTable>
+  <StringTable>
+    <Label>Content2_Name</Label>
+    <String>[ICON=Stat_Content_Icon]  Contente (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Content2_Dec</Label>
+    <String>Modifica a visão que seus cidadãos têm de você</String>
+  </StringTable>
+  <StringTable>
+    <Label>Content3_Name</Label>
+    <String>[ICON=Stat_Content_Icon]  Descontente (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Content3_Dec</Label>
+    <String>Modifica a visão que seus cidadãos têm de você</String>
+  </StringTable>
+  <StringTable>
+    <Label>Content4_Name</Label>
+    <String>[ICON=Stat_Content_Icon]  Descontente (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Content4_Dec</Label>
+    <String>Modifica a visão que seus cidadãos têm de você</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FertileGroup_Name</Label>
+    <String>[ICON=Stat_Fertile_Icon]  Fértil</String>
+  </StringTable>
+  <StringTable>
+    <Label>FertileGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Fertile1_Name</Label>
+    <String>[ICON=Stat_Fertile_Icon]  Fértil (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Fertile1_Dec</Label>
+    <String>Modifica a rapidez de crescimento da população de seus planetas</String>
+  </StringTable>
+  <StringTable>
+    <Label>Fertile2_Name</Label>
+    <String>[ICON=Stat_Fertile_Icon]  Fertil (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Fertile2_Dec</Label>
+    <String>Modifica a rapidez de crescimento da população de seus planetas</String>
+  </StringTable>
+  <StringTable>
+    <Label>Fertile3_Name</Label>
+    <String>[ICON=Stat_Infertile_Icon]  Infertil (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Fertile3_Dec</Label>
+    <String>Modifica a rapidez de crescimento da população de seus planetas</String>
+  </StringTable>
+  <StringTable>
+    <Label>Fertile4_Name</Label>
+    <String>[ICON=Stat_Infertile_Icon]  Infertil (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Fertile4_Dec</Label>
+    <String>Modifica a rapidez de crescimento da população de seus planetas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HandyGroup_Name</Label>
+    <String>[ICON=Stat_Handy_Icon]  Útil</String>
+  </StringTable>
+  <StringTable>
+    <Label>HandyGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Handy1_Name</Label>
+    <String>[ICON=Stat_Handy_Icon]  Útil (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Handy1_Dec</Label>
+    <String>Baixa a manutenção das colônias.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Handy2_Name</Label>
+    <String>[ICON=Stat_Handy_Icon]  Útil (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Handy2_Dec</Label>
+    <String>Baixa a manutenção das colônias.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Handy3_Name</Label>
+    <String>[ICON=Stat_Handy_Icon] Desajeitado (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Handy3_Dec</Label>
+    <String>Aumenta ligeiramente todos os tipos de manutenção</String>
+  </StringTable>
+  <StringTable>
+    <Label>Handy4_Name</Label>
+    <String>[ICON=Stat_Handy_Icon]  Desajeitado (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Handy4_Dec</Label>
+    <String>Aumenta substancialmente todos os tipos de manutenção</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DenseGroup_Name</Label>
+    <String>[ICON=Stat_Dense_Icon]  Denso</String>
+  </StringTable>
+  <StringTable>
+    <Label>DenseGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Dense1_Name</Label>
+    <String>[ICON=Stat_Dense_Icon]  Denso (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Dense1_Dec</Label>
+    <String>Modifica a quantidade de massa que seus navios podem transportar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Dense2_Name</Label>
+    <String>[ICON=Stat_Dense_Icon]  Denso (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Dense2_Dec</Label>
+    <String>Modifica a quantidade de massa que seus navios podem transportar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Dense3_Name</Label>
+    <String>[ICON=Stat_Dense_Icon]  volumoso (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Dense3_Dec</Label>
+    <String>Modifica a quantidade de massa que seus navios podem transportar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Dense4_Name</Label>
+    <String>[ICON=Stat_Dense_Icon]  volumoso (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Dense4_Dec</Label>
+    <String>Modifica a quantidade de massa que seus navios podem transportar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MilitantGroup_Name</Label>
+    <String>[ICON=Stat_Militant_Icon]  Militante</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilitantGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Militant1_Name</Label>
+    <String>[ICON=Stat_Militant_Icon]  Militante (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Militant1_Dec</Label>
+    <String>Modifica a taxa Estaleiros navais produzem navios</String>
+  </StringTable>
+  <StringTable>
+    <Label>Militant2_Name</Label>
+    <String>[ICON=Stat_Militant_Icon]  Militante (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Militant2_Dec</Label>
+    <String>Modifica a taxa Estaleiros produzem navios</String>
+  </StringTable>
+  <StringTable>
+    <Label>Militant3_Name</Label>
+    <String>[ICON=Stat_Militant_Icon]  Passivo (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Militant3_Dec</Label>
+    <String>Modifica a taxa Estaleiros produzem navios</String>
+  </StringTable>
+  <StringTable>
+    <Label>Militant4_Name</Label>
+    <String>[ICON=Stat_Militant_Icon] Passivo (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Militant4_Dec</Label>
+    <String>Modifica a taxa Estaleiros produzem navios</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PopularGroup_Name</Label>
+    <String>[ICON=Stat_Popular_Icon]  Popular</String>
+  </StringTable>
+  <StringTable>
+    <Label>PopularGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Popular1_Name</Label>
+    <String>[ICON=Stat_Popular_Icon]  Popular (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Popular1_Dec</Label>
+    <String>Modifica a quantidade de créditos feitos pelo Turismo</String>
+  </StringTable>
+  <StringTable>
+    <Label>Popular2_Name</Label>
+    <String>[ICON=Stat_Popular_Icon]  Popular (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Popular2_Dec</Label>
+    <String>Modifica a quantidade de créditos feitos pelo Turismo</String>
+  </StringTable>
+  <StringTable>
+    <Label>Popular3_Name</Label>
+    <String>[ICON=Stat_Popular_Icon]  Impopular (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Popular3_Dec</Label>
+    <String>Modifica a quantidade de créditos feitos pelo Turismo</String>
+  </StringTable>
+  <StringTable>
+    <Label>Popular4_Name</Label>
+    <String>[ICON=Stat_Popular_Icon]  Impopular (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Popular4_Dec</Label>
+    <String>Modifica a quantidade de créditos feitos pelo Turismo</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersGroup_Name</Label>
+    <String>[ICON=Stat_Trader_Icon]  Comerciantes</String>
+  </StringTable>
+  <StringTable>
+    <Label>TradersGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Traders1_Name</Label>
+    <String>[ICON=Stat_Trader_Icon]  Comerciantes (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Traders1_Dec</Label>
+    <String>Modifica a quantidade de créditos obtidos de Rotas Comerciais</String>
+  </StringTable>
+  <StringTable>
+    <Label>Traders2_Name</Label>
+    <String>[ICON=Stat_Trader_Icon]  Comerciantes (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Traders2_Dec</Label>
+    <String>Modifica a quantidade de créditos obtidos de Rotas Comerciais</String>
+  </StringTable>
+  <StringTable>
+    <Label>Traders3_Name</Label>
+    <String>[ICON=Stat_Trader_Icon]  Encalhado (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Traders3_Dec</Label>
+    <String>Modifica a quantidade de créditos obtidos de Rotas Comerciais</String>
+  </StringTable>
+  <StringTable>
+    <Label>Traders4_Name</Label>
+    <String>[ICON=Stat_Trader_Icon]  Encalhado (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Traders4_Dec</Label>
+    <String>Modifica a quantidade de créditos obtidos de Rotas Comerciais</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FarmersGroup_Name</Label>
+    <String>[ICON=Stat_Farmer_Icon]  Agricultores</String>
+  </StringTable>
+  <StringTable>
+    <Label>FarmersGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Farmers1_Name</Label>
+    <String>[ICON=Stat_Farmer_Icon]  Agricultores (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Farmers1_Dec</Label>
+    <String>Modifica a quantidade de pessoas que seus planetas podem alimentar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Farmers2_Name</Label>
+    <String>[ICON=Stat_Farmer_Icon]  Agricultores (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Farmers2_Dec</Label>
+    <String>Modifica a quantidade de pessoas que seus planetas podem alimentar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Farmers3_Name</Label>
+    <String>[ICON=Stat_Farmer_Icon]  Agricultores pobres (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Farmers3_Dec</Label>
+    <String>Modifica a quantidade de pessoas que seus planetas podem alimentar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Farmers4_Name</Label>
+    <String>[ICON=Stat_Farmer_Icon]  Agricultores pobres (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Farmers4_Dec</Label>
+    <String>Modifica a quantidade de pessoas que seus planetas podem alimentar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BrutalGroup_Name</Label>
+    <String>[ICON=Stat_Brutal_Icon]  Brutal</String>
+  </StringTable>
+  <StringTable>
+    <Label>BrutalGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Brutal1_Name</Label>
+    <String>[ICON=Stat_Brutal_Icon]  Brutal (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Brutal1_Dec</Label>
+    <String>Modifica o sucesso das Invasões Planetárias</String>
+  </StringTable>
+  <StringTable>
+    <Label>Brutal2_Name</Label>
+    <String>[ICON=Stat_Brutal_Icon]  Brutal (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Brutal2_Dec</Label>
+    <String>Modifica o sucesso das Invasões Planetárias</String>
+  </StringTable>
+  <StringTable>
+    <Label>Brutal3_Name</Label>
+    <String>[ICON=Stat_Brutal_Icon]  Gentil (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Brutal3_Dec</Label>
+    <String>Modifica o sucesso das Invasões Planetárias</String>
+  </StringTable>
+  <StringTable>
+    <Label>Brutal4_Name</Label>
+    <String>[ICON=Stat_Brutal_Icon]  Gentil (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Brutal4_Dec</Label>
+    <String>Modifica o sucesso das Invasões Planetárias</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CourageousGroup_Name</Label>
+    <String>[ICON=Stat_Courageous_Icon]  Corajoso</String>
+  </StringTable>
+  <StringTable>
+    <Label>CourageousGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Courageous1_Name</Label>
+    <String>[ICON=Stat_Courageous_Icon]  Corajoso (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Courageous1_Dec</Label>
+    <String>Modifica a capacidade de resistir a invasões</String>
+  </StringTable>
+  <StringTable>
+    <Label>Courageous2_Name</Label>
+    <String>[ICON=Stat_Courageous_Icon]  Corajoso (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Courageous2_Dec</Label>
+    <String>Modifica a capacidade de resistir a invasões</String>
+  </StringTable>
+  <StringTable>
+    <Label>Courageous3_Name</Label>
+    <String>[ICON=Stat_Courageous_Icon]  Covarde (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Courageous3_Dec</Label>
+    <String>Modifica a capacidade de resistir a invasões</String>
+  </StringTable>
+  <StringTable>
+    <Label>Courageous4_Name</Label>
+    <String>[ICON=Stat_Courageous_Icon]  Covarde (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Courageous4_Dec</Label>
+    <String>Modifica a capacidade de resistir a invasões</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ToughGroup_Name</Label>
+    <String>[ICON=Stat_Tough_Icon]  Duro</String>
+  </StringTable>
+  <StringTable>
+    <Label>ToughGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tough1_Name</Label>
+    <String>[ICON=Stat_Tough_Icon]  Duro (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tough1_Dec</Label>
+    <String>Modifica a durabilidade de seus navios</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tough2_Name</Label>
+    <String>[ICON=Stat_Tough_Icon]  Duro (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tough2_Dec</Label>
+    <String>Modifica a durabilidade de seus navios</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tough3_Name</Label>
+    <String>[ICON=Stat_Tough_Icon]  Fragil (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tough3_Dec</Label>
+    <String>Modifica a durabilidade de seus navios</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tough4_Name</Label>
+    <String>[ICON=Stat_Tough_Icon]  Fragil (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tough4_Dec</Label>
+    <String>Modifica a durabilidade de seus navios</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SharpEyedGroup_Name</Label>
+    <String>[ICON=Stat_Sharpeye_Icon]  Preciso</String>
+  </StringTable>
+  <StringTable>
+    <Label>SharpEyedGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>SharpEyed1_Name</Label>
+    <String>[ICON=Stat_Sharpeye_Icon]  Preciso (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>SharpEyed1_Dec</Label>
+    <String>Modifica a Precisão dos ataques de seus navios</String>
+  </StringTable>
+  <StringTable>
+    <Label>SharpEyed2_Name</Label>
+    <String>[ICON=Stat_Sharpeye_Icon]  Preciso (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>SharpEyed2_Dec</Label>
+    <String>Modifica a Precisão dos ataques de seus navios</String>
+  </StringTable>
+  <StringTable>
+    <Label>SharpEyed3_Name</Label>
+    <String>[ICON=Stat_Sharpeye_Icon]  Impreciso (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>SharpEyed3_Dec</Label>
+    <String>Modifica a Precisão dos ataques de seus navios</String>
+  </StringTable>
+  <StringTable>
+    <Label>SharpEyed4_Name</Label>
+    <String>[ICON=Stat_Sharpeye_Icon]  Impreciso (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>SharpEyed4_Dec</Label>
+    <String>Modifica a Precisão dos ataques de seus navios</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AgileGroup_Name</Label>
+    <String>[ICON=Stat_Agile_Icon]  Agil</String>
+  </StringTable>
+  <StringTable>
+    <Label>AgileGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Agile1_Name</Label>
+    <String>[ICON=Stat_Agile_Icon]  Agil (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Agile1_Dec</Label>
+    <String>Os navios são mais difíceis de serem atingidos</String>
+  </StringTable>
+  <StringTable>
+    <Label>Agile2_Name</Label>
+    <String>[ICON=Stat_Agile_Icon]  Agil (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Agile2_Dec</Label>
+    <String>Os navios são ligeiramente mais difíceis de serem atingidos</String>
+  </StringTable>
+  <StringTable>
+    <Label>Agile3_Name</Label>
+    <String>[ICON=Stat_Agile_Icon]  Lentos (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Agile3_Dec</Label>
+    <String>Os navios são ligeiramente mais fáceis de serem atingidos</String>
+  </StringTable>
+  <StringTable>
+    <Label>Agile4_Name</Label>
+    <String>[ICON=Stat_Agile_Icon]  Lentos (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Agile4_Dec</Label>
+    <String>Os navios são mais fáceis de serem atingidos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResilientGroup_Name</Label>
+    <String>[ICON=Stat_Resilient_Icon]  Resiliente</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResilientGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Resilient1_Name</Label>
+    <String>[ICON=Stat_Resilient_Icon]  Resiliente(+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Resilient1_Dec</Label>
+    <String>Modifica a rapidez com que seus navios são reparados após a batalha</String>
+  </StringTable>
+  <StringTable>
+    <Label>Resilient2_Name</Label>
+    <String>[ICON=Stat_Resilient_Icon]  Resiliente (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Resilient2_Dec</Label>
+    <String>Modifica a rapidez com que seus navios são reparados após a batalha</String>
+  </StringTable>
+  <StringTable>
+    <Label>Resilient3_Name</Label>
+    <String>[ICON=Stat_Resilient_Icon]  Frágil (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Resilient3_Dec</Label>
+    <String>Modifica a rapidez com que seus navios são reparados após a batalha</String>
+  </StringTable>
+  <StringTable>
+    <Label>Resilient4_Name</Label>
+    <String>[ICON=Stat_Resilient_Icon]  Frágil (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Resilient4_Dec</Label>
+    <String>Modifica a rapidez com que seus navios são reparados após a batalha</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AdventuresomeGroup_Name</Label>
+    <String>[ICON=Stat_Adventure_Icon]  Aventureiro</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdventuresomeGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Adventuresome1_Name</Label>
+    <String>[ICON=Stat_Adventure_Icon]  Aventureiro (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Adventuresome1_Dec</Label>
+    <String>Modifica a distância que seus navios podem percorrer de suas fronteiras</String>
+  </StringTable>
+  <StringTable>
+    <Label>Adventuresome2_Name</Label>
+    <String>[ICON=Stat_Adventure_Icon]  Aventureiro (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Adventuresome2_Dec</Label>
+    <String>Modifica a distância que seus navios podem percorrer de suas fronteiras</String>
+  </StringTable>
+  <StringTable>
+    <Label>Adventuresome3_Name</Label>
+    <String>[ICON=Stat_Adventure_Icon]  Cauteloso (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Adventuresome3_Dec</Label>
+    <String>Modifica a distância que seus navios podem percorrer de suas fronteiras</String>
+  </StringTable>
+  <StringTable>
+    <Label>Adventuresome4_Name</Label>
+    <String>[ICON=Stat_Adventure_Icon]  Cauteloso (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Adventuresome4_Dec</Label>
+    <String>Modifica a distância que seus navios podem percorrer de suas fronteiras</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LikeableGroup_Name</Label>
+    <String>[ICON=Stat_Likable_Icon]  Agradável</String>
+  </StringTable>
+  <StringTable>
+    <Label>LikeableGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Likeable1_Name</Label>
+    <String>[ICON=Stat_Likable_Icon]  Agradável (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Likeable1_Dec</Label>
+    <String>Modifica a atitude dos outros jogadores em relação a você</String>
+  </StringTable>
+  <StringTable>
+    <Label>Likeable2_Name</Label>
+    <String>[ICON=Stat_Likable_Icon]  Agradável (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Likeable2_Dec</Label>
+    <String>Modifica a atitude dos outros jogadores em relação a você</String>
+  </StringTable>
+  <StringTable>
+    <Label>Likeable3_Name</Label>
+    <String>[ICON=Unlikeable_Ability_Icon]  Desagradável (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Likeable3_Dec</Label>
+    <String>Modifica a atitude dos outros jogadores em relação a você</String>
+  </StringTable>
+  <StringTable>
+    <Label>Likeable4_Name</Label>
+    <String>[ICON=Unlikeable_Ability_Icon]  Desagradável (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Likeable4_Dec</Label>
+    <String>Modifica a atitude dos outros jogadores em relação a você</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ObservantGroup_Name</Label>
+    <String>[ICON=Stat_Observant_Icon]  Observador</String>
+  </StringTable>
+  <StringTable>
+    <Label>ObservantGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Observant1_Name</Label>
+    <String>[ICON=Stat_Observant_Icon]  Observador (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Observant1_Dec</Label>
+    <String>Modifica o alcance visível em torno de seus navios</String>
+  </StringTable>
+  <StringTable>
+    <Label>Observant2_Name</Label>
+    <String>[ICON=Stat_Observant_Icon]  Observador (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Observant2_Dec</Label>
+    <String>Modifica o alcance visível em torno de seus navios</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FastGroup_Name</Label>
+    <String>[ICON=Stat_Fast_Icon]  Rápido</String>
+  </StringTable>
+  <StringTable>
+    <Label>FastGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Fast1_Name</Label>
+    <String>[ICON=Stat_Fast_Icon]  Rápido (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Fast1_Dec</Label>
+    <String>Modifica a distância que seus navios podem percorrer em cada curva</String>
+  </StringTable>
+  <StringTable>
+    <Label>Fast2_Name</Label>
+    <String>[ICON=Stat_Fast_Icon]  Rápido (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Fast2_Dec</Label>
+    <String>Modifica a distância que seus navios podem percorrer em cada curva</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OrganizedGroup_Name</Label>
+    <String>[ICON=Stat_Organized_Icon]  Organizado</String>
+  </StringTable>
+  <StringTable>
+    <Label>OrganizedGroup_Dec</Label>
+    <String>Group Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Organized1_Name</Label>
+    <String>[ICON=Stat_Organized_Icon]  Organizado (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Organized1_Dec</Label>
+    <String>Modifica quantos navios você pode ter em uma frota</String>
+  </StringTable>
+  <StringTable>
+    <Label>Organized2_Name</Label>
+    <String>[ICON=Stat_Organized_Icon]  Organizado (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Organized2_Dec</Label>
+    <String>Modifica quantos navios você pode ter em uma frota</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnlimitedRange1_Name</Label>
+    <String>Alcance Ilimitado</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnlimitedRange1_Dec</Label>
+    <String>Não disponível para jogadores, piratas e monstros somente.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PirateGold1_Name</Label>
+    <String>[ICON=Stat_Economical_Icon]  Riqueza misteriosa</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateGold1_Dec</Label>
+    <String>Não disponível para jogadores, piratas e monstros somente.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PirateSmarts1_Name</Label>
+    <String>[ICON=Stat_Clever_Icon]  Conhecimento oculto</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateSmarts1_Dec</Label>
+    <String>Não disponível para jogadores, piratas e monstros somente.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PirateBuilding1_Name</Label>
+    <String>[ICON=Stat_Productive_Icon]  Recursos desconhecidos</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateBuilding1_Dec</Label>
+    <String>Não disponível para jogadores, piratas e monstros somente.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MonsterBuilding1_Name</Label>
+    <String>[ICON=Stat_Productive_Icon]  Recursos desconhecidos</String>
+  </StringTable>
+  <StringTable>
+    <Label>MonsterBuilding1_Dec</Label>
+    <String>Não disponível para jogadores, piratas e monstros somente.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TutorialRace_Name</Label>
+    <String>[ICON=Stat_Productive_Icon]  Recursos desconhecidos</String>
+  </StringTable>
+  <StringTable>
+    <Label>TutorialRace_Dec</Label>
+    <String>Não disponível para o jogador, usado para nerfar Tutorial Raças</String>
+  </StringTable>
+ 
+ 
+</StringTableList>

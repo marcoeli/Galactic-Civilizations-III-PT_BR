@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- DLC2_ShipStyleSetText.xml -->
+ 
+  <StringTable>
+    <Label>DreadLordsShipStyleSet_Name</Label>
+    <String>Pirate Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PeacekeeperShipStyleSet_Name</Label>
+    <String>Peeacekeeper Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SpaceMonsterShipStyleSet_Name</Label>
+    <String>Space Monster Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MegaPirateShipStyleSet_Name</Label>
+    <String>Pirate Ship Style</String>
+  </StringTable>
+ 
+</StringTableList>

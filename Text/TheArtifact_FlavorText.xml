@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- TheArtifact_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>TheArtifact_TheArtifact_TheArtifact_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>A strange Precursor Artifact has appeared out of a tear in spacetime near the {PLAYERFACTION:3}. It has begun emitting an energy field that seems to be greatly increasing their power. This effect seems to be growing and we fear it will not stop. Others have attempted to destroy the Artifact and failed miserably. We may need to destroy the {PLAYERFACTIONLONG:3} before the Artifact turns them into a race of gods.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TheArtifact_TheArtifact_TheArtifact_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must try to befriend them immediately, and make sure they do not consider us a threat.
+[COLOR=BenevolentBlue](Benevolent +30, +5 Diplomacy)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TheArtifact_TheArtifact_TheArtifact_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We need to be wary but there's no need to start a war. However, we shall prepare for the worse. [COLOR=PragmaticGold](Pragmatic +30, +25% Planetary Defense)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TheArtifact_TheArtifact_TheArtifact_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must crush them before they become too powerful to stop. [COLOR=WarRed](Malevolent +30, +15% Military Manufacturing)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

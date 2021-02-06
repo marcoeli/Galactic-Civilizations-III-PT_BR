@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- FactionText.xml -->
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_TERRAN_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_TERRAN_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_TERRAN_LeaderName</Label>
+    <String>DL Bradley</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_TERRAN_Dec</Label>
+    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_TERRAN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_TERRAN_HomeworldName</Label>
+    <String>SolSystem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_TERRAN_Callsign</Label>
+    <String>T.A.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_TERRAN_StartupTitle</Label>
+    <String>Explorers in a Hostile Universe</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_TERRAN_StartupDescription</Label>
+    <String>Despite being the youngest race in the galaxy, the Terrans are perhaps the most dangerous. Notably, it was their invention of the hyperdrive, and decision to spread it to their neighbors, which led to the current arms race the galaxy finds itself in. 
+
+Although Terrans present themselves as a peaceful and diplomatic people, when they are drawn into warfare, they possess an intuitive flair for violence, and extreme willingness to exercise it. Although Terrans find nothing strange about this dichotomy, many of their galactic peers regard it as alarming, and even duplicitous.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_TERRAN_StartupTraitsDescription</Label>
+    <String>Terrans are naturally adventurous, with fast, long ranging ships. Their production capacity and diplomatic abilities are well regarded. Their ability to field large fleets is regarded with a bit more wariness.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_DRENGIN_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_DRENGIN_ShortName</Label>
+    <String>Drengin</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_DRENGIN_LeaderName</Label>
+    <String>Lord Kona</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_DRENGIN_Dec</Label>
+    <String>The Drengin are a profoundly evil and warlike civilization. Exceedingly clever and vicious, there are few beings capable of meeting a Drengin and not becoming its next meal.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_DRENGIN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_DRENGIN_HomeworldName</Label>
+    <String>DrengiSystem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_DRENGIN_Callsign</Label>
+    <String>D.E.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_DRENGIN_StartupTitle</Label>
+    <String>An Entire Galaxy to Conquer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_DRENGIN_StartupDescription</Label>
+    <String>The Drengin are one of the older races in the galaxy, with an internal history rich with conquest and bloodshed, dominating the lesser species of their planet. 
+
+Cruel, but inventive, many of their victims have discovered that the Drengin are not mindlessly stupid, and can even be quite creative when it comes to the application of evil. There are few ways to devour a slaveling that the Drengin haven't thought up, though most acknowledge that simple beatings are usually the more economically prudent option.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_FACTION_DRENGIN_StartupTraitsDescription</Label>
+    <String>Drengin soldiers are savagely effective at ground-based combat, and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slaveling revolts.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Torians_Name</Label>
+    <String>Torian Regime</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Torians_ShortName</Label>
+    <String>Torian</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Torians_LeaderName</Label>
+    <String>Tlas Kzientha</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Torians_Dec</Label>
+    <String>Twice made slaves of the Drengin Empire. The Torians now strive to rebuild their once great civilization. Though still untrusting of other races, they are willing to work with even the most undesirable forces to secure their future.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Torians_LeaderDec</Label>
+    <String>Now called the Unbreakable by his people because of his refusal to submit to nearly 10 years of Drengin imprisonment and torture.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Torians_HomeworldName</Label>
+    <String>TorusSystem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Torians_Callsign</Label>
+    <String>T.C.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Torians_StartupTitle</Label>
+    <String>Revolution on Toria</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Torians_StartupDescription</Label>
+    <String>The Terran 1st Fleet has returned from the pocket universe, and is tearing it's way toward Earth. For the first time in 10 years, the mighty Drengin Empire has a foe worthy of fear, and has begun recalling their most powerful ships, in an effort to stop the Terrans before it is too late.
+
+The Torian people have seized this opportunity, and once again thrown the newly weakened Drengin occupation forces from their home world, and seized the fleet for their own. Not one of their oppressors remains alive on Toria.
+
+Envoys from the Arcean Empire and the Terran Alliance have arrived in the Torian space. Will they be the allies Toria need to stay free forever?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Torians_StartupTraitsDescription</Label>
+    <String>The newly reborn Torian Regime has few assets, other than a small fleet of captured Drengin ships, and a willingness to work with just about anyone.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Arceans_Name</Label>
+    <String>Arcean Empire</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Arceans_ShortName</Label>
+    <String>Arcean</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Arceans_LeaderName</Label>
+    <String>Lord Verga</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Arceans_Dec</Label>
+    <String>The Acrean Empire is a noble race with a rich history of neutrality. Liberated by the Terran Alliance, they now strive to rebuild their Empire. Vowing to never be subjugated again, they now honor their warriors above all others.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Arceans_LeaderDec</Label>
+    <String>Lord Verga spent the last 10 years leading an underground resistance force and is now considered one of the greatest warriors in Arcean history.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Arceans_HomeworldName</Label>
+    <String>ArceaSystem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Arceans_Callsign</Label>
+    <String>A.E.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Arceans_StartupTitle</Label>
+    <String>Never broken, ever vigilant.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Arceans_StartupDescription</Label>
+    <String>The Arcean race was pushed to the brink of destruction by the Drengin.   Yet, with the help of the Terran Alliance, they have regained their home world and the chance to rebuild their once mighty Empire.
+
+ In the years of the Drengin occupation, the Arcean Resistance never stopped fighting. Their leader, Lord Verga, became a legend whose name struck fear into even the most brutal Drengin soldiers.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DLC_Arceans_StartupTraitsDescription</Label>
+    <String>The Arcean Empire was not left with many assets, just their home world and a few precious resources they liberated from the Drengin. They have come back from the brink, tougher, and more resilient than ever. 
+
+The Arcean people have a long history of nobility and neutrality, but the occupation has left them much less willing to forgive offenses or tolerate threats to their freedom.</String>
+  </StringTable>
+ 
+</StringTableList>

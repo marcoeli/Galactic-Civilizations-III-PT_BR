@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+
+	  <FlavorTextDef>
+		<InternalName>FIRST_CONTACT_MAIN</InternalName>
+		<FlavorTextOption>
+		  <Requirements>
+			<SpeakerFaction>FACTION_RESISTANCE</SpeakerFaction>
+		  </Requirements>
+		  <Text>Anuncie imediatamente suas intenções, {PLAYERFACTION:2}.</Text>
+		  <PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+		
+				<FlavorTextOption>
+		  <Requirements>
+			<SpeakerFaction>FACTION_RESISTANCE</SpeakerFaction>
+			<ListenerFaction>FACTION_DRENGIN</ListenerFaction>
+		  </Requirements>
+		  <Text>Veja quem é. Você já não nos caçou o suficiente, escória Drengin? </Text>
+		  <PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>	
+		
+		
+		<FlavorTextOption>
+		  <Requirements>
+			<SpeakerFaction>FACTION_RESISTANCE</SpeakerFaction>
+			<ListenerFaction>FACTION_TERRAN</ListenerFaction>
+		  </Requirements>
+		  <Text>Se não são nossos primos há muito escondidos. A galáxia é um pouco mais dura do que você se lembra?</Text>
+		  <PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>	
+   
+   	<FlavorTextOption>
+		  <Requirements>
+			<SpeakerFaction>FACTION_RESISTANCE</SpeakerFaction>
+			<ListenerFaction>FACTION_YOR</ListenerFaction>
+		  </Requirements>
+		  <Text>Veja quem é. Você já não nos caçou o suficiente, sua escória robô imunda? </Text>
+		  <PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>	
+	</FlavorTextDef>
+	
+	  <FlavorTextDef>
+	  <InternalName>FIRST_CONTACT_MAIN</InternalName>
+	   	<FlavorTextOption>
+		  <Requirements>
+			<SpeakerFaction>FACTION_ONXY_HIVE</SpeakerFaction>
+		  </Requirements>
+		  <Text>O que você quer de nós, caminhantes de superfície?</Text>
+		  <PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>	
+   </FlavorTextDef>
+   
+   	  <FlavorTextDef>
+	  <InternalName>FIRST_CONTACT_MAIN</InternalName>
+   	   	<FlavorTextOption>
+		  <Requirements>
+			<SpeakerFaction>FACTION_SYLNE</SpeakerFaction>
+		  </Requirements>
+		  <Text>Veja, outra das bizarras formas multicelulares que esta galáxia parece preferir.</Text>
+		  <PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>	
+	</FlavorTextDef>
+	
+</FlavorTextDefs>

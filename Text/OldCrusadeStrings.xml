@@ -1,0 +1,2698 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
+
+<StringTable>
+    <Label>MasterIndustrialSpecialization1_Name</Label>
+    <String>Worker Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterIndustrialSpecialization1_ShortDec</Label>
+    <String>Raises the level of all our Workers</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterIndustrialSpecialization1_Dec</Label>
+    <String>Exotic new manufacturing technology requires new training and much, much better safety equipment. When we do this we can improve the effectiveness of all our Workers.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterIndustrialSpecialization_Name</Label>
+    <String>Worker Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterIndustrialSpecialization_ShortDec</Label>
+    <String>Raises the level of all our Workers</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterIndustrialSpecialization_Dec</Label>
+    <String>Exotic new manufacturing technology requires new training and much, much better safety equipment. When we do this we can improve the effectiveness of all our Workers.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterIndustrialSpecialization2_Name</Label>
+    <String>Engineering Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterIndustrialSpecialization2_ShortDec</Label>
+    <String>Raises the level of all our Engineers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterIndustrialSpecialization2_Dec</Label>
+    <String>Modifying our recruitment efforts to find candidates comfortable performing math in microgravity should result in faster, more talented Engineers.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>MasterConstructionOptimization1_Name</Label>
+    <String>Efficient Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterConstructionOptimization1_ShortDec</Label>
+    <String>Reduces manufacturing cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterConstructionOptimization1_Dec</Label>
+    <String>We resisted letting the accountants into the manufacturing centers for a long time, because the work is dangerous and also because no-one likes them. But once they found a way to sneak in, they did admittedly find several ways to cut manufacturing costs.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterConstructionOptimization_Name</Label>
+    <String>Construction Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterConstructionOptimization_ShortDec</Label>
+    <String>Improves manufacturing buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterConstructionOptimization_Dec</Label>
+    <String>Seemingly small improvements can have a big effect when applied to large projects, and we're working on some very large projects now indeed.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterConstructionOptimization2_Name</Label>
+    <String>Sustainable Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterConstructionOptimization2_ShortDec</Label>
+    <String>Reduces maintenance costs of manufacturing plants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterConstructionOptimization2_Dec</Label>
+    <String>Factories and manufacturing plants generate a lot of toxic byproducts which are expensive to dispose of. By making our manufacturing processes even a bit less wasteful, we expect to see broad cost savings over the life of a plant.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>MasterResearchOptimization1_Name</Label>
+    <String>Optimized Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterResearchOptimization1_ShortDec</Label>
+    <String>Increases research capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterResearchOptimization1_Dec</Label>
+    <String>We've improved and made more efficient many of our research practices, which should lead to faster research, or at the very least, less researchers complaining about red tape.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterResearchOptimization_Name</Label>
+    <String>Research Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterResearchOptimization_ShortDec</Label>
+    <String>Improves research buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterResearchOptimization_Dec</Label>
+    <String>Researchers are great at inventing things, but surprisingly bad at the business of inventing things. A number of inefficient research practices have developed which we really need to improve upon.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterResearchOptimization2_Name</Label>
+    <String>Research Cost Reduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterResearchOptimization2_ShortDec</Label>
+    <String>Reduces the manufacturing cost of research improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterResearchOptimization2_Dec</Label>
+    <String>In the rush to begin processing and analyzing all the new data our rapid expansion has provided, a number of horribly wasteful research practices became commonplace. By eliminating those we should be able to make our research quite a bit cheaper.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterResearchOptimization3_Name</Label>
+    <String>Sustainable Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterResearchOptimization3_ShortDec</Label>
+    <String>Reduces maintenance costs of research improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterResearchOptimization3_Dec</Label>
+    <String>Research labs are full of expensive toys which are in a near constant state of breaking down. By considering how to do some of this more sustainably, we expect to see broad cost savings over the life of a lab.</String>
+  </StringTable>
+ 
+ <StringTable>
+    <Label>MasterXenoResearchSpecialization2_Name</Label>
+    <String>Research Conclave</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterXenoResearchSpecialization2_ShortDec</Label>
+    <String>Reduces the manufacturing cost of research improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterXenoResearchSpecialization2_Dec</Label>
+    <String>In the rush to begin processing and analyzing all the new data our rapid expansion has provided, a number of horribly wasteful research practices became commonplace. By eliminating those we should be able to make our research quite a bit cheaper.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>MasterTechnologicalFocus1_Name</Label>
+    <String>Focused Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterTechnologicalFocus1_ShortDec</Label>
+    <String>Increases Research capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterTechnologicalFocus1_Dec</Label>
+    <String>By focusing our efforts on pure research, we have been able to get a significant improvement on the rate of new discoveries.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterTechnologicalFocus_Name</Label>
+    <String>Technological Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterTechnologicalFocus_ShortDec</Label>
+    <String>Improves research buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterTechnologicalFocus_Dec</Label>
+    <String>The lab equipment needed to research some of these new fields is incredibly expensive and esoteric. Specializing our research efforts may be necessary to make the most rapid advances.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterTechnologicalFocus2_Name</Label>
+    <String>Research Production Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterTechnologicalFocus2_ShortDec</Label>
+    <String>Reduces the Cost of Research improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterTechnologicalFocus2_Dec</Label>
+    <String>By focusing our efforts on our research infrastructure, we have been able to cut down the cost of building new facilities.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterTechnologicalFocus3_Name</Label>
+    <String>Research Economics</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterTechnologicalFocus3_ShortDec</Label>
+    <String>Reduces Maintenance of Research improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterTechnologicalFocus3_Dec</Label>
+    <String>By focusing how our researchers work and eliminating some of the more wasteful experiments, we have been able to significantly reduce the maintenance of our research facilities.</String>
+  </StringTable>
+ 
+   <StringTable>
+    <Label>MasterPlanetarySpecialization1_Name</Label>
+    <String>Soil Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPlanetarySpecialization1_ShortDec</Label>
+    <String>Increases food production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPlanetarySpecialization1_Dec</Label>
+    <String>Our farming technology has improved dramatically, and we're beginning to see enhanced crop yields as a result. The carrots still have that weird taste, but we're working on it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterPlanetarySpecialization_Name</Label>
+    <String>Planetary Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPlanetarySpecialization_ShortDec</Label>
+    <String>Improves farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPlanetarySpecialization_Dec</Label>
+    <String>We've made great strides with our colonization techniques in the past few years, and can now begin considering specific areas we'd like to improve upon.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterPlanetarySpecialization2_Name</Label>
+    <String>Accelerated Growth</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPlanetarySpecialization2_ShortDec</Label>
+    <String>Increases population growth.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPlanetarySpecialization2_Dec</Label>
+    <String>Now that we're able to modulate the effects an alien world has on fertility, our population growth rates are beginning to trend upwards. More babies for now, but more workers soon enough.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterPlanetarySpecialization3_Name</Label>
+    <String>Enhanced Production</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPlanetarySpecialization3_ShortDec</Label>
+    <String>Increases production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPlanetarySpecialization3_Dec</Label>
+    <String>We're no longer just surviving on new worlds, but thriving there. Thanks to improved nutrient yields and preservation techniques, our workers can work longer and harder, improving the production capacity of our entire civilization.</String>
+  </StringTable>
+ 
+ <StringTable>
+    <Label>MasterFarmingFocus1_Name</Label>
+    <String>Nutritional Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterFarmingFocus1_ShortDec</Label>
+    <String>Increases food production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterFarmingFocus1_Dec</Label>
+    <String>The microbes present in alien soil react differently to nutrients than we're used to, and it's taken awhile to fine tune our fertilization techniques to keep our own plants fed. But now that we have, we expect to see even greater food production.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterFarmingFocus_Name</Label>
+    <String>Farming Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterFarmingFocus_ShortDec</Label>
+    <String>Improves farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterFarmingFocus_Dec</Label>
+    <String>Although all this attention we pay to improving our farming techniques sometimes make our farmers uncomfortable - they do get set in their ways - the improvements to our food production capacity are too great to ignore.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterFarmingFocus2_Name</Label>
+    <String>Farm Adaptability Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterFarmingFocus2_ShortDec</Label>
+    <String>Reduces cost of farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterFarmingFocus2_Dec</Label>
+    <String>We've finally homed in on the species and strains of plants which adapt to the widest range of environments. By focusing our production efforts on these crops, the startup costs for any farm should now be much more manageable.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterFarmingFocus3_Name</Label>
+    <String>Farm Management Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterFarmingFocus3_ShortDec</Label>
+    <String>Reduces maintenance costs of farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterFarmingFocus3_Dec</Label>
+    <String>Farmers throughout our civilization are tackling unique agricultural challenges every day. By implementing civilization-wide information sharing systems, we can spread our best practices further, reducing farming operational costs everywhere.</String>
+  </StringTable>
+ 
+ <StringTable>
+    <Label>MasterAgriculturalMastery1_Name</Label>
+    <String>Master Farmers</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterAgriculturalMastery1_ShortDec</Label>
+    <String>Increases food production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterAgriculturalMastery1_Dec</Label>
+    <String>Our food production capacity has taken another step forward. Also, we finally gotten that weird taste out of the carrots, but it turns out that everyone now likes it, so we had to put it back.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterAgriculturalMastery_Name</Label>
+    <String>Agricultural Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterAgriculturalMastery_ShortDec</Label>
+    <String>Improves farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterAgriculturalMastery_Dec</Label>
+    <String>Our farms now provide an almost unlimited bounty, the food doing much of the hard work itself. Admittedly, the first time you see a plant or animal self-harvest is a little grim, and school field trips have certainly gotten a lot harder.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterAgriculturalMastery2_Name</Label>
+    <String>Abundance</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterAgriculturalMastery2_ShortDec</Label>
+    <String>Farms increase population growth.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterAgriculturalMastery2_Dec</Label>
+    <String>We have such an excessive quantity of food now that many of our people have taken it almost as a challenge to create families capable of consuming it all.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>MasterInterstellarSpecialization1_Name</Label>
+    <String>Hyperdrive Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterInterstellarSpecialization1_ShortDec</Label>
+    <String>Increases the speed of all ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterInterstellarSpecialization1_Dec</Label>
+    <String>After analyzing how our first generation of hyperdrives have (and haven't) worked, we've come up with a number of ways to improve our ships' speeds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterInterstellarSpecialization_Name</Label>
+    <String>Interstellar Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterInterstellarSpecialization_ShortDec</Label>
+    <String>Improves ship systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterInterstellarSpecialization_Dec</Label>
+    <String>Now that we have a bit of experience sending ships out into the darkness and having most of them come back, we've come up with a number of ways to improve our equipment and navigational techniques.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterInterstellarSpecialization2_Name</Label>
+    <String>Transportation Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterInterstellarSpecialization2_ShortDec</Label>
+    <String>Reduces the Mass of Colony and Constuctor modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterInterstellarSpecialization2_Dec</Label>
+    <String>Pushing large Support Modules through space is inherently wasteful, by miniaturizing and optimizing the larger components, we can fit more on a ship, allowing them to go farther and faster than ever.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Master_ShortDec</Label>
+    <String>0</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterInterstellarSpecialization3_Name</Label>
+    <String>Advanced Recirculation</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterInterstellarSpecialization3_ShortDec</Label>
+    <String>Increases the range of all ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterInterstellarSpecialization3_Dec</Label>
+    <String>After listening to the complaints and coughs of our returning crews, we've improved the life support recirculation systems of our ships, which should marginally increase their effective range.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>MasterIonOptimization1_Name</Label>
+    <String>High Output Drives</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterIonOptimization1_ShortDec</Label>
+    <String>Increases the speed of all ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterIonOptimization1_Dec</Label>
+    <String>The ion capture technology of our Ion Drives requires a fiendish amount of tuning that our ship's engineers are only just learning to automate. Once this work is done, we should see slightly higher speeds across our fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterIonOptimization_Name</Label>
+    <String>Ion Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterIonOptimization_ShortDec</Label>
+    <String>Improves drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterIonOptimization_Dec</Label>
+    <String>Now that we've seen them in wide-scale use, we've identified a number of ways we can make our new Ion Drive systems more efficient.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterIonOptimization2_Name</Label>
+    <String>Drive Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterIonOptimization2_ShortDec</Label>
+    <String>Reduces the cost of drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterIonOptimization2_Dec</Label>
+    <String>Hyperfield generators are no longer the rare pieces of equipment they once were, and we're beginning to see efficiencies of scale that have reduced the unit-cost for each one.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterIonOptimization3_Name</Label>
+    <String>Drive Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterIonOptimization3_ShortDec</Label>
+    <String>Reduces the mass of drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterIonOptimization3_Dec</Label>
+    <String>Every year our hyperdrives get more efficient and smaller. Less room for the engines means more room for everything else, benefiting every type of ship we could conceive of.</String>
+  </StringTable>
+ 
+ <StringTable>
+    <Label>MasterWarpFieldFocus1_Name</Label>
+    <String>Warp Field Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWarpFieldFocus1_ShortDec</Label>
+    <String>Increases the speed of all ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWarpFieldFocus1_Dec</Label>
+    <String>By tuning the arrangement of stacked hyperfields in a variety of dimensions, we've found some surprisingly cheap ways to improve the speed of our Warp Drives.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterWarpFieldFocus_Name</Label>
+    <String>Warp Field Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWarpFieldFocus_ShortDec</Label>
+    <String>Improves drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWarpFieldFocus_Dec</Label>
+    <String>Warp field technology is incredibly complicated, and has in more than a few cases, caused a researcher's brains to melt a little bit. But now that we have some experience working with them, we've identified a number of ways to improve their design.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterWarpFieldFocus2_Name</Label>
+    <String>Field Generator Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWarpFieldFocus2_ShortDec</Label>
+    <String>Reduces the cost of drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWarpFieldFocus2_Dec</Label>
+    <String>Now that we're using stacked fields and multi-field generators, even the most minuscule improvement in cost-efficiency can lead to significant savings.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterWarpFieldFocus3_Name</Label>
+    <String>Field Generator Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWarpFieldFocus3_ShortDec</Label>
+    <String>Reduces the mass of drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWarpFieldFocus3_Dec</Label>
+    <String>With a bit of experience working with the effects of stacked hyperfields, we've determined that we were stacking them inefficiently. Smaller field generators can achieve the same effects as their fatter predecessors.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterHyperwarpMastery1_Name</Label>
+    <String>Master Drive Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHyperwarpMastery1_ShortDec</Label>
+    <String>Reduces the cost of drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHyperwarpMastery1_Dec</Label>
+    <String>No other civilization in the galaxy can match ours for the ease and efficiency with which we build our drives. And still human ingenuity can find ways to make them cheaper.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterHyperwarpMastery_Name</Label>
+    <String>Hyperwarp Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHyperwarpMastery_ShortDec</Label>
+    <String>Improves drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHyperwarpMastery_Dec</Label>
+    <String>Our ships are already the fastest in the galaxy, our engineers heralded as heroes wherever they go. Fortunately for us, they don't like going out much, instead preferring to keep looking for more improvements to make to their precious engines.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterHyperwarpMastery2_Name</Label>
+    <String>Drive Mass Reduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHyperwarpMastery2_ShortDec</Label>
+    <String>Reduces the mass of drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHyperwarpMastery2_Dec</Label>
+    <String>We have all but mastered hyperfield technology, and are now capable of wringing the most possible speed from even the smallest engines.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>MasterSensorOptimization1_Name</Label>
+    <String>Sensor Amplification</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterSensorOptimization1_ShortDec</Label>
+    <String>Increases sensor range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterSensorOptimization1_Dec</Label>
+    <String>The latest generation of nano-processors allow us to more rapidly process the massive volumes of information our sensors return, improving the overall effectiveness of our sensor systems.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterSensorOptimization_Name</Label>
+    <String>Sensor Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterSensorOptimization_ShortDec</Label>
+    <String>Improves sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterSensorOptimization_Dec</Label>
+    <String>A concentrated effort to optimize our sensor systems could lead to a number of different improvements or efficiencies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterSensorOptimization2_Name</Label>
+    <String>Sensors Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterSensorOptimization2_ShortDec</Label>
+    <String>Reduces cost of sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterSensorOptimization2_Dec</Label>
+    <String>The hyperfield detectors which our sensors use were originally cobbled together from left over drives. Now that we have dedicated sensor manufacturing equipment, we can expect to see some significant cost savings.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterSensorOptimization3_Name</Label>
+    <String>Sensor Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterSensorOptimization3_ShortDec</Label>
+    <String>Reduces mass of sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterSensorOptimization3_Dec</Label>
+    <String>Our earliest sensors were crude, jury-rigged things, and if we begin swapping out their parts for dedicated sensor-specific equipment, we should see significant weight savings.</String>
+  </StringTable>
+ 
+ 
+ <StringTable>
+    <Label>MasterEnergyFieldFocus1_Name</Label>
+    <String>Sensor Field Augmentation</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEnergyFieldFocus1_ShortDec</Label>
+    <String>Increases sensor range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEnergyFieldFocus1_Dec</Label>
+    <String>Our technicians have found that by turning one of the knobs up, our sensor systems can see a bit further. We feel kind of dumb for not realizing this before.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterEnergyFieldFocus_Name</Label>
+    <String>Energy Field Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEnergyFieldFocus_ShortDec</Label>
+    <String>Improves sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEnergyFieldFocus_Dec</Label>
+    <String>As is usually the case when equipment is sent to the field, the technicians who actually use our sensors soon came up with a number of different ways to improve their efficiency and effectiveness.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterEnergyFieldFocus2_Name</Label>
+    <String>Sensor Efficacy Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEnergyFieldFocus2_ShortDec</Label>
+    <String>Reduces cost of sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEnergyFieldFocus2_Dec</Label>
+    <String>Our sensor systems had several redundant parts, which when stripped out has led to the production of cheaper, more efficient systems. The accountants are all very excited.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterEnergyFieldFocus3_Name</Label>
+    <String>High Density Sensors</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEnergyFieldFocus3_ShortDec</Label>
+    <String>Reduces mass of sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEnergyFieldFocus3_Dec</Label>
+    <String>The creation of high-density field detection components should lead to more compact sensors, leaving our ship designers more room to install guns. Everyone wins. Except the people the guns are pointed at.</String>
+  </StringTable>
+ 
+ 
+  <!--<StringTable>
+    <Label>MasterSubspaceSensors_Name</Label>
+    <String>Subspace Sensors</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterSubspaceSensors_ShortDec</Label>
+    <String>Allows construction of exotic sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterSubspaceSensors_Dec</Label>
+    <String>Subspace is the 12-dimension space that lies at right angles to and a little bit behind our universe, and it took us a very long time to figure out how to look at it. The upshot is that we can now build a new generation of very powerful sensors.</String>
+  </StringTable>-->
+ 
+ 
+  <StringTable>
+    <Label>MasterSensorMastery1_Name</Label>
+    <String>Sensor Simplification</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterSensorMastery1_ShortDec</Label>
+    <String>Reduces cost of sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterSensorMastery1_Dec</Label>
+    <String>When a ragtag group of science-accountants teamed up with the goal of identifying cost savings in our most advanced sensor systems, few believed they had a chance. Many openly mocked them. Some people spit on them. But somehow they managed it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterSensorMastery_Name</Label>
+    <String>Sensor Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterSensorMastery_ShortDec</Label>
+    <String>Improves sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterSensorMastery_Dec</Label>
+    <String>We don't anticipate any further increases in the viewing range of our sensors, not until we leave this universe for another one. But we can certainly make them a little more efficient.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterSensorMastery2_Name</Label>
+    <String>Sensor Mass Reduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterSensorMastery2_ShortDec</Label>
+    <String>Reduces mass of sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterSensorMastery2_Dec</Label>
+    <String>A careful analysis of our newest sensor systems has revealed that several of their components don't technically have to exist in this universe. By shifting their workload into another plane, we can reduce the amount of mass we have to lug around in ours.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterTargetingAssistTech_Name</Label>
+    <String>Targeting Assist</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterTargetingAssistTech_ShortDec</Label>
+    <String>Allows construction of targeting and stealth modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterTargetingAssistTech_Dec</Label>
+    <String>A study of how our ships have performed in combat has led to a number of improvements in our tactical targeting systems. At the same time, we've devised a system which should confuse enemy sensors.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterTargetingSupport_Name</Label>
+    <String>Targeting Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterTargetingSupport_ShortDec</Label>
+    <String>Allows construction of targeting and jamming modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterTargetingSupport_Dec</Label>
+    <String>We've adapted our tactical sensor improvements into support modules, capable of allowing a single ship to provide sensor accuracy and jamming benefits to an entire fleet of vessels.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterLifeSupportOptimization1_Name</Label>
+    <String>Improved Life Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterLifeSupportOptimization1_ShortDec</Label>
+    <String>Increases ship range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterLifeSupportOptimization1_Dec</Label>
+    <String>Our experience with the rigors of space travel, and the shrieked radio transmissions of the few who fell to the rigors of space travel, have revealed a number of small improvements we might be able to make to our existing life support systems.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterLifeSupportOptimization_Name</Label>
+    <String>Life Support Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterLifeSupportOptimization_ShortDec</Label>
+    <String>Improves life support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterLifeSupportOptimization_Dec</Label>
+    <String>Everyone in the navy is very excited that we're trying to optimize our life support systems, and would certainly cheer if they weren't conserving their air.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterLifeSupportOptimization2_Name</Label>
+    <String>Life Support Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterLifeSupportOptimization2_ShortDec</Label>
+    <String>Reduces life support cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterLifeSupportOptimization2_Dec</Label>
+    <String>Reducing the cost of building life support systems is one of those things we often have to do that we don't want to advertise too much. It's hard enough finding naval recruits as it is.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterLifeSupportOptimization3_Name</Label>
+    <String>Life Support Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterLifeSupportOptimization3_ShortDec</Label>
+    <String>Reduces life support mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterLifeSupportOptimization3_Dec</Label>
+    <String>By minimizing the amount of weight and space our life support systems take up, we leave more room for our life reduction systems, which is what we're now calling guns.</String>
+  </StringTable>
+ 
+ <StringTable>
+    <Label>MasterPromethionSupportSystems_Name</Label>
+    <String>Promethion Support Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPromethionSupportSystems_ShortDec</Label>
+    <String>Allows construction of exotic life support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPromethionSupportSystems_Dec</Label>
+    <String>The Promethion Support System extends our field life support further, with all the requirements for a living organism - oxygen, water, and food - now piped directly into that organism rather than left to float around and get on the equipment.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterExplorationExtention_Name</Label>
+    <String>Exploration Extension</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterExplorationExtention_ShortDec</Label>
+    <String>Allows construction of advanced fleet life support modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterExplorationExtention_Dec</Label>
+    <String>We've adapted the latest in Promethion support field technology to be used by our fleet-support vessels, thus increasing an entire fleet's travel range. Additionally, we've made significant improvements to our starbase life support extension modules.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterOrbitalSpecialization1_Name</Label>
+    <String>Skilled Starship Construction</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterOrbitalSpecialization1_ShortDec</Label>
+    <String>Increases Shipyard manufacturing.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterOrbitalSpecialization1_Dec</Label>
+    <String>You can't put just anyone in a space suit and get them to build things in orbit. It turns out that most people don't understand what an orbit is. Some improved training programs should dramatically improve our orbital manufacturing capability.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterOrbitalSpecialization_Name</Label>
+    <String>Orbital Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterOrbitalSpecialization_ShortDec</Label>
+    <String>Improves logistics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterOrbitalSpecialization_Dec</Label>
+    <String>Now that we've watched a few construction projects accidentally collapse on themselves, we've identified a number of possible improvements we can make to our orbital construction techniques.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterOrbitalSpecialization3_Name</Label>
+    <String>Improved Logistics</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterOrbitalSpecialization3_ShortDec</Label>
+    <String>Increases Logistics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterOrbitalSpecialization3_Dec</Label>
+    <String>Getting material to the right orbit at the right time is something we're only just coming to grips with. It turns out that orbital plane change maneuvers are really expensive. But once we scale this up, our logistical ability should greatly improve.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterOrbitalSpecialization2_Name</Label>
+    <String>Storage Maximization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterOrbitalSpecialization2_ShortDec</Label>
+    <String>Increases hull capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterOrbitalSpecialization2_Dec</Label>
+    <String>Ironically enough, space is at a premium in space, inside of our hulls at least. Even small improvements in packing efficiencies are worth the effort of hunting them down.</String>
+  </StringTable>
+ 
+ <StringTable>
+    <Label>MasterZeroGravityOptimization1_Name</Label>
+    <String>Hull Reinforcement</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterZeroGravityOptimization1_ShortDec</Label>
+    <String>Increases hull hit points.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterZeroGravityOptimization1_Dec</Label>
+    <String>After donating a few hulls for weapons practice, we were able to see the structural damage inflicted on them, and identify structural reinforcements that should toughen each ship substantially.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterZeroGravityOptimization_Name</Label>
+    <String>Zero Gravity Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterZeroGravityOptimization_ShortDec</Label>
+    <String>Improves hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterZeroGravityOptimization_Dec</Label>
+    <String>We took a big step forward with our most recent adoption of true zero-gravity construction practices. Now, after a few trial runs and one teensy little accident, our engineers have identified further areas for improvement.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterZeroGravityOptimization3_Name</Label>
+    <String>Shipyard Efficiency</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterZeroGravityOptimization3_ShortDec</Label>
+    <String>Reduces cost of hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterZeroGravityOptimization3_Dec</Label>
+    <String>Worksite planning in an orbital environment is a seriously complicated business, but now that we've got the hang of it, we should see significant cost savings for every hull we construct.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterZeroGravityOptimization2_Name</Label>
+    <String>High Capacity Hulls</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterZeroGravityOptimization2_ShortDec</Label>
+    <String>Increases hull capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterZeroGravityOptimization2_Dec</Label>
+    <String>We're now able to build hollow structural elements still capable of handling very high compression loads. By maximizing the use of these and routing various ancillary ship systems through the cavities, we can save space for mission critical equipment.</String>
+  </StringTable>
+ 
+ <StringTable>
+    <Label>MasterOrbitalConstructionFocus1_Name</Label>
+    <String>Hardened Hulls</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterOrbitalConstructionFocus1_ShortDec</Label>
+    <String>Increases hull hit points.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterOrbitalConstructionFocus1_Dec</Label>
+    <String>It seems counter-intuitive, but by introducing very small weaknesses in the molecular structure of our hulls, we can make them deformable in controlled ways, making our hulls quite a bit more resilient.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterOrbitalConstructionFocus_Name</Label>
+    <String>Orbital Construction Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterOrbitalConstructionFocus_ShortDec</Label>
+    <String>Improves hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterOrbitalConstructionFocus_Dec</Label>
+    <String>We're getting better and better at large scale construction with every passing day, and a number of more efficient design practices are beginning to show up on our engineers' drawing tables. Along with the offensive doodles which have always been there.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterOrbitalConstructionFocus3_Name</Label>
+    <String>Starship Manufacturing Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterOrbitalConstructionFocus3_ShortDec</Label>
+    <String>Reduces cost of hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterOrbitalConstructionFocus3_Dec</Label>
+    <String>The latest generation of self-propelled manufacturing equipment will allow our workers to maneuver inside of hulls with much greater ease, reducing the challenge and expense of construction.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterOrbitalConstructionFocus2_Name</Label>
+    <String>Hull Capacity Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterOrbitalConstructionFocus2_ShortDec</Label>
+    <String>Increases hull capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterOrbitalConstructionFocus2_Dec</Label>
+    <String>As our hulls grew ever larger, we began to lose some of the art of packing that our predecessors had. But now thanks to the scale of our ships, even very small improvements in packing can lead to more room for everything else.</String>
+  </StringTable>
+ 
+ <StringTable>
+    <Label>MasterHullMastery2_Name</Label>
+    <String>Master Shipwrights</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHullMastery2_ShortDec</Label>
+    <String>Reduces cost of hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHullMastery2_Dec</Label>
+    <String>That we build the best ships in the galaxy is undeniable, but that we do it so economically is what's really impressive. Our enemies have never been menaced so thriftily.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterHullMastery_Name</Label>
+    <String>Hull Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHullMastery_ShortDec</Label>
+    <String>Improves hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHullMastery_Dec</Label>
+    <String>We're still finding ways to improve our shipyards, even though they're already the envy of the civilized galaxy. In the uncivilized galaxy they're a bit less envied, but we've never gotten along with those guys anyways.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterHullMastery1_Name</Label>
+    <String>Hull Maximization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHullMastery1_ShortDec</Label>
+    <String>Increases hull capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHullMastery1_Dec</Label>
+    <String>Thanks to advances in the field of bristling, never before have our ships been so bristling with weapons. They could also bristle with other things we suppose.</String>
+  </StringTable>
+ 
+ <StringTable>
+    <Label>MasterCarrierFocus_Name</Label>
+    <String>Carrier Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCarrierFocus_ShortDec</Label>
+    <String>Improves carriers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCarrierFocus_Dec</Label>
+    <String>There's nothing like doing something a few times to see how terrible you are at it. After a few hilarious mishaps, we've identified a few ways we can improve our carrier operations.</String>
+  </StringTable>
+  
+   <StringTable>
+    <Label>MasterLogisticalOptimization1_Name</Label>
+    <String>Advanced Logistics</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterLogisticalOptimization1_ShortDec</Label>
+    <String>Increases Logistics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterLogisticalOptimization1_Dec</Label>
+    <String>Now that we've figured out some of the issues relativistic travel creates with our timekeeping and administration, we've been able to significantly improve our logistical capacity.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterLogisticalOptimization_Name</Label>
+    <String>Logistical Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterLogisticalOptimization_ShortDec</Label>
+    <String>Improves logistics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterLogisticalOptimization_Dec</Label>
+    <String>A new generation of space accountants are becoming trained as we speak, capable of improving logistical efficiencies most people would be too bored to ever notice.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterLogisticalOptimization2_Name</Label>
+    <String>High Output Mining</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterLogisticalOptimization2_ShortDec</Label>
+    <String>Increases mining production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterLogisticalOptimization2_Dec</Label>
+    <String>An asteroid mining operation is a ballet of activity, as boring machines, ore haulers, and repair drones swarm about an asteroid. Keeping these pieces moving is challenging, and improving the organization is a sure way to improve its output.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterLogisticalOptimization3_Name</Label>
+    <String>Sustainable Shipyards</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterLogisticalOptimization3_ShortDec</Label>
+    <String>Reduces Shipyard decay rate.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterLogisticalOptimization3_Dec</Label>
+    <String>Shipyards are, by some measures, the most complicated constructs humanity has ever created. Any improvement we can make to the management and operation of these beasts will result in significant cost savings.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterWeaponsSpecializationTech1_Name</Label>
+    <String>Targeting Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWeaponsSpecializationTech1_ShortDec</Label>
+    <String>Increases the Accuracy of all weapon systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWeaponsSpecializationTech1_Dec</Label>
+    <String>We have increased the targeting systems of our existing weapons substantially, and what we have learned will apply to future weapons systems.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterWeaponsSpecialization_Name</Label>
+    <String>Weapons Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWeaponsSpecialization_ShortDec</Label>
+    <String>Improves weapon systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWeaponsSpecialization_Dec</Label>
+    <String>By dedicating their efforts on a specific field of weapons technology, our researchers believe they can deliver a number of more efficient weapon systems.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterWeaponsSpecializationTech2_Name</Label>
+    <String>Miniaturization Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWeaponsSpecializationTech2_ShortDec</Label>
+    <String>Reduces the Mass of all weapons systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWeaponsSpecializationTech2_Dec</Label>
+    <String>We have reduced the mass of our existing weapons systems, and what we have learned will apply to future weapons as well.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterWeaponsSpecializationTech3_Name</Label>
+    <String>Production Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWeaponsSpecializationTech3_ShortDec</Label>
+    <String>Reduces the Cost of all weapons systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWeaponsSpecializationTech3_Dec</Label>
+    <String>We have reduced the cost of our existing weapons systems, and what we have learned will apply to future weapons as well.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>MasterHighEnergyFocus1_Name</Label>
+    <String>Beam Amplification</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHighEnergyFocus1_ShortDec</Label>
+    <String>Increases damage of beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHighEnergyFocus1_Dec</Label>
+    <String>Advances in crystallography have created a new generation of focusing crystals capable of handling much greater quantities of energy without fracturing. All of our beam weapons just got a little bit badder.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterHighEnergyFocus_Name</Label>
+    <String>High Energy Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHighEnergyFocus_ShortDec</Label>
+    <String>Improves beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHighEnergyFocus_Dec</Label>
+    <String>A careful analysis of data returned from the field has revealed a number of inefficiencies which we can begin addressing in the next generation of our beam systems. We may also finally be able to get rid of that funny smell they make.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterHighEnergyFocus2_Name</Label>
+    <String>Beam Manufacturing Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHighEnergyFocus2_ShortDec</Label>
+    <String>Reduces cost of beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHighEnergyFocus2_Dec</Label>
+    <String>Manufacturing beam weapons is as much art as science, requiring highly trained technicians to individually tune each weapon. But if we can standardize this a bit, and even automate portions of it, we should be able to reduce the cost of each unit.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterHighEnergyFocus3_Name</Label>
+    <String>Low Mass Beam Weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHighEnergyFocus3_ShortDec</Label>
+    <String>Reduces mass of beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterHighEnergyFocus3_Dec</Label>
+    <String>The heaviest parts of beam weapons have always been the charge coils and their associated cooling equipment. But with the latest generation of super-conductors we can now build these smaller and more compact than ever.</String>
+  </StringTable>
+ 
+ <StringTable>
+    <Label>MasterBeamWeaponMastery1_Name</Label>
+    <String>Master Beam Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterBeamWeaponMastery1_ShortDec</Label>
+    <String>Reduces cost of beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterBeamWeaponMastery1_Dec</Label>
+    <String>Our supply chain for the creation of plasma containment fields had a couple of kinks that needed to get worked out, but now that we have, we expect to be able to create beam weapons for far cheaper.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterBeamWeaponMastery_Name</Label>
+    <String>Beam Weapon Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterBeamWeaponMastery_ShortDec</Label>
+    <String>Improves beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterBeamWeaponMastery_Dec</Label>
+    <String>Our beam weapons are now absurdly powerful, a terror for anyone foolish enough to get on humanity's wrong side. And yet still our weapon scientists find ways to do better.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterBeamWeaponMastery2_Name</Label>
+    <String>High Density Beam Weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterBeamWeaponMastery2_ShortDec</Label>
+    <String>Reduces mass of beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterBeamWeaponMastery2_Dec</Label>
+    <String>We're now able to push our beam weapons right up to the energy density limits that physics allow. If we want any more power per unit of mass, we may have to move to a different universe.</String>
+  </StringTable>
+ 
+ <StringTable>
+    <Label>MasterWarheadFocus1_Name</Label>
+    <String>Warhead Acceleration</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWarheadFocus1_ShortDec</Label>
+    <String>Increases range of missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWarheadFocus1_Dec</Label>
+    <String>More target drones have given their lives for our glory, and a careful analysis of their deaths has revealed some exciting possibilities in the field of shaped charges, which should improve the destructive yield of our warheads.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterWarheadFocus_Name</Label>
+    <String>Warhead Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWarheadFocus_ShortDec</Label>
+    <String>Improves missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWarheadFocus_Dec</Label>
+    <String>We've spent comparatively little research time on the warhead components of our missile systems, but now that we've turned our attention to the matter, a number of possible efficiencies should be achievable with a little effort.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterWarheadFocus2_Name</Label>
+    <String>Warhead Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWarheadFocus2_ShortDec</Label>
+    <String>Reduces cost of missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWarheadFocus2_Dec</Label>
+    <String>The most delicate part of missile manufacturing was the warhead, for obvious reasons. But the latest generation of ultra-stable explosives should reduce both manufacturing costs and workplace accidents significantly.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterWarheadFocus3_Name</Label>
+    <String>Low Mass Warheads</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWarheadFocus3_ShortDec</Label>
+    <String>Reduces mass of missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterWarheadFocus3_Dec</Label>
+    <String>By using the latest generation of shaped-charge warheads to reduce the weight of each individual missile, with no corresponding loss of destructive power, we can make room for more missile launchers in total.</String>
+  </StringTable>
+ 
+ <StringTable>
+    <Label>MasterPayloadMastery1_Name</Label>
+    <String>Master Missile Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPayloadMastery1_ShortDec</Label>
+    <String>Reduces cost of missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPayloadMastery1_Dec</Label>
+    <String>Our missile manufacturing facilities are now almost perfectly efficient, wasting no material whatsoever. Destruction shouldn't come so cheap, yet here we are.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterPayloadMastery_Name</Label>
+    <String>Payload Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPayloadMastery_ShortDec</Label>
+    <String>Improves missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPayloadMastery_Dec</Label>
+    <String>Various physical limits of this particular universe prevent us from wringing more destructive potential out of this generation of warheads. But we can certainly make them cheaper and lighter.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterPayloadMastery2_Name</Label>
+    <String>High Density Warheads</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPayloadMastery2_ShortDec</Label>
+    <String>Reduces mass of missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPayloadMastery2_Dec</Label>
+    <String>A new field based guidance system which uses forcefields to provide final maneuvering capabilities should cut down on the weight of our missiles systems a bit more.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>MasterKineticAccelerationFocus1_Name</Label>
+    <String>Frictionless Acceleration</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterKineticAccelerationFocus1_ShortDec</Label>
+    <String>Increases range of kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterKineticAccelerationFocus1_Dec</Label>
+    <String>Our newest superconductors and the steeper energy delivery curves they enable should lead to higher muzzle velocities, at the tradeoff of smaller projectiles. These weapons should have a longer effective range with no reduction in damage potential.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterKineticAccelerationFocus_Name</Label>
+    <String>Kinetic Acceleration Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterKineticAccelerationFocus_ShortDec</Label>
+    <String>Improves kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterKineticAccelerationFocus_Dec</Label>
+    <String>Recent advances in superconducting technology should lead to improvements in the critical energy delivery systems of our kinetic weapons.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterKineticAccelerationFocus2_Name</Label>
+    <String>Low Cost Accelerators</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterKineticAccelerationFocus2_ShortDec</Label>
+    <String>Reduces cost of kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterKineticAccelerationFocus2_Dec</Label>
+    <String>The latest generation of superconducting electromagnetic coils and their less-strenuous cooling requirements make them much less fragile to handle. We expect to see significant cost savings now that we won't break as many during production.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterKineticAccelerationFocus3_Name</Label>
+    <String>Low Mass Accelerators</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterKineticAccelerationFocus3_ShortDec</Label>
+    <String>Reduces mass of kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterKineticAccelerationFocus3_Dec</Label>
+    <String>Our new ultra-low resistance electromagnets generate a lot more kick per unit weight, leading to lower mass accelerators. We can feel free to cram more of them into whatever we're cramming them in to.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterKineticMastery1_Name</Label>
+    <String>Master Accelerator Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterKineticMastery1_ShortDec</Label>
+    <String>Reduces cost of kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterKineticMastery1_Dec</Label>
+    <String>"We Make Kinetic Weapons Faster," is probably the dumbest slogan ever conceived of, but the factory workers seem really proud of it, so no-one had the heart to tell them. And to be fair, they do make them really quite quickly and cheaply now.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterKineticMastery_Name</Label>
+    <String>Kinetic Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterKineticMastery_ShortDec</Label>
+    <String>Improves kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterKineticMastery_Dec</Label>
+    <String>After several generations of whipping things at other things as fast as possible, our scientists are now really quite good at it. There remain but a few small efficiencies to wring out of the field.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterKineticMastery2_Name</Label>
+    <String>High Density Accelerators</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterKineticMastery2_ShortDec</Label>
+    <String>Reduces mass of kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterKineticMastery2_Dec</Label>
+    <String>Our scientists have all but mastered kinetic weapons, having made them as mass efficient as theoretically possible, allowing even our smallest vessels to pack a hellacious punch.</String>
+  </StringTable>
+ 
+ <StringTable>
+    <Label>MasterXenoCombatTechniques_Name</Label>
+    <String>Xeno Combat Techniques</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterXenoCombatTechniques_ShortDec</Label>
+    <String>Unlocks the General specialization who can train legions for either defense or for invading other planets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterXenoCombatTechniques_Dec</Label>
+    <String>Planets come in all shapes and sizes. And smells. This technology will begin the process of teaching our soldiers how to deal with alien environments.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>MasterDefensiveFocus1_Name</Label>
+    <String>Bombardment Shelters</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDefensiveFocus1_ShortDec</Label>
+    <String>Makes all colonies Immune to Planetary Bombardment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDefensiveFocus1_Dec</Label>
+    <String>By moving our most critical structures underground, and providing similar shelters for civilians and troops, we can dramatically limit the effectiveness of most forms of orbital bombardment.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterDefensiveFocus_Name</Label>
+    <String>Defensive Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDefensiveFocus_ShortDec</Label>
+    <String>Unlocks advanced invasion defenses.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDefensiveFocus_Dec</Label>
+    <String>Our military theoreticians have analyzed reports of the latest invasion tactics in use in the galaxy and come up with a number of elegant ways to counter them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterDefensiveFocus2_Name</Label>
+    <String>Information Systems Hardening</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDefensiveFocus2_ShortDec</Label>
+    <String>Makes all colonies Immune to Information Warfare.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDefensiveFocus2_Dec</Label>
+    <String>Our defensive experts have identified a number of vulnerabilities in our ground-based C and C systems, and urgently recommend that we harden them.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterDefensiveFocus3_Name</Label>
+    <String>Adaptive Vaccinations</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDefensiveFocus3_ShortDec</Label>
+    <String>Makes all colonies Immune to Biological Warfare.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDefensiveFocus3_Dec</Label>
+    <String>It's impossible to conventionally vaccinate against an unknown biological attack. Adaptive vaccines are engineered lifeforms that lie dormant, ready to rapidly assist a immune system to fight new infections the moment they appear.</String>
+  </StringTable>
+ 
+ 
+ 
+  <StringTable>
+    <Label>MasterDefensiveSpecialization1_Name</Label>
+    <String>Shield Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDefensiveSpecialization1_ShortDec</Label>
+    <String>Reduces cost of shields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDefensiveSpecialization1_Dec</Label>
+    <String>Deflecting or diffusing incoming weapon fire is really, really hard, and we're far from having a really good understanding of it. Our latest round of research has only succeeded in making existing shield systems a bit cheaper to build.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterDefensiveSpecialization_Name</Label>
+    <String>Defensive Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDefensiveSpecialization_ShortDec</Label>
+    <String>Improves defensive systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDefensiveSpecialization_Dec</Label>
+    <String>After studying the wreckage of a few vessels we've lost in combat, our engineers have come up with a number of possible improvements we can make to our defensive technologies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterDefensiveSpecialization2_Name</Label>
+    <String>Point Defense Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDefensiveSpecialization2_ShortDec</Label>
+    <String>Reduces cost of point defenses.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDefensiveSpecialization2_Dec</Label>
+    <String>Making our point defenses fire more crap into the space around the ship is a simple solution to a complicated question. Though still a surprisingly effective one.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterDefensiveSpecialization3_Name</Label>
+    <String>Armor Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDefensiveSpecialization3_ShortDec</Label>
+    <String>Reduces mass of armor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDefensiveSpecialization3_Dec</Label>
+    <String>By adjusting the size and positioning of our armor panels, we've been able to minimize overlap and other inefficiencies, and can now provide the same level of protection to our ships for less overall weight.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterBarrierSystemFocus1_Name</Label>
+    <String>High Output Shield Generators</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterBarrierSystemFocus1_ShortDec</Label>
+    <String>Increases shield strength.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterBarrierSystemFocus1_Dec</Label>
+    <String>The first generation of energy absorbers in our Barrier Field systems used a model of capacitor which occasionally exploded violently. Crews had decidedly mixed feelings about this, so we replaced those capacitors with a slightly more robust model.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterBarrierSystemFocus_Name</Label>
+    <String>Barrier System Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterBarrierSystemFocus_ShortDec</Label>
+    <String>Improves shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterBarrierSystemFocus_Dec</Label>
+    <String>A careful design review of our initial implementation of the Barrier Field system has revealed a number of possible avenues for further improvements. Who says design reviews are unexciting?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterBarrierSystemFocus2_Name</Label>
+    <String>Low Cost Shield Generators</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterBarrierSystemFocus2_ShortDec</Label>
+    <String>Reduces shield cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterBarrierSystemFocus2_Dec</Label>
+    <String>Since the first few shield emitters went out the door, we've slowly been able to achieve some economies of scale in the manufacture of these systems, reducing the cost of all future installations.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterBarrierSystemFocus3_Name</Label>
+    <String>Low Mass Shield Generators</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterBarrierSystemFocus3_ShortDec</Label>
+    <String>Reduces shield mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterBarrierSystemFocus3_Dec</Label>
+    <String>We've recently been able to shave a ton of weight off of our shield generators thanks to the latest generation of superconductors and their less extensive cooling requirements.</String>
+  </StringTable>
+  
+   <StringTable>
+    <Label>MasterShieldMastery1_Name</Label>
+    <String>Master Shield Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterShieldMastery1_ShortDec</Label>
+    <String>Reduces shield cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterShieldMastery1_Dec</Label>
+    <String>Cheaper shields never meant less effective shields, and it's only taken a few decades for our crews to finally understand that. Which is good, because our shields are spectacularly cheap now.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterShieldMastery_Name</Label>
+    <String>Shield Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterShieldMastery_ShortDec</Label>
+    <String>Improves shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterShieldMastery_Dec</Label>
+    <String>Our shielding technology approaches perfection, our engineers pushing the capabilities of our shield systems right to their theoretical limits.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterShieldMastery2_Name</Label>
+    <String>High Density Shield Generators</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterShieldMastery2_ShortDec</Label>
+    <String>Reduces shield mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterShieldMastery2_Dec</Label>
+    <String>It's impossible to make the energy emitters of our shields any denser our engineers claim. They claim that kind of thing a lot and always take it back later, but they seem pretty sure this time.</String>
+  </StringTable>
+ 
+ <StringTable>
+    <Label>MasterCounterMeasureFocus1_Name</Label>
+    <String>Adaptive Counter Measures</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCounterMeasureFocus1_ShortDec</Label>
+    <String>Increases point defense strength.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCounterMeasureFocus1_Dec</Label>
+    <String>There's always a generational game of leap frog being played between missile designers and ECM designers, but we believe our latest algorithms have given us the leg up on the bad guys this time.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterCounterMeasureFocus_Name</Label>
+    <String>Counter Measure Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCounterMeasureFocus_ShortDec</Label>
+    <String>Improves point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCounterMeasureFocus_Dec</Label>
+    <String>Now that we have some field data on ECM suite performance, we've identified a number of different ways we can improve upon the design and construction of those systems.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterCounterMeasureFocus2_Name</Label>
+    <String>Counter Measure Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCounterMeasureFocus2_ShortDec</Label>
+    <String>Reduces point defense cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCounterMeasureFocus2_Dec</Label>
+    <String>Our earliest attempts at ECM suites were heavily customizable, requiring a great deal of hand tuning to make them perform at their best. Now that we know what works, we can automate much more of the manufacturing and installation process.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterCounterMeasureFocus3_Name</Label>
+    <String>Low Mass Counter Measures</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCounterMeasureFocus3_ShortDec</Label>
+    <String>Reduces point defense mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCounterMeasureFocus3_Dec</Label>
+    <String>Our first ECM suites were cobbled together from a half dozen different processors and transmitters. We've since streamlined those into a single unit which weighs much less.</String>
+  </StringTable>
+ 
+ <StringTable>
+    <Label>MasterDroneSystemMastery1_Name</Label>
+    <String>Master Point Defense Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDroneSystemMastery1_ShortDec</Label>
+    <String>Reduces point defense cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDroneSystemMastery1_Dec</Label>
+    <String>To be fair, only a few of our drone systems have ever actually shot each other in combat situations. But by minimizing that just a little bit more, we should be able to make our point defenses a little more cost-effective, if a bit less funny.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterDroneSystemMastery_Name</Label>
+    <String>Drone System Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDroneSystemMastery_ShortDec</Label>
+    <String>Improves point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDroneSystemMastery_Dec</Label>
+    <String>Drone systems dramatically increased the sheer volume of our point defense capabilities, so any small improvement in their design should lead to significant cost or weight savings.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterDroneSystemMastery2_Name</Label>
+    <String>High Density Point Defenses</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDroneSystemMastery2_ShortDec</Label>
+    <String>Reduces point defense mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDroneSystemMastery2_Dec</Label>
+    <String>Once we realized point defense drones don't need much personal space, we were able to start packing them in a lot tighter.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterArmorFocus1_Name</Label>
+    <String>Armor Lamination</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterArmorFocus1_ShortDec</Label>
+    <String>Increases armor strength.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterArmorFocus1_Dec</Label>
+    <String>A careful study of battle-damaged ships has revealed previously unknown weaknesses in our armor systems. Basically, we know why some of them were cracking in half now. We'll do something about that right away.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterArmorFocus_Name</Label>
+    <String>Armor Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterArmorFocus_ShortDec</Label>
+    <String>Improves armor systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterArmorFocus_Dec</Label>
+    <String>Our armor systems have increased significantly in complexity, and our efforts to model their behavior under impact is only now catching up. This research should help lead to more effective or efficient designs.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterArmorFocus2_Name</Label>
+    <String>Armor Manufacturing Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterArmorFocus2_ShortDec</Label>
+    <String>Reduces armor cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterArmorFocus2_Dec</Label>
+    <String>If our crews ask, it's not that our armor is cheap. It's that we've found a more efficient way of manufacturing it. But yes, it is pretty cheap.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterArmorFocus3_Name</Label>
+    <String>Armor Mass Reduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterArmorFocus3_ShortDec</Label>
+    <String>Reduces armor mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterArmorFocus3_Dec</Label>
+    <String>Some experiments with the arrangement of our Durantium composites has revealed that we can get away with slightly less dense materials at certain layers with no impact to the armor's effectiveness.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterArmorMastery1_Name</Label>
+    <String>Master Armorers</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterArmorMastery1_ShortDec</Label>
+    <String>Reduces armor cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterArmorMastery1_Dec</Label>
+    <String>With modern armoring systems, the design of the armor informs the shape of the ship as much as the other way around. Properly armoring a ship involves a complicated series of tradeoffs, which when we get right, mean ships protected for much cheaper.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterArmorMastery_Name</Label>
+    <String>Armor Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterArmorMastery_ShortDec</Label>
+    <String>Improves armor systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterArmorMastery_Dec</Label>
+    <String>Our mastery of hardening techniques is almost complete, and the galaxy trembles at the girth of our vessels. But even perfection can be improved upon it seems. Some more effort should lead to cheaper or more efficient armor systems.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterArmorMastery2_Name</Label>
+    <String>High Density Armor</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterArmorMastery2_ShortDec</Label>
+    <String>Reduces armor mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterArmorMastery2_Dec</Label>
+    <String>On a weight basis, our armor systems are now as efficient as they can possibly be, 99.3% of all total installed mass dedicated to offensive energy absorption or dispersion. That's really, really good the researchers promise.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterDiplomaticSpecialization1_Name</Label>
+    <String>Diplomatic Reasoning</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDiplomaticSpecialization1_ShortDec</Label>
+    <String>Increases our Diplomatic ability with other civilizations.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDiplomaticSpecialization1_Dec</Label>
+    <String>We've begun simulating different rhetorical and diplomatic approaches when dealing with aliens, revealing several ways we might improve their attitudes towards us. Our role-playing has enabled us to talk prettier, essentially.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterDiplomaticSpecialization_Name</Label>
+    <String>Diplomatic Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDiplomaticSpecialization_ShortDec</Label>
+    <String>Improves diplomatic effects.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDiplomaticSpecialization_Dec</Label>
+    <String>The words we use have a limited ability to affect the way we think, and by studying the vocabulary used by our neighbors, we may unlock valuable insights into their mindsets. And possibly even find out how to manipulate them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterDiplomaticSpecialization2_Name</Label>
+    <String>Influential Voice</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDiplomaticSpecialization2_ShortDec</Label>
+    <String>Increases Influence on all our colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDiplomaticSpecialization2_Dec</Label>
+    <String>Our culture has a way of communicating what our diplomats cannot. By increasing the ease with which other civilizations can access our culture we can win hearts and minds before we even get to the negotiating table.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterDiplomaticSpecialization3_Name</Label>
+    <String>Efficient Administrators</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDiplomaticSpecialization3_ShortDec</Label>
+    <String>Increases the number of Administrators your Civilization can support. </String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDiplomaticSpecialization3_Dec</Label>
+    <String>As our Civilization grows, we find ourselves needing more and more Administrators to oversee our far flung Starbases.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>MasterPoliticalSpecialization1_Name</Label>
+    <String>Federalist Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalSpecialization1_ShortDec</Label>
+    <String>Allows use of Federalist Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalSpecialization1_Dec</Label>
+    <String>Federalist parties advocate a relatively weak central government that offloads much of its responsibility to lower, more local governmental groups. This bias towards local regulation seems to encourage economic development.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterPoliticalSpecialization_Name</Label>
+    <String>Political Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalSpecialization_ShortDec</Label>
+    <String>Unlocks political parties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalSpecialization_Dec</Label>
+    <String>There are several broad ways to organize the government of a space faring civilization, all of which pose distinct advantages and disadvantages. Rest assured, there's no right choice here; regardless of what we pick, everyone will tell us that we made the wrong choice.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterPoliticalSpecialization2_Name</Label>
+    <String>Populist Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalSpecialization2_ShortDec</Label>
+    <String>Allows use of Populist Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalSpecialization2_Dec</Label>
+    <String>Populist forms of government are designed to make people happy, even at the cost of economic strength. As a side-effect of this relentless interest in pleasing others, Populist governments are often very good at diplomacy.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterPoliticalSpecialization3_Name</Label>
+    <String>Universalist Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalSpecialization3_ShortDec</Label>
+    <String>Allows use of Universalist Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalSpecialization3_Dec</Label>
+    <String>Universalist governments attempt to be all things to all people. That can be a lot of people, none of whom ever seem to agree on anything, but a balanced approach like this at least ensures a government has no weak spots.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterPoliticalFocus1_Name</Label>
+    <String>Industrialist Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalFocus1_ShortDec</Label>
+    <String>Allows use of Industrialist Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalFocus1_Dec</Label>
+    <String>Industrialist governments seek to maximize industrial capacity by rewarding citizens based entirely on their productivity. From top to bottom, society is organized to encourage hard work and not having fun.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterPoliticalFocus_Name</Label>
+    <String>Political Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalFocus_ShortDec</Label>
+    <String>Unlocks political parties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalFocus_Dec</Label>
+    <String>As we continue to manage, and often mis-manage, our affairs, it's become clear that a number of political theories we'd never previously considered viable might actually be very practical when practiced on a galactic scale.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterPoliticalFocus2_Name</Label>
+    <String>Mercantile Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalFocus2_ShortDec</Label>
+    <String>Allows use of Mercantile Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalFocus2_Dec</Label>
+    <String>Mercantilists seek to ensure their civilization's prosperity through trade, via careful negotiations, brutally unfair tariff, and outright espionage.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterPoliticalFocus3_Name</Label>
+    <String>Technologist Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalFocus3_ShortDec</Label>
+    <String>Allows use of Technologist Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalFocus3_Dec</Label>
+    <String>Any time two civilizations have met the less technologically advanced one has come out worse from the encounter. Technologists dedicate all governmental resources to ensure that they never become that dumber civilization.</String>
+  </StringTable>
+ 
+ <StringTable>
+    <Label>MasterPoliticalMastery1_Name</Label>
+    <String>War Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalMastery1_ShortDec</Label>
+    <String>Allows use of War Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalMastery1_Dec</Label>
+    <String>Whether it's because they consider all other civilizations to be inferior, or simply terrifying, members of the War Party are willing to put their entire civilization on a military footing to do something about it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterPoliticalMastery_Name</Label>
+    <String>Political Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalMastery_ShortDec</Label>
+    <String>Unlocks political parties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalMastery_Dec</Label>
+    <String>Coordinating the direction of an entire galactic civilization is tremendously difficult. But thanks to advances in deceit and brain injection technology, we can now put this whole show entirely on a war footing, or, if we choose, the exact opposite.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterPoliticalMastery2_Name</Label>
+    <String>Pacifist Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalMastery2_ShortDec</Label>
+    <String>Allows use of Pacifist Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPoliticalMastery2_Dec</Label>
+    <String>Pacifist governments forego the language of aggression and militarization and focus all their efforts on promoting culture and social welfare. This makes them well liked in the galactic community, and their words travel far.</String>
+  </StringTable>
+  
+   <StringTable>
+    <Label>MasterDiplomaticOptimization1_Name</Label>
+    <String>Economic Treaty</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDiplomaticOptimization1_ShortDec</Label>
+    <String>Allows formation of economic treaties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDiplomaticOptimization1_Dec</Label>
+    <String>Economic treaties will lower tariffs and other obstacles that discourage business activities. When well designed, these treaties should result in increased wealth for both parties.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterDiplomaticOptimization_Name</Label>
+    <String>Diplomatic Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDiplomaticOptimization_ShortDec</Label>
+    <String>Unlocks advanced treaties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDiplomaticOptimization_Dec</Label>
+    <String>Depending on the current state of our civilization, we profit more from some types of treaties than others, and should begin slanting our diplomatic posture in those directions right away.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterDiplomaticOptimization2_Name</Label>
+    <String>Cultural Treaty</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDiplomaticOptimization2_ShortDec</Label>
+    <String>Allows formation of cultural treaties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDiplomaticOptimization2_Dec</Label>
+    <String>By increasing the interchange of cultural products and making it easier for civilians to cross borders, we can hope to increase the influence we have on our neighbors.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterDiplomaticOptimization3_Name</Label>
+    <String>Research Treaty</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDiplomaticOptimization3_ShortDec</Label>
+    <String>Allows formation of research treaties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDiplomaticOptimization3_Dec</Label>
+    <String>By entering into formal information sharing agreements with other civilizations, our researchers can more easily accumulate the masses of data which modern research often requires.</String>
+  </StringTable>
+ 
+ <StringTable>
+    <Label>MasterAllianceFocus1_Name</Label>
+    <String>Military Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterAllianceFocus1_ShortDec</Label>
+    <String>Allows formation of military alliances.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterAllianceFocus1_Dec</Label>
+    <String>Formal military alliances will make a war with humanity that much more imposing to our foes. The trade-off is that we risk being drawn into wars not of our choosing. Friends are cheap to have, but allies can be very expensive indeed.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterAllianceFocus_Name</Label>
+    <String>Alliance Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterAllianceFocus_ShortDec</Label>
+    <String>Unlocks advanced alliances.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterAllianceFocus_Dec</Label>
+    <String>Alliances come in a variety of flavors, some of which may be more advantageous to us than others. We should consider our civilization's priorities - and what our new ally is actually good for - before entering such talks.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterAllianceFocus2_Name</Label>
+    <String>Technological Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterAllianceFocus2_ShortDec</Label>
+    <String>Allows formation of technological alliances.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterAllianceFocus2_Dec</Label>
+    <String>A technological alliance will dramatically ramp up the research sharing programs we have with our ally. This is valuable information, so we must be sure of their friendship before entering such an agreement.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterAllianceFocus3_Name</Label>
+    <String>Cultural Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterAllianceFocus3_ShortDec</Label>
+    <String>Allows formation of cultural alliances.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterAllianceFocus3_Dec</Label>
+    <String>A formal cultural alliance will lower almost all barriers to the movement of people and ideas across borders with our neighbor. Not only will this bring us closer, we can hope to have a bigger influence on our neighbor's culture.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>MasterEspionageSpecialization1_Name</Label>
+    <String>Espionage Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageSpecialization1_ShortDec</Label>
+    <String>All Spies gain one additional level</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageSpecialization1_Dec</Label>
+    <String>Smarter spies, are more effective when destabilizing our enemies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterEspionageSpecialization_Name</Label>
+    <String>Espionage Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageSpecialization_ShortDec</Label>
+    <String>Improves cultural buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageSpecialization_Dec</Label>
+    <String>Although the artists responsible for our cultural delivery vehicles like the extra funding we shovel in their direction, few appreciate the suggestion that they could possibly do things more efficiently. They can though. A lot.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterEspionageSpecialization2_Name</Label>
+    <String> Surveillance Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageSpecialization2_ShortDec</Label>
+    <String>Increase the sensor range of all our worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageSpecialization2_Dec</Label>
+    <String>A key part of espionage is to make sure we see what our enemies are up to before their fleets are at our doorstep.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterDestabilizationTech_Name</Label>
+    <String>Advanced Destabilization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDestabilizationTech_ShortDec</Label>
+    <String>Gain one free Agent</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterDestabilizationTech_Dec</Label>
+    <String>Our espionage efforts are starting to pay off, we are even starting to get volunteers wanting join our efforts.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterEspionageOptimization1_Name</Label>
+    <String>Optimized Training</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageOptimization1_ShortDec</Label>
+    <String>All Spies gain one additional level</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageOptimization1_Dec</Label>
+    <String>Enough of our Agents have now survived their tours of duty, to come back to our worlds with tips and tricks for the next generation. These new instructors are able to prepare our new agents for the missions much more efficiently.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterEspionageOptimization_Name</Label>
+    <String>Espionage Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageOptimization_ShortDec</Label>
+    <String>Improves cultural buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageOptimization_Dec</Label>
+    <String>Although the artists responsible for our cultural delivery vehicles like the extra funding we shovel in their direction, few appreciate the suggestion that they could possibly do things more efficiently. They can though. A lot.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterEspionageOptimization2_Name</Label>
+    <String>Optimized Agents</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageOptimization2_ShortDec</Label>
+    <String>Increase the sensor range of all our Starbases.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageOptimization2_Dec</Label>
+    <String>Surveillance Post on starbases can give us an even bigger edge when watching for suspicious activity from our neighbors.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterInterstellarSurveillance_Name</Label>
+    <String>Interstellar Surveillance</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterInterstellarSurveillance_ShortDec</Label>
+    <String>Allows us to Recurite spies on our colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterInterstellarSurveillance_Dec</Label>
+    <String>As our colonies grow we are they begin to attract citizens with the proper temperament for espionage, with a bit of effort we can turn them into excellent agents.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterEspionageFocus1_Name</Label>
+    <String>Agent Training Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageFocus1_ShortDec</Label>
+    <String>All Spies gain one additional level</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageFocus1_Dec</Label>
+    <String>Our Espionage network has become so efficient, that we can now train spies that are almost as effective as agents who have spent years in the field.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterEspionageFocus_Name</Label>
+    <String>Espionage Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageFocus_ShortDec</Label>
+    <String>Improves cultural buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageFocus_Dec</Label>
+    <String>Although the artists responsible for our cultural delivery vehicles like the extra funding we shovel in their direction, few appreciate the suggestion that they could possibly do things more efficiently. They can though. A lot.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterEspionageFocus2_Name</Label>
+    <String>Advanced Surveillance</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageFocus2_ShortDec</Label>
+    <String>Further boost the sensor range of all our Colonies and Starbases.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageFocus2_Dec</Label>
+    <String>Our Surveillance abilities have reached the point where even our most remote Colonies and Starbases can no longer be surprised. </String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterEspionageMasters_Name</Label>
+    <String>Espionage Masters</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageMasters_ShortDec</Label>
+    <String>Increase the level of all our spies by 2
+</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEspionageMasters_Dec</Label>
+    <String>Our Spies are now the best in the universe, and can cripple even the most prosperous planet.</String>
+  </StringTable>
+  
+   <StringTable>
+    <Label>MasterCommerceSpecialization1_Name</Label>
+    <String>Wealthy Population</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCommerceSpecialization1_ShortDec</Label>
+    <String>Increases wealth.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCommerceSpecialization1_Dec</Label>
+    <String>With targeted tax rates, we can encourage a number of different areas of our economy. A tax policy which favors business and investment should ultimately lead to a wealthier economy for example. Unless the businesses and investors were lying to us.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterCommerceSpecialization_Name</Label>
+    <String>Commerce Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCommerceSpecialization_ShortDec</Label>
+    <String>Increases economic benefits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCommerceSpecialization_Dec</Label>
+    <String>With a bit of experience managing and regulating markets on a massive scale, we're now able to target specific economic improvements we might like to see.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterCommerceSpecialization2_Name</Label>
+    <String>Supportive Population</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCommerceSpecialization2_ShortDec</Label>
+    <String>Increases approval.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCommerceSpecialization2_Dec</Label>
+    <String>By targeting economic policy to support workers and the civilian population in general, we can ensure we have a much broader base of approval to build our civilization on.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterCommerceSpecialization3_Name</Label>
+    <String>Designated Trading Partner</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCommerceSpecialization3_ShortDec</Label>
+    <String>Adds trade route.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCommerceSpecialization3_Dec</Label>
+    <String>Encouraging and supporting trade is a great way to both bring in extra income and forge closer ties with our neighbors. Everyone's happy when they're making money.</String>
+  </StringTable>
+ 
+ <StringTable>
+    <Label>MasterCulturalOptimization1_Name</Label>
+    <String>Passionate Representation</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCulturalOptimization1_ShortDec</Label>
+    <String>Increases Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCulturalOptimization1_Dec</Label>
+    <String>Now that our culture has made inroads on the planets of our neighbors, we can help cement this influence by encouraging our biggest stars to regularly visit and vacation there, serving as ambassadors for our way of life.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterCulturalOptimization_Name</Label>
+    <String>Cultural Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCulturalOptimization_ShortDec</Label>
+    <String>Improves cultural buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCulturalOptimization_Dec</Label>
+    <String>Although the artists responsible for our cultural delivery vehicles like the extra funding we shovel in their direction, few appreciate the suggestion that they could possibly do things more efficiently. They can though. A lot.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterCulturalOptimization2_Name</Label>
+    <String>Efficient Representation</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCulturalOptimization2_ShortDec</Label>
+    <String>Reduces cost of cultural buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCulturalOptimization2_Dec</Label>
+    <String>Although artists and designers aren't naturally inclined towards thinking about money, after we locked a few of them in a room with an accountant for a bit, they managed to find a number of ways they could do their work more efficiently.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterCulturalOptimization3_Name</Label>
+    <String>Self Sufficient Representation</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCulturalOptimization3_ShortDec</Label>
+    <String>Reduces maintenance costs of cultural buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCulturalOptimization3_Dec</Label>
+    <String>Our cultural facilities cost real money to maintain. By encouraging our artists and directors to reuse materials, props, and punch lines whenever possible, we can reduce the ongoing costs of running these enterprises.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>MasterCulturalFocus1_Name</Label>
+    <String>Research-Focused Culture</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCulturalFocus1_ShortDec</Label>
+    <String>Increases Influence on research planets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCulturalFocus1_Dec</Label>
+    <String>By adapting our cultural products to cast scientists and researchers in a more favorable light, we might find appreciative audiences among research communities.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterCulturalFocus_Name</Label>
+    <String>Cultural Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCulturalFocus_ShortDec</Label>
+    <String>Increases influence on specific worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCulturalFocus_Dec</Label>
+    <String>Few works of art and cultural artifacts have broad appeal, and it's often necessary to target one's audience to some extent. By fine tuning the tone and content of our cultural products, we might appeal to demographics which are particularly valuable to us.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterCulturalFocus2_Name</Label>
+    <String>Approval-Focused Culture</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCulturalFocus2_ShortDec</Label>
+    <String>Increases Influence on planets with high approval.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCulturalFocus2_Dec</Label>
+    <String>A culture which focuses on its leaders is a fine thing to have when those leaders are doing a good job. When the leaders aren't doing a good job, it's filled with harsh satire and unflattering impressions, so watch out for that.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterCulturalFocus3_Name</Label>
+    <String>Wealth-Focused Culture</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCulturalFocus3_ShortDec</Label>
+    <String>Increases Influence on wealthy planets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterCulturalFocus3_Dec</Label>
+    <String>If people have money, let's not make them ashamed of it. By encouraging displays of conspicuous consumption and a culture which celebrates wealth, we can gain a great deal of influence with people living the good life.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterPrecursorRelicFocus1_Name</Label>
+    <String>Precursor Technologist</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPrecursorRelicFocus1_ShortDec</Label>
+    <String>Increases Precursor relic research benefits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPrecursorRelicFocus1_Dec</Label>
+    <String>Understanding Precursor artifacts involves throwing out many of our pre-conceived notions about technology. Their interfaces don't just assume we have different anatomy; they assume we have different ways of thinking entirely.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterPrecursorRelicFocus_Name</Label>
+    <String>Precursor Relic Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPrecursorRelicFocus_ShortDec</Label>
+    <String>Improves Precursor relic benefits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPrecursorRelicFocus_Dec</Label>
+    <String>Having captured a few Precursor relics and observed the impact they have on our research and culture, we can now try adjusting our Precursor studies to benefit specific areas of our civilization.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterPrecursorRelicFocus2_Name</Label>
+    <String>Precursor Cultural Studies</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPrecursorRelicFocus2_ShortDec</Label>
+    <String>Increases Precursor relic cultural benefits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPrecursorRelicFocus2_Dec</Label>
+    <String>The public seems fascinated by the Precursors, and the relics we've found have had a surprising effect on our society. We can now try to capitalize on these cultural benefits. Souvenirs. Wacky catchphrases. Things like that.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterPrecursorRelicFocus3_Name</Label>
+    <String>Precursor Capitalization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPrecursorRelicFocus3_ShortDec</Label>
+    <String>Increases Precursor relic economic benefits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPrecursorRelicFocus3_Dec</Label>
+    <String>Most of the Precursor relics we find are  a mystery to us, doing little more than generating patterns of pretty lights. Though it turns out there is a massive consumer market for pretty lights which we might want to capitalize on.</String>
+  </StringTable>
+ 
+ 
+ <StringTable>
+    <Label>MasterEconomicFocus1_Name</Label>
+    <String>Trade Economy</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEconomicFocus1_ShortDec</Label>
+    <String>Increases trade route income.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEconomicFocus1_Dec</Label>
+    <String>An economy which prioritizes external trading will be well suited to exploit the wealth of the greater galactic community, or just exploit the greater galactic community in general.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterEconomicFocus_Name</Label>
+    <String>Economic Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEconomicFocus_ShortDec</Label>
+    <String>Increases income.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEconomicFocus_Dec</Label>
+    <String>Now that we have a better understanding of the quirks of galactic scale economies, we can begin trimming back the regulations and policies that seem to be causing inefficiencies in specific industries and areas.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterEconomicFocus2_Name</Label>
+    <String>Well Crafted Treaties</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEconomicFocus2_ShortDec</Label>
+    <String>Increases Diplomatic trade income</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEconomicFocus2_Dec</Label>
+    <String>There is a certain art in the framing of a treaty, and even in an agreement between equals, one party can be more equal than the other. Let's be that more equal party.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterEconomicFocus3_Name</Label>
+    <String>Tourism Board</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEconomicFocus3_ShortDec</Label>
+    <String>Increases tourism income.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterEconomicFocus3_Dec</Label>
+    <String>By reducing the obstacles that foreign tourists might face when trying to visit us, we can encourage more of them to travel here and more of their money to stay here.</String>
+  </StringTable>
+  
+   <StringTable>
+    <Label>MasterTradeOptimization1_Name</Label>
+    <String>Trade Route  Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterTradeOptimization1_ShortDec</Label>
+    <String>Increases overall value of trade routes</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterTradeOptimization1_Dec</Label>
+    <String>By optimizing both the outgoing and receiving ends of our trade routes we have been able to achieve a modest overall profit for everyone involved.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterTradeOptimization_Name</Label>
+    <String>Trade Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterTradeOptimization_ShortDec</Label>
+    <String>Increases trade income.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterTradeOptimization_Dec</Label>
+    <String>Trading is as much an art as a science, but by inducing our traders to use just a smidge more science, they might be able to maximize their profits when dealing with certain counterparties.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterTradeOptimization2_Name</Label>
+    <String>Expanded Trade</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterTradeOptimization2_ShortDec</Label>
+    <String>Allows the establishment of one additional trade route.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterTradeOptimization2_Dec</Label>
+    <String>We believe the best way to increase trade income is the establish more trade routes. With a bit of effort , we have been able to stretch our recourses enough to establish one more.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>MasterPopulationDiversion_Name</Label>
+    <String>Population Diversion</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPopulationDiversion_ShortDec</Label>
+    <String>Allows construction of advanced entertainment buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterPopulationDiversion_Dec</Label>
+    <String>More amusements! Bigger amusements! Human beings are dreadfully simple sometimes, which is distressing on some level, even if it does make them pretty easy to manage.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterApprovalFocus1_Name</Label>
+    <String>Easy to Please</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterApprovalFocus1_ShortDec</Label>
+    <String>Increase the morale of your colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterApprovalFocus1_Dec</Label>
+    <String>We have discovered that we can make people feel more confident and happy. With proper messaging, we can keep our citizens happy without all that costly infrastructure.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterApprovalFocus_Name</Label>
+    <String>Approval Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterApprovalFocus_ShortDec</Label>
+    <String>Increases approval on specific planets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterApprovalFocus_Dec</Label>
+    <String>Our cultural engineers inform us that some well planned manipulations of our cultural materials could make our people happier with what they already have. Which seems too good of an opportunity to pass up.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MasterApprovalFocus2_Name</Label>
+    <String>Easily Distracted</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterApprovalFocus2_ShortDec</Label>
+    <String>Makes building Entertainment Improvements much cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterApprovalFocus2_Dec</Label>
+    <String>We have discovered that our efforts in keeping our people distracted have paid off. We can now build anything, and they will think it is fun.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterApprovalFocus3_Name</Label>
+    <String>Eager to Please</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterApprovalFocus3_ShortDec</Label>
+    <String>Greatly reduces the Maintenance required by Entertainment Improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterApprovalFocus3_Dec</Label>
+    <String>Not only are our people easier to please, they will now do most of the work it takes to distract themselves, for free.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterSuperiorRecreation_Name</Label>
+    <String>Superior Recreation</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterSuperiorRecreation_ShortDec</Label>
+    <String>Allows construction of exotic entertainment buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterSuperiorRecreation_Dec</Label>
+    <String>Zero gravity beaches are a tough concept to wrap your head around, and even tougher to build. But that hasn't stopped them from becoming insanely popular, even if they do get in the hair and teeth a lot more than the regular kind.</String>
+  </StringTable>
+ 
+ 
+  <StringTable>
+    <Label>MasterContentmentTech_Name</Label>
+    <String>Contentment</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterContentmentTech_ShortDec</Label>
+    <String>Allows construction of the ultimate entertainment buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterContentmentTech_Dec</Label>
+    <String>It turns out the answer we were looking for this whole time was simply injecting happiness into the base of the skull. Virtual worlds offer anything a person could desire at a fraction of the cost of actually giving it to them.</String>
+  </StringTable>
+ 
+ <StringTable>
+    <Label>MasterGalacticCruseLines_Name</Label>
+    <String>Galactic Cruise Lines</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterGalacticCruseLines_ShortDec</Label>
+    <String>Allows construction of tourism structures. Increases tourism income.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MasterGalacticCruseLines_Dec</Label>
+    <String>Space is, for people not involved with day to day civilization building, incredibly boring. And it's still a bit deadly. But if we were to spruce it up a bit, there might be some profit in sending tourists there.</String>
+  </StringTable>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </StringTableList>

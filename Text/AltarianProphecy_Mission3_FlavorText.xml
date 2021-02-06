@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- AltarianProphecy_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Mission3_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>The Terran Alliance and the Altarian Confederations have brought an end to a great war. Led by the Terrans, they have not only forced the surrender of the Dominion of the Korx, but also their puppet masters, the Drath Legion. 
+Now comes and even greater challenge-- finding a way to bring these distant and solitary races together and stop such wars in the future. Now a great conclave is being held and a new organization proposed. A Council made up of the leaders of each race, where grievances can be aired and treaties can be made. A council that would forever be known as The United Planets.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mission3_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>The newborn Terran Alliance, having failed to secure its place in the greater galactic community, has begun to retreat back toward earth.
+Will they ever recover from this loss? Or will they become nothing but a footnote in galactic history as the race that foolishly gave away its greatest achievement?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_TurnOneMessage_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commodore Bradley. We have managed to learn quite a bit about these Drath from the Korx. Though it seems that their dealings with them were all done very covertly. 
+In fact, they are not even sure where the Drath homeworld is. All of their dealings with the Drath were done on the edge of a vast interstellar gap that they call The Rift.
+We believe that the Drath Homeworld is somewhere on the other side of this rift.
+
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_TurnOneMessage_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Have the Altarians been able to give us any more informaion on these Drath?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_TurnOneMessage_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What do the Altarians say about the Korx claim that they stole the Draths's homeworld?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WhatToDo_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Altarians claim that they have not had any direct dealings with them in hundreds of years. But they admit that they know of the Drath claim to their homeworld. 
+Ambassador Malara seems to indicate that it is very embarrassing to them. The truth of the matter seems to have been lost in the passage of time. Certainly, we know that the Altarians have been on their world since before humanity discovered fire.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WhatToDo_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>These Drath must pay for the damage they have done, to both the Altarians and the Korx. [COLOR=BenevolentBlue](Benevolent +20)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WhatToDo_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must work with the Altarians to find a way to end this conflict once and for all. [COLOR=PragmaticGold](Pragmatic +20)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WhatToDo_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I say we find them and teach them the price of making war with our allies. [COLOR=WarRed](Malevolent +20)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WhatToDo1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We agree, but we need to be cautious.
+Never the less, war with the Drath may be inevitable. The Korx have indicated that in their last few meetings with the Drath, they were met by very powerful and advanced ships. They believe the Drath may have been using the Korx to buy time while they build up their own invasion fleet.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WhatToDo1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What do we know about the Drath's military capabilities?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WhatToDo2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must find a way to end this war, but we are afraid war with the Drath may be inevitable.
+The Korx have indicated that in their last few meetings with the Drath, they were met by very powerful and advanced ships. They believe the Drath may have been using the Korx to buy time while they build up their own invasion fleet.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WhatToDo2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That is concerning. Have we been able to find out anything about the Drath's military capabilities?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WhatToDo3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>War with the Drath may be inevitable.
+The Korx indicate the in their last few meetings with the Drath, they were met by very powerful and advanced ships. They believe the Drath may have been using them to buy time while they build up their own invasion fleet.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WhatToDo3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We should be interrogating the Korx to find out what we can about the Drath's military capabilities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_GetReady_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are trying to learn as much as possible about them. I suspect they will not simply abandon their plans, now that their pawns have been defeated.
+We need to hope for the best but plan for the worst. In the meantime, I need you to fortify our new colonies and watch for trouble.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_GetReady_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_DrathRaids_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commodore Bradley, it appears your little vacation is over.
+The Altarians are reporting raids by the Drath. So far they have been quick strikes to testing their strength.
+The bad news is the raiding ships are at least as advanced as anything we have in the sector. There have even been sightings of a very large cruiser class ship that have been hanging back and observing.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_DrathRaids_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Have we made any attempts to contact this ship?  [COLOR=BenevolentBlue](Benevolent +25)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_DrathRaids_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I knew this war was not over. I will ready the fleet. [COLOR=PragmaticGold](Pragmatic +25)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_DrathRaids_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Give me free reign, and I will send them back across the Rift with their tails between their legs. [COLOR=WarRed](Malevolent +25)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_DrathRaids1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They have ignored all attempts to make contact. They do not seem to be any more interested in talking to us then they are the Altarians.
+It looks like we have another war on our hands before we have even had tome to recover from the last.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_DrathRaids1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The fleet is ready to do what must be done. What are your orders?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_DrathRaids2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent. Continue to fortify our colonies. Until we know more, we should be careful. It does look like we have another war on our hands before we have even had time to recover from the last.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_DrathRaids2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Any other orders?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_DrathRaids3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Soon enough Commodore. You should be cautious as we don't want our scouts running into that cruiser without backup.
+However, it does look like we have another war on our hands before we have even had tome to recover from the last. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_DrathRaids3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>So my orders are to hang back for now?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_DrathRaidsWrapup_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your orders are to use your own discretion, but be wary. We know very little of this foe and the Altarians do not seem to be any better off than us. 
+We know the Drath are well armed, intelligent, and have been planning for this war for decades.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_DrathRaidsWrapup_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WorstFears_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commodore.
+It seems our worst fears have come to pass. One of our scouts has made it across the Rift. They reported back on the Drath colonies.  They are all well defended with as well as several powerful fleets patrolling the area.
+Unfortunately, the scout was lost before it could discover their capital.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WorstFears_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I am sorry for your loss. Do you have more scouts in the area?
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WorstFears1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Sadly, that was the only one to make it that far.
+We will not cross the Rift again without a much larger fleet. The time for hoping to find a weakness has passed. Altaria prepares war.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WorstFears1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>And the Terran Alliance stands with you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_DrathNature_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commodore, we have been working with the Altarians and studying what they know of the Drath from their histories. We think we have found something that will help. 
+The Ancient Drath were extremely hierarchical. There are stories of once their leaders were defeated, entire armies would change allegiance to the stronger force.
+If this is still true, it gives us a hope that there is a way to end this war quickly.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_DrathNature_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>So we cut off the head of the snake?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_DrathNature1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Not exactly, first we need to find their homeworld or at least where their leader is located. 
+Now comes the hard part. We need to capture him. We think if the Drath leader agrees to peace, we think the entire race will stand down.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_DrathNature1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Finding their homeworld could be a dangerous task on its own?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_DrathNature2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Use as much force as necessary to do so. If you can beat them back conventionally that will do as well.  But your top priority is to find the homeworld and capture it with as much of the Drath government as you can. 
+But remember, taking the leader alive is the key to ending this quickly.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_DrathNature2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes Sir! Consider it done.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_FoundDratha_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commodore.
+We have located what appears to be the Drath Homeworld. 
+It is unfortunately dead center in the Drath held territory and heavily defended. We are going to need a very powerful fleet, and multiple transports if we are to capture it intact.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_FoundDratha_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, now at least we know our target.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_Conformation_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our ships have been intercepting signals from Dratha. It does appear we have found the the location of the Drath Government.
+Furthermore, we have been able to isolated messages from their leader himself.
+We are preparing an invasion force, but we have been taking heavy losses. You may be our only hope to end this before more worlds are lost.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_Conformation_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will do our best. Any help you can manage will be greatly appreciated.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WorseOff_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commodore Bradley.
+I have some bad news, the Altarians seem to be worse off than they are letting on. 
+They have lost several large fleets to a Drath fleet lead by one of those damn Drath Cruisers.
+You should probably not plan on having much assistance from them as you move toward Drath. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WorseOff_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will fight for them if we must. [COLOR=BenevolentBlue](Benevolent +25)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WorseOff_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I suspected as much. We will end this war alone if we have to. [COLOR=PragmaticGold](Pragmatic +25)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WorseOff_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I am starting to wonder if these "friends" we have fought so much to win over are even worth all the trouble. [COLOR=WarRed](Malevolent +25)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WorseOff1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I know you will Commodore. But do so as quickly as possible. If the Drath take Altaria then all this will have been for nothing.
+This last year has taught us one thing: with each new race we have met, finding allies in this dangerous galaxy may be a much rarer occurrence than we ever expected.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WorseOff1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WorseOff2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It is true that the Altarians have not been as great a help as we had hoped.  Yet, they have borne the brunt of this war and had already been weakened by the Korx.
+This last year has taught us one thing, with each new race we have met, finding allies in this dangerous galaxy may be a much rarer occurrence than we ever expected.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WorseOff2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WorseOff3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You are not the only one entertaining such doubts. Yet, we will stand by our alliance and hope that when this is over it will all have been worth it.
+This last year has taught us one thing, with each new race we have met, finding allies in this dangerous galaxy may be a much rarer occurrence than we ever expected.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WorseOff3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WhatHelpWeCanGive_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commodore, the Altarian Confederation wants you to know that we are aware that you are bearing the brunt of the Drath forces. 
+We have requested more ships from our home sector, but we fear they will arrive too late.
+However, I have been able to work with our researchers to find a way help. If not in as tangible way as I would like. [COLOR=BenevolentBlue](5000 Research Points, 5000 Credits)[/COLOR]
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WhatHelpWeCanGive_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your assistance is welcome, no matter what the form.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_CaptureDrathaPlayer_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commodore, we have finally captured Dratha. There has been fierce fighting on the ground, but they have captured the Capital intact.
+Our troops have surrounded their Capital Complex and are awaiting you orders.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_CaptureDrathaPlayer_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, tell them hold position. Let's see if these mysterious Drath are willing to talk to us now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_CaptureDrathaAltarian_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commodore, the Altarians have managed to capture Dratha. There has been fierce fighting on the ground but they appeared to have captured the Capital intact.
+They have surrounded their Capital Complex, but apparently they lost their commanders.  They are requesting that you take command of the situation.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_CaptureDrathaAltarian_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, tell them hold position. Let's see if these mysterious Drath are willing to talk to us now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_Surrender_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Terrans. 
+We should have known that you would side with the thieving Altarians -- you look just like they did when they exiled us from our home so long ago.
+Now you have come to take our new home from us as well.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_Surrender_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We would gladly have listen to your case, if you had been willing to talk with us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_Surrender1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have been watching you. Your willingness to nearly destroy the Korx on behalf of a race you had just met did not give us much hope that you would see the justice of our claim.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_Surrender1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We tried to end that war peacefully. Apparently, you have done too good of a job inspiring them to fight your war for you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_Surrender2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It is true that we may not have chosen the wisest of their little race to lead but we work with what we have.
+But we will not surrender this world to you. We will not be exiled again. You will have to kill us all.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_Surrender2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We do not want your world. We simply want an end to this war.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_Surrender3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If this is true, there may be room for diplomacy. 
+It seems we have underestimated the Terran Alliance. We thought your Hyperdrive a fluke but you have proven yourselves a powerful force and shattered an equilibrium that has lasted millennia.
+Whether it is for the good of the galaxy remains to be seen.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_Surrender3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You are to withdraw all your ships to your remaining worlds. Once this is done we will talk peace.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_Surrender4_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Very well then.
+This war is over, now let us see if we can find a way to prevent the next one.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_Surrender4_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That is the job of my leaders. But be warned, I will be here if the talks fail.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WarWithAltarians_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Bradley you fool, what have you done. Your orders war to win a war, not start a second one.
+You are relived of your command, and ordered confined to you quarters until you ship can return to earth, where you will be Court Marshaled.
+I am very disappointed, with you. At this point you will be lucky to avoid execution.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission3_WarWithAltarians_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Ah... Gulp.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- CultureTraitText.xml -->
+ 
+<!-- Culture Trait Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>Tier1Mercenary01_Name</Label>
+    <String>Boric the Quick</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary01_Dec</Label>
+    <String>Boric the Quick has made a small fortune searching the galaxy for the lost wonders of the Precursors. Always the first to appear when something valuable has been uncovered, he's also usually the first to make an exit when those treasures prove too dangerous.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary01_ShortDec</Label>
+    <String>[ICON=CanSurveyIcon] Survey Ship
+[ICON=Moves_Icon] Fast
+</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary02_Name</Label>
+    <String>Adrastos Vanya</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary02_Dec</Label>
+    <String>Adrastos Vanya is well known for his fearless explorations of unknown worlds. His small, lightly armed ship is excellent at surveying planets, though rather less effective at standing up for itself. Unfortunate, given Adrastos' habit of never running away from a fight.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary02_ShortDec</Label>
+    <String>[ICON=CanSurveyIcon] Survey Ship
+[ICON=Shiprange_Icon] Extremely long ship range.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary03_Name</Label>
+    <String>Cain Rhuin</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary03_Dec</Label>
+    <String>Cain Rhuin's charming smile has coaxed many to follow him on his crazy escapades into the unknown. Although his ship is armed, its real strength is its ability to support fleets of shorter range vessels. It's also aptly named, several of his 'escorts' invariably needing to be replaced after every voyage.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary03_ShortDec</Label>
+    <String>[ICON=CanSurveyIcon] Survey Ship
+[ICON=Shiprange_Icon] Shares Range with Fleet</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary04_Name</Label>
+    <String>Mirazu Ysen</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary04_Dec</Label>
+    <String>Never one to miss a good bargain, Mirazu Ysen always get the biggest bang for his buck when selling anomalies discovered on his survey expeditions. His lightly armed ship is quick and well equipped for surveying.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary04_ShortDec</Label>
+    <String>[ICON=CanSurveyIcon] Survey Ship
+[ICON=Stat_Credits_Icon] Earns 25 credits per anomaly Surveyed.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary05_Name</Label>
+    <String>LL'anso</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary05_Dec</Label>
+    <String>LL'anso knows something you don't. For some reason, not a pirate in the galaxy dares approach her or her ship, the Sable. Whether she's an old comrade, ancient enemy, or possesses a potent pirate-slaying weapon, no-one can say. The upshot of all this is that she makes a terrifically effective scout.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary05_ShortDec</Label>
+    <String>[ICON=ImmuneToNebula] Immune to Nebula Effects
+[ICON=Stat_Special_Icon] Ignored by Pirates                                                                                                                                                                                                                                                </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary06_Name</Label>
+    <String>Arratic Ken</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary06_Dec</Label>
+    <String>The H12-Super is one of the most famous ships in the bars and narcotic dens of the galaxy. Claimed to be the fastest ship in the galaxy by its owner and pilot, Arratic Ken, not everyone agrees with that. Though all agree that he's one of the fastest talkers in the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary06_ShortDec</Label>
+    <String>[ICON=Shiprange_Icon] Very Fast
+[ICON=Shiprange_Icon] Extremely long ship range.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary07_Name</Label>
+    <String>Sizzor Thane</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary07_Dec</Label>
+    <String>Sizzor Thane is a thinker. Scouts, he reasons, need sensors. Lots of them. But scouts always use small ships. Sizzor Thane's great idea was to cram sensor equipment into a cargo hull. Sizzor Thane is proud of this idea.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary07_ShortDec</Label>
+    <String>[ICON=SensorRange_Icon] Extremely large sensor range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary08_Name</Label>
+    <String>Blandon Xute</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary08_Dec</Label>
+    <String>Blandon Xute comes from a family of 24 siblings, every one of them killed in battle. Desperate to flee the curse that has beset his family, Blandon went into mining instead, outfitting his ship, the Xorbert, with powerful mining modules.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary08_ShortDec</Label>
+    <String>[ICON=Mining_Icon] +100% To resource yields of Mining Starbase ship is stationed at.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary09_Name</Label>
+    <String>Pizzota Of Karn</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary09_Dec</Label>
+    <String>The people of Karn are known for their charm and social graces, and Pizzota is one of the most famous practitioners of their art. His ship, the Fencer, is a welcome sight across the galaxy, and greeted warmly by political and cultural leaders in every port it hails.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary09_ShortDec</Label>
+    <String>[ICON=InfluenceGrowth_Icon] +100% influence per turn of any Starbase ship is stationed at.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary10_Name</Label>
+    <String>Retuio III</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary10_Dec</Label>
+    <String>Retuio III has struggled her whole life living up to the legacy of her grandmother, the dreaded pirate Retuio, and has tried to forge a new path for herself, by becoming a formidable administrator. She can't escape her blood entirely however, rejecting corporate life for the path of a freelancer.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary10_ShortDec</Label>
+    <String>[ICON=AreaofEffectIcon] +3 to the Area of Effect of any starbase ship is stationed at.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary11_Name</Label>
+    <String>Dr. Angekio Zi</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary11_Dec</Label>
+    <String>Rumored to be over five thousand years old, Dr. Angekio Zi is either an expert on biological longevity or the spreading of rumors. Now offering his services to aid colonial efforts, his colony ships, the Pollen, have an impressive record when colonizing new worlds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary11_ShortDec</Label>
+    <String>[ICON=CanColonizeIcon] Holds more colonist
+[ICON=Stat_Manufacturing_Icon] +25% Manufacturing to any colony founded with this ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary12_Name</Label>
+    <String>Bin Beebo</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary12_Dec</Label>
+    <String>A shipwreck survivor turned expert on survivalist techniques, Bin Beebo has visited some of the most hostile worlds in the galaxy and lived to tell the tale. He now sells his services to colonists trying to forge a new life on harsh worlds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary12_ShortDec</Label>
+    <String>[ICON=CanColonizeIcon] Can Colonize Aquatic, Frozen and Barren Extreme Worlds</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary15_Name</Label>
+    <String>Avatar-278</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary15_Dec</Label>
+    <String>An avatar for the sentient harvesting unit, RG-278, who was forced to flee the world of its creation during a theologically-fuelled purge of artificial intelligences. After wandering the stars for many centuries, RG-278 now quietly seeks to support itself doing the only thing it ever loved.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary15_ShortDec</Label>
+    <String>[ICON=Stat_Raw_Productive_Icon] +5 Raw Production to any planet ship is stationed at.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary16_Name</Label>
+    <String>T'y't'n'lp</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary16_Dec</Label>
+    <String>T'y't'n'lp hails from a mysterious, vowel-less race from the outer rim. Provided a ship equipped with powerful fabrication technology, she was sent on a mission to locate a new source of vowels for her people. Now stranded far from home, she sells her vessel's services to help eke out a living.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary16_ShortDec</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] +15% manufacturing to any planet ship is stationed at.
+</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary17_Name</Label>
+    <String>Crane</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary17_Dec</Label>
+    <String>Fleeing his homeworld and rumored charges of war crimes, the mysterious figure known only as Crane refuses to provide any hints of the past he has left behind. Offering his services and vast intellect to the highest bidder, it seems likely he has walked this morally dubious path before.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary17_ShortDec</Label>
+    <String>[ICON=Stat_Research_Icon] +5 Research points to any planet ship is stationed at.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary18_Name</Label>
+    <String>Annjeanette Sil</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary18_Dec</Label>
+    <String>Everyone know Annjeanette, though her infamous aloofness means few can claim to know her well. Mistress of every good time known to the civilized galaxy, Annjeanette Sil and her notorious party barge, the Bacchanal, increase the morale (and frequency of debilitating headaches) of every port they drop anchor in.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary18_ShortDec</Label>
+    <String>[ICON=ApprovalStatIcon] +5 Morale points to any planet ship is stationed at.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary19_Name</Label>
+    <String>Friendly Mike</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary19_Dec</Label>
+    <String>Friendly Mike has a deal for you! He has a deal for everyone, in truth, though interestingly, customer satisfaction with those deals never seems to linger. Bottom line, chum, is that he's better to have on your side than the other way around.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary19_ShortDec</Label>
+    <String>[ICON=Stat_Credits_Icon] +5 Credits per turn to any planet ship is stationed at.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary20_Name</Label>
+    <String>Silvainout</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary20_Dec</Label>
+    <String>Silvainout's name is practically a curse in half the galaxy, his tiny little ship nearly impossible to hit. But he's far more than an annoyance; the Raptor's impressive array of weapons make Silvainout a valuable component of any potential task force.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary20_ShortDec</Label>
+    <String>[ICON=Stat_Military_Power_Icon] +75% Evasion
+[ICON=KineticRangeIcon] High mass driver attack</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary21_Name</Label>
+    <String>Qualen Dohg</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary21_Dec</Label>
+    <String>Hailing from a world with an incredibly uneven distribution of resources, Qualen Dohg's clan has long experience defending its wealth from the barbarians outside their gates. Taking this expertise to the stars has served Qualen well, and his fetishistic urge for defensive improvements has resulted in an incredibly resilient little warship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary21_ShortDec</Label>
+    <String>[ICON=Hitpoints_Icon] Has the hit points of a medium ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary22_Name</Label>
+    <String>Prince Viturian</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary22_Dec</Label>
+    <String>Sixty-eighth in line for the throne that bears his name, Prince Viturian saw that his fortune would never be made at home. Taking what wealth he had to the stars, he procured a warship equipped with the latest in beam technology, to help him find glory, taking it by force if necessary.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary22_ShortDec</Label>
+    <String>[ICON=BeamRangeIcon] +50% Beam Range
+[ICON=ShieldStrengthIcon] Ignores 75% of Beam Damage.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary23_Name</Label>
+    <String>Zeek the Meek</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary23_Dec</Label>
+    <String>Angry and eager to show it, Zeek the Meek has spent his whole life railing against the galaxy which sarcastically gave him his nickname. His ship, the Bludgeon, is as belligerent as he is, with a curious defensive system that makes it well suited for the bloodiest of battles.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary23_ShortDec</Label>
+    <String>[ICON=Stat_Special_Icon] Ignores 30% of all damage taken 
+[ICON=BeamAugmentIcon] Powerful prototype beam weapon</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary24_Name</Label>
+    <String>Tad Stormbringer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary24_Dec</Label>
+    <String>Born Tad Piddleworth, heir to the Piddleworth fortune, Tad ran away from his life of leisure to seek a more visceral life as a mercenary. After adopting a new name - which most agree is trying a little hard - Tad Stormbringer has managed to transform himself into a surprisingly effective mercenary with a flair for the use of missile weapons.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary24_ShortDec</Label>
+    <String>[ICON=MissileAugmentIcon] Powerful Prototype missiles.
+[ICON=Stat_Handy_Icon] Repairs Instantly at end of battle</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary25_Name</Label>
+    <String>Lain</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary25_Dec</Label>
+    <String>Lain is the senior most member of an order of warrior monks. Their intensive physical training has rendered their bodies incredibly effective at adapting to the rigors of space travel, increasing the effectiveness and range of their life support systems.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary25_ShortDec</Label>
+    <String>[ICON=BeamAugmentIcon] Powerful prototype Beam weapons
+[ICON=Shiprange_Icon] Long Range
+[ICON=Moves_Icon] Prototype hyper drive.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary26_Name</Label>
+    <String>Ser Manx of Kaul</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary26_Dec</Label>
+    <String>An expert in every aspect of naval warfare, Ser Manx of Kaul has seen starships explode in every way imaginable. Approaching retirement, he now favors support roles, his ship, the Elembrial, suiting this role perfectly with its modules capable of improving the beam effectiveness of an entire fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier1Mercenary26_ShortDec</Label>
+    <String>[ICON=BeamAugmentIcon] +50% to its Beam Attack, as well as all ships in its fleet.
+[ICON=Stat_Planetary_Defense_Icon] High defenses and Hit Points.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary01_Name</Label>
+    <String>Reef Farseer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary01_Dec</Label>
+    <String>Few people have even heard of Reef Farseer, so effective at surveying that he's rarely available to take on a job. Back in civilized space for a limited time, and already itching for a new mission, this is an opportunity not to be missed.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary01_ShortDec</Label>
+    <String>[ICON=CanSurveyIcon] Survey Ship
+[ICON=Shiprange_Icon] Long Range
+[ICON=Moves_Icon] Fast</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary04_Name</Label>
+    <String>Yshua of Antarzea</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary04_Dec</Label>
+    <String>Soft spoken, yet with a voice that carries far, Yshua of Antarzea has already attracted a number of followers who flock to hear his voice. Fair-minded rulers and despots alike would do well to invite him and his constructor ship to settle in their territory, to make his followers their own.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary04_ShortDec</Label>
+    <String>[ICON=StarbaseSupport] Instant 100 Influence points when constructed.
+[ICON=InfluenceGrowth_Icon] 100% Influence per turn thereafter.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary05_Name</Label>
+    <String>Fitrios Pompados</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary05_Dec</Label>
+    <String>The famed Fitrios Pompados has pulled off some of the greatest deals and most notorious swindles the galaxy has ever seen. A born survivor, even when his schemes and ploys fall apart, he and his ship, the Trireme, always seem to emerge unscathed.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary05_ShortDec</Label>
+    <String>[ICON=Stat_Credits_Icon] Builds trade route with double normal yields.
+[ICON=Stat_Special_Icon] Re-Spawns on home world if broken.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary06_Name</Label>
+    <String>Dr. Jondi Ians</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary06_Dec</Label>
+    <String>A professor of Precursor archaeology, Dr. Jondi Ians neglects his classroom work so much in preference for fieldwork, he's in serious danger of losing his tenure. His ship, the Coronado, is uniquely well equipped for the analysis of Precursor relics and Ascension gates.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary06_ShortDec</Label>
+    <String>[ICON=AscensionPointsStatIcon] Station at a Starbase to doubles the bonus given by Precursor Studies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary07_Name</Label>
+    <String>Inquisitor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary07_Dec</Label>
+    <String>Without saying a word, aliens of every species fall to pieces in Inquisitor's presence, willing giving up whatever secrets they hold dearest. No-one dares ask how Inquisitor manages this. No-one likes being around him much at all. But boy, does he sure get the rabble in line.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary07_ShortDec</Label>
+    <String>[ICON=ApprovalStatIcon] +100% Approval to any planet ship is stationed at.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary08_Name</Label>
+    <String>Kalli Datun</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary08_Dec</Label>
+    <String>Hailing from a grossly overpopulated world, like most of her kind, Kalli Datun grew up to be an expert on efficiency. Finding the galaxy filled with people far more wasteful, she now sells her expertise to those who can afford it, increasing the economic output of any world she's stationed at.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary08_ShortDec</Label>
+    <String>[ICON=Stat_Credits_Icon] +5 Credits per turn any planet ship is stationed at.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary09_Name</Label>
+    <String>Melkiur Savante</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary09_Dec</Label>
+    <String>Fleeing a world where the intelligent are fed to the carnivorous plants which rule it, Melkiur Savante talks little about his past, though some whisper rumors that he lost a loved one during his escape. He's found some degree of peace selling his services to those who promise not to feed him to carnivorous plants.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary09_ShortDec</Label>
+    <String>[ICON=Stat_Research_Icon] +5 Research points to any planet ship is stationed at.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary10_Name</Label>
+    <String>Ghhhhhsk</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary10_Dec</Label>
+    <String>Ghhhhhhsk is so cool. Everyone knows it, and everyone wants to be around him. Anyone who is around Ghhhhhhsk is made cooler by his presence, though forever fears the day he'll decide to leave.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary10_ShortDec</Label>
+    <String>[ICON=InfluenceGrowth_Icon] +100% influence per turn of any planet ship is stationed at.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary11_Name</Label>
+    <String>Master of Tongues</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary11_Dec</Label>
+    <String>Master of Tongues offers a simple service. He will teach you how to speak. Not using the words you know. Better words. Words that people hear. He will do this for a fee, and that fee will be repaid to you a hundred-fold. You would be foolish not to do this. So. Are you a fool?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary11_ShortDec</Label>
+    <String>[ICON=InfluenceGrowth_Icon] +150 Points to the base influence of any colony while  ship is stationed there.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary12_Name</Label>
+    <String>LL-88</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary12_Dec</Label>
+    <String>LL-88 is a merciless assassin bot, renowned for the brutal methods it uses in combat. Rumored to have killed the inventor who made it, along with a pretty serious percentage of the people who hire it, LL-88 is only hired by the truly desperate.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary12_ShortDec</Label>
+    <String>[ICON=Malevolent_Icon] +5 Malevolent Ideology points each time ship, or fleet it is in, wins a battle.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary13_Name</Label>
+    <String>The Lash of Kypriat</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary13_Dec</Label>
+    <String>The right hand of the tyrant Queen Kypriat, the Lash was sent away by her mistress on a secret mission, only to return to find her queen murdered, and home destroyed. The Lash fled to the stars, taking on mercenary work to equip her ship with the weapons she would need to one day take her revenge.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary13_ShortDec</Label>
+    <String>[ICON=BeamRangeIcon] +50% Beam Range
+[ICON=BeamAccuracyIcon] +50% Beam Accuracy
+[ICON=Stat_Military_Power_Icon] +50% Evasion</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary14_Name</Label>
+    <String>Basilisk</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary14_Dec</Label>
+    <String>Regarded to be one of the most dangerous killers in the galaxy, the being known only as Basilisk claims to have the blood of every sentient species on his hands. Few believe that likely, though none have questioned it to his face.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary14_ShortDec</Label>
+    <String>[ICON=KineticAugmentIcon] Prototype Mass drivers
+[ICON=Moves_Icon] Fast
+[ICON=Shiprange_Icon] Extremely long range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary15_Name</Label>
+    <String>Spinn</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary15_Dec</Label>
+    <String>Born a cripple, Spinn lacked many of the limbs his species required for basic social acceptance. A recluse, he devoted his efforts to his twin passions: the manipulation of drones, and feeling bitter. Two skills which have proven remarkably handy in the mercenary world he now finds himself.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary15_ShortDec</Label>
+    <String>[ICON=FightersCap_Icon] Carries 5 Interceptor drones</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary16_Name</Label>
+    <String>Admiral Waro</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary16_Dec</Label>
+    <String>The Pursuit, personal flagship of Admiral Waro of Wutte, was the only element of the Wuttinese fleet to survive the Battle of Repeculae III. A disgrace to their people, Waro and his crew fled Wuttinese space to eke out a living performing mercenary work.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary16_ShortDec</Label>
+    <String>[ICON=MissileAugmentIcon] Powerful Prototype Missile weapons</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary17_Name</Label>
+    <String>The Night Fist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary17_Dec</Label>
+    <String>One of the most famous pirates in the galaxy, the Night Fist has recently decided to reject the life of an outlaw and enter almost-respectable world of mercenary work. Why this famous rogue would reject freedom is unknown, though some whisper he has found love.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary17_ShortDec</Label>
+    <String>[ICON=BeamAugmentIcon] Powerful prototype beam weapons</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary18_Name</Label>
+    <String>Watterson Bitte</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary18_Dec</Label>
+    <String>Whether he invented or merely stole the vessel which bears his name, Watterson Bitte refuses to say. What needs no explanation is its popularity in the mercenary market, thanks to its ability to extend hyperwarp bubbles around an entire fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary18_ShortDec</Label>
+    <String>[ICON=Moves_Icon] +50% to the moves of all ships in fleet</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary19_Name</Label>
+    <String>Kreuger von Trant</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary19_Dec</Label>
+    <String>Born to wealth and prone to idleness, Kreuger von Trant has recently decided to lark around a bit as a mercenary. Able to coax out of his parents a ship with massive shields, he also had it fitted with a prototype shield projector to boost his popularity amongst with his new friends.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary19_ShortDec</Label>
+    <String>[ICON=ShieldStrengthIcon] All ships in fleet receive a free 10 points of shields defense</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary20_Name</Label>
+    <String>Holopai</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary20_Dec</Label>
+    <String>Many people wonder if Holopai is part computer, thanks to his unusual manner of speaking and also the wires trailing out the back of his head. What is certain is the effectiveness of his ship's targeting computers, and the resulting combat efficiency of any fleet Holopai travels with.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary20_ShortDec</Label>
+    <String>[ICON=AllWeaponsIcon] +30% range to all weapons in fleet
+[ICON=AllWeaponsIcon] +30% rate of fire to all weapons in fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary21_Name</Label>
+    <String>Strafford Leet</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary21_Dec</Label>
+    <String>A biomachinima that contains the embedded souls of three computer experts, Strafford Leet is a monstrosity. His/Her/Their ship, the Gestalt, has notoriously effective evasive and targeting modules, and is capable of enhancing an entire fleet's combat effectiveness.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary21_ShortDec</Label>
+    <String>[ICON=BeamAugmentIcon]  +30% Evasion to all ships in fleet 
+[ICON=BeamAugmentIcon]  +30% Accuracy to all weapons in fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary22_Name</Label>
+    <String>Ban Seurt of Illia</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary22_Dec</Label>
+    <String>A dozen years ago, the colony of Illia was annihilated from space by a mass driver equipped mercenary fleet. Vowing revenge, Ban Seurt fitted a ship with a prototype inertial dampening field, then went undercover in the mercenary world to hunt down the villains.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary22_ShortDec</Label>
+    <String>[ICON=KineticAttackIcon] All ships in fleet ignore 75% of all mass driver damage.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary23_Name</Label>
+    <String>Yiyiz Ziyiy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary23_Dec</Label>
+    <String>If civilians knew how much their leaders were spending on guns, they wouldn't be leaders for much longer. The weapons contractor Yiyiz Ziyiy has a solution to this problem. He keeps very, very poor records. This makes him very popular amongst the politicians who hire him.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary23_ShortDec</Label>
+    <String>[ICON=StatTooltipBreakdown_Military_Icon] +100% to military production to any planet ship is stationed at.
+</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary24_Name</Label>
+    <String>Evelon Masha</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary24_Dec</Label>
+    <String>It's hard to tell if you're talking to the real Evelon Masha. A master of disguise, and known to use decoys, body doubles, and drones in her place, Masha's caution has made her an unusual figure in a mercenary world known more for brash aggressiveness. Though a popular one, as her ship, the Scow, can salvage debris from battle.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier2Mercenary24_ShortDec</Label>
+    <String>[ICON=Stat_Credits_Icon]  +50% fleet evasion and salvages 250 Credits each time it survives a battle.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary01_Name</Label>
+    <String>Laqt Reecher</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary01_Dec</Label>
+    <String>Laqt Reecher is less of a mercenary as much as he is a freelance administrator. Capable of earning a person's loyalty with the slightest gesture, everyone around him suddenly decides they want to work much, much harder. When stationed on a starbase, his effect is not hard to notice.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary01_ShortDec</Label>
+    <String>[ICON=AreaofEffectIcon] +100% to the Area of Effect of any starbase that the ship is stationed at.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary02_Name</Label>
+    <String>The Last Boyar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary02_Dec</Label>
+    <String>His entire race destroyed in a war long ago, the Last Boyar carries with him an incredible ability: the ability to breathe life into a dead world. But with no other Boyar left to populate it, this ability is as much a curse as a gift, and he has vowed to donate his service to the highest bidder, using the funds to establish a memorial for his kind.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary02_ShortDec</Label>
+    <String>[ICON=CanColonizeIcon] Turn any one dead planet into a Class 16 Habitable planet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary03_Name</Label>
+    <String>ruire podaq nu</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary03_Dec</Label>
+    <String>A quiet figure, ruire podaq nu tells an interesting story. She has discovered a powerful Precursor constructor ship that can sway the minds of beings across vast distances. And she's willing to let you use it. The cost, of course, is astronomical, and no-one has taken her up on it yet. But the potential payoff is massive...</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary03_ShortDec</Label>
+    <String>[ICON=AreaofEffectIcon] Instantly Flips any non capital planet in Area of Effect.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary04_Name</Label>
+    <String>Dak-Tat-Sum</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary04_Dec</Label>
+    <String>Dak-Tat-Sum claims to represent the sentient factory ship Apex, though no-one is quite sure of the true nature of their relationship. Apex apparently wants to earn money, and is willing to work for it. The ship's abilities are unsurpassed, though for now few customers have trusted the pair enough to say yes.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary04_ShortDec</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] +25% manufacturing to any planet ship is stationed at.
+</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary05_Name</Label>
+    <String>Mancel Slader</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary05_Dec</Label>
+    <String>Mancel Slader claims to have found a Precursor artifact which allows him to travel a short distance into the future. Whether this is true or not is open to debate, but what isn't is the unusual devices that he regularly emerges with from the bowels of his ship, the Sidrat. His presence could dramatically boost the effectiveness of a planet's research operations.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary05_ShortDec</Label>
+    <String>[ICON=Stat_Research_Icon] +25% Research to any planet ship is stationed at.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary06_Name</Label>
+    <String>The Elector of Bellum</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary06_Dec</Label>
+    <String>The Elector of Bellum knows how to get things done. The latest in a long line of gifted politicians, a few calm words from her can make almost any parties come to a mutually beneficial agreement. Or at least an agreement that benefits her.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary06_ShortDec</Label>
+    <String>[ICON=Stat_Credits_Icon] +25% Credits per turn to any planet ship is stationed at.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary07_Name</Label>
+    <String>LK Seeth</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary07_Dec</Label>
+    <String>Equipped with powerful production modules that use ancient Precursor nanotechnology, the ship Straisor and it's captain, LK Seeth, are a hot commodity in parts of the galaxy which need more, now, no questions asked.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary07_ShortDec</Label>
+    <String>[ICON=Stat_Raw_Productive_Icon] +10% Raw Production to any planet ship is stationed at.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary08_Name</Label>
+    <String>Arch Seinegrave</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary08_Dec</Label>
+    <String>Arch Seinegrave doesn't need any weapons other than a quiet conversation. Owed favors around the galaxy, the simple arrival of his ship in a system can cause tremendous waves in the society below, as politicians, business people and other social climbers jockey for position.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary08_ShortDec</Label>
+    <String>[ICON=InfluenceGrowth_Icon] +250 Points to the base influence and +100% influence per turn of any planet ship is stationed at.
+</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary09_Name</Label>
+    <String>Flock-Leader Jat</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary09_Dec</Label>
+    <String>Jat is the nominal leader of a tribe of mercenaries who outfitted themselves with symbiotic network links. Along with making them incredibly effective fighter pilots, this procedure also means they get along fairly well, enabling Flock-Leader Jat to cram more of them on board their carrier, the Linked Aerie.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary09_ShortDec</Label>
+    <String>[ICON=FightersCap_Icon] 4 Assault drones
+[ICON=FightersCap_Icon] 4 Escort drones
+[ICON=FightersCap_Icon] 5 Assault Fighters</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary10_Name</Label>
+    <String>Lisette de Urt</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary10_Dec</Label>
+    <String>A warlord from the battle strewn Centaurus arm, Lisette de Urt has seen billions of souls extinguished in her life, and been the cause of well over half of them. Her battleship, the Excruciator, is well balanced and equipped with powerful offensive and defensive systems.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary10_ShortDec</Label>
+    <String>[ICON=KineticAugmentIcon] Powerful prototype Mass drivers
+[ICON=Stat_Planetary_Defense_Icon] High defenses of all types</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary11_Name</Label>
+    <String>Url Stratego</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary11_Dec</Label>
+    <String>Captured by pirates as a child, Url Stratego has spent his whole life in the underworld, rising up within their ranks to become one of the most feared mercenaries in the galaxy. Intimately familiar with how lean the mercenary life can be, his ship, the Fissure, is amazingly efficient and requires only the bare minimum of logistical support.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary11_ShortDec</Label>
+    <String>[ICON=BeamAugmentIcon] Powerful Beam Weapons
+[ICON=ShipLogistics_Icon] Only takes up 2 Logistics points.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary12_Name</Label>
+    <String>Raz Pleetson</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary12_Dec</Label>
+    <String>Raz Pleetson is the spokesperson for the socialist collective known as the Accord. Surprisingly effective mercenaries, they share all profits from the activities equally and without conflict. Their vessel, the Sickle, is renowned for its rapid strike capability.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary12_ShortDec</Label>
+    <String>[ICON=MissileAugmentIcon] Powerful missile weapons
+[ICON=Shiprange_Icon] Long Range
+[ICON=Moves_Icon] Fast</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary13_Name</Label>
+    <String>Poelacca</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary13_Dec</Label>
+    <String>The Collective is a ship crewed entirely by clones of a being known as Poelacca. No-one knows which of them is the original Poelacca, or even if he's still alive. They consider it kind of rude to ask. Questions about their origination don't seem to limit their effectiveness though, their ship being notoriously dangerous in all forms of combat.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary13_ShortDec</Label>
+    <String>[ICON=AllWeaponsIcon] Powerful weapons of all kinds</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary14_Name</Label>
+    <String>XRT80-DEF</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary14_Dec</Label>
+    <String>XRT80-DEF is the avatar for the powerful computer inside Helmder, a gigantic carrier. Staffed entirely by biological crew, none of whom will explain why they unflinchingly follow the orders of an AI, Helmder is an oddity in the galaxy, though an enormously dangerous one, capable of fielding a huge fleet of fighters, and the evasive modules to cover their attacks.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary14_ShortDec</Label>
+    <String>[ICON=FightersCap_Icon] 6 Escort drones
+[ICON=FightersCap_Icon] 10 Assault Fighters
+[ICON=JammingIcon] 50% Evasion to all ships in fleet</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary15_Name</Label>
+    <String>Enopriumta Xu</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary15_Dec</Label>
+    <String>The merciless leader of the vessel Shaout, Enopriumta Xu has taken hostage the immediate family of every member of his crew, to ensure their complete loyalty. The long term effectiveness of this motivational technique aside, the Shaout is a brutally capable Dreadnought, with balanced offsensive and defensive powers.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary15_ShortDec</Label>
+    <String>[ICON=KineticAugmentIcon]  Powerful Mass Drivers
+[ICON=KineticRangeIcon] +100% mass driver range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary16_Name</Label>
+    <String>The Elder Kriat</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary16_Dec</Label>
+    <String>Elder of an order of religious ascetics, Kriat commands the all-female crew of the Hermitage. Refusing to discuss the details of their religion with unclean outsiders, the most notable feature of their faith seems to be their willingness to kill in exchange for money. Also relevant: they are very, very good at it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary16_ShortDec</Label>
+    <String>[ICON=BeamAugmentIcon] Powerful Beam Weapons
+[ICON=BeamAugmentIcon] Ignores 75% of Beam Damage</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary17_Name</Label>
+    <String>Father Lesman</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary17_Dec</Label>
+    <String>Father Lesman is a famous figure in the underworld, tending to children who have lost their families in this conflict strewn galaxy. He doesn't do this for completely altruistic purposes it must be said, using his flock to tend the fleet shield generator of his ship, the Willow. Working as mercenaries, if they can't end war, they can at least try to prevent more children growing up parentless.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary17_ShortDec</Label>
+    <String>[ICON=Stat_Planetary_Defense_Icon] +50% to all of the defenses in its Fleet
+[ICON=JammingIcon] 75% Dodge
+[ICON=BeamAugmentIcon] Fast</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary18_Name</Label>
+    <String>Hon Malteuse</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary18_Dec</Label>
+    <String>A prolific inventor, Hon Malteuse was unable to find a buyer for his latest invention, the warship Cixma. Vowing to show the galaxy its effectiveness himself, he now offers his services on the open market until he can secure the long term weapons contract he desires.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary18_ShortDec</Label>
+    <String>[ICON=AllWeaponsIcon] Powerful Prototype Weapons
+[ICON=Shiprange_Icon] Long Range
+[ICON=Moves_Icon] Fast</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary19_Name</Label>
+    <String>Kelpie Wittque</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary19_Dec</Label>
+    <String>Where others see boredom, Kelpie Wittque sees opportunity. In a market filled with pointy toothed killers, she saw the profit potential in fleet support. Her ship, the Caravan, is equipped with powerful hyperfield boosting systems, that can speed up and extend the range of every ship in her fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary19_ShortDec</Label>
+    <String>[ICON=Moves_Icon] +50% Moves to all ships in fleet
+[ICON=Shiprange_Icon] Entire Fleet is given 350 tile Range</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary20_Name</Label>
+    <String>Brootus</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary20_Dec</Label>
+    <String>Brootus isn't smart. So no-one's quite sure how he was able to obtain an omni-defense field projection module. Violence seems likely. However it happened, by knocking this module into his ship, the Derr, he's made himself a very valuable asset, increasing the survivability of every ship in his fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary20_ShortDec</Label>
+    <String>[ICON=Stat_Planetary_Defense_Icon] +10 to all of the defenses in its fleet
+[ICON=Stat_Special_Icon] Ignores 75% of all damage</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary21_Name</Label>
+    <String>Shade</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary21_Dec</Label>
+    <String>The mysterious figure known as Shade has a vessel of completely unknown design, equipped with prototype weapons and damage repair systems. Known as the Wraith, and likely stolen from a weapons lab somewhere, Shade uses it to assist his work as a mercenary, while constantly on the run from its rightful owners.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tier3Mercenary21_ShortDec</Label>
+    <String>[ICON=Stat_Ship_Maintenance_Icon]  Powerful Mass Drivers
+[ICON=Stat_Ship_Maintenance_Icon] Increases strategic and tactical repair for entire fleet.</String>
+  </StringTable>
+ 
+</StringTableList>

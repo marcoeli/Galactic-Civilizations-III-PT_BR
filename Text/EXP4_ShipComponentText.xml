@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- EXP4_ShipComponentText.xml -->
+ 
+  <StringTable>
+    <Label>SupplyModule_Name</Label>
+    <String>Cargo Hold</String>
+  </StringTable>
+  <StringTable>
+    <Label>SupplyModule_Dec</Label>
+    <String>Provides 100 construction to colony it is sent to.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EngineerComponent_Name</Label>
+    <String>Engineer Component</String>
+  </StringTable>
+  <StringTable>
+    <Label>EngineerComponent_Dec</Label>
+    <String>Provides 100 starship production to any colony it is sent to.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HypergateComponent_Name</Label>
+    <String>Hypergate Component</String>
+  </StringTable>
+  <StringTable>
+    <Label>HypergateComponent_Dec</Label>
+    <String>Allows construction of Hypergates.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SporeComponent_Name</Label>
+    <String>Spore Module</String>
+  </StringTable>
+  <StringTable>
+    <Label>SporeComponent_Dec</Label>
+    <String>Creates a Spore ship, capable of wiping out the entire population of an undefended planet.</String>
+  </StringTable>
+ 
+ 
+</StringTableList>

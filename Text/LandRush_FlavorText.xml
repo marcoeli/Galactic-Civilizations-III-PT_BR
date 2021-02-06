@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- LandRush_FlavorText.xml -->
+ 
+  <!-- Message Note - 1) Hello we are the Iconians-->
+  <FlavorTextDef>
+    <InternalName>LandRush_MegaEvent_Message_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Strange news. An independent research facility on the other side of the galaxy has been experimenting with new terraforming technologies. In some sort of accident, their facility was totally destroyed. The resulting shockwave has spread out across the galaxy converting several previously dead worlds into habitable planets.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>LandRush_MegaEvent_Message_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Such great minds will be missed, but we shall make sure these new worlds remember them. [COLOR=BenevolentBlue](Benevolent +10)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>LandRush_MegaEvent_Message_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>New worlds are always welcome. Let us put them to good use. [COLOR=PragmaticGold](Pragmatic +10)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>LandRush_MegaEvent_Message_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It was convenient of these fools to die and leave us these worlds. [COLOR=WarRed](Malevolent +10)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

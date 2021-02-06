@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- CampaignText.XML -->
+ 
+  <StringTable>
+    <Label>TheArtifact_TheArtifact_Name</Label>
+    <String>The Artifact (Event)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TheArtifact_TheArtifact_Dec</Label>
+    <String>A strange Precursor Artifact has appeared out of a tear in space time near the capital world of the weakest race in known galaxy, it has begun emanating an energy field that seems to be greatly inserting their power.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TheArtifact_TheArtifact_ShortDec</Label>
+    <String>A strange Precursor Artifact has appeared out of a tear in space time near the capital world of the weakest race in known galaxy, it has begun emanating an energy field that seems to be greatly inserting their power</String>
+  </StringTable>
+ 
+</StringTableList>

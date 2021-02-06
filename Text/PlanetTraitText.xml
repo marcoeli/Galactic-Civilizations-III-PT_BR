@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- PlanetTraitText.XML -->
+
+ 
+  <StringTable>
+    <Label>DesertWorld_Name</Label>
+    <String>[ICON=DesertWorldIcon] Desert Planet</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DesertWorld_Dec</Label>
+    <String>Excellent for manufacturing, but difficult to farm.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ActiveCore_Name</Label>
+    <String>[ICON=Active_Core_Icon] Active Core</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ActiveCore_Dec</Label>
+    <String>Abundant Geothermal energy, but dangerous to the population.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GhostWorld_Name</Label>
+    <String>[ICON=GhostWorldIcon] Ghost World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GhostWorld_Dec</Label>
+    <String>Abandoned world, full of strange new artifacts to study.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SereneWorld_Name</Label>
+    <String>[ICON=SereneWorldIcon] Serene</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SereneWorld_Dec</Label>
+    <String>The type of planet we all want to retire to.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BountifulWorld_Name</Label>
+    <String>[ICON=BountifulWorldIcon] Bountiful</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BountifulWorld_Dec</Label>
+    <String>A world full of valuable and rare resources.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BreadBasketWorld_Name</Label>
+    <String>[ICON=BreadBasketWorldIcon] Bread Basket</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BreadBasketWorld_Dec</Label>
+    <String>The perfect world to grow food and population.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TidallyLockedWorld_Name</Label>
+    <String>[ICON=TidallyLockedWorldIcon] Tidally Locked</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TidallyLockedWorld_Dec</Label>
+    <String>A world with one large moon which is helpful to traders and manufacturing.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShieldedWorld_Name</Label>
+    <String>[ICON=ShieldedWorldIcon] Shielded</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShieldedWorld_Dec</Label>
+    <String>Heavily shielded by a dense Magnetic field, very helpful to research and defense.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThinAtmosphereWorld_Name</Label>
+    <String>[ICON=ThinAtmosphereWorldIcon] Thin Atmosphere</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThinAtmosphereWorld_Dec</Label>
+    <String>Great for growing food, but not so great at growing people.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShroudedWorld_Name</Label>
+    <String>[ICON=ShroudedWorldIcon] Shrouded</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShroudedWorld_Dec</Label>
+    <String>A world surround by a dust cloud, helpful in defense but very isolating to the population.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LowGravityWorld_Name</Label>
+    <String>[ICON=LowGravityWorldIcon] Low Gravity</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LowGravityWorld_Dec</Label>
+    <String>Low Gravity, helpful to manufacturing, and tourists love it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ScenicWorld_Name</Label>
+    <String>[ICON=ScenicWorldIcon] Scenic World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ScenicWorld_Dec</Label>
+    <String>All other planets are ugly by comparison.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AquaticWorld_Name</Label>
+    <String>[ICON=AquaticWorldIcon] Aquatic World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AquaticWorld_Dec</Label>
+    <String>A massive ocean doesn't leave enough land for standard colonization.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CorrosiveWorld_Name</Label>
+    <String>[ICON=ToxicWorldIcon] Corrosive World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CorrosiveWorld_Dec</Label>
+    <String>Acidic lakes and storms makes this world unsuitable for colonization by non-carbon lifeforms.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BacterialWorld_Name</Label>
+    <String>[ICON=FrozenWorldIcon] Bacterial World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BacterialWorld_Dec</Label>
+    <String>A wide range of agressive and lethal bacteria make this world unsuitable for standard colonization.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FrozenWorld_Name</Label>
+    <String>[ICON=FrozenWorldIcon] Frozen World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FrozenWorld_Dec</Label>
+    <String>Temperatures are too low for standard colonization .</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BarrenWorld_Name</Label>
+    <String>[ICON=BarrenWorldIcon] Barren World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BarrenWorld_Dec</Label>
+    <String>Lack of any biomass makes standard colonization impossible.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ToxicWorld_Name</Label>
+    <String>[ICON=ToxicWorldIcon] Toxic World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ToxicWorld_Dec</Label>
+    <String>Atmosphere is too toxic to support standard colonization.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RadioactiveWorld_Name</Label>
+    <String>[ICON=RadioactiveWorldIcon] Radioactive World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RadioactiveWorld_Dec</Label>
+    <String>Radiation Levels are too high for standard colonization.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorShielded_Name</Label>
+    <String>Shielded</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorShielded_Dec</Label>
+    <String>Locked behind an Impenetrable Precursor Shield.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CampaignPrecursorPrisonTrait_Name</Label>
+    <String>[ICON=PrecursorPrisonIcon] Precursor Prison</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CampaignPrecursorPrisonTrait_Dec</Label>
+    <String>Precursor Prison</String>
+  </StringTable>
+ 
+</StringTableList>

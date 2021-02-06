@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- APMission1_KorxTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>APMission1_KorxTechTree_Name</Label>
+    <String>APMission1 Korx Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_KorxTechTree_ShortDec</Label>
+    <String>The base tech tree.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_KorxPracticalFusion_ShortDec</Label>
+    <String>Allows construction of improved powerplants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_KorxQuantumPower_ShortDec</Label>
+    <String>Allows construction of exotic powerplants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_KorxPhotonTorpedos_Name</Label>
+    <String>Photon Torpedos</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_KorxPhotonTorpedos_ShortDec</Label>
+    <String>Allows construction of devestating missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_KorxKineticOptimization1_Name</Label>
+    <String>Kinetic Range Extention</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_KorxQuantumDrivers_ShortDec</Label>
+    <String>Allows construction of devestating kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_KorxArreonMissileDefenseTech_Name</Label>
+    <String>Arreon Missile Defense</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_KorxCommunicationsTech_Name</Label>
+    <String>Communications</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+ 
+</StringTableList>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+
+	  <FlavorTextDef>
+		<InternalName>FIRST_CONTACT_MAIN</InternalName>
+		<FlavorTextOption>
+		  <Requirements>
+			<SpeakerFaction>FACTION_ARCEAN</SpeakerFaction>
+		  </Requirements>
+		  <Text>Olá, {PLAYERFACTION:2}.  Em nome do povo arceano, eu os saúdo em paz. Não faça nada que nos faça lamentar isto. </Text>
+		  <PreferenceWeight>1</PreferenceWeight>
+		</FlavorTextOption>
+		
+		<FlavorTextOption>
+		  <Requirements>
+			<SpeakerFaction>FACTION_ARCEAN</SpeakerFaction>
+			<ListenerFaction>FACTION_DRENGIN</ListenerFaction>
+		  </Requirements>
+		  <Text>Surpreendido por nos ver, Drengin? Nós sobrevivemos. Sobreviveremos sempre. Você jogou tudo o que tinha contra nós, e nós sobrevivemos. Você não vai sobreviver, eu acho. </Text>
+		  <PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>	
+   
+   	<FlavorTextOption>
+		  <Requirements>
+			<SpeakerFaction>FACTION_DRENGIN</SpeakerFaction>
+			<ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+		  </Requirements>
+		  <Text>Oh, delicioso, um Arcean! Já gostamos de sugar o líquido de seus ossos uma vez, eu me lembro. Talvez voltemos a apreciá-lo. </Text>
+		  <PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>	
+   
+	</FlavorTextDef>
+
+	
+	<!-- Peaceful-->
+	<FlavorTextDef>
+		<InternalName>FIRST_CONTACT_RESPONSE_PEACEFUL</InternalName>
+		
+		<FlavorTextOption>
+		  <Requirements>
+			<SpeakerFaction>FACTION_ARCEAN</SpeakerFaction>
+		  </Requirements>
+		  <Text>E nós o saudamos com o mesmo espírito.</Text>
+		  <PreferenceWeight>50</PreferenceWeight>
+		</FlavorTextOption>
+		
+		<FlavorTextOption>
+		  <Requirements>
+			<SpeakerFaction>FACTION_ARCEAN</SpeakerFaction>
+			<ListenerFaction>FACTION_DRENGIN</ListenerFaction>
+		  </Requirements>
+		  <Text>Você parece ter um chip no ombro sobre isso, Arcean. Por favor. Não lhe queremos fazer mal..</Text>
+		  <PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+		
+	<FlavorTextOption>
+		  <Requirements>
+			<SpeakerFaction>FACTION_DRENGIN</SpeakerFaction>
+			<ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+		  </Requirements>
+		  <Text>Surpreendido por nos ver, Drengin? Nós sobrevivemos. Sobreviveremos sempre. Você jogou tudo o que tinha contra nós, e nós sobrevivemos. Você não vai sobreviver, eu acho.</Text>
+		  <PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+		
+	</FlavorTextDef>
+
+		<!-- Neutral -->
+	  <FlavorTextDef>
+		<InternalName>FIRST_CONTACT_RESPONSE_NEUTRAL</InternalName>
+				<FlavorTextOption>
+		  <Requirements>
+			<SpeakerFaction>FACTION_DRENGIN</SpeakerFaction>
+			<ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+		  </Requirements>
+		  <Text>Você nunca mais conhecerá o sabor da carne de Arcean, monstro.</Text>
+		  <PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+	
+		<FlavorTextOption>
+		  <Requirements>
+			<SpeakerFaction>FACTION_ARCEAN</SpeakerFaction>
+			<ListenerFaction>FACTION_DRENGIN</ListenerFaction>
+		  </Requirements>
+		  <Text>Em breve corrigiremos essa supervisão, Arcean. Mantenha seus ossos úmidos. Seu dia está chegando.</Text>
+		  <PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+	</FlavorTextDef>
+	
+
+	<FlavorTextDef>
+    <InternalName>GENERIC_GREETING</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ARCEAN</SpeakerFaction>
+      </Requirements>
+      <Text>Olá, {PLAYERFACTION:2}. O que você tem hoje para o povo Arcean?</Text>
+      <PreferenceWeight>23</PreferenceWeight>
+    </FlavorTextOption>
+	
+	  <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ARCEAN</SpeakerFaction>
+		<ListenerFaction>FACTION_DRENGIN</ListenerFaction>
+      </Requirements>
+      <Text>O que você quer, {LEADERNAME:1}? Que mentiras e decepções você nos trouxe hoje?</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+	
+	  <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ARCEANN</SpeakerFaction>
+		<ListenerFaction>FACTION_DRENGI</ListenerFaction>
+      </Requirements>
+      <Text>O que o delicioso Arcean {LEADERNAME:2} tem para nós hoje? Você não nos trouxe seus ossos para amamentar, trouxe?</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+	
+	</FlavorTextDef>
+	
+
+		
+	
+</FlavorTextDefs>

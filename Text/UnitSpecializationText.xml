@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- UnitSpecializationText.xml -->
+ 
+  <StringTable>
+    <Label>Unit_Citizen_Name</Label>
+    <String>Cidadão</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unit_Citizen_Dec</Label>
+    <String>Descrição do cidadão</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unit_Leader_Name</Label>
+    <String>Líder</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unit_Leader_Dec</Label>
+    <String>Os líderes podem ser designados para aumentar qualquer capacidade de sua civilização na tela do Governador em mais de 6% e podem ser reatribuídos sem penalidades.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unit_General_Name</Label>
+    <String>General</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unit_General_Dec</Label>
+    <String>Os generais fornecem 5 legiões de forças para a sua civilização. Eles também podem dar à sua civilização um impulso de 3% à resistência planetária ou podem se estabelecer em uma colônia específica para aumentar a resistência daquele planeta em 30%.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unit_Administrator_Name</Label>
+    <String>Administrador</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unit_Administrator_Dec</Label>
+    <String>Os administradores fornecem 5 pontos para administração que, por sua vez, são consumidos por Navios de Pesquisa, Colônias e Bases Estelares.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unit_Commander_Name</Label>
+    <String>Comandante</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unit_Commander_Dec</Label>
+    <String>Os comandantes podem ser designados para naves estelares, aumentando as estatísticas da nave à medida que o comandante se eleva.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unit_Spy_Name</Label>
+    <String>Espião</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unit_Spy_Dec</Label>
+    <String>Os espiões podem ser usados contra civilizações estrangeiras - sabotando planetas, confiscando informações vitais e combatendo espiões inimigos que possam estar em seu mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unit_Worker_Name</Label>
+    <String>Operário</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unit_Worker_Dec</Label>
+    <String>Os trabalhadores podem impulsionar a construção social de sua civilização em 3% ou você pode instalá-los em uma colônia e, em vez disso, impulsionar a produção social em 30%.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unit_Defender_Name</Label>
+    <String>Defensor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unit_Defender_Dec</Label>
+    <String>Fornece uma guarnição para o planeta</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unit_SlaveMaster_Name</Label>
+    <String>Mestre de escravos</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unit_SlaveMaster_Dec</Label>
+    <String>Só são úteis em planetas, mas podem impulsionar tanto a construção naval quanto a social em 25%.  (+1% por nível)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unit_Mechanic_Name</Label>
+    <String>Mecânico</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unit_Mechanic_Dec</Label>
+    <String>Este ser cibernético aumenta a velocidade de nossos navios em 1, e impulsiona a pesquisa +1% por nível</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unit_Scientist_Name</Label>
+    <String>Cientista</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unit_Scientist_Dec</Label>
+    <String>Os cientistas impulsionarão a pesquisa de sua Civilização em 3% ou você poderá estabelecer uma colônia e impulsionar a pesquisa em 30% em seu lugar.  (+1% por nível)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unit_Engineer_Name</Label>
+    <String>Engenheiro</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unit_Engineer_Dec</Label>
+    <String>Os engenheiros podem impulsionar a construção naval de sua civilização em 3% ou você pode instalá-los em uma colônia e, em vez disso, impulsionar a produção naval em 30%.  (+1% por nível)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unit_Entrepreneur_Name</Label>
+    <String>Empreiteiro</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unit_Entrepreneur_Dec</Label>
+    <String>Os empresários podem impulsionar a economia de sua civilização em 3% ou podem se estabelecer em uma colônia para impulsionar sua economia em 30% em seu lugar.  (+1% por nível)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unit_Spider_Name</Label>
+    <String>Aranha</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unit_Spider_Dec</Label>
+    <String>Aumenta enormemente a visão em qualquer planeta onde seja colocado. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unit_Celebrity_Name</Label>
+    <String>Celebridade</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unit_Celebrity_Dec</Label>
+    <String>As celebridades podem impulsionar o moral de sua civilização em 3% ou podem ser estabelecidas em uma colônia para impulsionar o moral lá em 30%.  (+1% por nível)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unit_Farmer_Name</Label>
+    <String>Agricultor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unit_Farmer_Dec</Label>
+    <String>Os agricultores podem aumentar a produção de alimentos de sua civilização em 3% ou podem se estabelecer em uma colônia específica para aumentar a produção de alimentos em 30% lá.  (+1% por nível)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unit_Cleric_Name</Label>
+    <String>Clérigo</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unit_Cleric_Dec</Label>
+    <String>Os clérigos espalham sua influência pelo espaço conhecido.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unit_Diplomat_Name</Label>
+    <String>Diplomata</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unit_Diplomat_Dec</Label>
+    <String>Os diplomatas podem ser enviados para civilizações estrangeiras a partir da tela de Diplomacia ou podem ser usados para aumentar sua produção de influência global ou enviados para um planeta específico para aumentar drasticamente a influência local.</String>
+  </StringTable>
+ 
+ 
+ 
+</StringTableList>

@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Haven_DrenginTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>Haven_DrenginTechTree_Name</Label>
+    <String>Haven Drengin Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginImperialismTech_Name</Label>
+    <String>Imperialism</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginImperialismTech_ShortDec</Label>
+    <String>Colonizing new worlds is cheaper than invading them, if not as fun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginXenoExpoltation_Name</Label>
+    <String>Xeno Exploitation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginXenoExpoltation_ShortDec</Label>
+    <String>Put all those worthless colonists to work doing something useful.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginIndustrialSpecialization1_Name</Label>
+    <String>Labor Exploitation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginIndustrialSpecialization2_Name</Label>
+    <String>Mental Exploitation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginIndustrialSpecialization3_Name</Label>
+    <String>Industrial Exploitation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginIndustrialSpecialization3_ShortDec</Label>
+    <String>Reduces the cost of manufacturing and research centers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSlaveryTech_Name</Label>
+    <String>Xeno Slavery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSlaveryTech_ShortDec</Label>
+    <String>Forces the whelps into constructing more advanced facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginConstructionOptimization1_Name</Label>
+    <String>Optimized Chain Gangs</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginConstructionOptimization2_Name</Label>
+    <String>Slave Longevity</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginConstructionOptimization3_Name</Label>
+    <String>Selective Slave Retention</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginMechanizedSlaveryTech_Name</Label>
+    <String>Mechanized Slavery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginMechanizedSlaveryTech_ShortDec</Label>
+    <String>With the right tools, our slavelings can build even more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginManufacturingFocus1_ShortDec</Label>
+    <String>Encourage our slaves to have an interest in guns.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginManufacturingFocus2_ShortDec</Label>
+    <String>Thin out our weakest slaves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginManufacturingFocus3_ShortDec</Label>
+    <String>Slaves that eat less and last longer</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSlaveMastersTech_Name</Label>
+    <String>Slave Masters</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSlaveMastersTech_ShortDec</Label>
+    <String>Mastery of slave manufacturing techniques.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSlavePits_Name</Label>
+    <String>Slave Pits</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSlavePits_ShortDec</Label>
+    <String>Makes more slaves available.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSlaveMills_Name</Label>
+    <String>Slave Mills</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSlaveMills_ShortDec</Label>
+    <String>The only thing better than cheap slaves are really cheap slaves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginArtificialSlaves_Name</Label>
+    <String>Artificial Slaves</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginArtificialSlaves_ShortDec</Label>
+    <String>Cloning slaves is much faster than waiting for them to grow up.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPersuasiveResearch_Name</Label>
+    <String>Persuasive Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPersuasiveResearch_ShortDec</Label>
+    <String>Force our smartest slaves to be smarter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginResearchOptimization1_Name</Label>
+    <String>Creative Motivation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginResearchOptimization1_ShortDec</Label>
+    <String>Improves research with the use of creative motivation techniques.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginResearchOptimization2_Name</Label>
+    <String>Creative Living</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginResearchOptimization2_ShortDec</Label>
+    <String>Pack more research slaves into the same amount of space.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginResearchOptimization3_Name</Label>
+    <String>Creative Resources</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginResearchOptimization3_ShortDec</Label>
+    <String>Who needs test subjects when you have researchers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginResearchExtraction_Name</Label>
+    <String>Research Extraction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginResearchExtraction_ShortDec</Label>
+    <String>Extract ideas from their smart little brains.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginIntelligenceAmplification_Name</Label>
+    <String>Intelligence Amplification</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginIntelligenceAmplification_ShortDec</Label>
+    <String>Boosts the intelligence of slaves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginDeeperKnowledge_Name</Label>
+    <String>Mysterious Knowledge</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginDeeperKnowledge_ShortDec</Label>
+    <String>Allows construction of reduced torture research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginQuantumUnderstanding_Name</Label>
+    <String>Pain-Free Understanding</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginQuantumUnderstanding_ShortDec</Label>
+    <String>Allows construction of torture-free research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginBeyondMortality_ShortDec</Label>
+    <String>Allows construction of ultra-torture research facilities. Prepares civilization for Ascension.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginResearchCoordination_Name</Label>
+    <String>Slave Coordination</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginResearchCoordination_ShortDec</Label>
+    <String>Letting the slaves talk is dangerous but necessary.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginNeroLinking_ShortDec</Label>
+    <String>Link slave brains together.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPlanetaryImprovement_Name</Label>
+    <String>Planetary Exploitation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPlanetaryImprovement_ShortDec</Label>
+    <String>We must whip these new planets into shape.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPlanetarySpecialization1_ShortDec</Label>
+    <String>Force planets to make more food.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPlanetarySpecialization2_ShortDec</Label>
+    <String>Force planets to make more slavelings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPlanetarySpecialization3_ShortDec</Label>
+    <String>Force planets to be more productive.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginXenoAgriculturalAdaptation_ShortDec</Label>
+    <String>Adapt our livestock to alien environments.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginAgriculturalOptimization1_ShortDec</Label>
+    <String>Make our meat crops meatier.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginAgriculturalOptimization2_ShortDec</Label>
+    <String>Make our meat farms more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginAgriculturalOptimization3_ShortDec</Label>
+    <String>Reduces maintenance cost of meat farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginIntensiveFarming_ShortDec</Label>
+    <String>Allows construction of high density meat farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginFarmingFocus1_ShortDec</Label>
+    <String>Make our meat crops even meatier.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginFarmingFocus2_ShortDec</Label>
+    <String>Make meat farms even more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginFarmingFocus3_ShortDec</Label>
+    <String>Reduces maintenance cost of meat farms even more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginLosslessFarming_Name</Label>
+    <String>Meat Trees</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginLosslessFarming_ShortDec</Label>
+    <String>Allows construction of exotic meat farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginAgriculturalMastery1_ShortDec</Label>
+    <String>Maximizes meat crop yield</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginAgriculturalMastery2_Name</Label>
+    <String>Arousing Farming</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginAgriculturalMastery2_ShortDec</Label>
+    <String>Meat farms increase population growth</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSlaveringRecycling_Name</Label>
+    <String>Slaveling Recycling</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSlaveringRecycling_ShortDec</Label>
+    <String>Recycled Slaves </String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginProteinResequencing_Name</Label>
+    <String>Protein Resequencing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginProteinResequencing_ShortDec</Label>
+    <String>Allows construction of Protein sequencing farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPopulationEnhancement_Name</Label>
+    <String>Bio Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPopulationEnhancement_ShortDec</Label>
+    <String>Forces the population to be stronger and live longer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginBioReplication_ShortDec</Label>
+    <String>Begin cloning useful slavelings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginEnvironmentalEngineering_ShortDec</Label>
+    <String>Beat the planet into submission.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginExtremeWorldColonization_ShortDec</Label>
+    <String>Force the slavelings to settle on extreme worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginAtmosphericCleansing_ShortDec</Label>
+    <String>Force the slavelings to live and die on radioactive and toxic worlds. Mostly die.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginTerraformingTech_ShortDec</Label>
+    <String>Make awful planets less awful.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHabitatImprovement_ShortDec</Label>
+    <String>Batter even the unruliest land into shape.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSoilReclamation_ShortDec</Label>
+    <String>Create useful soil from almost nothing.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginEnvironmentalResequencing_ShortDec</Label>
+    <String>Let's use continents that don't even exist yet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginEngineeringTech_ShortDec</Label>
+    <String>We can now make hyperdrives and tiny hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginInterstellarTravel_ShortDec</Label>
+    <String>Gives weaklings more air, as well as better sensors and hyperdrives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginInterstellarSpecialization1_ShortDec</Label>
+    <String>Forces our ships to be faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginInterstellarSpecialization3_ShortDec</Label>
+    <String>Forces our ships to travel further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginIonDriveTech_ShortDec</Label>
+    <String>Now we can make hyperdrives that eat more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginIonOptimization1_ShortDec</Label>
+    <String>Forces our ships to be faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginIonOptimization2_ShortDec</Label>
+    <String>Forces our drives to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginIonOptimization3_ShortDec</Label>
+    <String>Forces our drives to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginWarpFieldTheory_ShortDec</Label>
+    <String>Now we can stack hyperfields on top of each other.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginWarpFieldFocus1_ShortDec</Label>
+    <String>Forces our ships to go faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginWarpFieldFocus2_ShortDec</Label>
+    <String>Forces our drives to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginWarpFieldFocus3_ShortDec</Label>
+    <String>Forces our drives to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHyperwarpWaves_ShortDec</Label>
+    <String>Now we can make hyperdrives more hyper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHyperwarpMastery1_ShortDec</Label>
+    <String>Forces our drives to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHyperwarpMastery2_ShortDec</Label>
+    <String>Forces our drives to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginStellarFoldingTech_ShortDec</Label>
+    <String>Lets us build the ultimate hyperdrives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHyperfieldProjection_ShortDec</Label>
+    <String>Forces friendly ships to be faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginGravityFieldManipulation_ShortDec</Label>
+    <String>Forces our ships to be more maneuverable.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHyperfieldDisruption_ShortDec</Label>
+    <String>Forces enemy ships to be slower.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginStellarFieldProjection_ShortDec</Label>
+    <String>Forces friendly ships to be even more faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginInterstellarSurvey_ShortDec</Label>
+    <String>Now we can make better tools for looking at planets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSensorOptimization1_ShortDec</Label>
+    <String>Forces our sensors to see further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSensorOptimization2_ShortDec</Label>
+    <String>Forces our sensors to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSensorOptimization3_ShortDec</Label>
+    <String>Forces our sensors to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginEnergyFieldSensors_ShortDec</Label>
+    <String>Our looking tools have gotten more advanced again!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginEnergyFieldFocus1_ShortDec</Label>
+    <String>Forces our sensors to see further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginEnergyFieldFocus2_ShortDec</Label>
+    <String>Forces our sensors to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginEnergyFieldFocus3_ShortDec</Label>
+    <String>Forces our sensors to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSubspaceSensors_ShortDec</Label>
+    <String>Our looking tools are now very good looking.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSensorMastery1_ShortDec</Label>
+    <String>Forces our sensors to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSensorMastery2_ShortDec</Label>
+    <String>Forces our sensors to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginTargetingAssistTech_ShortDec</Label>
+    <String>Lets us build targeting and stealth modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginTargetingSupport_ShortDec</Label>
+    <String>Lets us build fleet-wide targeting and jamming modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginXenoArcheology_ShortDec</Label>
+    <String>Forces Precursor research to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPrecursorStudies_ShortDec</Label>
+    <String>Forces Precursor research to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPrecursorRelicFocus1_ShortDec</Label>
+    <String>Forces Precursor relic research to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPrecursorRelicFocus2_ShortDec</Label>
+    <String>Forces Precursor relic cultural benefits to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPrecursorRelicFocus3_ShortDec</Label>
+    <String>Forces Precursor relic economic benefits to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPrecursorExploitation_ShortDec</Label>
+    <String>Forces Precursor research to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPrecursorEngineering_ShortDec</Label>
+    <String>Forces Precursor research to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPrecursorUnderstanding_ShortDec</Label>
+    <String>Forces Precursor research to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginLifeSupport_ShortDec</Label>
+    <String>Better life support systems makes our ships go further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginLifeSupportOptimization1_ShortDec</Label>
+    <String>Forces our ships to travel further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginLifeSupportOptimization2_ShortDec</Label>
+    <String>Forces our life support systems to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginLifeSupportOptimization3_ShortDec</Label>
+    <String>Forces our life support systems to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSupportFieldGeneration_ShortDec</Label>
+    <String>Advanced life support forces our crew to do more with less.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSupportFieldFocus1_ShortDec</Label>
+    <String>Forces our ships to travel further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSupportFieldFocus2_ShortDec</Label>
+    <String>Forces our life support systems to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSupportFieldFocus3_ShortDec</Label>
+    <String>Forces our life support systems to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPromethionSupportSystems_ShortDec</Label>
+    <String>Exotic life support systems feed our crews less than ever.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginLifeSupportMastery1_ShortDec</Label>
+    <String>Forces our life support systems to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginLifeSupportMastery2_ShortDec</Label>
+    <String>Forces our life support systems to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginLosslessSupportSystems_ShortDec</Label>
+    <String>Lossless life support systems humiliate our crews more than ever.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSupportFieldMastery_ShortDec</Label>
+    <String>Support fields extend the range of an entire fleet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginExplorationExtention_ShortDec</Label>
+    <String>Advanced support fields extend a fleet's range even more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginOrbitalManufacturing_ShortDec</Label>
+    <String>In orbit we can make bigger, meaner ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginOrbitalSpecialization1_ShortDec</Label>
+    <String>Force our Starports to work better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginOrbitalSpecialization3_ShortDec</Label>
+    <String>Force our infrastructure to be more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginOrbitalSpecialization2_ShortDec</Label>
+    <String>Forces our ships to be packed tighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginZeroGravityConstruction_ShortDec</Label>
+    <String>Lets us build medium hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginZeroGravityOptimization1_ShortDec</Label>
+    <String>Forces our ships to be tougher.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginZeroGravityOptimization3_ShortDec</Label>
+    <String>Forces our ships to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginZeroGravityOptimization2_ShortDec</Label>
+    <String>Forces our ships to be packed tighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginLargeScaleConstruction_ShortDec</Label>
+    <String>Lets us build large hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginOrbitalConstructionFocus1_ShortDec</Label>
+    <String>Forces our ships to be tougher.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginOrbitalConstructionFocus3_ShortDec</Label>
+    <String>Forces our ships to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginOrbitalConstructionFocus2_ShortDec</Label>
+    <String>Forces our ships to be packed tighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginMassiveScaleConstruction_ShortDec</Label>
+    <String>Lets us build huge hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHullMastery2_ShortDec</Label>
+    <String>Forces our ships to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHullMastery1_ShortDec</Label>
+    <String>Forces our ships to be packed tighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHullStrengthening_ShortDec</Label>
+    <String>Forces our hulls to be tougher.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHullRepairSystems_ShortDec</Label>
+    <String>Lets us build hull support and repair modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSelfHealingHulls_ShortDec</Label>
+    <String>Lets us build tactical repair modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginCarrierTech_ShortDec</Label>
+    <String>Lets us build carrier modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHighCapacityCarriers_ShortDec</Label>
+    <String>Lets us build high capacity carrier modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginInterstellarLogistics_ShortDec</Label>
+    <String>Forces Logistics to be better. Lets us build mining facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginLogisticalOptimization1_ShortDec</Label>
+    <String>Forces Logistics to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginLogisticalOptimization2_ShortDec</Label>
+    <String>Forces mines to be more productive.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginLogisticalOptimization3_Name</Label>
+    <String>Sustainable Starports</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginLogisticalOptimization3_ShortDec</Label>
+    <String>Forces starports to decay less.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginFleetLogisticsTech_ShortDec</Label>
+    <String>Forces Logistics to be way better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginDeepSpaceLogistics_ShortDec</Label>
+    <String>Forces Logistics to be better still.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginGalacticLogistics_ShortDec</Label>
+    <String>Forces Logistics to be the best.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginInterstellarMining_ShortDec</Label>
+    <String>Lets us build mining facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHighEfficiencyMining_ShortDec</Label>
+    <String>Forces our mining facilities to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginResourceExtraction_ShortDec</Label>
+    <String>Lets us build highly efficient extractors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginLosslessMining_ShortDec</Label>
+    <String>Lets us build targeted resource extractors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginWarfareTech_ShortDec</Label>
+    <String>War isn't the only thing we're good at. But we are really good at it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginWeaponsSystemsTech_ShortDec</Label>
+    <String>Lets us build basic guns.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginBeamWeapons_ShortDec</Label>
+    <String>Lets us build stronger beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginBeamWeaponOptimization1_ShortDec</Label>
+    <String>Forces our beam weapons to do more damage.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginBeamWeaponOptimization2_ShortDec</Label>
+    <String>Forces our beam weapons to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginBeamWeaponOptimization3_ShortDec</Label>
+    <String>Forces our beam weapons to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginMatterDisruption_ShortDec</Label>
+    <String>Lets us build advanced beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHighEnergyFocus1_ShortDec</Label>
+    <String>Forces our beam weapons to do more damage.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHighEnergyFocus2_ShortDec</Label>
+    <String>Forces our beam weapons to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHighEnergyFocus3_ShortDec</Label>
+    <String>Forces our beam weapons to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPlasmaProjection_ShortDec</Label>
+    <String>Lets us build extra deadly beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginBeamWeaponMastery1_ShortDec</Label>
+    <String>Forces our beam weapons to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginBeamWeaponMastery2_ShortDec</Label>
+    <String>Forces our beam weapons to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginEnergyPhasing_ShortDec</Label>
+    <String>Lets us build face-meltingly powerful beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginDoomRayTech_ShortDec</Label>
+    <String>Lets us build the ultimate beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginBeamWeaponAugmentation_ShortDec</Label>
+    <String>Forces a fleet's beam weapons to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHighEnergyTransfer_ShortDec</Label>
+    <String>Forces a fleet's beam weapons to be extra better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHighEnergyMagnification_ShortDec</Label>
+    <String>Forces a fleet's beam weapons to be much extra better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginMissileWeapons_ShortDec</Label>
+    <String>Lets us build better missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginMissileOptimization1_ShortDec</Label>
+    <String>Forces missile launchers to shoot faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginMissileOptimization2_ShortDec</Label>
+    <String>Forces missiles to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginMissileOptimization3_ShortDec</Label>
+    <String>Forces missiles to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHarpoonTech_ShortDec</Label>
+    <String>Lets us build angrier missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginWarheadFocus1_ShortDec</Label>
+    <String>Forces missile launchers to shoot farther.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginWarheadFocus2_ShortDec</Label>
+    <String>Forces missiles to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginWarheadFocus3_ShortDec</Label>
+    <String>Forces missiles to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPhotonicWarheads_ShortDec</Label>
+    <String>Lets us build exotic missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPayloadMastery1_ShortDec</Label>
+    <String>Forces missiles to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPayloadMastery2_ShortDec</Label>
+    <String>Forces missiles to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPhotonTorpedos_ShortDec</Label>
+    <String>Lets us build crazy dangerous missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginNightmareTorpedoTech_ShortDec</Label>
+    <String>Lets us build world ending missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginMissileAugmentation_ShortDec</Label>
+    <String>Forces a fleet's missile weapons to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginAdvancedMissileGuidance_ShortDec</Label>
+    <String>Forces a fleet's missile weapons to be extra better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginIntelligentWarheads_ShortDec</Label>
+    <String>Forces a fleet's missile weapons to be much extra better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginKineticWeapons_ShortDec</Label>
+    <String>Lets us build better kinetic weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginKineticOptimization1_ShortDec</Label>
+    <String>Forces our kinetic weapons to shoot further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginKineticOptimization2_ShortDec</Label>
+    <String>Forces our kinetic weapons to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginKineticOptimization3_ShortDec</Label>
+    <String>Forces our kinetic weapons to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPulseCannonTech_ShortDec</Label>
+    <String>Lets us build more deadly kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginKineticAccelerationFocus1_ShortDec</Label>
+    <String>Forces our kinetic weapons to shoot further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginKineticAccelerationFocus2_ShortDec</Label>
+    <String>Forces our kinetic weapons to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginKineticAccelerationFocus3_ShortDec</Label>
+    <String>Forces our kinetic weapons to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginGravitonThrower_ShortDec</Label>
+    <String>Lets us build very dangerous kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginKineticMastery1_ShortDec</Label>
+    <String>Forces our kinetic weapons to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginKineticMastery2_ShortDec</Label>
+    <String>Forces our kinetic weapons to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginQuantumDrivers_ShortDec</Label>
+    <String>Lets us build impossibly deadly kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSingularityDrivers_ShortDec</Label>
+    <String>Lets us build the ultimate kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginKineticAugmentation_ShortDec</Label>
+    <String>Forces a fleet's kinetic weapons to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginMassManipulation_ShortDec</Label>
+    <String>Forces a fleet's kinetic weapons to be extra better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginInertialMagnification_ShortDec</Label>
+    <String>Forces a fleet's kinetic weapons to be much extra better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginMilitarizationTech_ShortDec</Label>
+    <String>Lets us build military shipyards and defense platforms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginMilitarySpecialization1_ShortDec</Label>
+    <String>Forces our soldiers to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginMilitarySpecialization2_ShortDec</Label>
+    <String>Forces our planetary defenses to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginWarMachine_Name</Label>
+    <String>War Machine</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginWarMachine_ShortDec</Label>
+    <String>Lets us build Garrisons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPlanetaryInvasion_ShortDec</Label>
+    <String>Lets us build transports to invade planets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginDroneSoldiers_ShortDec</Label>
+    <String>Forces soldiers to be more effective and transports to carry more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginAdvancedInvasionTactics_ShortDec</Label>
+    <String>Forces soldiers to be more effective and transports to carry more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginFortification_Name</Label>
+    <String>Bombardment Shelters</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginFortification_ShortDec</Label>
+    <String>Provides stronger defense against planetary bombardment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginDefensiveFocus1_Name</Label>
+    <String>Information Systems Hardening</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginDefensiveFocus2_Name</Label>
+    <String>Adaptive Vaccinations</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginDefensiveFocus3_Name</Label>
+    <String>Orbital Defense Platform</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginOrbitalDefencePlatform_ShortDec</Label>
+    <String>Allows construction of planetary defense dome, improves planetary defense.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginDefenseSystemTech_ShortDec</Label>
+    <String>Lets us build defensive systems for our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginDefensiveSpecialization1_ShortDec</Label>
+    <String>Forces our shields to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginDefensiveSpecialization3_ShortDec</Label>
+    <String>Forces our armor to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginShieldSystems_ShortDec</Label>
+    <String>Lets us build better shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginShieldOptimization1_ShortDec</Label>
+    <String>Forces our shields to be stronger.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginShieldOptimization2_ShortDec</Label>
+    <String>Forces our shields to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginShieldOptimization3_ShortDec</Label>
+    <String>Forces our shields to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginBarrierFieldGeneration_ShortDec</Label>
+    <String>Lets us build really great shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginBarrierSystemFocus1_ShortDec</Label>
+    <String>Forces our shields to be stronger.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginBarrierSystemFocus2_ShortDec</Label>
+    <String>Forces our shields to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginBarrierSystemFocus3_ShortDec</Label>
+    <String>Forces our shields to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginForceFieldTech_ShortDec</Label>
+    <String>Lets us build exotic shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginShieldMastery1_ShortDec</Label>
+    <String>Forces our shields to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginShieldMastery2_ShortDec</Label>
+    <String>Forces our shields to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginInvulnerabilityTech_ShortDec</Label>
+    <String>Lets us build the best shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginShieldSupportSystems_ShortDec</Label>
+    <String>Lets us build shield support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginShieldAugmentation_ShortDec</Label>
+    <String>Lets us build better shield support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPointDefenses_ShortDec</Label>
+    <String>Lets us build better point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPointDefenseOptimization1_ShortDec</Label>
+    <String>Forces our point defenses to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPointDefenseOptimization2_ShortDec</Label>
+    <String>Forces our point defenses to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPointDefenseOptimization3_ShortDec</Label>
+    <String>Forces our point defenses to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginCounterMeasures_ShortDec</Label>
+    <String>Lets us build even better point defenses.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginCounterMeasureFocus1_ShortDec</Label>
+    <String>Forces our point defenses to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginCounterMeasureFocus2_ShortDec</Label>
+    <String>Forces our point defenses to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginCounterMeasureFocus3_ShortDec</Label>
+    <String>Forces our point defenses to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginDroneSentrySystems_ShortDec</Label>
+    <String>Lets us build exotic point defenses.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginDroneSystemMastery1_ShortDec</Label>
+    <String>Forces our point defenses to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginDroneSystemMastery2_ShortDec</Label>
+    <String>Forces our point defenses to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginArreonMissileDefenseTech_ShortDec</Label>
+    <String>Lets us build the ultimate point defenses.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPointDefenseSupportSystem_ShortDec</Label>
+    <String>Lets us build fleet point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPointDefenseAugmentation_ShortDec</Label>
+    <String>Lets us build even better fleet point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginArmorSystems_ShortDec</Label>
+    <String>Lets us build tougher armor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginArmorOptimization1_ShortDec</Label>
+    <String>Forces our armor to be stronger.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginArmorOptimization2_ShortDec</Label>
+    <String>Forces our armor to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginArmorOptimization3_ShortDec</Label>
+    <String>Forces our armor to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginDurantiumCompositeTech_ShortDec</Label>
+    <String>Lets us build way tougher armor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginArmorFocus1_ShortDec</Label>
+    <String>Forces our armor to be stronger.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginArmorFocus2_ShortDec</Label>
+    <String>Forces our armor to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginArmorFocus3_ShortDec</Label>
+    <String>Forces our armor to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginKanviumLaminateTech_ShortDec</Label>
+    <String>Lets us build exotic armor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginArmorMastery1_ShortDec</Label>
+    <String>Forces our armor to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginArmorMastery2_ShortDec</Label>
+    <String>Forces our armor to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginZeroPointArmorTech_ShortDec</Label>
+    <String>Lets us build the ultimate armor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginArmorSupportSystems_ShortDec</Label>
+    <String>Lets us build fleet armor-support fields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginArmorEnhancement_ShortDec</Label>
+    <String>Lets us build better fleet armor-support fields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginCommunicationsTech_Name</Label>
+    <String>Intimidation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginCommunicationsTech_ShortDec</Label>
+    <String>Lets us research technology for intimidating our food.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginTranslatorTech_ShortDec</Label>
+    <String>Lets us communicate with our food.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginDiplomaticSpecialization1_ShortDec</Label>
+    <String>Forces our Diplomats to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginDiplomaticSpecialization2_ShortDec</Label>
+    <String>Spreads Drengin glory further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPoliticalSpecialization1_Name</Label>
+    <String>Slave-Master Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPoliticalSpecialization1_ShortDec</Label>
+    <String>Allows use of the Slave-Master Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPoliticalSpecialization2_Name</Label>
+    <String>Coddling Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPoliticalSpecialization2_ShortDec</Label>
+    <String>Allows use of the Coddling Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPoliticalSpecialization3_Name</Label>
+    <String>Dominion Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPoliticalSpecialization3_ShortDec</Label>
+    <String>Allows use of the Dominion Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPoliticalFocus1_Name</Label>
+    <String>Plundering Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPoliticalFocus1_ShortDec</Label>
+    <String>Allows use of the Plundering Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPoliticalFocus2_Name</Label>
+    <String>Thievery Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPoliticalFocus2_ShortDec</Label>
+    <String>Allows use of the Thievery Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPoliticalFocus3_Name</Label>
+    <String>Smart Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPoliticalFocus3_ShortDec</Label>
+    <String>Allows use of the Smart Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPoliticalMastery1_ShortDec</Label>
+    <String>Allows use of the War Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPoliticalMastery2_Name</Label>
+    <String>Pre-War Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginPoliticalMastery2_ShortDec</Label>
+    <String>Allows use of the Pre-War Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginDiplomacyTech_ShortDec</Label>
+    <String>Lets us build embassies and form basic treaties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginInterstellarAlliances_ShortDec</Label>
+    <String>Let us build improved diplomatic buildings. Increases Diplomacy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginEminenceTech_ShortDec</Label>
+    <String>Lets us build advanced diplomatic buildings. Increases Diplomacy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginCulturalInfluence_ShortDec</Label>
+    <String>Lets us build boring civilian buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginCulturalOptimization1_ShortDec</Label>
+    <String>Forces others to like us more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginCulturalOptimization2_ShortDec</Label>
+    <String>Forces our cultural buildings to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginCulturalOptimization3_ShortDec</Label>
+    <String>Forces cultural buildings to cost less to run.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginCulturalOutreach_ShortDec</Label>
+    <String>Lets us build improved boring civilian buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginStellarEmigration_ShortDec</Label>
+    <String>Lets us build advanced cultural buildings. Increases Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginCulturalAssimilation_ShortDec</Label>
+    <String>Lets us build exotic cultural buildings. Increases Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginCulturalDomination_ShortDec</Label>
+    <String>Let us build the ultimate cultural buildings. Increases Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginCommerceSpecialization1_ShortDec</Label>
+    <String>Forces planets to be wealthier.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginCommerceSpecialization2_ShortDec</Label>
+    <String>Forces planets to be happier.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginCommerceSpecialization3_ShortDec</Label>
+    <String>Forces a planet to trade more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginXenoEconomics_ShortDec</Label>
+    <String>Lets us build improved economic buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginBlackMarketTech_Name</Label>
+    <String>Black Market</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginBlackMarketTech_ShortDec</Label>
+    <String>Lets us build a Black Market.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginInterstellarBanking_ShortDec</Label>
+    <String>Lets us build advanced economic buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginEconomicFocus1_ShortDec</Label>
+    <String>Forces our trade routes to make more money.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginEconomicFocus3_ShortDec</Label>
+    <String>Force tourists to spend more money.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginFinancialSectorsTech_ShortDec</Label>
+    <String>Lets us build exotic economic buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginGalacticStockMarket_ShortDec</Label>
+    <String>Lets us build the ultimate economic buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginGalacticTrade_Name</Label>
+    <String>Market Extortion</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginGalacticTrade_ShortDec</Label>
+    <String>Let us build improved trading buildings. Adds two trade routes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginGalacticFacilitation_ShortDec</Label>
+    <String>Lets us build advanced trading buildings. Adds two trade routes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginFightingPits_Name</Label>
+    <String>Fighting Pits</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginFightingPits_ShortDec</Label>
+    <String>Lets us build Fighting Pits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginTournamentTech_Name</Label>
+    <String>Tournaments</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginTournamentTech_ShortDec</Label>
+    <String>Lets us build an Arena.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSaughtertoriumTech_Name</Label>
+    <String>Saughtertorium</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSaughtertoriumTech_ShortDec</Label>
+    <String>Lets us build a Slaughtertorium.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSuperiorHunting_Name</Label>
+    <String>Hunting Grounds</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginSuperiorHunting_ShortDec</Label>
+    <String>Lets us build Hunting Grounds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginGalacticCruseLines_ShortDec</Label>
+    <String>Lets us build tourism structures.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginWondersoftheGalaxy_ShortDec</Label>
+    <String>Lets us build advanced tourism structures.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHomageTech_Name</Label>
+    <String>Homage</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haven_DrenginHomageTech_ShortDec</Label>
+    <String>Lets us build the Temple of Strength.</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+ 
+</StringTableList>

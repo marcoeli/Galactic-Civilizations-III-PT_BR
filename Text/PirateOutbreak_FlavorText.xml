@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- PirateOutbreak_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>PirateOutbreak_MegaEvent_Warning_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Reports are coming in of a large spike in pirate activity. Apparently someone has been providing them with advanced technologies and maybe even ships.
+I fear our normal precautions may no longer be enough when dealing with them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PirateOutbreak_MegaEvent_Warning_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must defend ourselves from these poor souls.  As they stay far away from us, they are none of our concern. [COLOR=BenevolentBlue](Benevolent +40)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PirateOutbreak_MegaEvent_Warning_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must protect our ships and our borders.  We will work with our allies to remove this threat. [COLOR=PragmaticGold](Pragmatic +40)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PirateOutbreak_MegaEvent_Warning_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will hunt down each and every one of these parasites, and teach them the folly of Piracy. [COLOR=WarRed](Malevolent +40)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+<!-- Created with the Crusade editor -->
+<!-- FACTION_ARCEAN_TechFlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>TechTree_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>Arcean Tree</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IntegratedResearch_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>We've made great strides in our understanding of the universe, and now require larger academies to facilitate the multi-disciplinary studies needed to push back the veil further.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchCoordination_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>The Arcean people know that we must never be slaves again. Civilization-wide cooperation is mandatory to ensure our race retakes its rightful place above all others. We will start with our researchers, who must minimize duplication of effort to improve research productivity in neighboring facilities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>NeroLinking_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>Arcean researchers have been ordered to submit their brains to direct linking networks to further improve our research coordination abilities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetaryImprovement_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>Civilian Pre-Fortifications</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetaryImprovement_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>Arceans need places to live on the worlds we take. Yet making buildings is difficult on alien planets and much of our knowledge of the subject has been lost. We're only now relearning the tools and techniques to do it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>Our food production capacity has taken another step forward. Arcean warriors and colonists will never know hunger again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FoodDistributionTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>Arceans knew hunger during the long era of occupation by the Drengin. We will never know it again. Improved food distribution systems and brutal quota enforcement will ensure this is the case.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoBiology_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>Understanding how Arceans adapt to the microbiological environment of alien worlds will be critical to our chances of survival when colonizing the stars.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BioReplication_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>Once we took all of the fun parts out of reproduction, we were able to dramatically increase our growth rates. Bio-replication produces exactly what the galaxy needs more of: more Arceans.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ExtremeWorldColonization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>Years of captivity did nothing to limit our natural hardiness. We are simply tougher than other, lesser races, and our colonists will always have the more difficult worlds within their reach.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TerraformingTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>Our Empire existed for millennia on only a handful of worlds, giving us ample time to learn the secrets of terraforming. Even the land has learned to submit to our will.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HabitatImprovement_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>Our ability to manipulate the biosphere has improved to the point that we can treat entire continents as a canvas. Will we paint a portrait of a brave and prudent civilization?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnvironmentalResequencing_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>We're playing with powerful forces now, capable of manipulating planetary terrain on a scale never seen before. We must be sure to use this power wisely.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>Our sensor systems had several redundant parts, which when stripped out has led to the production of cheaper, more efficient systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEfficiencyMining_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>Our mining operations are capable of generating more resources and losing less miners than ever before.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>NightmareTorpedoTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>The Nightmare torpedo contains a tiny singularity trapped in a pocket universe, which upon being released causes horrifying damage to anyone unfortunate enough to have something called Nightmare Torpedoes fired at them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetaryInvasion_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>We've developed the equipment and tactics necessary to land on a world and take it by force. The galaxy shall learn to fear the sound of Arcean footsteps.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>Fortification_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>Arceans will never let a world be taken from us again. With the latest generation of defensive fortifications, our planets and starbases will be able to put up a much tougher fight.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefenseSystemTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>Even a being as hardy as an Arcean is difficult to protect in a ship that operates in hard vacuum. But we must do something. We need these ships if we hope to prevent ourselves becoming slaves again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CommunicationsTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>We know we're not alone in this galaxy. We know monsters exist out there. We must begin to develop technology that allows us to communicate with these monsters, stalling some, tricking others, or even turning a few into allies.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarGovernance_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>Governing a civilization on this scale parallels our experience exploring our own world millennia ago. The simple empire will ensure Arcean might and wisdom spread to all corners of this galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalInfluence_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>The prospect of building a Arcean cultural presence on our worlds and our neighbors' has some potential. It lacks the obvious appeal of simple combat, but may in the long run be far more effective at securing our empire's future.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>StellarEmigration_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>Arceans are admired throughout the galaxy, reflecting the success of our civilization. If we can make the process of emigration easier, we can spread our influence wider still.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>Re-Colonization</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationTech_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>After generations of confinement, the Arcean people finally have freedom. It's time to begin retaking the worlds that are rightfully ours.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoIndustrializationTech_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>We've had to relearn everything we know about colonization, including how to modify our equipment to function on different worlds.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoIndustrializationTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ARCEAN</ListenerFaction>
+      </Requirements>
+      <Text>We've had to relearn everything we know about colonization, including how to modify our equipment to function on different worlds.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+</FlavorTextDefs>

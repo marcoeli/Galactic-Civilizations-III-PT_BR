@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- IdeologicalGalacticEventsText.xml -->
+ 
+<!-- Event Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>DiseaseEvent_Name</Label>
+    <String>Super Bacteria</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DiseaseEvent_Dec</Label>
+    <String>Uma tentativa de criar um antibiótico melhorado produziu, ao invés disso, uma bactéria que é imune a nossos tratamentos. Ela escapou do laboratório e seus cientistas advertem que está se espalhando no {PLANETNAME}. Ela pode ser fatal para bebês e idosos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DiseaseEvent_Benevolent_Bonus_Name</Label>
+    <String>Dar prioridade aos cuidados de saúde e garantir que os infectados tenham tempo e recursos para se recuperar.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DiseaseEvent_Benevolent_Bonus_Dec</Label>
+    <String>+5 Benevolente, -25% Produção no planeta afetado por 10 turnos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DiseaseEvent_Neutral_Bonus_Name</Label>
+    <String>Advertir os cidadãos para serem cautelosos, mas há pouco que possamos razoavelmente fazer.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DiseaseEvent_Neutral_Bonus_Dec</Label>
+    <String>+5 Pragmático, -25% de crescimento no planeta afetado por 20 turnos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DiseaseEvent_Merciless_Bonus_Name</Label>
+    <String>Colocar os doentes em quarentena, à força, se necessário..</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DiseaseEvent_Merciless_Bonus_Dec</Label>
+    <String>+5 Malevolência, -25% de moral no planeta afetado durante 5 turnos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorArtifactEvent_Name</Label>
+    <String>Artefato de Precursor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorArtifactEvent_Dec</Label>
+    <String>Encontramos um artefato antigo próximo ao {PLANETNAME} que se acredita ter vindo de uma antiga civilização Precursora.  Ao ativá-lo, ele avaliou nosso status e se ofereceu para nos ajudar.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorArtifactEvent_Benevolent_Bonus_Name</Label>
+    <String>Transformar em navio batedor.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorArtifactEvent_Benevolent_Bonus_Dec</Label>
+    <String>+5 Benevolente, Ganhe navio batedor.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorArtifactEvent_Neutral_Bonus_Name</Label>
+    <String>Ganhe grande influência sobre o espaço próximo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorArtifactEvent_Neutral_Bonus_Dec</Label>
+    <String>+5 Pragmático, +1000 de influência</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorArtifactEvent_Merciless_Bonus_Name</Label>
+    <String>Convertê-lo em um exército de escravos robôs para trabalhar em nosso planeta.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorArtifactEvent_Merciless_Bonus_Dec</Label>
+    <String>+5 Malévolo, +1 população</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MessageEvent_Name</Label>
+    <String>Mensagem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MessageEvent_Dec</Label>
+    <String>Nosso povo gostaria de enviar um farol para o universo. Uma mensagem para as outras raças estelares que um dia encontraremos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MessageEvent_Benevolent_Bonus_Name</Label>
+    <String>Enviar uma mensagem de paz e esperança.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MessageEvent_Benevolent_Bonus_Dec</Label>
+    <String>+5 Benevolente, +1 Diplomacia, -10% Soldado</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MessageEvent_Neutral_Bonus_Name</Label>
+    <String>É uma perda de tempo. Coloque os recursos em direção a medidas mais práticas.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MessageEvent_Neutral_Bonus_Dec</Label>
+    <String>+5 Pragmático, +100 Créditos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MessageEvent_Merciless_Bonus_Name</Label>
+    <String>Envie uma mensagem dizendo-lhes para se prepararem para sua eventual escravidão.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MessageEvent_Merciless_Bonus_Dec</Label>
+    <String>+5 Malévolo, -1 Diplomacia, +10% Soldagem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FamineEvent_Name</Label>
+    <String>Fome</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FamineEvent_Dec</Label>
+    <String>Uma praga afetou {PLANETNAME}. Seus administradores advertem que não haverá comida suficiente para todos os seus cidadãos. Os ricos já começaram a estocar os alimentos e os desesperados começaram a invadir esses estoques.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FamineEvent_Benevolent_Bonus_Name</Label>
+    <String>Reclamar os estoques para compartilhar com os menos afortunados. Vamos sofrer juntos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FamineEvent_Benevolent_Bonus_Dec</Label>
+    <String>+5 Benevolente, -25% de crescimento e -10% de renda para 10 turnos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FamineEvent_Neutral_Bonus_Name</Label>
+    <String>Reclamar os estoques e distribuir as mercadorias para nossos líderes. Precisaremos da força deles para sobreviver a isto.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FamineEvent_Neutral_Bonus_Dec</Label>
+    <String>+5 Pragmático, -25% de crescimento e -10% de moral por 10 vezes</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FamineEvent_Merciless_Bonus_Name</Label>
+    <String>Stage a war among our people. It doesn't matter who wins, only that there are less mouths to feed afterwards.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FamineEvent_Merciless_Bonus_Dec</Label>
+    <String>+5 Malévolo, -1 População no planeta afetado</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NewGenerationEvent_Name</Label>
+    <String>Nova Geração</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NewGenerationEvent_Dec</Label>
+    <String>Uma nova geração nasceu no {PLANETNAME}, a primeira que provavelmente viverá e morrerá em mundos distantes. Como devemos melhor prepará-los para seu futuro?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NewGenerationEvent_Benevolent_Bonus_Name</Label>
+    <String>Não devemos escolher seu caminho. Essa é a escolha deles.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NewGenerationEvent_Benevolent_Bonus_Dec</Label>
+    <String>+5 Benevolente</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NewGenerationEvent_Neutral_Bonus_Name</Label>
+    <String>Nossos mais brilhantes pensadores nos conduzirão ao espaço. Não poupem esforços para encontrá-los e educá-los.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NewGenerationEvent_Neutral_Bonus_Dec</Label>
+    <String>+5 Pragmática, +10% de pesquisa e -10% de renda</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NewGenerationEvent_Merciless_Bonus_Name</Label>
+    <String>Não há tempo como o presente. Coloque-os em uma nave Colônia e envie-os para o espaço.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NewGenerationEvent_Merciless_Bonus_Dec</Label>
+    <String>+5 navio Colônia livre e malevolente</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AlienBeaconEvent_Name</Label>
+    <String>Farol Alienígena</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AlienBeaconEvent_Dec</Label>
+    <String>Detectamos um farol alienígena próximo a {PLANETNAME}. Parece ter sido abandonado há séculos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AlienBeaconEvent_Benevolent_Bonus_Name</Label>
+    <String>Colocar o farol em um museu para que todos possam examiná-lo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AlienBeaconEvent_Benevolent_Bonus_Dec</Label>
+    <String>+5 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AlienBeaconEvent_Neutral_Bonus_Name</Label>
+    <String>Envie o farol para nossos cientistas para investigação.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AlienBeaconEvent_Neutral_Bonus_Dec</Label>
+    <String>+25% Pesquisa por 10 turnos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AlienBeaconEvent_Merciless_Bonus_Name</Label>
+    <String>Destrua-o.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AlienBeaconEvent_Merciless_Bonus_Dec</Label>
+    <String>+5 Malévolo</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LegacyEvent_Name</Label>
+    <String>O Legado</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LegacyEvent_Dec</Label>
+    <String>Descobrimos os restos de uma de nossas primeiras naves espaciais. Evidência de um tempo em que pisamos nervosamente além do {PLANETNAME}. O que devemos fazer com este pedaço de história?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LegacyEvent_Benevolent_Bonus_Name</Label>
+    <String>Coloque-o em um museu para que possa inspirar as gerações futuras.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LegacyEvent_Benevolent_Bonus_Dec</Label>
+    <String>+5 Benevolente, +5% Pesquisa sobre o planeta afetado</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LegacyEvent_Neutral_Bonus_Name</Label>
+    <String>Não há valor na nostalgia, sucateie as peças.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LegacyEvent_Neutral_Bonus_Dec</Label>
+    <String>+5 Pragmático, +250 Créditos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LegacyEvent_Merciless_Bonus_Name</Label>
+    <String>Colocá-lo de volta em serviço.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LegacyEvent_Merciless_Bonus_Dec</Label>
+    <String>+5 Malevolente, Escolta gratis</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CultEvent_Name</Label>
+    <String>O Culto</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CultEvent_Dec</Label>
+    <String>Um novo culto começou a se espalhar no {PLANETNAME}. O culto tem se enriquecido ao convencer os membros ricos a fazer doações substanciais. Os seguidores acreditam que nos foi dada vida por uma espécie exótica, e prevêem que estes criadores logo voltarão para nos liderar.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CultEvent_Benevolent_Bonus_Name</Label>
+    <String>Permita que eles acreditem como quiserem.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CultEvent_Benevolent_Bonus_Dec</Label>
+    <String>+5 Benevolente</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CultEvent_Neutral_Bonus_Name</Label>
+    <String>Tributá-los, pesadamente.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CultEvent_Neutral_Bonus_Dec</Label>
+    <String>+5 Pragmática, +5% Economia no planeta afetado</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CultEvent_Merciless_Bonus_Name</Label>
+    <String>Parece-me uma boa idéia. Comece um culto que me reverencia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CultEvent_Merciless_Bonus_Dec</Label>
+    <String>+5 Malevolência, +5% de moral no planeta afetado</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtestEvent_Name</Label>
+    <String>O Protesto</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtestEvent_Dec</Label>
+    <String>Um grupo começou a protestar contra os recursos que estão sendo gastos explorando a galáxia. Eles argumentam que esses recursos são melhor gastos melhorando a vida dos que estão no {PLANETNAME}.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtestEvent_Benevolent_Bonus_Name</Label>
+    <String>Permitir que eles apresentem suas opiniões perante o comitê de orçamento.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtestEvent_Benevolent_Bonus_Dec</Label>
+    <String>+5 Benevolente, -5% de renda no planeta afetado</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtestEvent_Neutral_Bonus_Name</Label>
+    <String>Eles podem protestar, mas prendem qualquer um que vá além disso.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtestEvent_Neutral_Bonus_Dec</Label>
+    <String>+5 Pragmatico</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtestEvent_Merciless_Bonus_Name</Label>
+    <String>Se eles quiserem melhorar o planeta, coloque-os para trabalhar fazendo exatamente isso.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtestEvent_Merciless_Bonus_Dec</Label>
+    <String>+5 Malevolência, +5% Produção no planeta afetado</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BudgetSurplusEvent_Name</Label>
+    <String>Budget Surplus</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BudgetSurplusEvent_Dec</Label>
+    <String>Nossos administradores relatam que temos um superávit no orçamento. O que devemos fazer com os fundos extras?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BudgetSurplusEvent_Benevolent_Bonus_Name</Label>
+    <String>Dar uma isenção fiscal a nossos cidadãos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BudgetSurplusEvent_Benevolent_Bonus_Dec</Label>
+    <String>+5 Benevolente, +25% de moral por 10 turnos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BudgetSurplusEvent_Neutral_Bonus_Name</Label>
+    <String>Coloque em pesquisa.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BudgetSurplusEvent_Neutral_Bonus_Dec</Label>
+    <String>+5 Pragmática, completa atual pesquisa </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BudgetSurplusEvent_Merciless_Bonus_Name</Label>
+    <String>Ponha na minha conta pessoal.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BudgetSurplusEvent_Merciless_Bonus_Dec</Label>
+    <String>+5 Malévolo, +250 Créditos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BiographerEvent_Name</Label>
+    <String>Biógrafo</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BiographerEvent_Dec</Label>
+    <String>Um biógrafo está entrevistando você para que possa escrever um livro sobre sua ascensão ao poder. Ele pergunta o que o motivou a conduzir a viagem para fora {PLANETNAME} e para o desconhecido alcance do espaço.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BiographerEvent_Benevolent_Bonus_Name</Label>
+    <String>Conseguimos a grandeza, é nossa responsabilidade compartilhar isso com a galáxia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BiographerEvent_Benevolent_Bonus_Dec</Label>
+    <String>+5 Benevolente, +25% Influência para 10 turnos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BiographerEvent_Neutral_Bonus_Name</Label>
+    <String>Vimos apenas uma pequena fração do que o universo oferece. Muito mais nos espera.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BiographerEvent_Neutral_Bonus_Dec</Label>
+    <String>+5 Pragmático, navio escolta gratuito</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BiographerEvent_Merciless_Bonus_Name</Label>
+    <String>Estou em busca de novos mundos a conquistar.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BiographerEvent_Merciless_Bonus_Dec</Label>
+    <String>+5 Malevolência, +5% Soldagem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MuseumEvent_Name</Label>
+    <String>O Museu</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MuseumEvent_Dec</Label>
+    <String>Um museu está abrindo uma exposição sobre sua vida. Eles gostariam de saber qual foi sua maior realização.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MuseumEvent_Benevolent_Bonus_Name</Label>
+    <String>Eu não fiz nada. Juntos, nós fizemos tudo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MuseumEvent_Benevolent_Bonus_Dec</Label>
+    <String>+5 Benevolente, +25% de moral por 10 turnos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MuseumEvent_Neutral_Bonus_Name</Label>
+    <String>Minha maior realização ainda está por vir.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MuseumEvent_Neutral_Bonus_Dec</Label>
+    <String>+5 Pragmático, +25% Pesquisa para 10 turnos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MuseumEvent_Merciless_Bonus_Name</Label>
+    <String>Os túmulos de meus inimigos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MuseumEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malévolo</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InterviewEvent_Name</Label>
+    <String>A Entrevista</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InterviewEvent_Dec</Label>
+    <String>Em uma entrevista, perguntam a você o que você sente que os cidadãos de {PLANETNAME} mais precisam para ter sucesso enquanto exploramos a galáxia e encontramos espécies alienígenas.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InterviewEvent_Benevolent_Bonus_Name</Label>
+    <String>Esperança.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InterviewEvent_Benevolent_Bonus_Dec</Label>
+    <String>+5 Benevolente, navio de pesquisa gratuito</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InterviewEvent_Neutral_Bonus_Name</Label>
+    <String>Determinação.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InterviewEvent_Neutral_Bonus_Dec</Label>
+    <String>+5 Pragmático, navio colônia grátis</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InterviewEvent_Merciless_Bonus_Name</Label>
+    <String>Armas de alta potência.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InterviewEvent_Merciless_Bonus_Dec</Label>
+    <String>+5 malévolo navio militar gratis</String>
+  </StringTable>
+ 
+</StringTableList>

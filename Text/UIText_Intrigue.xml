@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+
+  <StringTable>
+    <Label>BAZAAR_BUY_RESOURCES</Label>
+    <String>Comprar recursos</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>SELL_LABEL</Label>
+    <String>Venda</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BUY_LABEL</Label>
+    <String>Compre</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>STOCK_LABEL</Label>
+    <String>Disponível</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MARKET_VALUE_LABEL</Label>
+    <String>Preço</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MARKET_TOTAL_VALUE_LABEL</Label>
+    <String>Valor total:</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MARKET_BUY_VALUE</Label>
+    <String>Valor de compra</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MARKET_SELL_VALUE</Label>
+    <String>Valor da venda</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MINUS_TEN</Label>
+    <String>-10</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MINUS_FIVE</Label>
+    <String>-5</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>PLUS_TEN</Label>
+    <String>+10</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>PLUS_FIVE</Label>
+    <String>+5</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>BuyResourceFormat</Label>
+    <String>Compre {OBJECTNAME}</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>SellResourceFormat</Label>
+    <String>Venda {OBJECTNAME}</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MARKET_TRANSACTION_VALUE</Label>
+    <String>Valor da transação:</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MARKET_GAIN_FORMAT</Label>
+    <String>Ganho {AMOUNT}</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MARKET_SPEND_FORMAT</Label>
+    <String>Gastos {AMOUNT}</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MARKET_NO_CHANGE</Label>
+    <String>Igual</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MARKET_NO_RESOURCES_TOOLTIP</Label>
+    <String>The market doesn't have the resources to buy, and you don't have the resources to sell.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MARKET_BLOCKEDBYGOVERNMENT_TOOLTIP</Label>
+    <String>Nosso Governo não permite o comércio com o Mercado Galáctico.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MARKET_NOT_YOUR_TURN_TOOLTIP</Label>
+    <String>Não é possível negociar recursos a menos que seja a sua vez.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MARKET_CANT_AFFORD_TOOLTIP</Label>
+    <String>Não pode se dar ao luxo de fazer transações.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>WORKSHOP_UPLOAD_DISABLED_COMMONWEALTH_FACTION</Label>
+    <String>Não é possível carregar comunidades para a oficina.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Commonwealth_Setup_Label</Label>
+    <String>Configuração da Comunidade</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Commonwealth_Choose_Civ_Label</Label>
+    <String>Escolha a Civilização</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Commonwealth_Change_Civ_Label</Label>
+    <String>Mudar Civilização</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>CREATE_COMMONWEALTH_LABEL</Label>
+    <String>Criar Comunidade</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CREATE_COMMONWEALTH_PROMPT_MESSAGE</Label>
+    <String>Você quer criar uma nova comunidade usando este planeta como capital?</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>COMMONWEALTH_REMOVE_PLANET_TTILE</Label>
+    <String>Remover planeta</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>COMMONWEALTH_REMOVE_MULTIPLE_PLANETS_MESSAGE</Label>
+    <String>A remoção deste planeta fará com que outros planetas fiquem muito longe do resto da Comunidade. Remover todos os planetas?</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>DEFAULT_COMMONWEALTH_NAME</Label>
+    <String>Novo {PLAYERFACTION}</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>DEFAULT_COMMONWEALTH_DESCRIPTION</Label>
+    <String>Uma nação da Comunidade que já fez parte do {PLAYERFACTIONLONG}</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Error_CantUseCapitalForCommonwealth</Label>
+    <String>Você não pode dar sua capital para a Comunidade.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_Commonwealth_TooCloseToCapital</Label>
+    <String>Este planeta está muito próximo da sua capital para acrescentar à comunidade.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_Commonwealth_AlreadyAdded</Label>
+    <String>Já acrescentada à comunidade.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_Commonwealth_TooFarFromOtherWorlds</Label>
+    <String>Muito longe dos mundos da Comunidade.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_Commonwealth_CannotGiveYourLastWorld</Label>
+    <String>Você não pode dar seu último mundo a uma comunidade!</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_Commonwealth_NoSuitablePlanetsFound</Label>
+    <String>Não foi possível encontrar planetas adequados para acrescentar à comunidade.[BR][BR]Exigências:[BR]Você não pode dar a sua capital.[BR]Você deve ter mais de dois mundos.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Commonwealth_Planet_Requirements_MinDistanceFromCapital</Label>
+    <String>BR]Deve ser mais do que {AMOUNT} parsecs de seu capital.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_Commonwealth_NoSuitableObjectsFound</Label>
+    <String>Não foram encontrados objetos adequados para acrescentar à comunidade.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_Commonwealth_AlreadyCreatingACommonwealth</Label>
+    <String>Você já está criando uma comunidade.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_Commonwealth_NotEnoughPlanetsAdded</Label>
+    <String>Não há planetas suficientes para criar uma comunidade.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_Commonwealth_MustSetACapital</Label>
+    <String>Deve ter um capital definida.</String>
+  </StringTable>
+
+
+  <StringTable>
+    <Label>Error_Commonwealth_HasDuplicateLogo</Label>
+    <String>A Comunidade tem o mesmo logotipo que uma das outras civilizações.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_Commonwealth_HasDuplicateLeaderName</Label>
+    <String>A Comunidade tem o mesmo nome de líder que uma das outras civilizações.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_Commonwealth_HasDuplicateDisplayName</Label>
+    <String>A Comunidade tem o mesmo nome de exibição que uma das outras civilizações.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_Commonwealth_HasDuplicateShortName</Label>
+    <String>A Comunidade tem o mesmo nome curto que uma das outras civilizações.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Error_AtMaxNumPlayers</Label>
+    <String>O número máximo de jogadores já foi criado.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Error_Government_Cannot_Speak</Label>
+    <String>A civilização tem um governo que não pode se comprometer com a diplomacia.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_Message_Commonwealth_Init</Label>
+    <String>Erro inicializando a criação da Comunidade: {DESCRIPTION}</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_Message_Commonwealth_Cancel</Label>
+    <String>Cancelada a criação da Comunidade.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_Message_Commonwealth_Commit</Label>
+    <String>Erro criando um jogador da comunidade: {DESCRIPTION}</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_Message_Commonwealth_SetCapital</Label>
+    <String>Não é possível definir este planeta como capital: {DESCRIPTION}</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_Message_Commonwealth_AddObject</Label>
+    <String>Não é possível acrescentar {OBJECTNAME} à comunidade: {DESCRIPTION}</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_Message_Commonwealth_RemoveObject</Label>
+    <String>Erro ao remover {OBJECTNAME} da comunidade: {DESCRIPTION}</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>ERROR_OBJECT_NOT_OWNED_COMMONWEALTH</Label>
+    <String>Não se pode acrescentar objetos que não se possui.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_ActionDisabledWhileCreatingCommonwealthPlayer</Label>
+    <String>Ação desativada ao mesmo tempo em que se cria um jogador da comunidade.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Error_ActionDisabledWhileSavingFactionData</Label>
+    <String>Ação desativada ao mesmo tempo em que salva os dados da facção.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>View_Government_Title</Label>
+    <String>Gerenciar Governos e Comunidade</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Select_Government_Title</Label>
+    <String>Escolha sua forma de Governo</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Setup_Government_Available_Title</Label>
+    <String>Formas de Governo Disponíveis</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Setup_Government_Text</Label>
+    <String>Escolha o governo inicial de sua Civilização. Seu Governo determina qual Posto do Governo está disponível para a designação. Novos Governos podem ser pesquisados no Ramo Governamental da árvore tecnológica.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Government_Description_Text</Label>
+    <String>A democracia permite o governo eficiente de civilizações menores e de mentalidade mais social. Mas pode ser incômoda quando a civilização cresce, ou quando as guerras eclodem.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Government_Slots_Title</Label>
+    <String>Cargos no Gabinete:</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Government_Ministers_Title</Label>
+    <String>Gestores disponíveis para o cargo</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Government_Ministers_Assign_Title</Label>
+    <String>Atribuir</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Government_Ministers_Slot_Name_Title</Label>
+    <String>Secretário do Comércio</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Government_Ministers_Slot_Name</Label>
+    <String>Nome do Ministro</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Government_Ministers_Slot_Bonuses</Label>
+    <String>Bónus</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Government_Government_Name</Label>
+    <String>Nome do Governo</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Domestic_Government_Name</Label>
+    <String>Governo</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GOVERNMT_CHANGE_TURNS_COUNTDOWN</Label>
+    <String>{AMOUNT} turnos até que você possa mudar os tipos de governo.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>GOVERNMT_CHANGE_TURN_COUNTDOWN</Label>
+    <String>{AMOUNT} turno até que você possa mudar os tipos de governo.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>GOVERNMENT_CHANGE_BTN</Label>
+    <String>Mudar Governo</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GOVERNMENT_CHANGE_APPROVAL_NEEDED</Label>
+    <String>Very low approval. It must be at least {AMOUNT} to change to this form of government.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>NEED_MORE_APPROVAL</Label>
+    <String>É necessária maior aprovação.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CANNOT_UPGRADE_GOVERNMENT_SHIP</Label>
+    <String>Não é possível atualizar os navios do governo.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>ERROR_OUT_OF_FACTION_DATA_STORAGE</Label>
+    <String>Insuficiente armazenamento de dados das facções. Não é possível acrescentar nenhuma nova facção.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>UNKNOWN_PLANET_LABEL</Label>
+    <String>Planeta desconhecido</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MyGovernmentLabel</Label>
+    <String>Seu Governo</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>ChangeGovernmentLabel</Label>
+    <String>Mudar Governo</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>AVAILABLE_RESOURCES_LABEL</Label>
+    <String>Recursos disponíveis</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>TAX_RATE_LABEL</Label>
+    <String>Taxa de imposto</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>TAX_UNREST_LABEL</Label>
+    <String>Agitação</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>COLONYLIMIT_LABEL</Label>
+    <String>Muitas colônias</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MainUI_Market_Title</Label>
+    <String>Mercado</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Election_Screen_Title</Label>
+    <String>O Senado Galáctico se reúne</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Election_Screen_Pre_Title</Label>
+    <String>O Senado Galáctico se reúne</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Election_Dialog_Pre_Title</Label>
+    <String>Os senadores estão preparados para votar.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Election_Dialog_Title_Win</Label>
+    <String>Os votos {PLAYERFACTIONLONG} confirmam o governo {GOVERNMENTNAME:2}.</String>
+  </StringTable>
+  <StringTable>
+    
+    <Label>Election_Dialog_Title_Lose</Label>
+    <String>O {PLAYERFACTIONLONG} não vota nenhuma confiança no {GOVERNOME:1} governo.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Election_Dialog_Description_Win</Label>
+    <String>O {PLAYERFACTIONLONG} votou a favor do governo atual com {AMOUNT:1}% do voto popular.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Election_Dialog_Description_Lose</Label>
+    <String>{LEADERNAME} perdeu o apoio popular hoje para o governo {GOVERNMENTNAME:1}, conquistando um triste {AMOUNT:1}% dos votos, e o Senado criou o governo {GOVERNMENTNAME:2}.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>TopApprovingTitle</Label>
+    <String>Top de Aprovação de Planetas</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>TopDissentingTitle</Label>
+    <String>Top Planetas dissidentes</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>PartyBreakdownTitle</Label>
+    <String>Quebra de partido</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GovernmentalSummaryTitle</Label>
+    <String>Resumo do governo</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>GovernmentalBonusesTitle</Label>
+    <String>Bónus</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GovernmentalNameTitle</Label>
+    <String>Nome do Governo</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GovernmentalNameDec</Label>
+    <String>As Repúblicas interestelares permitem o governo eficiente de pequenas e médias civilizações de mentalidade social. Ao descentralizar as colônias, elas estão habilitadas a tomar algumas decisões mais rapidamente do que seria possível de outra forma.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GovernmentalPartyName</Label>
+    <String>Nome do partido</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GovernmentalPercent</Label>
+    <String>33%</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Government_Title</Label>
+    <String>Governo</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>SelectGovernmentLabel</Label>
+    <String>Mudar Governo</String>
+  </StringTable>
+  
+<StringTable>
+  <Label>ElectionsHeldLabel</Label>
+  <String>[ICON=Hold_Election_Icon] Realiza Eleições</String>
+</StringTable>
+
+  <StringTable>
+    <Label>NoElectionsLabel</Label>
+    <String>[ICON=No_Election_Icon] Sem Eleições</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>ColonyLimitLabel</Label>
+    <String>[ICON=Colony_Limit_Icon] Limite de colônia</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MilitaryShipsOnlyLabel</Label>
+    <String>[ICON=Crisis_Icon] Crise: Só pode construir navios Militares</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GalacticCurrencyLabel</Label>
+    <String>[ICON=Cyrptocurrency_Icon] CryptoMoeda: Mercado Galáctico habilitado</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>NoDeclareWarLabel</Label>
+    <String>[ICON=Buraucracy_Icon] Burocracia: Não pode declarar guerra</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CanSendMissionsLabel</Label>
+    <String>[ICON=Controlling_Icon] Contratos: Pode enviar missões</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>NoColonyLimitLabel</Label>
+    <String>[ICON=Galactic_Government_Icon] Galáctica: Sem limite de colônia</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>NoRushingLabel</Label>
+    <String>[ICON=Workers_Rights_Icon] Direitos do Trabalhador: Sem pressa</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>ActiveGovernmentLabel</Label>
+    <String>Governo ativo</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GovernmentSurveyLabel</Label>
+    <String>Pesquisa Governamental</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GovernmentApprovalPastTurnsLabelFormat</Label>
+    <String>(Passado {AMOUNT} Semanas)</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GovernmentColoniesLabel</Label>
+    <String>[ICON=Stat_Planet_Class_Icon] Colônias</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GovernmentPopulationLabel</Label>
+    <String>[ICON=Stat_Population_Icon] População total</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GovernmentUntilChangeLabel</Label>
+    <String>[ICON=Stat_Planet_Class_Icon] Turnos até poder mudar</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GovernmentNextElectionLabel</Label>
+    <String>[ICON=Stat_Population_Icon] Turnos até as eleições</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GovernmentApprovalLabel</Label>
+    <String>{AMOUNT} Aprovação média</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Notification_selectGovernment_short</Label>
+    <String>Selecione Governo</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>SpecialModifierStationedAtColony</Label>
+    <String>colônia quando estacionada</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>SpecialModifierSeparated</Label>
+    <String>{TARGET}, {TARGET:1}</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>SpecialModifierLastStatFormat</Label>
+    <String>{TARGET} e {TARGET:1}</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>SpecialModifierLastStatFormatOR</Label>
+    <String>{TARGET} ou {TARGET:1}</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>SpecialModifierFormat</Label>
+    <String>Bônus {VALUE} para {TARGET} para {CONDITION}.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>AVERAGEAPPROVAL_HAPPY_TITLE</Label>
+    <String>[ICON=APPROVAL_HAPPY_ICON] Aprovação média</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>AVERAGEAPPROVAL_CONTENT_TITLE</Label>
+    <String>[ICON=APPROVAL_CONTENT_ICON] Aprovação média</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>AVERAGEAPPROVAL_SAD_TITLE</Label>
+    <String>[ICON=APPROVAL_SAD_ICON] Aprovação média</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GreedTrait4b_Name</Label>
+    <String>Embarque ilegal</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GreedTrait4b_ShortDec</Label>
+    <String>Todas as rotas comerciais agora trazem de volta o contrabando, além dos créditos.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GreedTrait4b_Dec</Label>
+    <String>Com um pouco de gestão criativa, nossos comerciantes têm sido capazes de começar a importar contrabando valioso de mundos alienígenas, na maioria das vezes sem que nossos parceiros comerciais percebessem.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GovernmentPrerequsTooltipHeader</Label>
+    <String>desbloqueia com</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GovernmentPrerequsTooltipLockedHeader</Label>
+    <String>Não disponível sem</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Ship_Color_Government</Label>
+    <String>Governo</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Commonwealths_Tab_Label</Label>
+    <String>Comunidade</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>CHANGE_GOVERNMENT_CONFIRM_TITLE</Label>
+    <String>Mudar a forma de governo?</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CHANGE_GOVERNMENT_CONFIRM_MSG</Label>
+    <String>Uma vez mudado, você terá que esperar {VALUE} semanas antes que você possa mudá-lo novamente. Você tem certeza?</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>NotEnoughColoniesFormat</Label>
+    <String>Possuir pelo menos {VALUE} Colônias para começar a modificar seu governo.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>ProductionSubWnd_Taxes_Entry</Label>
+    <String>[ICON=Stat_Wealth_Icon] Impostos</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>ProductionSubwnd_Colony_Net_income</Label>
+    <String>[ICON=Stat_Wealth_Icon] Renda das colônias</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>TargetTypeHeaderFormat</Label>
+    <String>Para {TARGET}:</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GOVERNMENT_UNLOCKED_LABEL</Label>
+    <String>%s Governo</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Government_ship_postfix</Label>
+    <String>[ICON=Guardian_Fighters_Icon] {OBJECTNAME} [COLOR=UIDefaultHighlight](Navio exclusivo)[/COLOR]</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>UniqueShip</Label>
+    <String>Navio exclusivo</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>ToStationedColony</Label>
+    <String>Para a Colônia Estacionada:</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Government_Commonwealth_Title</Label>
+    <String>Gerenciar e Criar Comunidade</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Government_Commonwealth_Create</Label>
+    <String>Criar a Nova Comunidade</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Planet_Context_Commonwealth</Label>
+    <String>Nova Comunidade</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Government_Commonwealths_List_Header</Label>
+    <String>{PLAYERFACTION} Comunidade</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Government_Commonwealths_Colonies</Label>
+    <String>[ICON=Stat_Planet_Class_Icon] Colônias</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Government_Commonwealths_Power</Label>
+    <String>[ICON=Stat_Faction_Power_Icon] Poder</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Government_Commonwealths_Wealth</Label>
+    <String>[ICON=Stat_Credits_Icon] Riqueza</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Government_Commonwealths_TradeRoutes</Label>
+    <String>[ICON=Stat_Trade_Icon] Rotas comerciais</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>SelectGovernmentBeforeLeavingTitle</Label>
+    <String>Selecione Governo</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>SelectGovernmentBeforeLeaving</Label>
+    <String>Selecione um governo e pressione "Mudar Governo" para escolher seu governo inicial.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>NoGovernmentLabel</Label>
+    <String>Você ainda não selecionou uma forma de Governo.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GovernmentRequirementsLabel</Label>
+    <String>Requisitos</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GovernmentBonusesLabel</Label>
+    <String>Efeitos</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GovernmentShipFighterDesc</Label>
+    <String>Um poderoso navio de combate</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GovernmentRequiresFormat</Label>
+    <String>{OBJECTNAME} Requer:</String>
+  </StringTable>
+
+    <StringTable>
+    <Label>Customize_Commonwealth_Edit_Label</Label>
+    <String>Personalizar a Comunidade</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>COMMONWEALTH_PLANETLIST_CAPITAL</Label>
+    <String>Capital</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>COMMONWEALTH_PLANETLIST_ADDED</Label>
+    <String>Adicionado</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>COMMONWEALTH_PLANETLIST_AVAILABLE</Label>
+    <String>Disponível</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>COMMONWEALTH_PLANETLIST_UNAVAILABLE</Label>
+    <String>Indisponível</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CREATE_COMMONWEALTH_ADD_BUTTON_TOOLTIP</Label>
+    <String>Adicionar planeta à comunidade</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CREATE_COMMONWEALTH_REMOVE_BUTTON_TOOLTIP</Label>
+    <String>Remover o planeta da Comunidade</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CREATE_COMMONWEALTH_SET_CAPITAL_BUTTON_TOOLTIP</Label>
+    <String>Colocar a capital da Comunidade a este planeta.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CREATE_COMMONWEALTH_SHIPYARD_BUTTON_TOOLTIP</Label>
+    <String>Este planeta está patrocinando um estaleiro naval.  A menos que você o reatribua, o estaleiro irá para a Comunidade.</String>
+  </StringTable>
+
+
+  <StringTable>
+    <Label>CREATE_COMMONWEALTH_SHIPS_BUTTON_TOOLTIP</Label>
+    <String>As naves em órbita deste planeta irão para a Comunidade, a menos que você as ejete.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>ALERT_OtherChangedGovernment</Label>
+    <String>%s mudou para um %s Governo</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>ILLEGAL_TRADEROUTE</Label>
+    <String>Rota do Comércio de Escravos</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>GovernmentExtrasTooltip_ColonyLimit</Label>
+    <String>Número de colônias que este governo pode apoiar antes que a aprovação global comece a ser penalizada.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CommonwealthParsecs</Label>
+    <String>Comunidade Parsecs</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>DefaultPlayerPartyName</Label>
+    <String>Lealistas</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>DefaultOpponentPartyAName</Label>
+    <String>Anarquista</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>DefaultOpponentPartyBName</Label>
+    <String>Revogações</String>
+  </StringTable>
+
+
+  <StringTable>
+    <Label>Creating_Commonweath_Title</Label>
+    <String>Criando a Comunidade</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>RunElectionButton</Label>
+    <String>Realizar eleições</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>ElectionResultsUnknownPartyLabel</Label>
+    <String>???</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Market_No_Resources</Label>
+    <String>Atualmente não há recursos disponíveis no Mercado Galáctico.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Market_No_Resources_To_Sell</Label>
+    <String>Sua Civilização não tem recursos disponíveis para vender no Mercado Galáctico.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CrisesScreenHeader</Label>
+    <String>A Galáxia está em crise</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CrisesHeader</Label>
+    <String>Cabeçalho Crises</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CrisesText</Label>
+    <String>Texto Crise</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CrisesOrders</Label>
+    <String>Quais são suas ordens?</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>CrisesOptionTitle</Label>
+    <String>Opção Crise</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CrisisManagerUnlockTooltip</Label>
+    <String>Desbloquear a designação de um gerente de crise, completando com sucesso uma crise.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>CrisisManagerClickToChange</Label>
+    <String>Clique para alterar</String>
+  </StringTable>
+  
+</StringTableList>

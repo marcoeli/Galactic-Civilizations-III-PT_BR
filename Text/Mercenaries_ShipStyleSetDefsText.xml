@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- Mercenaries_ShipStyleSetDefsText.xml -->
+ 
+  <StringTable>
+    <Label>Mercenaries_TerranShipStyleSet_Name</Label>
+    <String>Terran Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_DrenginShipStyleSet_Name</Label>
+    <String>Drengin Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_ArceanShipStyleSet_Name</Label>
+    <String>Arcean Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mercenaries_TorianShipStyleSet_Name</Label>
+    <String>Torian Ship Style</String>
+  </StringTable>
+ 
+</StringTableList>

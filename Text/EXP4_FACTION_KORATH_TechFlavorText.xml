@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+<!-- Created with the Crusade editor -->
+<!-- EXP4_FACTION_KORATH_TechFlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>TechTree_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Korath Tree</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TranslatorTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Archaic Languages</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TranslatorTech_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Allows communication with lesser aliens so that we can better enjoy their pleadings when we crush them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MinistryOfAliensAffairs_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Path To Purity</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MinistryOfAliensAffairs_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Provides a framework for contact and eventual extermination of alien species.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>Immigration_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Open Travel</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>Immigration_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Allowing alien species to visit our worlds will speed their growth, but will anger our most militant citizens.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OpenImmigration_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Alien Camps</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OpenImmigration_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>EXP4_FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Creating alien camps on our worlds will allow them to grow more quickly. But we should expect violence and conflict from their presence.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+</FlavorTextDefs>

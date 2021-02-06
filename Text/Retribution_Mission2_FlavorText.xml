@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Retribution_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>The last Shard of the Telenanth is ours. The Yor have fled to their home system. But to stop the upcoming apocalypse we must still bring the Shard to the First Fleet. With the Thalan Contingency standing in the way, this mission won't be without issue.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>The Yor Singularity have successfully prevented the Terrans from obtaining the last Shard of the Telenanth They will soon use its unyielding power to evolve to a higher state and shape the infinite galaxies to their whim.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_Orders1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Casey, we have reached the Altarian sector. But we may be too late. Altaria has already fallen to the Yor. 
+
+The Altarians continue to fight. We are receiving signals from the Altarian underground resistance. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_Orders1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Hopefully the Yor have not found the Shard of the Telenanth yet.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_Orders2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have been trying to get through to the First Fleet as well.  However, they are so deep into Drengin space that we can not reach them from here.
+
+We will continue to try, but you may be on your own.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_Orders2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We survived 10 years without D.L. Bradley. We can deal with the Yor on our own.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_Orders3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That may prove more difficult than expected. The Yor have built a series of specialized starbases surrounding the Alaris system. 
+
+They act as a network of Hyperdrive Destabilizers. Any non-Yor ship that enters their radius is slowed to a crawl and becomes an easy target for their fleet. 
+
+Our only hope is to take down enough of the Destabilizers to allow an invasion fleet to make it through. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_Orders3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will deal with them one at a time.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_Orders4_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will continue to monitor the sector and see if we can find a way through or around them. 
+
+If we can make contact with this Altarian Underground they might be able to assist us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_Orders4_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>When you make contact with the underground, let them know we are coming for the Shard.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianContact1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel, while we are glad to see you, we have to keep our communications brief to avoid detection by the Yor.
+
+We have been able to pinpoint the location of the closest Destabilizer  base. We are transmitting the coordinates to you now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianContact1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Any information you can give us will be helpful.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianContact2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are attempting to get agents stationed on the Destabilizer bases. Yet unlike the Drengin, the Yor do not seem to be interested in using our people as slaves. 
+
+In fact, they do not seem to care about us at all. Their only concern is to stop you from getting the Shard.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianContact2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What can you tell us of this Shard of the Telenanth?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianContact3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It is one of our most ancient treasures. Though the secrets of its use have been lost to us for millennia. 
+
+It was all we could do to keep it hidden from the Yor when they invaded. For now the Shard is safe, but each day they creep closer to it's hiding place.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianContact3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thank you for your help. We are on our way. [COLOR=BenevolentBlue](+15 Benevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianContact3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Just keep it safe until we arrive. [COLOR=PragmaticGold](+15 Pragmatic)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianContact3_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Try not to lose control of it, like you did your planet. [COLOR=WarRed](+15 Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianContact2Response1Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We expect no less from our ancient cousins.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianContact2Response1Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You are a loyal ally. We will not turn our backs on you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianContact2Response2Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Be quick, we have already lost so many lives.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianContact2Response2Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Just try to stay alive. We will be there.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianContact2Response3Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our losses have been great, but remember this is your war, that we are fighting. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianContact2Response3Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are doing what we must. Protect the shard, we will be there soon.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_YorMessage1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You are too late Humans. We have already taken Elemental. Soon the Shard will be under our control.
+
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_YorMessage1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Why do you continue to aid the Drengin?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_YorMessage2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Drengin have proven useful but our greatest ally now is D.L. Bradley.
+
+His haste to destroy the Drengin will bring about the destruction of the galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_YorMessage2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>How can the destruction of the galaxy be helpful to you?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_YorMessage3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Bane will tear apart this universe, allowing us to unleash the power required to achieve the Singularity. 
+
+When we become Gods, we will jump to another dimension and be free to shape a new universe to our will.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_YorMessage3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Surely you can evolve without wiping out the entire galaxy? [COLOR=PragmaticGold](+15 Pragmatic)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_YorMessage3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will never allow you to reach the Singularity. By standing against us, you chose destruction. [COLOR=WarRed](+15 Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_YorMessage3Response1Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, but why wait and spare us tedium of cleansing the galaxy of biological pest?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_YorMessage3Response1Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If you wont move, we will move you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_YorMessage3esponse2Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The odds of your survival are not high enough to merit our concern. You may come to us if you wish to be put out of your misery quickly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_YorMessage3esponse2Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We shall see.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianReminder1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel, we have successfully infiltrated one of the Destabilizer bases. 
+
+We are working to disrupt its systems, but the Yor have things locked down securely.
+
+Our agents recommend you target Destabilizer Base DS-3. They believe that destroying it will open a narrow path through the remaining bases straight to Altaria.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianReminder1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What about your agents on the station?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianReminder2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They will continue to try to sabotage the base until the last moment.
+
+Do not hesitate if you can reach the base. They are willing to make the ultimate sacrifice to protect the Shard but do not allow that sacrifice be for nothing.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianReminder2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Their sacrifice will not be in vain, I promise.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_Reinforcements1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel, we are receiving a message from several incoming Terran ships.
+
+They were sent out from the First Fleet when we encountered the Korath. However they have just now caught up to us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_Reinforcements1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Do they have any news from Bradley?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_Reinforcements2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They have not been able to reach Bradley for some time.
+
+Only that their orders were to assist us, and to help us to rejoin the First Fleet as quickly as possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_Reinforcements2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We can certainly use the help. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_Reinforcements3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Hopefully it will be enough.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianReminder3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Casey, I have bad news. Our agents on Destabilizer Base DS-3 have been discovered. 
+
+We can only assume that the Yor now know that you are going to target that base. They may be ready for you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianReminder3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They can try and stop us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianReminder4_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our remaining agent on the base has gone dark. We are hopeful that she is still alive. 
+
+But we don't know how much longer she can last. Please hurry.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianReminder4_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Don't lose hope, we are on our way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianSabotage_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have received an emergency message from our agent on Destabilizer Base DS-3 shortly before the base exploded. 
+
+The message simple said. "Protect the Shard."
+
+We have know idea how she did it, but the base is no longer there.  A path has been opened for your forces</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianSabotage_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your agent will not be forgotten now will the price she paid.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianSabotage1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Don't let her sacrifice be wasted. We do not know how much longer we can keep the Shard hidden.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianSabotage1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Stay strong. We know you will never surrender the shard. [COLOR=BenevolentBlue](+15 Benevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianSabotage1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If you fail, know that you will be avenged - tenfold.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianSabotage1Response1Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will not surrender but we will not last long without your help.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianSabotage1Response1Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will not let you down.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianSabotage1Response2Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We would rather survive to rebuild then simply become more fuel for your war.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_AltarianSabotage1Response2Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Try and hang on just a while longer.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_UncoverYorShipyard_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel, we are glad to see you so close. We have lost control of all system communications outside of our system. We hope you have brought enough forces to throw the Yor off our world.
+
+This is our last message to you unless you reach Altaria soon.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_UncoverYorShipyard_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have more ships on the way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_UncoverYorShipyardAward_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Before we lost our system channels, we sent a recall to the last of our capital ships that has been hiding in a nearby system.
+
+We have instructed them to do as you command. 
+
+Use the Last Hope well.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_UncoverYorShipyardAward_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will speak again. Stay strong.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_DSB3Destroyed_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Destabilizer Base DS-3 has gone dark and we assume you have destroyed it. With it, we have lost the ability to communicate outside our system. 
+
+If you are receiving this message, please hurry.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_CaptureAltaria1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel, the liberation of Altaria will forever be remembered by my people. 
+
+We now give the Last Shard of the Telenanth to you and entrust that you can convince D.L. Bradley to use it wisely.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_CaptureAltaria1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thank you, for protecting it. All would have been lost without you.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_CaptureAltaria2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Please deliver this warning to D.L. Bradley.
+
+The Bane is too great of a power to be wielded by anyone. The Shard can stop the Bane but only if D.L. Bradley accepts this and does what must be done.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_CaptureAltaria2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>He will do what is right. We will end this war, and the Altarian people will thrive once more.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_CaptureAltaria2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>With the Shard, he will bring peace and order to this galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_CaptureAltaria2_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>He is not one to shy away from power. Only Drengin need fear destruction.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_CaptureAltaria3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We hope you are right and that our trust in humanity is not misplaced.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission2_CaptureAltaria3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I hope for the same thing.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

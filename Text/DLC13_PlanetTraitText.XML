@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- PlanetTraitText.XML -->
+
+ 
+  <StringTable>
+    <Label>SterileWorld_Name</Label>
+    <String>[ICON=SterileWorldIcon] Sterile World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SterileWorld_Dec</Label>
+    <String>A planet hostile to all life, but great for running controlled experiments.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FertileWorld_Name</Label>
+    <String>[ICON=FertileWorldIcon] Fertile World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FertileWorld_Dec</Label>
+    <String>A planet that can feed an Empire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TranquilWorld_Name</Label>
+    <String>[ICON=TranquilWorldIcon] Tranquil World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TranquilWorld_Dec</Label>
+    <String>Will eventually be taken over by retirees. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VolcanicWorld_Name</Label>
+    <String>[ICON=ValcanicWorldIcon] Volcanic World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VolcanicWorld_Dec</Label>
+    <String>Abundant power is nice, but boy do the earthquakes get old.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FissuredWorld_Name</Label>
+    <String>[ICON=FissuredWorldIcon] Fissured world</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FissuredWorld_Dec</Label>
+    <String>Hostile on the surface, but with fertile fissures and abundant natural resources to mine. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BombardedWorld_Name</Label>
+    <String>[ICON=BombardedWorldIcon] Bombarded World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BombardedWorld_Dec</Label>
+    <String>Mostly land full of Calderas of water, and abundant geothermal energy.</String>
+  </StringTable>
+ 
+</StringTableList>

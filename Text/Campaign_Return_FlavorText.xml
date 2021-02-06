@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Campaign_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Return_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>The Terran 1st Fleet has returned home. D.L. Bradley has used the powerful Precursor artifact that powered the T.A.S. Crusader to bring down the imprisoning Precursor Shield that had encapsulated Earth. 
+
+Earth has not been idle during its long imprisonment.
+
+The Crusade has begun.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Return_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>The Terran 1st Fleet's near-miraculous return to this universe has ended in tragedy. Despite the awesome power of the T.A.S. Crusader, the fleet was crushed under the heel of the ever expanding Drengin Empire.
+
+All that remains of the Human race now is Earth, imprisoned behind its Precursor Shield, perhaps forever.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_NewOrders_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The time has come to make our push for Earth. 
+
+Your orders are simple: Destroy the Drengin forces near Earth. Once you have secured the area, get the T.A.S. Crusader to Earth so I can bring down the shield.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_NewOrders_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What are your orders concerning other races that remain in the area?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_GetToEarth_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We should try to convince them of the justice of our cause. They, too, have suffered under Drengin domination. Convince them to help, if at all possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_GetToEarth_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I will convince them to fight for their freedom, and together we will bring justice to the Drengin. [COLOR=BenevolentBlue](Benevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_GetToEarth_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I am impressed with your tolerance. Not many who have been through what you have would be so willing to negotiate with races who have not always stood by us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_GetToEarth_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I will try to reason with them, but if they stand in our way they will regret it. [COLOR=PragmaticGold](Pragmatic)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_GetToEarth_Counter2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Do what you must. What truly matters is the removal of the Drengin armada and the freedom of Earth.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_GetToEarth_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We do not need the help of the dregs of the galaxy. [COLOR=WarRed](Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_GetToEarth_Counter3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>In the long run, we may need to deal with them the same way as the Drengin, but for now use caution. The 1st fleet is not all-powerful. If we must fight on every front we will fail.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- CreysFlolly Note - Go get creys folly-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_CreysFlolly_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Ok, Commander, this is it, there are a series of Drengin colonies directly in our path to Earth. I recommend you secure them as we move forward.
+
+They will be perfect stepping stones, and if we secure them all it will cut the Drengin forces in this sector in half.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_CreysFlolly_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir, that will be very helpful, and will ensure that we do not get cut off from our supply lines.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_CreysFlolly_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I think it would be best to take the fleet straight to Earth while we are still at full strength.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- SteppingStones Note - Steping stones-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_SteppingStones_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well done, Commander. Unfortunately Crey's Folly, was the weakest Drengin colony in the area. They have been entrenched for nearly 10 years. Each world we face will be more heavily defended than the other. 
+
+I suggest you get our new colonies producing reinforcements as quickly as possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_SteppingStones_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir. I must admit it is a pleasure to finally be heading home. [COLOR=PragmaticGold](Pragmatic)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_SteppingStones_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>My advisors are sending you the coordinates to the Drengin colonies in our way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_SteppingStones_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, Sir. It is very nice to finally be giving the Drengin a taste of their own medicine. [COLOR=WarRed](Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_SteppingStones_Counter2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, Sir. It is very nice to finally be giving the Drengin a taste of their own medicine. [COLOR=WarRed](Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- AltarianGreeting Note - Hello form Altarians-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_AltarianGreeting_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Welcome cousins, we had given up hope of your return. Our war with the Drengin does not go well. 
+
+But we can now sense the fear in their hearts, they know you come for them. Perhaps together we can put an end to the Drengin scourge once and for all.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_AltarianGreeting_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Together we will return peace to the universe.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_AltarianGreeting_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We do not need your help, if you are wise you will get out of our way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- IridiumGreeting Note - Hellow from Iridium-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_IridiumGreeting_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Greetings, we are glad to see you returning to your home, and we have heard that you have brought back many valuable items with you. 
+
+Perhaps we can come to a mutually beneficial arrangement? We might even be willing to help you in your war with the Drengin. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_IridiumGreeting_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>While there are some things we will not share with anyone, we may be able to work out a deal.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_IridiumGreeting_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your petty bargaining and profiteering is not worth our time.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- KrynnGreeting Note - Hello from Krynn-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_KrynnGreeting_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well, we will not say your return is unwelcome. The Drengin Empire has become particularly difficult to manage in your absence. However, we are not interested in exchanging one oppressive empire for another. 
+
+We will consider leaving you in peace for now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_KrynnGreeting_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our goal is to liberate Earth, nothing more.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_KrynnGreeting_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You would be wise not to threaten us, we have grown tired of being bullied.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- YouTookCreysFolly Note - You took our world-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_YouTookCreysFolly_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well, well. It seems you have taken one of our weakest colonies. You must be very proud of yourselves. 
+
+Your pitiful 1st fleet will be destroyed one ship at a time if you continue on your path.
+We are looking forward to it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_YouTookCreysFolly_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are coming for you! If you were wise you would flee back to Drengi while you have the chance.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- CaptureBond Note - You captured Bond-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_CaptureBond_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Drengin seem to have been using this world as a base for much of their resource mining efforts. 
+
+There is a particularly rich area on the other side of the nearby black hole that we should investigate.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_CaptureBond_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Good advice, we will certainly be able to make use of these resources.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_CaptureBond_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have no time for "mining," we will return to this system once we have taken back Earth.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- TookGateway Note - You captured Gateway-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_TookGateway_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Fleshlings, you draw closer to your doom.
+
+We may have underestimated your flagship, but we will not make that mistake again. Our most powerful fleets are being rallied, and will soon hunt you down.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_TookGateway_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The T.A.S. Crusader is like no ship you have ever seen. Bring them on.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_TookGateway_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You will not face the T.A.S. Crusader alone, our worlds are sending new fleets to the front each day.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- TookProximaAquarii Note - You captured Proxima Aquarii, now go kill Andromedae-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_TookProximaAquarii_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commander, we have found the system the Drengin have been using as a base of operations near Earth. They have taken Proxima Andromedae, and are using it as a rallying point for their forces. 
+
+It may prove beneficial to take Andromadae quickly, and remove their command structure in the area.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_TookProximaAquarii_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent plan. We will cut the head off the Drengin beast.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_TookProximaAquarii_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Only after we have taken every Drengin world in this sector will we be able to return to Earth.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- TookMars Note - You captured Mars, even now the rest of the drengin empire is perparing to hunt you down-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_TookMars_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You may have taken your little dirt ball of a world back, but your home is still beyond your reach, and even now Drengi rallies its forces.
+
+Even if you bring down the shield, you are doomed. The entire Drengin Empire is coming for you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_TookMars_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will be ready for them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_TookMars_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It is we who will be coming for you, when we are done the Drengin Empire will be dust.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- Keyhole Note - Took mars go to key hole-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_Keyhole_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent work, Commander. Now, get the T.A.S. Crusader close enough to Earth that I can lower that cursed shield once and for all.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_Keyhole_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir! We are on our way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_Keyhole_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I think it would be best if we clear the sector of the remaining Drengin first.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- TookAndromedae Note - You took Andromedae Drengin on the run-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_TookAndromedae_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well done, Commander, you have the Drengin on the run but it will not be safe to lower the shield until all the Drengin forces have been eliminated. 
+
+Hunt them down!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_TookAndromedae_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>With pleasure.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_DrenginDestroyed_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Congratulations, Commander! The Drengin have been defeated!
+
+Now, get the T.A.S. Crusader close enough to Earth so I can lower that cursed shield once and for all.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Return_DrenginDestroyed_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir! We are on our way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

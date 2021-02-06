@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/Lib/StringTable.xsd">
+
+    <StringTable>
+        <Label>FIRST_HYPERGATE_NAME</Label>
+        <String>Primeiro Hypergate</String>
+    </StringTable>
+
+    <StringTable>
+        <Label>FIRST_HYPERGATE_DESC</Label>
+        <String>Seu navio se instala em um padrão de espera logo fora do horizonte máximo do Hypergate. Automaticamente, sua nave começa a escaneá-la, detectando o estado atual de seus muitos coletores de energia. Os hipertensões devem ser rastreados da maneira correta para que uma viagem através dele não deposite um viajante em seu próprio estômago. Satisfeito com os números, você direciona os computadores para iniciar a seqüência de ruptura.
+</String>
+    </StringTable>
+
+    <StringTable>
+        <Label>FIRST_HYPERLANE_NAME</Label>
+        <String>Primeira Hyperlane</String>
+    </StringTable>
+
+    <StringTable>
+        <Label>FIRST_HYPERLANE_DESC</Label>
+        <String>Os preparativos estão completos, e com uma vibração visível, o link Hypergates. Os tempos de viagem entre os dois pontos finais serão agora grandemente reduzidos. Em um só golpe, a imensidão insondável do espaço se tornou um pouco menor. Um pouco mais civilizado.</String>
+    </StringTable>
+
+    <StringTable>
+        <Label>FIRST_ARTIFACT_POWER_USED_NAME</Label>
+        <String>Primeira Poder de Artefato Utilizado</String>
+    </StringTable>
+
+    <StringTable>
+        <Label>FIRST_ARTIFACT_POWER_USED_DESC</Label>
+        <String>Esta galáxia tem sido o lar da inteligência alienígena por bilhões de anos. Mais coisas foram inventadas e esquecidas do que alguma vez aprendemos. Mas não isto. Isto... o que quer que seja isto... será nosso. Você emite o comando e a energia começa a fluir através dele.</String>
+    </StringTable>
+ 
+</StringTableList>

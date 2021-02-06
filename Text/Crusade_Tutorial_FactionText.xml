@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- Crusade_Tutorial_FactionText.xml -->
+ 
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_RESISTANCE_Name</Label>
+    <String>Terran Resistance</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_RESISTANCE_ShortName</Label>
+    <String>Terran Resistance</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_RESISTANCE_LeaderName</Label>
+    <String>Marcus Cory </String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_RESISTANCE_Dec</Label>
+    <String>The Terran Resistance are the portion of humanity that wasn't trapped on Earth behind the Precursor Shield. Years on the run has made them resourceful but hard, and formed a schism with the rest of humanity which might take some time to heal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_RESISTANCE_LeaderDec</Label>
+    <String>Leader Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_RESISTANCE_Callsign</Label>
+    <String>T.R.S</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_RESISTANCE_StartupTitle</Label>
+    <String>Backup Plan</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_RESISTANCE_StartupDescription</Label>
+    <String>As Humanity prepares for a great Crusade on Earth, Commodore Marcus Cory has been sent to recall what remains of the Terran Second Fleet to Earth. But the war-weary leader of the Terran Resistance, Admiral Jenna Casey is concerned by the disturbing rumors surrounding D.L. Bradley's return. Not yet ready to completely trust in  Bradley's leadership, she has convinced Cory that mankind needs a backup plan.
+
+His job is to establish a new colony, in a safe corner of the galaxy, where humanity can retreat if the situation on Earth goes wrong.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_RESISTANCE_StartupTraitsDescription</Label>
+    <String>With nothing but a fresh group of volunteers Commander Cory must fortify this new world and make sure it is ready for whatever the future holds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_SYLNE_Name</Label>
+    <String>Slyne</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_SYLNE_ShortName</Label>
+    <String>Slyne</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_SYLNE_LeaderName</Label>
+    <String>Raz-Spon Erg</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_SYLNE_Dec</Label>
+    <String>The Slyne are gelatinous beings capable with a natural understanding of technology, who  use a variety of cybernetic limbs and enhancements to project their will. Fickle and hard to kill, it's probably best to stay on their good side.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_SYLNE_LeaderDec</Label>
+    <String>Leader Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_SYLNE_Callsign</Label>
+    <String>S.E.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_SYLNE_StartupTitle</Label>
+    <String>Campaign Not Visible</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_SYLNE_StartupDescription</Label>
+    <String>Campaign Not Visible</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_SYLNE_StartupTraitsDescription</Label>
+    <String>The Slyne have an instinctive understanding of almost all technology and quickly understand any new mechanisms they discover. They are unparalleled at construction and engineering, often building things which require almost no maintenance.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_DRENGIN_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_DRENGIN_ShortName</Label>
+    <String>Drengin</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_DRENGIN_LeaderName</Label>
+    <String>Lord Kona</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_DRENGIN_Dec</Label>
+    <String>The Drengin are a profoundly evil and warlike civilization. Exceedingly clever and vicious, there are few beings capable of meeting a Drengin and not becoming its next meal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_DRENGIN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_DRENGIN_Callsign</Label>
+    <String>D.E.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_DRENGIN_StartupTitle</Label>
+    <String>Campaign Not Visible</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_DRENGIN_StartupDescription</Label>
+    <String>Campaign Not Visible</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_DRENGIN_StartupTraitsDescription</Label>
+    <String>Drengin soldiers are savagely effective at ground-based combat and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slave revolts.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_PIRATES_Name</Label>
+    <String>Space Pirates</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_PIRATES_ShortName</Label>
+    <String>Pirates</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_PIRATES_LeaderName</Label>
+    <String>Grey Slime</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_PIRATES_Dec</Label>
+    <String>Pirates made of up the scum of the universe.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_PIRATES_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_PIRATES_Callsign</Label>
+    <String>Pirate</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_PIRATES_StartupTitle</Label>
+    <String>Campaign Not Visible</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_PIRATES_StartupDescription</Label>
+    <String>Campaign Not Visible</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP2_TUTORIAL_FACTION_PIRATES_StartupTraitsDescription</Label>
+    <String>Pirate forces are decentralized and brutal. They do not have the resources of most races, and are slow to build forces.  Yet, in time they a powerful threat ...</String>
+  </StringTable>
+ 
+</StringTableList>

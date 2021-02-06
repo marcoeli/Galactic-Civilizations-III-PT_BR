@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- FactionText.xml -->
+ 
+  <StringTable>
+    <Label>Arcea_FACTION_TERRAN_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Arcea_FACTION_TERRAN_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Arcea_FACTION_TERRAN_LeaderName</Label>
+    <String>DL Bradley</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Arcea_FACTION_TERRAN_Dec</Label>
+    <String>The Terran Alliance first fleet has returned from the pocket universe in possession of powerful Precursor artifacts, and with the goal of liberating the galaxy from Drengin control. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Arcea_FACTION_TERRAN_LeaderDec</Label>
+    <String>DL Bradley is the Infamous Commander of the Terran Alliance 1st Fleet. He has returned from the Pocket Universe with a mysteries Artifact will change the galaxy for ever.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Arcea_FACTION_TERRAN_Callsign</Label>
+    <String>T.A.S</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Arcea_FACTION_TERRAN_StartupTitle</Label>
+    <String>Return to Arcea</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Arcea_FACTION_TERRAN_StartupDescription</Label>
+    <String>Hoping to find a safe place to stage their campaign, the Terran 1st Fleet has returned to this universe near the homeworld of their former ally, the Arceans.  Upon arrival, they discover it occupied by the malevolent Drengin Empire. 
+
+Now they must liberate Arcea and use it as a beachhead where they can stage their return to Earth. 
+
+The vast Drengin Empire stands in the way, but they have no idea what is coming for them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Arcea_FACTION_TERRAN_StartupTraitsDescription</Label>
+    <String>The 1st Fleet is led by the most powerful ship ever created by the human race, the T.A.S. Crusader. Powered by a Precursor artifact of unfathomable strength, this ship will be the key to freeing Earth. The first fleet is not large, but it is deadly.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Arcea_FACTION_DRENGIN_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Arcea_FACTION_DRENGIN_ShortName</Label>
+    <String>Drengin</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Arcea_FACTION_DRENGIN_LeaderName</Label>
+    <String>Lord Kona</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Arcea_FACTION_DRENGIN_Dec</Label>
+    <String>The Drengin are a profoundly evil and warlike civilization. Exceedingly clever and vicious, there are few beings capable of meeting a Drengin and not becoming its next meal.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Arcea_FACTION_DRENGIN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Arcea_FACTION_DRENGIN_Callsign</Label>
+    <String>D.E.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Arcea_FACTION_DRENGIN_StartupTitle</Label>
+    <String>An Entire Galaxy to Conquer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Arcea_FACTION_DRENGIN_StartupDescription</Label>
+    <String>The Drengin are one of the older races in the galaxy, with an internal history rich with conquest and bloodshed, dominating the lesser species of their planet. 
+
+Cruel, but inventive, many of their victims have discovered that the Drengin are not mindlessly stupid, and can even be quite creative when it comes to the application of evil. There are few ways to devour a slaveling that the Drengin haven't thought up, though most acknowledge that simple beatings are usually the more economically prudent option.
+ </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Arcea_FACTION_DRENGIN_StartupTraitsDescription</Label>
+    <String>Drengin soldiers are savagely effective at ground-based combat, and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slaveling revolts.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_TERRAN_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_TERRAN_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_TERRAN_LeaderName</Label>
+    <String>DL Bradley</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_TERRAN_Dec</Label>
+    <String>The Terran Alliances first fleet has returned from the pocket universe in possession of powerful Precursor artifacts, and with the goal of liberating the galaxy from Drengin control. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_TERRAN_LeaderDec</Label>
+    <String>DL Bradley is the infamous commander of Fleet. He has returned from the pocket universe with a mysterious artifact that will change the galaxy forever.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_TERRAN_Callsign</Label>
+    <String>T.A.S</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_TERRAN_StartupTitle</Label>
+    <String>Contingency</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_TERRAN_StartupDescription</Label>
+    <String>The Thalan Contingency has spent the last 10 years warning our former allies that we would return and bring with us the 'End of All Things.'  This mad prophecy made the last few free races wary of the Terran Alliance, and has made forming a coalition against the Drengin nearly impossible. 
+
+The time has come to deal with the Thalan once and for all. Through reason or war, the choice is yours.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_TERRAN_StartupTraitsDescription</Label>
+    <String>D.L. Bradley has dispatched an expeditionary force, led by Commander Marcus Cory, to the Thalis sector. They have been allocated the resources of the newly acquired Dominion colony to accomplish this mission</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_DRENGIN_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_DRENGIN_ShortName</Label>
+    <String>Drengin</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_DRENGIN_LeaderName</Label>
+    <String>Lord Kona</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_DRENGIN_Dec</Label>
+    <String>The Drengin are a profoundly evil and warlike civilization. Exceedingly clever and vicious, there are few beings capable of meeting a Drengin and not becoming its next meal.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_DRENGIN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_DRENGIN_Callsign</Label>
+    <String>D.E.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_DRENGIN_StartupTitle</Label>
+    <String>An Entire Galaxy to Conquer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_DRENGIN_StartupDescription</Label>
+    <String>The Drengin are one of the older races in the galaxy, with an internal history rich with conquest and bloodshed, dominating the lesser species of their planet. 
+
+Cruel, but inventive, many of their victims have discovered that the Drengin are not mindlessly stupid, and can even be quite creative when it comes to the application of evil. There are few ways to devour a slaveling that the Drengin haven't thought up, though most acknowledge that simple beatings are usually the more economically prudent option.
+ </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_DRENGIN_StartupTraitsDescription</Label>
+    <String>Drengin soldiers are savagely effective at ground-based combat, and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slaveling revolts.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_THALAN_Name</Label>
+    <String>Thalan Contingency</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_THALAN_ShortName</Label>
+    <String>Thalan</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_THALAN_LeaderName</Label>
+    <String>Hithesius</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_THALAN_Dec</Label>
+    <String>The Thalan Contingency have come from another universe in the hopes of stopping what they call The Terran Crusade. They believe the crusade will lead to the destruction of the universe if left unchecked.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_THALAN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_THALAN_Callsign</Label>
+    <String>T.C.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_THALAN_StartupTitle</Label>
+    <String>The Iconian Legacy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_THALAN_StartupDescription</Label>
+    <String>The Thalans are an insectoid race that claim to originate in the distant future. Their purpose here is unknown to most, but from a few cryptic words it seems they have come back in time to stop the Terrans from destroying the universe at some point in the future. 
+
+Technically advanced, the Thalans are hampered by the fact that they were unable to bring much of their technology with them into the past. They now have to now recreate it from scratch, with none of the tools or power sources they're accustomed to working with.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Contingency_FACTION_THALAN_StartupTraitsDescription</Label>
+    <String>The Thalans are excellent researchers, extremely productive, and unfailingly militant. Their fertility is limited, however; a possible side effect of living in an unfamiliar universe. Their distant and aloof nature makes them very unlikable.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_TERRAN_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_TERRAN_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_TERRAN_LeaderName</Label>
+    <String>DL Bradley</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_TERRAN_Dec</Label>
+    <String>The Terran Alliances first fleet has returned from the pocket universe in possession of powerful Precursor artifacts, and with the goal of liberating the galaxy from Drengin control. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_TERRAN_LeaderDec</Label>
+    <String>DL Bradley is the Infamous Commander of the Terran Alliance 1st Fleet. He has returned from the Pocket Universe with a mysteries Artifact will change the galaxy for ever.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_TERRAN_Callsign</Label>
+    <String>T.A.S</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_TERRAN_StartupTitle</Label>
+    <String>Return to Earth</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_TERRAN_StartupDescription</Label>
+    <String>The Terran Alliance, now firmly re-established in its home universe, has begun its push towards Earth. They have returned to a galaxy at war, with their former allies faltering, and other races profiting on the chaos. Will these races fight for their freedom, or will they stand in the way?
+
+The 1st fleet must cut its way through the strong right arm of the Drengin Empire to reach Earth and free the planet from its Precursor prison, at last.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_TERRAN_StartupTraitsDescription</Label>
+    <String>The Terran Alliance now has several worlds to use as a base of operations, and is capable of reinforcing the T.A.S. Crusader and making the 1st fleet nearly unstoppable.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_DRENGIN_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_DRENGIN_ShortName</Label>
+    <String>Drengin</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_DRENGIN_LeaderName</Label>
+    <String>Lord Kona</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_DRENGIN_Dec</Label>
+    <String>The Drengin are a profoundly evil and warlike civilization. Exceedingly clever and vicious, there are few beings capable of meeting a Drengin and not becoming its next meal.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_DRENGIN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_DRENGIN_Callsign</Label>
+    <String>D.E.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_DRENGIN_StartupTitle</Label>
+    <String>An Entire Galaxy to Conquer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_DRENGIN_StartupDescription</Label>
+    <String>The Drengin are one of the older races in the galaxy, with an internal history rich with conquest and bloodshed, dominating the lesser species of their planet. 
+
+Cruel, but inventive, many of their victims have discovered that the Drengin are not mindlessly stupid, and can even be quite creative when it comes to the application of evil. There are few ways to devour a slaveling that the Drengin haven't thought up, though most acknowledge that simple beatings are usually the more economically prudent option.
+ </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_DRENGIN_StartupTraitsDescription</Label>
+    <String>Drengin soldiers are savagely effective at ground-based combat, and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slaveling revolts.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_ALTARIAN_Name</Label>
+    <String>Altarian Resistance</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_ALTARIAN_ShortName</Label>
+    <String>Altarian</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_ALTARIAN_LeaderName</Label>
+    <String>Akari Malara</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_ALTARIAN_Dec</Label>
+    <String>Altarians are a deeply religious race that are kind in their interaction with others, although a bit self-righteous. For unknown reasons, they are very similar in appearance to the Terrans.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_ALTARIAN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_ALTARIAN_Callsign</Label>
+    <String>A.R.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_ALTARIAN_StartupTitle</Label>
+    <String>Enlightened Leadership</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_ALTARIAN_StartupDescription</Label>
+    <String>The Altarians are a deeply religious race, and possess a unique history they claim was touched by powerful beings known as the Precursors. Kind and generous to a fault, their unique history means Altarians are prone to behaving more than a little self righteously when dealing with other, lesser races. 
+
+For some as yet unexplained reason, Altarians appear almost identical in appearance to Terrans. Altarian prophecy has spoken of the day they would one day meet their cousins, but few know if that prophecy had anything to say about what would happen next.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_ALTARIAN_StartupTraitsDescription</Label>
+    <String>Altarians are careful researchers, generally content, and influential with their neighbors. Their ships are known for being fast but fragile, though they can organize large fleets of them when called upon. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_IRIDIUM_Name</Label>
+    <String>Iridium Corporation</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_IRIDIUM_ShortName</Label>
+    <String>Iridium</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_IRIDIUM_LeaderName</Label>
+    <String>Harondin Gaul</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_IRIDIUM_Dec</Label>
+    <String>The Iridium are an ultra capitalistic civilization ruled by a number of multi-planet corporations. Firm believers in the power of free markets, they specialize in economic and cultural growth.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_IRIDIUM_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_IRIDIUM_Callsign</Label>
+    <String>I.C.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_IRIDIUM_StartupTitle</Label>
+    <String>New Markets Await</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_IRIDIUM_StartupDescription</Label>
+    <String>The Iridium Corporation is the apex corporate entity of an ultra capitalistic society, the only organization capable of entering into contracts on behalf of the entire Iridium people. 
+
+The entire Iridium culture is based on a firm, even fanatical belief in the power of free markets. Although no strangers to weaponry, all research is first considered through the lens of mutual cooperation; the destructive cost of warfare is often too great for Iridium's to seriously consider. It remains to be seen how well this philosophy will fare when introduced to more close-minded races.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_IRIDIUM_StartupTraitsDescription</Label>
+    <String>Iridiums are excellent at research and development and quick to maximize the economic potential of any new discovery. Their ships are also far ranging, enhancing their natural inclination to trade. Growth potential is limited somewhat by their species' slower than average population growth.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_KRYNN_Name</Label>
+    <String>Krynn Syndicate</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_KRYNN_ShortName</Label>
+    <String>Krynn</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_KRYNN_LeaderName</Label>
+    <String>Ynrhed Eidden</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_KRYNN_Dec</Label>
+    <String>The Krynn are a coalition of races deeply united by a shared religion. In recent years a secretive arm of their faith has taken control of their government, and its shadow network now spans the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_KRYNN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_KRYNN_Callsign</Label>
+    <String>K.S.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_KRYNN_StartupTitle</Label>
+    <String>Unified by Belief</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_KRYNN_StartupDescription</Label>
+    <String>The Krynn are not a single race, but a coalition of sentient beings united by a shared religion. As their beliefs make clear that they will not achieve salvation until all sentient life in the galaxy follows the Way of the Krynn, the Krynn will aggressively attempt to convert their neighbors at every available opportunity.
+
+In recent years, a secretive criminal organization has seized the reigns of power in Krynn civilization. Known as the Syndicate, they pursue the Way of the Krynn via some decidedly more sinister paths than the peaceful language of their religion might suggest.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_KRYNN_StartupTraitsDescription</Label>
+    <String>The Krynn are well suited for expansion, being rapid breeders with fast, far-ranging ships. Their outspoken nature make them unpopular though, and their limited military manufacturing means they have to consider their most aggressive conversion activities very carefully.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_YOR_Name</Label>
+    <String>Yor Singularity</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_YOR_ShortName</Label>
+    <String>YOR</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_YOR_LeaderName</Label>
+    <String>N-1</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_YOR_Dec</Label>
+    <String>The Yor are a race of sentient artificial beings. They have no need for crude means for reproduction and consumption, and can instead build citizens to inhabit their worlds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_YOR_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_YOR_Callsign</Label>
+    <String>Y.S.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_YOR_StartupTitle</Label>
+    <String>The Iconian Legacy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_YOR_StartupDescription</Label>
+    <String>The Yor are sentient artificial beings, originally servants of a species known as the Iconians. Granted sentience by the Dread Lords, the Yor turned against their Iconian creators, apparently wiping them from the face of the galaxy. The Yor have since become viciously xenophobic, and despise all biological lifeforms. 
+
+Capable of long-term planning and a surprising degree of cunning, the Yor will often speak to and negotiate with organic beings. Those beings should understand that this is but a short term ploy, and that their new friends will never rest until they, and all other organic life is destroyed.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Return_FACTION_YOR_StartupTraitsDescription</Label>
+    <String>The Yor are highly productive and capable of building large fleets of self-repairing vessels. They're profoundly unpopular, and few races opt to befriend them. Unlike organic races, their growth rate is a function of production capacity.</String>
+  </StringTable>
+ 
+</StringTableList>

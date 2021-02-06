@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Assassination_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Assassination_Assassination_Warning_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTIONLONG:3}, your treachery has been unmasked. Our spymasters have discovered that you were behind the assassination of our Ambassador to your pathetic civilization. From this moment on we are at war. You will truly regret betraying the {PLAYERFACTIONLONG:1}.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Assassination_Assassination_Warning_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Please, believe us when we say we had nothing to do with this atrocity; our goals have always been to strengthen our bonds with your people. [COLOR=BenevolentBlue](Benevolent +30)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Assassination_Assassination_Warning_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Everyone knows the {PLAYERFACTION:3} are a race of liars. We will have our revenge.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Assassination_Assassination_Warning_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your spies are mistaken; we wish no harm to your people, but we will defend ourselves if needed. [COLOR=PragmaticGold](Pragmatic +30)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Assassination_Assassination_Warning_Counter2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Until you can prove our spies wrong, we are at war. You had best ready your colonies for they will soon be ours.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Assassination_Assassination_Warning_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It was only a matter of time before we betrayed you. This is as good a time as any. [COLOR=WarRed](Malevolent +30)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Assassination_Assassination_Warning_Counter3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We had been warned of your treacherous nature. Now that we know the truth, we will wipe you from the galaxy once and for all.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Assassination_Assassination__Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>c</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

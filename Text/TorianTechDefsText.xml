@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- TorianTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>TorianTechTree_Name</Label>
+    <String>Torian Tech Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianTechTree_ShortDec</Label>
+    <String>A tech tree specialized for aquatic Races.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianTechTree_Dec</Label>
+    <String>A tech tree specialized for aquatic Races.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianTorianColonizationTech_Dec</Label>
+    <String>For generations Torians have dreamed of setting foot and flipper on other worlds. That dream is now a reality. Feet are being set on other worlds, and flippers are being dipped.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianInfrastructureTech_Name</Label>
+    <String>Amphibious Infrastructure</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAdvancedConstruction_Name</Label>
+    <String>Amphibious Construction</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianXenoManufacturingMethods_Name</Label>
+    <String>Amphibious Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianHydromechanicalMining_Name</Label>
+    <String>Hydromechanical Mining</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianHydromechanicalMining_ShortDec</Label>
+    <String>Allows the constuction of one Central Mine per colony.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianHydromechanicalMining_Dec</Label>
+    <String>Having the ability to mine below the water table without all the messy pumping, allows mines to be deeper, and larger than most atmosphere breathing races can manage.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianPracticalFusion_Name</Label>
+    <String>Practical Fusion</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianPracticalFusion_ShortDec</Label>
+    <String>Allows construction of improved power plants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianPracticalFusion_Dec</Label>
+    <String>Making cascading fusion reactors robust, tamper-resistant, and generally catastrophe-proof has taken a lot of work. But now that we have, we expect to see improved manufacturing capacity and only the bare minimum of catastrophes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianEducationalResearch_Name</Label>
+    <String>Amphibious Education</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianEducationalResearch_ShortDec</Label>
+    <String>Allows construction of advanced Universities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianEducationalResearch_Dec</Label>
+    <String>The best and brightest need a place to continue their education, and more importantly their research. Universities should provide the best, dampest environment for encouraging this valuable research.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianResearchOptimization1_Name</Label>
+    <String>Optimized Schooling</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianResearchOptimization1_Dec</Label>
+    <String>We've modified Torian educational practices to encourage the swiftest thinking Torians to begin schooling together. This should lead to the more rapid development of new technologies, and less of our swift thinking Torians being bullied.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianResearchOptimization2_Name</Label>
+    <String>Cost Effective Schooling</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianResearchOptimization2_Dec</Label>
+    <String>Torians have always been willing to spend whatever it takes on our educational pools. Which hasn't led to very cost-effective spending. By putting our wisest, wettest-behind-the-ears Torians in charge of the budgets, we should make our research schools more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianResearchOptimization3_Name</Label>
+    <String>Sustainable Schooling</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianResearchOptimization3_Dec</Label>
+    <String>Our schools are full of costly lab equipment necessary for turning Torians into smarter Torians. By reusing some of this equipment instead of throwing it out after every class, we expect to see significant maintenance cost savings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianResearchCities_Name</Label>
+    <String>Cities of Learning</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianResearchCities_ShortDec</Label>
+    <String>Allows construction of dedicated Cities of learning.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianResearchCities_Dec</Label>
+    <String>The education of our population continues to pay off. We now have large groups of independent scholars, who which wish to live work together in specialized communities. Encouraging this trend should assure the our continued technological advancement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianTechnologicalFocus1_Name</Label>
+    <String>Focused Universities</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianTechnologicalFocus1_Dec</Label>
+    <String>The broad scope of the Torian education system is a cherished part of our culture, allowing Torians to float where their intellectual interests take them. But by focusing our efforts just a little more on pure research we can increase the rate we discover new technologies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianTechnologicalFocus2_Name</Label>
+    <String>Universities Production Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianTechnologicalFocus2_Dec</Label>
+    <String>A new paradigm in Torian education, requiring Torian scholars to build their facilities themselves, should help reduce the construction cost when building new research improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianTechnologicalFocus3_Name</Label>
+    <String>Economical Universities</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianTechnologicalFocus3_Dec</Label>
+    <String>It seems that the wiser a Torian scholar gets, the more wasteful they become, bless their little flippers. By forcing them to justify their learning activities just a little more, we can reduce the maintenance costs of our research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianResearchCommunes_Name</Label>
+    <String>Research Communes</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianResearchCommunes_ShortDec</Label>
+    <String>Allows for the constuction of Reseach Communes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianResearchCommunes_Dec</Label>
+    <String>Our greatest scholars have now formed a unique culture based on the sharing of their knowledge. These communities have grown into thriving Communes full of like minded scholars, all dedicated to the advancement of knowledge of all kinds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianTorianPlanetaryImprovement_Name</Label>
+    <String>Planetary Settlement</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianTorianPlanetaryImprovement_ShortDec</Label>
+    <String>Allows construction of civilian buildings, and increases the quality of our colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianTorianPlanetaryImprovement_Dec</Label>
+    <String>Half the fun of settling into a new pool is setting it up to suit your needs. That's harder when the pool is on an alien planet, and the water is a smidge too acidic, but we've finally developed the tools and techniques to get around those issues.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianPlanetarySpecialization1_Name</Label>
+    <String>Aquacultural Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianPlanetarySpecialization1_Dec</Label>
+    <String>Our farming technology has improved dramatically, and we're beginning to see enhanced crop yields as a result. The anemones still have that weird taste, but we're working on it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianPlanetarySpecialization2_Dec</Label>
+    <String>Now that we're able to use diet to modulate the effects an alien world has on fertility, our population growth rates are beginning to trend upwards. More babies for now, but more workers soon enough.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianHydroponicFarming_Name</Label>
+    <String>Hydroponic Farming</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianHydroponicFarming_Dec</Label>
+    <String>Adapting our agricultural expertise to fit a variety of alien environments has proven challenging, and taken many simultaneous advances in our understanding of water, aquacultural science, and algae. By moving these efforts into controlled facilities, our food production should go way up.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAgriculturalOptimization1_Name</Label>
+    <String>Accelerated Hydroponics</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAgriculturalOptimization1_Dec</Label>
+    <String>Adapting the kelp, algae and other foodstuffs of our homeworld to account for differences in the water quality of alien worlds takes a lot of effort. But now that we have, we expect to see greater yields from our hydroponics facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAgriculturalOptimization2_Name</Label>
+    <String>Efficient Hydroponics</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAgriculturalOptimization2_Dec</Label>
+    <String>Our aquacultural engineers are now able to predict in advance what water balancing equipment a colony requires before it's formed, leading to lower startup costs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAgriculturalOptimization3_Name</Label>
+    <String>Sustainable Hydroponics</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAgriculturalOptimization3_Dec</Label>
+    <String>A new generation of crops, bred for adaptability, will allow us to reduce the costs of running our hydroponic facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAdvancedHydroponicFarming_Name</Label>
+    <String>Advanced Hydroponic Farming</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAdvancedHydroponicFarming_Dec</Label>
+    <String>Growing food on dry land is a distasteful notion, but thanks to our latest advanced hydroponics facilities, the average Torian diner should never know the difference.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianFarmingFocus1_Name</Label>
+    <String>Hydroponic Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianFarmingFocus1_Dec</Label>
+    <String>The microbes present in alien water react in unpredictable ways to Torian crops. We've only now learned how to protect our precious food from being consumed by these tiny beasts, which should lead to greater food production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianFarmingFocus2_Name</Label>
+    <String>Hydroponic Adaptability Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianFarmingFocus2_Dec</Label>
+    <String>Torian scholars have finally selected the strains of plants which will adapt to the widest range of alien aquatic climates. By forcing Torian colonists to eat these crops, instead of what they actually want, we'll lower our hydroponic farm startup costs. We never told them colonization was going to be easy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianFarmingFocus3_Name</Label>
+    <String>Hydroponic Management Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianFarmingFocus3_Dec</Label>
+    <String>aquacultural Torians have always tended towards secrecy, preferring to share their experience to their brood rather than their neighbors. If we can make them co-operate at least a little more - especially with Torians on other worlds - we can spread our best practices, reducing farm operational costs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAutomatedHydroponicFarming_Name</Label>
+    <String>Automated Hydroponic Farming</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAutomatedHydroponicFarming_Dec</Label>
+    <String>Improvements in our recycling and nutrient delivery systems have led to almost perfectly efficient farms. Our farmers don't even need to get their hands damp now, and are actually getting a bit precious about it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAgriculturalMastery1_Name</Label>
+    <String>Master Aquaculturists</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAgriculturalMastery1_Dec</Label>
+    <String>Finally our aquaculturists have gotten that weird taste out of anemones. We'd been wasting a lot of capacity trying to grow those, and now that Torians will start eating them again, our effective food production has gone way up.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAgriculturalMastery2_Name</Label>
+    <String>Aquatic Abundance</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAgriculturalMastery2_Dec</Label>
+    <String>Our hydroponics farms are now so perfectly efficient, so perfectly Torian, that many colonists now want to live on them. Our farm-to-table metrics are off the charts, and our population growth rate has never been higher.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianXenoBiology_Dec</Label>
+    <String>Understanding how our bodies adapt to the microbiological environment of alien waters will be critical to our chances of survival when colonizing the stars. Losing a colony to catastrophic diarrhea simply isn't an option.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianPopulationEnhancement_Name</Label>
+    <String>Spawning Pool Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianPopulationEnhancement_Dec</Label>
+    <String>It takes a lot of the romance out of it, but for our colonies to succeed, they need baby Torians, and they need them quickly. Dedicating more resources towards fertility enhancement and mood music should help.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianBioReplication_Dec</Label>
+    <String>Once we took all of the fun parts out of reproduction, we were able to dramatically increase our growth rates. Sure, bio-replication might be ushering us into a nightmarish world, but we're sure we'll manage somehow.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianEnvironmentalEngineering_Name</Label>
+    <String>Hydrological Engineering</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianColonizationFocus3_Dec</Label>
+    <String>Barren world were a nightmare for our kind, but thanks to expensive, massively wasteful water-genesis technology, life on barren worlds is now tolerable to Torians, and more or less as productive as anywhere else.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianHabitatImprovement_Dec</Label>
+    <String>Our ability to manipulate the biosphere has improved to the point that we can treat entire continents as a canvas, lacing them with canals and ponds as we best see fit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianSoilReclamation_Name</Label>
+    <String>Planet Moistening</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianWarpFieldTheory_Dec</Label>
+    <String>Our scholars are now able to "stack" up the space-bending fields of our hyperdrives, magnifying their acceleration effect. They call these stacked arrangements "Warp Fields" and are now using them to create vastly more powerful engines.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianHyperwarpMastery1_Dec</Label>
+    <String>No other civilization in the galaxy can match ours for the ease and efficiency with which we build our drives. And still Torian ingenuity can find ways to make them cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAquaticSupportSystems_Name</Label>
+    <String>Aquatic Support Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAquaticSupportSystems_ShortDec</Label>
+    <String>Allows construction of improved aquatic support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAquaticSupportSystems_Dec</Label>
+    <String>Aquatic Support systems efficiently provide Torian crew members with the water, air, and food they need to survive in space by making use of advanced filtration and recycling technology, allowing us to travel further than purely atmosphere breathing races.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianLifeSupportOptimization1_Name</Label>
+    <String>Improved Aquatic Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianLifeSupportOptimization1_Dec</Label>
+    <String>A new generation of filtration systems and little bubbling pumps has improved the effectiveness of our aquatic support systems, extending our ship's range even further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianLifeSupportOptimization2_Name</Label>
+    <String>Aquatic Support Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianLifeSupportOptimization2_Dec</Label>
+    <String>The water in our life support systems is cheap, but all the little chemicals we need to maintain its quality can get kind of expensive. By using more efficient drip feeders, we've reduced the overall cost of our life support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianLifeSupportOptimization3_Name</Label>
+    <String>Aquatic Support Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianLifeSupportOptimization3_Dec</Label>
+    <String>Water is heavy. Accelerating it costs energy and stopping it does too. We've had to change the way we use and live within water, convincing Torian crew members to make do with less.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianRecyclingAquaticSupportSystems_Name</Label>
+    <String>Recycling Aquatic Support Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianRecyclingAquaticSupportSystems_ShortDec</Label>
+    <String>Allows construction of advanced Aquatic support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianRecyclingAquaticSupportSystems_Dec</Label>
+    <String>We have been able to optimize our Aquatic Support systems to the point that they're nearly self sufficient. We can now travel further into the galaxy than ever, with even our smaller ships able to cross large portions of the galaxy before they need to refresh their systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianSupportFieldFocus1_Dec</Label>
+    <String>The biggest current bottleneck in our aquatic life support systems is waste handling. Put simply, Torians are "going" wherever. By making them do their number 1's and 2's and 3's in special bins, we make our ship's life support systems more effective and longer-reaching.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianSupportFieldFocus2_Dec</Label>
+    <String>A new generation of foodstuffs, composed of little tiny flakes, are incredibly efficient. These delightful new flakes have increased the cost effectiveness of our life support systems dramatically while only tasting 70% worse than earlier varieties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianSupportFieldFocus3_Dec</Label>
+    <String>Simple aeration and water-simulating field generators can mimic most of the practical and cultural uses Torians have for water, allowing our ships to travel with a fraction of the water mass than they previously carried.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianLosslessAquaticSupportSystems_Name</Label>
+    <String>Lossless Aquatic Support Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianLosslessAquaticSupportSystems_ShortDec</Label>
+    <String>Allows construction of Losslesss Aquatic support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianLosslessAquaticSupportSystems_Dec</Label>
+    <String>We have perfected our Aquatic Support Systems, using the latest Promethean Field effectors to simulate water, reducing the need for actual water to zero. Our ships no longer have to refresh their water increasing their range almost infinitely.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianLifeSupportMastery1_Name</Label>
+    <String>Aquatic Support System Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianLifeSupportMastery1_Dec</Label>
+    <String>The Torians who assemble our ultra-efficient, super-dry life support systems feel so sorry for the crews who have to use them, that they've begun working harder out of sympathy. This won't help out ship's crews any, but it does make the things cheaper to build.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianLifeSupportMastery2_Name</Label>
+    <String>Aquatic Support Mass Reduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianLifeSupportMastery2_Dec</Label>
+    <String>A new generation of Promethion field effectors are slightly less heavy, though still of course a cultural abomination. But such is the cost of war. On the plus side, many of our Torian crew members now carry their own families water in special bags around their thoraxes, which is kind of touching.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianHullStrengthening_Dec</Label>
+    <String>Using new force field technologies, we've been able to embed strengthening fields within the structures of our vessels, making them substantially more resistant to damage. They also now tingle if you lick them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianCarrierFocus2_Dec</Label>
+    <String>These tough little drones will guard our Support and Capital ships to the end, and when they are destroyed, no lives are lost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianLogisticalOptimization3_Dec</Label>
+    <String>Shipyards are, by some measures, the most complicated constructs Torians have ever created. Any improvement we can make to the management and operation of these beasts will result in significant cost savings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianResourceExtraction_Name</Label>
+    <String>Resource Siphoning</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianWarfareTech_Name</Label>
+    <String>Protection</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianWarfareTech_Dec</Label>
+    <String>The Drengin are still out there. And possibly even worse aliens still. From this point on, our ships must be armed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianMatterDisruption_Dec</Label>
+    <String>Our scholars have been able to weaponize a collimated beam of particles capable of disrupting the strong nuclear force, severing the bonds which hold the nucleus together, turning matter into smaller chunks of matter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianMissileAugmentation_Dec</Label>
+    <String>Our weapons scholars have come up with a number of ship and starbase modules which can improve the tracking and ultimately the range of our missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianKineticMastery1_Dec</Label>
+    <String>"We Make Kinetic Weapons Faster," is probably the dumbest slogan ever conceived of, but the Torians who thought of it seem really proud of it, so no-one had the heart to tell them. And to be fair, they do make them really quite quickly and cheaply now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianMilitarizationTech_Name</Label>
+    <String>Defensive Preparation</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianMilitarizationTech_Dec</Label>
+    <String>We already have a significant amount of structures in orbit and on the ground, all of which can be militarized with modest extra investment and some new uniforms. As sad as it is to see Torians go into space armed, we must never be slaves again.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianPlanetaryInvasion_Dec</Label>
+    <String>We've developed the equipment and tactics necessary to land on a world and take it by force. It's a little hard to imagine that Torians are now the alien invaders, but we must accept the way this galaxy has made us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianGravitationalFocus1_Dec</Label>
+    <String>By directing powerful gravitational fields at enemy ground defenses, we can induce flooding and even tectonic activity. The waves shall crash down on our enemy's heads.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAdvancedInvasionTactics_Dec</Label>
+    <String>A new generation of invasion transports, along with a new generation of soldiers that don't mind being stacked like clamshells, allows us to put boots on the ground faster than ever.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianUnbrokenSpirt_Name</Label>
+    <String>Unbroken Spirt</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianUnbrokenSpirt_ShortDec</Label>
+    <String>Boost the Hitpoints of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianUnbrokenSpirt_Dec</Label>
+    <String>Our crews have tasted the lash of slavery, but they have not broken. Now they and their ships have the ability to withstand even the harshest onslaughts.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianDefensiveDiscipline_Name</Label>
+    <String>Defensive Discipline</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianDefensiveDiscipline_ShortDec</Label>
+    <String>Makes our ship crews more effective when in defensive maneuvers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianDefensiveDiscipline_Dec</Label>
+    <String>Our pilots have learned to link with their ships, and though disciplined thoughts, they can now maneuver their ships, with a nimbleness far beyond normal manual control.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianDefensiveTrance_Name</Label>
+    <String>Defensive Trance</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianDefensiveTrance_ShortDec</Label>
+    <String>Greatly increase the abilities of our ships to withstand damage.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianDefensiveTrance_Dec</Label>
+    <String>Some of our more gifted pilots have taken the Defensive Discipline to a new level. They can go into a trance, becoming one with their ships. Allowing them to control their ships like their own bodies. The end result is they are able to move through intensive fire without faltering.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianDefenseSystemTech_Dec</Label>
+    <String>Torians are notoriously squishy, and otherwise difficult to protect in a ship that operates in hard vacuum. But we've got to do something, or they're going to stop getting in the ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianInvulnerabilityTech_Dec</Label>
+    <String>"Invulnerable" may be a bit of an exaggeration. Our scholars allow that some theoretical weapons could penetrate these shields. But those would be some pretty terrifying weapons, and even then you'd rather be behind this shield than not.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianArmorSystems_Name</Label>
+    <String>Carapace Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianArmorOptimization1_Name</Label>
+    <String>Reinforced Carapace</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianArmorOptimization2_Name</Label>
+    <String>Low-Cost Carapace</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianArmorOptimization3_Name</Label>
+    <String>Carapace Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianArmorFocus1_Name</Label>
+    <String>Carapace Lamination</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianArmorFocus2_Name</Label>
+    <String>Carapace Manufacturing Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianArmorFocus3_Name</Label>
+    <String>Carapace Mass Reduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianArmorMastery2_Name</Label>
+    <String>High Density Crapace</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianArmorMastery2_Dec</Label>
+    <String>On a weight basis, our armor systems are now as efficient as they can possibly be, 99.3% of all total installed mass dedicated to offensive energy absorption or dispersion. That's really, really good the scholars promise.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianZeroPointArmorTech_Name</Label>
+    <String>Zero Point Carapace</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianArmorSupportSystems_Name</Label>
+    <String>Carapace Support Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianArmorEnhancement_Name</Label>
+    <String>Carapace Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianCommunicationsTech_Dec</Label>
+    <String>We already know we're not alone in this galaxy. In fact we've already been enslaved by other people in this galaxy. Let's develop the technologies to turn potential enemies into friends before that happens again.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianTranslatorTech_Dec</Label>
+    <String>Our experience with the despicable Drengin tongue, and analysis of other alien speech has allowed us to create a Universal Translator that will let us communicate with any new races we come across.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianInterstellarGovernance_Dec</Label>
+    <String>Governing a civilization on this scale parallels our experience exploring our own oceans hundreds of years ago. A history we'd better refamiliarize ourselves with quickly.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianDiplomacyTech_Dec</Label>
+    <String>The profit potential an alliance with our neighbors offers is something we should always consider. And failing that, the cost of talking with them will be a fraction of the cost of going to war with them and a fraction the cost of avoiding slavery.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianDiplomaticOptimization3_Dec</Label>
+    <String>By entering into formal information sharing agreements with other civilizations, our scholars can more easily accumulate the masses of data which modern research often requires.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAllianceFocus1_Dec</Label>
+    <String>Formal military alliances will make a war with our people that much more imposing to our foes. The trade-off is that we risk being drawn into wars not of our choosing. Friends are cheap to have, but allies can be very expensive indeed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianUnitedPlanetsClout_Dec</Label>
+    <String>Our allies have long been convinced of the benefits of our friendship. Now they see the benefit of our wisdom and leadership. We can no longer rely on their unwavering support on all United Planets matters.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianCulturalInfluence_Name</Label>
+    <String>Moistening Influence</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianCulturalInfluence_Dec</Label>
+    <String>A strong cultural presence on our worlds and our neighbors' has tremendous long term potential. It lacks some of the visceral appeal of a new type of mass driver, but may in the long run be far more effective at securing the Torian Regime's future.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianCulturalFocus1_Dec</Label>
+    <String>By adapting our cultural products to cast scientists and scholars in a more favorable light, we might find appreciative audiences among research communities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianStellarEmigration_Dec</Label>
+    <String>Torians are admired throughout the galaxy, reflecting the success of our civilization. If we can make the process of emigration easier, we can spread our influence wider still.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianCulturalAffinity_Dec</Label>
+    <String>Other universes deserve the benefit of Torians wisdom and culture. Indeed, it's a bit offensive that they don't see it already. Our thinkers are now beginning to prepare plans for shining our light on the next world, and beyond.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianTradeOptimization2_Dec</Label>
+    <String>We believe the best way to increase trade income is the establish more trade routes. With a bit of effort we have been able to stretch our resources enough to establish one more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianTradeFocus2_Dec</Label>
+    <String>More trade routes, more trade income, with no need for Tariffs or 'Luxury items.' Sometimes it's best to stick to the basics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianHealingWatersTech_Name</Label>
+    <String>Healing Waters</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianHealingWatersTech_ShortDec</Label>
+    <String>Allows for the constuction of the Healing Waters Improvement</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianHealingWatersTech_Dec</Label>
+    <String>Despite our ability to live on air breathing worlds, we still forever yearn for the healing waters of our ancestors. We now have the ability to bring these waters to new worlds, for our people to bathe in and be refreshed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianWellnessFallsTech_Name</Label>
+    <String>Wellness Falls</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianWellnessFallsTech_ShortDec</Label>
+    <String>Allows for the construction of the Wellness Falls Improvement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianWellnessFallsTech_Dec</Label>
+    <String>The presence of the Wellness Falls will not only refresh and revitalize the morale of our people, it will increase their productivity when they return to their everyday lives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianApprovalFocus1_Dec</Label>
+    <String>We have discovered that with little more than the sound of running water, we can make people feel more confident and happy without all the costly infrastructure that normally requires.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianApprovalFocus2_Dec</Label>
+    <String>We have discovered that our efforts in keeping our people distracted have paid off. We can now build anything they want and they'll think it's fun and terrific.</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+  <StringTable>
+    <Label>TorianResearchOptimization_Name</Label>
+    <String>Educational Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianResearchOptimization_Dec</Label>
+    <String>Our academic administrators are requesting we direct them as to where they should focus their energies when improving our education system.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianTechnologicalFocus_Name</Label>
+    <String>Educational Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianTechnologicalFocus_Dec</Label>
+    <String>Although wise, Torian scholars sometimes have a habit of going adrift with their studies. We should refocus their efforts in a specific direction.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianPlanetarySpecialization_Dec</Label>
+    <String>Our hydroponic operations have made great strides since we reached the stars. We can now begin considering specific areas we'd like to improve upon.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAgriculturalOptimization_Dec</Label>
+    <String>Optimizing our aquacultural processes will lead to a number of benefits which will help our civilization for a very long time. Until Torians stop needing food, really.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianFarmingFocus_Dec</Label>
+    <String>New aquicultural processes often angers Torian traditionalists. But so did setting foot on land, and into space, and look what that has done for us. We will move forward, and mark our hydroponic farms even more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAgriculturalMastery_Dec</Label>
+    <String>Our hydroponic facilities now provide an almost unlimited bounty, the Super Kelp doing almost all of the harvesting itself. But still our aquiculturalists insist that more can be done.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianWarpFieldFocus_Dec</Label>
+    <String>Warp field technology is incredibly complicated, and has in more than a few cases, caused a scholar's brains to melt a little bit. But now that we have some experience working with them, we've identified a number of ways to improve their design.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianLifeSupportOptimization_Name</Label>
+    <String>Aquatic Support Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianLifeSupportOptimization_Dec</Label>
+    <String>Everyone in the navy is very excited that we're trying to optimize our life support systems. Apparently their water is developing a bit of an odor to it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianSupportFieldFocus_Name</Label>
+    <String>Aquatic Support System Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianSupportFieldFocus_Dec</Label>
+    <String>Experiments with field-based life support systems offer huge potential advantages, though whether our crews enjoy the water-simulating effects of these systems remains to be seen. Still, they're not the ones paying the bills.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianLifeSupportMastery_Name</Label>
+    <String>Aquatic Support Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianLifeSupportMastery_Dec</Label>
+    <String>Torian Life Support systems are peerless throughout the galaxy, keeping our crews moist and happy at a fraction of the cost. We have but a few additional efficiencies to wring out of these systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianWeaponsSpecialization_Dec</Label>
+    <String>By dedicating their efforts on a specific field of weapons technology, our scholars believe they can deliver a number of more efficient weapon systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianBeamWeaponOptimization_Dec</Label>
+    <String>Weapons scholars have to keep paces with advances in many other fields to get the most out of their inventions. Right now, recent advances in material sciences are opening the door to a new generation of more efficient weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianBeamWeaponMastery_Dec</Label>
+    <String>Our beam weapons are now absurdly powerful, a terror for anyone foolish enough to get on a Torian warship's wrong side. And yet still our weapon scientists find ways to do better.</String>
+  </StringTable>
+ 
+</StringTableList>

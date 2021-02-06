@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- APMission2_DrenginTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>APMission2_DrenginTechTree_Name</Label>
+    <String>APMission2 Drengin Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginImperialismTech_Name</Label>
+    <String>Imperialism</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginImperialismTech_ShortDec</Label>
+    <String>Colonizing new worlds is cheaper than invading them, if not as fun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginXenoExpoltation_Name</Label>
+    <String>Xeno Exploitation</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginXenoExpoltation_ShortDec</Label>
+    <String>Put all those worthless colonists to work doing something useful.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginIndustrialSpecialization1_Name</Label>
+    <String>Labor Exploitation</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginIndustrialSpecialization2_Name</Label>
+    <String>Mental Exploitation</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginIndustrialSpecialization3_Name</Label>
+    <String>Industrial Exploitation</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginIndustrialSpecialization3_ShortDec</Label>
+    <String>Reduces the cost of manufacturing and research centers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSlaveryTech_Name</Label>
+    <String>Xeno Slavery</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSlaveryTech_ShortDec</Label>
+    <String>Forces the whelps into constructing more advanced facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginConstructionOptimization1_Name</Label>
+    <String>Optimized Chain Gangs</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginConstructionOptimization2_Name</Label>
+    <String>Slave Longevity</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginConstructionOptimization3_Name</Label>
+    <String>Selective Slave Retention</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginMechanizedSlaveryTech_Name</Label>
+    <String>Mechanized Slavery</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginMechanizedSlaveryTech_ShortDec</Label>
+    <String>With the right tools, our slavelings can build even more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginManufacturingFocus1_ShortDec</Label>
+    <String>Encourage our slaves to have an interest in guns.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginManufacturingFocus2_ShortDec</Label>
+    <String>Thin out our weakest slaves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginManufacturingFocus3_ShortDec</Label>
+    <String>Slaves that eat less and last longer</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSlaveMastersTech_Name</Label>
+    <String>Slave Masters</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSlaveMastersTech_ShortDec</Label>
+    <String>Mastery of slave manufacturing techniques.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSlavePits_Name</Label>
+    <String>Slave Pits</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSlavePits_ShortDec</Label>
+    <String>Makes more slaves available.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSlaveMills_Name</Label>
+    <String>Slave Mills</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSlaveMills_ShortDec</Label>
+    <String>The only thing better than cheap slaves are really cheap slaves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginArtificialSlaves_Name</Label>
+    <String>Artificial Slaves</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginArtificialSlaves_ShortDec</Label>
+    <String>Cloning slaves is much faster than waiting for them to grow up.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPersuasiveResearch_Name</Label>
+    <String>Persuasive Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPersuasiveResearch_ShortDec</Label>
+    <String>Force our smartest slaves to be smarter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginResearchOptimization1_Name</Label>
+    <String>Creative Motivation</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginResearchOptimization1_ShortDec</Label>
+    <String>Improves research with the use of creative motivation techniques.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginResearchOptimization2_Name</Label>
+    <String>Creative Living</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginResearchOptimization2_ShortDec</Label>
+    <String>Pack more research slaves into the same amount of space.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginResearchOptimization3_Name</Label>
+    <String>Creative Resources</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginResearchOptimization3_ShortDec</Label>
+    <String>Who needs test subjects when you have researchers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginResearchExtraction_Name</Label>
+    <String>Research Extraction</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginResearchExtraction_ShortDec</Label>
+    <String>Extract ideas from their smart little brains.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginIntelligenceAmplification_Name</Label>
+    <String>Intelligence Amplification</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginIntelligenceAmplification_ShortDec</Label>
+    <String>Boosts the intelligence of slaves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginDeeperKnowledge_Name</Label>
+    <String>Mysterious Knowledge</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginDeeperKnowledge_ShortDec</Label>
+    <String>Allows construction of reduced torture research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginQuantumUnderstanding_Name</Label>
+    <String>Pain-Free Understanding</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginQuantumUnderstanding_ShortDec</Label>
+    <String>Allows construction of torture-free research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginBeyondMortality_ShortDec</Label>
+    <String>Allows construction of ultra-torture research facilities. Prepares civilization for Ascension.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginResearchCoordination_Name</Label>
+    <String>Slave Coordination</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginResearchCoordination_ShortDec</Label>
+    <String>Letting the slaves talk is dangerous but necessary.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginNeroLinking_ShortDec</Label>
+    <String>Link slave brains together.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPlanetaryImprovement_Name</Label>
+    <String>Planetary Exploitation</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPlanetaryImprovement_ShortDec</Label>
+    <String>We must whip these new planets into shape.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPlanetarySpecialization1_ShortDec</Label>
+    <String>Force planets to make more food.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPlanetarySpecialization2_ShortDec</Label>
+    <String>Force planets to make more slavelings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPlanetarySpecialization3_ShortDec</Label>
+    <String>Force planets to be more productive.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginXenoAgriculturalAdaptation_ShortDec</Label>
+    <String>Adapt our livestock to alien environments.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginAgriculturalOptimization1_ShortDec</Label>
+    <String>Make our meat crops meatier.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginAgriculturalOptimization2_ShortDec</Label>
+    <String>Make our meat farms more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginAgriculturalOptimization3_ShortDec</Label>
+    <String>Reduces maintenance cost of meat farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginIntensiveFarming_ShortDec</Label>
+    <String>Allows construction of high density meat farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginFarmingFocus1_ShortDec</Label>
+    <String>Make our meat crops even meatier.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginFarmingFocus2_ShortDec</Label>
+    <String>Make meat farms even more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginFarmingFocus3_ShortDec</Label>
+    <String>Reduces maintenance cost of meat farms even more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginLosslessFarming_Name</Label>
+    <String>Meat Trees</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginLosslessFarming_ShortDec</Label>
+    <String>Allows construction of exotic meat farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginAgriculturalMastery1_ShortDec</Label>
+    <String>Maximizes meat crop yield</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginAgriculturalMastery2_Name</Label>
+    <String>Arousing Farming</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginAgriculturalMastery2_ShortDec</Label>
+    <String>Meat farms increase population growth</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSlaveringRecycling_Name</Label>
+    <String>Slaveling Recycling</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSlaveringRecycling_ShortDec</Label>
+    <String>Recycled Slaves </String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginProteinResequencing_Name</Label>
+    <String>Protein Resequencing</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginProteinResequencing_ShortDec</Label>
+    <String>Allows construction of Protein sequencing farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPopulationEnhancement_Name</Label>
+    <String>Bio Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPopulationEnhancement_ShortDec</Label>
+    <String>Forces the population to be stronger and live longer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginBioReplication_ShortDec</Label>
+    <String>Begin cloning useful slavelings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginEnvironmentalEngineering_ShortDec</Label>
+    <String>Beat the planet into submission.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginExtremeWorldColonization_ShortDec</Label>
+    <String>Force the slavelings to settle on extreme worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginAtmosphericCleansing_ShortDec</Label>
+    <String>Force the slavelings to live and die on radioactive and toxic worlds. Mostly die.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginTerraformingTech_ShortDec</Label>
+    <String>Make awful planets less awful.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHabitatImprovement_ShortDec</Label>
+    <String>Batter even the unruliest land into shape.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSoilReclamation_ShortDec</Label>
+    <String>Create useful soil from almost nothing.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginEnvironmentalResequencing_ShortDec</Label>
+    <String>Let's use continents that don't even exist yet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginEngineeringTech_ShortDec</Label>
+    <String>We can now make hyperdrives and tiny hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginInterstellarTravel_ShortDec</Label>
+    <String>Gives weaklings more air, as well as better sensors and hyperdrives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginInterstellarSpecialization1_ShortDec</Label>
+    <String>Forces our ships to be faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginInterstellarSpecialization3_ShortDec</Label>
+    <String>Forces our ships to travel further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginIonDriveTech_ShortDec</Label>
+    <String>Now we can make hyperdrives that eat more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginIonOptimization1_ShortDec</Label>
+    <String>Forces our ships to be faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginIonOptimization2_ShortDec</Label>
+    <String>Forces our drives to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginIonOptimization3_ShortDec</Label>
+    <String>Forces our drives to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginWarpFieldTheory_ShortDec</Label>
+    <String>Now we can stack hyperfields on top of each other.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginWarpFieldFocus1_ShortDec</Label>
+    <String>Forces our ships to go faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginWarpFieldFocus2_ShortDec</Label>
+    <String>Forces our drives to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginWarpFieldFocus3_ShortDec</Label>
+    <String>Forces our drives to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHyperwarpWaves_ShortDec</Label>
+    <String>Now we can make hyperdrives more hyper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHyperwarpMastery1_ShortDec</Label>
+    <String>Forces our drives to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHyperwarpMastery2_ShortDec</Label>
+    <String>Forces our drives to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginStellarFoldingTech_ShortDec</Label>
+    <String>Lets us build the ultimate hyperdrives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHyperfieldProjection_ShortDec</Label>
+    <String>Forces friendly ships to be faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginGravityFieldManipulation_ShortDec</Label>
+    <String>Forces our ships to be more maneuverable.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHyperfieldDisruption_ShortDec</Label>
+    <String>Forces enemy ships to be slower.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginStellarFieldProjection_ShortDec</Label>
+    <String>Forces friendly ships to be even more faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginInterstellarSurvey_ShortDec</Label>
+    <String>Now we can make better tools for looking at planets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSensorOptimization1_ShortDec</Label>
+    <String>Forces our sensors to see further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSensorOptimization2_ShortDec</Label>
+    <String>Forces our sensors to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSensorOptimization3_ShortDec</Label>
+    <String>Forces our sensors to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginEnergyFieldSensors_ShortDec</Label>
+    <String>Our looking tools have gotten more advanced again!</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginEnergyFieldFocus1_ShortDec</Label>
+    <String>Forces our sensors to see further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginEnergyFieldFocus2_ShortDec</Label>
+    <String>Forces our sensors to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginEnergyFieldFocus3_ShortDec</Label>
+    <String>Forces our sensors to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSubspaceSensors_ShortDec</Label>
+    <String>Our looking tools are now very good looking.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSensorMastery1_ShortDec</Label>
+    <String>Forces our sensors to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSensorMastery2_ShortDec</Label>
+    <String>Forces our sensors to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginTargetingAssistTech_ShortDec</Label>
+    <String>Lets us build targeting and stealth modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginTargetingSupport_ShortDec</Label>
+    <String>Lets us build fleet-wide targeting and jamming modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginXenoArcheology_ShortDec</Label>
+    <String>Forces Precursor research to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPrecursorStudies_ShortDec</Label>
+    <String>Forces Precursor research to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPrecursorRelicFocus1_ShortDec</Label>
+    <String>Forces Precursor relic research to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPrecursorRelicFocus2_ShortDec</Label>
+    <String>Forces Precursor relic cultural benefits to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPrecursorRelicFocus3_ShortDec</Label>
+    <String>Forces Precursor relic economic benefits to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPrecursorExploitation_ShortDec</Label>
+    <String>Forces Precursor research to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPrecursorEngineering_ShortDec</Label>
+    <String>Forces Precursor research to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPrecursorUnderstanding_ShortDec</Label>
+    <String>Forces Precursor research to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginLifeSupport_ShortDec</Label>
+    <String>Better life support systems makes our ships go further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginLifeSupportOptimization1_ShortDec</Label>
+    <String>Forces our ships to travel further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginLifeSupportOptimization2_ShortDec</Label>
+    <String>Forces our life support systems to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginLifeSupportOptimization3_ShortDec</Label>
+    <String>Forces our life support systems to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSupportFieldGeneration_ShortDec</Label>
+    <String>Advanced life support forces our crew to do more with less.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSupportFieldFocus1_ShortDec</Label>
+    <String>Forces our ships to travel further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSupportFieldFocus2_ShortDec</Label>
+    <String>Forces our life support systems to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSupportFieldFocus3_ShortDec</Label>
+    <String>Forces our life support systems to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPromethionSupportSystems_ShortDec</Label>
+    <String>Exotic life support systems feed our crews less than ever.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginLifeSupportMastery1_ShortDec</Label>
+    <String>Forces our life support systems to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginLifeSupportMastery2_ShortDec</Label>
+    <String>Forces our life support systems to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginLosslessSupportSystems_ShortDec</Label>
+    <String>Lossless life support systems humiliate our crews more than ever.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSupportFieldMastery_ShortDec</Label>
+    <String>Support fields extend the range of an entire fleet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginExplorationExtention_ShortDec</Label>
+    <String>Advanced support fields extend a fleet's range even more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginOrbitalManufacturing_ShortDec</Label>
+    <String>In orbit we can make bigger, meaner ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginOrbitalSpecialization1_ShortDec</Label>
+    <String>Force our Starports to work better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginOrbitalSpecialization3_ShortDec</Label>
+    <String>Force our infrastructure to be more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginOrbitalSpecialization2_ShortDec</Label>
+    <String>Forces our ships to be packed tighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginZeroGravityConstruction_ShortDec</Label>
+    <String>Lets us build medium hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginZeroGravityOptimization1_ShortDec</Label>
+    <String>Forces our ships to be tougher.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginZeroGravityOptimization3_ShortDec</Label>
+    <String>Forces our ships to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginZeroGravityOptimization2_ShortDec</Label>
+    <String>Forces our ships to be packed tighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginLargeScaleConstruction_ShortDec</Label>
+    <String>Lets us build large hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginOrbitalConstructionFocus1_ShortDec</Label>
+    <String>Forces our ships to be tougher.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginOrbitalConstructionFocus3_ShortDec</Label>
+    <String>Forces our ships to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginOrbitalConstructionFocus2_ShortDec</Label>
+    <String>Forces our ships to be packed tighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginMassiveScaleConstruction_ShortDec</Label>
+    <String>Lets us build huge hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHullMastery2_ShortDec</Label>
+    <String>Forces our ships to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHullMastery1_ShortDec</Label>
+    <String>Forces our ships to be packed tighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHullStrengthening_ShortDec</Label>
+    <String>Forces our hulls to be tougher.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHullRepairSystems_ShortDec</Label>
+    <String>Lets us build hull support and repair modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSelfHealingHulls_ShortDec</Label>
+    <String>Lets us build tactical repair modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginCarrierTech_ShortDec</Label>
+    <String>Lets us build carrier modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHighCapacityCarriers_ShortDec</Label>
+    <String>Lets us build high capacity carrier modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginInterstellarLogistics_ShortDec</Label>
+    <String>Forces Logistics to be better. Lets us build mining facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginLogisticalOptimization1_ShortDec</Label>
+    <String>Forces Logistics to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginLogisticalOptimization2_ShortDec</Label>
+    <String>Forces mines to be more productive.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginLogisticalOptimization3_Name</Label>
+    <String>Sustainable Starports</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginLogisticalOptimization3_ShortDec</Label>
+    <String>Forces starports to decay less.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginFleetLogisticsTech_ShortDec</Label>
+    <String>Forces Logistics to be way better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginDeepSpaceLogistics_ShortDec</Label>
+    <String>Forces Logistics to be better still.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginGalacticLogistics_ShortDec</Label>
+    <String>Forces Logistics to be the best.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginInterstellarMining_ShortDec</Label>
+    <String>Lets us build mining facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHighEfficiencyMining_ShortDec</Label>
+    <String>Forces our mining facilities to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginResourceExtraction_ShortDec</Label>
+    <String>Lets us build highly efficient extractors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginLosslessMining_ShortDec</Label>
+    <String>Lets us build targeted resource extractors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginWarfareTech_ShortDec</Label>
+    <String>War isn't the only thing we're good at. But we are really good at it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginWeaponsSystemsTech_ShortDec</Label>
+    <String>Lets us build basic guns.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginBeamWeapons_ShortDec</Label>
+    <String>Lets us build stronger beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginBeamWeaponOptimization1_ShortDec</Label>
+    <String>Forces our beam weapons to do more damage.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginBeamWeaponOptimization2_ShortDec</Label>
+    <String>Forces our beam weapons to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginBeamWeaponOptimization3_ShortDec</Label>
+    <String>Forces our beam weapons to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginMatterDisruption_ShortDec</Label>
+    <String>Lets us build advanced beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHighEnergyFocus1_ShortDec</Label>
+    <String>Forces our beam weapons to do more damage.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHighEnergyFocus2_ShortDec</Label>
+    <String>Forces our beam weapons to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHighEnergyFocus3_ShortDec</Label>
+    <String>Forces our beam weapons to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPlasmaProjection_ShortDec</Label>
+    <String>Lets us build extra deadly beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginBeamWeaponMastery1_ShortDec</Label>
+    <String>Forces our beam weapons to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginBeamWeaponMastery2_ShortDec</Label>
+    <String>Forces our beam weapons to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginEnergyPhasing_ShortDec</Label>
+    <String>Lets us build face-meltingly powerful beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginDoomRayTech_ShortDec</Label>
+    <String>Lets us build the ultimate beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginBeamWeaponAugmentation_ShortDec</Label>
+    <String>Forces a fleet's beam weapons to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHighEnergyTransfer_ShortDec</Label>
+    <String>Forces a fleet's beam weapons to be extra better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHighEnergyMagnification_ShortDec</Label>
+    <String>Forces a fleet's beam weapons to be much extra better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginMissileWeapons_ShortDec</Label>
+    <String>Lets us build better missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginMissileOptimization1_ShortDec</Label>
+    <String>Forces missile launchers to shoot faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginMissileOptimization2_ShortDec</Label>
+    <String>Forces missiles to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginMissileOptimization3_ShortDec</Label>
+    <String>Forces missiles to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHarpoonTech_ShortDec</Label>
+    <String>Lets us build angrier missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginWarheadFocus1_ShortDec</Label>
+    <String>Forces missile launchers to shoot farther.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginWarheadFocus2_ShortDec</Label>
+    <String>Forces missiles to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginWarheadFocus3_ShortDec</Label>
+    <String>Forces missiles to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPhotonicWarheads_ShortDec</Label>
+    <String>Lets us build exotic missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPayloadMastery1_ShortDec</Label>
+    <String>Forces missiles to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPayloadMastery2_ShortDec</Label>
+    <String>Forces missiles to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPhotonTorpedos_ShortDec</Label>
+    <String>Lets us build crazy dangerous missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginNightmareTorpedoTech_ShortDec</Label>
+    <String>Lets us build world ending missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginMissileAugmentation_ShortDec</Label>
+    <String>Forces a fleet's missile weapons to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginAdvancedMissileGuidance_ShortDec</Label>
+    <String>Forces a fleet's missile weapons to be extra better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginIntelligentWarheads_ShortDec</Label>
+    <String>Forces a fleet's missile weapons to be much extra better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginKineticWeapons_ShortDec</Label>
+    <String>Lets us build better kinetic weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginKineticOptimization1_ShortDec</Label>
+    <String>Forces our kinetic weapons to shoot further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginKineticOptimization2_ShortDec</Label>
+    <String>Forces our kinetic weapons to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginKineticOptimization3_ShortDec</Label>
+    <String>Forces our kinetic weapons to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPulseCannonTech_ShortDec</Label>
+    <String>Lets us build more deadly kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginKineticAccelerationFocus1_ShortDec</Label>
+    <String>Forces our kinetic weapons to shoot further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginKineticAccelerationFocus2_ShortDec</Label>
+    <String>Forces our kinetic weapons to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginKineticAccelerationFocus3_ShortDec</Label>
+    <String>Forces our kinetic weapons to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginGravitonThrower_ShortDec</Label>
+    <String>Lets us build very dangerous kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginKineticMastery1_ShortDec</Label>
+    <String>Forces our kinetic weapons to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginKineticMastery2_ShortDec</Label>
+    <String>Forces our kinetic weapons to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginQuantumDrivers_ShortDec</Label>
+    <String>Lets us build impossibly deadly kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSingularityDrivers_ShortDec</Label>
+    <String>Lets us build the ultimate kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginKineticAugmentation_ShortDec</Label>
+    <String>Forces a fleet's kinetic weapons to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginMassManipulation_ShortDec</Label>
+    <String>Forces a fleet's kinetic weapons to be extra better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginInertialMagnification_ShortDec</Label>
+    <String>Forces a fleet's kinetic weapons to be much extra better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginMilitarizationTech_ShortDec</Label>
+    <String>Lets us build military shipyards and defense platforms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginMilitarySpecialization1_ShortDec</Label>
+    <String>Forces our soldiers to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginMilitarySpecialization2_ShortDec</Label>
+    <String>Forces our planetary defenses to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginWarMachine_Name</Label>
+    <String>War Machine</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginWarMachine_ShortDec</Label>
+    <String>Lets us build Garrisons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPlanetaryInvasion_ShortDec</Label>
+    <String>Lets us build transports to invade planets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginDroneSoldiers_ShortDec</Label>
+    <String>Forces soldiers to be more effective and transports to carry more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginAdvancedInvasionTactics_ShortDec</Label>
+    <String>Forces soldiers to be more effective and transports to carry more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginFortification_Name</Label>
+    <String>Bombardment Shelters</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginFortification_ShortDec</Label>
+    <String>Provides stronger defense against planetary bombardment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginDefensiveFocus1_Name</Label>
+    <String>Information Systems Hardening</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginDefensiveFocus2_Name</Label>
+    <String>Adaptive Vaccinations</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginDefensiveFocus3_Name</Label>
+    <String>Orbital Defense Platform</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginOrbitalDefencePlatform_ShortDec</Label>
+    <String>Allows construction of planetary defense dome, improves planetary defense.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginDefenseSystemTech_ShortDec</Label>
+    <String>Lets us build defensive systems for our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginDefensiveSpecialization1_ShortDec</Label>
+    <String>Forces our shields to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginDefensiveSpecialization3_ShortDec</Label>
+    <String>Forces our armor to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginShieldSystems_ShortDec</Label>
+    <String>Lets us build better shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginShieldOptimization1_ShortDec</Label>
+    <String>Forces our shields to be stronger.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginShieldOptimization2_ShortDec</Label>
+    <String>Forces our shields to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginShieldOptimization3_ShortDec</Label>
+    <String>Forces our shields to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginBarrierFieldGeneration_ShortDec</Label>
+    <String>Lets us build really great shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginBarrierSystemFocus1_ShortDec</Label>
+    <String>Forces our shields to be stronger.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginBarrierSystemFocus2_ShortDec</Label>
+    <String>Forces our shields to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginBarrierSystemFocus3_ShortDec</Label>
+    <String>Forces our shields to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginForceFieldTech_ShortDec</Label>
+    <String>Lets us build exotic shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginShieldMastery1_ShortDec</Label>
+    <String>Forces our shields to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginShieldMastery2_ShortDec</Label>
+    <String>Forces our shields to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginInvulnerabilityTech_ShortDec</Label>
+    <String>Lets us build the best shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginShieldSupportSystems_ShortDec</Label>
+    <String>Lets us build shield support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginShieldAugmentation_ShortDec</Label>
+    <String>Lets us build better shield support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPointDefenses_ShortDec</Label>
+    <String>Lets us build better point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPointDefenseOptimization1_ShortDec</Label>
+    <String>Forces our point defenses to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPointDefenseOptimization2_ShortDec</Label>
+    <String>Forces our point defenses to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPointDefenseOptimization3_ShortDec</Label>
+    <String>Forces our point defenses to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginCounterMeasures_ShortDec</Label>
+    <String>Lets us build even better point defenses.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginCounterMeasureFocus1_ShortDec</Label>
+    <String>Forces our point defenses to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginCounterMeasureFocus2_ShortDec</Label>
+    <String>Forces our point defenses to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginCounterMeasureFocus3_ShortDec</Label>
+    <String>Forces our point defenses to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginDroneSentrySystems_ShortDec</Label>
+    <String>Lets us build exotic point defenses.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginDroneSystemMastery1_ShortDec</Label>
+    <String>Forces our point defenses to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginDroneSystemMastery2_ShortDec</Label>
+    <String>Forces our point defenses to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginArreonMissileDefenseTech_ShortDec</Label>
+    <String>Lets us build the ultimate point defenses.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPointDefenseSupportSystem_ShortDec</Label>
+    <String>Lets us build fleet point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPointDefenseAugmentation_ShortDec</Label>
+    <String>Lets us build even better fleet point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginArmorSystems_ShortDec</Label>
+    <String>Lets us build tougher armor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginArmorOptimization1_ShortDec</Label>
+    <String>Forces our armor to be stronger.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginArmorOptimization2_ShortDec</Label>
+    <String>Forces our armor to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginArmorOptimization3_ShortDec</Label>
+    <String>Forces our armor to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginDurantiumCompositeTech_ShortDec</Label>
+    <String>Lets us build way tougher armor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginArmorFocus1_ShortDec</Label>
+    <String>Forces our armor to be stronger.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginArmorFocus2_ShortDec</Label>
+    <String>Forces our armor to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginArmorFocus3_ShortDec</Label>
+    <String>Forces our armor to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginKanviumLaminateTech_ShortDec</Label>
+    <String>Lets us build exotic armor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginArmorMastery1_ShortDec</Label>
+    <String>Forces our armor to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginArmorMastery2_ShortDec</Label>
+    <String>Forces our armor to be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginZeroPointArmorTech_ShortDec</Label>
+    <String>Lets us build the ultimate armor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginArmorSupportSystems_ShortDec</Label>
+    <String>Lets us build fleet armor-support fields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginArmorEnhancement_ShortDec</Label>
+    <String>Lets us build better fleet armor-support fields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginCommunicationsTech_Name</Label>
+    <String>Intimidation</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginCommunicationsTech_ShortDec</Label>
+    <String>Lets us research technology for intimidating our food.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginTranslatorTech_ShortDec</Label>
+    <String>Lets us communicate with our food.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginDiplomaticSpecialization1_ShortDec</Label>
+    <String>Forces our Diplomats to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginDiplomaticSpecialization2_ShortDec</Label>
+    <String>Spreads Drengin glory further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPoliticalSpecialization1_Name</Label>
+    <String>Slave-Master Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPoliticalSpecialization1_ShortDec</Label>
+    <String>Allows use of the Slave-Master Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPoliticalSpecialization2_Name</Label>
+    <String>Coddling Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPoliticalSpecialization2_ShortDec</Label>
+    <String>Allows use of the Coddling Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPoliticalSpecialization3_Name</Label>
+    <String>Dominion Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPoliticalSpecialization3_ShortDec</Label>
+    <String>Allows use of the Dominion Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPoliticalFocus1_Name</Label>
+    <String>Plundering Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPoliticalFocus1_ShortDec</Label>
+    <String>Allows use of the Plundering Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPoliticalFocus2_Name</Label>
+    <String>Thievery Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPoliticalFocus2_ShortDec</Label>
+    <String>Allows use of the Thievery Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPoliticalFocus3_Name</Label>
+    <String>Smart Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPoliticalFocus3_ShortDec</Label>
+    <String>Allows use of the Smart Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPoliticalMastery1_ShortDec</Label>
+    <String>Allows use of the War Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPoliticalMastery2_Name</Label>
+    <String>Pre-War Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginPoliticalMastery2_ShortDec</Label>
+    <String>Allows use of the Pre-War Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginDiplomacyTech_ShortDec</Label>
+    <String>Lets us build embassies and form basic treaties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginInterstellarAlliances_ShortDec</Label>
+    <String>Let us build improved diplomatic buildings. Increases Diplomacy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginEminenceTech_ShortDec</Label>
+    <String>Lets us build advanced diplomatic buildings. Increases Diplomacy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginCulturalInfluence_ShortDec</Label>
+    <String>Lets us build boring civilian buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginCulturalOptimization1_ShortDec</Label>
+    <String>Forces others to like us more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginCulturalOptimization2_ShortDec</Label>
+    <String>Forces our cultural buildings to be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginCulturalOptimization3_ShortDec</Label>
+    <String>Forces cultural buildings to cost less to run.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginCulturalOutreach_ShortDec</Label>
+    <String>Lets us build improved boring civilian buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginStellarEmigration_ShortDec</Label>
+    <String>Lets us build advanced cultural buildings. Increases Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginCulturalAssimilation_ShortDec</Label>
+    <String>Lets us build exotic cultural buildings. Increases Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginCulturalDomination_ShortDec</Label>
+    <String>Let us build the ultimate cultural buildings. Increases Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginCommerceSpecialization1_ShortDec</Label>
+    <String>Forces planets to be wealthier.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginCommerceSpecialization2_ShortDec</Label>
+    <String>Forces planets to be happier.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginCommerceSpecialization3_ShortDec</Label>
+    <String>Forces a planet to trade more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginXenoEconomics_ShortDec</Label>
+    <String>Lets us build improved economic buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginBlackMarketTech_Name</Label>
+    <String>Black Market</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginBlackMarketTech_ShortDec</Label>
+    <String>Lets us build a Black Market.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginInterstellarBanking_ShortDec</Label>
+    <String>Lets us build advanced economic buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginEconomicFocus1_ShortDec</Label>
+    <String>Forces our trade routes to make more money.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginEconomicFocus3_ShortDec</Label>
+    <String>Force tourists to spend more money.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginFinancialSectorsTech_ShortDec</Label>
+    <String>Lets us build exotic economic buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginGalacticStockMarket_ShortDec</Label>
+    <String>Lets us build the ultimate economic buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginGalacticTrade_Name</Label>
+    <String>Market Extortion</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginGalacticTrade_ShortDec</Label>
+    <String>Let us build improved trading buildings. Adds two trade routes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginGalacticFacilitation_ShortDec</Label>
+    <String>Lets us build advanced trading buildings. Adds two trade routes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginFightingPits_Name</Label>
+    <String>Fighting Pits</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginFightingPits_ShortDec</Label>
+    <String>Lets us build Fighting Pits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginTournamentTech_Name</Label>
+    <String>Tournaments</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginTournamentTech_ShortDec</Label>
+    <String>Lets us build an Arena.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSaughtertoriumTech_Name</Label>
+    <String>Saughtertorium</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSaughtertoriumTech_ShortDec</Label>
+    <String>Lets us build a Slaughtertorium.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSuperiorHunting_Name</Label>
+    <String>Hunting Grounds</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginSuperiorHunting_ShortDec</Label>
+    <String>Lets us build Hunting Grounds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginGalacticCruseLines_ShortDec</Label>
+    <String>Lets us build tourism structures.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginWondersoftheGalaxy_ShortDec</Label>
+    <String>Lets us build advanced tourism structures.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHomageTech_Name</Label>
+    <String>Homage</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission2_DrenginHomageTech_ShortDec</Label>
+    <String>Lets us build the Temple of Strength.</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+ 
+</StringTableList>

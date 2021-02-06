@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Return_KrynnTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>Return_KrynnTechTree_Name</Label>
+    <String>Return Krynn Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnCoordinationTempleTech_Name</Label>
+    <String>Coordination Temple</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnCoordinationTempleTech_ShortDec</Label>
+    <String>Allows construction of the Coordination Temple.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnLaborMissionTech_Name</Label>
+    <String>Labor Mission</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnLaborMissionTech_ShortDec</Label>
+    <String>Allows construction of the Labor Mission.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnLaborOracleTech_Name</Label>
+    <String>Labor Oracle</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnLaborOracleTech_ShortDec</Label>
+    <String>Allows construction of the Labor Oracle.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnJihadTech_Name</Label>
+    <String>Jihad</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnJihadTech_ShortDec</Label>
+    <String>Allows Holy War to commence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnJihadFocus1_Name</Label>
+    <String>Shadow Warriors</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnJihadFocus1_ShortDec</Label>
+    <String>Increase Soldiering Ability.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnJihadFocus2_Name</Label>
+    <String>Devout Defenders</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnJihadFocus2_ShortDec</Label>
+    <String>Increases Planetary Defense</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnJihadFocus3_Name</Label>
+    <String>Steadfast Faith</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnJihadFocus3_ShortDec</Label>
+    <String>Planets resist culture flipping much longer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnDevineFleets_Name</Label>
+    <String>Divine Fleets</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnDevineFleets_ShortDec</Label>
+    <String>Allows for the construction of the Divine Temple Support Module.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnUndauntedCrews_Name</Label>
+    <String>Undaunted Crews</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnUndauntedCrews_ShortDec</Label>
+    <String>Increases the Hit points of all our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnRighteousStrength_Name</Label>
+    <String>Righteous Strength</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnRighteousStrength_ShortDec</Label>
+    <String>Increases the defenses of all our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnConversionTech_Name</Label>
+    <String>Conversion</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnDiplomaticOptimization1_Name</Label>
+    <String>Free Trade Treaty</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnDiplomaticOptimization3_Name</Label>
+    <String>Slave Treaty</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnThePathTech_Name</Label>
+    <String>The Path</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnThePathTech_ShortDec</Label>
+    <String>Allows construction of the Krynn Consulate and Ministry.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnThePathSpecialization1_Name</Label>
+    <String>The Path of Wisdom</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnThePathSpecialization1_ShortDec</Label>
+    <String>Increases entire civilization's Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnThePathSpecialization2_Name</Label>
+    <String>The Path of Joy</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnThePathSpecialization2_ShortDec</Label>
+    <String>Increases entire civilization's Approval.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheCallingTech_Name</Label>
+    <String>The Calling</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheCallingTech_ShortDec</Label>
+    <String>Allows construction of the Krynniac Temples.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheCallingOptimization1_Name</Label>
+    <String>The Call of Order</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheCallingOptimization1_ShortDec</Label>
+    <String>Increases entire civilization's Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheCallingOptimization2_Name</Label>
+    <String>Call of Peace</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheCallingOptimization2_ShortDec</Label>
+    <String>Increases entire civilization's Approval.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheCallingOptimization3_Name</Label>
+    <String>Call to Action</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheCallingOptimization3_ShortDec</Label>
+    <String>Reduces maintenance and manufacturing cost of Krynniac Improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheOrderTech_Name</Label>
+    <String>The Order</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheOrderTech_ShortDec</Label>
+    <String>Allows construction of the Krynniac Order and Sanctuary.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheOrderFocus1_Name</Label>
+    <String>The Order of Influence</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheOrderFocus1_ShortDec</Label>
+    <String>Increases entire civilization's Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheOrderFocus2_Name</Label>
+    <String>The Order of Hope</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheOrderFocus2_ShortDec</Label>
+    <String>Increases entire civilization's Approval.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheOrderFocus3_Name</Label>
+    <String>The Order of Service</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheOrderFocus3_ShortDec</Label>
+    <String>Reduces maintenance and manufacturing cost of Krynniac Improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheWayTech_Name</Label>
+    <String>The Way</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheWayTech_ShortDec</Label>
+    <String>Allows construction of the Krynniac Oracle.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheWayPerfection1_Name</Label>
+    <String>The Way of Leadership</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheWayPerfection1_ShortDec</Label>
+    <String>Increases entire civilization's Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheWayPerfection2_Name</Label>
+    <String>The Way of Bliss</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnTheWayPerfection2_ShortDec</Label>
+    <String>Increases entire civilization's Approval.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnThePathofShadows_Name</Label>
+    <String>The Path of Shadows</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnThePathofShadows_ShortDec</Label>
+    <String>Allows construction of the Shadow Temple.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnShadowEnforcers_Name</Label>
+    <String>Shadow Enforcers</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnShadowEnforcers_ShortDec</Label>
+    <String>Allows construction of the Enforcement Temple.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnShadowTrade_Name</Label>
+    <String>Shadow Trade</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnShadowTrade_ShortDec</Label>
+    <String>Increases the Income of trade routes, by allowing the trade of dubious goods.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnKrynnTourismTech_Name</Label>
+    <String>Celestial Tourism</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnKrynnTourismTech_ShortDec</Label>
+    <String>Begin collecting tourism income.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnWondersoftheGalaxy_Name</Label>
+    <String>Wonders of the Galaxy</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnWondersoftheGalaxy_ShortDec</Label>
+    <String>Allows construction of advanced tourism structures. Increases tourism income.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnPilgrimageTech_Name</Label>
+    <String>Pilgrimage</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnPilgrimageTech_ShortDec</Label>
+    <String>Allows construction of exotic tourism structures. Increases tourism income.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnKrynnConversionTech_Name</Label>
+    <String>Krynniac Conversion</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_KrynnKrynnConversionTech_ShortDec</Label>
+    <String>Increase tourism income and influence on all our worlds.</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+ 
+</StringTableList>

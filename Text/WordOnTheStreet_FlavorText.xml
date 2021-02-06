@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+
+  <!-- *********************************************-->
+  <!-- ** Homeworld - Everyone is Happy ** -->
+  <!-- *********************************************-->
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_HOMEWORLD_HIGHMORALE</InternalName>
+
+    <FlavorTextOption>
+      <Text>{PLANETNAME:1} ocupa um lugar especial em meu coração. Eu não poderia estar mais feliz".</Text>
+      <Text>'{PLANETNAME:1} is the heart of the {PLAYERFACTIONLONG:1}. I can't imagine living somewhere else.'</Text>
+      <Text>'{PLANETNAME:1} - it was good enough for my ancestors, so it's good enough for this {PLAYERFACTION:1}.'</Text>
+      <Text>'I have to admit - {PLANETNAME:1} is only OK...I'm just too lazy to move.'</Text>
+      <Text>'I have to admit - {PLANETNAME:1} is amazing. I'm never going to move.'</Text>
+      <Text>'I have to admit - {PLANETNAME:1} has me entranced. The beauty - the history. I love it all.'</Text>
+      <Text>'I love this planet - there's no way I'm leaving {PLANETNAME:1}.'</Text>
+    </FlavorTextOption>
+
+    <!-- EARTH -->
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+      </Requirements>
+      <Text>'To think - our {PLANETNAME:1}bound ancestors thought they were alone in the galaxy. Wouldn't they be surprised?'</Text>
+      <Text>'It's really amazing - our ancestors went from thinking {PLANETNAME:1} was flat to exploring the stars in less than two millennia - a blink of an eye in 'cosmos' time.'</Text>
+      <Text>'{PLANETNAME:1} will always be my home amongst the stars. A paradise, as far as I'm concerned.'</Text>
+      <Text>'{PLANETNAME:1} is the home of my ancestors - no matter the worlds we find out there, I'm perfectly happy right here.'</Text>
+      <Text>'My parents would dream of a life beyond {PLANETNAME:1}. It's amazing we found it.'</Text>
+      <Text>'{PLANETNAME:1} is great. I can't believe people would want to live somewhere else.'</Text>
+      <Text>'{PLANETNAME:1} is awe- inspiring -- truly the galactic cradle of the human race.'</Text>
+      <Text>'{PLANETNAME:1} is perfect - no other world can compare.'</Text>
+      <Text>'{PLANETNAME:1} has always been home to dreamers and explorers. It's a fitting center to the {PLAYERFACTIONLONG:1}.'</Text>
+      <Text>'There's no way I'm leaving {PLANETNAME:1}. Far too much history here. And fun. And bananas.'</Text>
+      <Text>'There's no way I'm leaving {PLANETNAME:1}. This is where my parents grew up - and their parents - and their parents. I hope my kids stay here, too. And their kids. And their kids.'</Text>
+      <Text>'There's no way I'm leaving {PLANETNAME:1}. Other people may yearn for the stars, but this little blue marble is my interstellar home.'</Text>
+      <Text>'I'm quite happy living on the beaches of Hawaii - no need to leave {PLANETNAME:1} anytime soon.'</Text>
+      <Text>'Florence, Rio, New London - {PLANETNAME:1} has the most beautiful cities.'</Text>
+      <Text>'I'm quite happy living in Hong Kong, thank you kindly. I don't plan on leaving {PLANETNAME:1} anytime soon.'</Text>
+      <Text>'Paris is as beautiful as anything we'll find beyond {PLANETNAME:1}, in my opinion.'</Text>
+      <Text>'The Temples of Kyoto still amazing me. {PLANETNAME:1} is simply bursting with culture and history.'</Text>
+      <Text>'How can you call yourself a citizen of the {PLAYERFACTIONLONG:1} and not want to live on Terra - that's latin for {PLANETNAME:1}, by the way.'</Text>
+      <Text>'I have to admit - {PLANETNAME:1} is great! Well, except for the sharks. And the earthquakes. But other than that, {PLANETNAME:1} is tops!'</Text>
+      <Text>'I feel very safe on {PLANETNAME:1} - I mean, it's lasted us this long, right?'</Text>
+      <Text>'No other planet has the rich history of {PLANETNAME:1}. I'm constantly amazed by the lives of early humans...'</Text>
+      <Text>'{PLANETNAME:1} has a long line of great leaders. {LEADERNAME:1} easily stands amongst them.'</Text>
+      <Text>'It's been my dream to live on {PLANETNAME:1} - the birthplace of the {PLAYERFACTIONLONG:1}. I'm thrilled just to be here.'</Text>
+      <Text>'It's been my dream to live on {PLANETNAME:1}.  I could cry, I'm so happy.'</Text>
+      <Text>'It's been my lifelong dream to live on {PLANETNAME:1}.  I can't believe I'm here!'</Text>
+      <Text>'We may have moved into the stars, but {PLANETNAME:1} will always hold a special place in our hearts.'</Text>
+      <Text>'We may have moved into the stars, but {PLANETNAME:1} will always hold a special place in our hearts.'</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+
+    <!-- DRENGI -->
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DRENGIN</ListenerFaction>
+      </Requirements>
+      <Text>'There's a smell to {PLANETNAME:1} that can't be replicated. Its the smell of the mighty. And it does, indeed, smell mighty'</Text>
+      <Text>'There's a smell to {PLANETNAME:1} that can't be duplicated. It's the smell of home. It's fairly sulfuric.'</Text>
+      <Text>'There's a smell to {PLANETNAME:1} - it's the smell of the deadliest warriors this galaxy has known. It's a smell that strikes fear in our foes' nostrils.</Text>
+      <Text>'The great leaders of {PLANETNAME:1} past would be proud of the mighty {LEADERNAME:1}.'</Text>
+      <Text>'The great leaders of {PLANETNAME:1} past knew that our borders would one day encompass all other stars. That day fast approaches.'</Text>
+      <Text>'The great leaders of {PLANETNAME:1} past set us down the path to glorious expansion. We will not betray their vision.'</Text>
+      <Text>'The soldiers of {PLANETNAME:1} are the best in the {PLAYERFACTIONLONG:1}. I would fight them just to have the opportunity to die by their hand.'</Text>
+      <Text>'{PLANETNAME:1} is the red jewel of the {PLAYERFACTIONLONG:1}. No other planet will compare.'</Text>
+      <Text>'It is {PLANETNAME:1} that my son fights for. It is {PLANETNAME:1} that he would gladly die for.'</Text>
+      <Text>'Just as {PLANETNAME:1} shines red in the night sky, so too will the blood of our enemies.'</Text>
+      <Text>'From {PLANETNAME:1}, we have set out to conquer the galaxy. Soon all will know its name.'</Text>
+      <Text>'Soon all will pledge allegiance to {PLANETNAME:1} - {LEADERNAME:1} will make sure of that.'</Text>
+      <Text>'{PLANETNAME:1} is simply glorious - like crushing your enemies skull after battle.'</Text>
+      <Text>'{PLANETNAME:1} is simply wonderful - like pillaging the resources of your enemy after defeating them on the battlefield.'</Text>
+      <Text>'{PLANETNAME:1} is simply delightful - like the cries of agony from your enemies as you invade their homeworld.'</Text>
+      <Text>'{PLANETNAME:1} holds a special place in my heart. I couldn't be happier. #Genocide'</Text>
+      <Text>'The weak nations of the galaxy may boast, but no foreign world can compare to {PLANETNAME:1}.'</Text>
+      <Text>'The weak nations of the galaxy will soon witness the full might of {PLANETNAME:1}.'</Text>
+      <Text>'The weak nations of the galaxy will bare witness to the greatness of the {PLAYERFACTIONLONG:1}.'</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+
+  </FlavorTextDef>
+
+
+  <!-- *********************************************-->
+  <!-- ** Homeworld - Everyone is Kinda Happy ** -->
+  <!-- *********************************************-->
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_HOMEWORLD_MIDMORALE</InternalName>
+    
+    <FlavorTextOption>
+        <Text>'{PLANETNAME:1} holds a special place in my heart. I couldn't be happier.'</Text>
+        <Text>'{PLANETNAME:1} is the heart of the {PLAYERFACTIONLONG:1}. I can't imagine living somewhere else.'</Text>
+        <Text>'{PLANETNAME:1} - it was good enough for my ancestors, so it's good enough for this {PLAYERFACTION:1}.'</Text>
+        <Text>'I have to admit - {PLANETNAME:1} is amazing. I'm never going to move.'</Text>
+        <Text>'I have to admit - {PLANETNAME:1} has me entranced. The beauty - the history. I love it all.'</Text>
+    </FlavorTextOption>
+
+    <!-- EARTH -->
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+      </Requirements>
+      <Text>'To think - our {PLANETNAME:1}bound ancestors thought they were alone in the galaxy. Wouldn't they be surprised.'</Text>
+      <Text>'It's really amazing - our ancestors went from thinking {PLANETNAME:1} was flat to exploring the stars in less than two millennia - a blink of an eye in 'cosmos' time.'</Text>
+      <Text>'{PLANETNAME:1} will always be my home amongst the stars. A paradise, as far as I'm concerned.'</Text>
+      <Text>'{PLANETNAME:1} is the home of my ancestors - no matter the worlds we find out there, I'm perfectly happy right here.'</Text>
+      <Text>'My parents would dream of a life beyond {PLANETNAME:1}. It's amazing we found it.'</Text>
+      <Text>'{PLANETNAME:1} is great. I can't believe people would want to live somewhere else.'</Text>
+      <Text>'{PLANETNAME:1} is awe- inspiring -- truly the galactic cradle of the human race.'</Text>
+      <Text>'{PLANETNAME:1} is perfect - no other world can compare.'</Text>
+      <Text>'{PLANETNAME:1} has always been home to dreamers and explorers. It's a fitting center to the {PLAYERFACTIONLONG:1}.'</Text>
+      <Text>'There's no way I'm leaving {PLANETNAME:1}. Far too much history here. And fun. And bananas.'</Text>
+      <Text>'There's no way I'm leaving {PLANETNAME:1}. This is where my parents grew up - and their parents - and their parents. I hope my kids stay here, too. And their kids. And their kids.'</Text>
+      <Text>'There's no way I'm leaving {PLANETNAME:1}. Other people may yearn for the stars, but this little blue marble is my interstellar home.'</Text>
+      <Text>'I'm quite happy living on the beaches of Hawaii - no need to leave {PLANETNAME:1} anytime soon.'</Text>
+      <Text>'Florence, Rio, New London - {PLANETNAME:1} has the most beautiful cities.'</Text>
+      <Text>'I'm quite happy living in Hong Kong, thank you kindly. I don't plan on leaving {PLANETNAME:1} anytime soon.'</Text>
+      <Text>'Paris is as beautiful as anything we'll find beyond {PLANETNAME:1}, in my opinion.'</Text>
+      <Text>'The Temples of Kyoto still amaze me {PLANETNAME:1} is simply bursting with culture and history.'</Text>
+      <Text>'How can you call yourself a citizen of the {PLAYERFACTIONLONG:1} and not want to live on Terra - that's latin for {PLANETNAME:1}, by the way.'</Text>
+      <Text>'I have to admit - {PLANETNAME:1} is great! Well, except the sharks. And the earthquakes. But other than that, {PLANETNAME:1} is tops!'</Text>
+      <Text>'I feel very safe on {PLANETNAME:1} - I mean, it's lasted us this long, right?'</Text>
+      <Text>'No other planet has the rich history of {PLANETNAME:1}. I'm constantly amazed by the lives of early humans...'</Text>
+      <Text>'{PLANETNAME:1} has a long line of great leaders. {LEADERNAME:1} easily stands amongst them.'</Text>
+      <Text>'It's been my dream to live on {PLANETNAME:1} - the birthplace of the {PLAYERFACTIONLONG:1}. I'm thrilled just to be here!'</Text>
+      <Text>'It's been my dream to live on {PLANETNAME:1}.  I could cry, I'm so happy.'</Text>
+      <Text>'It's been my lifelong dream to live on {PLANETNAME:1}.  I can't believe I'm here!'</Text>
+      <Text>'We may have moved into the stars, but {PLANETNAME:1} will always hold a special place in our hearts.'</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+
+    <!-- DRENGI -->
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DRENGIN</ListenerFaction>
+      </Requirements>
+      <Text>'There's a smell to {PLANETNAME:1} that can't be replicated. Its the smell of the mighty. And it does, indeed, smell mighty'</Text>
+      <Text>'There's a smell to {PLANETNAME:1} that can't be duplicated. It's the smell of home. It's fairly sulfuric.'</Text>
+      <Text>'There's a smell to {PLANETNAME:1} - it's the smell of the deadliest warriors this galaxy has known. It's a smell that strikes fear in our foes' nostrils.</Text>
+      <Text>'The great leaders of {PLANETNAME:1} past would be proud of the mighty {LEADERNAME:1}.'</Text>
+      <Text>'The great leaders of {PLANETNAME:1} past knew that our borders would one day encompass all other stars. That day fast approaches.'</Text>
+      <Text>'The great leaders of {PLANETNAME:1} past set us down the path to glorious expansion. We will not betray their vision.'</Text>
+      <Text>'The soldiers of {PLANETNAME:1} are the best in the {PLAYERFACTIONLONG:1}. I would fight them just to have the opportunity to die by their hand.'</Text>
+      <Text>'{PLANETNAME:1} is the red jewel of the {PLAYERFACTIONLONG:1}. No other planet will compare.'</Text>
+      <Text>'It is {PLANETNAME:1} that my son fights for. It is {PLANETNAME:1} that he would gladly die for.'</Text>
+      <Text>'Just as {PLANETNAME:1} shines red in the night sky, so too will the blood of our enemies.'</Text>
+      <Text>'From {PLANETNAME:1}, we have set out to conquor the galaxy. Soon all will know its name.'</Text>
+      <Text>'Soon all will pledge allegience to {PLANETNAME:1} - {LEADERNAME:1} will make sure of that.'</Text>
+      <Text>'{PLANETNAME:1} is simply glorious - like crushing your enemies skull after battle.'</Text>
+      <Text>'{PLANETNAME:1} is simply wonderful - like pillaging the resources of your enemy after defeating them on the battlefield.'</Text>
+      <Text>'{PLANETNAME:1} is simply delightful - like the cries of agony from your enemies as you invade their homeworld.'</Text>
+      <Text>'{PLANETNAME:1} holds a special place in my heart. I couldn't be happier. #Genocide'</Text>
+      <Text>'The weak nations of the galaxy may boast, but no foreign world can compare to {PLANETNAME:1}.'</Text>
+      <Text>'The weak nations of the galaxy will soon witness the full might of {PLANETNAME:1}.'</Text>
+      <Text>'The weak nations of the galaxy will bare witness to the greatness of the {PLAYERFACTIONLONG:1}.'</Text>
+      <Text>'All will FALL before the MIGHT of {PLANETNAME:1}!'</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+
+  </FlavorTextDef>
+
+
+  <!-- *********************************************-->
+  <!-- ** Homeworld - Everyone is Unhappy ** -->
+  <!-- *********************************************-->
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_HOMEWORLD_LOWMORALE</InternalName>
+    <FlavorTextOption>
+      <Text>'{PLANETNAME:1} is beautiful. Unfortunatly, we have a leader like {LEADERNAME:1} running it into the ground.'</Text>
+      <Text>'I'm very happy with life on our homeworld. Not very happy with {LEADERNAME:1}, though.'</Text>
+      <Text>'Love {PLANETNAME:1} - hate {LEADERNAME:1}. Any more questions?'</Text>
+      <Text>'{PLANETNAME:1} has had many great leaders. {LEADERNAME:1} is NOT one of them.'</Text>
+      <Text>'A shame the great history of {PLANETNAME:1} has to be soiled with the bumbling antics of {LEADERNAME:1}.'</Text>
+      <Text>'I have to admit - {PLANETNAME:1} is only OK...I'm just too lazy to move.'</Text>
+    </FlavorTextOption>
+
+    <!-- EARTH -->
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+      </Requirements>
+      <Text>'{PLANETNAME:1} has a long history of perseverance. I'm not sure we can persevere through the incompetency of {LEADERNAME:1}.'</Text>
+      <Text>'My ancestors must be rolling in their graves. {LEADERNAME:1} is the worst leader {PLANETNAME:1} has seen.'</Text>
+      <Text>'History books tell of an 'Impeachment Process' the old democracies of {PLANETNAME:1} would make use of. Any chance we could impeach {LEADERNAME:1}?'</Text>
+    </FlavorTextOption>
+
+  </FlavorTextDef>
+
+
+  <!-- *********************************************-->
+    <!-- ** High Quality Planet - Everyone is Happy ** -->
+    <!-- *********************************************-->
+    <FlavorTextDef>
+      <InternalName>WORDONTHESTREET_HIGHPLANETQUALITY_HIGHMORALE</InternalName>
+      <FlavorTextOption>
+        <Text>'{PLANETNAME:1} is a beautiful place to live. The {PLAYERFACTIONLONG:1} really knows how to treat its citizens!'</Text>
+        <Text>'I can't imagine a more wonderful planet than {PLANETNAME:1}. Living here is a dream come true!'</Text>
+        <Text>'It's perfect here on {PLANETNAME:1}... I couldn't be happier!'</Text>
+        <Text>'I don't care if it sounds snobby...{PLANETNAME:1} is the best place to live in the {PLAYERFACTIONLONG:1} - Hands Down!'</Text>
+        <Text>'How do I like life on {PLANETNAME:1}? Three words - I'm loving it!'</Text>
+        <Text>'Great neighbors, great atmosphere, great food... all in all, {PLANETNAME:1} is a great planet!'</Text>
+      </FlavorTextOption>
+
+      <!-- YOR -->
+      <FlavorTextOption>
+        <Requirements>
+          <ListenerFaction>FACTION_YOR</ListenerFaction>
+        </Requirements>
+        <Text>'{PLANETNAME:1} is habitable and pleasant. For those reasons, amongst others, {LEADERNAME:1} has my approval.'</Text>
+      </FlavorTextOption>
+      
+    </FlavorTextDef>
+
+    <!-- ***************************************************-->
+    <!-- ** High Quality Planet - Everyone is Kinda Happy ** -->
+    <!-- ***************************************************-->
+    <FlavorTextDef>
+      <InternalName>WORDONTHESTREET_HIGHPLANETQUALITY_MIDMORALE</InternalName>
+      <FlavorTextOption>
+        <Text>'Being such a beautiful planet, you think the government could do more with {PLANETNAME:1}. It's kind of a waste.'</Text>
+        <Text>'I don't know... {PLANETNAME:1}'s OK. But it's the natural livability of the planet that makes it nice here... not what the government has done.'</Text>
+        <Text>'{PLANETNAME:1} is a pretty nice place to live... even if it's not being used to it's max potential.'</Text>
+      </FlavorTextOption>
+
+      <!-- YOR -->
+      <FlavorTextOption>
+        <Requirements>
+          <ListenerFaction>FACTION_YOR</ListenerFaction>
+        </Requirements>
+        <Text>'{PLANETNAME:1} has many optimum qualities that have not been properly managed. It should be a better habitat.'</Text>
+      </FlavorTextOption>
+      
+    </FlavorTextDef>
+
+    <!-- ***********************************************-->
+    <!-- ** High Quality Planet - Everyone is Unhappy ** -->
+    <!-- ***********************************************-->
+    <FlavorTextDef>
+      <InternalName>WORDONTHESTREET_HIGHPLANETQUALITY_LOWMORALE</InternalName>
+      <FlavorTextOption>
+          <Text>'{PLANETNAME:1} is a pretty nice planet... so it must take some REAL morons in the government to make a living here THIS crappy. That's right, {LEADERNAME:1}, I'm talking about you!'</Text>
+          <Text>'It's a nice place to look at, but MAN is {PLANETNAME:1} boring. I mean, give us something FUN to do... all work and no play makes even the crappiest alien planets look inviting.'</Text>
+          <Text>'It may look nice from a sector away, but then you're living here {PLANETNAME:1} is pretty crummy.'</Text>
+          <Text>'Even a brain-dead MINOR Race could make better use of {PLANETNAME:1}'s natural resources. What's {LEADERNAME:1} thinking?!'</Text>
+          <Text>'Perhaps {LEADERNAME:1} should come down for a visit and see how miserable life here really is. {PLANETNAME:1} may look good on paper, but when you're living here it's a different story.'</Text>
+      </FlavorTextOption>
+
+      <!-- YOR -->
+      <FlavorTextOption>
+        <Requirements>
+          <ListenerFaction>FACTION_YOR</ListenerFaction>
+        </Requirements>
+        <Text>'{PLANETNAME:1} has the potential to be an optimal habitat, but poor management by {LEADERNAME:1} has led to wasted resources. Unhappiness levels are rising.'</Text>
+      </FlavorTextOption>
+      
+    </FlavorTextDef>
+
+
+  <!-- ********************************************************************************************************************************************** -->
+
+  <!-- ***********************************************-->
+  <!-- ** Medium Quality Planet - Everyone is Happy ** -->
+  <!-- ***********************************************-->
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_MIDPLANETQUALITY_HIGHMORALE</InternalName>
+    <FlavorTextOption>
+      <Text>'Some people would say the planet needs work, but I like {PLANETNAME:1} just the way it is!'</Text>
+      <Text>'{PLANETNAME:1} is a pretty nice place to live.'</Text>
+    </FlavorTextOption>    
+  </FlavorTextDef>
+
+  <!-- *****************************************************-->
+  <!-- ** Medium Quality Planet - Everyone is Kinda Happy ** -->
+  <!-- *****************************************************-->
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_MIDPLANETQUALITY_MIDMORALE</InternalName>
+    <FlavorTextOption>
+      <Text>'{PLANETNAME:1} is an OK place to live, but it's far from perfect.'</Text>
+      <Text>'With a bit of terraforming {PLANETNAME:1}'d be a nice place, but for now, I think I'd prefer somewhere else.'</Text>
+      <Text>'Don't get me wrong, it's better than SOME places I've heard of, but for now, {PLANETNAME:1} is just OK.'</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <!-- *************************************************-->
+  <!-- ** Medium Quality Planet - Everyone is Unhappy ** -->
+  <!-- *************************************************-->
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_MIDPLANETQUALITY_LOWMORALE</InternalName>
+    <FlavorTextOption>
+      <Text>'Who knew such an average planet could be so horrible to live on? Life on {PLANETNAME:1} blows!'</Text>
+      <Text>'I thought I'd like living on {PLANETNAME:1} at least a LITTLE bit... turns out I just despise it A LOT.'</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <!-- ********************************************************************************************************************************************** -->
+
+  <!-- ********************************************-->
+  <!-- ** Low Quality Planet - Everyone is Happy ** -->
+  <!-- ********************************************-->
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_LOWPLANETQUALITY_HIGHMORALE</InternalName>
+    <FlavorTextOption>
+      <Text>'It's certainly not perfect, but {PLANETNAME:1} is not without its charms.'</Text>
+      <Text>'{PLANETNAME:1}'s a pretty nice place if you like your planets rocky and free of most forms of life... like me.'</Text>
+      <Text>'I like living on {PLANETNAME:1}... but I'm more of a loner anyway.'</Text>
+      <Text>'There's a nice balance between 'stuff' and 'no stuff' on {PLANETNAME:1} to keep me happy.'</Text>
+      <Text>'I guess I'm starting to see what {LEADERNAME:1} saw in this place. {PLANETNAME:1} may take some getting used to, but it's better than nothing.'</Text>
+      <Text>'{PLANETNAME:1} certainly wasn't my FIRST choice for where to raise a family, but I can't complain. I have my health, my loved ones, and that's enough for me.'</Text>
+    </FlavorTextOption>
+
+    <!-- YOR -->
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>'Traditional sensors would have classified this as a poor planet for colonizing, but {PLANETNAME:1} has turned out to be a decent planet to have colonized.'</Text>
+    </FlavorTextOption>
+    
+  </FlavorTextDef>
+
+  <!-- **************************************************-->
+  <!-- ** Low Quality Planet - Everyone is Kinda Happy ** -->
+  <!-- **************************************************-->
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_LOWPLANETQUALITY_MIDMORALE</InternalName>
+    <FlavorTextOption>
+	    <Text>'Even with some work, {PLANETNAME:1} is always going to be pretty dumpy.'</Text>
+      <Text>'It'd be nice to see the government put some money into this planet... {PLANETNAME:1} sure needs some lovin'.'</Text>
+      <Text>'Once I save up enough money I'm outta here... you can only stand living on a planet like {PLANETNAME:1} for so long.'</Text>
+      <Text>'Life on {PLANETNAME:1} could be worse... not much worse, but it could be worse.'</Text>
+      <Text>'{PLANETNAME:1} kinda stinks. And I mean that literally. I can never get the stench out of my clothes.'</Text>
+      <Text>'{PLANETNAME:1} is like a smelly fungus... it grows on you, but it still stinks.'</Text>
+    </FlavorTextOption>
+
+    <!-- YOR -->
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>'This planet is in need of maintenance. Until then, {PLANETNAME:1} is only slightly habitable.'</Text>
+    </FlavorTextOption>
+    
+  </FlavorTextDef>
+
+  <!-- *************************************************-->
+  <!-- ** Low Quality Planet - Everyone is Unhappy ** -->
+  <!-- *************************************************-->
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_LOWPLANETQUALITY_LOWMORALE</InternalName>
+    
+    <FlavorTextOption>
+      <Text>'What's with this dung heap that they've left us on?! Get me outta here!! {PLANETNAME:1} blows.'</Text>
+      <Text>'This is bureaucracy for you. You've got officials living the high life on the good planets, while us working-class folk get stuck on {PLANETNAME:1} - the worst habitable planet in the galaxy!'</Text>
+      <Text>'Pardon my language, but **** living on {PLANETNAME:1}.'</Text>
+      <Text>'What do I feel about {PLANETNAME:1}? You mean this steaming pile that {LEADERNAME:1} stuck us on?!'</Text>
+      <Text>'Life on {PLANETNAME:1} sucks! S-U-C-K-S!'</Text>
+    </FlavorTextOption>
+
+    <!-- YOR -->
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>'{PLANETNAME:1} is a sub-optimal living environment, for organic and cybernetic life-forms alike. {LEADERNAME:1} should have foreseen this before colonizing this planet.'</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <!-- ********************************************************************************************************************************************** -->
+
+  <!-- *************************************************-->
+  <!-- ** Player Has High Empire Culture ** -->
+  <!-- *************************************************-->
+
+    <FlavorTextDef>
+      <InternalName>WORDONTHESTREET_HIGHEMPIRECULTURE_HIGHMORALE</InternalName>
+      <FlavorTextOption>
+
+        <Text>'I am so glad that we live in a cultured and civilized society, run by leaders that know what they're doing.'</Text>
+        <Text>'Having heard stories about some of the other races, I'm SO glad to be part of the {PLAYERFACTION:1}.'</Text>
+        <Text>'I'm very proud to be a citizen of the {PLAYERFACTION:1}! I think {LEADERNAME:1} has done a great job keeping our culture strong.'</Text>
+
+      </FlavorTextOption>
+    </FlavorTextDef>
+
+    <FlavorTextDef>
+      <InternalName>WORDONTHESTREET_HIGHEMPIRECULTURE_MIDMORALE</InternalName>
+      <FlavorTextOption>
+        <Text>'I may not agree with all of the choices {LEADERNAME:1} makes, but at least the {PLAYERFACTION:1} culture is something I can be proud of.'</Text>
+        <Text>'I've heard stories about some of the other races. Let's just say there are some DISGUSTING habits out there. And those are the habits that DON'T revolve around eating skin!'</Text>
+      </FlavorTextOption>
+    </FlavorTextDef>
+    
+    <FlavorTextDef>
+      <InternalName>WORDONTHESTREET_HIGHEMPIRECULTURE_LOWMORALE</InternalName>
+      <FlavorTextOption>
+        
+        <Text>'I don't care for the way {LEADERNAME:1} has run this planet into the ground, but at least we're better off than some of the races out there.'</Text>
+        <Text>'I'd rather be an unhappy citizen with some semblance of civil conduct, than a happy alien with the social skills of a barbarian.'</Text>
+        
+      </FlavorTextOption>
+    </FlavorTextDef>
+
+  <!-- ********************************************************************************************************************************************** -->
+
+  <!-- ********************************************************** -->
+  <!-- ** Planet is under the Influence of High Empire Culture ** -->
+  <!-- ********************************************************** -->
+
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_HIGHALIENCULTURE_HIGHMORALE</InternalName>
+    <FlavorTextOption>
+
+      <Text>'I really like being a part of the {PLAYERFACTIONLONG:1} and {PLANETNAME:1} is a great place to live. But, there's a lot of good to be found in the {PLAYERFACTION:2} way of life, too!'</Text>
+
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_HIGHALIENCULTURE_MIDMORALE</InternalName>
+    <FlavorTextOption>
+
+      <Text>'{PLANETNAME:1} is a decent place and all, but if it wasn't for the music and food and clothing that come in from the {PLAYERFACTIONLONG:2}, life wouldn't be all that fun.'</Text>
+
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_HIGHALIENCULTURE_LOWMORALE</InternalName>
+    <FlavorTextOption>
+
+      <Text>'I hate living on {PLANETNAME:1}. But not as much as I hate the {PLAYERFACTIONLONG:1}. I suggest all citizens band together and join the {PLAYERFACTIONLONG:2} instead. I feel I have more in common with them anyways.'</Text>
+
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+
+  <!-- ********************************************************************************************************************************************** -->
+
+  <!-- ************************ -->
+  <!-- ** Planet is Defended ** -->
+  <!-- ************************ -->
+
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_PLANETISDEFENDED_HIGHMORALE</InternalName>
+    <FlavorTextOption>
+
+      <Text>'I like it when {PLANETNAME:1} is defended. It gives me a warm fuzzy feeling knowing that {LEADERNAME:1} wants us to be safe.'</Text>
+
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_PLANETISDEFENDED_MIDMORALE</InternalName>
+    <FlavorTextOption>
+
+      <Text>'Now that {LEADERNAME:1} has taken steps to defend {PLANETNAME:1}, I hope they'll focus on the other problems this planet is still facing.'</Text>
+
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_PLANETISDEFENDED_LOWMORALE</InternalName>
+    <FlavorTextOption>
+
+      <Text>'I don't want a bunch of dirty warships hanging out above our planet! All these ships are basically a warning light for other races that stupid {PLAYERFACTION:1} leader {LEADERNAME:1} is planning an assault from {PLANETNAME:1}. Great thinking, moron.'</Text>
+
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <!-- ********************************************************************************************************************************************** -->
+
+  <!-- ********************** -->
+  <!-- ** Empire is in Debt ** -->
+  <!-- ********************** -->
+
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_INDEBT_HIGHMORALE</InternalName>
+    <FlavorTextOption>
+
+      <Text>'You have to spend money when running such a powerful empire. I don't mind a bit of a deficit... it really doesn't impact me.'</Text>
+
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_INDEBT_MIDMORALE</InternalName>
+    <FlavorTextOption>
+
+      <Text>'It's getting a bit scary that the government hasn't been able to get out the hole. A balanced budget should be their top priority.'</Text>
+
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_INDEBT_LOWMORALE</InternalName>
+    <FlavorTextOption>
+
+      <Text>'The way our leaders spend-spend-spend...it really has me worried about our future. Let's get out of debt, and then we can talk about how I feel about that idiot {LEADERNAME:1}.'</Text>
+
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  
+  <!-- ********************************************************************************************************************************************** -->
+
+  <!-- ********************************* -->
+  <!-- ** Worker Citizen is On Planet ** -->
+  <!-- ********************************* -->
+
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_CITIZENONPLANET_WORKER_HIGHMORALE</InternalName>
+    <FlavorTextOption>
+
+      <Text>'Everyone is extra focused and working hard. I don't know we'd be without {WORKERNAME:1}.'</Text>
+      <Text>'{WORKERNAME:1} really knows how to energize the workforce. Roughly speaking, we're seeing a +33% boost in productivity.'</Text>
+      <Text>'It's great having {WORKERNAME:1} around. The social projects are being completed at a record pace.'</Text>
+
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_CITIZENONPLANET_WORKER_MIDMORALE</InternalName>
+    <FlavorTextOption>
+
+      <Text>'Everyone is extra focused and working hard. I don't know where we'd be without {WORKERNAME:1}.'</Text>
+      <Text>'{WORKERNAME:1} really knows how to energize the workforce. Roughly speaking, we're seeing a +33% boost in productivity.'</Text>
+      <Text>'It's great having {WORKERNAME:1} around. Projects are being completed at a record pace.'</Text>
+
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_CITIZENONPLANET_WORKER_LOWMORALE</InternalName>
+    <FlavorTextOption>
+
+      <Text>'Everyone is extra focused on working hard. {WORKERNAME:1} sure knows how to crack the whip. Please note that this is a complaint - I hate {WORKERNAME:1}.'</Text>
+      <Text>'Having {WORKERNAME:1} around has certainly increased productivity, but has done nothing to raise everyone's morale.'</Text>
+
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+
+  <!-- ********************************************************************************************************************************************** -->
+
+  <!-- ********************************* -->
+  <!-- ** Have Reached Population Cap ** -->
+  <!-- ********************************* -->
+
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_CROWDED_HIGHMORALE</InternalName>
+    <FlavorTextOption>
+
+      <Text>'It's a bit crowded here - not that I'm complaining. {PLANETNAME:1} is great!  Just crowded.'</Text>
+      <Text>'{PLANETNAME:1} continues to draw people from across the {PLAYERFACTIONLONG:1}. No wonder it's feeling more crowded than usual.'</Text>
+      <Text>'It's not my place to tell {LEADERNAME:1} what to do, but {PLANETNAME:1} could probably use another city.'</Text>
+
+
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_CROWDED_MIDMORALE</InternalName>
+    <FlavorTextOption>
+
+      <Text>'It's a bit crowded here - {PLANETNAME:1} could certainly use another City or two. This is getting unbearable.'</Text>
+      <Text>'{PLANETNAME:1} continues have an overpopulation problem - hopefully {LEADERNAME:1} is planning a solution.'</Text>
+      <Text>'{PLANETNAME:1} is growing increasingly crowded. It's becoming a real problem.'</Text>
+
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_CROWDED_LOWMORALE</InternalName>
+    <FlavorTextOption>
+
+      <Text>'OK {LEADERNAME:1}, we're packed shoulder to shoulder down here. DO SOMETHING!.'</Text>
+      <Text>'If it wasn't for rampant overpopulation, discomfort, and disorder - {PLANETNAME:1} would be pretty nice. Unfortunately, {LEADERNAME:1} does nothing to help us.'</Text>
+      <Text>'I look forward to leaving the overpopulated {PLANETNAME:1} as soon as possible.'</Text>
+      <Text>'Too many people on {PLANETNAME:1}, not enough space to live. This is unbearable.'</Text>
+      
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <!-- ********************************************************************************************************************************************** -->
+
+  <!-- *********** -->
+  <!-- ** Names ** -->
+  <!-- *********** -->
+
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_NAMES</InternalName>
+    
+    <FlavorTextOption>
+      <Text>Angela</Text>
+      <Text>Brad</Text>
+      <Text>Debbie</Text>
+      <Text>Cari</Text>
+      <Text>Raul</Text>
+      <Text>Hermie</Text>
+      <Text>Kim</Text>
+      <Text>Larry</Text>
+      <Text>Harry</Text>
+      <Text>Jesse</Text>
+      <Text>Jimmy</Text>
+      <Text>Jennifer</Text>
+      <Text>Paul</Text>
+      <Text>Pat</Text>
+      <Text>Scott</Text>
+      <Text>Suzy</Text>
+      <Text>Alberto</Text>
+      <Text>Samantha</Text>
+      <Text>Peter</Text>
+      <Text>A.J.</Text>
+      <Text>George</Text>
+      <Text>Andrew</Text>
+      <Text>Derek</Text>
+      <Text>Eddie</Text>
+      <Text>Sandie</Text>
+      <Text>Edward</Text>
+      <Text>Eddie</Text>
+      <Text>Eric</Text>
+      <Text>Akash</Text>
+      <Text>Teddy</Text>
+      <Text>James</Text>
+      <Text>Alex</Text>
+      <Text>Akil</Text>
+      <Text>Jim</Text>
+      <Text>Chauncy</Text>
+      <Text>Edwardo</Text>
+      <Text>Timmy</Text>
+      <Text>Lisa</Text>
+      <Text>Zack</Text>
+      <Text>Kelly</Text>
+      <Text>Wayne</Text>
+      <Text>Ryan</Text>
+      <Text>Maddison</Text>
+      <Text>Garth</Text>
+      <Text>Leo</Text>
+      <Text>Robert</Text>
+      <Text>Alan</Text>
+      <Text>Kathy</Text>
+      <Text>Jodi</Text>
+      <Text>Michael</Text>
+      <Text>Brian</Text>
+      <Text>Kris</Text>
+    </FlavorTextOption>
+    
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DRENGIN</ListenerFaction>
+      </Requirements>
+      <Text>Dathbar</Text>
+      <Text>Igrath</Text>
+      <Text>Moorthon</Text>
+      <Text>Quinthor</Text>
+      <Text>Umorth</Text>
+      <Text>Egbar</Text>
+      <Text>Otath</Text>
+      <Text>Petunar</Text>
+      <Text>Daisor</Text>
+      <Text>Melithor</Text>
+      <Text>Dracor</Text>
+      <Text>Kibath</Text>
+      <Text>Randoth</Text>
+      <Text>Rrah</Text>
+      <Text>Yuigrah</Text>
+      <Text>Grendon</Text>
+      <Text>Dinrog</Text>
+      <Text>Mitheon</Text>
+    </FlavorTextOption>
+
+    
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ALTARIAN</ListenerFaction>
+      </Requirements>
+      <Text>Epano</Text>
+      <Text>Altos</Text>
+      <Text>Umis</Text>
+      <Text>Raltos</Text>
+      <Text>Iltas</Text>
+      <Text>Civis</Text>
+      <Text>Atmos</Text>
+      <Text>Arlemis</Text>
+      <Text>Ergos</Text>
+      <Text>Caltis</Text>
+      <Text>Eltos</Text>
+      <Text>Caltos</Text>
+      <Text>Arlemos</Text>
+      <Text>Altis</Text>
+      <Text>Caltis</Text>
+    </FlavorTextOption>
+
+  </FlavorTextDef>
+  
+  
+  <!-- ********************************************************************************************************************************************** -->
+
+</FlavorTextDefs>

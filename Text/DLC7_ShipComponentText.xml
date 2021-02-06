@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the GalCiv editor -->
+<!-- DLC7_ShipComponentText.xml -->
+ 
+  <StringTable>
+    <Label>HyperGateGeneratorP_Name</Label>
+    <String>Hyper Gate Generator-P</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperGateGeneratorP_Dec</Label>
+    <String>Increases Ships Moves</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperGateGeneratorM_Name</Label>
+    <String>Hyper Gate Generator-M</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperGateGeneratorM_Dec</Label>
+    <String>Increases Ships Moves</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SubspaceSplinterB_Name</Label>
+    <String>Subspace Splinter-B</String>
+  </StringTable>
+  <StringTable>
+    <Label>SubspaceSplinterB_Dec</Label>
+    <String>Increases Ships Moves, and partially  jams enemy weapons </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SubspaceSplinterP_Name</Label>
+    <String>Subspace Splinter-P</String>
+  </StringTable>
+  <StringTable>
+    <Label>SubspaceSplinterP_Dec</Label>
+    <String>Increases Ships Moves</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SubspaceSplinterM_Name</Label>
+    <String>Subspace Splinter-M</String>
+  </StringTable>
+  <StringTable>
+    <Label>SubspaceSplinterM_Dec</Label>
+    <String>Increases Ships Moves, boost beam damage of all ships in fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SubspaceResonatorP_Name</Label>
+    <String>Subspace Resonator-P</String>
+  </StringTable>
+  <StringTable>
+    <Label>SubspaceResonatorP_Dec</Label>
+    <String>Substantially boost the Sensor power of a single ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SubspaceResonatorM_Name</Label>
+    <String>Subspace Resonator-M</String>
+  </StringTable>
+  <StringTable>
+    <Label>SubspaceResonatorM_Dec</Label>
+    <String>Greatly increases the Sensor power of a single ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientPromethionCleanserP_Name</Label>
+    <String>Ancient Promethion Cleanser-P</String>
+  </StringTable>
+  <StringTable>
+    <Label>AncientPromethionCleanserP_Dec</Label>
+    <String>Substantially boost Ships Range of a single ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientPromethionCleanserM_Name</Label>
+    <String>Ancient Promethion Cleanser-M</String>
+  </StringTable>
+  <StringTable>
+    <Label>AncientPromethionCleanserM_Dec</Label>
+    <String>Greatly increases the Ships Range of a single ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AtomicBonderB_Name</Label>
+    <String>Atomic Bonder-B</String>
+  </StringTable>
+  <StringTable>
+    <Label>AtomicBonderB_Dec</Label>
+    <String>Greatly increases the Hit Points of a single ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AtomicBonderP_Name</Label>
+    <String>Atomic Bonder-P</String>
+  </StringTable>
+  <StringTable>
+    <Label>AtomicBonderP_Dec</Label>
+    <String>Substantially boost the Hit Points of a single ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlasmaArcP_Name</Label>
+    <String>Plasma Arc-P</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlasmaArcP_Dec</Label>
+    <String>Very powerful Beam Weapon, (One per player)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlasmaArcM_Name</Label>
+    <String>Plasma Arc-M</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlasmaArcM_Dec</Label>
+    <String>Extremely powerful Beam Weapon. (One per player)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorEnergyWeaponB_Name</Label>
+    <String>Precursor Energy Weapon-B</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorEnergyWeaponB_Dec</Label>
+    <String>Very powerful weapon, that does multiple types of damage. (One per player)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorEnergyWeaponP_Name</Label>
+    <String>Precursor Energy Weapon-P</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorEnergyWeaponP_Dec</Label>
+    <String>Very powerful weapon, that does multiple types of damage. (One per player)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorEnergyWeaponM_Name</Label>
+    <String>Precursor Energy Weapon-M</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorEnergyWeaponM_Dec</Label>
+    <String>Very powerful Beam Weapon, (One per player)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ForceBubbleB_Name</Label>
+    <String>Force Bubble-B</String>
+  </StringTable>
+  <StringTable>
+    <Label>ForceBubbleB_Dec</Label>
+    <String>Gives shield to all ships in fleet with this equipped ship. (One per player)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ForceBubbleM_Name</Label>
+    <String>Force Bubble-M</String>
+  </StringTable>
+  <StringTable>
+    <Label>ForceBubbleM_Dec</Label>
+    <String>Extremely powerful shield system. (One per player)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientDefenseSystemP_Name</Label>
+    <String>Ancient Defense System-P</String>
+  </StringTable>
+  <StringTable>
+    <Label>AncientDefenseSystemP_Dec</Label>
+    <String>Powerful Missile Weapon. (One per player)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientDefenseSystemM_Name</Label>
+    <String>Ancient Defense System-M</String>
+  </StringTable>
+  <StringTable>
+    <Label>AncientDefenseSystemM_Dec</Label>
+    <String>Extremely powerful Missile Weapon. (One per player)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AntimatterWeaponEvent_Name</Label>
+    <String>Antimatter Weapon</String>
+  </StringTable>
+  <StringTable>
+    <Label>AntimatterWeaponEvent_Dec</Label>
+    <String>Extremely powerful Missile Weapon. (One per player)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DefenceDronePodB_Name</Label>
+    <String>Defence Drone Pod-B</String>
+  </StringTable>
+  <StringTable>
+    <Label>DefenceDronePodB_Dec</Label>
+    <String>Extremely powerful point defense system. (One per player)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DefenceDronePodP_Name</Label>
+    <String>Defence Drone Pod-P</String>
+  </StringTable>
+  <StringTable>
+    <Label>DefenceDronePodP_Dec</Label>
+    <String>Provides ship with all defense types. (One per player)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientSingularityCannonB_Name</Label>
+    <String>Ancient Singularity Cannon-B</String>
+  </StringTable>
+  <StringTable>
+    <Label>AncientSingularityCannonB_Dec</Label>
+    <String>Extremely powerful Kinetic Weapon, (One per player)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientSingularityCannonP_Name</Label>
+    <String>Ancient Singularity Cannon-P</String>
+  </StringTable>
+  <StringTable>
+    <Label>AncientSingularityCannonP_Dec</Label>
+    <String>Very powerful Kinetic Weapon, (One per player)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientSingularityCannonM_Name</Label>
+    <String>Ancient Singularity Cannon-M </String>
+  </StringTable>
+  <StringTable>
+    <Label>AncientSingularityCannonM_Dec</Label>
+    <String>Extremely powerful Kinetic Weapon, (One per player)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientKineticAugmenterB_Name</Label>
+    <String>Ancient Kinetic Augmenter-B</String>
+  </StringTable>
+  <StringTable>
+    <Label>AncientKineticAugmenterB_Dec</Label>
+    <String>Substantially boost the Kinetic attack of all ships in fleet. (One per player)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientKineticAugmenterP_Name</Label>
+    <String>Ancient Kinetic Augmenter-P</String>
+  </StringTable>
+  <StringTable>
+    <Label>AncientKineticAugmenterP_Dec</Label>
+    <String>Powerful Kinetic Weapon, that boost the Kinetic attack of all ships in fleet. (One per player)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientKineticAugmenterM_Name</Label>
+    <String>Ancient Kinetic Augmenter-M</String>
+  </StringTable>
+  <StringTable>
+    <Label>AncientKineticAugmenterM_Dec</Label>
+    <String>Extremely powerful Kinetic Weapon, (One per player)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AtomicPolorizerP_Name</Label>
+    <String>Atomic Polarizer-P</String>
+  </StringTable>
+  <StringTable>
+    <Label>AtomicPolorizerP_Dec</Label>
+    <String>Powerful armor enhancement system. (One per player)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AtomicPolorizerM_Name</Label>
+    <String>Atomic Polarizer-M</String>
+  </StringTable>
+  <StringTable>
+    <Label>AtomicPolorizerM_Dec</Label>
+    <String>Extremely powerful armor enhancement system. (One per player)</String>
+  </StringTable>
+ 
+</StringTableList>

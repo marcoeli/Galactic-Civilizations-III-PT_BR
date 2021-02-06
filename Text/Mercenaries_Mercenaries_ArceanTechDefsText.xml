@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Mercenaries_ArceanTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>Mercenaries_ArceanTechTree_Name</Label>
+    <String>Mercenaries Arcean Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanResearchCoordination_Name</Label>
+    <String>Forced Research Coordination</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanNeroLinkingTech_Name</Label>
+    <String>Entrenched Neurolinks</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanXenoGeology_Name</Label>
+    <String>Xeno Geology</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanXenoGeology_ShortDec</Label>
+    <String>Increase the quality of our colonies, by lowering maintenance and increasing morale of all our colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanWeatherControl_Name</Label>
+    <String>Weather Control</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanWeatherControl_ShortDec</Label>
+    <String>Allows for the building of the Arcean Weather Control Improvement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanWeatherControlZenith_Name</Label>
+    <String>Weather Control Zenith</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanWeatherControlZenith_ShortDec</Label>
+    <String>Allows for the building of the Arcean Weather Control Zenith</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanPlanetaryImprovement_Name</Label>
+    <String>Civilian Pre-Fortifications</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanBioReplication_Name</Label>
+    <String>Warrior Replication</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanEnvironmentalEngineering_Name</Label>
+    <String>Environmental Reclamation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanInterstellarNavigation_Name</Label>
+    <String>Interstellar Navigation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanInterstellarNavigation_ShortDec</Label>
+    <String>Allow the building of the Navigation Center Achievement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanNavagation Network_Name</Label>
+    <String>Navigation Network</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanNavagation Network_ShortDec</Label>
+    <String>Allow the building of the Galactic Navigation Network</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanNavigationalExpertise_Name</Label>
+    <String>Navigational Expertise</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanNavigationalExpertise_ShortDec</Label>
+    <String>Allow the building of the Galactic Navigators Guild</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanStellarForge_Name</Label>
+    <String>Stellar Forge</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanStellarForge_ShortDec</Label>
+    <String>Allows the constuction of the Stellar Forge Improvement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanStellerOptimization1_Name</Label>
+    <String>Stellar Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanStellerOptimization1_ShortDec</Label>
+    <String>Slightly Increase the hit point of all our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanStellerOptimization2_Name</Label>
+    <String>Stellar Fortification</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanStellerOptimization2_ShortDec</Label>
+    <String>Substantially lowers the maintinance costs of all our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanRobustHullConstruction_Name</Label>
+    <String>Robust Hull Construction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanRobustHullConstruction_ShortDec</Label>
+    <String>Allows us to build unique hull strengthening components.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanCarrierFocus2_ShortDec</Label>
+    <String>Allows for the construction of cheap and light Guardian Drones.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanMilitarizationTech_Name</Label>
+    <String>Galactic Reclamation Preparation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanUnavailable_Name</Label>
+    <String>Cathedral of Valor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanUnavailable_ShortDec</Label>
+    <String>Allows the constuction of the Cathedral of Valor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanPlanetaryInvasion_Name</Label>
+    <String>Planetary Reclamation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanOrbitalDefencePlatform_Name</Label>
+    <String>Orbital Defense Platform</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanTerritorialReinforcement_Name</Label>
+    <String>Territorial Reinforcement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanTerritorialReinforcement_ShortDec</Label>
+    <String>Allows for the construction of special military starbase modules that can be built on any starbase.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanReinforcementOptimization1_Name</Label>
+    <String>Starbase Reinforcement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanReinforcementOptimization1_ShortDec</Label>
+    <String>Increase the hitpoints of all Starbases</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanReinforcementOptimization2_Name</Label>
+    <String>Starbase Guardians</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanReinforcementOptimization2_ShortDec</Label>
+    <String>All starbases receive 2 Intercepter drones to augment their exsiting defenses.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanStarbaseFortification_Name</Label>
+    <String>Starbase Fortification</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanStarbaseFortification_ShortDec</Label>
+    <String>Alows for the building of the Intersteller Defense Module on any starbase.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanStarbaseFortificationFocus1_Name</Label>
+    <String>Starbase Battle Coordination</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanStarbaseFortificationFocus1_ShortDec</Label>
+    <String>Increases the weapons strength of all weapons on our starbases</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanStarbaseFortificationFocus2_Name</Label>
+    <String>Starbase Defense Coordination</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanStarbaseFortificationFocus2_ShortDec</Label>
+    <String>Increases the defenses of all starbases</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanZalonDefenseSystemTech_Name</Label>
+    <String>Zalon Defense System</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanZalonDefenseSystemTech_ShortDec</Label>
+    <String>Build the Zalon Defense system on a starbase or ship.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanCulturalInfluence_Name</Label>
+    <String>Cultural Fortification</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanXenoCommerce_Name</Label>
+    <String>Economic Fortification</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_ArceanTradeOptimization1_Name</Label>
+    <String>Trade Route Optimization</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+ 
+</StringTableList>

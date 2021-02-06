@@ -1,0 +1,3944 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- UIText_CrisisText.xml -->
+ 
+<!-- Event Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Name</Label>
+    <String>Crisis: The Primates</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Dec</Label>
+    <String>One of our Colonies has discovered a thriving race of Intelligent Primates on a newly discovered continent on {PLANETNAME}. While their intelligence is not up to galactic standards, they are capable of simple communication and tool use.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice1Dec</Label>
+    <String>We should not interfere with their evolution, abandon the newly discovered continent and leave them be. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice1BonusDec</Label>
+    <String>+10 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice2Dec</Label>
+    <String>Educate them, and lift up their culture so they can become productive members of our civilization. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice2BonusDec</Label>
+    <String>+10 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice3Dec</Label>
+    <String>Sounds like a naive labor force ripe for the picking, put them to work.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice3BonusDec</Label>
+    <String>+10 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_1_Name</Label>
+    <String>Crisis: The Primates (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_1_Dec</Label>
+    <String>Despite our best efforts, our colonists are continuing to impact the culture of the newly discovered primates on {PLANETNAME}. This has resulted in a wide range of negative effects, from fatal accidents to signs that the primates have begun worshiping us as gods.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_1_Choice1Dec</Label>
+    <String>Ask our colonists to leave this planet behind. We will leave the natives to their own destiny. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_1_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Benevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_1_Choice2Dec</Label>
+    <String>We have to keep doing the best we can to protect them. Institute fines on any colonist who interferes with the natives.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_1_Choice3Dec</Label>
+    <String>We gave the primates freedom. They chose to become more like us. Let's lean into that.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_1a_Name</Label>
+    <String>Crisis: The Primates - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_1a_Dec</Label>
+    <String>Almost all of our colonists have voted to evacuate {PLANETNAME}, leaving it to the gentle primates. This will certainly be a hit to our economy, but this moment will forever be remembered in our history as a time we did something not easy, but right.
+
+[COLOR=UIDefaultHighlight]+40 Benevolent, {PLANETNAME} Population reduced by 90%, Free Colony Ship.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_1b_Name</Label>
+    <String>Crisis: The Primates - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_1b_Dec</Label>
+    <String>The colonists of {PLANETNAME} have rejected our plea to abandon their colony. In their anger they've stormed the new continent and virtually wiped out the intelligent primates there. This will certainly be remembered as one of the darkest days in our civilization's history.
+
+[COLOR=UIDefaultHighlight]Adds 1 Tile on {PLANETNAME}, +20 Malevolent[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_1c_Name</Label>
+    <String>Crisis: The Primates - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_1c_Dec</Label>
+    <String>The situation on {PLANETNAME} with the intelligent primates has stabilized, thanks to our strict enforcement of non interference. Our colonists have become very proud of the flourishing native culture, resulting in a significant boost in the morale of the colony.
+
+[COLOR=UIDefaultHighlight]+15 Pragmatic, +10% morale on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_1e_Name</Label>
+    <String>Crisis: The Primates - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_1e_Dec</Label>
+    <String>In their own time the primitive locals of {PLANETNAME} have begun to appreciate our educational efforts. The most promising of them have fully began to integrate into our society, and proven to be very helpful in our research of the planet's natural resources.
+
+[COLOR=UIDefaultHighlight]+20% Research on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_2_Name</Label>
+    <String>Crisis: The Primates (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_2_Dec</Label>
+    <String>Educating the newly discovered primates has proven to be more complicated than we first hoped. We've had some success, but there have now been multiple incidents where lives on both sides were lost. Worse still, many of the colonists we tasked with educating the locals have decided to begin living like the primates themselves, in an attempt to go "back to nature." Lovely for them but this is hardly helping the colony at large.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_2_Choice1Dec</Label>
+    <String>Education can't come at the cost of lives. Establish guidelines to protect the colonists and the primates.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_2_Choice2Dec</Label>
+    <String>Redouble our efforts. The sooner we integrate the primates into our culture, the sooner we'll live in peace.  </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_2_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_2_Choice3Dec</Label>
+    <String>We can't risk the future of our colony. Forbid all non government interaction with the primates.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_2a_Name</Label>
+    <String>Crisis: The Primates - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_2a_Dec</Label>
+    <String>Our new guidelines on interaction with the primitive natives of {PLANETNAME} have greatly reduced the tension. Already we have found some primates able to show us many unknown resources on the planet we did not know of. 
+
+[COLOR=UIDefaultHighlight]+10 Pragmatic, +5 Hyper Silicates, +5 Harmony Crystals[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_2c_Name</Label>
+    <String>Crisis: The Primates - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_2c_Dec</Label>
+    <String>After a rocky start, the native education program on {PLANETNAME} has started to pay off. The natives have started to integrate into the greater population and proven to be very helpful in teaching us about our new colony. In addition, the introduction of their unique culture and art to has led to a cultural boom across our entire civilization.
+
+[COLOR=UIDefaultHighlight]+20 Pragmatic, +25% Colony Influence on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_2d_Name</Label>
+    <String>Crisis: The Primates - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_2d_Dec</Label>
+    <String>Educating the natives on {PLANETNAME} has proven to be nearly impossible. They greatly resent our interference and have begun to rebel against our very presence on the planet. Ironically the one element of our culture they have quickly adapted to is the use of weapons.
+
+[COLOR=UIDefaultHighlight]-25% Morale and -10% Production on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_2e_Name</Label>
+    <String>Crisis: The Primates - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_2e_Dec</Label>
+    <String>Freed from civilian meddling, our program to educate the primates on {PLANETNAME} has finally begun to pay dividends. Careful exposure to our culture and technology has allowed the natives to begin taking on many useful tasks like farming and entertainment. Our researchers believe they will be 100% integrated into our civilization within a generation or two.
+
+[COLOR=UIDefaultHighlight]+50% Food income and -10% Morale on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_3_Name</Label>
+    <String>Crisis: The Primates (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_3_Dec</Label>
+    <String>Our efforts to put the newly discovered primates to work has not gone as smoothly as we had hoped. The fatality rate in particular is astronomical, and those who have avoided labor are starting to foment revolutionary ideas.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_3_Choice1Dec</Label>
+    <String>We needed to put them to work, not kill them. The natives should be treated like any other colonist.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_3_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Benevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_3_Choice2Dec</Label>
+    <String>Do not kill off our cheap labor. Establish minimum native rights, so they get back to work.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_3_Choice3Dec</Label>
+    <String>Crack down on employers that waste native lives. They are a valuable resource.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_3_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Malevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_3a_Name</Label>
+    <String>Crisis: The Primates - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_3a_Dec</Label>
+    <String>Our efforts to give the natives on {PLANETNAME} the same rights as our citizens have proven mostly successful. Though their natural limitations limit their potential, their quality of life has greatly improved, and thoughts of rebellion seem to have subsided.
+
+[COLOR=UIDefaultHighlight]+10 Benevolent, +15% Production on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_3b_Name</Label>
+    <String>Crisis: The Primates - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_3b_Dec</Label>
+    <String>Our colonists on {PLANETNAME} have not reacted well to our efforts to give native workers the same rights as them. If anything, cruelty towards the primitive population has increased. There is a good chance they will not survive another generation of this treatment, though on the bright side that means there will not be many left to rebel.
+
+[COLOR=UIDefaultHighlight]+10 Malevolent[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_3c_Name</Label>
+    <String>Crisis: The Primates - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_3c_Dec</Label>
+    <String>Thanks to the token gestures we've made on their behalf, the natives of {PLANETNAME} have gone back to work. Accident rates have normalized, and a modest but real improvement in their standard of living has resulted. Any talk of revolution has been quelled, at least for now.
+
+[COLOR=UIDefaultHighlight]+15% Production on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_3e_Name</Label>
+    <String>Crisis: The Primates - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_3e_Dec</Label>
+    <String>By cracking down on the colonists who were wasting the lives of the natives of {PLANETNAME}, we've lowered the accident rate and greatly improved our manufacturing productivity. The natives themselves don't seem that appreciative our efforts, but they're simple that way.
+
+[COLOR=UIDefaultHighlight]+20 Malevolent, +20% Production on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_3f_Name</Label>
+    <String>Crisis: The Primates - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Primates_Choice_3f_Dec</Label>
+    <String>Cracking down on the colonists that were wasting the lives of the natives on {PLANETNAME} has not proven very effective. The natives have taken matters into their own hands and begun to vocally - and physically - demand rights. A very short rebellion has resulted, and though it did not end well for the natives, it hasn't done much for our manufacturing sector either.
+
+[COLOR=UIDefaultHighlight]+5 Malevolent, -15% Production on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Name</Label>
+    <String>Crisis: New Drug</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Dec</Label>
+    <String>A new plant has been found on {PLANETNAME} with strong narcotic effects. In the short term it makes people extremely content and relaxed and somewhat better musicians. But the long term health effects are thought to be dangerous, and it's already begun to reduce the planet's production.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice1Dec</Label>
+    <String>We can't let this keep going. Ban the drug.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice1BonusDec</Label>
+    <String>+15 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice2Dec</Label>
+    <String>Let's not rush into anything. Study the drug to find out all its effects.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice2BonusDec</Label>
+    <String>+15 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice3Dec</Label>
+    <String>There's obvious value here. We should commercialize this new drug.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice3BonusDec</Label>
+    <String>+15 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_1_Name</Label>
+    <String>Crisis: New Drug (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_1_Dec</Label>
+    <String>Our attempts to ban the new drug on {PLANETNAME} have only drawn wider attention to its potency. Smugglers have begun exporting it offworld. We risk losing control of the situation.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_1_Choice1Dec</Label>
+    <String>Crack down on the exporters. Also, find and destroy the plants themselves.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_1_Choice2Dec</Label>
+    <String>We should focus on treatment and harm reduction, to counteract the worst effects.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_1_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_1_Choice3Dec</Label>
+    <String>Lock down the planet, then hunt down any execute anyone caught dealing the drug. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_1a_Name</Label>
+    <String>Crisis: New Drug - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_1a_Dec</Label>
+    <String>Our efforts to rid {PLANETNAME} of the dangerously new addictive drug have been successful. No longer will our people fear being trapped in an endless haze of joy and good will towards others. 
+They'll understand eventually.
+
+[COLOR=UIDefaultHighlight]+20 Benevolent, -5% Morale for 10 turns on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_1c_Name</Label>
+    <String>Crisis: New Drug - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_1c_Dec</Label>
+    <String>We've found a treatment for the drug affecting {PLANETNAME}, one that not only counteracts the negative aspects of the drug, but also leaves those recovering from their addiction more productive than ever. They're a bit cranky, mind you.
+
+[COLOR=UIDefaultHighlight]-5% Morale for 25 turns, and 25% Production for 100 turns on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_1d_Name</Label>
+    <String>Crisis: New Drug - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_1d_Dec</Label>
+    <String>Our public health professionals have managed to mitigate the worst effects of the drug, but we've sadly been unsuccessful in our attempts to restrict its usage. It's already made its way off-planet, and is now being sold in black markets across our civilization.
+Perhaps not what the leaders of {PLANETNAME} wanted to be known for, but morale is up at least.
+
+[COLOR=UIDefaultHighlight]Global +5% Morale for 25 turns, and -5% Production for 25 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_1e_Name</Label>
+    <String>Crisis: New Drug - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_1e_Dec</Label>
+    <String>We've successfully stopped the distribution of the new drug on {PLANETNAME}, saving the rest of our civilization from its dangerous effects. But the harshness of our enforcement measures has not helped morale on the planet itself. A lesson they'll have to remember.
+
+[COLOR=UIDefaultHighlight]+20 Malevolent, -5% Morale for 25 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_2_Name</Label>
+    <String>Crisis: New Drug (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_2_Dec</Label>
+    <String>We've made a breakthrough in our research of the new drug on {PLANETNAME}. The drug is an unusually versatile substance, and is capable of affecting brain chemistry in a variety of ways. How should we direct our further research efforts?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_2_Choice1Dec</Label>
+    <String>Study it for medical use.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_2_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Science check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_2_Choice2Dec</Label>
+    <String>Study the productive aspects of the drug.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_2_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Science check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_2_Choice3Dec</Label>
+    <String>Study it for military use.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_2a_Name</Label>
+    <String>Crisis: New Drug - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_2a_Dec</Label>
+    <String>Our scientists have isolated the morale boosting properties of the new drug. Obvious morale-boosting applications if left in civilian hands, but this should also prove beneficial in our medical and physiological fields. 
+
+[COLOR=UIDefaultHighlight]+10% Morale, +25% research on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_2b_Name</Label>
+    <String>Crisis: New Drug - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_2b_Dec</Label>
+    <String>Our attempt to study the new drug has backfired. Although our researchers found a way to amplify the positive effects of the drug, they were unable to find any way to offset the negative effects. If anything, it is now more addictive than ever, and is now being used widely across the planet. The good news is everyone is too happy and sedate to export it to other worlds.
+
+[COLOR=UIDefaultHighlight]+10% Morale and -33% Production for 50 turns on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_2c_Name</Label>
+    <String>Crisis: New Drug - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_2c_Dec</Label>
+    <String>Unfortunately, our scientists have not been able to isolate the morale boosting aspect of the drug. We have however discovered a way to reverse its effect. People who take the drug now become very unhappy, though interestingly, also very productive. This has obviously resulted in less people wanting to take it, but those still addicted have become economic dynamos. 
+
+[COLOR=UIDefaultHighlight]-5% Morale and +33% Production for 100 turns on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_2d_Name</Label>
+    <String>Crisis: New Drug - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_2d_Dec</Label>
+    <String>Sadly, our attempts to commercialize this new miracle drug have not worked out too well. Most of the team we committed to the effort have become addicted to it themselves, and their feeble efforts have resulted in the drug escaping into the black market, where it's now being distributed across almost all our worlds.
+
+[COLOR=UIDefaultHighlight]Global +5% Morale and -5% Production for 50 turns on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_2e_Name</Label>
+    <String>Crisis: New Drug - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_2e_Dec</Label>
+    <String>Our researchers have found a way to concentrate the drug, safely amplifying its sedative effects. They believe that if it can be introduced to the population of a planet shortly before an invasion, it will effectively debilitate the locals so much that they will welcome our invasion forces with open arms.
+
+[COLOR=UIDefaultHighlight]Global Effect: +10% Soldiering, +10% Resistance[/COLOR]
+
+</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_3_Name</Label>
+    <String>Crisis: New Drug (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_3_Dec</Label>
+    <String>We have managed to purify the new drug on {PLANETNAME}, rendering it safer while increasing its more attractive aspects. However there is some concern that it has become too addictive for widespread use. Some of our test subjects claim they can no longer feel any joy without the drug.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_3_Choice1Dec</Label>
+    <String>Stop any further research, and wipe out the plant before its use becomes too widespread.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_3_Choice2Dec</Label>
+    <String>Restrict the plant from civilian use, retaining it for medical or research purposes only.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_3_Choice3Dec</Label>
+    <String>Sounds like a gold mine. Let's put it in to full production.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_3_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Malevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_3a_Name</Label>
+    <String>Crisis: New Drug - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_3a_Dec</Label>
+    <String>We have managed to wipe out the plants that are the source of the new drug discovered on {PLANETNAME}. Not only that, our researchers were able to create a synthetic version of the drug that is not addictive at all, though nowhere near as powerful. We should be able to distribute it for general use without any lasting downsides.
+
+[COLOR=UIDefaultHighlight]+5 Benevolent,  +15% Morale on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_3c_Name</Label>
+    <String>Crisis: New Drug - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_3c_Dec</Label>
+    <String>Our efforts to restrict usage of the new drug to the medical field on {PLANETNAME} seems to have been successful. Public usage has been reduced to almost nothing, and the drug's obvious use as a painkiller and therapeutic aid have proven to be very successful. 
+
+[COLOR=UIDefaultHighlight]+25% Research and +25% colony income on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_3e_Name</Label>
+    <String>Crisis: New Drug - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_3e_Dec</Label>
+    <String>This new drug has proven to be a commercial hit, the galaxy having an apparently bottomless appetite for it. The downsides, if there are any, will surely be offset by the sheer amounts of money this new enterprise is bringing in.
+
+[COLOR=UIDefaultHighlight]-1% Global Growth and +50% Income on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_3f_Name</Label>
+    <String>Crisis: New Drug - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Drugs_Choice_3f_Dec</Label>
+    <String>Unfortunately our formula for the newly refined drug was leaked, allowing criminals to refine the plant without us. Now not only do we have all the downsides of a rampantly addictive drug loose on our worlds, we're not even making any money off of it.
+
+[COLOR=UIDefaultHighlight]+5% Global Morale, -2% Global Production, -1% Global Growth for 50 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Name</Label>
+    <String>Crisis: The Fissure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Dec</Label>
+    <String>A giant fissure has opened up on a remote island on {PLANETNAME}, and enormous monsters have begun to emerge from it. The fissure seems to be a gateway to another universe, but all attempts to observe what's on the other side have thus far failed. The monsters seem to be under control when constrained to the island, but this is obviously a very dangerous situation. If they escaped the island there'd be little stopping them from causing havoc across the planet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice1Dec</Label>
+    <String>Let's attempt to study the monsters in place on the island.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice1BonusDec</Label>
+    <String>+10 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice2Dec</Label>
+    <String>Try to capture and domesticate the monsters.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice2BonusDec</Label>
+    <String>+10 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice3Dec</Label>
+    <String>Create giant robots to fight the monsters, and keep them from escaping the island.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice3BonusDec</Label>
+    <String>+10 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_1_Name</Label>
+    <String>Crisis: Monster Fissure (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_1_Dec</Label>
+    <String>We've begun our efforts to study the monster fissure and the resulting stream of monsters on {PLANETNAME}. Research is going well, and it looks like we might learn a great deal from these creatures.
+Unfortunately word of this "Monster Island" has leaked out, and unauthorized tourists are beginning to become an issue.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_1_Choice1Dec</Label>
+    <String>Turn the island into a formal tourist attraction, with rigid safety precautions.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_1_Choice2Dec</Label>
+    <String>Ban all tourism. Make sure only researchers have access to the monsters.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_1_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Science check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_1a_Name</Label>
+    <String>Crisis: Monster Fissure - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_1a_Dec</Label>
+    <String>Monster Island has become a huge success. Any incidents, of which there have been few, have widely been considered to be the tourists' fault.
+
+[COLOR=UIDefaultHighlight]+25% colony income on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_1c_Name</Label>
+    <String>Crisis: Monster Fissure - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_1c_Dec</Label>
+    <String>By limiting access to Monster Island to our own scientific teams, they've had unparalleled access to the monsters and rift itself, leading to several breakthroughs.
+
+[COLOR=UIDefaultHighlight]+30% Research on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_1d_Name</Label>
+    <String>Crisis: Monster Fissure - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_1d_Dec</Label>
+    <String>Sadly our researchers on Monster Island have become careless, allowing several monsters to escape to the mainland. Local authorities responded with a nuclear strike on the island, which, although it collapsed the fissure, did also destroy one of our most valuable research facilities. And, obviously, the researchers inside.
+
+[COLOR=UIDefaultHighlight]-10% Population on {PLANETNAME} and -50% Research for 50 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_2_Name</Label>
+    <String>Crisis: Monster Fissure (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_2_Dec</Label>
+    <String>We have managed to learn to control some of the monsters on {PLANETNAME}, though others have resisted - often violently - all our efforts. In addition, the monsters continue to come through the rift, and our researchers are concerned they will not have space for them on the island much longer.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_2_Choice1Dec</Label>
+    <String>Try and use these monsters as beasts of burden.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_2_Choice2Dec</Label>
+    <String>Turn the monsters into weapons.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_2_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_2a_Name</Label>
+    <String>Crisis: Monster Fissure - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_2a_Dec</Label>
+    <String>The monsters have proven relatively useful when used in large scale demolition and some of the more dangerous aspects of terraforming. We've even begun to export them to other worlds to assist in their terraforming needs. 
+
+[COLOR=UIDefaultHighlight]+30% colony income and +1 Tile on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_2c_Name</Label>
+    <String>Crisis: Monster Fissure - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_2c_Dec</Label>
+    <String>We've successfully managed to turn the monsters into mobile platforms of destruction. With them we will have a great - and cinematic - advantage in any future invasions.
+
+[COLOR=UIDefaultHighlight]Global Effect: +10% Soldiering and +10% Resistance for 100 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_2d_Name</Label>
+    <String>Crisis: Monster Fissure - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_2d_Dec</Label>
+    <String>Unfortunately our efforts to tame the monsters have failed, and if anything, taught them to be far more dangerous. Many monsters took the lessons taught to them to break free of the island, and reigned terror on a large portion of the colony before they could be stopped.
+
+[COLOR=UIDefaultHighlight]-33% Population on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_3_Name</Label>
+    <String>Crisis: Monster Fissure (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_3_Dec</Label>
+    <String>Not only have our use of giant robots to contain the monsters on {PLANETNAME} been successful, footage of their titanic struggles have been smuggled off world and become a viral sensation. We now have to deal with a stream of tourists - often very well-heeled tourists - coming to the island insisting on watching the fights.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_3_Choice1Dec</Label>
+    <String>We can't risk this. Seal the rift so we don't endanger any innocent lives.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_3_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Science check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_3_Choice2Dec</Label>
+    <String>Let's make monster fighting an official sport then. Turn the island into a virtual stadium for the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_3_Choice3Dec</Label>
+    <String>Lock down the island, and ban all rebroadcast of our containment efforts.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_3a_Name</Label>
+    <String>Crisis: Monster Fissure - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_3a_Dec</Label>
+    <String>Our researchers were able to seal the fissure, though not without cost, a large energy spike killing the crew that was doing the work. It's not all bad news though, their efforts made us realize this fissure was a type of controlled wormhole. Our researchers think they can use this knowledge to boost our hyperdrive performance.
+
+[COLOR=UIDefaultHighlight]+1 Global Ship Speed.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_3b_Name</Label>
+    <String>Crisis: Monster Fissure - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_3b_Dec</Label>
+    <String>We failed, in a sense. While trying to seal the rift on {PLANETNAME}, an explosion sucked the entirety of Monster Island into another universe. No more monsters, and no more rift, though the explosion also decimated a sizable chunk of the colony itself.
+
+[COLOR=UIDefaultHighlight]-33% Population on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_3c_Name</Label>
+    <String>Crisis: Monster Fissure - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_3c_Dec</Label>
+    <String>Our Monster League battles, as we're now calling them, have become a huge success. The rift seems to be responding to the challenge, the monsters that emerge from it getting bigger and bigger. Hey that's just more credits, right?
+
+[COLOR=UIDefaultHighlight]+33% colony Income.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_3e_Name</Label>
+    <String>Crisis: Monster Fissure - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Fissure_Choice_3e_Dec</Label>
+    <String>We seem to have stopped the illegal broadcast of the monster fights, and for the most part the existing videos are now being written off as fake.
+In addition we have discovered many uses for the corpse of the monsters, both for research and commercial purposes.
+
+[COLOR=UIDefaultHighlight]+33% colony Income and +15% Research on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Name</Label>
+    <String>Crisis: Mercenary Pirates</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Dec</Label>
+    <String>Rumor has begun to circulate of a new group of disciplined and deadly pirates that have begun operating around the borders of our civilization. They have not done much harm to us yet, but their growing reputation has the leaders of many of our outlying colonies concerned.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice1Dec</Label>
+    <String>Find out where they are coming from, so we can stop them at the source.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice1BonusDec</Label>
+    <String>+15 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice2Dec</Label>
+    <String>If they are effective killers, perhaps we can use them. Try and recruit these pirates.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice2BonusDec</Label>
+    <String>+15 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice3Dec</Label>
+    <String>We will never tolerate piracy in any form. Hunt them down and kill them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice3BonusDec</Label>
+    <String>+15 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_1_Name</Label>
+    <String>Crisis: Mercenary Pirates (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_1_Dec</Label>
+    <String>While investigating the mysterious new pirates, we have come to realize they are operating from a hidden planetary base somewhere within our own borders. 
+The planet seems to be of high quality given the resources that the pirates are able to muster.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_1_Choice1Dec</Label>
+    <String>Hunt down the pirates, but leave their world alone if they promise to stay on it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_1_Choice2Dec</Label>
+    <String>Find the pirates and force them to show us where this planet of theirs is.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_1_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_1_Choice3Dec</Label>
+    <String>Find the pirate world and destroy it, before they can become too powerful.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_1a_Name</Label>
+    <String>Crisis: Mercenary Pirates - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_1a_Dec</Label>
+    <String>Our commanders report a partial success. We were able to capture the main pirate force, and even salvaged a few of their ships. But we were not able to find out the location of their base.
+
+[COLOR=UIDefaultHighlight]1 Frigate, 2 Gunboats and 1 Battle Axe.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_1c_Name</Label>
+    <String>Crisis: Mercenary Pirates - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_1c_Dec</Label>
+    <String>We were able to track down most of the pirates and trace them back to their secret base. 
+We were able to capture it with little effort. though some of the pirates did manage to flee. They're pretty angry. 
+
+[COLOR=UIDefaultHighlight]New planet discovered. Small group of pirates spawn in your territory.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_1d_Name</Label>
+    <String>Crisis: Mercenary Pirates - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_1d_Dec</Label>
+    <String>We were able to track down the pirate base, but unfortunately when we arrived we found they had already fled the planet. The traps they've left behind have left it almost unlivable.
+
+[COLOR=UIDefaultHighlight]Low level planet Discovered, Multiple pirates spawn in your territory.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_1e_Name</Label>
+    <String>Crisis: Mercenary Pirates - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_1e_Dec</Label>
+    <String>We were able to track down the pirate secret base, and then drop a few asteroids on it. They won't be using that again. In addition we were able to capture several ships that were still in orbit when we arrived.
+
+[COLOR=UIDefaultHighlight]Award 2 Frigates[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_2_Name</Label>
+    <String>Crisis: Mercenary Pirates (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_2_Dec</Label>
+    <String>While tracking down the mysterious new pirates we've discovered that most of them are former members of our military. Spies report that many of them are potentially willing to come back into the fold, but others are by now hardened criminals, guilty of far more serious crimes than mutiny.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_2_Choice1Dec</Label>
+    <String>Offer them blanket immunity, as long as no further crimes are committed.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_2_Choice2Dec</Label>
+    <String>If they will give up the worst offenders the honest ones will be welcomed back with open arms.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_2_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_2_Choice3Dec</Label>
+    <String>Deserters all of them. Who needs them. Kill them all.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_2c_Name</Label>
+    <String>Crisis: Mercenary Pirates - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_2c_Dec</Label>
+    <String>The pirates have reluctantly surrendered the most wanted members, ending the crisis almost without bloodshed. Only one ship fled, but one more pirate in the galaxy is nothing to be too concerned about.
+
+[COLOR=UIDefaultHighlight]Award Battleship and 2 Frigates, 1 pirate spawn in your territory.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_2d_Name</Label>
+    <String>Crisis: Mercenary Pirates - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_2d_Dec</Label>
+    <String>Although some of the pirates were willing to turn over the worst offenders, those worst offenders were worse offenders for a reason. Vicious, and far better armed, they quickly destroyed the traitors. The pirates which remain are now extremely unhappy with us.
+
+[COLOR=UIDefaultHighlight]Multiple Pirates spawn in your territory.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_3_Name</Label>
+    <String>Crisis: Mercenary Pirates (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_3_Dec</Label>
+    <String>We've been relatively successful in confronting the mysterious new pirates, and have captured a great number of them. Many appear to be former members of our own military, using our equipment and training to forge a new life for themselves outside of what they feel is our too restrictive society.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_3_Choice1Dec</Label>
+    <String>Try and repatriate them back into the military.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_3_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Benevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_3_Choice2Dec</Label>
+    <String>Fine. Let them know that we will look the other way as long as they do it outside of our borders.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_3_Choice3Dec</Label>
+    <String>Not just pirates, but deserters and criminals then. Kill them all.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_3a_Name</Label>
+    <String>Crisis: Mercenary Pirates - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_3a_Dec</Label>
+    <String>While most of the pirates have been willing to come back to the military, bringing a small force of ships with them, others have fled deeper into the borderlands. We fear they'll be a problem in the future.
+
+[COLOR=UIDefaultHighlight]Award Battleship and 2 Frigates, a small force of pirates spawn in your territory.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_3b_Name</Label>
+    <String>Crisis: Mercenary Pirates - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_3b_Dec</Label>
+    <String>None of the pirates seem that interested in repatriation, and by reaching out to them they have become much more leery of us. We fear the next time we see them they'll be there to attack.
+
+[COLOR=UIDefaultHighlight]Multiple Pirates spawn in your territory.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_3c_Name</Label>
+    <String>Crisis: Mercenary Pirates - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_3c_Dec</Label>
+    <String>The pirates seem to have taken the hint, and moved outside of our borders. Indeed they seem to be making a lot of trouble for our enemies now. We'll call that a win.
+
+[COLOR=UIDefaultHighlight]+20 Pragmatic[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_3e_Name</Label>
+    <String>Crisis: Mercenary Pirates - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pirates_Choice_3e_Dec</Label>
+    <String>We were able to capture the main pirate force. Well, destroy it. That's good too. We did salvage a few of their ships though.
+
+[COLOR=UIDefaultHighlight]Award Frigate, 2 Gunboats and a Battle Axe.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Name</Label>
+    <String>Crisis: Mutations</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Dec</Label>
+    <String>{PLANETNAME} is reporting an unexpected rise in the number of mutations occurring within the colony. They have determined that something is contaminating the planet's biome, but have not been able to determine the source. All they know is that it doesn't seem to be a natural occurrence.
+Strangely, most of these mutations have had net positive effects on the colonists, with a very low fatality rate. This has only reinforced the local belief that they are being caused purposefully. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice1Dec</Label>
+    <String>Send a team to find out what is causing these mutations and stop them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice1BonusDec</Label>
+    <String>+15 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice2Dec</Label>
+    <String>Send a team to study the mutations and find out if we need to stop them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice2BonusDec</Label>
+    <String>+15 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice3Dec</Label>
+    <String>Send a team to find who is causing these mutations, and offer them a job.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice3BonusDec</Label>
+    <String>+15 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_1_Name</Label>
+    <String>Crisis: Mutations (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_1_Dec</Label>
+    <String>Our investigators on {PLANETNAME} have found the source of the recent mutations. It appears that a rogue team of our own researchers have found a way to reprogram Precursor nanites to modify the genetics of biological creatures. A commendable accomplishment, offset somewhat by them then releasing these nanites into the public.
+Luckily the nanites are not self-replicating, and their limited supply has restricted the amount of damage they've been able to do.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_1_Choice1Dec</Label>
+    <String>Arrest the researchers and put them to work undoing what they have done.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_1_Choice2Dec</Label>
+    <String>Arrest the researchers and seize their stockpile of Precursor nanites. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_1_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Science check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_1_Choice3Dec</Label>
+    <String>Arrest the researchers and turn their research over to the military.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_1a_Name</Label>
+    <String>Crisis: Mutations - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_1a_Dec</Label>
+    <String>The researchers have been very helpful in correcting the negative effects of their clandestine experiment.  
+They have even turned over their remaining supply of Precursor nanites.
+More importantly life on {PLANETNAME} has returned to normal.
+
+[COLOR=UIDefaultHighlight]+20 Benevolent, +5% Research on {PLANETNAME}, +1 Precursor Nanites.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_1c_Name</Label>
+    <String>Crisis: Mutations - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_1c_Dec</Label>
+    <String>We were able to stop the researchers, and turn them over to the local authorities. Not only that, we were also able to find their stash of Precursor nanites.
+
+[COLOR=UIDefaultHighlight]+10 Pragmatic, +10 Precursor Nanites[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_1d_Name</Label>
+    <String>Crisis: Mutations - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_1d_Dec</Label>
+    <String>Before we could arrest the researchers, they caught wind of our efforts, and released the remaining Precursor nanites into the atmosphere.
+While we were able to stop their experiment, there's no saying what the long term results of their actions will mean for {PLANETNAME}.
+
+[COLOR=UIDefaultHighlight]+10% Research, -5% Production, -10% Morale for 50 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_1e_Name</Label>
+    <String>Crisis: Mutations - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_1e_Dec</Label>
+    <String>We were able to arrest and stop the rogue researchers on {PLANETNAME}. Their research has been very enlightening to our military people, who believe they will be able to substantially, and more or less safely, use it to enhance the fighting ability of our soldiers.
+
+[COLOR=UIDefaultHighlight]Global Effect: +10% Soldiering and +10% Resistance for 100 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_2_Name</Label>
+    <String>Crisis: Mutations (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_2_Dec</Label>
+    <String>Our investigators on {PLANETNAME} have found that the strange wave of mutations in the colony has been caused by Precursor nanites that have somehow been programmed to restructure the genetics of anyone they infect.
+
+Though not all of the modifications are helpful to the victims, the majority are, and our researchers from the colony itself insist that the mutations are a net gain to the population of the colony.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_2_Choice1Dec</Label>
+    <String>No one should have their genetics tampered with unknowingly. Find who is doing this and stop them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_2_Choice2Dec</Label>
+    <String>Find who is doing this, so that we can make the process safer.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_2_Choice3Dec</Label>
+    <String>Make sure anyone who has a negative reaction to the mutations is "taken care of."</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_2_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Malevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_2a_Name</Label>
+    <String>Crisis: Mutations - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_2a_Dec</Label>
+    <String>We have found a group of rogue researchers responsible for the mutations on {PLANETNAME}. After confessing to their experiments, we were able to 'convince' them to use their research to reverse the damage they had done.
+
+[COLOR=UIDefaultHighlight]+20 Pragmatic, +10% Research on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_2c_Name</Label>
+    <String>Crisis: Mutations - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_2c_Dec</Label>
+    <String>We have found a group of rogue researchers responsible for the mutations on {PLANETNAME}. We have convinced them that if they work with us, and help make the process safer, they can avoid criminal charges.
+A morally dubious, but highly profitable arrangement.
+
+[COLOR=UIDefaultHighlight]+15% Research, and +15% Production on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_2e_Name</Label>
+    <String>Crisis: Mutations - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_2e_Dec</Label>
+    <String>We have quietly made sure that any and all adverse mutations on {PLANETNAME} are to be 'removed' from the population. Whoever is doing the experiments seems to be continuing their work, and the more helpful mutations seem to be having a positive effect throughout the colony. Everything from manufacturing, to research, to entertainment has seen measurable boosts. 
+
+[COLOR=UIDefaultHighlight]+25% Research, +15% Morale and +10% Production on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_2f_Name</Label>
+    <String>Crisis: Mutations - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_2f_Dec</Label>
+    <String>Our attempt to remove the more problematic mutants from the general population of {PLANETNAME} has backfired. Not only have the mutations continued to occur, people are now concerned about the uptick in "disappearances".
+
+[COLOR=UIDefaultHighlight]-10% Morale, -5% Research, and -5% Production for 50 turns on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_3_Name</Label>
+    <String>Crisis: Mutations (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_3_Dec</Label>
+    <String>We have found the rogue group of researchers on {PLANETNAME} that are responsible for the recent outbreak of mutations on the colony. Somehow they have learned to reprogram Precursor nanites to restructure the genetics of biological creatures. 
+Despite their clandestine methods they have been greatly successful, and would have been more so if they had not run out of Precursor nanites.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_3_Choice1Dec</Label>
+    <String>Turn the researchers over to the local authorities, and seize all their research.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_3_Choice2Dec</Label>
+    <String>Hire these researchers and establish an official lab dedicated to their work.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_3_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_3_Choice3Dec</Label>
+    <String>Provide the nanites, if they focus on mutations that will improve our soldiers.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_3_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_3a_Name</Label>
+    <String>Crisis: Mutations - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_3a_Dec</Label>
+    <String>We were able to stop the researchers and turned them over to the local authorities. Fortunately we also seized most of their research, including their remaining supply of Precursor nanites.
+
+[COLOR=UIDefaultHighlight]+5 Precursor Nanites and +25% Research on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_3c_Name</Label>
+    <String>Crisis: Mutations - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_3c_Dec</Label>
+    <String>The rogue researchers on {PLANETNAME} were happy to come out of the shadows when we offered them immunity for their crimes and their own government research lab. 
+The general population was not quite as happy when word of this arrangement leaked. Looks like we're going to be in for a bit of a morale hit.
+
+[COLOR=UIDefaultHighlight]-10% Morale, +25% Research, and +25% Colony Income on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_3d_Name</Label>
+    <String>Crisis: Mutations - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_3d_Dec</Label>
+    <String>Our negotiations with the rogue researchers on {PLANETNAME} were going well until the local press found out what they had been doing. A mob stormed the research facility and murdered the scientists responsible, one and all. Sadly all their research was lost, as well as any Precursors nanites that they still had.
+Needless to say, the general population is also not terribly happy to know we were willing to work with these criminals.
+
+[COLOR=UIDefaultHighlight]-33% Morale for 100 turns on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_3e_Name</Label>
+    <String>Crisis: Mutations - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mutations_Choice_3e_Dec</Label>
+    <String>Working quietly with the rogue researchers on {PLANETNAME}, our own scientists have been able to achieve some great results. Keeping the nature of this research quiet has proven to be more expensive then we had hoped however, though the end results should prove to be worth it.
+
+[COLOR=UIDefaultHighlight]+25% Research, +15% Production and -10% colony income on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Name</Label>
+    <String>Crisis: Painkiller</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Dec</Label>
+    <String>One of our colonies has been hit hard by a previously unknown disease that has crossed over from the native biome and has begun killing our colonists at an alarming 33% fatality rate. It is currently confined to a single continent, but there is concern that it will quickly become a global pandemic if left unchecked.
+One curious side effect of the disease is that the survivors appear to be left without the ability to experience pain of any kind. They are calling the disease "Painkiller".</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice1Dec</Label>
+    <String>We must stop this disease before it spreads across the colony. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice1BonusDec</Label>
+    <String>+15 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice2Dec</Label>
+    <String>Quarantine the colony, so that it doesn't spread off world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice2BonusDec</Label>
+    <String>+15 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice3Dec</Label>
+    <String>Immune to pain you say? Study these survivors, so that they might prove useful.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice3BonusDec</Label>
+    <String>+25 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_1_Name</Label>
+    <String>Crisis: Painkiller (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_1_Dec</Label>
+    <String>Limiting the spread of the "Painkiller" disease has proven to be very difficult. Despite our best efforts, it has managed to spread to the entire colony, and killed much of our original response team. With our limited manpower, it will infect the entire population in a matter of weeks.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_1_Choice1Dec</Label>
+    <String>Ask for volunteers to help fight the disease, and quarantine anyone trying to leave the colony.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_1_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Science check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_1_Choice2Dec</Label>
+    <String>Lock down the planet, but begin delivering emergency supplies to help those trapped there. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_1_Choice3Dec</Label>
+    <String>Quarantine the planet entirely, and destroy any ship that tries to escape.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_1a_Name</Label>
+    <String>Crisis: Painkiller - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_1a_Dec</Label>
+    <String>Our volunteer relief forces on {PLANETNAME} have had great success fighting the Painkiller disease, and managed to keep it from migrating off-planet. 
+In addition, by studying the disease, they have been able to not only find a cure, but also a method for isolating its analgesic properties, creating a new medication that should soothe the sick and wounded throughout the galaxy. 
+
+[COLOR=UIDefaultHighlight]+10 Pragmatic, +5% global morale, +5% global research.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_1b_Name</Label>
+    <String>Crisis: Painkiller - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_1b_Dec</Label>
+    <String>Most of our volunteer force on {PLANETNAME} has succumbed to the disease. Worse, as news of the pandemic spread, widespread rioting occurred, resulting in the deaths of anyone even accused of having symptoms. The only bright side to this tragedy is that the disease does finally seem to have been wiped out.
+
+[COLOR=UIDefaultHighlight]Planet population halved, -50% Morale for 25 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_1c_Name</Label>
+    <String>Crisis: Painkiller - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_1c_Dec</Label>
+    <String>Our supply drops on {PLANETNAME} have been very successful. The Painkiller disease has been brought completely under control, and our researchers there think they will have a cure for it soon.
+
+[COLOR=UIDefaultHighlight]+20 Benevolent, +10% Research on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_1e_Name</Label>
+    <String>Crisis: Painkiller - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_1e_Dec</Label>
+    <String>The Painkiller disease has run its course on {PLANETNAME}. Sadly, the population of the planet was devastated, but we have successfully kept the sickness from leaving the planet.
+We will never really know if we could have helped more. But we do know that this could have been much, much worse.
+
+[COLOR=UIDefaultHighlight]+33 Pragmatic and -33% Population.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_2_Name</Label>
+    <String>Crisis: Painkiller (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_2_Dec</Label>
+    <String>Our researchers on {PLANETNAME} have reported back. The "Painkiller" disease has spread throughout the colony, though they appear to have substantially reduced its mortality rate. 
+However they are concerned that even with these countermeasures, there is still a great risk of the disease escaping the planet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_2_Choice1Dec</Label>
+    <String>Lock down the planet, but begin delivering emergency supplies to help those trapped there. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_2_Choice2Dec</Label>
+    <String>Quarantine the planet entirely, and destroy any ship that tries to escape.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_2_Choice3Dec</Label>
+    <String>They'll be desperate. Make sure they know that we are recruiting for our military.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_2_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_3_Name</Label>
+    <String>Crisis: Painkiller (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_3_Dec</Label>
+    <String>The devastation of our colony from the "Painkiller" disease has been staggering, the population reduced by at least a third. The survivors though seem to be in perfect health - besides no longer being able to experience physical pain.
+But they are not at all happy with our decision to lock down their world and treat them as test subjects.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_3_Choice1Dec</Label>
+    <String>Have the military deliver humanitarian supplies. Let them know we support them. Maybe they'll join us.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_3_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_3_Choice2Dec</Label>
+    <String>There's a reason for it. Send in researchers to study the pain killing effect of the virus.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_3_Choice3Dec</Label>
+    <String>Let them know that the only way they will ever get off the planet is as soldiers. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_3a_Name</Label>
+    <String>Crisis: Painkiller - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_3a_Dec</Label>
+    <String>Our supply runs to the surface of {PLANETNAME} have been welcomed by the survivors of the Painkiller disease. Most of them simply want a way off their devastated planet. Fortunately for us, their peculiar conditions have made them valuable recruits.
+
+[COLOR=UIDefaultHighlight]+15% Soldiering globally, +25% Resistance and -15% Population on  {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_3b_Name</Label>
+    <String>Crisis: Painkiller - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_3b_Dec</Label>
+    <String>Despite our generous donations, the survivors on {PLANETNAME} do not generally seem to be interested in joining the military. In fact, it's been the exact opposite. These victims of the pandemic are proving to be the ruthless warriors as we hoped, but they're attacking our own recruiters.
+
+[COLOR=UIDefaultHighlight]-33% Population and -50% Morale for 50 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_3c_Name</Label>
+    <String>Crisis: Painkiller - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_3c_Dec</Label>
+    <String>Our researchers have made some interesting breakthroughs studying the victims of the "Painkiller" disease. They think they will be able to isolate the pain resistant effects of the virus, and use it to great effect both in the military and medical fields.
+Unfortunately {PLANETNAME}s population has paid a terrible price for this knowledge.
+
+[COLOR=UIDefaultHighlight]+10% Global Research, +5% Soldiering globally, -33% Population on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_3e_Name</Label>
+    <String>Crisis: Painkiller - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Pandemic_Choice_3e_Dec</Label>
+    <String>The situation on {PLANETNAME} has become so desperate that people have begun purposely infecting themselves, in hope of surviving the illness and becoming immune enough to be allowed to leave the planet.
+This has been a boon to our recruiters, as they now have no lack of newly painless soldiers volunteering to get off-world.
+
+[COLOR=UIDefaultHighlight]+15% Soldiering globally, -33% Population on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Name</Label>
+    <String>Crisis: Murderer on the loose</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Dec</Label>
+    <String>A series of murders on {PLANETNAME} have recently come to our attention. The local authorities haven't been able to find any suspects, or even a motive for the crimes, though they note that it might have something to do with the fact that each victim has had their brain completely removed.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice1Dec</Label>
+    <String>Investigate the local research facilities. They might know who would need so many brains.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice1BonusDec</Label>
+    <String>+15 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice2Dec</Label>
+    <String>Investigate the local authorities themselves. They must be covering something up.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice2BonusDec</Label>
+    <String>+15 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice3Dec</Label>
+    <String>Why the brain? Send researchers to see if they can find any clues that explain that.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice3BonusDec</Label>
+    <String>+25 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_1_Name</Label>
+    <String>Crisis: Murderer on the loose (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_1_Dec</Label>
+    <String>Our investigators have found the missing brains in a local research facility, but have been unable to locate the murderer. 
+Their only lead is an anonymous tip suggesting it's not a coincidence that this facility is one of the best in the galaxy, responsible for many recent breakthroughs.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_1_Choice1Dec</Label>
+    <String>That doesn't mean anything. Find the killer at any cost.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_1_Choice2Dec</Label>
+    <String>Make it loudly known that if the murders stop, you might stop your investigation.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_1_Choice3Dec</Label>
+    <String>Find the murderer, if brains are needed to boost research, we can provide them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_1_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Malevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_1a_Name</Label>
+    <String>Crisis: Murderer on the loose - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_1a_Dec</Label>
+    <String>The murderer on {PLANETNAME} has been found. Unfortunately, it's turned out to be one of our best researchers, using the brains of his victims to create a new sort of neural computer. The experiment over, we're now likely to see a drop in the planet's research capabilities.
+
+[COLOR=UIDefaultHighlight]+20 Pragmatic, +10% Morale and -25% Research for 25 turns on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_1c_Name</Label>
+    <String>Crisis: Murderer on the loose - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_1c_Dec</Label>
+    <String>Our message has been received, though we don't yet know by who. The murders have abruptly stopped, and life on {PLANETNAME} appears to be getting back to normal. Interestingly, the research center we found the brains in has experienced a sudden increase in output.
+
+[COLOR=UIDefaultHighlight]+10% Research on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_1e_Name</Label>
+    <String>Crisis: Murderer on the loose - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_1e_Dec</Label>
+    <String>With some quiet digging we have found the murderer on {PLANETNAME}. It's turned out to be one of our best researchers, who is building a new sort of neural computer with actual, living brains. It didn't take us more than a few quick trips to the bad areas in town to provide everything he needed to complete it.
+
+[COLOR=UIDefaultHighlight]+20 Malevolent, +20% Research on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_1f_Name</Label>
+    <String>Crisis: Murderer on the loose - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_1f_Dec</Label>
+    <String>We were able to find the murderer, but he did not seem interested in sharing his research with us. We did however learn a few things from the prototype neural computer he had been assembling thanks to his dark deeds, and his own brain will make a nice addition to its processing power.
+
+[COLOR=UIDefaultHighlight]+1% Research on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_2_Name</Label>
+    <String>Crisis: Murderer on the loose (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_2_Dec</Label>
+    <String>Our investigators on {PLANETNAME} have discovered that someone in the government appears to be covering up for the murders, to preserve the colony's reputation. {PLANETNAME} has been one of the more successful in our colonies, particularly when it comes to the quality of their research. 
+Someone at or near the top is trying to stop word of these murders from becoming common knowledge.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_2_Choice1Dec</Label>
+    <String>Let the government know that if they do not cooperate immediately, the murders will be the number one story on GNN.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_2_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_2_Choice2Dec</Label>
+    <String>Find out who is leading this cover-up, and arrest them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_2_Choice3Dec</Label>
+    <String>This seems like a local issue. Let them deal with it themselves.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_2a_Name</Label>
+    <String>Crisis: Murderer on the loose - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_2a_Dec</Label>
+    <String>The murders on {PLANETNAME} have abruptly stopped. Interestingly, a high profile research center on the colony run by the Governors brother has also experienced a sudden increase in output. These do not seem to be unrelated, but we're not going to push our luck any further.
+
+[COLOR=UIDefaultHighlight]+25% Research on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_2b_Name</Label>
+    <String>Crisis: Murderer on the loose - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_2b_Dec</Label>
+    <String>Although the murders on {PLANETNAME} have abruptly stopped, both the colony's governor and the head of our most productive research facility have abruptly vanished.
+This probably wasn't a coincidence.
+
+[COLOR=UIDefaultHighlight]-10% Morale, -10% Production and -10% Research for 25 turns on {PLANETNAME}.[/COLOR]
+</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_2c_Name</Label>
+    <String>Crisis: Murderer on the loose - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_2c_Dec</Label>
+    <String>Much to our surprise we have found that the governor of the colony himself has been covering up for the murders. He has been removed from his position, denying he did anything wrong.
+Interestingly, a high profile research center on the colony, run by his brother, has also experienced a sudden increase in output.
+
+[COLOR=UIDefaultHighlight]+25% Research on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_2e_Name</Label>
+    <String>Crisis: Murderer on the loose - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_2e_Dec</Label>
+    <String>The murders on {PLANETNAME} have slowed substantially, but not stopped. The steady drumbeat of deaths is beginning to frighten the civilians. 
+In somewhat positive, possibly unrelated news, a high profile research center on the colony run by the governor's brother has suddenly experienced a large increase in output.
+
+[COLOR=UIDefaultHighlight]+25% Research and -5% Morale on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_3_Name</Label>
+    <String>Crisis: Murderer on the loose (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_3_Dec</Label>
+    <String>Following a quiet investigation on {PLANETNAME}, we have discovered that the brains of the murdered victims were all from particular intelligent, if not successful citizens, each one known as a free thinker of some kind. Artists, scientists, performers.
+Our current theory is that someone is removing these brains to find out what they all have in common. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_3_Choice1Dec</Label>
+    <String>We have to protect our great minds. Find the murderer at any cost.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_3_Choice2Dec</Label>
+    <String>Have our researchers also try and figure out what the murderer is looking for. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_3_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_3_Choice3Dec</Label>
+    <String>Find the murderer. If brains boost their research, we can provide them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_3_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Malevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_3c_Name</Label>
+    <String>Crisis: Murderer on the loose - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_3c_Dec</Label>
+    <String>Our investigation into commonalities between the victim's brains has to lead us to a local research lab, whose scientists are attempting to create a new type of Neural network.
+It appears that the leader of this team is, if not the murderer himself, at least paying someone to gather brains for him. We have arrested him and seized his research. It looks promising, even without the supply of brains.
+
+[COLOR=UIDefaultHighlight]+15% Global Research for 100 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_3d_Name</Label>
+    <String>Crisis: Murderer on the loose - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Murderer_Choice_3d_Dec</Label>
+    <String>When it became known that we had established a team to track down the missing brains on {PLANETNAME}, the murders abruptly stopped.
+Unfortunately, both the colony's governor and the head of our most productive research facility on the planet also vanished around the same time. We are, for now, prepared to call this a coincidence and close the book on the matter.
+
+[COLOR=UIDefaultHighlight]-10% Morale, -10% Production and -10% Research for 25 turns on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Name</Label>
+    <String>Crisis: Distinguished Commander</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Dec</Label>
+    <String>A nearly complete Overload Class ship was stolen from our shipyards.
+
+Strangely, the commander of the deserter ship is reputed to be one of our best. In fact he recently returned from a very successful tour commanding a survey ship, during which his record was exemplary.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice1Dec</Label>
+    <String>Try and figure out why he would have stolen the ship, and convince him to bring it back.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice1BonusDec</Label>
+    <String>+15 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice2Dec</Label>
+    <String>Track down the deserter and take our ship back by force.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice2BonusDec</Label>
+    <String>+15 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice3Dec</Label>
+    <String>Hunt the deserter down, and execute them. Destroy the ship if necessary.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice3BonusDec</Label>
+    <String>+15 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_1_Name</Label>
+    <String>Crisis: Distinguished Commander (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_1_Dec</Label>
+    <String>The commander of the ship has refused to accept our hails, but we learned from his superiors that before he left he was talking about having to get back to a wormhole he had surveyed on his last tour. The 'future of the galaxy' depends on him apparently.
+Before he deserted they were considering putting him under psychological review, but hesitated, not wanting to ruin the reputation of such a well-respected commander.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_1_Choice1Dec</Label>
+    <String>Allow the commander to reach the wormhole, as long as he doesn't endanger anyone else.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_1_Choice2Dec</Label>
+    <String>Send his commanding officers to talk the Commander down. They know him. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_1_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_1_Choice3Dec</Label>
+    <String>Blockade the wormhole, and prevent the commander from entering it at all cost.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_1a_Name</Label>
+    <String>Crisis: Distinguished Commander - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_1a_Dec</Label>
+    <String>Shortly after arriving at the wormhole, the stolen Overlord intercepted some sort of giant space creature that was beginning emerge from it and engaged it in combat.
+The overlord was victorious but damaged badly, plunging into the wormhole itself. Our observers were about to depart when the ship re-emerged, this time with three of our survey ships in tow, ones we had thought lost forever.
+
+[COLOR=UIDefaultHighlight]Overlord Captured.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_1c_Name</Label>
+    <String>Crisis: Distinguished Commander - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_1c_Dec</Label>
+    <String>The commander of the stolen overlord agreed to allow his former Admiral to board the ship. But before the Admiral could talk sense into the rogue commander, they arrived at the wormhole, where a giant space monster was beginning to emerge. Our commander was telling the truth!
+The overlord engaged the beast and emerged victorious but damaged badly, plunging into the wormhole itself. Our observers were about to depart when the ship re-emerged, this time with three of our survey ships in tow, ones we had thought lost forever.
+
+[COLOR=UIDefaultHighlight]Overlord Captured, 3 Survey ships found.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_1d_Name</Label>
+    <String>Crisis: Distinguished Commander - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_1d_Dec</Label>
+    <String>The commander of the stolen Overlord agreed to allow his former Admiral to board the ship, and after a long conversation agreed to turn over command to him.
+Unfortunately while this was happening several space monsters began emerging from the wormhole. They quickly destroyed the Overlord, now being commanded by the confused Admiral, and escaped into our galaxy.
+
+[COLOR=UIDefaultHighlight]One large space monster appears.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_1e_Name</Label>
+    <String>Crisis: Distinguished Commander - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_1e_Dec</Label>
+    <String>We managed to blockade the wormhole and recapture the stolen Overlord. Unfortunately while we were focused on the deserters, a giant space monster began to emerge from the phenomena.
+During the attack, the deserter commander escaped in a shuttle filled with explosives, which he used to ram the space monster. The explosion that resulted not only killed the creature, it collapsed the wormhole forever.
+
+[COLOR=UIDefaultHighlight]Overlord Captured[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_2_Name</Label>
+    <String>Crisis: Distinguished Commander (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_2_Dec</Label>
+    <String>We have located the ship, and managed to make contact with a member of the crew. She claims that the commander has gone crazy, and is taking them to a wormhole that he claims he must take the ship through. The future of our civilization depends on it, he claims.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_2_Choice1Dec</Label>
+    <String>Send his commanding officers to try and talk to the Commander. But be ready to stop the ship if necessary.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_2_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Benevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_2_Choice2Dec</Label>
+    <String>Allow the ship to reach the wormhole. If nothing happens, capture the ship and crew alive if possible.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_2_Choice3Dec</Label>
+    <String>Demand he surrender the ship. If he doesn't, destroy it before it reaches the wormhole.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_2_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Malevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_2e_Name</Label>
+    <String>Crisis: Distinguished Commander - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_2e_Dec</Label>
+    <String>The commander of the stolen Overlord refused to surrender the ship, forcing us to engage it in battle. Unfortunately during the battle, a giant space monster began emerging from the wormhole.
+At this point, the deserter commander broke off the engagement and launched a shuttle filled with explosives into the creature, causing an explosion that not only killed the beast, but also collapsed the wormhole forever.
+
+[COLOR=UIDefaultHighlight]Overlord Captured[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_2f_Name</Label>
+    <String>Crisis: Distinguished Commander - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_2f_Dec</Label>
+    <String>The commander of the stolen Overlord has refused to surrender the ship. We were forced to engage them in battle, destroying the vessel. 
+Unfortunately during the battle, several large space monsters emerged from the wormhole and escaped into our universe, suggesting our insane commander may have been on to something. 
+
+[COLOR=UIDefaultHighlight]Several large space monsters appear.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_3_Name</Label>
+    <String>Crisis: Distinguished Commander (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_3_Dec</Label>
+    <String>We have located the ship, and rescued a member of the crew. She claims that the commander has gone crazy, and is taking them to a wormhole that he claims he must take the ship through. The future of our civilization depends on it, he claims.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_3_Choice1Dec</Label>
+    <String>Blockade the wormhole, and prevent the ship from entering it at all cost.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_3_Choice2Dec</Label>
+    <String>Demand that he surrender the ship. If he doesn't, destroy it before it reaches the wormhole.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_3_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_3_Choice3Dec</Label>
+    <String>Destroy the ship. Desertion can not be tolerated, even from one of our best.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_3e_Name</Label>
+    <String>Crisis: Distinguished Commander - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Deserters_Choice_3e_Dec</Label>
+    <String>We were able to intercept and destroy the stolen overlord, however, during the battle, some sort of giant space monster began emerging from the wormhole. Our surviving ships were able to collapse the wormhole, but one of the creatures managed to escape into our universe.
+
+[COLOR=UIDefaultHighlight]One large space monster appears.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Name</Label>
+    <String>Crisis: The Mad Governor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Dec</Label>
+    <String>The Governor of {PLANETNAME} has begun acting very erratically. We have received reports of him issuing strange edicts to the colony, mandating city-wide parties. Other reports have spoken of mass hallucinations and citizens disappearing off the streets.
+Whatever this mad governor is up to seems to be working though, as {PLANETNAME} has had an amazing boost in production recently.
+
+[COLOR=UIDefaultHighlight]+10% Production on {PLANETNAME} for 25 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice1Dec</Label>
+    <String>This sounds insane. Replace the governor immediately.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice1BonusDec</Label>
+    <String>+15 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice2Dec</Label>
+    <String>Send investigators to determine if there is a method to the governor's madness.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice2BonusDec</Label>
+    <String>+15 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice3Dec</Label>
+    <String>Let the governor continue with his crazy plans. It seems to be working.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice3BonusDec</Label>
+    <String>+15 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_1_Name</Label>
+    <String>Crisis: The Mad Governor (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_1_Dec</Label>
+    <String>We sent someone to replace the mad governor on {PLANETNAME}, but she vanished not long after her arrival.
+The existing governor has announced that his replacement was kidnapped by criminals, and vowed to find the culprits at any cost. 
+In the meantime, the colony is reporting even higher productivity than before.
+
+[COLOR=UIDefaultHighlight]Additional +10% Production and -5% Growth on {PLANETNAME} for 25 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_1_Choice1Dec</Label>
+    <String>Obviously the mad governor is behind the disappearance. Send in the military to remove him by force.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_1_Choice2Dec</Label>
+    <String>Well that's suspicious. Send in investigators to find out what's really going on.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_1_Choice3Dec</Label>
+    <String>Even higher productivity you say? Maybe we should just let him do his thing.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_1_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Malevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_1a_Name</Label>
+    <String>Crisis: The Mad Governor - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_1a_Dec</Label>
+    <String>Our forces have arrived on {PLANETNAME} and arrested the mad governor. They discovered that he had been drugging the entire population of the planet through the water supply - even himself.
+The drugs he used were formulated to "energize" the people, which they apparently did, aside from the small portion of the population that simply died.
+We should be able to return things to normal, but the planet's population will be going through withdrawal symptoms for some time.
+
+[COLOR=UIDefaultHighlight]+25 Benevolent, -50% Growth on {PLANETNAME} for 10 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_1e_Name</Label>
+    <String>Crisis: The Mad Governor - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_1e_Dec</Label>
+    <String>The mad governor on {PLANETNAME} has continued to govern the planet using his unique methods, and as near as we can tell, everything seems to be working. The planet is more productive than ever, though there are questions of how long they will be able to keep it up, seeing as population growth has veered into negative territory.
+Still, we can always send them more population.
+
+[COLOR=UIDefaultHighlight]+15% Production and -20% Growth on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_1f_Name</Label>
+    <String>Crisis: The Mad Governor - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_1f_Dec</Label>
+    <String>Word of a colony-wide tragedy on {PLANETNAME} has just reached us.
+As it turns out the governor there had been drugging the population for some time with various experimental substances designed to boost the planet's production. Although this seemed to be working for some time, the process has since gone too far, people literally working themselves to death. The planet has since broken out in to a global riot, killing the governor and most of his officials. 
+Things seem to have calmed down since then, though we expect production and morale to be low for quite some time.  
+
+[COLOR=UIDefaultHighlight]-25% Production and Morale for 50 turns on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_2_Name</Label>
+    <String>Crisis: The Mad Governor (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_2_Dec</Label>
+    <String>Our investigators have reached {PLANETNAME}, and been welcomed by the mad governor. 
+Most of the team seems convinced that the governor's behavior, however erratic, is h+DR192armless. The ones still around, at any rate - two members of the investigation team were set upon by street thugs and murdered not long ago. The governor assures us that the killers will be caught. 
+
+[COLOR=UIDefaultHighlight]+10% Production and -5% Growth on {PLANETNAME} for 25 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_2_Choice1Dec</Label>
+    <String>Order the remaining investigators to relieve the governor of duty. Bring him back to our homeworld to face charges.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_2_Choice2Dec</Label>
+    <String>Our investigators have been compromised. Send in the military to remove the governor by force.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_2_Choice3Dec</Label>
+    <String>Accidents happen. If the rest of the investigators are ok with him, let him do his thing.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_2_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Malevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_2a_Name</Label>
+    <String>Crisis: The Mad Governor - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_2a_Dec</Label>
+    <String>The investigators on {PLANETNAME} have arrested the governor there. They discovered that he had been drugging the entire population of the planet through the water supply - even himself.
+The drugs he used were formulated to "energize" the people, which they apparently did, aside from the small portion of the population that simply died.
+We should be able to return things to normal, but the planet's population will be going through withdrawal symptoms for some time.
+
+[COLOR=UIDefaultHighlight]+25 Pragmatic and -50% Growth on {PLANETNAME} for 10 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_3_Name</Label>
+    <String>Crisis: The Mad Governor (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_3_Dec</Label>
+    <String>Productivity on {PLANETNAME} continues to soar, but reports of strange disappearances, mass hallucinations, and widespread erratic behavior still persist. 
+More troubling, the growth rate of the planet has almost completely stalled. 
+
+[COLOR=UIDefaultHighlight]+10% Production and -50% Growth on {PLANETNAME} for 25 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_3_Choice1Dec</Label>
+    <String>Send investigators to make sure the mad governor is not doing any permanent damage.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_3_Choice2Dec</Label>
+    <String>Doing nothing seems to have worked pretty well so far, let's stick with that.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_3_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_3_Choice3Dec</Label>
+    <String>We need to find out what this guy is up to so we can reproduce it on all our worlds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_3a_Name</Label>
+    <String>Crisis: The Mad Governor - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_3a_Dec</Label>
+    <String>The governor on {PLANETNAME} admitted that he has been drugging the entire colony for some time. After much experimentation, he discovered a simple stimulant that can be introduced into the water supply, which makes people much more productive. 
+With some help from our researchers, we have been able to make sure this new stimulant is safe for consumption, and will continue the experiment. The only downside appears to be that people are now too busy to reproduce.
+
+[COLOR=UIDefaultHighlight]+10% Production and -10% Growth on {PLANETNAME} for 50 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_3e_Name</Label>
+    <String>Crisis: The Mad Governor - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Mad_Governor_Choice_3e_Dec</Label>
+    <String>The governor on {PLANETNAME} admitted that he has been drugging the entire colony for some time. After much experimentation, he discovered a simple stimulant that can be introduced into the water supply, which makes people much more productive. 
+The most recent version of it proven to be remarkably safe, the only observed downside being that people are too busy to reproduce.
+We think with a bit of work we can modify this to be employed on all our colonies.
+
+[COLOR=UIDefaultHighlight]Global +10% Production and -10% Growth for 50 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Name</Label>
+    <String>Crisis: The Dark Hub</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Dec</Label>
+    <String>We have noticed a large spike in illegal trade, both between our own worlds and involving goods from outside our borders.
+Rumor has it a pirate starbase called the Dark Hub has been established and is acting as a sort of criminal headquarters for surrounding worlds.
+If we're just noticing this now, it's likely been going for quite some time. Who knows what dangerous trades are occurring. Or how many credits we're missing out on.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice1Dec</Label>
+    <String>Find this starbase then capture and arrest any criminals.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice1BonusDec</Label>
+    <String>+15 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice2Dec</Label>
+    <String>Find this starbase so we can track down and learn more about this criminal syndicate.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice2BonusDec</Label>
+    <String>+15 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice3Dec</Label>
+    <String>Have our agents infiltrate and take over the base. We want a black market at our disposal.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice3BonusDec</Label>
+    <String>+15 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_1_Name</Label>
+    <String>Crisis: The Dark Hub (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_1_Dec</Label>
+    <String>Our forces have found the location of the Dark Hub, but we have discovered that for the most part, it is a thriving civilian starbase. Though the criminal influence is obvious, most of the population of the starbase are simple civilians, the vast majority from our own worlds.
+We are hopeful that this will make it easier to isolate the criminal element and remove it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_1_Choice1Dec</Label>
+    <String>Make it known that if the criminal activity stops immediately they can become a legitimate trading hub.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_1_Choice2Dec</Label>
+    <String>Try and convince the locals to turn over the criminal elements.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_1_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_1_Choice3Dec</Label>
+    <String>Seize control of the station and root out all the criminals.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_1_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_1a_Name</Label>
+    <String>Crisis: The Dark Hub - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_1a_Dec</Label>
+    <String>The offer of amnesty on the Dark Hub has been surprisingly successful. Some of the more notorious criminal elements seem to have disappeared from the base, but everyone else has been right on board.
+We are now in possession of a thriving trading base that should only become more profitable in the future.
+
+[COLOR=UIDefaultHighlight]+15 Benevolent, Award Dark Hub starbase, +25% to all trading income for 50 turns.[/COLOR]
+
+
+</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_1c_Name</Label>
+    <String>Crisis: The Dark Hub - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_1c_Dec</Label>
+    <String>We were able to convince most of the population of the Dark Hub starbase to cooperate and turn over the criminal syndicate that operated there. 
+Unfortunately, many of the criminals fled the station in well-armed ships before we could move in.
+The remaining population of the base is afraid of retaliation from these pirates, and has asked for our protection. In exchange for a new starbase, that seems reasonable.
+
+[COLOR=UIDefaultHighlight]Award Dark Hub starbase, +25% to all trading income for 50 turns, some Pirates appear.[/COLOR]
+</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_1d_Name</Label>
+    <String>Crisis: The Dark Hub - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_1d_Dec</Label>
+    <String>While a small portion of the population of the Dark Hub seemed willing to turn over the dangerous criminals on the base, those criminals were better armed than we first expected. A short, bloody conflict quickly settled the matter. Not in our favor.
+The criminal syndicate is now firmly in charge of the base and has brought in several more pirate ships to help protect it.
+
+[COLOR=UIDefaultHighlight]Dark Hub Pirate base is revealed in your territory, along with several pirate vessels.[/COLOR] </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_1e_Name</Label>
+    <String>Crisis: The Dark Hub - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_1e_Dec</Label>
+    <String>Our forces have taken control of the Dark Hub starbase, but unfortunately the leaders of the crime syndicate were able to escape in heavily armed ships before we arrived.
+This at least allowed us to capture the base intact, though the people who made it such a valuable trading hub have obviously all vanished.
+
+[COLOR=UIDefaultHighlight]Award Dark Hub starbase and some Pirates appear.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_1f_Name</Label>
+    <String>Crisis: The Dark Hub - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_1f_Dec</Label>
+    <String>Although our focus were able to briefly take control of the Dark Hub starbase, the leaders of the crime syndicate who operated it managed to escape in heavily armed ships before we arrived. These ships immediately turned on the base and destroyed it not long after. The civilian population of the base was completely lost, as well as many of our troops. In addition, the syndicate ships that escaped have begun raiding in our territory.
+
+[COLOR=UIDefaultHighlight]Several pirate vessels appear in your territory.[/COLOR] </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_2_Name</Label>
+    <String>Crisis: The Dark Hub (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_2_Dec</Label>
+    <String>Our forces have found the location of the Dark Hub, but we have discovered that for the most part, it is a thriving civilian starbase. Though the criminal influence is obvious, most of the population of the starbase are simple civilians, the vast majority from our own worlds.
+We are hopeful that this will make it easier to isolate the criminal element and remove it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_2_Choice1Dec</Label>
+    <String>Try and convince the locals to turn over the criminal elements.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_2_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_2_Choice2Dec</Label>
+    <String>Seize control of the station and root out all the criminals.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_2_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_2_Choice3Dec</Label>
+    <String>Seize the starbase, space the criminals, and evict anyone who was supporting them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_2e_Name</Label>
+    <String>Crisis: The  Dark Hub - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_2e_Dec</Label>
+    <String>Our forces were able to take control of the Dark Hub starbase. The civilian population quickly turned on the criminal syndicates who ran the place, and not only helped us capture the base but also several of the pirate ships stationed there.
+The only bad news is that most of the people who made the base such a valuable trading hub have been killed. 
+
+[COLOR=UIDefaultHighlight]Award Dark Hub starbase along with 1 frigate, and 2 Battle Axes.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_3_Name</Label>
+    <String>Crisis: The Dark Hub (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_3_Dec</Label>
+    <String>Our agents have located the Dark Hub starbase, and begun infiltrating the local crime syndicate running it. 
+Unfortunately, the base seems to have a large civilian population that continues to trade with many of our worlds. This may make it more difficult to take over the operation without a word of our involvement leaking out to the general population.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_3_Choice1Dec</Label>
+    <String>Yeah, it sounds like too much work. Space the criminals and evict anyone who was supporting them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_3_Choice2Dec</Label>
+    <String>Continuing in full control of our own crime network will be worth the risk of bad PR.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_3_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_3_Choice3Dec</Label>
+    <String>Send in the military, take anything valuable, and destroy the rat's nest before it grows larger.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_3_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Malevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_3c_Name</Label>
+    <String>Crisis: The Dark Hub - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_3c_Dec</Label>
+    <String>Our agents have fully taken over the criminal syndicate operating out of the Dark Hub starbase.
+It was messy work, but we now have a backchannel into their trading network and will soon gain access to a variety of lucrative deals and outlawed technologies. 
+This arrangement should prove very profitable at least as long as we are able to keep it a secret.
+
+[COLOR=UIDefaultHighlight]Award Dark Hub starbase, +10% Global income and Research for 100 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_3d_Name</Label>
+    <String>Crisis: The Dark Hub - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_3d_Dec</Label>
+    <String>Our agents have been uncovered while trying to take over the Dark Hub syndicate. The crime lord running the Dark Hub has declared it a pirate sanctuary, and is calling for reinforcements from criminal networks around the galaxy. Furthermore, he has made it well known that we were willing to support continued criminal activity as long as we could profit from it.
+This has not been good for our reputation in the galaxy.
+
+[COLOR=UIDefaultHighlight]-1 Diplomacy, Award Dark Hub starbase, several Pirates spawn in the territory[/COLOR]
+</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_3e_Name</Label>
+    <String>Crisis: The Dark Hub - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_3e_Dec</Label>
+    <String>Our forces have destroyed the Dark Hub starbase. Although the base was vigorously defended by both its civilian and criminal population, they were ultimately no match for our fleet.
+From the wreckage we were able to seize a large stash of credits, as well as several valuable resources that were being smuggled out of the base.
+
+[COLOR=UIDefaultHighlight]+15 Malevolent, +2500 Credits and +10 Arnor Spice.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_3f_Name</Label>
+    <String>Crisis: The Dark Hub - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Dark_Hub_Choice_3f_Dec</Label>
+    <String>Our forces have destroyed the Dark Hub starbase. Although the base was vigorously defended by both its civilian and criminal population, they were ultimately no match for our fleet. Unfortunately, most of the smartest criminals managed to escape before we arrived, taking with them most of the valuables thought to be on the base.
+
+
+[COLOR=UIDefaultHighlight]Several Pirates spawn in the territory[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Name</Label>
+    <String>Crisis: Symbiotes</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Dec</Label>
+    <String>Colonists on {PLANETNAME} have found the remains of an ancient spacecraft buried beneath the surface of the planet, technologically far beyond anything we have. Inside the ship lie the remains of thousands of alien creatures, all found with a strange creature buried deep within their abdomen. Strangely the creatures inside the corpses appear to be in some sort of hibernation.
+One local scientist realized that the creatures and the corpses used to live in some sort of symbiotic relationship and has asked permission to try and wake up one of the symbiotes.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice1Dec</Label>
+    <String>If we can revive a lost race we should do what we can. Just be careful.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice1BonusDec</Label>
+    <String>+15 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice2Dec</Label>
+    <String>We can not risk any sort of biological contamination. Tell them to focus on studying the ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice2BonusDec</Label>
+    <String>+15 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice3Dec</Label>
+    <String>Try and wake up one of the symbiotes and have it bond with a local "volunteer".</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice3BonusDec</Label>
+    <String>+15 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_1_Name</Label>
+    <String>Crisis: Symbiotes (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_1_Dec</Label>
+    <String>Our scientists were able to wake one of the symbiotes, though initially, they were not able to communicate with it at all.
+However, after an accident in the lab, the Symbiote infected one of them. To the surprise of everyone he survived and has bonded with the Symbiote. 
+Now the scientist claims to contain both his own and the Symbiote's consciousness and knowledge. "They" have already been of great assistance explaining the technology locked away in the ancient ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_1_Choice1Dec</Label>
+    <String>This is very concerning. Find a way to remove the creature from our scientist.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_1_Choice2Dec</Label>
+    <String>Interesting. Ask some more researchers to volunteer for this bonding.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_1_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_1a_Name</Label>
+    <String>Crisis: Symbiotes - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_1a_Dec</Label>
+    <String>We have been able to remove the creature from the scientist, but unfortunately he has begun suffering from some sort of mental withdrawal, and is now nearly catatonic. 
+The governor of {PLANETNAME} was greatly disturbed by this and has ordered all the remaining symbiotes destroyed. With the ancient ship now freed of these creatures, our researchers have been able to make several breakthroughs.
+
+[COLOR=UIDefaultHighlight]+15 Benevolent, +15% Research and Ship Construction on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_1c_Name</Label>
+    <String>Crisis: Symbiotes - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_1c_Dec</Label>
+    <String>Our scientists, now augmented with symbiotes, have begun making incredible breakthroughs while studying the ancient ship. Not only that, their enhanced intelligence has led to a corresponding increase in all research being conducted on the colony.
+
+[COLOR=UIDefaultHighlight]+50% Research  on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_1d_Name</Label>
+    <String>Crisis: Symbiotes - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_1d_Dec</Label>
+    <String>Many of our scientists were eager to volunteer to bond with the symbiotes, and at first things looked promising. 
+Unfortunately at one point, all communication from the scientists on the ship was cut, and the ship itself reactivated, apparently at the hands of the scientists themselves.
+Shortly after, the ship took off, tearing a large hole in the colony as it did so. Before we could intercept it, it vanished into some sort of controlled wormhole.
+Few lives were lost in the disaster, but the resulting dust plume will be doing environmental damage for years to come.
+
+[COLOR=UIDefaultHighlight]-15% Production and Morale on {PLANETNAME} for 100 turns.[/COLOR]
+</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_2_Name</Label>
+    <String>Crisis: Symbiotes (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_2_Dec</Label>
+    <String>The ancient ship on {PLANETNAME} has begun to reveal its mysteries. But the crew studying it have begun to act strangely - in fact, they seem to be making far too much progress studying the ship. 
+Wild, speculative predictions that are always revealed to be accurate. The colonial government has grown suspicious. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_2_Choice1Dec</Label>
+    <String>Withdraw the crew studying the ship. Make sure they have not been compromised.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_2_Choice2Dec</Label>
+    <String>Someone has been waking up Symbiotes. Lock down the site to avoid further contamination.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_2_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_2_Choice3Dec</Label>
+    <String>We need to act fast. Send in the military to sterilize the ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_2a_Name</Label>
+    <String>Crisis: Symbiotes - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_2a_Dec</Label>
+    <String>The crew has been safely returned from the ancient ship, and indeed we have found all of them have been infected with the alien symbiotes. In worse news, any attempt to remove the creatures would be fatal. 
+The upside is that the symbiotes seem to greatly boost the intelligence of their hosts, and the crew now claim to have ancient memories in their heads. Otherwise, they seem normal, as long as they are kept away from the ship.
+We have transferred the infected crew to a remote research center, where they can continue to work in well-guarded safety.
+
+[COLOR=UIDefaultHighlight]+50% Research  on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_2c_Name</Label>
+    <String>Crisis: Symbiotes - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_2c_Dec</Label>
+    <String>After sealing off the ancient ship, we have made contact with the research team. They admit that they have all bonded with the symbiotes, and that these creatures mean us no harm. Our researchers claim that they are still themselves, just now with the memories of ancient beings inside them.
+The local government has agreed to let them continue to study and repair the ancient ship, as long as they continue to share with us what they learn.
+
+[COLOR=UIDefaultHighlight]+15 Pragmatic +15% Research and Ship Construction on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_2d_Name</Label>
+    <String>Crisis: Symbiotes - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_2d_Dec</Label>
+    <String>While sealing off the site of the ancient ship, the compromised crew activated some sort of energy barrier, cutting off all communications to the ship.
+Shortly after losing contact with our team, the entire ship came to life and took off, tearing a large hole in the colony. Before we could intercept it vanished into some sort of controlled wormhole. 
+The ship and all its knowledge have been lost, and the resulting dust plume will be doing environmental damage for years to come.
+
+[COLOR=UIDefaultHighlight]-15% Production and Morale for 100 turns on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_2e_Name</Label>
+    <String>Crisis: Symbiotes - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_2e_Dec</Label>
+    <String>Our soldiers were able to capture the ship, despite attempts by the research crew to stop them by raising some sort of energy field around the ship. Fortunately, many of our forces had already entered the ship when the field went up, and were able to eliminate the infected scientists and lower the field.
+Fearing contamination, the military has since burned all the remaining symbiotes on the ship, leaving just the hardware behind for us to study and adapt as our own. 
+
+[COLOR=UIDefaultHighlight]+10% Research and 25% Ship Construction on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_3_Name</Label>
+    <String>Crisis: Symbiotes (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_3_Dec</Label>
+    <String>We have successfully bonded one of the Symbiotes with a local thief who will not be missed.  Strangely the results of the bond have been to make the thief much stronger and smarter.
+Our scientists believe that these Symbiotes greatly augment the talent of their host while retaining the memories of both individuals.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_3_Choice1Dec</Label>
+    <String>Interesting. Ask some of our researchers to volunteer. They're smarter and less thief-like.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_3_Choice2Dec</Label>
+    <String>Ask for volunteers from the best and brightest of the colony's population.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_3_Choice3Dec</Label>
+    <String>These Symbiotes seem too valuable to waste. Send the entire lot of them to the military.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_3_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_3c_Name</Label>
+    <String>Crisis: Symbiotes - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_3c_Dec</Label>
+    <String>Recruiting the best and brightest of the colony's population to bond with the symbiotes has proven very effective. While the more scientifically minded of the volunteers seem to become obsessed with studying the lost ship itself, other symbiote-colonist pairs seem content to do anything else.
+Apparently the race they were formerly bonded with was obsessed with technology, and are they now very happy to be working on other things.
+
+[COLOR=UIDefaultHighlight]+15% Research, Morale and Production on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_3e_Name</Label>
+    <String>Crisis: Symbiotes - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_3e_Dec</Label>
+    <String>Our military on {PLANETNAME} has made good use of the alien symbiotes. These symbiotes now augment our soldiers, engineers, and even several of our best commanders. Furthermore, technology from the ancient ship itself has made it possible to greatly increase our ship construction and overall defensive capabilities.
+
+[COLOR=UIDefaultHighlight]+25% Resistance and +25% Ship Construction on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_3f_Name</Label>
+    <String>Crisis: Symbiotes - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Symbionts_Choice_3f_Dec</Label>
+    <String>Shortly after turning over the symbiotes to the military, {PLANETNAME} was rocked by a huge explosion.
+It was discovered some of the newly bonded engineers were secretly doing experiments on the ancient ship, apparently trying to bring some sort of weapon system back online.  
+The weapon worked rather too well, blowing up the buried ship, and a large portion of the planet. The resulting dust plume will be doing environmental damage for years to come.
+
+[COLOR=UIDefaultHighlight]-15% Production and Morale for 100 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Name</Label>
+    <String>Crisis: Strip Mining</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Dec</Label>
+    <String>The governor of {PLANETNAME} has informed us that engineers have discovered a thin layer of Thulium just below the surface of the colony. It appears to cover the entire planet.
+They believe they can recover a great deal of this rare resource, but have not been able to find a way to mine it that does not devastate the surface, making it almost unusable for any other purpose.
+
+{PLANETNAME} is home to a thriving colony and is known for its natural beauty. Our scientists warn that mining this resource to its fullest would eventually convert the world to a barren wasteland. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice1Dec</Label>
+    <String>We can find Thulium in many places, but not successful colonies. Leave the Thulium where it is.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice1BonusDec</Label>
+    <String>+15 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice2Dec</Label>
+    <String>Mine as much as we can without damaging the environment too much.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice2BonusDec</Label>
+    <String>+15 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice3Dec</Label>
+    <String>We have other planets, and Thulium is very useful. Strip mine the planet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice3BonusDec</Label>
+    <String>+15 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_1_Name</Label>
+    <String>Crisis: Strip Mining (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_1_Dec</Label>
+    <String>Despite banning the mining of Thulium on {PLANETNAME}, criminal elements have established small mines in remote locations around the planet. Thulium from the world is beginning to show up on the black market.
+These illegal mines are also having an adverse effect on the planet, the amount of Thulium particulates in the atmosphere having risen to potentially dangerous levels.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_1_Choice1Dec</Label>
+    <String>Crack down on the smugglers. We must stop the mining.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_1_Choice2Dec</Label>
+    <String>Offer the smugglers amnesty if they obey our standards, and sell us the Thulium they recover.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_1_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_1a_Name</Label>
+    <String>Crisis: Strip Mining - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_1a_Dec</Label>
+    <String>We were able to stop the smuggling ring on {PLANETNAME} before they did too much environmental damage, and even recovered some of the Thulium they had mined.
+
+[COLOR=UIDefaultHighlight]+20 Benevolent, +5 Thulium.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_1c_Name</Label>
+    <String>Crisis: Strip Mining - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_1c_Dec</Label>
+    <String>By offering the smugglers on {PLANETNAME} legitimacy, we were able to create a small but relatively safe Thulium mining guild.
+In fact the now ex-smugglers have become so protective of their monopoly, that they have proven quite effective at making sure no one else opens a new mine on the planet.
+
+[COLOR=UIDefaultHighlight]+1 Thulium every other turn, and +10% Planetary Income on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_1d_Name</Label>
+    <String>Crisis: Strip Mining - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_1d_Dec</Label>
+    <String>Our offer of legitimacy to the smugglers looked like it was going to work, but unfortunately once word leaked out that we were considering an amnesty, hundreds of new mining operations started on the surface. 
+With some help from the military, we were able to shut these new mines down, but a great deal of environmental damage had already been done.
+
+[COLOR=UIDefaultHighlight]-25% Morale on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_2_Name</Label>
+    <String>Crisis: Strip Mining (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_2_Dec</Label>
+    <String>Our engineers on {PLANETNAME} have presented several options to mine the newly discovered Thulium layer.
+
+Option 1. Use nanobots in a subsurface honeycomb pattern, preserving the surface integrity of the planet.
+
+Option 2. Establish smaller mines in remote unpopulated areas. 
+
+Option 3. Surround the existing population centers with domes. We protect the air quality and enough usable land for them to continue to survive.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_2_Choice1Dec</Label>
+    <String>Use the Nanobots, Option 1.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_2_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Science check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_2_Choice2Dec</Label>
+    <String>Remote mining sounds promising, let's go with option 2.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_2_Choice3Dec</Label>
+    <String>Option 3, the colonists will adapt, and Thulium is rare enough to be worth it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_2_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_2a_Name</Label>
+    <String>Crisis: Strip Mining - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_2a_Dec</Label>
+    <String>The nanobot mining on {PLANETNAME} has been very successful. The environment seems to be unaffected, and we should be able to continue extracting Thulium for years to come.
+
+[COLOR=UIDefaultHighlight]+1 Thulium every other turn on {PLANETNAME}.[/COLOR]
+</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_2b_Name</Label>
+    <String>Crisis: Strip Mining - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_2b_Dec</Label>
+    <String>The nanobot mining on {PLANETNAME} has run into some complications. Apparently our engineers over-estimated the structural integrity of the Thulium cavities that they were creating.
+The end result has been repeated earthquakes and increased volcanic activity, and all the disruption you'd expect from that.
+
+[COLOR=UIDefaultHighlight]+1 Thulium every 10 turns, -10% Production, -10% morale on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_2c_Name</Label>
+    <String>Crisis: Strip Mining - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_2c_Dec</Label>
+    <String>Our remote mines on {PLANETNAME} have begun to yield results. With proper safety and environmental precautions, we see no reason why they cannot continue to operate for years to come. 
+We are having some problems with environmental activists, but for the most part the rest of the population seem convinced that we are being safe.
+
+[COLOR=UIDefaultHighlight]-5% Morale and +1 Thulium every other turn on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_2e_Name</Label>
+    <String>Crisis: Strip Mining - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_2e_Dec</Label>
+    <String>After a heated debate, our security forces on {PLANETNAME} have convinced the colonists to allow us to create the Dome system that will allow for wide spread Thulium mining. Planetary morale has taken a big hit, but our Thulium mines are now operating at full capacity.
+
+[COLOR=UIDefaultHighlight]+1 Thulium every 5 turns and -10% Morale on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_2f_Name</Label>
+    <String>Crisis: Strip Mining - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_2f_Dec</Label>
+    <String>Our plan to move the population of {PLANETNAME} into domes has not gone well. The population is in near revolt, and has declared war on anyone trying to mine the Thulium. This has lead to the outright murder of many of our engineers. We do not see any way forward with mining other than the institution of martial law, up to and including arresting almost the entire population of the colony.
+
+[COLOR=UIDefaultHighlight]-25% Production, -50% Morale for 50 turns on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_3_Name</Label>
+    <String>Crisis: Strip Mining (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_3_Dec</Label>
+    <String>Our mining efforts on {PLANETNAME} have begun to pay off. But the population is not happy, the mining having led to high levels of Thulium particulates in the atmosphere. People are starting to get sick.
+We think we can limit the environmental impact, but the more we do the less of the resource we will be able to recover.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_3_Choice1Dec</Label>
+    <String>Limit the mining to remote areas, to avoid too much atmospheric damage.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_3_Choice2Dec</Label>
+    <String>Build domes around the existing settlements to protect them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_3_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_3e_Name</Label>
+    <String>Crisis: Strip Mining - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Strip_Mining_Choice_3e_Dec</Label>
+    <String>Thulium production on {PLANETNAME} is booming. The local population seems to have taken the hint and has begun migrating off the planet in record numbers.
+At the current rate, our miners will have the entire planet at their disposal within a few short years.
+
+
+[COLOR=UIDefaultHighlight]+1 Thulium per 5 turns, -10% Morale and -50% Growth on {PLANETNAME}.[/COLOR]
+</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Name</Label>
+    <String>Crisis: Precursor Power Plant</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Dec</Label>
+    <String>One of our survey ships has recovered a huge Precursor artifact drifting through deep space. After some investigation, they have determined that it is some sort of gravitational power source. It appears to require a planet to operate, but the potential power it could generate is staggering. That said, we are not sure what the effect on the planet itself would be.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice1Dec</Label>
+    <String>It sounds dangerous, leave it where we found it. But send a research crew to dismantle it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice1BonusDec</Label>
+    <String>+15 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice2Dec</Label>
+    <String>Tow it to a dead world so we can test it there.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice2BonusDec</Label>
+    <String>+15 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice3Dec</Label>
+    <String>Take it to the nearest colony and see if they can make it work.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice3BonusDec</Label>
+    <String>+15 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_1_Name</Label>
+    <String>Crisis: Precursor Power Plant (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_1_Dec</Label>
+    <String>While we have learned much by dismantling the Precursor power plant. At its core appears to be a small contained singularity that reacts to other large gravitational fields. The shield that encapsulates the singularity is like nothing we have ever seen before, controlled by an artificial intelligence operating on the fastest computing device we have ever encountered.
+The rest of the structure is effectively a giant turbine meant to capture this gravitational force generated by the singularity.
+Unfortunately while disassembling the artifact was within our capability, putting it back together appears to be impossible.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_1_Choice1Dec</Label>
+    <String>Let's try our best to reproduce the phenomena that power the device.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_1_Choice2Dec</Label>
+    <String>Study the AI controlling the device. Maybe it can help show us what makes it so powerful.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_1_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Science check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_1_Choice3Dec</Label>
+    <String>Study the shielding surrounding the Singularity and try to reproduce it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_1_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_1a_Name</Label>
+    <String>Crisis: Precursor Power Plant - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_1a_Dec</Label>
+    <String>Our researchers have been able to reproduce the technology behind the Precursor power plant, at least on a small scale. This new Gravitation power system should be a great boon to our civilization's production, galaxy-wide.
+
+[COLOR=UIDefaultHighlight]+15 Pragmatic and +5% Global Production.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_1c_Name</Label>
+    <String>Crisis: Precursor Power Plant - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_1c_Dec</Label>
+    <String>Our researchers at the Precursor power plant have managed to isolate the artificial intelligence controlling the device. With some convincing, it has now agreed to help us in our research. 
+Unfortunately, when this happened, it ejected the shield singularity into a nearby star. We were forced to flee the area with only the AI in tow. The rest of the artifact has been destroyed.
+
+[COLOR=UIDefaultHighlight]+15% global Research for 100 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_1d_Name</Label>
+    <String>Crisis: Precursor Power Plant - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_1d_Dec</Label>
+    <String>While studying the artificial intelligence controlling the Precursor power plant, our researchers seem to have done something to threaten it. From what we have been able to piece together from communication fragments, the AI deliberately dropped the containment shield around the singularity, causing the artifact and all of our researchers to be sucked into the newly forming black hole. 
+
+[COLOR=UIDefaultHighlight]-5% global Research for 10 turns.[/COLOR]
+</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_1e_Name</Label>
+    <String>Crisis: Precursor Power Plant - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_1e_Dec</Label>
+    <String>We have been able to mostly reproduce the shield technology being used by the Precursor power plant, and should be able to use it to greatly enhance the shield systems of our own ships.
+Unfortunately, the AI controlling the shield seems to have figured out what we were trying to do and shut down the shield around the singularity. The artifact - and most of our researchers - have since been sucked into a newly formed black hole. 
+
+[COLOR=UIDefaultHighlight]+1 Shield Strength to all ships.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_1f_Name</Label>
+    <String>Crisis: Precursor Power Plant - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_1f_Dec</Label>
+    <String>While trying to reproduce the shield technology being used by the Precursor power plant, the AI controlling the shield seems to have figured out what we were trying to do and shut down the shield around the singularity. The artifact - and most of our researchers - have since been sucked into a newly formed black hole.
+
+[COLOR=UIDefaultHighlight]-5% global Research for 10 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_2_Name</Label>
+    <String>Crisis: Precursor Power Plant (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_2_Dec</Label>
+    <String>We found a dead world to test the Precursor Power Plant on. Upon activation, the artifact created a powerful force field that surrounded the planet. The field appears to be impenetrable, but generating huge amounts of power we can tap for just about any use.
+Unfortunately, the bond with the planet seems to be unbreakable, short of destroying the power planet entirely. So if we want to use this power we will need to do it here.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_2_Choice1Dec</Label>
+    <String>Establish a research base near the planet, and use it to power our research.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_2_Choice2Dec</Label>
+    <String>Use the power to charge batteries that can boost production throughout our civilization.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_2_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_2_Choice3Dec</Label>
+    <String>Build a munitions base near the planet, and use the power to create weapons.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_2_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_2a_Name</Label>
+    <String>Crisis: Precursor Power Plant - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_2a_Dec</Label>
+    <String>Our newly constructed research base near the Precursor power plant has gone fully into operation. Despite its remote location, the access to nearly unlimited power has made it one of our most prolific research centers.
+
+[COLOR=UIDefaultHighlight]+15% global Research for 100 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_2c_Name</Label>
+    <String>Crisis: Precursor Power Plant - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_2c_Dec</Label>
+    <String>Our newly constructed manufacturing base near the Precursor power plant has gone fully into operation. They have begun producing powerful power cells charged by the artifact, and are now shipping these to manufacturing centers throughout our civilization.
+
+[COLOR=UIDefaultHighlight]+15% global Manufacturing for 100 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_2d_Name</Label>
+    <String>Crisis: Precursor Power Plant - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_2d_Dec</Label>
+    <String>Construction on our base near the Precursor power plant was going well until the plant itself turned on some sort of previously unknown defense system. Our forces in the area were immediately disintegrated by a powerful beam drawn from an energy source hidden somewhere within the planet. 
+We have not been able to enter the system since. 
+
+[COLOR=UIDefaultHighlight]-5% global Research for 25 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_2e_Name</Label>
+    <String>Crisis: Precursor Power Plant - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_2e_Dec</Label>
+    <String>Our newly constructed munitions base near the Precursor power plant has gone fully into operation, and begun producing powerful explosives and power cells for our beam weapons. We have already begun distributing them throughout the fleet. 
+
+[COLOR=UIDefaultHighlight]+10% to Missile and Beam weapons on all our ships.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_3_Name</Label>
+    <String>Crisis: Precursor Power Plant (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_3_Dec</Label>
+    <String>Upon its arrival near {PLANETNAME} our researchers activated the Precursor power plant and watched as the artifact instantly created a powerful force field that surrounded the planet. 
+The good news is the field generates huge amounts of power we should be able to tap for just about any use.
+The bad news is the field is impenetrable and {PLANETNAME}'s population is trapped inside. Currently, they seem to be unharmed and functioning normally, but they will never leave the planet as long as the artifact is active.
+Unfortunately, the bond with the planet seems to be unbreakable by anything short of destroying the power planet itself.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_3_Choice1Dec</Label>
+    <String>Destroy the artifact and free the population of the planet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_3_Choice2Dec</Label>
+    <String>Divert all power to the shipyard and let the population know their sacrifice will not be in vain.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_3_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Malevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_3a_Name</Label>
+    <String>Crisis: Precursor Power Plant - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_3a_Dec</Label>
+    <String>With some luck, we were able to remove the Precursor power plant that had sealed off {PLANETNAME}. When we opened fire on the device it seems to have gone into some sort of lockdown mode, and shut down the shield. Before we could investigate further, it had begun to move out of the system at hyper-warp speeds.
+
+[COLOR=UIDefaultHighlight]+20 Pragmatic and +30% Morale on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_3c_Name</Label>
+    <String>Crisis: Precursor Power Plant - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_3c_Dec</Label>
+    <String>We have diverted power from the Precursor power plant surrounding {PLANETNAME} to the local shipyard. This has led to an amazing production boost, far greater than anything we expected.
+Unfortunately, the energy field is having some adverse effects on the population of the planet. As in, we don't expect them to be around much longer. 
+
+[COLOR=UIDefaultHighlight]+15% Ship Construction, -50% Population and -50% Growth on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_3d_Name</Label>
+    <String>Crisis: Precursor Power Plant - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Power_Plant_Choice_3d_Dec</Label>
+    <String>When the citizens of {PLANETNAME} realized we were going to leave them sealed inside the energy field generated by the Precursor power plant, they, as expected, did not take it well.
+After some hasty construction, they built a ship capable of reaching the artifact on the inside of the shield, and attempted to blow it up with nuclear charges. Immediately the artifact went into some sort of protective mode, and shut down the field before moving out of the system at hyper-warp speeds, taking a large portion of the planet's atmosphere with it.
+
+[COLOR=UIDefaultHighlight]-10% Population on {PLANETNAME}, and -25% Morale for 50 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Name</Label>
+    <String>Crisis: Change of Heart</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Dec</Label>
+    <String>A notorious smuggler based out of {PLANETNAME} let it be known that he wants to start a legitimate shipping concern.
+The smuggler is known for being a genius with logistics and has an uncanny ability to acquire rare items and resources. 
+Unfortunately, he also has a reputation for being willing to work with anyone, including several criminal syndicates and pirate groups.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice1Dec</Label>
+    <String>Let him know we are willing to consider it if he helps arrest the more notorious of his former customers.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice1BonusDec</Label>
+    <String>+15 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice2Dec</Label>
+    <String>Allow him to start trading openly, but keep a real close eye on him.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice2BonusDec</Label>
+    <String>+15 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice3Dec</Label>
+    <String>Make sure he knows that anything is possible for the right price.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice3BonusDec</Label>
+    <String>+15 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_1_Name</Label>
+    <String>Crisis: Change of Heart (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_1_Dec</Label>
+    <String>The smuggler on {PLANETNAME} has already established a thriving concern, and at this point there is no evidence he's engaged in anything shady. But none of the information he provided us about his former customers has panned out.
+We are not sure if the criminals have just gone into hiding when he flipped on them or if the information itself was false.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_1_Choice1Dec</Label>
+    <String>Let's take him at his word for now. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_1_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_1_Choice2Dec</Label>
+    <String>Tell him if he does not provide some useful information he will be spending his retirement in a cell.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_1_Choice3Dec</Label>
+    <String>Send an agent to infiltrate this new business and find out if he is truly on the up and up.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_1_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_1a_Name</Label>
+    <String>Crisis: Change of Heart - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_1a_Dec</Label>
+    <String>Much to our surprise, the smuggler on {PLANETNAME} appears to have gone fully legitimate. Criminal activity in the area has been greatly reduced. The colony's trade income has spiked, and the overall economy of the planet is looking much better.
+Apparently, every once in a while, someone can genuinely change their heart.
+
+[COLOR=UIDefaultHighlight]+15 Benevolent, +5% Global trade income, +25% Colony Income on {PLANETNAME}.[/COLOR]
+</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_1b_Name</Label>
+    <String>Crisis: Change of Heart - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_1b_Dec</Label>
+    <String>Much to our surprise, the smuggler on {PLANETNAME} appears to have gone fully legitimate. Unfortunately, it appears his former clients were not impressed with his life choice, and only a few days after his new trading concern began did they brutally murder him in his mansion. 
+Many of his former employees have also gone missing, though whether they were fellow victims or the perpetrators we may never know.
+
+[COLOR=UIDefaultHighlight]-25% Colony Income on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_1c_Name</Label>
+    <String>Crisis: Change of Heart - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_1c_Dec</Label>
+    <String>After the application of some pressure, the smuggler on {PLANETNAME} has admitted that he did not provide entirely accurate information on the identity of the worst of his former clients. With some assurance that his safety would be guaranteed, we were able to convince him to provide a little more, and with this information we were able to essentially shut down all the organized crime on and around {PLANETNAME}.
+
+[COLOR=UIDefaultHighlight]+5% Global trade income, +25% Colony Income and Morale on {PLANETNAME} for 50 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_1e_Name</Label>
+    <String>Crisis: Change of Heart - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_1e_Dec</Label>
+    <String>Our agents have worked their way into the inner circles of the smuggler on {PLANETNAME}'s new trade concern. The smuggler is indeed trying to go legit, but has been holding back information on his former clients out of concern for his life.
+With some work our agents were able to find the names and locations of most of these criminals, and we have since been able to use this to shut down most of the organized crime on and around {PLANETNAME}.
+
+[COLOR=UIDefaultHighlight]+5% Global trade income, +25% Colony Income and Morale on {PLANETNAME} for 50 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_1f_Name</Label>
+    <String>Crisis: Change of Heart - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_1f_Dec</Label>
+    <String>Our agents have worked their way into the inner circles of the smuggler on {PLANETNAME}'s new trade concern. The smuggler is indeed trying to go legit, but has been holding back information on his former clients out of concern for his life.
+Our agents began trying to find the names and locations of these criminals, but were halted when a corrupt member of local law enforcement tipped off these villains. Shortly after, the entire block where the smuggler's offices were located was leveled from orbit by a pirate vessel, which then fled the system. Neither the smuggler or our agents made it out of the dust cloud.
+
+[COLOR=UIDefaultHighlight]-25% Colony Income on {PLANETNAME} and a single pirate ship spawns in our territory.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_2_Name</Label>
+    <String>Crisis: Change of Heart (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_2_Dec</Label>
+    <String>The smuggler on {PLANETNAME} has already established a thriving concern and is bringing in quite a lot of money to the colony. 
+However there have been reports that his people are still meeting pirates near the colony, though no actual criminal activity has been observed yet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_2_Choice1Dec</Label>
+    <String>Tell him to provide some useful information on these pirates or he will be spending his retirement in a cell.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_2_Choice2Dec</Label>
+    <String>Send an agent to infiltrate the new business and find out if he is on the up and up.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_2_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_2_Choice3Dec</Label>
+    <String>Have our people pose as pirates and try to get him to sell them some weapons.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_2e_Name</Label>
+    <String>Crisis: Change of Heart - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_2e_Dec</Label>
+    <String>Posing as pirates, our agents have attempted to purchase weapons from the smuggler on {PLANETNAME}. Although they were repeatedly refused, they were eventually contacted by one of the smuggler's top people, who claimed that he could help them. Our forces immediately arrested the contact, who admitted that he was working on his own, and planning on murdering the smuggler and taking over his business.
+The now ex-smuggler was so pleased by our actions, that he has agreed to provide additional information that have allowed us to virtually shut down all the organized crime remaining on or around {PLANETNAME}.
+
+[COLOR=UIDefaultHighlight]+5% Global trade income, +25% Colony Income and Morale on {PLANETNAME} for 50 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_3_Name</Label>
+    <String>Crisis: Change of Heart (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_3_Dec</Label>
+    <String>The smuggler on {PLANETNAME} has provided us with a healthy retainer to guarantee his behavior. Much to our surprise he's already established what appears to be a legitimate and thriving concern, bringing in quite a profit to the colony.
+However there have been reports that his people have been meeting pirates near the colony, though no actual criminal activity has been observed yet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_3_Choice1Dec</Label>
+    <String>Send an agent to infiltrate the new business and find out if he is truly on the up and up.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_3_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_3_Choice2Dec</Label>
+    <String>Have our people pose as pirates and try to get him to sell them some weapons.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_3_Choice3Dec</Label>
+    <String>Let him know that we really don't care what he does as long as we get a cut.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_3_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_3e_Name</Label>
+    <String>Crisis: Change of Heart - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_3e_Dec</Label>
+    <String>Though the smuggler swears that he is now a legitimate businessman, we still don't care. The arrangement is working regardless, and he regularly sends us small presents to make sure that we know our protection of his new trade concern is appreciated. 
+
+[COLOR=UIDefaultHighlight]+1 Arnor Spice every 10 turns +10% Colony Income on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_3f_Name</Label>
+    <String>Crisis: Change of Heart - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Smuggler_Choice_3f_Dec</Label>
+    <String>The smuggler swears that he is now a legitimate businessman, and has refused to pay any more of what he considers to be protection money.
+Luckily the local authorities were happy to arrest him on past charges, and we were able to salvage some useful assets from his estate before he was executed.
+
+[COLOR=UIDefaultHighlight]-25% Colony Income on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Name</Label>
+    <String>Crisis: Missing Scientist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Dec</Label>
+    <String>One of our most preeminent scientists has gone missing on {PLANETNAME}. Normally we would leave this to the local authorities, but she was currently working on a revolutionary new terraforming technology capable of terraforming continents, and maybe even planets, almost instantly.
+Our biggest concern is that in the wrong hands this technology could be a terrible weapon.
+She was last seen in the local shipyard attempting to hire a ship. We don't know if she found one, and if she did where she has gone.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice1Dec</Label>
+    <String>Send investigators to help the authorities find out where she was trying to go when she vanished.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice1BonusDec</Label>
+    <String>+15 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice2Dec</Label>
+    <String>Send researchers to investigate. If this technology can be weaponized, we need it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice2BonusDec</Label>
+    <String>+15 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice3Dec</Label>
+    <String>The locals can't handle this. Send someone to the shipyard to find out where she went.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice3BonusDec</Label>
+    <String>+15 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_1_Name</Label>
+    <String>Crisis: Missing Scientist (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_1_Dec</Label>
+    <String>The local authorities on {PLANETNAME} have discovered that our missing scientist had been receiving death threats from a radical group claiming that she was playing god. They believe she was trying to escape the planet with her research before they could act. Her lab has also since been ransacked and her research destroyed.
+At the same time, our investigators have found the ship she left on. It is currently orbiting a nearby dead world. We have no idea if she is on the ship as a passenger or a prisoner.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_1_Choice1Dec</Label>
+    <String>Contact the ship and make sure she is safe.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_1_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Benevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_1_Choice2Dec</Label>
+    <String>Contact the ship, and order them to turn over the scientist or we will come and get her.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_1_Choice3Dec</Label>
+    <String>Capture the ship, and arrest everyone. We can sort out the details later.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_1a_Name</Label>
+    <String>Crisis: Missing Scientist - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_1a_Dec</Label>
+    <String>We have made contact with the captain of the ship carrying the missing scientist. He claims that the scientist is on board willingly, and that she is simply looking for planets that they might test a prototype terraforming device on. 
+The scientist has been transferred to our ship, along with the prototype device. She was very concerned to learn that her lab had been ransacked but assured us that she has backups of all her research with her.
+
+[COLOR=UIDefaultHighlight]+15 Benevolent, New Prototype Ultra-Terraformer improvement unlocked, 1 per planet.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_1b_Name</Label>
+    <String>Crisis: Missing Scientist - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_1b_Dec</Label>
+    <String>We have made contact with the captain of the ship carrying the missing scientist. At first, he claimed the scientist was on board willingly, but when we asked to speak to her, he attempted to flee. Our forces tried to disable the ship, but something they were working on must have been activated when we opened fire. The ship exploded in an immense shockwave, destroying both the ship and our own forces instantly. 
+When we sent another vessel to the system to check for survivors, they found a brand new habitable planet near where the ship had been.
+
+[COLOR=UIDefaultHighlight]New low-level planet discovered[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_1c_Name</Label>
+    <String>Crisis: Missing Scientist - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_1c_Dec</Label>
+    <String>We have made contact with the captain of the ship carrying the missing scientist. At first he claimed that the scientist was on board willingly, but when we insisted on speaking to her the ship attempted to flee. 
+Fortunately for us, the missing scientist had disabled their hyperdrive, and we were able to capture the ship. 
+The scientist has been transferred to our ship, along with various prototype devices. She explained that when the captain of the ship realized who and what she was, he locked her in her quarters. He was in the process of taking bids for her and her technology on the black market when we arrived.
+
+[COLOR=UIDefaultHighlight]New Prototype Ultra-Terraformer improvement unlocked, 1 per planet.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_1e_Name</Label>
+    <String>Crisis: Missing Scientist - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_1e_Dec</Label>
+    <String>We were able to capture the ship carrying the missing scientist. After disabling the ship, our boarding party found the scientist locked in her quarters and guarded by several crew members. 
+When she was freed, the scientist admitted that she was trying to hire a ship so they could survey planets to test a prototype terraforming device on. Unfortunately, when the captain of the ship realized who she was, he locked her in her quarters.He was in the process of taking bids for her and her technology on the black market when we arrived.
+
+[COLOR=UIDefaultHighlight]Award 1 freighter, New Prototype Ultra-Terraformer improvement unlocked, 1 per planet.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_2_Name</Label>
+    <String>Crisis: Missing Scientist (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_2_Dec</Label>
+    <String>Our researchers have reached {PLANETNAME}. However before they arrived, the missing scientist's lab had been ransacked, all of her research apparently destroyed. She had also apparently been receiving death threats from a radical group claiming that she was playing god.
+
+They did find what appears to be a fully functional prototype of her device locked in a hidden room.
+As we had heard the device is designed to terraform an entire planet. Our team believes that with some time they may be able to figure out how it works.
+</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_2_Choice1Dec</Label>
+    <String>Destroy the device, this technology is obviously far too dangerous.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_2_Choice2Dec</Label>
+    <String>Have them study the device, and try and reproduce the lost research.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_2_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Science check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_2_Choice3Dec</Label>
+    <String>Test the prototype device on a nearby dead world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_2a_Name</Label>
+    <String>Crisis: Missing Scientist - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_2a_Dec</Label>
+    <String>Our researchers have managed to destroy the prototype terraforming device on {PLANETNAME}.
+We were fortunate that a member of our team had worked with the missing scientist in the past, and knew how to do this safely. If done wrong, the experimental power core inside might have ruptured, causing a shockwave that would have "reprogrammed" every living thing on the planet's surface.
+
+[COLOR=UIDefaultHighlight]+20 Benevolent, +25% Research on {PLANETNAME}.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_2c_Name</Label>
+    <String>Crisis: Missing Scientist - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_2c_Dec</Label>
+    <String>Our researchers have made several breakthroughs while studying the prototype terraforming device.
+While they have not been able to reproduce the planet-wide effect, they have been able to produce a more localized wave that could terraform a small continent almost instantly.
+
+[COLOR=UIDefaultHighlight]New Prototype Ultra-Terraformer improvement unlocked, 1 per planet.[/COLOR]
+</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_2d_Name</Label>
+    <String>Crisis: Missing Scientist - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_2d_Dec</Label>
+    <String>When attempting to disassemble the prototype terraforming device on {PLANETNAME}, our researchers have apparently caused a horrible accident.
+The device triggered accidentally, sending out a shockwave that reprogrammed all the biological matter on the planet, killing everyone instantly.
+If there is a silver lining to this horrible tragedy, the planet itself has been left mostly intact and now contains far more livable land.
+
+[COLOR=UIDefaultHighlight]5 tiles added to {PLANETNAME}, Population reduced by 90%.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_2e_Name</Label>
+    <String>Crisis: Missing Scientist - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_2e_Dec</Label>
+    <String>We were able to find a dead planet in the Goldilocks zone of a nearby solar system, perfect for testing the prototype device on. As advertised, the device worked almost instantly and transformed the planet into a livable world in less then a week.
+Unfortunately, by using the device we no longer have it to study, and our best scientists still don't have any idea how it worked.
+
+[COLOR=UIDefaultHighlight]New High-level planet discovered[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_3_Name</Label>
+    <String>Crisis: Missing Scientist (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_3_Dec</Label>
+    <String>Our investigators have reached {PLANETNAME}, and have found the ship she left the shipyard on. 
+The ship in question belongs to a known arms dealer with connections to several foreign powers,
+ and is currently orbiting a dead world. We have no idea if she is on the ship as a passenger or a prisoner.
+At the same time, the local authorities have informed us that before the scientist vanished she was receiving death threats from a radical group claiming she was playing god.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_3_Choice1Dec</Label>
+    <String>Disable the ship, and order them to turn over the scientist immediately.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_3_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_3_Choice2Dec</Label>
+    <String>Capture the ship, and arrest everyone, we can sort out the details later.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_3_Choice3Dec</Label>
+    <String>Destroy the ship. Better safe than sorry.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_3b_Name</Label>
+    <String>Crisis: Missing Scientist - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_3b_Dec</Label>
+    <String>Our forces attempted to disable the ship carrying the missing scientist, but something they were working on must have been activated when we opened fire. The ship exploded in an immense shockwave, destroying both the ship and our own forces instantly. 
+When we sent another vessel to the system to check for survivors, they found a brand new habitable planet near where the ship had been.
+
+[COLOR=UIDefaultHighlight]New low-level planet discovered[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_3e_Name</Label>
+    <String>Crisis: Missing Scientist - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Missing_Scientist_Choice_3e_Dec</Label>
+    <String>It certainly seems that they were up to no good. When we opened fire on the vessel carrying the missing scientist, it immediately exploded in an immense shockwave, destroying both the ship and our forces instantly. 
+When we sent another vessel to the system to check for survivors, they found a brand new habitable planet near where the ship had been.
+
+[COLOR=UIDefaultHighlight]New low-level planet discovered[/COLOR]</String>
+  </StringTable>
+ 
+</StringTableList>

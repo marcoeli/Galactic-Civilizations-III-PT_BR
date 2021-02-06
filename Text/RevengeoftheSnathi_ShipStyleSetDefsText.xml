@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- RevengeoftheSnathi_ShipStyleSetDefsText.xml -->
+ 
+  <StringTable>
+    <Label>SnathiTerranShipStyleSet_Name</Label>
+    <String>Terran Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SnathiDrenginShipStyleSet_Name</Label>
+    <String>Drengin Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Snathi_SnathiShipStyleSet_Name</Label>
+    <String>Snathi Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Snathi_WardenShipStyleSet_Name</Label>
+    <String>Pirate Ship Style</String>
+  </StringTable>
+ 
+</StringTableList>

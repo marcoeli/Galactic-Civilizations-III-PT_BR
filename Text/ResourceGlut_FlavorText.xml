@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- ResourceGlut_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>ResourceGlut_MegaEvent_Message_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>There has been a breakthough in mining technologies. Mining bases can now extract resources from previously useless materials and the result is that there is now roughly twice as much Durantium, Thulium and Promethion out there for us to claim. I suggest we do so before others make the same discovery.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ResourceGlut_MegaEvent_Message_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, these resources can be very useful in protecting our people and strengthen our colonies. [COLOR=BenevolentBlue](Benevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ResourceGlut_MegaEvent_Message_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must claim as many of these new deposits as possible. If we act quickly, we can corner the market. [COLOR=PragmaticGold](Pragmatic +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ResourceGlut_MegaEvent_Message_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must claim these deposits quickly and make sure we have the weapon technologies to put them to good use. [COLOR=WarRed](Malevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

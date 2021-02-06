@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- CampaignText.XML -->
+ 
+  <StringTable>
+    <Label>LifeSupport_MegaEvent_Name</Label>
+    <String>Life Support (Event)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LifeSupport_MegaEvent_Dec</Label>
+    <String>Life Support</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LifeSupport_MegaEvent_ShortDec</Label>
+    <String>Life Support</String>
+  </StringTable>
+ 
+</StringTableList>

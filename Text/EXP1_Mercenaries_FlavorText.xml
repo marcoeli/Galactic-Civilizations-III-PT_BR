@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- EXP1_Mercenaries_FlavorText.xml -->
+  
+  <FlavorTextDef>
+    <InternalName>MERC_FIRST_CONTACT_MAIN</InternalName>
+  
+    <FlavorTextOption>
+      <Text>Saudações, {LEADERNAME:2}. Bem-vindos ao Bazar Galáctico! Você provavelmente já deve ter percebido que é uma galáxia perigosa lá fora. A boa notícia é que os Korx estão aqui e prontos para lhe dar uma mãozinha!
+        Temos vários mercenários talentosos disponíveis que estão dispostos a ajudá-lo, por um preço razoável que é. Não deixe escapar esta oportunidade!  Os suprimentos são limitados e seus inimigos podem estar mais dispostos a fazer um acordo.</Text>
+      <PreferenceWeight>2</PreferenceWeight>
+    </FlavorTextOption>
+  
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>DiscreetAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Saudações, {LEADERNAME:2}. Bem-vindos ao Bazar Galáctico! Você provavelmente já deve ter percebido que é uma galáxia perigosa lá fora. A boa notícia é que os Korx estão aqui e prontos para lhe dar uma mãozinha!
+        Temos vários mercenários talentosos disponíveis que estão dispostos a lhe ajudar. Estamos até dispostos a lhe oferecer um [COLOR=UIDefaultHot]Mercenário[/COLOR] livre para que você possa ver como eles podem ser úteis. Mas seja rápido, pois os suprimentos são limitados.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+      </Requirements>
+      <Text>Saudações, {LEADERNAME:2}. Bem-vindos ao Bazar Galáctico! Você provavelmente já deve ter percebido que é uma galáxia perigosa lá fora. A boa notícia é que os Korx estão aqui e prontos para lhe dar uma mãozinha!
+        Temos vários mercenários talentosos disponíveis que estão dispostos a ajudá-lo, por um preço razoável que é. Não deixe escapar esta oportunidade! Os suprimentos são limitados e seus inimigos podem estar mais dispostos a fazer um acordo.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+        <ListenerRaceTrait>DiscreetAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Saudações, {LEADERNAME:2}. Bem-vindos ao Bazar Galáctico! Você provavelmente já deve ter percebido que é uma galáxia perigosa lá fora. A boa notícia é que os Korx estão aqui e prontos para lhe dar uma mãozinha!
+        Temos vários mercenários talentosos disponíveis que estão dispostos a ajudar você. Estamos até dispostos a oferecer-lhe um [COLOR=UIDefaultHot]Mercenários livres[/COLOR] para que você possa ver como eles podem ser úteis. Mas seja rápido, pois os suprimentos são limitados.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Saudações, {LEADERNAME:2}. Bem-vindos ao Bazar Galáctico! Você provavelmente já deve ter percebido que é uma galáxia perigosa lá fora. A boa notícia é que os Korx estão aqui e prontos para lhe dar uma mãozinha!
+        Temos vários mercenários talentosos disponíveis que estão dispostos a ajudá-lo, por um preço razoável que é. Não deixe escapar esta oportunidade!  Os suprimentos são limitados e seus inimigos podem estar mais dispostos a fazer um acordo.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+        <ListenerRaceTrait>DiscreetAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Saudações, {LEADERNAME:2}. Bem-vindos ao Bazar Galáctico! Você provavelmente já deve ter percebido que é uma galáxia perigosa lá fora. A boa notícia é que os Korx estão aqui e prontos para lhe dar uma mãozinha!
+        Temos vários mercenários talentosos disponíveis que estão dispostos a ajudar você. Estamos até dispostos a oferecer-lhe um [COLOR=UIDefaultHot]Mercenários livres[/COLOR] para que você possa ver como eles podem ser úteis. Mas seja rápido, pois os suprimentos são limitados.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>Mercenaries_DLC_Torians</ListenerFaction>
+      </Requirements>
+      <Text>Bem, {LEADERNAME:2} é bom vê-lo de volta tão cedo. Espero que o Comandante Wassaloo tenha sido útil.
+
+Você deve dar uma olhada em nossa lista atual antes de serem contratados para outras raças. Infelizmente, alguns dos comandantes são menos perspicazes do que nós e trabalharão para praticamente qualquer um.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  
+  </FlavorTextDef>
+  
+  
+  <FlavorTextDef>
+    <InternalName>MERC_FIRST_CONTACT_RESPONSE_ACCEPT</InternalName>
+  
+    <FlavorTextOption>
+      <Text>Bem, vamos ver o que você tem?</Text>
+      <PreferenceWeight>2</PreferenceWeight>
+    </FlavorTextOption>
+  
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>DiscreetAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Bem, isso é muito gentil. Faremos bom uso disso, mas por que você não nos mostra o que mais tem a oferecer?</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+      </Requirements>
+      <Text>Bem, vamos ver o que você tem?</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+        <ListenerRaceTrait>DiscreetAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Bem, isso é muito gentil. Faremos bom uso disso, mas por que você não nos mostra o que mais tem a oferecer?</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Bem, vamos ver o que você tem?</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+        <ListenerRaceTrait>DiscreetAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Bem, isso é muito gentil. Faremos bom uso disso, mas por que você não nos mostra o que mais tem a oferecer?</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>Mercenaries_DLC_Torians</ListenerFaction>
+      </Requirements>
+      <Text>Muito bem, vamos ver quem está disponível.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  
+  </FlavorTextDef>
+  
+  
+  <FlavorTextDef>
+    <InternalName>MERC_FIRST_CONTACT_RESPONSE_NOTNOW</InternalName>
+  
+    <FlavorTextOption>
+      <Text>Não temos uso para mercenários no momento, mas podemos passar por aqui no futuro.</Text>
+      <PreferenceWeight>2</PreferenceWeight>
+    </FlavorTextOption>
+  
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>DiscreetAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Obrigado pela amostra. Vamos ver como funciona este mercenário antes de fazer mais compras.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+      </Requirements>
+      <Text>No momento, não temos utilidade para mercenários, mas podemos passar por aqui no futuro.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+        <ListenerRaceTrait>DiscreetAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Obrigado pela amostra. Vamos ver como funciona este mercenário antes de fazer mais compras.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>De momento não temos utilidade para os mercenários, mas podemos passar por eles no futuro.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+        <ListenerRaceTrait>DiscreetAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Obrigado pela amostra. Vamos ver como este Mercenários funciona antes de fazer mais compras..</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>Mercenaries_DLC_Torians</ListenerFaction>
+      </Requirements>
+      <Text>Teremos que correr o risco de perder até que nosso espaço local esteja seguro.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  
+  </FlavorTextDef>
+  
+  
+  </FlavorTextDefs>

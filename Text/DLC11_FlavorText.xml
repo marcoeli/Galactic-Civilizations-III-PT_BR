@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+
+	<FlavorTextDef>
+		<InternalName>FIRST_CONTACT_MAIN</InternalName>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_TYWOM</SpeakerFaction>
+			</Requirements>
+		    <Text>Grande Porco Vazio! Você está realmente falando conosco!</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_FreeTrandals</SpeakerFaction>
+			</Requirements>
+		    <Text>Bem-vindo, gentil estrangeiro. Saudamo-lo de braços abertos e com os mais justos votos.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_Mowlings</SpeakerFaction>
+			</Requirements>
+		    <Text>Louvado seja Jeff por nos enviar outro visitante amigável. Você é simpático, certo?</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_MUKAY</SpeakerFaction>
+			</Requirements>
+		    <Text>Em nome da Federação de Espécies Aliadas, dou-lhes as boas-vindas.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		
+		</FlavorTextDef>
+		
+		<FlavorTextDef>
+		<InternalName>FIRST_CONTACT_RESPONSE_PEACEFUL</InternalName>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_TYWOM</SpeakerFaction>
+			</Requirements>
+		    <Text>Estamos conversando com você. E, na maioria das vezes, aproveitando-o, por enquanto.</Text>
+			<PreferenceWeight>1</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_FreeTrandals</SpeakerFaction>
+			</Requirements>
+		    <Text>O prazer é todo nosso, Free Trandals.</Text>
+			<PreferenceWeight>1</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_Mowlings</SpeakerFaction>
+			</Requirements>
+		    <Text>Somos amigáveis e esperamos forjar juntos uma relação pacífica e produtiva.</Text>
+			<PreferenceWeight>1</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_MUKAY</SpeakerFaction>
+			</Requirements>
+		    <Text>Um prazer de conhecer você também.</Text>
+			<PreferenceWeight>1</PreferenceWeight>
+		</FlavorTextOption> 
+
+
+		</FlavorTextDef>	
+		
+		<FlavorTextDef>
+		<InternalName>FIRST_CONTACT_RESPONSE_NEUTRAL</InternalName>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_TYWOM</SpeakerFaction>
+			</Requirements>
+			 <Text>Pisa com cuidado. Não sofremos tolos, úmidos ou não.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_FreeTrandals</SpeakerFaction>
+			</Requirements>
+		    <Text>Meu Deus, vocês são grandes, garotos carnudos. Teremos cuidado ao seu redor.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_Mowlings</SpeakerFaction>
+			</Requirements>
+		    <Text>Veremos a respeito da simpatia. Depende muito do que você pode fazer por nós.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_MUKAY</SpeakerFaction>
+			</Requirements>
+		    <Text>Tenha cuidado onde você sacode esses tentáculos, lula.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+      </FlavorTextDef>
+		
+
+	<FlavorTextDef>
+		<InternalName>GENERIC_GREETING</InternalName>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_TYWOM</SpeakerFaction>
+			</Requirements>
+			<Text>Bem-vindos, amigos!</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>	
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_FreeTrandals</SpeakerFaction>
+			</Requirements>
+			<Text>Saudações, gentil estrangeiro. Como você se encontra neste dia?</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>	
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_Mowlings</SpeakerFaction>
+			</Requirements>
+		    <Text>Bem-vindo, estrangeiro! Você veio para saber mais sobre Jeff?</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_MUKAY</SpeakerFaction>
+			</Requirements>
+		    <Text>Squik. Muitas bolhas grandes e encantadoras, alienígenas amigáveis.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+	</FlavorTextDef>
+
+	<FlavorTextDef>
+		<InternalName>DECLARE_WAR_MAIN</InternalName>
+
+		<FlavorTextOption>
+			<ResponseTag>TYWOM_DECLARE_WAR_ON_PLAYER</ResponseTag>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_TYWOM</SpeakerFaction>
+			</Requirements>
+			<Text>Não sei como lhe dizer isto, por isso vou cuspir. Nós vamos entrar em guerra com você.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_FreeTrandals</SpeakerFaction>
+			</Requirements>
+		    <Text>Lamentamos que nosso relacionamento agora venha a ser um fracasso. Mas você é uma corrente viciosa, e os golpes são todos os que sua espécie parece entender.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_Mowlings</SpeakerFaction>
+			</Requirements>
+		    <Text>Bem, nós conversamos sobre isso e consideramos o que Jeff faria, e acontece que Jeff destruiria você, então aqui estamos nós, fazendo isso.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_MUKAY</SpeakerFaction>
+			</Requirements>
+		    <Text>O Conselho Abissal considerou profundamente o assunto, alienígena. Decidimos que você é traiçoeiro, como um peixe, e agora será tratado como tal.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		
+
+	</FlavorTextDef>
+
+	<FlavorTextDef>
+		<InternalName>ASK_FOR_PEACE_MAIN</InternalName>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_TYWOM</SpeakerFaction>
+			</Requirements>
+			<Text>Heeeeeeeeeey buddddddddy. Então, sobre esta coisa da guerra em que estamos metidos. Não poderíamos, ao invés disso?</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_FreeTrandals</SpeakerFaction>
+			</Requirements>
+		    <Text>Por favor, gentil estrangeiro. Há sempre muito espaço neste universo. Certamente o suficiente para que nós dois tenhamos um lugar nele...</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_Mowlings</SpeakerFaction>
+			</Requirements>
+		    <Text>Olá estrangeiro amigável! Temos reconsiderado nossa relação de guerra e decidimos que não é algo que Jeff aprovaria. Então, vamos parar!</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_MUKAY</SpeakerFaction>
+			</Requirements>
+		    <Text>A Federação das Espécies Aliadas é uma organização amante da paz e deseja pôr fim a este conflito entre nós.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+
+	</FlavorTextDef>
+
+	<FlavorTextDef>
+		<InternalName>AI_CREATED_TRADE_OFFER</InternalName>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_TYWOM</SpeakerFaction>
+			</Requirements>
+			<Text>Nós viemos até você com um presente, amigo. E também um pedido. Amigo.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_FreeTrandals</SpeakerFaction>
+			</Requirements>
+		    <Text>Nós lhe trazemos notícias, gentil estrangeiro. E uma oferta.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_Mowlings</SpeakerFaction>
+			</Requirements>
+		    <Text>Em muito pelo contrário, Jeff nos traz presentes em troca de nada, chegamos até você com presentes pelos quais queremos algo em troca.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_MUKAY</SpeakerFaction>
+			</Requirements>
+		    <Text>Nadamos para você com uma oferta, estrangeiro amigável. Uma troca entre os colegas.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+
+	</FlavorTextDef>
+
+	<FlavorTextDef>
+		<InternalName>TRADE_OFFER_ACCEPT</InternalName>
+
+		<FlavorTextOption>
+			<ResponseTag>TYWOM_DECLARE_WAR_ON_PLAYER</ResponseTag>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_TYWOM</SpeakerFaction>
+			</Requirements>
+			<Text>Aceitamos de bom grado! Veja como estamos nos tornando muito mais próximos!</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_FREETRANDALS</SpeakerFaction>
+			</Requirements>
+		    <Text>Aceitamos de bom grado. Foi um prazer e uma delícia lidar com você.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_Mowlings</SpeakerFaction>
+			</Requirements>
+		    <Text>Aceitamos seus termos! Louvado seja Jeff!</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_MUKAY</SpeakerFaction>
+			</Requirements>
+		    <Text>Squik! Aceitamos de bom grado!</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+	</FlavorTextDef>
+
+	<FlavorTextDef>
+		<InternalName>GENERAL_CONVERSATION_MAIN</InternalName>
+
+		<FlavorTextOption>
+			<ResponseTag>TALK_TYWOM_GENERAL</ResponseTag>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_TYWOM</SpeakerFaction>
+			</Requirements>
+			<Text>Então, como vão as coisas? Como está sua vida amorosa? Sinto muito. Não responda a isso. Isso foi muito atrevido da minha parte. Acabei de receber um novo livro sobre conversa fiada e tenho trabalhado durante os exercícios. É complicado!</Text>
+			<Text>Você gostaria de saber como está indo meu dia? Provavelmente não? Boa decisão. Isso é muito astuto da sua parte.</Text>
+			<Text>Assim, a coisa mais surpreendente aconteceu hoje. Bem, não surpreendente, mas interessante. Bem, não interessante, mas longa. Eu me sinto como se tivesse me convencido a não lhe contar agora.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_Mowlings</SpeakerFaction>
+			</Requirements>
+		    <Text>Olá, provavelmente alienígenas amigáveis! O que lhe traz estas partes? Negócios? Legal!</Text>
+		    <Text>Prazer em vê-lo! A menos que não seja. Você está aqui para nos destruir hoje?</Text>
+		    <Text>Como estão as coisas, alienígenas? Seu Deus também está cansado e exausto com você?</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC11_FACTION_MUKAY</SpeakerFaction>
+			</Requirements>
+		    <Text>Esplêndido. Como é seu dia, estrangeiro amigável? As águas estão calmas e claras?</Text>
+		    <Text>Feliz pesca para você, estrangeiro amigável. Que notícias você tem ouvido das bestas primitivas com as quais compartilhamos esta galáxia?</Text>
+		    <Text>Oh, são esses alienígenas. Os que têm sua pequena civilização. O que os traz até nós hoje, alienígenas?</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption> 
+	</FlavorTextDef>
+	
+	<FlavorTextDef>
+    <InternalName>GENERAL_CONVERSATION_ACCEPT</InternalName>
+	
+	<FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>DLC11_FACTION_Mowlings</SpeakerFaction>
+      </Requirements>
+      <Text>Somos amigáveis e esperamos forjar juntos uma relação pacífica e produtiva.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+	
+	<FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>DLC11_FACTION_Mowlings</SpeakerFaction>
+      </Requirements>
+      <Text>Veremos a respeito da simpatia. Depende muito do que você pode fazer por nós.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+
+	
+	<FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>DLC11_FACTION_TYWOM</SpeakerFaction>
+      </Requirements>
+      <Text>Estamos conversando com você. E, na maioria das vezes, aproveitando-o, por enquanto.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+	
+	<FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>DLC11_FACTION_TYWOM</SpeakerFaction>
+      </Requirements>
+      <Text>Tready cuidadosamente lesionado. Não sofremos tolos, úmidos ou não.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+	
+		<FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>DLC11_FACTION_MUKAY</SpeakerFaction>
+      </Requirements>
+      <Text>Um prazer de fazer sua aquaintance também.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+	
+	<FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>DLC11_FACTION_MUKAY</SpeakerFaction>
+      </Requirements>
+      <Text>Tenha cuidado onde você sacode esses tentáculos, lula.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+	
+			<FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>DLC11_FACTION_FreeTrandals</SpeakerFaction>
+      </Requirements>
+      <Text>O prazer é todo nosso, Free Trandals.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+	
+	<FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>DLC11_FACTION_FreeTrandals</SpeakerFaction>
+      </Requirements>
+      <Text>Meu Deus, vocês são grandes, garotos carnudos. Teremos cuidado ao seu redor.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+	</FlavorTextDef>
+	
+	
+	
+	
+</FlavorTextDefs>

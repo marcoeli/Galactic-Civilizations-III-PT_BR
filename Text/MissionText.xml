@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- MissionText.xml -->
+ 
+  <StringTable>
+    <Label>ResearchMission_Name</Label>
+    <String>Missão de pesquisa</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResearchMission_ShortDec</Label>
+    <String>Financia uma missão de pesquisa até a borda externa. </String>
+  </StringTable>
+  <StringTable>
+    <Label>ResearchMission_Mission_ShipDisplayName</Label>
+    <String>Curiosidade</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResearchMission_RewardAnomaly_Name</Label>
+    <String>Missão de Pesquisa Completa</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResearchMission_RewardAnomaly_Dec</Label>
+    <String>Sua missão de pesquisa terminou resultando em alguns novos conhecimentos valiosos que você pode aplicar aos seus esforços de pesquisa em andamento. Acrescentamos 50 pontos tecnológicos para nosso próximo projeto de pesquisa!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TreasureHuntMission_Name</Label>
+    <String>Caça ao tesouro</String>
+  </StringTable>
+  <StringTable>
+    <Label>TreasureHuntMission_ShortDec</Label>
+    <String>Financia um empreendimento privado a lugares desconhecidos para encontrar e coletar artefatos valiosos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TreasureHuntMission_Mission_ShipDisplayName</Label>
+    <String>Caçador de tesouros</String>
+  </StringTable>
+  <StringTable>
+    <Label>TreasureHuntMission_RewardAnomaly_Name</Label>
+    <String>Caça ao Tesouro Completa</String>
+  </StringTable>
+  <StringTable>
+    <Label>TreasureHuntMission_RewardAnomaly_Dec</Label>
+    <String>Os caçadores de tesouros relatam o sucesso de seus esforços. Alguns artefatos desconhecidos de alienígenas foram descobertos e vendidos no mercado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GemTrader_Name</Label>
+    <String>Comerciante de gemas</String>
+  </StringTable>
+  <StringTable>
+    <Label>GemTrader_ShortDec</Label>
+    <String>Subsidia um corretor privado que diz que pode nos encontrar cristais exóticos Harmony pelo preço certo.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GemTrader_Mission_ShipDisplayName</Label>
+    <String>Revendedor</String>
+  </StringTable>
+  <StringTable>
+    <Label>GemTrader_RewardAnomaly_Name</Label>
+    <String>Regresso do comerciante de gemas</String>
+  </StringTable>
+  <StringTable>
+    <Label>GemTrader_RewardAnomaly_Dec</Label>
+    <String>O comerciante de Gemas teve sucesso na comercialização de Durantium e Promethion para alguns cristais Harmony.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Xylology_Name</Label>
+    <String>Expedição de Xilologia</String>
+  </StringTable>
+  <StringTable>
+    <Label>Xylology_ShortDec</Label>
+    <String>Financiar um grupo de xilólogos que estão investigando as propriedades evolutivas de árvores raras. Eles prometem voltar com as mudas de Aurorus.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Xylology_Mission_ShipDisplayName</Label>
+    <String>Peregrinos</String>
+  </StringTable>
+  <StringTable>
+    <Label>Xylology_RewardAnomaly_Name</Label>
+    <String>Peregrinação</String>
+  </StringTable>
+  <StringTable>
+    <Label>Xylology_RewardAnomaly_Dec</Label>
+    <String>Os Xylólogos voltaram com sementes que podemos usar para cultivar um Aurorus Arboretum.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Pilgrims_Name</Label>
+    <String>Peregrinos</String>
+  </StringTable>
+  <StringTable>
+    <Label>Pilgrims_ShortDec</Label>
+    <String>Financiar um grupo de peregrinos que desejam divulgar o quanto nossa civilização é maravilhosa para aumentar nossa influência.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Pilgrims_Mission_ShipDisplayName</Label>
+    <String>Peregrinos</String>
+  </StringTable>
+  <StringTable>
+    <Label>Pilgrims_RewardAnomaly_Name</Label>
+    <String>Peregrinação</String>
+  </StringTable>
+  <StringTable>
+    <Label>Pilgrims_RewardAnomaly_Dec</Label>
+    <String>Os peregrinos retornaram de sua longa jornada espalhando nossa influência por toda parte.  Cada um de nossos planetas aumentou substancialmente sua influência.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperSilicateMission_Name</Label>
+    <String>Comerciante de Hiper Silicato</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicateMission_ShortDec</Label>
+    <String>Subsidia um comerciante de Hyper Silicates que conhece as pessoas certas para obter alguns.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicateMission_Mission_ShipDisplayName</Label>
+    <String>Revendedor</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicateMission_RewardAnomaly_Name</Label>
+    <String>Missão Comercial Completa</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicateMission_RewardAnomaly_Dec</Label>
+    <String>A Missão Catador foi um sucesso, fornecendo alguns hipersilicatos muito necessários para nossa civilização.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HeliosOreScavengeMission_Name</Label>
+    <String>Pesquisa de minério hélio</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOreScavengeMission_ShortDec</Label>
+    <String>Financia o grupo mineiro que pensa poder encontrar Helios Ore em mundos mortos próximos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOreScavengeMission_Mission_ShipDisplayName</Label>
+    <String>Catador</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOreScavengeMission_RewardAnomaly_Name</Label>
+    <String>Missão do Catador Completa</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOreScavengeMission_RewardAnomaly_Dec</Label>
+    <String>A Missão catador foi um sucesso, fornecendo o tão necessário minério Helios  para nossa civilização.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ArnorSpiceScavangersMission_Name</Label>
+    <String>Catadores de Especiarias Arnor </String>
+  </StringTable>
+  <StringTable>
+    <Label>ArnorSpiceScavangersMission_ShortDec</Label>
+    <String>Subsidia o grupo mineiro que acha que pode encontrar Arnor Spice em mundos mortos próximos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArnorSpiceScavangersMission_Mission_ShipDisplayName</Label>
+    <String>Catador</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArnorSpiceScavangersMission_RewardAnomaly_Name</Label>
+    <String>Missão do Catador Completa</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArnorSpiceScavangersMission_RewardAnomaly_Dec</Label>
+    <String>A Missão Catadora foi um sucesso fornecendo algumas especiarias Arnor muito necessárias para nossa civilização.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HeadhunterMission_Name</Label>
+    <String>Recrutador</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeadhunterMission_ShortDec</Label>
+    <String>Um recrutador empreendedor insiste que se pagarmos suas despesas, ele irá para a galáxia e nos encontrará um novo cidadão que estará disposto a se juntar à nossa causa.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeadhunterMission_Mission_ShipDisplayName</Label>
+    <String>Recrutador</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeadhunterMission_RewardAnomaly_Name</Label>
+    <String>Recrutados</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeadhunterMission_RewardAnomaly_Dec</Label>
+    <String>Nosso recrutador voltou com um novo cidadão para juntar-se à nossa civilização!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SalvageCrewMission_Name</Label>
+    <String>Missão de resgate</String>
+  </StringTable>
+  <StringTable>
+    <Label>SalvageCrewMission_ShortDec</Label>
+    <String>Auxilia uma tripulação de exploradores resistentes que estão dispostos a sair e encontrar navios abandonados que possam ser reparados.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SalvageCrewMission_Mission_ShipDisplayName</Label>
+    <String>Salvador</String>
+  </StringTable>
+  <StringTable>
+    <Label>SalvageCrewMission_RewardAnomaly_Name</Label>
+    <String>Nossa tripulação de salvamento encontrou um navio</String>
+  </StringTable>
+  <StringTable>
+    <Label>SalvageCrewMission_RewardAnomaly_Dec</Label>
+    <String>A tripulação de Salvage que despachamos, encontrou um navio que foi capaz de se restaurar a uma condição de utilização.</String>
+  </StringTable>
+ 
+ 
+</StringTableList>

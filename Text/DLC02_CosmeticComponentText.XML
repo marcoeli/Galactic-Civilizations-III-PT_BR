@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+ 
+  <StringTable>
+    <Label>Founder_08_Name</Label>
+    <String>Registration Reward Part 01</String>
+  </StringTable>
+
+	<StringTable>
+		<Label>Founder_08_Dec</Label>
+		<String>Registration Reward Part 01</String>
+	</StringTable>
+	
+	<StringTable>
+		<Label>Founder_09_Name</Label>
+		<String>Registration Reward Part 02</String>
+	</StringTable>
+	
+	<StringTable>
+		<Label>Founder_09_Dec</Label>
+		<String>FRegistration Reward Part 02</String>
+	</StringTable>
+
+	
+  <StringTable>
+    <Label>Founder_10_Name</Label>
+    <String>Registration Reward Part 03</String>
+  </StringTable>
+
+	<StringTable>
+		<Label>Founder_10_Dec</Label>
+		<String>Registration Reward Part 03</String>
+	</StringTable>
+
+
+
+	<StringTable>
+    <Label>Founder_11_Name</Label>
+    <String>Registration Reward Part 04</String>
+  </StringTable>
+
+	<StringTable>
+		<Label>Founder_11_Dec</Label>
+		<String>Registration Reward Part 04</String>
+	</StringTable>
+	
+
+  <StringTable>
+    <Label>Founder_12_Name</Label>
+    <String>Registration Reward Part 05</String>
+  </StringTable>
+
+	<StringTable>
+		<Label>Founder_12_Dec</Label>
+		<String>Registration Reward Part 05</String>
+	</StringTable>
+	
+	<StringTable>
+		<Label>Founder_13_Name</Label>
+		<String>Registration Reward Part 06</String>
+	</StringTable>
+
+	<StringTable>
+    <Label>Founder_13_Dec</Label>
+    <String>FRegistration Reward Part 06</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Founder_14_Name</Label>
+    <String>Registration Reward Part 07</String>
+  </StringTable>
+
+
+	<StringTable>
+		<Label>Founder_14_Dec</Label>
+		<String>Registration Reward Part 07</String>
+	</StringTable>
+
+</StringTableList>

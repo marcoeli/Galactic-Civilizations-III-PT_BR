@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- EXP4_Campaign_ShipStyleSetText.xml -->
+ 
+  <StringTable>
+    <Label>EXP4_Campaign_TerranShipStyleSet_Name</Label>
+    <String>Terran Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4_Campaign_EXP4_DrathShipStyleSet_Name</Label>
+    <String>Drath Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4_Campaign_KorathShipStyleSet_Name</Label>
+    <String>Korath Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4_Campaign_YorShipStyleSet_Name</Label>
+    <String>Yor Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4_Campaign_ThalanShipStyleSet_Name</Label>
+    <String>Thalan Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4_M4_Campaign_TerranShipStyleSet_Name</Label>
+    <String>Terran Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4_Campaign_DrenginShipStyleSet_Name</Label>
+    <String>Drengin Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4_Campaign_CrusadeShipStyleSet_Name</Label>
+    <String>Terran Ship Style</String>
+  </StringTable>
+ 
+ 
+</StringTableList>

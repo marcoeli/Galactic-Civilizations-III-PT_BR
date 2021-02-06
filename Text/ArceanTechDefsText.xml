@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- ArceanTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>ArceanTechTree_Name</Label>
+    <String>Arcean Tech Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanTechTree_ShortDec</Label>
+    <String>A tech tree that specializes in fortification.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanTechTree_Dec</Label>
+    <String>A tech tree that specializes in fortification.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanColonizationTech_Name</Label>
+    <String>Re-Colonization</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanColonizationTech_Dec</Label>
+    <String>After generations of confinement, the Arcean people finally have freedom. It's time to begin retaking the worlds that are rightfully ours.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanXenoIndustrializationTech_Dec</Label>
+    <String>We've had to relearn everything we know about colonization, including how to modify our equipment to function on different worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanManufacturingFocus1_Dec</Label>
+    <String>Tooling our manufacturing centers to specialize in military production sends a pretty unfriendly message to anyone paying close attention to us. But it should make the boys and girls in adaptive camo fatigues happy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanIndustrialMastery1_Dec</Label>
+    <String>We're eking out the last possible efficiencies in our military manufacturing processes, our civilization slowly turning into a war machine itself.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanPracticalFusion_Dec</Label>
+    <String>Thanks to our contact with the Terrans, we've learned their secrets of fusion power. And thanks to our considerable wisdom, we've already improved upon it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanQuantumPower_Dec</Label>
+    <String>Arcean physicists have found a way to exploit the quantum zero point energy of a vacuum, giving us access to a massive source of power well ahead of all the lesser races in this galaxy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanIntegratedResearch_Dec</Label>
+    <String>We've made great strides in our understanding of the universe, and now require larger academies to facilitate the multi-disciplinary studies needed to push back the veil further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanResearchCoordination_Name</Label>
+    <String>Forced Research Coordination</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanResearchCoordination_Dec</Label>
+    <String>The Arcean people know that we must never be slaves again. Civilization-wide cooperation is mandatory to ensure our race retakes its rightful place above all others. We will start with our researchers, who must minimize duplication of effort to improve research productivity in neighboring facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanNeroLinking_Name</Label>
+    <String>Entrenched Neurolinks</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanNeroLinking_Dec</Label>
+    <String>Arcean researchers have been ordered to submit their brains to direct linking networks to further improve our research coordination abilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanXenoGeology_Name</Label>
+    <String>Xeno Geology</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanXenoGeology_ShortDec</Label>
+    <String>Increase the quality of our colonies, by lowering maintenance and increasing morale of all our colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanXenoGeology_Dec</Label>
+    <String>Over the ages we have learned that to get the most of a world, you must understand its strengths and weaknesses. By studying a world before we build it out, we have found we can improve the overall quality of life of all its citizens.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanWeatherControlTech_Name</Label>
+    <String>Weather Control</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanWeatherControlTech_ShortDec</Label>
+    <String>Allows for the building of the Arcean Weather Control Improvement</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanWeatherControlTech_Dec</Label>
+    <String>By maintaining a balanced weather system we are able to increase the overall quality of our planets, improving the overall usefulness of almost all of our endeavors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanWeatherControlZenithTech_Name</Label>
+    <String>Weather Control Zenith</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanWeatherControlZenithTech_ShortDec</Label>
+    <String>Allows for the building of the Arcean Weather Control Zenith</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanWeatherControlZenithTech_Dec</Label>
+    <String>With a new Zenith Weather control system, we can not only maintain a stable weather pattern on a colony, we can bend the weather to our will, greatly increasing the overall productivity of any world.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanPlanetaryImprovement_Name</Label>
+    <String>Civilian Pre-Fortifications</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanPlanetaryImprovement_Dec</Label>
+    <String>Arceans need places to live on the worlds we take. Yet making buildings is difficult on alien planets and much of our knowledge of the subject has been lost. We're only now relearning the tools and techniques to do it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanPlanetarySpecialization1_Dec</Label>
+    <String>Our farming technology has improved dramatically. We'll soon see enhanced crop yields and less scrawny Arceans as a result.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanAgriculturalOptimization2_Dec</Label>
+    <String>Now that we have more experience growing food on alien worlds, our agricultural engineers are able to predict in advance what farming equipment a colony will need before it's formed, leading to lower startup costs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanFarmingFocus1_Dec</Label>
+    <String>The microbes present in alien soil react differently to nutrients than we're used to  and it's taken awhile to fine tune our fertilization techniques to keep our own plants fed. But now that we have, we expect to see even greater food production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanAgriculturalMastery1_Dec</Label>
+    <String>Our food production capacity has taken another step forward. Arcean warriors and colonists will never know hunger again.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanFoodDistributionTech_Dec</Label>
+    <String>Arceans knew hunger during the long era of occupation by the Drengin. We will never know it again. Improved food distribution systems and brutal quota enforcement will ensure this is the case.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanXenoBiology_Dec</Label>
+    <String>Understanding how Arceans adapt to the microbiological environment of alien worlds will be critical to our chances of survival when colonizing the stars.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanBioReplication_Name</Label>
+    <String>Warrior Replication</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanBioReplication_Dec</Label>
+    <String>Once we took all of the fun parts out of reproduction, we were able to dramatically increase our growth rates. Bio-replication produces exactly what the galaxy needs more of: more Arceans.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanEnvironmentalEngineering_Name</Label>
+    <String>Environmental Fortification</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanExtremeWorldColonization_Dec</Label>
+    <String>Years of captivity did nothing to limit our natural hardiness. We are simply tougher than other, lesser races, and our colonists will always have the more difficult worlds within their reach.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanColonizationFocus2_Dec</Label>
+    <String>We're now so good at living on snowball worlds that many colonists go days at a time without using scarves, something which would have been considered wildly reckless even a few years ago.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanAtmosphericCleansing_Dec</Label>
+    <String>Even the foulest and most toxic planetary environments can now be colonized by us. Good luck to the brave Arceans who go for it, but at least they'll now have a fighting chance.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanTerraformingTech_Dec</Label>
+    <String>Our Empire existed for millennia on only a handful of worlds, giving us ample time to learn the secrets of terraforming. Even the land has learned to submit to our will.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanHabitatImprovement_Dec</Label>
+    <String>Our ability to manipulate the biosphere has improved to the point that we can treat entire continents as a canvas. Will we paint a portrait of a brave and prudent civilization?</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanEnvironmentalResequencing_Dec</Label>
+    <String>We're playing with powerful forces now, capable of manipulating planetary terrain on a scale never seen before. We must be sure to use this power wisely.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanEngineeringTech_Dec</Label>
+    <String>For generations, we've looked up at the stars and known they would be ours. We've had to wait - too long - but now thanks to this Terran invention of hyperdrive, they will soon be in Arcean hands.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanHyperwarpMastery1_Dec</Label>
+    <String>No other civilization in the galaxy can match ours for the ease and efficiency with which we build our drives. And still Arcean ingenuity can find ways to make them cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanInterstellarNavigation_Name</Label>
+    <String>Interstellar Navigation</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanInterstellarNavigation_ShortDec</Label>
+    <String>Allow the building of the Navigation Center Achievement</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanInterstellarNavigation_Dec</Label>
+    <String>Since leaving our home world, the Arcean people have always been great navigators, able to traverse the stars even before the invention of the hyperdrive. The introduction of faster than light travel has done nothing to diminish our skills.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanNavagation Network_Name</Label>
+    <String>Navigation Network</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanNavagation Network_ShortDec</Label>
+    <String>Allow the building of the Galactic Navigation Network</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanNavagation Network_Dec</Label>
+    <String>Our interstellar navigators have built a vast network that spans the galaxy. A headquarters where they can direct this network and better coordinate their knowledge will increase their mastery of interstellar space, allowing our ships to move through the galaxy with a surety undreamed of by lesser races.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanNavigationalExpertise_Name</Label>
+    <String>Navigational Expertise</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanNavigationalExpertise_ShortDec</Label>
+    <String>Allow the building of the Galactic Navigators Guild</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanNavigationalExpertise_Dec</Label>
+    <String>The best navigators in the galaxy are completely reliant on our Navigation Network. The Guild they've formed to regulate its use has given us access to navigational knowhow from across the galaxy, giving our Empire the best navigation techniques in the galaxy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanSensorOptimization2_Dec</Label>
+    <String>The hyperfield detectors which our sensors use were originally cobbled together from leftover drives. Now that we have dedicated sensor manufacturing equipment, we can expect to see some significant cost savings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanEnergyFieldFocus2_Dec</Label>
+    <String>Our sensor systems had several redundant parts, which when stripped out has led to the production of cheaper, more efficient systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanTargetingAssistTech_Dec</Label>
+    <String>A study of how our ships have performed in combat has led to a number of improvements in our tactical targeting systems. At the same time, we've devised a system which should confuse enemy sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanTargetingSupport_Dec</Label>
+    <String>We've adapted our tactical sensor improvements into support modules, capable of allowing a single ship to provide sensor accuracy and evasive benefits to an entire fleet of vessels.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanPrecursorRelicFocus3_Dec</Label>
+    <String>Most of the Precursor relics we find are a mystery to us, doing little more than generating patterns of pretty lights. Though it turns out there is a massive consumer market for pretty lights which we might want to capitalize on.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanLifeSupport_Name</Label>
+    <String>Life Fortification Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStellarForgeTech_Name</Label>
+    <String>Stellar Forge</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStellarForgeTech_ShortDec</Label>
+    <String>Allows the constuction of the Stellar Forge Improvement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStellarForgeTech_Dec</Label>
+    <String>Our researchers are working on several exciting new ways to optimize the construction of our ships. By putting these researchers together in a single facility, we'll ensure these breakthroughs are made, and then filter out to all planets where our ships are constructed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStellerOptimization1_Name</Label>
+    <String>Stellar Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStellerOptimization1_ShortDec</Label>
+    <String>Slightly Increase the hit point of all our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStellerOptimization1_Dec</Label>
+    <String>By focusing the efforts of our Stellar Forge teams on durability, we have found several techniques that can be used to increase the durability of all our ships, no matter where they are built.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStellerOptimization2_Name</Label>
+    <String>Stellar Fortification</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStellerOptimization2_ShortDec</Label>
+    <String>Substantially lowers the maintinance costs of all our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStellerOptimization2_Dec</Label>
+    <String>Our Stellar Forge teams have improved the durability, ease of access, and construction costs of every vital component within our ships. Our entire fleet should see substantially reduced maintenance costs now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanRobustHullConstruction_Name</Label>
+    <String>Robust Hull Construction</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanRobustHullConstruction_ShortDec</Label>
+    <String>Allows us to build unique hull strengthening components.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanRobustHullConstruction_Dec</Label>
+    <String>Our Stellar Forge teams have found a way to install a portable version of the Integrity fields they use when building ships within the ship itself. This will increase each ship's hit points and greatly increase its rate of repair.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanHullMastery1_Dec</Label>
+    <String>Thanks to advances in the field of bristling, never before have our ships been so bristling with weapons. They could also bristle with other things we suppose.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanArceanHullRepairSystems_Dec</Label>
+    <String>The same field technology we use to strengthen our ships can now be used to conduct partial repairs as well, straightening and reinforcing battle-damaged structural elements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanCarrierFocus2_ShortDec</Label>
+    <String>Allows for the construction of cheap and light Guardian Drones.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanCarrierFocus2_Dec</Label>
+    <String>These tough little drones will guard our support and capital ships to the end. And when they're destroyed, no lives are lost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanHighCapacityCarriers_Dec</Label>
+    <String>Thanks to our latest generation of fighters, designed to be more compact and packable, and the improved repair, reloading, and recovery facilities that go with them, we're now able to deploy high-capacity carriers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanInterstellarLogistics_Dec</Label>
+    <String>It's one thing to build a ship, it's another thing to keep it running. None of this is exciting of course. Logistics officers are some of the most boring Arceans you're ever likely to meet. But a necessary evil.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanLogisticalOptimization3_Dec</Label>
+    <String>Shipyards are, by some measures, the most complicated constructs Arceans have ever created. Any improvement we can make to the management and operation of these beasts will result in significant cost savings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanInterstellarMining_Name</Label>
+    <String>Defensive Mining</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanHighEfficiencyMining_Dec</Label>
+    <String>Our mining operations are capable of generating more resources and losing less miners than ever before.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanWarfareTech_Name</Label>
+    <String>Defense</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanWarfareTech_Dec</Label>
+    <String>The Drengin are still out there. They must be destroyed. And potentially worse species lie beyond them. From this point on, all Arcean ships must be armed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanBeamWeaponOptimization3_Dec</Label>
+    <String>Lacking the requirements for ammunition storage, beam weapons have always been mass-efficient. And after some hard work by the Arceans in the lab, now they're a bit more so.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanEnergyPhasing_Dec</Label>
+    <String>The phaser particle is almost impossible to understand if you don't have several advanced degrees and possibly an extra brain. In short, these particles can induce a chain reaction that breaks an enemy down into neutrinos, effectively evaporating it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanNightmareTorpedoTech_Dec</Label>
+    <String>The Nightmare torpedo contains a tiny singularity trapped in a pocket universe, which upon being released causes horrifying damage to anyone unfortunate enough to have something called Nightmare Torpedoes fired at them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanKineticMastery1_Dec</Label>
+    <String>"We Make Kinetic Weapons Faster," is probably the dumbest slogan ever conceived of, but the Arceans who came up with it seem really proud of it, so no-one had the heart to tell them. And to be fair, they do make them really quite quickly and cheaply now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanInertialMagnification_Dec</Label>
+    <String>Our projectiles are now capable of attacking armor directly, creating low density fissures that can cause the whole structure to splinter. Additionally our kinetic augmentation systems have increased their range boosting effects yet again.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanTempleofValorTech_Name</Label>
+    <String>Temple of Valor</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanTempleofValorTech_ShortDec</Label>
+    <String>Allows the building of the Temple of Valor Improvement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanTempleofValorTech_Dec</Label>
+    <String>By studying the great warriors of our past, our children learn the importance of Valor, giving them an ideal to look up to, and a way to focus their more aggressive tendencies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanMilitarizationTech_Name</Label>
+    <String>Galactic Reclamation</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanUnavailable_Name</Label>
+    <String>Cathedral of Valor</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanUnavailable_ShortDec</Label>
+    <String>Allows the constuction of the Cathedral of Valor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanUnavailable_Dec</Label>
+    <String>Our great warriors have long shaped the culture of our world. The Cathedral of Valor shall be a place where young Arcean soldiers can learn about our glorious history, and be inspired and educated by the heros of our past.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanPlanetaryInvasion_Name</Label>
+    <String>Planetary Reclamation</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanPlanetaryInvasion_Dec</Label>
+    <String>We've developed the equipment and tactics necessary to land on a world and take it by force. The galaxy shall learn to fear the sound of Arcean footsteps.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanInvasionOptimization1_Dec</Label>
+    <String>So it turns out that thanks to the properties of mass, the easiest way to pacify something is to just drop something on it. It takes a bit of practice to get right, but the practice is fun itself.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanInvasionOptimization3_Dec</Label>
+    <String>If we are to defeat the Drengin and others like them, we can hold no illusions of what is required. Yes we'll have to live with the consequences of using biological weapons. But at least we'll be the ones who live.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStallerMarines_Dec</Label>
+    <String>A greater understanding of the tactics and training required for effective ground-based combat has led to a new form of military unit which specializes in establishing beachheads in unfriendly gravity wells.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanGravitationalFocus1_Dec</Label>
+    <String>By directing powerful gravitational fields at enemy ground defenses, we can induce flooding and even tectonic activity. The ground shall quake beneath our enemy's feet or feet-analogs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanGravitationalFocus2_Dec</Label>
+    <String>Inducing a planet to suddenly experience massive, worldwide volcanic activity is a pretty extreme step. That said, it certainly will pacify any hostiles. Also liquefy them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanDroneSoldiers_Dec</Label>
+    <String>There are massive benefits in unit reliability and coordination if our troops are programmed to unfailingly do what we tell them to. And we won't have to feel so bad about losing these ones.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanAdvancedInvasionTactics_Dec</Label>
+    <String>A new generation of invasion transports, along with a new generation of soldiers that don't mind being stacked like firewood, allows us to put boots on the ground faster than ever.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanTerritorialReinforcement_Name</Label>
+    <String>Territorial Reinforcement</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanTerritorialReinforcement_ShortDec</Label>
+    <String>Allows for the construction of special military starbase modules that can be built on any starbase.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanTerritorialReinforcement_Dec</Label>
+    <String>Recent experiences have taught us that the best way to ensure our planets remain unmolested is to keep our enemies far, far away from them. By adding military capacity to even our most utilitarian starbases, we will ensure our forces always have a safe place to rally and resupply.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanReinforcementOptimization1_Name</Label>
+    <String>Starbase Reinforcement</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanReinforcementOptimization1_ShortDec</Label>
+    <String>Increase the hitpoints of all Starbases</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanReinforcementOptimization1_Dec</Label>
+    <String>As our Empire expands, we find it increasingly important to ensure that our starbases are well protected, able to withstand raids from the most aggressive pirates.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanReinforcementOptimization2_Name</Label>
+    <String>Starbase Guardians</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanReinforcementOptimization2_ShortDec</Label>
+    <String>All starbases receive 2 Intercepter drones to augment their exsiting defenses.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanReinforcementOptimization2_Dec</Label>
+    <String>Every weapon counts when it comes to defending Arcean territory. By installing Interceptor drones on all existing starbases, we're able to better secure our territory and resources.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStarbaseFortification_Name</Label>
+    <String>Starbase Fortification</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStarbaseFortification_ShortDec</Label>
+    <String>Alows for the building of the Intersteller Defense Module on any starbase.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStarbaseFortification_Dec</Label>
+    <String>Our research teams have found a way to install military grade defense augmentation systems on non military starbases. With this breakthrough we should be able to better secure our borders and protect our worlds and assets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStarbaseFortificationFocus1_Name</Label>
+    <String>Starbase Battle Coordination</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStarbaseFortificationFocus1_ShortDec</Label>
+    <String>Increases the weapons strength of all weapons on our starbases</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStarbaseFortificationFocus1_Dec</Label>
+    <String>Using a recent breakthrough in field-of-fire coordination, we have been able to design a firmware update for our starbase defense modules that increases the damage dealt by existing weapons systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStarbaseFortificationFocus2_Name</Label>
+    <String>Starbase Defense Coordination</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStarbaseFortificationFocus2_ShortDec</Label>
+    <String>Increases the defenses of all starbases</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStarbaseFortificationFocus2_Dec</Label>
+    <String>A new scaled-up version of our integrity field strengthening technology allows us to boost the overall defenses of all of our starbases.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanZalonDefenseSystemTech_Name</Label>
+    <String>Zalon Defense System</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanZalonDefenseSystemTech_ShortDec</Label>
+    <String>Build the Zalon Defense system on a starbase or ship.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanZalonDefenseSystemTech_Dec</Label>
+    <String>Our research efforts into starbase fortification have proven quite fruitful. The Zalon Defense System will not only be the most advanced 'civilian' starbase defense array in the known galaxy, it will also be small enough to be equipped on a ship.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanDefenseSystemTech_Dec</Label>
+    <String>Even a being as hardy as an Arcean is difficult to protect in a ship that operates in hard vacuum. But we must do something. We need these ships if we hope to prevent ourselves becoming slaves again.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanCommunicationsTech_Name</Label>
+    <String>Command</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanCommunicationsTech_Dec</Label>
+    <String>We know we're not alone in this galaxy. We know monsters exist out there. We must begin to develop technology that allows us to communicate with these monsters, stalling some, tricking others, or even turning a few into allies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanTranslatorTech_Name</Label>
+    <String>Defensive Translator</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanTranslatorTech_Dec</Label>
+    <String>Intense study of the filthy Drengin tongue, as well as other examples of alien text we've obtained, has allowed us to create a Universal Translator that will let us communicate with any new races we come across.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanInterstellarGovernance_Name</Label>
+    <String>Interstellar Command</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanInterstellarGovernance_Dec</Label>
+    <String>Governing a civilization on this scale parallels our experience exploring our own world millennia ago. The simple empire will ensure Arcean might and wisdom spread to all corners of this galaxy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanGalacticGovernance_Name</Label>
+    <String>Galactic Command</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanPoliticalFocus3_Dec</Label>
+    <String>Any time two civilizations have met, the less technologically advanced one has come out worse from the encounter. We've suffered from this ourselves. Technologists dedicate all governmental resources to ensure that they never become that lesser civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanInterstellarDemocracyTech_Name</Label>
+    <String>Democratic Command</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanAllianceFocus1_Dec</Label>
+    <String>Formal military alliances will make a war with the Arcean Empire that much more imposing to our foes. The trade-off is that we risk being drawn into wars not of our choosing. Friends are cheap to have, but allies can be very expensive indeed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanCulturalInfluence_Name</Label>
+    <String>Cultural Fortification</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanCulturalInfluence_Dec</Label>
+    <String>The prospect of building a Arcean cultural presence on our worlds and our neighbors' has some potential. It lacks the obvious appeal of simple combat, but may in the long run be far more effective at securing our empire's future.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStellarEmigration_Dec</Label>
+    <String>Arceans are admired throughout the galaxy, reflecting the success of our civilization. If we can make the process of emigration easier, we can spread our influence wider still.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanCulturalAffinity_Dec</Label>
+    <String>Other universes deserve the benefit of Arcean's wisdom and culture. Indeed, it's a bit offensive that they don't see it already. Our thinkers are now beginning to prepare plans for shining our light on the next world, and beyond.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanXenoCommerce_Name</Label>
+    <String>Economic Fortification</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanInterstellarTrade_Dec</Label>
+    <String>Exchanging goods with our neighbors will theoretically enrich us both, and is worth pursuing for that reason alone. Also, if we play it smart, it can enrich us a lot more than the other guy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanTradeOptimization1_Name</Label>
+    <String>Trade Route Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanTradeFocus2_Dec</Label>
+    <String>More trade routes, more trade income, who no need for Tariffs, or 'Luxury items', Sometimes it's best to stick to the basics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanPopulationDiversion_Dec</Label>
+    <String>More amusements! Bigger amusements! Arceans can be big, simple idiots sometimes, which is distressing even if it does make them pretty easy to manage.</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+  <StringTable>
+    <Label>ArceanBiospherePerfection_Dec</Label>
+    <String>No longer must our colonists die without cause. Even the deadliest of planets are now perfectly survivable to us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStellerOptimization_Name</Label>
+    <String>Stellar Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStellerOptimization_ShortDec</Label>
+    <String>Improves Ship Construction</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStellerOptimization_Dec</Label>
+    <String>The Arcean researchers who labor in the Stellar Forge have requested direction on where to focus their research.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanBeamWeaponOptimization_Dec</Label>
+    <String>Weapons researchers have to keep pace with advances in many other fields to get the most out of their inventions. Right now, recent advances in material sciences are opening the door to a new generation of more efficient weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanBeamWeaponMastery_Dec</Label>
+    <String>Our beam weapons are now absurdly powerful, a terror for anyone foolish enough to get on the Arcean Empire's wrong side. And yet still our weapon scientists find ways to do better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanReinforcementOptimization_Name</Label>
+    <String>Reinforcement Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanReinforcementOptimization_ShortDec</Label>
+    <String>Improves Starbase Defenses</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanReinforcementOptimization_Dec</Label>
+    <String>Our Starbase commanders have great political power, and insist more resources be spent on increasing their defensive capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStarbaseFortificationFocus_Name</Label>
+    <String>Starbase Fortification Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStarbaseFortificationFocus_ShortDec</Label>
+    <String>Improves Starbase Fortifications</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanStarbaseFortificationFocus_Dec</Label>
+    <String>The Arcean people grow anxious at the threats the galaxy poses, and insist that more resources be spent to increase our Empire's fortifications.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanBarrierSystemFocus_Dec</Label>
+    <String>A careful design review of our initial implementation of the Barrier Field system has revealed a number of possible avenues for further improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanPoliticalFocus_Dec</Label>
+    <String>As we continue to manage, and often mismanage, our affairs, it's become clear that a number of political theories we'd never previously considered viable might actually be very practical when practiced on a galactic scale.</String>
+  </StringTable>
+ 
+</StringTableList>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- CampaignText.XML -->
+ 
+  <StringTable>
+    <Label>Retribution_Name</Label>
+    <String>Retribution</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission1_Name</Label>
+    <String>Apocalypse Soon</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission1_Dec</Label>
+    <String>The Thalan Ambassador has revealed prophecies that claim humanity will soon cause the destruction of the galaxy. D.L. Bradley, concerned with this information, has dispatched a small fleet to investigate a lost Precursor prison world and find proof of the upcoming Apocalypse.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission1_ShortDec</Label>
+    <String>The Thalan Ambassador has revealed prophecies that claim humanity will soon cause the destruction of the galaxy. D.L. Bradley, concerned with this information, has dispatched a small fleet to investigate a lost Precursor prison world and find proof of the upcoming Apocalypse.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Retribution_Mission1_EXP4_M1_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Retribution_Mission1_EXP4_M1_Drath_Name</Label>
+    <String>Drath Legion</String>
+  </StringTable>
+  <StringTable>
+    <Label>Retribution_Mission1_EXP4_M1_Korath_Name</Label>
+    <String>Korath Clan</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission1_CaptureYiven_Message</Label>
+    <String>Investigate Yiven III</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission1_DestroythKorath_Message</Label>
+    <String>Destroy the Korath (Optional)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission1_AssisttheDrath_Message</Label>
+    <String>Assist the Drath (Optional)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission2_Name</Label>
+    <String>Elemental</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission2_Dec</Label>
+    <String>D.L. Bradley has dispatched Colonel Casey to Altaria to locate the Last Shard of the Telenanth. Unfortunately, the Yor have already occupied Altaria, and begun fortifying the sector.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission2_ShortDec</Label>
+    <String>D.L. Bradley has dispatched Colonel Casey to Altaria to locate the Last Shard of the Telenanth. Unfortunately, the Yor have already occupied Altaria, and begun fortifying the sector.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Retribution_Mission2_EXP4_M2_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Retribution_Mission2_EXP4_M2_Yor_Name</Label>
+    <String>Yor </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission2_RetrieveShard_Message</Label>
+    <String>Retrieve the Shard of the Mithrilar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission2_UncoverYorShipyard_Message</Label>
+    <String>Penetrate Hyperspace Destabilizers.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission2_DestroytheYor_Message</Label>
+    <String>Destroy the Yor (Optional)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission3_Name</Label>
+    <String>The Contingency</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission3_Dec</Label>
+    <String>Colonel Jenna Casey has secured the Last Shard of the Telenanth. Now she must reach the First Fleet and convince D.L. Bradley to use the Shard to neutralize the power of the Bane, before it is too late.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission3_ShortDec</Label>
+    <String>Colonel Jenna Casey has secured the Last Shard of the Telenanth. Now she must reach the First Fleet and convince D.L. Bradley to use the Shard to neutralize the power of the Bane, before it is too late.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Retribution_Mission3_EXP4_M3_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Retribution_Mission3_EXP4_M3_Thalan_Name</Label>
+    <String>Thalan Contingency</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission3_GettoHypergate_Message</Label>
+    <String>Get the Shard to the Hypergate</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission3_KeepValkyrieAlive_Message</Label>
+    <String>Protect the T.A.S. Valkyrie</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission3_SecureHypergate_Message</Label>
+    <String>Secure Hypergate</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission4_Name</Label>
+    <String>Corruption of the Shard</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission4_Dec</Label>
+    <String>The final battle has begun at Drengi. Colonel Jenna Casey must reach D.L. Bradley in his powerful T.A.S. Crusader, once there she must convince him of the doom that awaits them all should he continue down this path. Only then will they be able to pacify the Bane with the Shard of the Telenanth and end this destructive cycle.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission4_ShortDec</Label>
+    <String>The final battle has begun at Drengi. Colonel Jenna Casey must reach D.L. Bradley in his powerful T.A.S. Crusader, once there she must convince him of the doom that awaits them all should he continue down this path. Only then will they be able to pacify the Bane with the Shard of the Telenanth and end this destructive cycle.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Retribution_Mission4_EXP4_M4_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Retribution_Mission4_EXP4_M4_Crusade_Name</Label>
+    <String>Terran Crussade</String>
+  </StringTable>
+  <StringTable>
+    <Label>Retribution_Mission4_EXP4_M4_Drengin_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission4_GettotheCrusader_Message</Label>
+    <String>Reach The T.A.S. Crusader</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission4_KeepValkyrieAlive_Message</Label>
+    <String>Protect the T.A.S. Valkyrie</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission4_DestroyDrengi_Message</Label>
+    <String>Destroy Drengi (Optional)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Retribution_Mission4_DestroyTheBane_Message</Label>
+    <String>Destroy the Bane (Optional)</String>
+  </StringTable>
+ 
+</StringTableList>

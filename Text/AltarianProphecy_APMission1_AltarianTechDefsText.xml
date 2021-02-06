@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- APMission1_AltarianTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>APMission1_AltarianTechTree_Name</Label>
+    <String>APMission1 Altarian Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianIndustrialSpecialization3_ShortDec</Label>
+    <String>Makes manufacturing and research buildings cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianXeonMysticism_Name</Label>
+    <String>Xeno Mysticism</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianXeonMysticism_ShortDec</Label>
+    <String>Allows construction of the Social Matrix.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianPrecursorHistory1_Name</Label>
+    <String>Way of the Arnor</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianPrecursorHistory1_ShortDec</Label>
+    <String>Increases Research and Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianPrecursorHistory2_Name</Label>
+    <String>Way of the Dread Lords</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianPrecursorHistory2_ShortDec</Label>
+    <String>Boost military production and soldiering </String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianDarkEnergeyReseach_Name</Label>
+    <String>Dark Energy Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianDarkEnergeyReseach_ShortDec</Label>
+    <String>Allows construction of the Dark Energy Lab.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianParadiseWorlds_Name</Label>
+    <String>Paradise Worlds</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianParadiseWorlds_ShortDec</Label>
+    <String>Allows construction of the ultimate terraforming plants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianInherentMagic_Name</Label>
+    <String>Inherent Talent</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianInherentMagic_ShortDec</Label>
+    <String>Increases accuracy and interferes with enemy targeting.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianOrbitalSpecialization1_ShortDec</Label>
+    <String>Increases Starport manufacturing.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianLogisticalOptimization3_ShortDec</Label>
+    <String>Reduces starport decay rate.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianWeaponsSpecializationTech2_ShortDec</Label>
+    <String>Reduces the Mass of all weapon systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianWeaponsSpecializationTech3_ShortDec</Label>
+    <String>Reduces the Cost of all weapon systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianDefensiveMeditation_Name</Label>
+    <String>Defensive Meditation</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianDefensiveMeditation_ShortDec</Label>
+    <String>Allows construction of the Champion's Temple.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianOrbitalDefencePlatform_Name</Label>
+    <String>Orbital Defense Platform</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianCommunicationsTech_Name</Label>
+    <String>Influence</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianStarFederationTech_ShortDec</Label>
+    <String>Allows use of the Star Federation form of government.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianTradeFocus1_Name</Label>
+    <String>Trade Tariffs</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianTradeFocus1_ShortDec</Label>
+    <String>Increases overall value of trade routes</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianEnjoymentTech_Name</Label>
+    <String>Enjoyment</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianMeditationTech_Name</Label>
+    <String>Meditation</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianMeditationTech_ShortDec</Label>
+    <String>Allows the construction of Meditation Centers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianPlanetaryRefection_Name</Label>
+    <String>Planetary Refection</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianPlanetaryRefection_ShortDec</Label>
+    <String>Allows the construction of Communion Centers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianSerenityTech_Name</Label>
+    <String>Serenity</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianSerenityTech_ShortDec</Label>
+    <String>Allows the construction of the Drathian Temple.</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianPrecursorAntiquities_Name</Label>
+    <String>Precursor Antiquities</String>
+  </StringTable>
+  <StringTable>
+    <Label>APMission1_AltarianPrecursorAntiquities_ShortDec</Label>
+    <String>Allows the construction of the Precursor Reliquary.</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+ 
+</StringTableList>

@@ -1,0 +1,2354 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- UIText_CrisisText.xml -->
+ 
+<!-- Event Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation_Name</Label>
+    <String>Crise: A Simulação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation_Dec</Label>
+    <String>Nossos pesquisadores chegaram a uma conclusão surpreendente, que a galáxia inteira é simplesmente uma simulação. Todo sistema solar, planeta e cidadão é meramente um processo de computador e nossa existência inteira não é uma realidade.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation_Choice1Dec</Label>
+    <String>Tentar contatar o ser que está controlando esta simulação.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation_Choice1BonusDec</Label>
+    <String>+5 Benevolente</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation_Choice2Dec</Label>
+    <String>Para evitar o pânico, esconda esta informação do público.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation_Choice2BonusDec</Label>
+    <String>+5 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation_Choice3Dec</Label>
+    <String>Find the limits of the simulation, and exploit them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation_Choice3BonusDec</Label>
+    <String>+5 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1_Name</Label>
+    <String>Crisis: The Simulation (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1_Dec</Label>
+    <String>Your scientists have developed a massive transmitter than attempts to vibrate the universe at a quantum level. They say that the vibration is large enough that it should be noticed by outside observers, and probably won't destroy reality. What do we want our message to be?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1_Choice1Dec</Label>
+    <String>"Please give us a new world, a paradise to inhabit."</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Benevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1_Choice2Dec</Label>
+    <String>"Why are we here?"</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1_Choice3Dec</Label>
+    <String>"Prove to us that you exist!"</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Malevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1a_Name</Label>
+    <String>Crisis: The Simulation - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1a_Dec</Label>
+    <String>Your scientists broadcast your message, "Please give us a new world, a paradise to inhabit."
+
+There is no immediate reply and you begin to wonder if anyone heard your message, or if there was anyone to hear it. Then your scientists notice an uninhabited planet in a solar system you control. Though all recording and measurements claim it has always been there, no one recalls having noticed it before. Apparently your message did get through.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1b_Name</Label>
+    <String>Crisis: The Simulation - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1b_Dec</Label>
+    <String>Your scientists turn on the transmitter to beam its message from {PLANETNAME}. For a heartbeat a million dimensions can be seen overlapping each other, most burning or only cold emptiness. The atoms of every mountain, building and citizen of {PLANETNAME}, including those of the transmitter itself are shifted. When it is complete many of your citizens are simply missing. Oddly a few new ones have appeared.
+
+[COLOR=UIDefaultHighlight]Halves the population of {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1c_Name</Label>
+    <String>Crisis: The Simulation - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1c_Dec</Label>
+    <String>Your scientists broadcast your message, "Why are we here?"
+
+You have your answer almost immediatly as a brief portal opens to another dimension, world or reality. Through it comes a ship unlike anything you have seen before, able to travel to the very edge of the known universe, maybe even beyond. Your citizens take to calling the ship, Messenger.
+
+[COLOR=UIDefaultHighlight]Free "Messenger" Ship[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1d_Name</Label>
+    <String>Crisis: The Simulation - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1d_Dec</Label>
+    <String>Your scientists turn on the transmitter to beam its message from {PLANETNAME}. For a heartbeat a million dimensions can be seen overlapping each other, most burning or only cold emptiness. The atoms of every mountain, building and citizen of {PLANETNAME}, including those of the transmitter itself are shifted. When it is complete many of your citizens are simply missing. Oddly a few new ones have appeared.
+
+[COLOR=UIDefaultHighlight]Halves the population of {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1e_Name</Label>
+    <String>Crisis: The Simulation - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1e_Dec</Label>
+    <String>Your scientists broadcast your message, "Prove to us that you exist!"
+
+You have your answer almost immediatly as a brief portal opens to another dimension, world or reality. Through it comes a ship unlike anything you have seen before, an incredible warship able to conquer civilizations on its own. The answer seems to be clear, whatever answered you from beyond this reality has clear intentions for you: conquest.
+
+[COLOR=UIDefaultHighlight]Free "Retribution" Ship[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1f_Name</Label>
+    <String>Crisis: The Simulation - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation1f_Dec</Label>
+    <String>Your scientists broadcast your message, "Prove to us that you exist!"
+
+You receive your answer almost immediately. Apparently someone is listening, and they either hate you or they have a dark sense of humor. Your response is a series of meteors that shower down on {PLANETNAME} killing millions. At least now you have your proof.
+
+[COLOR=UIDefaultHighlight]Population halved on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2_Name</Label>
+    <String>Crisis: The Simulation (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2_Dec</Label>
+    <String>Your citizens continue to live their lives, oblivious to the simulation they are a part of. Meanwhile your scientists have begun to create a simulation of their own, one that contains its own worlds and virtual citizens.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2_Choice1Dec</Label>
+    <String>Make this simulation a paradise for the simulated citizens living in it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Benevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2_Choice2Dec</Label>
+    <String>Release the simulation as a game for your citizens to enjoy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Science check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2_Choice3Dec</Label>
+    <String>Use this simulation to practice military techniques.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2a_Name</Label>
+    <String>Crisis: The Simulation - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2a_Dec</Label>
+    <String>Despite your best efforts you cannot remove suffering entirely from your simulation. Unless every experience is the same, some are always better, and some are worse. There is always to joy and pain. Your philosophers consider this lesson carefully.
+
+[COLOR=UIDefaultHighlight]+20 Benevolent, +20 Pragmatic,+20 Malevolent[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2b_Name</Label>
+    <String>Crisis: The Simulation - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2b_Dec</Label>
+    <String>In every simulation, no matter how perfect, the simulated citizens become depressed and depraved. Violence and apathy seem the outcome of every experiment and the only ultimate conclusion of life. Your scientists are deeply disturbed by these results.
+
+[COLOR=UIDefaultHighlight]Global Effect: -25% Research for 10 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2c_Name</Label>
+    <String>Crisis: The Simulation - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2c_Dec</Label>
+    <String>Your game continues to grow and attract fans throughout the galaxy, becoming so popular that many ignore their daily lives to play. 
+
+[COLOR=UIDefaultHighlight]Global Effect: -10% Production, +25% Influence for 50 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2d_Name</Label>
+    <String>Crisis: The Simulation - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2d_Dec</Label>
+    <String>Despite the long hours and the hard work of your passionate designers, developers and artists your game doesn't become the massive blockbuster you hoped for. Instead you make about as much on the game as you spent developing it. Welcome to the gaming industry.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2e_Name</Label>
+    <String>Crisis: The Simulation - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2e_Dec</Label>
+    <String>The military simulation displays clearly how military models of the last decade, and even those of the past few years are woefully out of date. Military strategy and capability is changing so quickly commanders training is nearly useless by the time they graduate. Fortunately our simulation allows us to adapt our strategy with each new development, and become more effective on the battefield.
+
+[COLOR=UIDefaultHighlight]Global Effect: Permanent +10% Soldiering and Resistence[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2f_Name</Label>
+    <String>Crisis: The Simulation - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation2f_Dec</Label>
+    <String>The military simulation was going well, until containment failed and it took over one of our manufacturing facilities. By the time we stopped it it had already created a fleet of very aggressive warships.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation3_Name</Label>
+    <String>Crisis: The Simulation (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation3_Dec</Label>
+    <String>Your scientists theorize that time is constant only as we experience it. From the perspective of the simulation it runs in bursts. They speculate that if they can isolate an area in 'real-time' they can cheat the simulation and take advantage of moments where the rest of galaxy is inactive.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation3_Choice1Dec</Label>
+    <String>Isolate our research computers so that they can continue to process outside local time.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation3_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Science check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation3_Choice2Dec</Label>
+    <String>Create a field large enough to contain an entire ship, one that is unhindered by time.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation3_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation3_Choice3Dec</Label>
+    <String>We risk damaging the galaxy itself with these efforts. Put a stop to them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation3a_Name</Label>
+    <String>Crisis: The Simulation - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation3a_Dec</Label>
+    <String>Isolating the research computers from local time was successful and capable of performing years of research in seconds. Until the day we saw dark shapes moving within the containment field. They were shaped like Thalans. But when we opened the containment field they were gone, as well as our equipment. Though we cannot continue our experiments, at least we have the research we gained while it was running. 
+
+[COLOR=UIDefaultHighlight]Finish Current Research[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation3b_Name</Label>
+    <String>Crisis: The Simulation - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation3b_Dec</Label>
+    <String>Your scientists prepare a chamber to isolate their computer from local time. But their calculations are incorrect. When the field is switched on the computers and a large part of their lab disappear entirely, lost in some other reality. Perhaps someday in the future they will reappear. Until then a large amount of their research has been lost.
+
+[COLOR=UIDefaultHighlight]Global Effect: -50% Research for 10 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation3c_Name</Label>
+    <String>Crisis: The Simulation - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation3c_Dec</Label>
+    <String>Other civilizations have noticed your new warship. They believe that by ignoring the laws of physics you risk damaging the galaxy itself. 
+
+[COLOR=UIDefaultHighlight]Global Effect: -2 Diplomacy. Free "Timeless" ship.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation3d_Name</Label>
+    <String>Crisis: The Simulation - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation3d_Dec</Label>
+    <String>You scientists successfully manage to put a time field around a warship, allowing it to move at incredible speed. While they are still toasting their success your military displays its incompetance by underestimating the ships speed and pilot it right into a moon, destroying it in its first flight. Both your miltiary and your scientists fall into screaming matches blaming each other for the tragedy.
+
+[COLOR=UIDefaultHighlight]Global Effect: -25% Research and Military Construction for 10 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation3e_Name</Label>
+    <String>Crisis: The Simulation - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheSimulation3e_Dec</Label>
+    <String>Your ministers are impressed that you put the needs of the galaxy above your own. This inspires them to follow your example in their dealings with other factions.
+
+[COLOR=UIDefaultHighlight]Global Effect: +2 Diplomacy[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution_Name</Label>
+    <String>Crisis: The Revolution</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution_Dec</Label>
+    <String>A small, but growing group of masked revolutionaries has been inciting protests and setting fire to government buildings. In the latest attack, the fire spread to a housing complex where two people were killed. The revolutionaries claim that the deaths were evidence that the state is too incompetent to keep fires from spreading, even though they admit to starting it. 
+
+[COLOR=UIDefaultHighlight]Global Effect: -10% Morale for 10 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution_Choice1Dec</Label>
+    <String>Invite the revolutionaries to meet and discuss governmental improvements.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution_Choice1BonusDec</Label>
+    <String>+5 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution_Choice2Dec</Label>
+    <String>Denounce the revolutionaries as criminals and task your police to bring them to trial.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution_Choice2BonusDec</Label>
+    <String>+5 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution_Choice3Dec</Label>
+    <String>Invite the revolutionaries to meet, and execute anyone who is fool enough to show up.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution_Choice3BonusDec</Label>
+    <String>+10 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution1_Name</Label>
+    <String>Crisis: The Revolution (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution1_Dec</Label>
+    <String>Your meetings with the revolutionaries are productive and some new measures come out of the talks. Unfortunately this has also encouraged other radical groups to begin taking violent actions to attempt to get a seat at the table. And their carelessness leads to even more deaths. 
+
+[COLOR=UIDefaultHighlight]Global Effect: -10% Growth for 10 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution1_Choice1Dec</Label>
+    <String>Allow everyone to speak directly with leaders so their ideas can be considered.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution1_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Benevolent check, -5% Social Construction for 25 turns</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution1_Choice2Dec</Label>
+    <String>End this cycle. Come down hard on the radical groups and make it clear this is not the way to get leverage.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution1_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution1_Choice3Dec</Label>
+    <String>This was a mistake, jail them all, starting with the revolutionaries you just met with.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution1a_Name</Label>
+    <String>Crisis: The Revolution - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution1a_Dec</Label>
+    <String>Your government becomes a model on how to value your citizens. One leader in particular becomes reknown for his compassion, sincerity and insight.
+
+[COLOR=UIDefaultHighlight]Unlocked new Crisis Manager (assign on the Government screen)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution1b_Name</Label>
+    <String>Crisis: The Revolution - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution1b_Dec</Label>
+    <String>Giving in to violent radical groups has caused legitimate groups to be ignored. Many good ideas get lost and some peaceful organizations turn violent in an attempt to get moved to the front of the line. Where citizens used to write petitions, they now light fires.
+
+[COLOR=UIDefaultHighlight]Global Effect: -10% Approval for 25 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution1c_Name</Label>
+    <String>Crisis: The Revolution - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution1c_Dec</Label>
+    <String>Your military comes down hard on the revolutionaries. They are quickly rounded up and their assets seized, providing a nice bonus for governmental coffers.
+
+[COLOR=UIDefaultHighlight]+350 Credits[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution1d_Name</Label>
+    <String>Crisis: The Revolution - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution1d_Dec</Label>
+    <String>The radical groups aren't easily put down. A raid on a shipyard gains them control of a few military ships which they use to start attacking civilian vessels.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution1e_Name</Label>
+    <String>Crisis: The Revolution - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution1e_Dec</Label>
+    <String>The whiplash of supporting the revolutionaries to jailing them causes confusion among your citizens. Riots break out across your empire. But it will pass in time. 
+
+[COLOR=UIDefaultHighlight]Global Effect: -50% Morale for 5 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution2_Name</Label>
+    <String>Crisis: The Revolution (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution2_Dec</Label>
+    <String>Despite the efforts of your police, the revolutionaries' attacks become more frequent and more aggressive. The few that are caught have no knowledge of the larger organization, and the leaders remain active and at large. Many claim that your Police Commissioner is either incompetent, or complicit in his dealing with the revolutionaries. 
+
+[COLOR=UIDefaultHighlight]Global Effect: -10% Morale for 10 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution2_Choice1Dec</Label>
+    <String>Increase the Commissioner's budget. He needs more resources to be successful.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution2_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Benevolent check, -10% Income for 10 turns</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution2_Choice2Dec</Label>
+    <String>Have the Commissioner discreetly tracked to find out if these rumors are true.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution2_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution2_Choice3Dec</Label>
+    <String>The police have failed. Imprison the Commissioner and have the military take over the operation.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution2a_Name</Label>
+    <String>Crisis: The Revolution - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution2a_Dec</Label>
+    <String>The additional resources pay off. Your police put an end to the revolutionaries attacks and use the additional budget to roll out public safety measures across our worlds.
+
+[COLOR=UIDefaultHighlight]Global Effect: +10% Reistance[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution2b_Name</Label>
+    <String>Crisis: The Revolution - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution2b_Dec</Label>
+    <String>Weeks go by, and still no significant progress is made toward stopping the revolutionaries. For your citizens its more evidence for how ineffective your governments has become. 
+
+[COLOR=UIDefaultHighlight]Global Effect: -10% Morale for 10 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution2c_Name</Label>
+    <String>Crisis: The Revolution - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution2c_Dec</Label>
+    <String>Outside of watching some questionable reality streams, your Police Commissioner seems to be a typical citizen. It isn't until nearly a week later that he buys a transport ticket he doesn't use and heads into the nearby warehouse instead. That is where your agents catch him and all the revolutionary leaders planning their next attack. Your citizens applaud your success as the attacks end. 
+
+[COLOR=UIDefaultHighlight]Global Effect: +10% Morale for 25 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution2d_Name</Label>
+    <String>Crisis: The Revolution - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution2d_Dec</Label>
+    <String>Your agents follow the Commissioner, but outside of watching some questionable reality streams, he appears to be a typical citizen. But the Commissioner must have noticed he was being followed because he disappears. Meanwhile the revolutionaries attacks intensify. For your citizens it's more evidence for how ineffective your government has become.
+
+[COLOR=UIDefaultHighlight]Global Effect: -10% Morale for 25 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution2e_Name</Label>
+    <String>Crisis: The Revolution - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution2e_Dec</Label>
+    <String>Military action ends the revolutionaries attacks, but your citizens question the heavy handed response. Either way there is no doubt that pulling the military for police actions steals time form their normal duties and may make our planets less safe against external threats. 
+
+[COLOR=UIDefaultHighlight]Global Effect: -10% Resistance[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3_Name</Label>
+    <String>Crisis: The Revolution (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3_Dec</Label>
+    <String>The revolutionaries that show up for your meeting are publicly executed. Your police adopt equally draconian measures and soon friends and family members are reporting on each other in an attempt to avoid your "justice". You are about to launch an inquisition to gather all the suspects when your Police Commissioner comes forward, reveals himself as the leader of the revolutionaries, and offers himself if you will show mercy to the revolutionary members.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3_Choice1Dec</Label>
+    <String>Accept the Commissioners deal. The revolution is broken, show leniency to his followers.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Benevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3_Choice2Dec</Label>
+    <String>No deal. Each man is responsible for his own actions, and will be judged for what they have done.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3_Choice3Dec</Label>
+    <String>No deal. Capture and execute the Commissioner, his followers, and a good number of those suspected of following him just to be sure.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Malevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3a_Name</Label>
+    <String>Crisis: The Revolution - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3a_Dec</Label>
+    <String>The revolutionaries attacks end. But the sacrifice of your Commissioner makes him a martyr among radical groups. Graffiti artists paint his image on government buildings and his story reaches other civilizations. In some places it is so popular that it is the only thing they know about us. 
+
+[COLOR=UIDefaultHighlight]Global Effect: +25% Influence for 25 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3b_Name</Label>
+    <String>Crisis: The Revolution - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3b_Dec</Label>
+    <String>The revolutionaries attacks end. But the sacrifice of your Commissioner makes him a martyr among radical groups. His example encourages them to resist, violently if need be. Graffeti of his image is often left after an attack and used as an image to unite those that stand against you.
+
+[COLOR=UIDefaultHighlight]Global Effect: -10% Approval for 25 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3c_Name</Label>
+    <String>Crisis: The Revolution - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3c_Dec</Label>
+    <String>With the traiterous Commisioner out of the way your police begin to round up revolutionaries. They are quickly rounded up and their assets seized. Providing a nice bonus for the governmental coffers.
+
+[COLOR=UIDefaultHighlight]+600 Credits[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3d_Name</Label>
+    <String>Crisis: The Revolution - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3d_Dec</Label>
+    <String>With the traitorous Commissioner out of the way your police begin to round up revolutionaries. But the revolutionaries do not give up easily. As a last attempt to strike back they place bombs in our factories, crippling production. But their fight is short lived as your police finally gather up the last of them.
+
+[COLOR=UIDefaultHighlight]Global Effect: -25% Social Construction for 10 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3e_Name</Label>
+    <String>Crisis: The Revolution - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3e_Dec</Label>
+    <String>The revolution is put down violently. Even those suspected of complicity are jailed or executed. You have heard rumors that your citizens are unhappy with the way this was settled. But none of them will say it to your face.
+
+[COLOR=UIDefaultHighlight]+30 Malevolent[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3f_Name</Label>
+    <String>Crisis: The Revolution - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_TheRevolution3f_Dec</Label>
+    <String>Capturing and executing so many revolutionaries, and those suspected of being revolutionaries causes more citizens to join their cause. Together they capture a shipyard and declare that they will defend themselves with force if need be. This is now a military action.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis_Name</Label>
+    <String>Crisis: Apophis</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis_Dec</Label>
+    <String>A 370 meter diameter asteroid is heading toward {PLANETNAME}. Our scientists predict that impact with the asteroid will be an extinction level event for the planet.
+
+Amateur astronomers have begun tracking the asteroid and the media is causing a panic by reporting on the upcoming apocalypse.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis_Choice1Dec</Label>
+    <String>Focus production on building colony ships so that we can help citizens flee the planet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis_Choice1BonusDec</Label>
+    <String>+5 Benevolent, -50% All Construction for 10 turns</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis_Choice2Dec</Label>
+    <String>Despite the protests of our scientists, attempt to land a team on the asteroid to detonate it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis_Choice2BonusDec</Label>
+    <String>-10 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis_Choice3Dec</Label>
+    <String>Build a prototype ship powerful and fast enough to intercept the asteroid and destroy it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis_Choice3BonusDec</Label>
+    <String>+5 Malevolent, -50% All Construction for 10 turns</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis1_Name</Label>
+    <String>Crisis: Apophis (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis1_Dec</Label>
+    <String>We were able to build a colony ship in time. But not nearly enough for everyone to escape. Riots are breaking out as people fight to be included on the ship. How will we determine who will escape, and who will be left behind?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis1_Choice1Dec</Label>
+    <String>No citizen deserves life more than any other. Hold a random lottery to determine who goes.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis1_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Benevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis1_Choice2Dec</Label>
+    <String>Send in our military to maintain control and evacuate our best citizens.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis1_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis1_Choice3Dec</Label>
+    <String>Keep the colony ship for ourselves. We might need it to repopulate the planet after the asteroid hits.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis1a_Name</Label>
+    <String>Crisis: Apophis - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis1a_Dec</Label>
+    <String>Each day more lottery winners are announced. Though your citizens understand that most will die they focus on the few that will live and manage to get the lottery winners to their colony ship safely. The memory of their sacrifice and compassion in the face of death is a story that is told across the universe.
+
+[COLOR=UIDefaultHighlight]Global Effect: +25% Influence for 50 turns, free Colony ship, Devastate {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis1b_Name</Label>
+    <String>Crisis: Apophis - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis1b_Dec</Label>
+    <String>Each day, more lottery winners are announced. As the asteroid grows closer, when everyone can see the glowing tear of the asteroid in the night sky, society begins to crumble. It is all out rioting as the colony ship prepares to lift off. Citizens overwhelm the launch platforms and cling helplessly to the departing ship. They damage the colony ship so badly that it crashes shortly after takeoff, killing everyone on board. In the end, no one escapes {PLANETNAME}.
+
+[COLOR=UIDefaultHighlight]Devastate {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis1c_Name</Label>
+    <String>Crisis: Apophis - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis1c_Dec</Label>
+    <String>Violent murders sweep {PLANETNAME} as citizens target those they feel will be given priority in an attempt to improve their own odds of being included. Thousands of scientists, inventors and entrepreneurs are killed before the military steps in to quarantine those selected to escape. When the colony ship takes off it represents our highest potential.
+
+[COLOR=UIDefaultHighlight]Global Effect: +25% Research for 25 turns, free Colony ship, Devastate {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis1d_Name</Label>
+    <String>Crisis: Apophis - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis1d_Dec</Label>
+    <String>Your military fails. Some are corrupt and accept bribes, others weak and overwhelmed by mobs overcome by fear and desperation. By the end, no one escapes {PLANETNAME}.
+
+[COLOR=UIDefaultHighlight]Devastate {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis1e_Name</Label>
+    <String>Crisis: Apophis - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis1e_Dec</Label>
+    <String>Your colony ship watches as the asteroid strikes {PLANETNAME}. The only people more stunned by your decision to have a method of escape standing by and not use it than the now vaporized citizens of {PLANETNAME}, are the poor wretches you have gathered to fill the colony ship to repopulate the still burning and radioactive planet.
+
+[COLOR=UIDefaultHighlight]Global Effect: +20 Malevolent, free Colony ship, Devastate {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis2_Name</Label>
+    <String>Crisis: Apophis (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis2_Dec</Label>
+    <String>Despite considerable risk and almost impossible odds, your rescue team successfully landed on the oncoming asteroid and managed to detonate their explosives. Now we have five smaller asteroids hurtling toward {PLANETNAME}. We are still doomed.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis2_Choice1Dec</Label>
+    <String>Start a cult worshipping the asteroid as a religious event. It may help keep people calm.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis2_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Diplomacy check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis2_Choice2Dec</Label>
+    <String>That's a great start. Send up five rescue teams, one for each remaining asteroid.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis2_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Science check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis2_Choice3Dec</Label>
+    <String>Begin asking other civilizations to provide relief for what is about to occur.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis2a_Name</Label>
+    <String>Crisis: Apophis - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis2a_Dec</Label>
+    <String>Surprisingly, the cult picks up a massive following across many worlds. The galaxy watches as the asteroid strikes {PLANETNAME} as if it was a holy event. Though cataclysmic to life on {PLANETNAME}, many revere the ruined world as sacred, and the story of the asteroid strike becomes legendary across the galaxy.
+
+[COLOR=UIDefaultHighlight]Unlocked new Crisis Manager (assign on the Government screen), {PLANETNAME} is Devastated[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis2b_Name</Label>
+    <String>Crisis: Apophis - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis2b_Dec</Label>
+    <String>Surprisingly, the cult picks up a massive following across many worlds. Unfortunately they become a little to zealous about the massive amount of death that the asteroid caused, and they seek to follow its example by killing people on your worlds.
+
+[COLOR=UIDefaultHighlight]Global Effect: -10% Growth for 50 turns, {PLANETNAME} is Devastated.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis2c_Name</Label>
+    <String>Crisis: Apophis - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis2c_Dec</Label>
+    <String>The entire galaxy is stunned when your rescue teams each successfully manage to detonate each of the asteroid chunks into small enough pieces that they won't do signficant damage to {PLANETNAME}. The outcome was so unlikely that other civilizations believe that it is just propaganda you created to support your space program. But the citizens of {PLANETNAME} know it is true, and they will never forget you.
+
+[COLOR=UIDefaultHighlight]Permanent +25% Morale on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis2d_Name</Label>
+    <String>Crisis: Apophis - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis2d_Dec</Label>
+    <String>This may have been the worst plan ever attempted. Two of the rescue teams missed their asteroid chunks entirely. One blew itself up with the explosives and the last two were still on the asteroid attempting to set charges when it collided with {PLANETNAME}. But at least everyone was kept so busy with the ludicrous plan that they didn't have much time to worry about their impending doom.
+
+[COLOR=UIDefaultHighlight]{PLANETNAME} is Devastated[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis2e_Name</Label>
+    <String>Crisis: Apophis - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis2e_Dec</Label>
+    <String>As the asteroid strikes {PLANETNAME} other civilizations offer their sympathy. Unfortunately they offer little else.
+
+[COLOR=UIDefaultHighlight]Global Effect: +2 Diplomacy, {PLANETNAME} is Devastated[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis3_Name</Label>
+    <String>Crisis: Apophis (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis3_Dec</Label>
+    <String>Despite our best efforts production of the prototype ship designed to intercept the asteroid has fallen behind schedule. We will need to launch without all of our systems fully tested. What system should we focus on?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis3_Choice1Dec</Label>
+    <String>Weapons, we will need to disintigrate the asteroid, not just fracture it into smaller pieces.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis3_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis3_Choice2Dec</Label>
+    <String>Engines, if we can't catch the asteroid, nothing else matters.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis3_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Science check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis3_Choice3Dec</Label>
+    <String>Shields, let's ram the asteroid at full speed and try to knock it off course.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis3a_Name</Label>
+    <String>Crisis: Apophis - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis3a_Dec</Label>
+    <String>Your prototype ship, codenamed Goliath, launches to intercept the oncoming asteroid. Deep in space the galaxy watches as what is little more than a massive laser cannon with an engine strapped to it closes in on the asteroid. Your scientists set Goliath to fly into the asteroid, reasoning that if the weapons aren't enough, maybe the impact with the ship will help. When they finally grow close enough Goliath fires and for a heartbeat the galaxy waits to find out the result. When the sensors update the asteroid is little more than dust and Goliath flies through the debris with little damage. Goliath is ready for its next mission. {PLANETNAME} is saved.
+
+[COLOR=UIDefaultHighlight]Free Goliath Ship[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis3b_Name</Label>
+    <String>Crisis: Apophis - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis3b_Dec</Label>
+    <String>Your prototype ship, codenamed Goliath, launches to intercept the oncoming asteroid. Deep in space the galaxy watches as what is little more than a massive laser cannon with an engine strapped to it closes in on the asteroid. Your scientists set Goliath to fly into the asteroid, reasoning that if the weapons aren't enough, maybe the impact with the ship will help. When they finally grow close enough Goliath fires and for a heartbeat the galaxy waits to find out the result. When the sensors update they show that even though the asteroid won't strike {PLANETNAME} directly, it is still close enough to cause massive damage. As it passes by earthquakes, torandos and volcanos disrupt the planet.
+
+[COLOR=UIDefaultHighlight]Halves the population on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis3c_Name</Label>
+    <String>Crisis: Apophis - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis3c_Dec</Label>
+    <String>Your prototype ship, codenamed Archangel, launches to intercept the oncoming asteroid. The galaxy watches as it closes to weapons range, and the weapons fail to fire. Your scientists panic and then come up with a desperate plan. Archangel lands on the asteroid, and after firmly rooting itself puts its considerable engines on full force. The galaxy waits for long quiet minutes to see any result. Finally the sensors update and show that the asteroids trajectory has been changed and will no longer strike {PLANETNAME}. Your citizens cheer as Archangel detaches and awaits its next mission.
+
+[COLOR=UIDefaultHighlight]Free Archangel Ship[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis3d_Name</Label>
+    <String>Crisis: Apophis - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis3d_Dec</Label>
+    <String>Your prototype ship, codenamed Archangel, launches to intercept the oncoming asteroid. The galaxy watches as it closes to weapons range, and the weapons fail to fire. Your scientists panic and then come up with a desperate plan. Archangel lands on the asteroid, and after firmly rooting itself puts its considerable engines on full force. The galaxy waits for long quiet minutes to see any result. When the sensors update the truth becomes clear. Archangel has changed the asteroids course enough that it won't strike the {PLANETNAME} directly. But it will still pass close enough to make {PLANETNAME} into a hellscape for a brief time.
+
+[COLOR=UIDefaultHighlight]Halves the population of {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis3e_Name</Label>
+    <String>Crisis: Apophis - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Apophis3e_Dec</Label>
+    <String>Your plan is successful and the asteroid is knocked off course when our prototype ship crashes into it. The ships pilots sacrificed their lives to save {PLANETNAME}. Across your worlds citizens cheer your success.
+
+[COLOR=UIDefaultHighlight]Global Effect: +25% Morale for 25 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession_Name</Label>
+    <String>Crisis: Secession</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession_Dec</Label>
+    <String>Millions of citizens have joined the Aspire Collective, a group of privately owned starbases designed to be homes to generations of their inhabitants. Now the Aspire Collective is declaring sovereignty, arguing that traditional laws grant sovereignty based on land ownership, and as they exist entirely in space, those laws do not apply to them. Our advisors counter that we control the space their starbases are in, and that siphoning off so many of our best citizens will weaken us and set a dangerous precedent.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession_Choice1Dec</Label>
+    <String>Allow them to have their independence.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession_Choice1BonusDec</Label>
+    <String>+5 Benevolent, -10% Growth for 25 turns</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession_Choice2Dec</Label>
+    <String>They can be independent, but must provide tribute for existing within our borders.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession_Choice2BonusDec</Label>
+    <String>+5 Pragmatic, +10% Income</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession_Choice3Dec</Label>
+    <String>They belong to the state, send in soldiers to make sure they understand this.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession_Choice3BonusDec</Label>
+    <String>+5 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession1_Name</Label>
+    <String>Crisis: Secession (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession1_Dec</Label>
+    <String>Reports of violent internal fighting have been coming from the Aspire Collective. Pirates are rumored to be trading at the base, and scarce resources have caused many to question their decision to leave our empire. Some campaign for reunification and have asked us to support their cause, though Aspire treats this as treason.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession1_Choice1Dec</Label>
+    <String>Provide an ambassador and medical aid to those that support us.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession1_Choice1BonusDec</Label>
+    <String>+5 Benevolent, -50 Credits, {STATCHANCE}% Diplomacy check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession1_Choice2Dec</Label>
+    <String>This situation will not be settled peacfully. Provide weapons to those that support us.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession1_Choice2BonusDec</Label>
+    <String>+5 Malevolent, {STATCHANCE}% Malevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession1_Choice3Dec</Label>
+    <String>Stay out of their internal politics, it is no longer our concern.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession1a_Name</Label>
+    <String>Crisis: Secession - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession1a_Dec</Label>
+    <String>Our ambassador stands with those protesting for reunification. He is beaten and arrested by Aspire police. When he is released he is warned to return to our worlds or he will be killed. Instead, he remains on the Aspire starbase. He speaks to the media and tells them when Aspire wanted freedom it was given to them. But when their people want to be heard, Aspire responded with violence. His story inspires the citizens of the starbase, and when Aspire leadership orders him killed, Aspire soliders refuse to follow the command.
+
+Aspire leadership is overthrown and the starbase asks to rejoin our empire. Our ambassador becomes renown for his compassion and determination.
+
+[COLOR=UIDefaultHighlight]Free Starbase, Unlocked new Crisis Manager (assign on the Government screen)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession1b_Name</Label>
+    <String>Crisis: Secession - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession1b_Dec</Label>
+    <String>Despite our support, those campaigning to rejoin us are arrested for treason. Many comment that we freely allowed our citizens to join Aspire, but Aspire jailed those same citizens when they spoke about coming back. Despite our benevolence, Aspire is falling into authoritarian control and citizens are still leaving our worlds to join them.
+
+[COLOR=UIDefaultHighlight]Pirate Starbase spawned[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession1c_Name</Label>
+    <String>Crisis: Secession - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession1c_Dec</Label>
+    <String>The conflict on Aspire's starbases turns violent and citizens are killed on both sides. With your weapons, the supporters of reunification manage to take the starbase. But not before Aspire military captures some star ships to escape in.
+
+[COLOR=UIDefaultHighlight]Pirate Ships spawned, Free Starbase[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession1d_Name</Label>
+    <String>Crisis: Secession - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession1d_Dec</Label>
+    <String>The conflict on Aspire's starbases turns violent and citizens are killed on both sides. Though outnumbered, supporters of reunification do manage to capture a star ship and escape. But the starbase remains, and continues to draw citizens from nearby worlds.
+
+[COLOR=UIDefaultHighlight]Pirate Starbase spawned, Free Frigate ship[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession1e_Name</Label>
+    <String>Crisis: Secession - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession1e_Dec</Label>
+    <String>Those campaigning to rejoin our empire are violently put down. Though we opted to allow them to go their own way, the pirates were not as ambivalent and now openly trade on Aspire starbases and raid nearby colonies.
+
+[COLOR=UIDefaultHighlight]Pirate Starbase spawned, Pirate Ships spawned[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession2_Name</Label>
+    <String>Crisis: Secession (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession2_Dec</Label>
+    <String>For a time our arrangement with the Aspire Collective went well. They provide a regular stipend and kept to themselves. But now their citizens are complaining about the lack of resources and blaming the stipend for making it impossible for them to provide for their own citizens. Now they have missed payment, and it doesn't look like they will be able to make payments anytime soon.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession2_Choice1Dec</Label>
+    <String>The stipend is too high. Lower it to what they can afford.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession2_Choice1BonusDec</Label>
+    <String>+5 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession2_Choice2Dec</Label>
+    <String>Remove the stipend and have Aspire take government contracts instead.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession2_Choice2BonusDec</Label>
+    <String>+5 Pragmatic, {STATCHANCE}% Pragmatic check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession2_Choice3Dec</Label>
+    <String>Claim assets, by force, to make up for their debt.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession2_Choice3BonusDec</Label>
+    <String>+5 Malevolent, {STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession2a_Name</Label>
+    <String>Crisis: Secession - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession2a_Dec</Label>
+    <String>Though the complaints of a high stipend continue, the reduction in the amount has allowed Aspire to balance their books and begin providing services to their citizens. For now, they are stable and able to continue paying us. And they continue to recruit citizens from nearby worlds.
+
+[COLOR=UIDefaultHighlight]Income Starbase spawned[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession2b_Name</Label>
+    <String>Crisis: Secession - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession2b_Dec</Label>
+    <String>We begin funneling small manufacturing jobs to Aspire, which they gladly do at cost in return for remaining within our borders. This improves the efficiency and production of all nearby shipyards and worlds.
+
+[COLOR=UIDefaultHighlight]Manufacturing Starbase spawned[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession2c_Name</Label>
+    <String>Crisis: Secession - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession2c_Dec</Label>
+    <String>We begin funneling small manufacturing jobs to Aspire, which they do at cost in return for remaining in our borders. Though this does improve our manufacturing productivity substantially, many question the inferior parts that Aspire provides and worry that using them on our military ships may lead to issues down the road.
+
+[COLOR=UIDefaultHighlight]Manufacturing Starbase spawned, -10% Ship Hit Points for 100 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession2d_Name</Label>
+    <String>Crisis: Secession - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession2d_Dec</Label>
+    <String>Aspire briefly attempts to stop our military from claiming the debt they owe us, but they are quickly put down. There is little they can do as our soldiers walk out with with enough cargo to repay their debt. Though they are good on their debt for now, they will not forget what we have done and will be problematic in the future.
+
+[COLOR=UIDefaultHighlight]Pirate Starbase spawned, +300 Credits[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession2e_Name</Label>
+    <String>Crisis: Secession - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession2e_Dec</Label>
+    <String>Aspire attempts to defend itself by firing on one of our ships, destroying it. They have delusions of grandeur, and will need to be put down.
+
+[COLOR=UIDefaultHighlight]Pirate Starbase spawned[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession3_Name</Label>
+    <String>Crisis: Secession (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession3_Dec</Label>
+    <String>Your soldiers maintain control for a few weeks. But a sudden uprising catches them off guard by newly armed Aspire troops. Before your soldiers can react, they are jailed. Now Aspire threatens that it won't release them until you agree to Aspire's sovereignty.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession3_Choice1Dec</Label>
+    <String>Grant them independence in return for releasing the soldiers.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession3_Choice1BonusDec</Label>
+    <String>+5 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession3_Choice2Dec</Label>
+    <String>Send an ambassador to reason with Aspire leadership.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession3_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Diplomacy check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession3_Choice3Dec</Label>
+    <String>Launch a team to board the starbase and recover the imprisoned soldiers by force.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession3_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession3a_Name</Label>
+    <String>Crisis: Secession - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession3a_Dec</Label>
+    <String>Aspire releases the soldiers without incident and celebrate their independence. The news media is flooded with interviews with Aspire leaders looking victorious and talking about how they stood up to our empire, and forced us to back down. Cartoons of you grovelling to babies, pigeons and bowls of pudding become popular. This leads to more of our citizens emigrating from our worlds to join Aspire.
+
+[COLOR=UIDefaultHighlight]Pirate Starbase spawned, -10% Morale for 25 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession3b_Name</Label>
+    <String>Crisis: Secession - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession3b_Dec</Label>
+    <String>Our ambassador offers only one option to Aspire leadership, release the held soldiers or no further talks will be held. He argues that until that is done, Aspire has declared war and the only response to that action will be military. It takes a few days before Aspire leadership comes around, but they do release our soliders and real talks begin. In working closely with them, our ambassador works out a deal where they may remain as long as they purchase goods from nearby worlds. Aspire agrees and your ambassador is celebrated for his firm stance and negotiation skills.
+
+[COLOR=UIDefaultHighlight]Income Starbase spawned, Unlocked new Crisis Manager (assign on the Government screen)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession3c_Name</Label>
+    <String>Crisis: Secession - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession3c_Dec</Label>
+    <String>Days of talks go nowhere. Aspire leadership threatens to send one of our captured soldiers out of an airlock unless we give into their demands. Our ambassador stands firm and they follow through on their threat. We quickly recall our ambassador, one of our soldiers is dead. This is no longer a diplomatic matter.
+
+[COLOR=UIDefaultHighlight]Pirate Starbase spawned, -25% Morale for 25 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession3d_Name</Label>
+    <String>Crisis: Secession - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession3d_Dec</Label>
+    <String>Our general was embarrassed that our soldiers were caught off guard. He makes up for it now. Ships attach to every docking port and heavily armored soldiers begin flooding into the starbase while a heavy warship floats above their shipyard waiting for movement. There are a few shots fired, but no casualties as your soldiers quickly overwhelm and capture the starbase. As our general walks onto the starbase, Aspire leaders are arrested. The starbase is fully under our control.
+
+[COLOR=UIDefaultHighlight]Free Starbase, Unlocked new Crisis Manager (assign on the Government screen)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession3e_Name</Label>
+    <String>Crisis: Secession - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_Secession3e_Dec</Label>
+    <String>Our military was embarrassed that their soldiers were caught off guard. They make up for it now. Ships attach to a docking port and heavily armored soldiers begin flooding into the starbase. There are a few shots fired, and a few casulties but your soldiers overwhelm and capture the starbase. But not before Aspire leaders escape in ships and flee.
+
+[COLOR=UIDefaultHighlight]Free Starbase, Pirate ships spawned[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster_Name</Label>
+    <String>Crisis: Space Monster</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster_Dec</Label>
+    <String>A terrifying space beast, larger than any vessel you've ever seen, appeared on the fringes of known space, heading in our direction. No one knows what, if anything, it wants.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster_Choice1Dec</Label>
+    <String>Attempt to contact the creature. See if we can coexist peacefully.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster_Choice1BonusDec</Label>
+    <String>+5 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster_Choice2Dec</Label>
+    <String>Assemble a fleet to scare (or fight) it off.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster_Choice2BonusDec</Label>
+    <String>+5 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster_Choice3Dec</Label>
+    <String>Try to capture the beast.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster_Choice3BonusDec</Label>
+    <String>+5 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster1_Name</Label>
+    <String>Crisis: Space Monster (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster1_Dec</Label>
+    <String>The beast doesn't respond to any traditional communications protocols, though they do attract his attention. The monster soon changes course, coming straight towards our worlds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster1_Choice1Dec</Label>
+    <String>Redouble our efforts to communicate with it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster1_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Diplomacy check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster1_Choice2Dec</Label>
+    <String>Make plans to fight it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster1_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster1_Choice3Dec</Label>
+    <String>Evacuate the colony.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster1a_Name</Label>
+    <String>Crisis: Space Monster - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster1a_Dec</Label>
+    <String>At the very last moment, one of your scientists discovers the beast responds to neutrino emissions. You use those to lure it away from your colony and back out to deep space. The scientist becomes renown for saving your worlds from the creature.
+
+[COLOR=UIDefaultHighlight]Unlocked new Crisis Manager (assign on the Government screen)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster1b_Name</Label>
+    <String>Crisis: Space Monster - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster1b_Dec</Label>
+    <String>All attempts to communicate with the monster fail. When it reaches {PLANETNAME}, it destroys it easily, before returning back to the depths of space.
+
+[COLOR=UIDefaultHighlight]{PLANETNAME} is Devastated[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster1c_Name</Label>
+    <String>Crisis: Space Monster - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster1c_Dec</Label>
+    <String>Miraculously, your last minute defense works, not damaging the beast but startling it enough to send it elsewhere, looking for easier prey. All involved in the fight learn some valuable lessons.
+
+[COLOR=UIDefaultHighlight]Global Effect: +3 Ship Range[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster1d_Name</Label>
+    <String>Crisis: Space Monster - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster1d_Dec</Label>
+    <String>With so little time left to prepare a defense, your fleet has no chance. The creature easily destroys the colonial defenses and now its developed a hunger for our ships.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster1e_Name</Label>
+    <String>Crisis: Space Monster - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster1e_Dec</Label>
+    <String>You successfully evacuate all your citizens from {PLANETNAME}. With an unknown energy weapon, the beast quickly and messily destroys the colony. It returns to deep space, never to be seen again.
+
+[COLOR=UIDefaultHighlight]{PLANETNAME} is Devastated, Two Free Colony Ships[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster2_Name</Label>
+    <String>Crisis: Space Monster (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster2_Dec</Label>
+    <String>You assemble a fleet to confront the beast, though it continues onward, undeterred. Eventually, you shoot it with the most powerful weapon in your arsenal. This attracts its attention. It diverts course to approach your fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster2_Choice1Dec</Label>
+    <String>Attempt to communicate with the thing.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster2_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Diplomacy check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster2_Choice2Dec</Label>
+    <String>Shoot it again. Harder.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster2_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster2_Choice3Dec</Label>
+    <String>Run away.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster2a_Name</Label>
+    <String>Crisis: Space Monster - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster2a_Dec</Label>
+    <String>As you frantically try to establish communications, the beast approaches and destroys one of your ships, releasing a neutrino burst. This catches the beast's attention. Thinking quickly, on of your generals carefully lures it away from the rest of the fleet using controlled neutrino bursts. This general's quick thinking makes him reknown across your worlds.
+
+[COLOR=UIDefaultHighlight]Unlocked new Crisis Manager (assign on the Government screen)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster2b_Name</Label>
+    <String>Crisis: Space Monster - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster2b_Dec</Label>
+    <String>All attempts to communicate fail. The beast overwhelms your defensive fleet before moving off in search of easier prey.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster2c_Name</Label>
+    <String>Crisis: Space Monster - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster2c_Dec</Label>
+    <String>Although your weapons do little damage, they do seem to discourage the beast. It changes course, heading away from your civilization in search of easier prey.
+
+[COLOR=UIDefaultHighlight]Global Effect: +25% Morale 25 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster2d_Name</Label>
+    <String>Crisis: Space Monster - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster2d_Dec</Label>
+    <String>All attempts to ward off the beast fail. It overwhelms the colonial fleet and now it has developed a taste for our ships.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster2e_Name</Label>
+    <String>Crisis: Space Monster - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster2e_Dec</Label>
+    <String>You order all ships to retreat, scattering them. The beast attempts to pursue one of them but soon gets discouraged, and wanders off, away from your civilization.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster3_Name</Label>
+    <String>Crisis: Space Monster (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster3_Dec</Label>
+    <String>A research vessel approaches, and after much experimentation with explosives and electrical shocks, discovers the beast is drawn to neutrino emitters. Although it's hardly captured, you can now place bread crumbs to lead it around.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster3_Choice1Dec</Label>
+    <String>Build a neutrino harness to control the creature.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster3_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Science check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster3_Choice2Dec</Label>
+    <String>Enslave the creature through pure strength of arms.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster3_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster3_Choice3Dec</Label>
+    <String>This is too dangerous, lead the creature away.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster3a_Name</Label>
+    <String>Crisis: Space Monster - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster3a_Dec</Label>
+    <String>A neutrino trail draws the creature into your newly developed harness. It successfully attaches to the creature and as your entire civilization waches your scientists issue their first command to the creature. As your entire civilization watches the creature follows the commands, happily travelings and attacking anything your scientists point it toward.
+
+[COLOR=UIDefaultHighlight]Free Space Monster[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster3b_Name</Label>
+    <String>Crisis: Space Monster - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster3b_Dec</Label>
+    <String>A neutrino trail draws the creature into your newly developed harness. It successfully attaches to the creature and as your entire civilization waches your sceients issue their first command to the creature. Apparently something in the harness malfunctions. Instead of being lead as expected the creature goes on a rampage, attacking everything in sight.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster3c_Name</Label>
+    <String>Crisis: Space Monster - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster3c_Dec</Label>
+    <String>You fleets throw everything they have at the creatures. Space becomes a technicolor nightmare full of explosions, lasers and shrapnel. Though the creature resists the bombardment, it eventually succumbs, floating exhausted and injured in space. When you threaten to launch another volley the creature reacts, prodded along by your fleet.
+
+[COLOR=UIDefaultHighlight]Free Space Monster[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster3d_Name</Label>
+    <String>Crisis: Space Monster - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster3d_Dec</Label>
+    <String>You fleets throw everything they have at the creatures. Space becomes a technicolor nightmare full of explosions, lasers and shrapnel. When the fireworks clear the creature still remains, and it is angry.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster3e_Name</Label>
+    <String>Crisis: Space Monster - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_SpaceMonster3e_Dec</Label>
+    <String>Using your neutrino bread crumbs, you lure the beast to the edge of known space. It wanders off.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral_Name</Label>
+    <String>Crisis: Rogue General</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral_Dec</Label>
+    <String>One of your most respected generals has begun a whisper campaign against your rule. He is infuriated that military spending isn't higher considering the threat of alien civilizations. He's gathering support quickly, and a coup is imminent.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral_Choice1Dec</Label>
+    <String>Reason with the general. Convince him to support your vision of a galactic empire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral_Choice1BonusDec</Label>
+    <String>+5 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral_Choice2Dec</Label>
+    <String>Leave him be. Your subjects will never betray you.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral_Choice2BonusDec</Label>
+    <String>+5 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral_Choice3Dec</Label>
+    <String>Execute the fool.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral_Choice3BonusDec</Label>
+    <String>+5 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral1_Name</Label>
+    <String>Crisis: Rogue General (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral1_Dec</Label>
+    <String>You summon the rogue general to your chambers, and make him answer for the rumors against him. He denies nothing, and despite your best efforts it is clear he's not likely to be persuaded.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral1_Choice1Dec</Label>
+    <String>Leave him be. Your subjects will never betray you.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral1_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Benevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral1_Choice2Dec</Label>
+    <String>Bribe the General.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral1_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Diplomacy check, -50 Credits</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral1_Choice3Dec</Label>
+    <String>Execute the fool.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral1a_Name</Label>
+    <String>Crisis: Rogue General - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral1a_Dec</Label>
+    <String>Indeed, you are correct. Within days the general disappears, no doubt taken care of by one of your loyal subjects. All who know of the matter are quietly impressesed with how you handled it.
+
+[COLOR=UIDefaultHighlight]+10% Morale for 50 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral1b_Name</Label>
+    <String>Crisis: Rogue General - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral1b_Dec</Label>
+    <String>You are only partially correct. Left to his own devices, the general raises many doubts about your rule. Some time later he is murdered by one of his own, as traitors know loyalty to no-one. But the damage is done.
+
+[COLOR=UIDefaultHighlight]-10% Morale for 50 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral1c_Name</Label>
+    <String>Crisis: Rogue General - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral1c_Dec</Label>
+    <String>The general is a vain sort, much given to the niceties of modern life. He is easily paid off, and soon becomes one of your strongest advocates.
+
+[COLOR=UIDefaultHighlight]Unlocked new Crisis Manager (assign on the Government screen)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral1d_Name</Label>
+    <String>Crisis: Rogue General - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral1d_Dec</Label>
+    <String>The general takes your money, but taking this as a sign of weakness, only limits his rabbel rousing somewhat. Every day your base of support gets chipped away further.
+
+[COLOR=UIDefaultHighlight]-10% Morale for 50 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral1e_Name</Label>
+    <String>Crisis: Rogue General - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral1e_Dec</Label>
+    <String>You order the traitor killed so that all know you are not to be crossed. The lesson is learned. As an added bonus, unraveling his estate results in a small boost to your treasury.
+
+[COLOR=UIDefaultHighlight]+350 Credits[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral2_Name</Label>
+    <String>Crisis: Rogue General (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral2_Dec</Label>
+    <String>The general begins his coup. As you predicted, the vast majority of your servants remain loyal to your cause. But not all. Some are swayed by the general's word and they take control of some military ships to attempt to sieze power.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral2_Choice1Dec</Label>
+    <String>Leave them be. My people will soon see reason.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral2_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Benevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral2_Choice2Dec</Label>
+    <String>Send troops in to stop the rebellion.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral2_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral2_Choice3Dec</Label>
+    <String>Give in to the General's demands and increase military spending.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral2_Choice3BonusDec</Label>
+    <String>-10% Income, +5% Military</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral2a_Name</Label>
+    <String>Crisis: Rogue General - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral2a_Dec</Label>
+    <String>Your subjects are as loyal as you'd hoped, and soon exile the general beyond the borders of your empire entirely. If anything, the experience only strengthens their support for you.
+
+[COLOR=UIDefaultHighlight]+10% Morale for 25 turns, +20 Benevolent[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral2b_Name</Label>
+    <String>Crisis: Rogue General - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral2b_Dec</Label>
+    <String>Your subjects on {PLANETNAME} fall prey to the traitor's silver tongue. Though the colony remains ours, they will forever be poisoned against us.
+
+[COLOR=UIDefaultHighlight]Permanent -25% Morale on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral2c_Name</Label>
+    <String>Crisis: Rogue General - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral2c_Dec</Label>
+    <String>Your troops easily quell the rebel forces on {PLANETNAME}, sustaining insignificant casualties in the process. Throughout the Empire, everyone learns the price of crossing you.
+
+[COLOR=UIDefaultHighlight]Global Effect: +25% Morale and Influence for 25 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral2d_Name</Label>
+    <String>Crisis: Rogue General - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral2d_Dec</Label>
+    <String>Your troops quell the rebel forces, though not without significant civilian casulties. The media is flooded with scenes of destroyed schools, hospitasl struggling to handle patients and the dead. Scenes of the destruction do not go over well around the Empire.
+
+[COLOR=UIDefaultHighlight]Global Effect: -25% Morale and Influence for 25 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral2e_Name</Label>
+    <String>Crisis: Rogue General - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral2e_Dec</Label>
+    <String>The general agrees to your proposal and toasts his success with his followers. Although any ongoing crisis has been averted, your citizens whisper that the government must be weak to allow a single rogue general to force policy.
+
+[COLOR=UIDefaultHighlight]Global Effect: -5% Morale for 25 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral3_Name</Label>
+    <String>Crisis: Rogue General (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral3_Dec</Label>
+    <String>The rogue general goes through weeks of a hotly contested military trial. He claims to be innocent and some witnesses change their testimony, and others simply disappear. The day before the verdict is announced you are told that the military panel doesn't have the evidence they need to find him guilty, even though most believe he was actively plotting a coup.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral3_Choice1Dec</Label>
+    <String>Send someone to speak to the military panel. Perhaps they can be convinced.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral3_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Diplomacy check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral3_Choice2Dec</Label>
+    <String>Allow your scientists to examine the general's communication systems.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral3_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Science check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral3_Choice3Dec</Label>
+    <String>In an Imperial government I don't need evidence. Have him found guilty and executed anyway.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral3a_Name</Label>
+    <String>Crisis: Rogue General - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral3a_Dec</Label>
+    <String>Your consultant meets with each of the members of the Military panel and reviews all the evidence with them. He makes the case that even though there is no single piece of damning evidence, the mountain of odd meetings, lost messages, and suspicious trips adds up to compelling arguement.
+
+When the verdict is announced you find that your consultant has done enough to convince the panel to find him guilty. Although the general scream's that this is unjust you rest easy knowing that you did not upset the scales of justice, even if you might have tipped them slightly in your favor.
+
+[COLOR=UIDefaultHighlight]Global Effect: +5 Influence per Colony for 25 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral3b_Name</Label>
+    <String>Crisis: Rogue General - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral3b_Dec</Label>
+    <String>Your consultant meets with each of the members of the Military panel and reviews all the evidence with them. He makes the case that even though there is no single piece of damning evidence, the mountain of odd meetings, lost messages, and suspicious trips adds up to compelling argument.
+
+But in the end it isn't enough. The panel still finds the general innocent and he is released. He retires to {PLANETNAME} which immediately becomes poisoned against you, even though none of it can be traced back to him.
+
+[COLOR=UIDefaultHighlight]Permanent -25% Morale on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral3c_Name</Label>
+    <String>Crisis: Rogue General - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral3c_Dec</Label>
+    <String>One of your scientists discovers that the general met with a conspirator in a manufacturing plant, in a room where a furnace produced metal bars. The equipment is so precise, the voices in the room were enough to leave minute impressions on the hot metal. By measuring those impressions the scientist was able play back the conversation that happened in the room, and hear the evidence of the general planning his coup.
+
+Based on that evidence, the general is convicted. Your citizens applaud your fairness and the talent of your scientist in discovering the evidence.
+
+[COLOR=UIDefaultHighlight]Unlocked new Crisis Manager (assign on the Government screen)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral3d_Name</Label>
+    <String>Crisis: Rogue General - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral3d_Dec</Label>
+    <String>Your scientists spend days pouring over all the data that has been collected and end up accidentally deleting some of the transcripts. The court is annoyed by the delay and their incompetence. In the end they still find the General innocent and he is released. He retires to {PLANETNAME} which immediately becomes poisoned against you, even though none of it can be traced back to him.
+
+[COLOR=UIDefaultHighlight]Permanent -25% Morale on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral3e_Name</Label>
+    <String>Crisis: Rogue General - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_RogueGeneral3e_Dec</Label>
+    <String>The Military panel's verdict is never announced and the testimony is classified. But the execution of the rogue general is widely covered by media as a warning to others that might plot against you. Most of your citizens don't even notice that the trial didn't conclude, but a few do feel like the court is only a puppet for your machinations.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites_Name</Label>
+    <String>Crisis: Brain Parasites</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites_Dec</Label>
+    <String>Some of your citizens have fallen prey to a native parasite which has taken over their mental functions. These parasites, using your own people as mouthpieces, would like a word with you.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites_Choice1Dec</Label>
+    <String>Communicate with the parasites.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites_Choice1BonusDec</Label>
+    <String>+5 Benevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites_Choice2Dec</Label>
+    <String>Search for a cure.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites_Choice2BonusDec</Label>
+    <String>+5 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites_Choice3Dec</Label>
+    <String>Try to weaponize this creature.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites_Choice3BonusDec</Label>
+    <String>+5 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites1_Name</Label>
+    <String>Crisis: Brain Parasites (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites1_Dec</Label>
+    <String>The parasites inform you that your people are intruding on their world, where they have dwelled for many millennia. They wish us no harm, but instead desire to peacefully coexist with us. If we agree to this we'll gain an ally, but might lose control of the colony.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites1_Choice1Dec</Label>
+    <String>Accept the parasites' terms. A new ally is always welcome.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites1_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Diplomacy check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites1_Choice2Dec</Label>
+    <String>Search for a cure.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites1_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Science check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites1_Choice3Dec</Label>
+    <String>Destroy the entire colony.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites1_Choice3BonusDec</Label>
+    <String>+10 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites1a_Name</Label>
+    <String>Crisis: Brain Parasites - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites1a_Dec</Label>
+    <String>The parasites agree to terms with you, and sign a trade agreement. In short order, they have infested {PLANETNAME} and massively increase the research that planet provides.
+
+[COLOR=UIDefaultHighlight]Permanent +50% Research on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites1b_Name</Label>
+    <String>Crisis: Brain Parasites - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites1b_Dec</Label>
+    <String>Negotiations with the parasites proves problematic, and although they remain civil, they refuse to release their hold on the citizens of {PLANETNAME} and won't participate toward the colonies goals.
+
+[COLOR=UIDefaultHighlight]Permanent -25% Morale on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites1c_Name</Label>
+    <String>Crisis: Brain Parasites - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites1c_Dec</Label>
+    <String>After studying epidemiological data on how the parasites spread, one of your sceintists finds a plant on {PLANETNAME} toxic to the brain parasites, and uses it to synthesize a cure, freeing your colonists from the command of the parasites while still retaining some of their unique knowledge.
+
+Your citizens applaud your scientist's brillance.
+
+[COLOR=UIDefaultHighlight]Unlocked new Crisis Manager (assign on the Government screen)[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites1d_Name</Label>
+    <String>Crisis: Brain Parasites - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites1d_Dec</Label>
+    <String>The parasites are like nothing your researchers have seen before, and progress is slow. Eventually a chemical cocktail is discovered which cures the parasites, though it kills many colonists on {PLANETNAME} as well.
+
+[COLOR=UIDefaultHighlight]-50% Population on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites1e_Name</Label>
+    <String>Crisis: Brain Parasites - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites1e_Dec</Label>
+    <String>Your ships turn their weapons on the colony, wiping it out as well as all known environs where the parasites were found. An extreme measure, but you have a world you can recolonize safely again.
+
+[COLOR=UIDefaultHighlight]-50% Population on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites2_Name</Label>
+    <String>Crisis: Brain Parasites (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites2_Dec</Label>
+    <String>The parasites are like nothing you've seen on your own world, and progress is slow. But eventually your researchers come up with a possible cure. The only side effect is it will wipe out the brain parasites, a clearly intelligent, sentient form of life, forever.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites2_Choice1Dec</Label>
+    <String>Apply the cure to any citizen that shows symptoms.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites2_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Science check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites2_Choice2Dec</Label>
+    <String>Threaten the parasites, they will obey you, or you will use the cure.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites2_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Diplomacy check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites2_Choice3Dec</Label>
+    <String>Treat everyone, just to be safe.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites2a_Name</Label>
+    <String>Crisis: Brain Parasites - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites2a_Dec</Label>
+    <String>Your scientists believe they have successfully detected all cases of the brain parasite on {PLANETNAME} and cured your citizens. Though some citizens suffer side effects, they are minimal and your citizens cheer your judgement and effectiveness.
+
+[COLOR=UIDefaultHighlight]Permanent +25% Morale on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites2b_Name</Label>
+    <String>Crisis: Brain Parasites - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites2b_Dec</Label>
+    <String>Your scientists thought they detected all cases of the brain parasite. But they were wrong. Some escape and go into hiding, slowly spreading into new hosts and doing whatever they can to hinder your efforts on {PLANETNAME}.
+
+[COLOR=UIDefaultHighlight]Permanent -30% Production on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites2c_Name</Label>
+    <String>Crisis: Brain Parasites - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites2c_Dec</Label>
+    <String>You can release the cure into the water supply or the air. A small demonstration of that brings the brain parasites immediately into line. Though few will be willing to travel to {PLANETNAME} now, the brain parasites command their hosts to spend long hours working in our research labs, to our benefit.
+
+[COLOR=UIDefaultHighlight]Permanent +25% Research on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites2d_Name</Label>
+    <String>Crisis: Brain Parasites - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites2d_Dec</Label>
+    <String>The brain parasites are accustomed to controlling their hosts, not being controlled. They revolt at your threats and begin destroying the colony. Your scientists release the cure in response and they are put down. But not before some manage to hijack some ships to attack you with.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites2e_Name</Label>
+    <String>Crisis: Brain Parasites - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites2e_Dec</Label>
+    <String>Everyone on {PLANETNAME} is treated, just to be sure. As your scientists predicted some suffer debilitating side effects that will last for generations. But in the end the threat is extinguished.
+
+[COLOR=UIDefaultHighlight]Permanent -25% Growth on {PLANETNAME}[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites3_Name</Label>
+    <String>Crisis: Brain Parasites (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites3_Dec</Label>
+    <String>You successfully capture a few specimens of the parasite. A small canister filled with these things could easily contaminate thousands.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites3_Choice1Dec</Label>
+    <String>Inform the galaxy of our new weapon.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites3_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Malevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites3_Choice2Dec</Label>
+    <String>Secretly deploy it against one of our enemies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites3_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites3_Choice3Dec</Label>
+    <String>Let's make a less powerful parasite. Just enough to make the infected happy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites3a_Name</Label>
+    <String>Crisis: Brain Parasites - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites3a_Dec</Label>
+    <String>Civilizations across the galaxy take great alarm at your new weapon. All will think twice about crossing us now.
+
+[COLOR=UIDefaultHighlight]Global Effect: +2 Diplomacy[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites3b_Name</Label>
+    <String>Crisis: Brain Parasites - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites3b_Dec</Label>
+    <String>Civilizations across the galaxy take great alarm at your new weapon. Unfortunately, this doesn't inspire fear so much as resolve to stop your villainy.
+
+[COLOR=UIDefaultHighlight]Global Effect: -2 Diplomacy[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites3c_Name</Label>
+    <String>Crisis: Brain Parasites - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites3c_Dec</Label>
+    <String>Your military slowly expose members of other civilizations to your captured brain parasites. They continue to live out their lives, pretending to be loyal citizens of their empires while secretly hosting parasites that make them loyal to you. Diplomats, merchants and soldiers all ready to end their facade and serve you when the time comes. This will certainly make it easier to invade enemy worlds.
+
+[COLOR=UIDefaultHighlight]Global Effect: +25% Soldiering[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites3d_Name</Label>
+    <String>Crisis: Brain Parasites - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites3d_Dec</Label>
+    <String>Your scientists hadn't accounted for the difference in alien physiology. After nearly a month the brain parasite loses control of the host putting them in a homicidal rage. Though they are never able to prove your involvement several civilizations note that the effected all came in contact with your agents a few weeks before going mad.
+
+[COLOR=UIDefaultHighlight]Global Effect: -2 Diplomacy[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites3e_Name</Label>
+    <String>Crisis: Brain Parasites - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainParasites3e_Dec</Label>
+    <String>Seus cientistas são capazes de fabricar uma tensão mais fraca do parasita que não pode controlar o hospedeiro, mas pode moderar seu humor. Você os emprega em locais turísticos para criar uma sensação de euforia. Isso faz de seus locais de férias os melhores do universo. Há ocasionais efeitos colaterais induzidos pela raiva homicida, mas seus cientistas lhe dizem que eles estão bem dentro dos limites normais.
+
+[COLOR=UIDefaultHighlight]Global Effect: +1% Tourism[/COLOR]</String>
+  </StringTable>
+ 
+</StringTableList>

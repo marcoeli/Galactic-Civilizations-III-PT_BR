@@ -1,0 +1,1904 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- KrynnTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>KrynnTechTree_Name</Label>
+    <String>Krynn Tech Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTechTree_ShortDec</Label>
+    <String>Tech tree focused on Influence and Approval.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTechTree_Dec</Label>
+    <String>Tech tree focused on Influence and Approval.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnColonizationTech_Dec</Label>
+    <String>We cannot remain on Krynn indefinitely if we hope to spread the Way to every sentient being in the galaxy. We must expand.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnXenoIndustrializationTech_Dec</Label>
+    <String>Adapting even our most basic technology to work on alien worlds is a serious challenge. But no challenge is too great for a people infused with our inner strength.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnIndustrialSpecialization1_Dec</Label>
+    <String>Manufacturing capacity will prove critical to enriching ourselves as we expand throughout space. And it will of course be useful when and if we need to spread the Path via forceful means. </String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnIndustrialSpecialization2_Dec</Label>
+    <String>New technology always offers the opportunity for profit, whether via artificial scarcity, or even simple counterfeiting. In the long term, our mastery of the physical world will help us spread the Path further and faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnIndustrialSpecialization3_Dec</Label>
+    <String>Blasphemers within our civilization, who reject both the Path and the Path of Shadows, have long sapped our construction sector. If we can finally crush their influence, that will leave more funds in the treasury for our other needs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnAdvancedConstruction_Dec</Label>
+    <String>Advanced factories will help increase our manufacturing capacity, ensuring our people have the tools they need to continue their journeys along the Path.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnConstructionOptimization1_Dec</Label>
+    <String>With the right motivation techniques we can ensure our workers are as committed to the Path as possible, and understand the important of production in spreading it. This should boost production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnConstructionOptimization2_Dec</Label>
+    <String>Using our peers within the Secret Order to identify and purge the blasphemers, we can ensure managers within our manufacturing sector are loyally committed to the Path, and willing to make all necessary sacrifices to reduce our manufacturing costs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnConstructionOptimization3_Dec</Label>
+    <String>An increased security presence should limit the protection rackets which have long inflicted our manufacturing sector. All manufacturing maintenance costs should now be reduced.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnXenoManufacturingMethods_Dec</Label>
+    <String>Thanks to the enlightened work of our researchers, we're now able to build a new generation of exotic manufacturing centers. </String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnManufacturingFocus1_Dec</Label>
+    <String>The need for a military is not always clear to Krynn who have yet to see the Way. But when we make them understand that ascension will not be possible until all sentient life has begun along the Path, even by force, the need becomes clearer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnManufacturingFocus2_Dec</Label>
+    <String>Civilian manufacturing allows us to build the cultural structures and Krynniac facilities we need to show people the Path. All Krynn, regardless of species, caste, or clan, can surely see that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnManufacturingFocus3_Dec</Label>
+    <String>Internal audits, inquisitions, and random locker inspections should help catch any remaining heretics within our manufacturing sector, and reduce our manufacturing costs a bit more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnIndustrialExpertise_Dec</Label>
+    <String>Our researchers have found a way to manipulate matter on the level of individual atoms. Crude to someone who understands the majesty of the Way, but this mastery of physical matter will allow us to increase our manufacturing capacity even more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnIndustrialMastery1_Dec</Label>
+    <String>Our military manufacturing is now as efficient as it can be. We shall soon force the Path into the minds of all who have resisted its brilliance.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnIndustrialMastery2_Dec</Label>
+    <String>The structures which assure our people's quality of life and assist with the spread of the Path can now be made for far fewer resources.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPracticalFusion_Dec</Label>
+    <String>Cascading fusion reactors will allow our manufacturing plants to be more effective. Although these represent an enormous security risk, even the most vicious heretics wouldn't be foolish enough to tamper with them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnQuantumPower_Dec</Label>
+    <String>The energy stored in the quantum zero point state will grant our manufacturing plants an almost limitless source of power. This is a gift from the creator, and we must use it wisely.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnInstitutionalResearch_Dec</Label>
+    <String>Researching the physical world may seem trivial to those of us who fully understand the Way. Yet we must remain in this physical world until the Way has been spread to all sentient life. This will take awhile, so we'd better get good at it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnResearchOptimization1_Dec</Label>
+    <String>The Path is more flexible than most people know, and with the right adjustments, we can grant our faithful researchers the time they need to conduct research, while still keeping up the spiritual duties the Path requires.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnResearchOptimization2_Dec</Label>
+    <String>Our researchers are blinded by both their work and their commitment to the Path. Certainly too blind to pay attention to trivial secular things like money. With the right managers, we should be able to cut down on our research costs quite a bit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnResearchOptimization3_Dec</Label>
+    <String>However important research is, the Secret Order will not tolerate our government spending resources wastefully. We should ensure our research facilities consume as few of our resources as possible.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnResearchCenters_Dec</Label>
+    <String>Advanced research facilities will give our researchers the tools they need to push back the veil of darkness of the physical world, making it a little bit more like the world of unencumbered light that is the Way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnIntegratedResearch_Dec</Label>
+    <String>Advanced academies can accommodate teams of researchers working on larger, more complicated projects, and provide the spiritual support those researchers need to maintain their own individual progress along the Path.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnResearchMatrixTech_Dec</Label>
+    <String>A massive city-sized research facility will allow our researchers the time they need to make the biggest breakthroughs. And isolating them from the general population will make it easier to protect them from the distressing cries of blasphemers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDeeperKnowledge_Dec</Label>
+    <String>There are curious parallels between the physical world and the Way. Research teams dedicated to studying these congruencies may be able to make incredible breakthroughs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnQuantumUnderstanding_Dec</Label>
+    <String>It should come as no surprise, but our grasp over the Way has led us to startling truths about the quantum world. Both this plane and the next are falling open before us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBeyondMortality_Dec</Label>
+    <String>Ascension will make us immortal, allowing us to bring the Way to the plane beyond this one. The Secret Order is both pleased and terrified, trembling about what this change implies for their control. But there is no stopping the process now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnResearchCoordination_Dec</Label>
+    <String>As devout as they are, our researchers are by their nature, a bit absentminded. We'll be able to get the most out of them by constructing coordination centers to organize their work and keep them focused on the task at hand.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnNeroLinking_Dec</Label>
+    <String>Direct brain-to-brain communication will greatly increase the effectiveness of our researchers, and make it far easier for us to monitor them for blasphemous thoughts or the presence of outside influences.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnCoordinationTempleTech_Name</Label>
+    <String>Coordination Temple</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnCoordinationTempleTech_ShortDec</Label>
+    <String>Allows construction of the Coordination Temple.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnCoordinationTempleTech_Dec</Label>
+    <String>The coordination of labor and spiritual health of our devoted workers can be tended to by specially trained curates who already have mastered critical aspects of the Path.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLaborMissionTech_Name</Label>
+    <String>Labor Mission</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLaborMissionTech_ShortDec</Label>
+    <String>Allows construction of the Labor Mission.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLaborMissionTech_Dec</Label>
+    <String>The purpose of  the Path is to ensure that every person has the rules and structure needed to find their own personal happiness, and eventually the Way. Facilities to assist workers with this journey will help them contribute better to our civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLaborOracleTech_Name</Label>
+    <String>Labor Oracle</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLaborOracleTech_ShortDec</Label>
+    <String>Allows construction of the Labor Oracle.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLaborOracleTech_Dec</Label>
+    <String>On rare nights, Krynn are born that possess the ability to see into another's eyes and take the true measure of their potential. By placing these gifted individuals in the right places, we can ensure all our workers are walking the proper Path for them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPlanetaryImprovement_Dec</Label>
+    <String>The planets we settle on will require a variety of structures, for food production, places of worship, and internal monitoring.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPlanetarySpecialization1_Dec</Label>
+    <String>Our researchers have found a forgotten species of crop from our own world which adapts well to alien environments. Food production should go up as a result.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPlanetarySpecialization2_Dec</Label>
+    <String>With a few simple changes to the appropriate elements of the Path, we can tie some of our rituals surrounding food to the importance of fertility. With the right touch, and some gentle winking, our population growth rates should increase as a result.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPlanetarySpecialization3_Dec</Label>
+    <String>Adapting some of our crops to include mild stimulants will ensure our workers can work longer and harder, improving the production capacity without impacting the time they need to pursue the Path.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnXenoAgriculturalAdaptation_Dec</Label>
+    <String>The blasphemers within our civilization have far less influence over our colonies than they do on our home world. If we increase our farming potential to expand our colonies faster, we can ensure more Krynn stay on the right and true Path.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnAgriculturalOptimization1_Dec</Label>
+    <String>Placing a loyal curate in charge of each farm, to "bless" the food as it is produced will ensure that less of it goes "missing" in production, indirectly boosting our farm production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnAgriculturalOptimization2_Dec</Label>
+    <String>If we directly procure startup equipment for our farmers, instead of forcing them to take the unfairly inflated prices our black market offers, we can reduce the startup costs of our farms somewhat.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnAgriculturalOptimization3_Dec</Label>
+    <String>A sad thing, placing members of the Shadow Path around our farms, but if it cuts down on the vandalism and extortion threats, it should be cheaper to run our farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnIntensiveFarming_Dec</Label>
+    <String>Our multi-racial nature means that we're already used to growing wide varieties of crops to suit various diets. The variety of crops needed, and the space that requires has made our farmers experts at growing in even the most marginal conditions. </String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnFarmingFocus1_Dec</Label>
+    <String>Our researchers have discovered that if we force our farmers to implement a different code of fertilization techniques, we should see greater food production. A change to the Farmers' Path is in order.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnFarmingFocus2_Dec</Label>
+    <String>The Secret Order has quietly suggested we reduce the costs of starting a farm by simply giving our farmers less money. The farmers don't seem happy about it, but they do the work anyways, because they have to. The Secret Order is wise.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnFarmingFocus3_Dec</Label>
+    <String>The creator saw fit to bless worlds across the galaxy with plants edible by us, and by taking the strains and species which adapt to the widest range of environments, we can ensure our farms operate much more cost-efficiently.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLosslessFarming_Dec</Label>
+    <String>Our researchers have developed a way to insert inventory tracking devices into food as soon as it's produced, which should dramatically cut down on the mysterious losses we attribute to theft by heretics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnAgriculturalMastery1_Dec</Label>
+    <String>By replacing our monitoring curates with automated food blessing systems, we can remove a bottleneck that had been holding back our food production capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnAgriculturalMastery2_Dec</Label>
+    <String>The example set by our farmers now serves as a symbol of Krynn fertility, and with the right change to the Path, we can make that symbol a legally meaningful one. Mere proximity to farms will now require our people to reproduce more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnFoodDistributionTech_Dec</Label>
+    <String>Distributing different types of food to the many races of the Krynn is something we mastered millennia ago. Adapting these tools and techniques to new worlds will be a small challenge for a people so enlightened.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnXenoIrrigation_Dec</Label>
+    <String>A member of the Secret Order has approached us with a request to permit his organization to begin constructing large scale irrigation systems for our colonies. A large contract to just give away, but the benefit to our food production is undeniable.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBiomassResequencing_Dec</Label>
+    <String>Biomass resequencers will allow us to turn compost into food. This will boost the production of neighboring farms, but also create a black market for compost. Let's make sure the Secret Order get their foot into that business before we begin. </String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnXenoBiology_Dec</Label>
+    <String>Due to our unique heritage, the Krynn are already familiar with multi-species medical issues.  Adapting this philosophy to the challenges posed by alien biospheres is a small step, but one that must still be taken. Our people deserve proper medical care.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPopulationEnhancement_Dec</Label>
+    <String>The Path governs the way our people must live their lives as they slowly come closer to the Way. It is not a static thing, and by adjusting it wisely, we can require our people to attend the fertility clinics necessary for building a strong population.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBioReplication_Dec</Label>
+    <String>Bio-replication has profound ethical considerations, even if the boost to our population growth rate is too significant to ignore. The potential for criminal mischief is very real. Some of the proposals the Secret Order are suggesting  are terrifying.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnEnvironmentalEngineering_Dec</Label>
+    <String>Thanks to our researchers' efforts, we can now manipulate the terrain of a planet with the same ease with which we shape the hearts and minds of our people.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnExtremeWorldColonization_Dec</Label>
+    <String>Composed of a wide variety of races, capable of surviving in a variety of environmental envelopes, gives the Krynn a unique ability to colonize worlds too difficult for single-species civilizations.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnColonizationFocus1_Dec</Label>
+    <String>Thanks to many simultaneous advances in environmental and engineering research, aquatic worlds will no longer have reduced production, and can now be settled by the full spectrum of Krynn species.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnColonizationFocus2_Dec</Label>
+    <String>Frozen worlds will kill less of our people now. Except when inquisitors from the Shadow Path deem it necessary, of course.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnColonizationFocus3_Dec</Label>
+    <String>Life on barren worlds is now far more tolerable, thanks to our dedicated researchers. A special requirement of the Path for those who dwell on such planets now requires them to thank those researchers via prayer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnAtmosphericCleansing_Dec</Label>
+    <String>Thanks to our control over the texts that make up and interpret the Path, we can make Krynn live on even the foulest and most toxic planetary environments. Enemies of the Secret Order make ideal candidates.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBiospherePerfection1_Dec</Label>
+    <String>Even mutants can follow the Path, and they find more acceptance in Krynn society than they would elsewhere. But that's no reason to make mutants unnecessarily. Our technology has now made radioactive worlds perfectly safe.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBiospherePerfection2_Dec</Label>
+    <String>With our latest technology, we shall lose no more Krynn to hellacious toxic environments. We pray for those so lost, and promise to them that we shall not rest until the Way has reached everyone, so that we might rejoin them in the afterlife.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTerraformingTech_Dec</Label>
+    <String>A people made up of a number of different races is capable of making use of a far greater variety of biomes than a civilization with a less diverse make-up.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHabitatImprovement_Dec</Label>
+    <String>We must be sure to protect out most advanced terraforming processes, lest they fall into the hands of blasphemers. The Secret Order insist that this technology must serve their purposes above all others.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnSoilReclamation_Dec</Label>
+    <String>We now have the capability of fabricating land from almost nothing, allowing Krynn to pursue their Paths on formerly unusable terrain.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnEnvironmentalResequencing_Dec</Label>
+    <String>Environmental resequencing adds usable land to all planets in our power. This is a monumental technology, that shouldn't belong in the hands of a mortal. We're lucky the Secret Order wields power so wisely.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnEngineeringTech_Dec</Label>
+    <String>This hyperdrive invention of the humans will dramatically speed up our efforts to convert the rest of the galaxy to the Way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnInterstellarTravel_Dec</Label>
+    <String>If we can make better ships, faster, far-seeing, or longer lasting, we'll be able to spread the Way faster. And more comfortable ships could be an important favor to offer Krynn we want to reward.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnInterstellarSpecialization1_Dec</Label>
+    <String>These hyperdrives of the humans have a number of inefficiencies. "Clever, but not wise," would be an excellent way to describe them. We'll improve the drives now, and the humans later.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnInterstellarSpecialization3_Dec</Label>
+    <String>Improved life support recirculation systems will not only increase our ships' effective ranges, they'll make our crews more comfortable, and better able to remain on the Path.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnIonDriveTech_Dec</Label>
+    <String>Our researchers have found that by capturing ions during hyperdrive flight and adding them to the exhaust of our conventional engines we can travel faster. The Secret Order insists we reward these researchers for their genius.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnIonOptimization1_Dec</Label>
+    <String>A modification to the magnetic field capture device should lead to higher ion capture rates and higher speeds for our vessels.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnIonOptimization2_Dec</Label>
+    <String>The field coils of our Ion Drives were over-specced, possibly to give a supplier tied to the Secret Order a cushy deal. We've fixed that, which should lower our drive costs, and are considering how to delicately raise this issue with our shadowy masters.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnIonOptimization3_Dec</Label>
+    <String>Our early hyperdrives were very heavy, made by an associate of the Secret Order who was perhaps less than capable. After much internal struggle, we've stripped them of their contract and found another "friend"  who can deliver lighter drives to us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnWarpFieldTheory_Dec</Label>
+    <String>"Stacked" hyperfields will magnify the acceleration effect they offer. These Warp fields will allow us to spread the Way to the distant corners of the galaxy much more rapidly.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnWarpFieldFocus1_Dec</Label>
+    <String>Our ever pious researchers have found new ways to arrange the stacked hyperfields, leading to improved speed for all of our Warp Drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnWarpFieldFocus2_Dec</Label>
+    <String>A critical part of our hyperfield generators was being manufactured by a supplier who was willing to lower his prices after a few late night visits by our friends in the Secret Order. Bless his generosity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnWarpFieldFocus3_Dec</Label>
+    <String>A redesign of our hyperfield generators to accommodate the fact that we're now equipping them in parallel should lead to lower overall mass for these systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHyperwarpWaves_Dec</Label>
+    <String>Hyperwarp uses cascading warp fields to allow out drives to compress already compressed space. The light that shines on our researchers' minds is sometimes a wondrous thing.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHyperwarpMastery1_Dec</Label>
+    <String>It's not that we've gotten rid of all the waste in our hyperdrive construction, although we have gotten rid of most of it. It's just that all that waste that remains is going to the right parties. </String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHyperwarpMastery2_Dec</Label>
+    <String>The Secret Order has found a supplier willing to deliver new, low-mass plasma conduits to us at the same cost as previous models. How fortunate we are that so many Krynn are willing to makes sacrifices of their own to help spread the Way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnStellarFoldingTech_Dec</Label>
+    <String>Stellar folding drives will warp space around our ships as never before. The glory of the Way will arrive where we choose faster than ever.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHyperfieldProjection_Dec</Label>
+    <String>Our researchers have found ways to generate hyperfields that can affect the speed of an entire fleet. The ships chosen to hold such technology will be enormously influential, and must be staffed by our most faithful crews.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnGravityFieldManipulation_Dec</Label>
+    <String>Gravity Field manipulators will grant our vessels increased maneuverability and tactical options in those unfortunate situations when the Way is aggressively resisted by primitive minds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHyperfieldDisruption_Dec</Label>
+    <String>A variant of the speed boosting technology can now be used to restrict the speed of any ships we so choose. The potential for criminal mischief with such a technology is high; The Secret Order insist we keep it under close watch.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnStellarFieldProjection_Dec</Label>
+    <String>Our speed boosting modules can now effectively "tow" ships with less capable drives. This will allow us to equip our less faithful crews with less capable ships, without compromising fleet effectiveness.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnInterstellarSurvey_Dec</Label>
+    <String>Throughout the history of our various peoples, success has always hinged on knowing more than your adversary. Sensors and survey equipment will illuminate the galaxy to us, showing us the path forward.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnSensorOptimization1_Dec</Label>
+    <String>Our researchers have developed new algorithms for processing the information our sensors return, turning data from greater distances into usable intelligence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnSensorOptimization2_Dec</Label>
+    <String>Our sensors detect the perturbations emitted by hyperfields to detect ships moving faster than the speed of light. The equipment used to do this was initially quite costly, but our researchers have found ways to bring the prices down a little.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnSensorOptimization3_Dec</Label>
+    <String>The more sensor equipment we can squeeze in our vessels the better, making this new lighter-weight sensor equipment our researchers have developed very valuable indeed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnEnergyFieldSensors_Dec</Label>
+    <String>The space folding perturbations emitted by ships traveling via hyperdrive are detectable at much greater distances than we'd previously thought. Our researchers have developed new sensors capable of using this new technique.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnEnergyFieldFocus1_Dec</Label>
+    <String>Additional shielding to isolate our sensors from the energy emitted by the ships carrying them seems to improve their ability.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnEnergyFieldFocus2_Dec</Label>
+    <String>Our crews have been using an aftermarket processing software which works the same as the one provided, but costs much less. We'll implement the change fleet wide, though probably won't investigate how an inefficient supplier won such a choice contract.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnEnergyFieldFocus3_Dec</Label>
+    <String>Our sensor equipment comes from the manufacturer with much unneeded extra gear that our crews were stripping off. If we do that fleet wide, we should see lighter sensors for everyone.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnSubspaceSensors_Dec</Label>
+    <String>Subspace is the reality underneath this one. Devoid of sentient life, and thus normally beneath the interest of those who spread the Way, our researchers note that by accessing it, our sensors should be able to see further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnSensorMastery1_Dec</Label>
+    <String>We've rooted out a very clever scam in our network of sensor parts suppliers, an organization which had been overbilling us for decades. Our sensors will now be cheaper, and the fiends will now be subject to a more detailed inquisition.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnSensorMastery2_Dec</Label>
+    <String>Our scientists are insisting we build their sensors with the suppliers of their choosing. Secular needs, such as the protection of the Secret Order's interests, have long prevented this. But the potential weight savings may now be too great to ignore.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTargetingAssistTech_Dec</Label>
+    <String>In circumstances that require us to introduce the Path to an alien species via force, improved targeting and stealth systems will give our vessels the edge they need.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTargetingSupport_Dec</Label>
+    <String>Our tactical sensor and evasion modules can now benefit an entire fleet of vessels. Cooperation will be necessary to maximize the effectiveness of this equipment, but that's an area the Krynn have always excelled in.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnXenoArcheology_Dec</Label>
+    <String>The Precursors were the first beings created by the shattering of the great crystal. Much of what they know is lost to us, but by analyzing their relics, we might peace together more of their history, shedding more light on the Way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPrecursorStudies_Dec</Label>
+    <String>Precursor technology seems to use a form of "dark energy" present both in the fragments of the long shattered crystal, as well as in all life. We still have much to learn to recreate this technology ourselves. But we must persist.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPrecursorRelicFocus1_Dec</Label>
+    <String>By selecting our most pious researchers to work on Precursor artifacts, we can ensure not only faster research, but that their secrets aren't leaked out to the heretics that lurk in the shadows of our culture.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPrecursorRelicFocus2_Dec</Label>
+    <String>If we highlight the parallels newly discovered Precursor artifacts have with the Way, we can make the wisdom of our path more apparent to those in the galaxy who still refuse to see it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPrecursorRelicFocus3_Dec</Label>
+    <String>Carefully released details of new Precursor artifacts, details that support the elements of the Path related to industry and enterprise, should increase the economic boost these artifacts seem to cause in our people.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPrecursorExploitation_Dec</Label>
+    <String>Our Precursor researchers require very specialized equipment to handle the dark energy flows these relics require. Dedicated facilities with this equipment should increase our ability to research these artifacts.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPrecursorEngineering_Dec</Label>
+    <String>We're now trying to recreate some of the Precursor's technology, using the same dark energy that powered their own incredible devices. All Krynn whose faith was wavering are finding it now. Even the heretics can see we're close to something big.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPrecursorUnderstanding_Dec</Label>
+    <String>We understand completely. The Precursors, their corrupted creator, their downfall. We know all. Furthermore, we now see a new path to Ascension, a new route that the Path may use to lead us to the Way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLifeSupport_Dec</Label>
+    <String>Life support is a complicated challenge for us, considering the many species which make up the Krynn. But it's one we must tackle head on if we hope to introduce the Path to the unenlightened.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLifeSupportOptimization1_Dec</Label>
+    <String>Blasphemers working in our shipyards have been sabotaging our life support systems, limiting our ship's ranges. We've fixed the damage, and will conduct a thorough inquisition to root out these villains.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLifeSupportOptimization2_Dec</Label>
+    <String>A few days after we mentioned our problem with life support costs to one of our handlers in the Secret Order, our life support meal supplier voluntarily lowered their prices. Always nice when coincidences like that happen.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLifeSupportOptimization3_Dec</Label>
+    <String>Reducing the mass of our air circulation and filtration systems should save weight our ships could use for other, more spiritual purposes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnSupportFieldGeneration_Dec</Label>
+    <String>Support field systems use force fields to pipe nutrient-rich sludges to our crews. This will extend the range of our vessels and create a valuable sludge supply contract we can award to someone the Secret Order needs a favor from.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnSupportFieldFocus1_Dec</Label>
+    <String>More refined force fields with user-customizable controls have cut down on the mess and waste of our support field systems. Our sludge supplier may have preferred the old, wasteful ways, but now our ships can now travel much further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnSupportFieldFocus2_Dec</Label>
+    <String>A new force field supplier promises a cheaper brand of emitter will work in our life support systems, so long as we promise not to ask many questions about where they came from. </String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnSupportFieldFocus3_Dec</Label>
+    <String>Less powerful force field emitters in our life support systems will save valuable weight. And our researchers note that we did not need that additional power, which was causing many of the messes in the first place.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPromethionSupportSystems_Dec</Label>
+    <String>Promethion technology improves the injection and recycling capabilities of our life support, generating small quantities of new food directly from waste. Our crews are resistant to the idea, but a simple change to the Path will make it their moral duty.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLifeSupportMastery1_Dec</Label>
+    <String>When appeals to their faith don't work, we can usually count on our suppliers cutting their prices after a few well timed visits from members of the Shadow Path. A shame for an arm or a leg to literally be at stake, but that's the way it has to be.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLifeSupportMastery2_Dec</Label>
+    <String>Our researchers have devised a new type of Promethion field effecter which can be embedded directly in the nutrients, saving quite a bit of weight compared to their heavy, fixed counterparts. </String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLosslessSupportSystems_Dec</Label>
+    <String>Lossless systems are an uncomfortable concept, the profit potential of waste a place where the shadows of Krynn culture have thrived. And yet we can't ignore the fact that long range ships will help spread the Way further than ever.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnSupportFieldMastery_Dec</Label>
+    <String>New technology will make it possible to offload partial life support requirements to different vessels in a fleet, or even a nearby starbase. A superb way to extend the range of our fleets, and keep a measure of control over less faithful crews.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnExplorationExtention_Dec</Label>
+    <String>Our Promethion support technology can now be used by our fleet-support vessels. These vessels control the fate and welfare of an entire fleet, and must be staffed by our least corruptible crews.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnOrbitalManufacturing_Dec</Label>
+    <String>If we move ship construction to orbital environments we should be able to build larger hulls. But we should first ensure the Secret Order has a chance to get their people in place, to limit the chances of corruption developing in this new industry.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnOrbitalSpecialization1_Dec</Label>
+    <String>By putting only the most loyal people in charge of our ship construction academies, we can ensure the workers going into the field aren't corrupted. This should result in higher manufacturing, and far less blasphemy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnOrbitalSpecialization3_Dec</Label>
+    <String>By requiring fleet logistics officers to undertake extensive theological training we can ensure the workers that take those positions are influenced only by us. This should reduce corruption and thus increase our logistical capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnOrbitalSpecialization2_Dec</Label>
+    <String>Lazy or unmotivated ship builders can easily restrict the amount of usable space on a ship with their sloth. If we motivate them properly, we can ensure our ships have the most usable space possible.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnZeroGravityConstruction_Dec</Label>
+    <String>Our blessed researchers have developed new techniques for orbital construction, which should lead to bigger vessels, better equipped to spread salvation.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnZeroGravityOptimization1_Dec</Label>
+    <String>A new series of daily motivational sermons, focusing on the virtue of hard work, and the success our ships have spreading the Way, seems to have inspired our workers to build better, stronger ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnZeroGravityOptimization3_Dec</Label>
+    <String>As orbital construction becomes more complicated, the opportunity for graft and bribery blooms. We must monitor our managers and planners carefully, casting them out as blasphemers at the first sign of corruption.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnZeroGravityOptimization2_Dec</Label>
+    <String>One of our loyal ship workers realized that hollow structural elements can contain various smaller ship systems, saving space for other equipment. Properly designed, these have no impact to a ship's durability. His brilliance will be well rewarded.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLargeScaleConstruction_Dec</Label>
+    <String>Larger hulls will allow us to spread our people, culture, and the Way faster than ever before.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnOrbitalConstructionFocus1_Dec</Label>
+    <String>It was a tremendous, almost miraculous insight to realize that molecular weaknesses in a hull could make it deformable in a controlled manner, increasing the resiliency of the entire hull. The researcher who came up with it is now a living legend.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnOrbitalConstructionFocus3_Dec</Label>
+    <String>We didn't dare trust our workers with heavy equipment when so many of them were potentially blasphemers. Now that the proper theological oversight is in place, this equipment should make construction faster and cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnOrbitalConstructionFocus2_Dec</Label>
+    <String>By rewarding workers who come up with space saving ideas with rewards, such as special dispensations from duties required by the Path, or even cash prizes, we've managed to improve the packing efficiency of all of our vessels.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnMassiveScaleConstruction_Dec</Label>
+    <String>Krynn vessels are now among the largest this galaxy has ever seen, rivaling even those of the Precursors. Few things will stop the primitive minds from learning the Way now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHullMastery2_Dec</Label>
+    <String>We've managed to root out the last bits of corruption in our construction sector, any small amounts of waste remaining being directed to places that suit the Secret Order's needs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHullMastery1_Dec</Label>
+    <String>Krynn vessels are now as efficiently designed as possible, capable of any spiritual or secular mission we might throw at them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHullStrengthening_Dec</Label>
+    <String>The inner strength all Krynn possess, thanks to their commitment to the Path, is now more than a metaphor. We can embed strengthening fields in the hulls of our vessels, making them as resilient as we are.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHullRepairSystems_Dec</Label>
+    <String>Metaphors continue to abound within our hulls. Our latest technology uses straightening fields to repair battle damage in our vessels, in the same way the Path can help restore our sense of purpose in the face of ignorance.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnSelfHealingHulls_Dec</Label>
+    <String>Nanobots are automations capable of repairing our ships and starbases, even during battle itself. The potential for criminal misuse of these is enormous, and they should only be deployed to our most loyal vessels.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnCarrierTech_Dec</Label>
+    <String>Carrier combat will expose selected Krynn to excessive danger while protecting those who remain on our capital ships. So long as the pilots understand the risk, we shall allow this, while continuing to make all efforts to secure their future salvation.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHighCapacityCarriers_Dec</Label>
+    <String>New, compact fighters, along with our growing cabal of pilots who don't mind cramped quarters, will allow us to begin deploying high capacity carrier modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnInterstellarLogistics_Dec</Label>
+    <String>The potential for corruption in our logistics department is incredible. If we are to have any hope of success, these must be the most pious Krynn, subject to the highest scrutiny. </String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLogisticalOptimization1_Dec</Label>
+    <String>Relativistic travel creates a bookkeeping nightmare which mere faith does little to address. To counter this, we've developed a new system of record keeping, which should improve our logistical capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLogisticalOptimization2_Dec</Label>
+    <String>Mines will always be a breeding ground for corruption; the Krynn who choose to work there are almost always beyond salvation. Still, with the right management, we can contain the worst of the fraud and graft, indirectly increasing mining output.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLogisticalOptimization3_Dec</Label>
+    <String>Shipyards are incredibly complicated operations, filled with people and groups that are all potential sources for inefficiency and corruption. Ensuring our shipyard managers are of the highest moral character should cut down on the waste somewhat.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnFleetLogisticsTech_Dec</Label>
+    <String>Due to the many races which all achieved sentience on our home world, the Krynn cooperate like few other civilizations. So long as corruption can remain in check, our fleet logistical operations will remain the envy of the galaxy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDeepSpaceLogistics_Dec</Label>
+    <String>As our fleets grow, so does the challenge of supplying them. Although our starbases are staffed by faithful and honest Krynn, segments of the supply chain remain quite corruptible. We must redouble our efforts to ensure out fleets stay supplied.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnGalacticLogistics_Dec</Label>
+    <String>Logistics is now perhaps the most respected career path within our civilization, all of its priests renowned for their piousness and incorruptible character, only responding to our (and the Secret Order's) bidding.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnInterstellarMining_Dec</Label>
+    <String>Improved mining technology will ensure our mines produce more, even if so much of it is wasted by the wicked people who work there.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHighEfficiencyMining_Dec</Label>
+    <String>After providing them the right training (and body armor) we've begun deploying loyal clerics to manage our mines, to both bring some measure of salvation to the scum that work there, and increase the output of goods which ultimately reach us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnResourceExtraction_Dec</Label>
+    <String>Replacing our miners with resource extraction probes not only cuts back on the opportunity for theft, it will allow us to extract minerals found in concentrations once thought too low to be worth our time.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLosslessMining_Dec</Label>
+    <String>Miniaturized resource extraction probes allows for almost perfectly lossless resource extraction. Even the rarest resources can feasibly be targeted for extraction now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnWarfareTech_Dec</Label>
+    <String>The galaxy is filled with closed minds. When our words fail us, we will have to introduce the Path to these heretics by force. Our own salvation depends on it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnWeaponsSystemsTech_Dec</Label>
+    <String>Researchers sworn to the Shadow Path have a certain knack for weapon design, and have developed basic weapons for our ships. A valuable group, although due to their flexible morals, they must be segregated from our regular research communities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBeamWeapons_Dec</Label>
+    <String>There is something pure, even beautiful about beam weapons. Even an initiate on the Path can see the allegory in the manner they illuminate with such fury. And our new beam weapons shall be even more illuminating.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBeamWeaponOptimization1_Dec</Label>
+    <String>A new type of focusing crystal will make the arguments put forward by our beam weapons a bit more penetrating.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBeamWeaponOptimization2_Dec</Label>
+    <String>Frustrated by the expense of beam weapon development, our weapons researchers contacted some peers in the Secret Order to help provide relief. Suddenly, many of our suppliers are offering discounts on beam weapon components.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBeamWeaponOptimization3_Dec</Label>
+    <String>The troubled minds of our weapons researchers have come up with a way to make our beam weapons more mass-efficient without losing any of their destructive ability.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnMatterDisruption_Dec</Label>
+    <String>According to our weapons researchers, matter disruptors use a type of particle capable of disrupting the strong nuclear force. This meant little to us, but they promised it would make our vessels much more persuasive.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHighEnergyFocus1_Dec</Label>
+    <String>By using intelligent (but non-sentient) crystal growing processes, we can create focusing crystals capable of much higher energy throughputs, making all our beam weapons a bit stronger.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHighEnergyFocus2_Dec</Label>
+    <String>Our weapons researchers have been instructed to take some of the mysticism out of the manufacture of beam weapons. Shorter, less elaborate ritual blessings, and more automation should reduce the cost of each unit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHighEnergyFocus3_Dec</Label>
+    <String>Reducing the mass of our beam weapons' cooling equipment is a neat trick which our weapons researchers refuse to reveal how they accomplished. Some sort of industrial espionage seems likely, but we're not going to ask any questions.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPlasmaProjection_Dec</Label>
+    <String>We've going to stop asking our weapons researchers how these weapons work. This latest one uses plasma, that much we were able to decipher. We are blessed that these maniacs are on our side.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBeamWeaponMastery1_Dec</Label>
+    <String>One of our suppliers for plasma containment fields was not giving us the best possible price. Then after an unfortunate accident, he suddenly saw the error of his ways, lowering his prices and apologizing for his sins.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBeamWeaponMastery2_Dec</Label>
+    <String>Our beam weapons are now as mass efficient as this reality will allow us. To get around these limits, we will have to ascend to a higher plane. But by that point, we'll no longer need weapons at all.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnEnergyPhasing_Dec</Label>
+    <String>Phaser particles are the most confusing thing our weapons researchers have invented yet. This feels dangerously close to blasphemy, twisting the physical world in this way. But the Way must be spread.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDoomRayTech_Dec</Label>
+    <String>Doom Rays are a terrifying construct, more powerful than anything seen before. Even the Secret Order now worries about the sanity of our weapons researchers. Something will have to be done about them shortly.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBeamWeaponAugmentation_Dec</Label>
+    <String>Using a new ritual based on force fields, our weapons researchers have found a way to augment the beam output of an entire fleet. A blessed development, taking advantage of our people's natural affinity for cooperation.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHighEnergyTransfer_Dec</Label>
+    <String>Our weapons researchers, the clever fiends, have developed a system that makes our beams more effective against shields. A similar system is capable of absorbing unbeliever beam attacks.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHighEnergyMagnification_Dec</Label>
+    <String>Our beam weapons can now cut entirely through shields. The unbelievers will have nowhere to cower now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnMissileWeapons_Dec</Label>
+    <String>Not only are these new missiles more destructive, their self-guiding capabilities neatly symbolize the guidance that the Path can provide even a simple mind.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnMissileOptimization1_Dec</Label>
+    <String>Our weapons researchers have developed new launchers which can shoot more missiles. They insist, with wild, unfocused eyes, that such violence will help bring the Path to more minds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnMissileOptimization2_Dec</Label>
+    <String>The Secret Order has always thought highly of missiles due to their cost effectiveness, allowing more resources to remain unspent and within their control. And now our missiles are a little bit cheaper again.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnMissileOptimization3_Dec</Label>
+    <String>A simple redesign of our ammunition storage racks has cut down on the mass of our missile launchers. A small step, but long journeys always begin as small steps.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHarpoonTech_Dec</Label>
+    <String>Harpoon missiles will make a bigger explosion when they strike the hulls of unbelievers, lending more weight to our argument than mere words can.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnWarheadFocus1_Dec</Label>
+    <String>Lightweight warheads which use the newest generation of explosives should improve the effective range of our missiles, allowing our vessels to deliver sermons from further away.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnWarheadFocus2_Dec</Label>
+    <String>A new form of ultra-stable explosive should be cheaper to manufacture, as it will require less safeguards to protect the simple, honest Krynn who do the work. </String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnWarheadFocus3_Dec</Label>
+    <String>With our new, lighter warheads, we can reduce the weight of each individual missile without compromising its ability to deliver potent arguments.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPhotonicWarheads_Dec</Label>
+    <String>Photonic warheads use a shell of photons to pierce the shields and armor of their target, making them more effective. A suiting metaphor for a well worked argument that slips pasts an unbeliever's defenses, finally opening their eyes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPayloadMastery1_Dec</Label>
+    <String>Missile manufacturing has finally been brought entirely under the control of suppliers preferred by the Secret Order. We should see reduced costs for all of our missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPayloadMastery2_Dec</Label>
+    <String>One of our weapons researchers' had the insight to replace the ammunition storage racks with force-field based containment, which should reduce the mass of each system. Her brilliance has already been rewarded by her shadowy masters.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPhotonTorpedos_Dec</Label>
+    <String>Photon torpedoes improve upon the piercing technology of previous warheads using some form of science. The weapons researchers speak in a strange language, so we just have to have faith in them when they say these will be more effective.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnNightmareTorpedoTech_Dec</Label>
+    <String>The Nightmare torpedo is proof that our weapons researchers have gone too far. Even the Secret Order blanches at their depravity. We shall still use their twisted invention, but solely as a last resort.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnMissileAugmentation_Dec</Label>
+    <String>Our blessed weapons researchers have devised a system which will allow a ship or starbase to improve the missile tracking ability of an entire fleet. Such cooperation features heavily in many elements of the Path.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnAdvancedMissileGuidance_Dec</Label>
+    <String>Our missile systems should now fare better when penetrating the point defenses of unbelievers. And our missile cooperation and coordination systems have been improved as well.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnIntelligentWarheads_Dec</Label>
+    <String>Semi intelligent warheads that cooperate can now neutralize point defense systems, leaving the unbelievers defenseless. And our missile cooperation systems have been blessed with even more power.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnKineticWeapons_Dec</Label>
+    <String>Projectile weapons are simple, and already have many established doctrines within the Path on their proper usage. These new versions are even more powerful, and should provide a convincing final argument to those who resist seeing the beauty of the Way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnKineticOptimization1_Name</Label>
+    <String>Kinetic Range Extention</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnKineticOptimization1_Dec</Label>
+    <String>The cleverness of our weapons researchers has  found that by switching to a slightly smaller projectile and installing coils which cycle up more rapidly, we can fire projectiles a bit faster, extending the effective range of each weapon.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnKineticOptimization2_Dec</Label>
+    <String>Our electromagnet suppliers have decided to provide their wares to us at cheaper prices. They state this is to help spread the Way more rapidly, although we don't doubt some secular pressure was placed on them as well.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnKineticOptimization3_Dec</Label>
+    <String>Some strange new winding of the electromagnetic coils results in lighter, more compact coils that are just as effective as before. Similar to the way the Shadow Path takes its own strange and winding path to achieve the same ends as us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPulseCannonTech_Dec</Label>
+    <String>Particles can be more effective than projectiles if we fire many of them at the same time. These pulse cannons have similar tactical characteristics as other kinetic weapons, so we won't have to update the components of the Path relevant to ship command.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnKineticAccelerationFocus1_Dec</Label>
+    <String>These new superconductors will let us deliver energy upon our weapons more rapidly, resulting in higher speeds and a much longer effective range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnKineticAccelerationFocus2_Dec</Label>
+    <String>These new superconductors mean our electromagnetic coils will require less cooling, reducing the cost of each unit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnKineticAccelerationFocus3_Dec</Label>
+    <String>Our weapons researchers seem confident we can use these new superconductors to build smaller, more compact acceleration coils, resulting in more persuasive ability per unit of mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnGravitonThrower_Dec</Label>
+    <String>The weapons researchers won't reveal to us what a graviton is, claiming the Path that we're on won't permit understanding of it. A troubling claim, but we can't deny the effectiveness of the weapons that make use of these new particles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnKineticMastery1_Dec</Label>
+    <String>Huge portions of our superconductor industry are now infiltrated by Krynn who follow the Path of Shadows. The Secret Order now ensures that we will get the best possible price on all future kinetic weapon components.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnKineticMastery2_Dec</Label>
+    <String>Even our smallest vessels can now argue persuasively thanks to our weapons researchers' efforts to reduce the weight of our kinetic weapon systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnQuantumDrivers_Dec</Label>
+    <String>Quantum drivers strike unbelievers with mass that doesn't exist in this reality. Every plane of existence now supports our war to spread the Way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnSingularityDrivers_Dec</Label>
+    <String>Singularity Drivers attack unbelievers with tiny black holes, destroying the souls trapped within. This is horrifying. We shall use these only as a last resort, and take immediate steps to restrain these weapons researchers and their twisted minds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnKineticAugmentation_Dec</Label>
+    <String>Inertial dampening systems will allow Krynn ships equipped with the right modules to cooperate, boosting the range of their kinetic weapons. Our arguments shall become stronger together.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnMassManipulation_Dec</Label>
+    <String>Our kinetic weapons can now generate ultra-dense outer surfaces to make them more effective at countering unbeliever armor systems. And our fleet kinetic cooperation systems have been improved again.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnInertialMagnification_Dec</Label>
+    <String>We can now crack the armor of the unbelievers entirely, leaving them defenseless against our reasoning. And our natural affinity for cooperation has found ways to improve upon our fleet kinetic support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnMilitarizationTech_Dec</Label>
+    <String>When our words fail us, we must turn to other means. The Way must be spread if we are to find salvation, and if that means force, we must face that challenge head on, and militarize our infrastructure at once.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPlanetaryInvasion_Dec</Label>
+    <String>When unbelievers cower on their planets, spouting their blasphemies, we shall have to get up close to show them the error of their ways. Tactics and equipment to land on a world and take it by force will be necessary.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnInvasionOptimization1_Dec</Label>
+    <String>Dropping something very heavy and very fast on someone is not a great way to persuade them of your righteousness. But it is a good way to convince any survivors who witnessed it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnInvasionOptimization2_Dec</Label>
+    <String> Information warfare saps the ability of unbelievers to coordinate their ground defenses. If they refuse to see the truth of the Way after that, then they deserve what happens to them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnInvasionOptimization3_Dec</Label>
+    <String>There can be no equivocation: we must convert all life to the Way. If a being refuses to do so, they have no place in the galaxy, and even tactics like biological warfare become permitted by the Path. Their death will lead to our salvation.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnStallerMarines_Dec</Label>
+    <String>If we can identify and select our most pious soldiers, then give them extra training and spiritual guidance, they'll become far more effective when fulfilling their sacred duties spreading the Way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnGravitationalFocus1_Dec</Label>
+    <String>If we induce flooding we can drown unbelievers and crush their defenses before having to risk any of our own souls. The weakened fools will prove far less resistant to conversion then.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnGravitationalFocus2_Dec</Label>
+    <String> Inducing volcanic and tectonic activity sends a clear sign to unbelievers: even the forces of nature bow before the glory of the Way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDroneSoldiers_Dec</Label>
+    <String>Smart (but non-sentient) drone soldiers provide more persuasive ability than conventional troops, without needing to risk Krynn souls to deliver it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnAdvancedInvasionTactics_Dec</Label>
+    <String>High density troop transports will allow us to deliver more persuasive ability to the homes of unbelievers faster than ever before.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnJihadTech_Name</Label>
+    <String>Jihad</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnJihadTech_ShortDec</Label>
+    <String>Allows Holy War to commence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnJihadTech_Dec</Label>
+    <String>The galaxy is filled with close-minded individuals who resist being shown the Path, or even struggle against it. They must be dealt with harshly. Our own salvation rests on their conversion.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnJihadFocus1_Name</Label>
+    <String>Shadow Warriors</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnJihadFocus1_ShortDec</Label>
+    <String>Increase Soldiering Ability.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnJihadFocus1_Dec</Label>
+    <String>Those that follow The Path of Shadows understand that when Force is called for, it must be total,  overwhelming, and unstoppable. When the unbelievers meet our Shadow Warriors they shall see the truth of the Path firsthand.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnJihadFocus2_Name</Label>
+    <String>Devout Defenders</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnJihadFocus2_ShortDec</Label>
+    <String>Increases Planetary Defense</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnJihadFocus2_Dec</Label>
+    <String>The Path teaches that when our lives and salvation are under threat, everyone that walks the Path, regardless of caste or clan, must defend the Way to their dying breath.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnJihadFocus3_Name</Label>
+    <String>Steadfast Faith</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnJihadFocus3_ShortDec</Label>
+    <String>Planets resist culture flipping much longer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnJihadFocus3_Dec</Label>
+    <String>The Path teaches that it is the only acceptable means of finding salvation, and that the customs of unbelievers should be shunned, as they are anathema to the Way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDevineFleets_Name</Label>
+    <String>Divine Fleets</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDevineFleets_ShortDec</Label>
+    <String>Allows for the construction of the Divine Temple Support Module.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDevineFleets_Dec</Label>
+    <String>Divine Temples can be installed on appropriately anointed vessels, providing all ships in a fleet a certainty of purpose that they are fighting a righteous cause.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnUndauntedCrews_Name</Label>
+    <String>Undaunted Crews</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnUndauntedCrews_ShortDec</Label>
+    <String>Increases the Hit points of all our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnUndauntedCrews_Dec</Label>
+    <String>Those who truly walk the Path do not feel the pains inflicted by the world, and will not panic when a ship is crumbling around them, standing and fighting until their last breath.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnRighteousStrength_Name</Label>
+    <String>Righteous Strength</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnRighteousStrength_ShortDec</Label>
+    <String>Increases the defenses of all our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnRighteousStrength_Dec</Label>
+    <String>Whether it's due to the ingenuity of our crews, or the intervention of a higher power, our dedication to the Path gives our ship's defenses a righteous strength that helps protect against even the most devastating attacks.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDefenseSystemTech_Dec</Label>
+    <String>We must protect the lives of the Krynn who crew our vessels. Theirs is the hardest, most critical task in our mission to spread the Way, and they deserve nothing less.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDefensiveSpecialization1_Dec</Label>
+    <String>Our defensive researchers have found a more efficient arrangement of shield generators which should reduce the costs of assembling our shields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDefensiveSpecialization2_Dec</Label>
+    <String>Increasing the firing rate of our point defense systems is a simple but effective means of increasing their effectiveness. The Path states that simple solutions are often the best ones.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDefensiveSpecialization3_Dec</Label>
+    <String>Our defensive researchers have modified the way our armor panels are made, which should make them easier to fit to our ships, reducing overall armor weight.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnShieldSystems_Dec</Label>
+    <String>Shields are a vast improvement over earlier deflector fields, and will provide our crews sanctuary against even the most violent attacks.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnShieldOptimization1_Dec</Label>
+    <String>Larger, more robust field emitters, ritually blessed upon installation, should improve the strength of our shield systems. </String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnShieldOptimization2_Dec</Label>
+    <String>Our shield systems are made by a variety of suppliers, not all of whom are as devoted to spreading the Way as they should be. We've asked our contacts in the Secret Order to convince them to lower their prices using more secular means.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnShieldOptimization3_Dec</Label>
+    <String>Our defensive researchers have found a way to slim down the field emitters used by our shield systems, resulting in lower mass shields. Now our ships can carry additional shields, or, if necessary, more persuasive equipment. </String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBarrierFieldGeneration_Dec</Label>
+    <String>Barrier Fields improve earlier shields by absorbing a portion of the energy which strikes them. The parallel with our ability to absorb new species into our civilization is delightful, a sure a sign as we need that our Way is the one true Way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBarrierSystemFocus1_Dec</Label>
+    <String>Our earliest Barrier Fields used an improperly specified form of capacitor in the energy absorption system. Replacing these with the proper model should result in significantly more resilient shields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBarrierSystemFocus2_Dec</Label>
+    <String>Our defensive researchers report that our shield generators can be made for far cheaper than they already are. The Secret Order promises to contact the vendors and investigate the source of this discrepancy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBarrierSystemFocus3_Dec</Label>
+    <String>New forms of superconductor recently acquired by our weapons researchers can also be used to make our shields much less bulky, thanks to their less extensive cooling requirements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnForceFieldTech_Dec</Label>
+    <String>Our newest shields use a scientific ritual to direct energy to the portion of the shields which requires it the most. An excellent metaphor for the way the Path teaches us to spread the Way in the direction of those that need it the most. </String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnShieldMastery1_Dec</Label>
+    <String>We have only a limited amount of resources, and many needs that require them. As vital as our shields are, if they can cost less, that would be something to be thankful of.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnShieldMastery2_Dec</Label>
+    <String>Denser, more compact shields mean we can install more of them on the vessels that need them most, the ones spreading the Way to the most closed minds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnInvulnerabilityTech_Dec</Label>
+    <String>Krynn vessels are now all but invincible. Our faithful crews never knew fear before, and with these new shields, they'll never have to.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnShieldSupportSystems_Dec</Label>
+    <String>New technology which allows us to augment shields at a distance will allow Krynn vessels to cooperate in combat situations in the same manner with which Krynn cooperate in their daily lives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnShieldAugmentation_Dec</Label>
+    <String>Our shield cooperation systems have been improved yet again, incorporating the absorption properties of our Barrier Field systems. Few unbelievers will dare menace a Krynn fleet now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnEnergyFieldManipulation_Dec</Label>
+    <String>Shields will provide no sanctuary for the unbelievers now, thanks to our new systems capable of interfering with their shield systems. Additionally, our own shield support systems have been blessed with more power.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPointDefenses_Dec</Label>
+    <String>Point defenses use tiny railguns to protect against the missiles fired by unbelievers. We should not place all of our faith in them however, as they are of limited use against other forms of weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPointDefenseOptimization1_Dec</Label>
+    <String>A new type of firing pattern will make our point defenses more accurate and capable of defending the lives of our brave crews.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPointDefenseOptimization2_Dec</Label>
+    <String>There is no excuse for suppliers to overcharge us on defensive equipment. It is a moral obligation of every Krynn to protect their brothers. We will ask the Secret Order to vigorously remind our vendors of their civic and moral duties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPointDefenseOptimization3_Dec</Label>
+    <String>A new form of point defense, using smaller slugs and railguns will prove just as effective against unbeliever missile attacks, while saving weight for our vessels to carry other equipment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnCounterMeasures_Dec</Label>
+    <String>Electronic counter measures provide an unseen form of sanctuary against missiles, confusing and distracting them from their sinister purposes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnCounterMeasureFocus1_Dec</Label>
+    <String>The researchers who work on ECM suites hare developed new computing rituals which should improve the performance of those systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnCounterMeasureFocus2_Dec</Label>
+    <String>Our defensive researchers have discovered which of our ECM rituals were most effective. By stripping the ineffective modules from these suites, we can reduce the costs of these units.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnCounterMeasureFocus3_Dec</Label>
+    <String>Our first ECM suites were assembled very inefficiently. Some sermons on the virtue of effort and competent work should help convince those workers to mend their ways, reducing the mass of those vital pieces of equipment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDroneSentrySystems_Dec</Label>
+    <String>Drones that have been provided with specially anointed point defense equipment will be able to intercept unbeliever missiles long before they threaten our own vessels.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDroneSystemMastery1_Dec</Label>
+    <String>A new form of aiming ritual implemented by our drones should reduce the total amount of computing power they require without affecting their accuracy. The cost savings could be significant.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDroneSystemMastery2_Dec</Label>
+    <String>New lightweight composites and force field based containment will make our drone systems lighter, and easier to install in even our smallest vessels.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnArreonMissileDefenseTech_Dec</Label>
+    <String>Aereon drones use our most advanced railguns, ECM, and chafe to defend our vessels. Even the most aggressive of the close minded species will have trouble getting past these. </String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPointDefenseSupportSystem_Dec</Label>
+    <String>The tracking systems used by point defenses can be supplemented by a module carried by another Krynn vessel. As always, the Krynn shall be stronger together than apart.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPointDefenseAugmentation_Dec</Label>
+    <String>Our cooperative point defense modules can now use a form of wide-area counter measure to confuse unbeliever missiles. If only the unbelievers could be so easily led astray themselves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPointDefenseManipulation_Dec</Label>
+    <String>Fleet-wide drone systems add point defenses to ships that would normally be left vulnerable. And our new counter-counter measures will more easily penetrate the flimsy counter arguments offered by unbeliever point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnArmorSystems_Dec</Label>
+    <String>Armor is a simple solution to a complicated problem, much in the same way that an individual who starts along the Path finds that all of life's complications seem far more manageable.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnArmorOptimization1_Dec</Label>
+    <String>A miraculous insight has allowed one of our defensive researchers to devise a form of armor panel denser than previous versions. All of our vessels will now be a little safer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnArmorOptimization2_Dec</Label>
+    <String>The Krynn who manufacture armor are common folk, barely capable of keeping on the Path. We shall have to manage them closely to ensure their time isn't wasted, and our armor is made as cheaply as possible.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnArmorOptimization3_Dec</Label>
+    <String>No amount of faith can make armor anything but what it is: heavy. But if we improve the mounting, fit and placement of our armor panels, our defensive researchers believe we should be able to minimize the weight somewhat.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDurantiumCompositeTech_Dec</Label>
+    <String>Durantium composites are the latest invention our blessed defensive researchers have delivered unto us. Our ships and crews will now be far more resilient when presenting our beliefs to the unbelievers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnArmorFocus1_Dec</Label>
+    <String>A new form of lamination has been found to make our armor far more resilient. It is much like the way that brief but regular study of the Path can gird an individual for the challenges of life.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnArmorFocus2_Dec</Label>
+    <String>There is no room for profit in the production of armor, not when Krynn lives are at stake. We've asked our contacts in the Secret Order to ensure that no armor is lost to graft or other form of blasphemy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnArmorFocus3_Dec</Label>
+    <String>A brilliant young researcher has found a new arrangement of Durantium which is lighter than previous versions but just as resilient. His brilliance has saved Krynn lives and brought salvation just a bit closer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnKanviumLaminateTech_Dec</Label>
+    <String>Kanvium lamination allows our armor to turn into a fluid when confronted by unbeliever energy. The way it absorbs abuse then recovers its shape calls to mind the way the Path allows Krynn to adapt to the various trials of life.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnArmorMastery1_Dec</Label>
+    <String>By cooperating more fully with our ship designers - a simple task for our kind - we can ensure our ship designs allow for easy installation of armor, reducing the cost by some margin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnArmorMastery2_Dec</Label>
+    <String>There is only so much mass you can remove from armor before it's not armor any more. We've taken all we can. The Path never stops, but in this field at least, it will now slow to a crawl.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnZeroPointArmorTech_Dec</Label>
+    <String>Zero point armor uses energy from the quantum vacuum itself to repulse unbeliever attacks. There is strange science at work here, and if it were anyone other than our devout defensive researchers offering it, we'd mistrust it deeply.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnArmorSupportSystems_Dec</Label>
+    <String>Force fields that induce hardening effects can allow a Krynn vessel to strengthen all of its peers. Which seems a very Krynn thing for one of our vessels to do.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnArmorEnhancement_Dec</Label>
+    <String>Our defensive researchers have discovered a new strengthening ritual that our armor support systems can use to increase their hardening effects.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnIntegrityFieldProjection_Dec</Label>
+    <String>Our armor strengthening fields can now do the exact opposite to the unbelievers, weakening their armor, making them more open to persuasion. And the same brilliance has made our own ships stronger again.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnConversionTech_Name</Label>
+    <String>Conversion</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnConversionTech_Dec</Label>
+    <String>The Path for the entire Krynn civilization begins here. If we hope to introduce the Way to all sentient life, we'll need some means of communicating it to them. Here, our journey begins.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTranslatorTech_Dec</Label>
+    <String>We will not experience salvation until all sentient life has been shown the Way. Universal Translators are the first and most crucial step on this Path, allowing us to set our neighbors down their own Path to enlightenment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDiplomaticSpecialization1_Dec</Label>
+    <String>Peaceful relations are ideal for spreading the Way. We should do all we can to establish healthy relationships with our neighbors before they can close their minds to us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnInterstellarGovernance_Dec</Label>
+    <String>Governing a civilization whose distant outposts are many weeks of travel away is a challenge we must tackle head on. If we expect to win the entire galaxy, we can't lose hold of our own people.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPoliticalSpecialization1_Dec</Label>
+    <String>Federalist governments share much of the power with local governments. This encourages economic development, and thanks to the influence of our peers in the Secret Order, results in little loss of practical control for us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPoliticalSpecialization2_Dec</Label>
+    <String>Populist governments make the people happy above all other activities. A noble intent, although we do have loftier goals than ensuring happiness in this realm. On the plus side, representatives from these governments make very convincing diplomats.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPoliticalSpecialization3_Dec</Label>
+    <String>Universalist governments strike a balanced approach to governance, with no notable strengths or weak spots. A natural form for the Krynn, considering our history is filled with examples of cooperation between the disparate species of our own world.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnGalacticGovernance_Dec</Label>
+    <String>A Galactic Republic will improve efficiency and contentment, and provide an ideal platform from which we can spread the Way further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPoliticalFocus1_Dec</Label>
+    <String>An Industrialist government will lead our people on a Path committed to hard work and quality, improving the production potential of our entire civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPoliticalFocus2_Dec</Label>
+    <String>A Mercantilist approach to governance will boost our coffers through trade, both the fair and unfair kind. The Secret Order salivate at the increased opportunity for espionage all this trading will permit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPoliticalFocus3_Dec</Label>
+    <String>The Krynn are not naturally inclined to studies of the physical world, but we cannot assume the unbelievers of this galaxy will be the same way. A Technologist Party will ensure we don't fall too far behind.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnInterstellarDemocracyTech_Dec</Label>
+    <String>An Interstellar Democracy will allow our people to pick, after a fashion, their own leaders. That their leaders will be pre-selected by the Secret Order is a small matter, which won't hurt the benefits we expect this form of government to provide.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPoliticalMastery1_Dec</Label>
+    <String>When the unbelievers of the galaxy close their minds to us, we will be presented with no choice but to convert them to the Path forcefully. When it comes to this, we must be sure every single Krynn stands behind us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPoliticalMastery2_Dec</Label>
+    <String>Our words travel farther when people like us, and a commitment to peaceful relations and social welfare does just that. The Pacifist party can win minds like few others.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnStarFederationTech_Dec</Label>
+    <String>A Star Federation is perfect, using every organizational strategy our people have discovered to govern a galactic civilization with the bare minimum of waste. As close to perfection as mortals in this realm can achieve, anyways.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDiplomacyTech_Dec</Label>
+    <String>The closer our relations with our neighbors, the easier it will be to lead them on the Path. Embassies and treaties are the first step of many to come.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDiplomaticOptimization1_Name</Label>
+    <String>Free Trade Treaty</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDiplomaticOptimization1_Dec</Label>
+    <String>Economic treaties will encourage increased economic activity between us and our neighbors, activity which our peers in the Secret Order can take advantage of.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDiplomaticOptimization2_Dec</Label>
+    <String>A cultural treaty is ideal for our purposes, easing the flow of scripture and ideas between us and our neighbors, making them more open to accepting the Path into their lives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDiplomaticOptimization3_Name</Label>
+    <String>Slave Treaty</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDiplomaticOptimization3_Dec</Label>
+    <String>Formal research treaties will increase our own research potential, allowing our neighbors to enrich us with knowledge of the physical world in the same way we shall enrich them spiritually.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnInterstellarAlliances_Dec</Label>
+    <String>Formal alliances will tie us closer to our neighbors, increasing the opportunity we'll have to show them our ways and lead them on to the Path.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnAllianceFocus1_Dec</Label>
+    <String>Military alliances will give our forces a much needed edge when bringing light to the unbelievers. Manipulating an ally into doing the hard work is a time-honored tradition in Krynn history.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnAllianceFocus2_Dec</Label>
+    <String>A technological alliance will allow us to make full use of a neighbor's scientific expertise, providing us rapid access to the tools we need to spread the Way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnAllianceFocus3_Dec</Label>
+    <String>An ally with the wisdom to form a cultural alliance with us will soon find the inner peace that comes to all who set down the Path.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnEminenceTech_Dec</Label>
+    <String>Our reputation for wisdom has spread throughout the galaxy. Any bargaining table we find ourselves at soon begins slanting in our direction.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnMajestyTech_Dec</Label>
+    <String>The Way now sells itself, and so perfect a spiritual life do our people live that people throughout the galaxy clamor to join the Path themselves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnUnitedPlanetsLobbyist_Dec</Label>
+    <String>The United Planets is filled with unbelievers. But our wisdom has slowly begun to open their minds, and so respected are we that now our votes go a bit further than before.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnUnitedPlanetsClout_Dec</Label>
+    <String>So convinced of our wisdom and sincerity are our allies, that they will now vote with us on all United Planets measures. This surrender of authority is but a first step; the Path beckons them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnThePathTech_Name</Label>
+    <String>The Path</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnThePathTech_ShortDec</Label>
+    <String>Allows construction of the Krynn Consulate and Ministry.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnThePathTech_Dec</Label>
+    <String>The Path is the primary doctrine of the ancient Krynniac religion. It is the set of core teachings, ideals, and laws that the Krynn must live by to bring them closer to learning the true Way of the universe.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnThePathSpecialization1_Name</Label>
+    <String>The Path of Wisdom</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnThePathSpecialization1_ShortDec</Label>
+    <String>Increases entire civilization's Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnThePathSpecialization1_Dec</Label>
+    <String>The way one walks down the Path can attract and influence others to begin their own journey. By encouraging Krynn with exposure to outside parties to better represent ourselves and our ways, we can more easily convince others to join the Path. </String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnThePathSpecialization2_Name</Label>
+    <String>The Path of Joy</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnThePathSpecialization2_ShortDec</Label>
+    <String>Increases entire civilization's Approval.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnThePathSpecialization2_Dec</Label>
+    <String>Those who commit fully to the Path enter a state of inner serenity, and find that the concerns of the secular world seem less important to their eyes. Encouraging this commitment amongst our people will lead to higher approval across our civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheCallingTech_Name</Label>
+    <String>The Calling</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheCallingTech_ShortDec</Label>
+    <String>Allows construction of the Krynniac Temples.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheCallingTech_Dec</Label>
+    <String>Once a Krynn has commenced along the Path, the next step is for them to find his or her Calling. It is though service to their Calling that the Krynn contribute to the overarching goal of our people, spreading the Krynniac Way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheCallingOptimization1_Name</Label>
+    <String>The Call of Order</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheCallingOptimization1_ShortDec</Label>
+    <String>Increases entire civilization's Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheCallingOptimization1_Dec</Label>
+    <String>Those that hear the Call of Order have a special urge to travel the distant stars, showing others the Path, and convincing them to leave their close-minded ways behind and join the Krynn. </String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheCallingOptimization2_Name</Label>
+    <String>Call of Peace</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheCallingOptimization2_ShortDec</Label>
+    <String>Increases entire civilization's Approval.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheCallingOptimization2_Dec</Label>
+    <String>Those that hear the Call of Peace are filled with an overflowing joy, and work tirelessly to share it with all of their fellow Krynn.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheCallingOptimization3_Name</Label>
+    <String>Call to Action</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheCallingOptimization3_ShortDec</Label>
+    <String>Reduces maintenance and manufacturing cost of Krynniac Improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheCallingOptimization3_Dec</Label>
+    <String>Those that hear the Call to Action take great pride in the work of their devout brethren, and donate assets and labor to support their work and help spread the Way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheOrderTech_Name</Label>
+    <String>The Order</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheOrderTech_ShortDec</Label>
+    <String>Allows construction of the Krynniac Order and Sanctuary.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheOrderTech_Dec</Label>
+    <String>The Krynniac Orders were founded to help Krynn take the last step on the Path, and find the Way. These Orders are the glue which hold the Krynn together, ensuring the Krynniac Way will eventually be found by all.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheOrderFocus1_Name</Label>
+    <String>The Order of Influence</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheOrderFocus1_ShortDec</Label>
+    <String>Increases entire civilization's Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheOrderFocus1_Dec</Label>
+    <String>Members of The Order of Influence travel beyond our borders as missionaries, advocates, and advisors, using their specialized training to teach unenlightened minds the advantages that following the Path might offer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheOrderFocus2_Name</Label>
+    <String>The Order of Hope</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheOrderFocus2_ShortDec</Label>
+    <String>Increases entire civilization's Approval.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheOrderFocus2_Dec</Label>
+    <String>Members of The Order of Hope understand that enlightenment begins from within, and dedicate their efforts to serving the needs of their home worlds, making sure that no one that walks the Path suffers unnecessarily.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheOrderFocus3_Name</Label>
+    <String>The Order of Service</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheOrderFocus3_ShortDec</Label>
+    <String>Reduces maintenance and manufacturing cost of Krynniac Improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheOrderFocus3_Dec</Label>
+    <String>Members of the Order of Service commit themselves to the construction and maintenance of the Krynniac infrastructure, dedicating their lives to the facilities that ensure the Path can be found by all.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheWayTech_Name</Label>
+    <String>The Way</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheWayTech_ShortDec</Label>
+    <String>Allows construction of the Krynniac Oracle.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheWayTech_Dec</Label>
+    <String>At the end of the Path one finds the Way. The Way reveals the truth of our universe to those who behold it, and teaches those so enlightened that they must forever help others walk the Path, until all beings in the universe live as one.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheWayPerfection1_Name</Label>
+    <String>The Way of Leadership</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheWayPerfection1_ShortDec</Label>
+    <String>Increases entire civilization's Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheWayPerfection1_Dec</Label>
+    <String>Those that follow the Way must be able to educate and influence the lost. A select few choose to walk the Way of Leadership, to better equip them for securing the future of the Krynn, and all sentient life.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheWayPerfection2_Name</Label>
+    <String>The Way of Bliss</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheWayPerfection2_ShortDec</Label>
+    <String>Increases entire civilization's Approval.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheWayPerfection2_Dec</Label>
+    <String>The Way of Bliss teaches that for the Krynn to bring all sentient life to the Path we must achieve perfect harmony within our own civilization first.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnThePathofShadows_Name</Label>
+    <String>The Path of Shadows</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnThePathofShadows_ShortDec</Label>
+    <String>Allows construction of the Shadow Temple.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnThePathofShadows_Dec</Label>
+    <String>There have always been those who cannot find the Path, and even some who threaten its existence. To combat these influences, the Krynniac faith has established the Path of Shadows, whose followers preserve the prosperity of the Krynn in their own way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnStellarEmigration_Dec</Label>
+    <String>All Krynn, regardless of training, understand the importance of teaching others how to walk the Path. We should do everything in our power to enable our people to travel the galaxy spreading the truth.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnCulturalAssimilation_Dec</Label>
+    <String>New arrivals to our colonies, even those just passing through, must be introduced to the Path as quickly as possible, in the manner they're most receptive to. Assimilation centers will train the Krynn who do this vital work.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnCulturalDomination_Dec</Label>
+    <String>The Path is the only means of achieving salvation, and all who claim otherwise are heretics. With these latest cultural buildings, the light of the Path shall shine brightly on all of civilized space.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnCulturalAffinity_Dec</Label>
+    <String>The Way beckons us closer, as civilized minds throughout the galaxy begin their journey down the Path. On the horizon, the light of salvation rises.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnXenoCommerce_Dec</Label>
+    <String>Our economy is too secular for most Krynn, and long been beneath the interests of all but the Secret Order. Nevertheless, we won't be able to spread the Way with faith alone. Improved economic structures will help fill our treasury.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnCommerceSpecialization1_Dec</Label>
+    <String>The Secret Order would like us to adjust the regulations affecting some very specific businesses which they presumably have an interest in. They promise this will lead to more funds for the treasury though, so a fair trade it would seem.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnCommerceSpecialization3_Dec</Label>
+    <String>Additional trade routes will allow our treasury to grow faster, and give the Secret Order an additional avenue for pursuing their own type of profit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnXenoEconomics_Dec</Label>
+    <String>New economic buildings will provide the marketplaces our private sector require to make their transactions, and, indirectly, provide our masters in the Secret Order more transactions to skim.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnShadowEnforcers_Name</Label>
+    <String>Shadow Enforcers</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnShadowEnforcers_ShortDec</Label>
+    <String>Allows construction of the Enforcement Temple.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnShadowEnforcers_Dec</Label>
+    <String>The Path does not permit exploitation without authorization. Authorization granted to those that walk the Path of Shadows, who are free to collect tithes from devoted merchants and bankers to ensure their businesses suffer no misfortunes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnInterstellarBanking_Dec</Label>
+    <String>The limited speed of communication across our vast civilization has opened the door to new types of fraud. New economic structures will help eliminate or at least bring this fraud under our control, boosting our economic income. </String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnEconomicFocus1_Dec</Label>
+    <String>The Secret Order recommends we increase trading activity, which will increase our treasury at the same time it provides cover for their own "trading" activities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnEconomicFocus2_Dec</Label>
+    <String>If we give the say-so, the Secret Order can deploy its members to the worlds of our neighbors, gathering information that we can use to our advantage during trade negotiations.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnEconomicFocus3_Dec</Label>
+    <String>Visitors to our worlds should be coming for spiritual enlightenment, not amusements. But when the close-minded refuse to see the Path in front of them, we might as well profit as much as we can from their visit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnFinancialSectorsTech_Dec</Label>
+    <String>The complexity of our secular financial sector is baffling to us. But the Secret Order assure us it will lead us to the Way, and that new financial structures will arrive us there sooner.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnGalacticStockMarket_Dec</Label>
+    <String>Letting businesses from across the galaxy trade portions of themselves in our stock markets is a confusing idea. The profits that flow our way are substantial, but is this really leading us towards salvation?</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnInterstellarTrade_Dec</Label>
+    <String>Trade provides an opportunity to enrich ourselves from the appetites our neighbors have for our goods. The Secret Order thrive on trading like this, and encourage us to actively pursue it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnGalacticTrade_Dec</Label>
+    <String>Fixed trading hubs will not only increase our ability to trade, they'll ensure that more goods pass within sight of the Secret Order and their sticky hands.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnGalacticFacilitation_Dec</Label>
+    <String>As our trading ports grow ever larger, we see now the wisdom of such trade. These funds, which would have gone to waste in the hands of the unbelievers, can be used to bring the Path right back to their doorstep.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTradeMasters_Dec</Label>
+    <String>Our trade empire is almost complete, every corner of the galaxy now tapped by members of the Shadow Path for potential profits. Our latest trading facilities will only extend our fingers further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnShadowTrade_Name</Label>
+    <String>Shadow Trade</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnShadowTrade_ShortDec</Label>
+    <String>Increases the Income of trade routes, by allowing the trade of dubious goods.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnShadowTrade_Dec</Label>
+    <String>The Path of Shadows teaches that unbelievers will destroy themselves if given what they want most. Properly equipped with the right "merchandise," our traders can now profit from their customers' gluttony.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnKrynnTourismTech_Name</Label>
+    <String>Celestial Tourism</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnKrynnTourismTech_ShortDec</Label>
+    <String>Begin collecting tourism income.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnKrynnTourismTech_Dec</Label>
+    <String>Word of the Krynniac faith and the salvation it represents has spread throughout the galaxy. Many new races are coming to our worlds to take their first hesitant steps along the Path. We should do everything we can to prepare for them.</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+  <StringTable>
+    <Label>KrynnIndustrialSpecialization_Dec</Label>
+    <String>With experience, and suffused with the wisdom the Path offers them, our colonists have found a number of ways to improve our basic colonial structures.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnConstructionOptimization_Dec</Label>
+    <String>Krynn who follow the Shadow Path have long struggled with blasphemers in our manufacturing sector who siphon funds off for their own sinister needs. We must do everything we can to stop them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnManufacturingFocus_Dec</Label>
+    <String>The more orderly a Krynn's internal mind, the more orderly they make the world around them. By preferentially promoting our most enlightened manufacturing workers, we might hope to improve our manufacturing sector.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnIndustrialMastery_Dec</Label>
+    <String>Our people have mastered manufacturing in much the same way we have mastered the Path that leads to the Way. But we are mortals, far from perfection. More improvements remain to be found.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnResearchOptimization_Dec</Label>
+    <String>Our researchers are more committed to the Path than almost all other Krynn, but remain naive about the ways of the world. With the right oversight, we can ensure their work spreads the Path in the manner best suiting our needs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTechnologicalFocus_Dec</Label>
+    <String>Our researchers assure us that if we begin specializing our research efforts, this will lead to tools that can help spread the Path faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPlanetarySpecialization_Dec</Label>
+    <String>Our farmers are simple folk, with but a rudimentary understanding of the Path. All they care for is dirt, and the tools to work with it. So we shall give them better tools. </String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnAgriculturalOptimization_Dec</Label>
+    <String>Even something as simple as our farms cannot remain free from waste. The Secret Order is asking, no, demanding, that we do something about it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnFarmingFocus_Dec</Label>
+    <String>Our farmers are simple folk, following a simplifed version of the Path, and sometimes resent the attention we pay to them. But the importance of food production to our society is to much to leave it entirely in their hands. Our farms must get better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnAgriculturalMastery_Dec</Label>
+    <String>Krynn's farms are among the best in the galaxy, the skill, faith, and industry of our farmers an example to us all. But a few improvements remain to be made to their practices.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnColonizationFocus_Dec</Label>
+    <String>If we can improve the conditions for the poor fools living on extreme worlds, they'll surely be grateful to us. The Secret Order loves it when favors are owed to them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBiospherePerfection_Dec</Label>
+    <String>Using forced colonization of the most extreme worlds as punishment was an ideal stick to wield during inquisitions. But the galaxy is too crowded to let these worlds remain unproductive.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnInterstellarSpecialization_Dec</Label>
+    <String>Our faithful researchers have come up with a number of ways to improve our equipment and navigational techniques.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnIonOptimization_Dec</Label>
+    <String>Apparently our new Ion Drive systems had a number of inefficiencies in their design which need to be corrected. We pray this was an honest mistake, and not a sign of our researchers being corrupted by heretical thoughts.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnWarpFieldFocus_Dec</Label>
+    <String>It seems that new hyperdrive technologies always have room for improvement, and that this doesn't imply corruption on the part of our researchers at all. We had prayed this was the case.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHyperwarpMastery_Dec</Label>
+    <String>Krynn drives are among the most powerful in the galaxy, the brilliance of our researchers as sure a sign of the righteousness of the Way as anything else we can offer. And still those blessed minds insist they can do better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnSensorOptimization_Dec</Label>
+    <String>Our researchers are constantly hard at work on our sensor systems, looking for minor improvements while still pursuing the next breakthrough.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnEnergyFieldFocus_Dec</Label>
+    <String>Many of our ships' crews regularly blaspheme against the Path and tinker with the equipment sent for them to do their work. We typically look the other way, but when their adjustments lead to improvements, we'd be fools not to capitalize on them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnSensorMastery_Dec</Label>
+    <String>It is of no surprise that the Krynn would master sensor technology so easily. Knowledge is the cornerstone of everything we are. Our wisest and most pious scientists are now putting the finishing touches on their masterpieces.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPrecursorRelicFocus_Dec</Label>
+    <String>The Precursor relics we find have strange effects on the Krynn, evoking a sense of wonder, excitement, and even greed. With our skills at manipulating sentiment, we should be able to capitalize on specific benefits if we choose.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLifeSupportOptimization_Dec</Label>
+    <String>Although we aim to bring salvation, even to the deceased, we cannot allow Krynn to perish without cause. Our life support systems must get better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnSupportFieldFocus_Dec</Label>
+    <String>Field-based life support systems are a little messy. We'll need to do something about this, lest our crews lose faith in our stewardship.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLifeSupportMastery_Dec</Label>
+    <String>Krynn crews are now as well fed and cared for as those in our colonies. Even better perhaps, for some of our less favored colonists at least. But a few more improvements remain to be made in these systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnOrbitalSpecialization_Dec</Label>
+    <String>Orbital construction is hard to maintain control of, with too many moving parts to buy off, and the workers too wealthy to be deterred by their religious obligations. We may require more severe management techniques.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnZeroGravityOptimization_Dec</Label>
+    <String>Orbital construction remains a dangerous occupation, with many unexplain accidents sapping productivity. We must do what we can to limit the influence of unfriendly factions in this sector, if only for the sake of our faithful workers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnOrbitalConstructionFocus_Dec</Label>
+    <String>With the worst corrupting influences removed from our shipyards, we can safely allow our innocent researchers on site to allow them to work their wonderous magic, improving our construction.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHullMastery_Dec</Label>
+    <String>As good as they already are, with the right motivation, our workers and designers should be able to make better ships. And between faith and money, we've got the best motivational tools known to sentient life on hand.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnCarrierFocus_Dec</Label>
+    <String>Fighter pilots are extremely pious, dedicated to the Path like few others. This makes them not only incorruptible, but reliable sources of wisdom. We should listen to their ideas for improving our carriers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnLogisticalOptimization_Dec</Label>
+    <String>Our newly established logistical seminaries are not only training a new generation of logistical workers, they're also coming up with surprising improvements we can implement to our existing operations.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnWeaponsSpecialization_Dec</Label>
+    <String>Our weapons researchers recommend we dedicate our efforts on a specific field of weapons technology, which will make it easier to develop more destructive weapons. These followers of the Shadow Path are a bloodthirsty lot.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBeamWeaponOptimization_Dec</Label>
+    <String>Our weapons researchers regularly push past boundaries more peaceful minds would stop at, their lust for destructive potential pushing the limits of our understanding of materials science. The results are hard to argue with though.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnHighEnergyFocus_Dec</Label>
+    <String>Our weapons researchers have found several mistakes in their work on our beam systems. Their self-flagellation is not part of any Path we sanctify, but if it leads to improvements, we're willing to look the other way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBeamWeaponMastery_Dec</Label>
+    <String>Our weapons researchers warn that our weapons are nearing perfect efficiency. But the Path, even the Shadow Path, does not permit rest. They must always look to do better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnMissileOptimization_Dec</Label>
+    <String>Our weapons researchers have been busy demolishing asteroids with their new toys. A strange bunch, but it's not our place to question them, and the Secret Order seem pleased with the improvements they're finding for our missile systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnWarheadFocus_Dec</Label>
+    <String>Our weapons researchers have cloistered themselves in an explosives testing facility. There is a lot more laughter eminating than is befitting such a pious group, but they will ultimately be judged by their results. </String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPayloadMastery_Dec</Label>
+    <String>Our weapons researchers' brilliance is a troubling thing, constrained only by the limits set forth by the mysterious Path of Shadows. But the results cannot be argued with; Krynn warheads are now feared throughout the galaxy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnKineticOptimization_Dec</Label>
+    <String>Our weapons researchers are conducting strange, scientific rituals on the energy delivery systems of our kinetic weapons. They promise this could lead to a number of improvements in these systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnKineticAccelerationFocus_Dec</Label>
+    <String>A private company has developed a new form of superconductor. Elements of the Shadow Path have already "acquired" this technology, and provided it to our weapons researchers to help improve our kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnKineticMastery_Dec</Label>
+    <String>Krynn vessels are now renowned throughout the galaxy for the speed and force with which we can deliver enlightenment upon unbelievers. But our weapons researchers aren't done yet, and claim further improvements are still to come.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnInvasionOptimization_Dec</Label>
+    <String>The Way must be accepted by all sentient beings for us to achieve salvation. That can be accomplished by persuasion and argument. Or it can be accomplished by making less sentient beings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnGravitationalFocus_Dec</Label>
+    <String>Our weapons researchers have developed tools which allow us to manipulate gravitational fields. These horrible weapons should only be used when all other forms of persuasion have failed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnJihadFocus_Name</Label>
+    <String>Krynniac Jihad</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnJihadFocus_ShortDec</Label>
+    <String>Improves planetary Holy War capabilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnJihadFocus_Dec</Label>
+    <String>Those that fallow the Path have no fear, their faith filling them with confidence and a strength that can be used against the unbelievers in a variety of ways.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDevineMastery_Name</Label>
+    <String>Divine Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDevineMastery_ShortDec</Label>
+    <String>Improves ship based Holy War capabilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDevineMastery_Dec</Label>
+    <String>Crews and officers that fully master the Path and comprehend the Way in all its beauty will find that the weapons of the unbelievers hold less menace for them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDefensiveSpecialization_Dec</Label>
+    <String>We've set up a separate team of devoted researchers to devise ways to protect against the weapons our devious weapons researchers are coming up with. Already these blessed minds are finding ways to improve upon their work.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnShieldOptimization_Dec</Label>
+    <String>Thanks to the diligent work of our defensive researchers, our shields continually get better. Their work is a shining example of what minds that follow the Path are capable of.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnBarrierSystemFocus_Dec</Label>
+    <String>Our defensive researchers are ashamed of themselves due to several oversights in the implementation of our Barrier Fields. After their self-cleansing ritual concludes, they promise to upgrade these systems immediately.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnShieldMastery_Dec</Label>
+    <String>The shields of Krynn vessels are famed throughout the galaxy, even the unbelievers unable to deny their effectiveness. But there is no end to the Path, and our defensive researchers continue to look for ways to improve upon their excellence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPointDefenseOptimization_Dec</Label>
+    <String>Our point defense systems are still primitive, with much room for improvement. As our defensive researchers become more enlightened about their capabilities, we should see some positive changes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnCounterMeasureFocus_Dec</Label>
+    <String>Our defensive researchers have been working tirelessly on our counter measure systems, a labor made easier by the knowledge that their efforts will save the lives of other Krynn.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDroneSystemMastery_Dec</Label>
+    <String>Drones, despite lacking sentience, are our most faithful warriors, tirelessly working to protect the lives of Krynn crews. Our defensive researchers adore them, and work almost as energetically to make them more capable.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnArmorOptimization_Dec</Label>
+    <String>Our armor will never be good enough, not as long as there are still hostile unbelievers in this galaxy. Our defensive researchers must do everything in their power to improve upon their work.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnArmorFocus_Dec</Label>
+    <String>As our armor systems become more complicated, only our most enlightened, most pious researchers can keep up with the science involved. But this winnowing process makes it easier for good ideas to rise to the top.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnArmorMastery_Dec</Label>
+    <String>Krynn vessels are as sturdy and reliable as any in the galaxy, protected by armor imbued with the faith of an entire people. And still our diligent defensive researchers work to make it better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDiplomaticSpecialization_Dec</Label>
+    <String>By studying the history and culture of the unbelievers who surround us, we might better understand them, and more ably convince them to join the Path.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPoliticalSpecialization_Dec</Label>
+    <String>Throughout our history, the Krynn have experienced a wide variety of governments. All have been acceptable, so long as the goal that they aim for remained the same.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPoliticalFocus_Dec</Label>
+    <String>Installing a new political theory in our people is a trivial thing, requiring only new instructions be delivered to our clergy on how best to guide their flocks on the new branch of the Path we're setting down.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnPoliticalMastery_Dec</Label>
+    <String>So great are our powers of persuasion that we can now steer the minds of our people to either extreme of morality with incredible ease.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnDiplomaticOptimization_Dec</Label>
+    <String>All treaties encourage peaceful relations, making them ideal for influencing our neighbors spiritual lives. But some treaties have other, more secular effects, which we'd do well to consider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnAllianceFocus_Dec</Label>
+    <String>We should consider what our neighbors can offer us when forming alliances with them. Although bringing them on to the Path is the long term goal, we will have many intermediate goals along the way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnThePathSpecialization_Name</Label>
+    <String>The Krynniac Paths</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnThePathSpecialization_ShortDec</Label>
+    <String>Enlightens our entire civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnThePathSpecialization_Dec</Label>
+    <String>Although all Krynn must follow the Path, there is some room for individualization and expression. Depending on how we move along the Path, the influence and internal approval of our entire civilization might be affected.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheCallingOptimization_Name</Label>
+    <String>The Krynniac Callings</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheCallingOptimization_ShortDec</Label>
+    <String>Enlightens our entire civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheCallingOptimization_Dec</Label>
+    <String>Not all Callings are created equally, and depending on the challenges that confront our civilization, we may wish to support those who have chosen a specific Calling.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheOrderFocus_Name</Label>
+    <String>The Krynniac Orders</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheOrderFocus_ShortDec</Label>
+    <String>Enlightens our entire civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheOrderFocus_Dec</Label>
+    <String>All of the Krynniac Orders are critical to the functioning of our civilization, though in some situations it may behoove us to strengthen one Order above the others.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheWayPerfection_Name</Label>
+    <String>The Krynniac Way</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheWayPerfection_ShortDec</Label>
+    <String>Enlightens our entire civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTheWayPerfection_Dec</Label>
+    <String>Those who have found the Way understand the importance of convincing the entire galaxy to walk the Path along with us. We must do anything we can do to support their work.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnCommerceSpecialization_Dec</Label>
+    <String>A representative from the Secret Order has approached us with some "suggestions" about how to improve our handling of the economy. Suggestions from this channel are often not suggestions at all.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnEconomicFocus_Dec</Label>
+    <String>The Secret Order has provided us with a list of economic initatives they'd like us to persue. We don't have to do everything on this list, but they promise that whatever we do will be worth our while.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTradeOptimization_Dec</Label>
+    <String>Trading is a secular activity, one enlightened Krynn have little to do with. But the Secret Order have many ideas how we could adjust our trading activites to our benefit. And, no doubt, to theirs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnTradeFocus_Dec</Label>
+    <String>No longer satisfied by their regular profiteering, the Secret Order is now encouraging us to restructure our trading activities to target specific economic sectors.</String>
+  </StringTable>
+ 
+</StringTableList>

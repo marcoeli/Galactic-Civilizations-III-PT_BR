@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- CultureTraitText.xml -->
+ 
+<!-- Culture Trait Names and Descriptions -->
+ 
+ 
+  <StringTable>
+    <Label>CrusadeMercenary_Name</Label>
+    <String>The Smuggler</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CrusadeMercenary_Dec</Label>
+    <String>The Smuggler has a curious ability for moving unseen in ports throughout the galaxy. The ability is perhaps better called "bribery" but The Smuggler prefers being mysterious about it, so here we are.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CrusadeMercenary_ShortDec</Label>
+    <String>[ICON=Shiprange_Icon] Very Fast
+[ICON=Shiprange_Icon] Extremely long ship range.</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>CrusadeMercenaryShip_Class_Name</Label>
+    <String>The Suspicious Falcon</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CrusadeMercenaryShip_Dec</Label>
+    <String>The Ship of the The Smuggler.
+
+[ICON=Shiprange_Icon] Very Fast
+[ICON=Shiprange_Icon] Extremely long ship range.
+</String>
+  </StringTable>
+ 
+</StringTableList>

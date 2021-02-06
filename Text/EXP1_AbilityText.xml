@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- EXP1_AbilityText.xml -->
+ 
+  <StringTable>
+    <Label>WarriorsAbility_Name</Label>
+    <String>Guerreiros</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarriorsAbility_ShortName</Label>
+    <String>Guerreiros</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarriorsAbility_Dec</Label>
+    <String>Ignorar 10% de todos os danos causados a seus navios. Todas as armas têm um alcance 10% maior.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantAbility_Name</Label>
+    <String>Vigilante</String>
+  </StringTable>
+  <StringTable>
+    <Label>VigilantAbility_ShortName</Label>
+    <String>Vigilante</String>
+  </StringTable>
+  <StringTable>
+    <Label>VigilantAbility_Dec</Label>
+    <String>As Bases Estelares têm Áreas de Efeito maiores. As naves inimigas são desaceleradas e as naves dos jogadores ganham um bônus de ataque, enquanto que na área de qualquer base estelar.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AmphibiousAbility_Name</Label>
+    <String>Anfíbio</String>
+  </StringTable>
+  <StringTable>
+    <Label>AmphibiousAbility_ShortName</Label>
+    <String>Anfíbio</String>
+  </StringTable>
+  <StringTable>
+    <Label>AmphibiousAbility_Dec</Label>
+    <String>Pode colonizar mundos aquáticos no início do jogo, sem penalidades. Pode terraformar 1 ladrilho de água a mais a cada idade tecnológica.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DiscreetAbility_Name</Label>
+    <String>Discreto</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiscreetAbility_ShortName</Label>
+    <String>Discreto</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiscreetAbility_Dec</Label>
+    <String>Recebe gratuitamente um mercenário aleatório de nível 1 a cada jogo, quando se deparam pela primeira vez com o Bazaar.</String>
+  </StringTable>
+ 
+</StringTableList>

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Return_YorTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>Return_YorTechTree_Name</Label>
+    <String>Return Yor Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPropagationTech_Name</Label>
+    <String>Propagation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorCollectiveManufacturingTech_Name</Label>
+    <String>Collective Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorIndustrialMechanizationTech_Name</Label>
+    <String>Industrial Mechanization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorConstructionOptimization4_Name</Label>
+    <String>Manufacturing Network</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorConstructionOptimization4_ShortDec</Label>
+    <String>Increase the Adjacency bonuses of Manufacturing Improvements</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorConstructionOptimization2_Name</Label>
+    <String>Efficient Mechanization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorConstructionOptimization3_Name</Label>
+    <String>Sustainable Mechanization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorManufacturingFocus3_Name</Label>
+    <String>Synchronized Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorManufacturingMatrixTech_Name</Label>
+    <String>Manufacturing Matrix</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorIndustrialMastery2_Name</Label>
+    <String>Planetary Construction Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPowerTech_Name</Label>
+    <String>Power Matrix</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPowerTech_ShortDec</Label>
+    <String>Allows for the construction of Power Matrix</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPowerSpecialization1_Name</Label>
+    <String>Manufacturing Capacity</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPowerSpecialization1_ShortDec</Label>
+    <String>Optimizes power plants to boost Manufacturing Improvements</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPowerSpecialization2_Name</Label>
+    <String>Technological Capacity</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPowerSpecialization2_ShortDec</Label>
+    <String>Optimizes power plants to boost Research Improvements</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPowerSpecialization3_Name</Label>
+    <String>Reproduction Capacity</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPowerSpecialization3_ShortDec</Label>
+    <String>Allows for Assembly of more Yor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorResearchArrayTech_Name</Label>
+    <String>Research Array</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorResearchArrayTech_ShortDec</Label>
+    <String>Allows construction of advanced research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorResearchOptimization1_Name</Label>
+    <String>Optimized Network</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorResearchOptimization1_ShortDec</Label>
+    <String>Increase the Adjacency bonuses of Research Improvements</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorResearchOptimization3_Name</Label>
+    <String>Self Sustaining Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorResearchMindTech_Name</Label>
+    <String>Research Mind</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorResearchMindTech_ShortDec</Label>
+    <String>Allows construction of exotic research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorResearchMatrixTech_Name</Label>
+    <String>Research Matrix</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorResearchMatrixTech_ShortDec</Label>
+    <String>Allows construction of the ultimate research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPlanetUtilizationTech_Name</Label>
+    <String>Planet Utilization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPlanetarySpecialization2_Name</Label>
+    <String>Accelerated Reproduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPlanetarySpecialization2_ShortDec</Label>
+    <String>Allows for Assembly of more Yor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPlanetarySpecialization4_Name</Label>
+    <String>Enhanced Production</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPlanetarySpecialization4_ShortDec</Label>
+    <String>Increases production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPlanetarySpecialization3_Name</Label>
+    <String>Mining Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPlanetarySpecialization3_ShortDec</Label>
+    <String>Increase strategic resource yields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPowerMatrixTech_Name</Label>
+    <String>Fusion Matrix</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPowerMatrixTech_ShortDec</Label>
+    <String>Allows creation of Fusion Matrix.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPowerMatrixFocus1_Name</Label>
+    <String>Manufacturing Augmentation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPowerMatrixFocus1_ShortDec</Label>
+    <String>Optimizes power plants to boost Manufacturing.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPowerMatrixFocus2_Name</Label>
+    <String>Research Augmentaion</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPowerMatrixFocus2_ShortDec</Label>
+    <String>Optimizes power plants to boost Research.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPowerMatrixFocus3_Name</Label>
+    <String>Reporductive Augmentation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPowerMatrixFocus3_ShortDec</Label>
+    <String>Increase Population Capacity of our worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorAntimatterMatrixTech_Name</Label>
+    <String>Antimatter Matrix</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorAntimatterMatrixTech_ShortDec</Label>
+    <String>Allows creation of the Antimatter Matrix.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorAntiMatterMastery1_Name</Label>
+    <String>Social Efficacy</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorAntiMatterMastery1_ShortDec</Label>
+    <String>Increase Adjacency bonus to all improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorAntiMatterMastery2_Name</Label>
+    <String>Reproductive Efficacy</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorAntiMatterMastery2_ShortDec</Label>
+    <String>Increase the efficacy of Assembly Project</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorQuantumMatrixTech_Name</Label>
+    <String>Quantum Matrix</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorQuantumMatrixTech_ShortDec</Label>
+    <String>Allows creation of the Quantum Matrix.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorQuantumMiniaturizationTech_Name</Label>
+    <String>Quantum Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorQuantumMiniaturizationTech_ShortDec</Label>
+    <String>Provides individual Yor their own nearly limitless power plant.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorSparkofLife_Name</Label>
+    <String>Spark of Life</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorSparkofLife_ShortDec</Label>
+    <String>Increase our ability to create new Yor Life Sparks, with the Fast Assembly Project.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorSparkReplication_Name</Label>
+    <String>Spark Replication</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorSparkReplication_ShortDec</Label>
+    <String>Allows the duplication of Mature Life Sparks, with the High Capacity Assembly Project.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorSparkContinuity_Name</Label>
+    <String>Spark Continuity</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorSparkContinuity_ShortDec</Label>
+    <String>Allows Life Sparks to be transferred to new vessels,  with the Ultimate Assembly Project.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorTerraformingTech_Name</Label>
+    <String>Terraforming</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorTerraformingTech_ShortDec</Label>
+    <String>Allows construction of terraforming plants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorSoilReclamation_ShortDec</Label>
+    <String>Allows construction of advanced terraforming plants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorSupportFieldGeneration_Name</Label>
+    <String>Ship Range Extension</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorSupportFieldGeneration_ShortDec</Label>
+    <String>Allows construction of advanced range extension systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorSupportFieldFocus1_Name</Label>
+    <String>Range Extension Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorSupportFieldFocus2_Name</Label>
+    <String>Range Manufacturing Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorSupportFieldFocus2_ShortDec</Label>
+    <String>Reduces range extension system cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorSupportFieldFocus3_Name</Label>
+    <String>Low Mass Range Extension</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorSupportFieldFocus3_ShortDec</Label>
+    <String>Reduces range extension system mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPromethionSupportSystems_Name</Label>
+    <String>Promethion Range Extension</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorPromethionSupportSystems_ShortDec</Label>
+    <String>Allows construction of exotic range extension systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorLifeSupportMastery1_Name</Label>
+    <String>Range Extension Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorLifeSupportMastery1_ShortDec</Label>
+    <String>Reduces range extension system cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorLifeSupportMastery2_Name</Label>
+    <String>Range Extension Mass Reduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorLifeSupportMastery2_ShortDec</Label>
+    <String>Reduces range extension system mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorLosslessSupportSystems_Name</Label>
+    <String>Lossless Range Extension</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorLosslessSupportSystems_ShortDec</Label>
+    <String>Allows construction of ultimate range extension systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorLogisticalOptimization4_Name</Label>
+    <String>Operational Range</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorLogisticalOptimization4_ShortDec</Label>
+    <String>Increases ship range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorLogisticalSupport_Name</Label>
+    <String>Logistical Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorLogisticalSupport_ShortDec</Label>
+    <String>Allows construction of efficient ships and self supporting fleets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorCommunicationsTech_Name</Label>
+    <String>Interaction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorEconomicEfficiency_Name</Label>
+    <String>Economic Efficiency</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorEconomicEfficiency_ShortDec</Label>
+    <String>Allows construction of Efficiency Center</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorEfficiencyStudies_Name</Label>
+    <String>Efficiency Studies</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_YorEfficiencyStudies_ShortDec</Label>
+    <String>Makes all our worlds more economically efficient.</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+ 
+</StringTableList>

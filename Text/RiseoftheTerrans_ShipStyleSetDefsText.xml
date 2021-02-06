@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- FactionShipStyleSetDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>Haven_UnitedEarthShipStyleSet_Name</Label>
+    <String>United Earth Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Haven_DrenginShipStyleSet_Name</Label>
+    <String>Drengin Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Haven_SpaceMonsterShipStyleSet_Name</Label>
+    <String>Space Monster Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Xendar_XendarShipStyleSet_Name</Label>
+    <String>Xendar Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Haven_MegaPirateShipStyleSet_Name</Label>
+    <String>Pirate Ship Style</String>
+  </StringTable>
+ 
+</StringTableList>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- FactionShipStyleSetDefsText.xml -->
+ 
+  <StringTable>
+    <Label>TerranShipStyleSet_Name</Label>
+    <String>Terran Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DrenginShipStyleSet_Name</Label>
+    <String>Drengin Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianShipStyleSet_Name</Label>
+    <String>Altarian Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IridiumShipStyleSet_Name</Label>
+    <String>Iridium Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrynnShipStyleSet_Name</Label>
+    <String>Krynn Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>YorShipStyleSet_Name</Label>
+    <String>Yor Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IconianShipStyleSet_Name</Label>
+    <String>Iconian Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThalanShipStyleSet_Name</Label>
+    <String>Thalan Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PirateShipStyleSet_Name</Label>
+    <String>Pirate Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TorianShipStyleSet_Name</Label>
+    <String>Torian Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ArceanShipStyleSet_Name</Label>
+    <String>Arcean Ship Style</String>
+  </StringTable>
+ 
+</StringTableList>

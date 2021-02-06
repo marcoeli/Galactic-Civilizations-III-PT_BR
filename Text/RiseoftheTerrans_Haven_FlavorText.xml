@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- RiseoftheTerrans_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Haven_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>Humanity has taken its place among the stars. Having overcome its own worst nature, Earth and its colonies have come together to begin a new era.
+Forming a new government that binds them together, the new Terran Alliance is ready to face whatever the galaxy has in store.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Haven_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>The United Earth government's first steps into the stars have ended in tragedy, giving birth to its own destruction in the form of the Stellar Guild. 
+But at least humanity remains, in the form of the Stellar Guild. The question is, will they grow to become a great galaxy-spanning civilization, or will they turn on each other and become nothing more than the galaxy's first pirates?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Hello, Secretary General. I am the new Autonomous Technology and Automation Mechanism. You can call me "Atam". 
+
+I have been created to help you manage and command our new fleet of colony ships, as we begin our push to the stars.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Atam, that's cute. Do you have anything to report or are you just saying hello?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Hello, Atam. Is there some reason your creators could not make this report?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Oh, well it appears all that "sense of humor" AI work is going to be wasted.
+We now have two completed colony ships, in orbit, waiting for your orders.  In addition, our new flagship has been equipped with what I am assured is a new "Prototype Survey Module" that should allow it to better assess the threats of open space.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent. Have our surveyor's been able to find any colonizable worlds for us yet?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thank you "Atam," I will take direct control of the fleet now, it's time to see what's out there.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They say they are hoping I will be able to assist you on a 24-hour basis, and do not want to interfere with the experiment.
+But, I believe they are hoping that if I work out they will have yet another technology to sell to the new races we encounter.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well, I guess I am willing to help advance science, but once this experiment is
+over I would like to see a real person reporting to me.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well, I give them credit for optimism, but I doubt other races will want to get all their news from robots.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-A_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I will make sure they know your feelings on the matter.
+
+In the meantime, I will be available whenever you need me. Is there anything I can do for you now?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-A_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You can start by giving me a report on our new colony ships.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-A_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You can get off my screen; I have colony ships awaiting my orders.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-B_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I think you will find I have been programmed with a very helpful personality. 
+
+Is there anything I can do for you presently?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-B_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You can start by giving me a report on our new colony ships.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-B_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You can get off my screen; I have colony ships awaiting my orders.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-A-1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We now have two completed colony ships in orbit, waiting for your orders. In addition, our new flagship has been equipped with what I am assured is a new "Prototype Survey Module" that should allow it to better assess the threats of open space.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-A-1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent. Have our surveyors been able to find any colonizable worlds for us yet?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-A-1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thank you "Atam," I will take direct control of the fleet now, it's time to see what's out there.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-B-1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We now have two completed colony ships in orbit, waiting for your orders. In addition, our new flagship has been equipped with what I am assured is a new "Prototype Survey Module" that should allow it to better assess the threats of open space.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-B-1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent. Have our surveyors been able to find any colonizable worlds for us yet?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-B-1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thank you "Atam," I will take direct control of the fleet now, it's time to see what's out there.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-1-A_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our astronomers have located several promising stars but they cannot guarantee that they will have habitable worlds. 
+
+They have assured me that the Flagship will be able to find new habitable worlds much faster than our Earth-bound researchers have been able to. The closest of these is Alpha Centauri.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-1-A_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, starting today the human race will span the stars. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-1-B_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our astronomers have located several promising stars but they cannot guarantee that they will have habitable worlds. 
+
+They have assured me that the Flagship will be able to find new habitable worlds much faster than our Earth-bound researchers have been able to. The closest of these is Alpha Centauri.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-1-B_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, starting today the human race will span the stars. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-A-2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Of course, but you will probably want to know that our astronomers have located several promising stars but they cannot guarantee that they will have habitable worlds. 
+
+They have assured me that the Flagship will be able to find new habitable worlds much faster than our Earth-bound researchers have been able to. The closest of these is Alpha Centauri.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-A-2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, starting today the human race will span the stars. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-B-2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Of course, but you will probably want to know that our astronomers have located several promising stars but they cannot guarantee that they will have habitable worlds. 
+
+They have assured me that the Flag Ship will be able to find new habitable worlds much faster then our Earth-bound researchers have been able to. The closest of these is Alpha Centauri.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-B-2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, starting today the human race will span the stars. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-A-1-A_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our astronomers have located several promising stars but they cannot guarantee that they will have habitable worlds. 
+
+They have assured me that the Flag Ship will be able to find new habitable worlds much faster then our Earth-bound researchers have been able to. The closest of these is Alpha Centauri.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-A-1-A_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, starting today the human race will span the stars. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-B-1-A_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our astronomers have located several promising stars but they cannot guarantee that they will have habitable worlds. 
+
+They have assured me that the Flag Ship will be able to find new habitable worlds much faster then our Earth-bound researchers have been able to. The closest of these is Alpha Centauri.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_NewAdvisor-2-B-1-A_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, starting today the human race will span the stars. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_Surveying_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our Flagship is reporting back that its new Survey module is working well. They have already found several valuable artifacts.
+They are also reporting that there seems to be abundant evidence of older races that must have traveled the stars without Stargates.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_Surveying_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This is interesting news, The Arceans made no mention of such races. I wonder what else they are hiding.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_Surveying_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Captain said to watch for any valuable technology. Weapons, in particular, as we may need them sooner than we hoped.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_AsteroidMining_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Several private concerns have expressed interest in setting up mining bases on the local asteroids. 
+
+Each of these bases will be a substantial upfront investment on our part, but should require almost no further investment of time or money.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_AsteroidMining_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, tell them that we will put them to work, as soon as we can afford to get them out there.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_AsteroidMining_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Keep in mind that these bases will be privately operated. If they fall under the influence of other races, they will likely begin selling their resources to them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeAlphaCentauri_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our colony ship has successfully landed on Alpha Centauri.
+
+Early reports are that while habitable, the planet is not what we might have hoped for. It is primarily desert, and growing food will be difficult.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeAlphaCentauri_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It may not be perfect, but it is an alien world. We can use it as a base to explore further into the galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeAlphaCentauriEvent_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>General Secretary, we have received an urgent message from our Alpha Centauri Colony. 
+They have found a primitive form of life living in an underground aqueduct system that spans the planet.
+This water would be invaluable in making the world more habitable, but many of the colonists insist that we must not interfere with the new-found life form.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeAlphaCentauriEvent_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our first action toward the life on our nearest neighbor must not be destructive. Do not use the water.
+[COLOR=BenevolentBlue](Benevolent +10)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeAlphaCentauriEvent_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Certainly we must preserve this life form, but our colonists must come first. Use the water but preserve the organism. [COLOR=PragmaticGold](Pragmatic +10)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeAlphaCentauriEvent_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I think we can now safely say that life is common in the galaxy, one less microbe will not be missed. Use the water.
+[COLOR=WarRed](Malevolent +10)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeAlphaCentauriResult-1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have received an update from Alpha Centauri. 
+It seems some of the colonists have been drilling wells into the protected aquifers. The Colonial Governor has arrested several of them, but is very concerned that punishing people struggling to survive to protect a microbe will lead to full-on revolt.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeAlphaCentauriResult-1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must stand for what is right. Fine the offending colonists, and if they continue to drill, send them back to Earth.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeAlphaCentauriResult-1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must put the needs of our colonists first. Let them go with a warning, but do your best to protect the life form from contamination.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeAlphaCentauriResult-2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have received an update from Alpha Centauri.
+Despite our best efforts, the life form in the subterranean waters seems to be dying off. Our scientists suspect that the damage is irreversible. 
+The Governor would like permission to make full use of the water now that the damage is done.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeAlphaCentauriResult-2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Protect the life form at all costs. Put researchers on it full-time. The colonists will just have to learn to survive with the water allotted.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeAlphaCentauriResult-2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Perhaps he is right, try and save the life form, but use the water to help the colony grow.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeAlphaCentauriResult-3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have received an update from Alpha Centauri.
+Our scientists have confirmed that our use of the subterranean water is killing off the native life form. 
+A sizable percentage of the more environmentally minded have begun protesting, and there are even reports of sabotage to the water system.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeAlphaCentauriResult-3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They have a right to protest but arrest anyone that interferes; the colony must survive.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeAlphaCentauriResult-3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Execute anyone caught sabotaging infrastructure. We must make sure everyone understands that the colony comes first. [COLOR=WarRed](Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuild_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>General Secretary, some of our analysts have noted a growing trend that they feel you need to be aware of.
+Some disaffected colonists have begun organizing a group, calling themselves "The Stellar Guild". They are very critical of Earth's control of the colonization process. Perhaps what is most concerning is they seem to be getting support from several wealthy factions on Earth itself.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuild_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They have a right to complain, but we will have to be more careful on our next colony. [COLOR=BenevolentBlue](Benevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuild_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Have our intelligence agencies keep an eye on them, I want to know if they are going to do anything more than complain. [COLOR=PragmaticGold](Pragmatic +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuild_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We do not have time for disunity during this historic time. Round up any colonists that are known members, and ship them back to Earth. [COLOR=WarRed](Malevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_PrecursorRelics_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our scouts have found several large Relics floating in deep space. From what we can tell, they are ancient. The technology required to construct such huge structures is well beyond us, or any alien race we have encountered. 
+
+Our scientists have started calling the relic creators "The Precursors." They are asking that a starbase be built nearby, so they can make further studies.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_PrecursorRelics_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Allow them to be studied, but these ancient treasures must not be damaged. [COLOR=BenevolentBlue](Benevolent +10)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_PrecursorRelics_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Is there any chance that these "Precursors" will come back for their relics? [COLOR=PragmaticGold](Pragmatic +10)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_PrecursorRelics_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, tell them to do whatever it takes to learn the secrets of these Precursors. Take them apart piece by piece if needed. [COLOR=WarRed](Malevolent +10)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_PrecursorRelics-2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They seem confident that they have been abandoned for millennia.
+
+We may soon have to worry about other races staking claim to them, however. Which is why they are so eager to get the starbases built as soon as possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_PrecursorRelics-2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I will make it a high priority, but our colonies come first.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_PrecursorRelics-2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We don't have time to study rusty old ruins, no matter how spectacular. Finding habitable worlds needs to be our priority.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeProximaUrsaeEvent_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our Colony ship has landed on Proxima Ursae II. This world is slightly higher quality than Alpha Centauri, but still not as habitable as Earth. It does, however, have an Earth-like climate, and we should be able to thrive there without too much struggle. There appears to be scattered native life, but none of it sentient. However, they have found ruins of structures, that were at one time inhabited.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeProximaUrsaeEvent_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Have our archeologists study the ruins carefully, surely there must be a great deal to learn from the past of this world.
+[COLOR=BenevolentBlue](Benevolent +20)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeProximaUrsaeEvent_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Find out what happened to the original inhabitants. We need to know if they died off naturally, or if something more dangerous occurred. [COLOR=PragmaticGold](Pragmatic +20)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeProximaUrsaeEvent_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Search the ruins for anything useful and demolish anything that we cannot use. Humanity is the future of Proxima Ursae now. [COLOR=WarRed](Malevolent +20)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeProximaUrsaeResult-1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have an update from Proxima Ursae. Colonists have begun using the ancient ruins as homes. The archeologists are complaining to the governor and are asking that they be forcibly removed or even be sent back to Earth. It seems that Stellar Guild activists are taking advantage of this to call for the independent rule of all colonies. The planetary governor would like your guidance before she acts.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeProximaUrsaeResult-1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Remove the squatters, but help them build new homes of their own. Any members of the Stellar Guild that have a problem can be sent back to Earth.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeProximaUrsaeResult-1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>These new worlds are dangerous, we must be able to control the situation. Arrest the squatters and any agitators, and if need be, silence them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeProximaUrsaeResult-2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have received an urgent report from Proxima Ursae. 
+Our scientists have found that the race that used to live there was wiped out by some sort of disease. They think it is safe now but are worried that it might adapt to humans with enough time. 
+The Stellar Guild is claiming that this is just anther example of how badly colonization is being handled from Earth.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeProximaUrsaeResult-2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Quarantine the ruins, no one goes near them until we are sure we can stop this disease if it mutates.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeProximaUrsaeResult-2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tell the scientists to find a cure before it mutates. Tell the Stellar Guild that they would not even know of this threat if it was not for Earth.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeProximaUrsaeResult-3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have received disturbing news from Proxima Ursae. 
+Apparently the race that once lived there was killed off by some sort of disease and has mutated to affect humans. Our scientists think they are near finding a cure, but almost 50% of the population has fallen sick. 
+The Stellar Guild is claiming that Earth knew of the threat and kept it from the colonists. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeProximaUrsaeResult-3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will make our best researchers available to them in finding the cure. Ignore the Stellar Guild idiots, the colonists know we only care about their safety.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeProximaUrsaeResult-3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I will not stand for these lies, I want to have these Stellar Guild agitators arrested and sent back to Earth on the next ship.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuildWildcats_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have received a disturbing report from our shipyard on Earth. 
+It appears that Stellar Guild activists have managed to construct a ramshackle colony ship of their own, and stolen several constructor modules. 
+They have somehow managed to slip out of the Sol system without being noticed; all we know is that they were last seen heading toward Sirius.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuildWildcats_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will not stop them if they wish to risk colonizing on their own, as long as they do not threaten any of our colonies.
+[COLOR=BenevolentBlue](Benevolent +20)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuildWildcats_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well, they will soon learn the hard way how important it is to have Earth backing them. If they survive, that is.
+[COLOR=PragmaticGold](Pragmatic +20)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuildWildcats_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Round up anyone who helped them with this plan. They can pay for the cost of the stolen modules while they rot in prison. [COLOR=WarRed](Malevolent +20)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_SpaceMonster_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>A strange report from Proxima Ursae. Apparently a local scout disappeared while surveying the system.
+The last report of was some sort of large space-faring creature, moving through deep space. The pilot said he wanted to take a closer look, but was not heard from again.
+The Planetary Governor requests that we send some armed ships to track down this "Space Monster," and make sure it is not a threat to their colony.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_SpaceMonster_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tell them that we will send a ship when it is available, but to order their people to avoid the creature if they see it again. [COLOR=PragmaticGold](Pragmatic +20)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_SpaceMonster_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, our first chance at interstellar hunting. We will dispatch an offensive ship as soon as possible. [COLOR=WarRed](Malevolent +20)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_Concerns_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Earth intelligence has been looking into the Stellar Guild's departure. It appears that before they left, they were openly planning to stop "Earth's Domination" of local space. 
+
+It also appears that many of the Stellar Guild members that fled on the colony ship were former colonists and military personnel. 
+
+Intelligence is concerned they may become a real threat soon.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_Concerns_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Keep an eye on the remaining Stellar Guild members; we must be vigilant, but our focus must be proving them wrong by helping our colonies thrive.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_Concerns_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I want every remaining member of the Stellar Guild identified. If they get up to anything we will be able to crack down on them swiftly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuildArming_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Intelligence has confirmed reports that the Stellar Guild has begun building warships. They claim they are to protect themselves from Earth interference. 
+
+However they definitely now have what they need to be a danger to our colonies and transports if they feel threatened.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuildArming_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They have the right to defend themselves, but we need to keep an eye on them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuildArming_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Let them know that if they come near our colonies with the ships we will be watching. We will not let them surprise us again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeHaven_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our colony ship has reached Haven. It has proven to be the highest quality planet we have discovered so far; some say its potential even surpasses Earth.
+We have also encountered an indigenous population with roughly stone age technology. They have, for the most part, avoided us, and their population is small. We believe that we will be able to establish a colony without interfering with them too much, though it might limit our resources slightly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeHaven_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must try and avoid them at all costs and allow them to evolve on their own.
+[COLOR=BenevolentBlue](Benevolent +25)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeHaven_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Allow our anthropologists to study them, but make sure the general population leaves them be. [COLOR=PragmaticGold](Pragmatic +25)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeHaven_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This is our chance to educate a new race and help them integrate with the new rulers of the planet. At the very least they will be cheap labor. [COLOR=WarRed](Malevolent +25)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeHaven-1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Concerning news from Haven. Apparently some of the native population has begun wandering into populated areas, and several have been found dead. Researchers are worried that some human diseases may have contaminated the ecosystem. They fear the entire population of natives may be in danger if we do not evacuate the colony immediately.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeHaven-1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have invested too much to abandon Haven now, build walls around our settlements and make sure that all contact with the natives is avoided.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeHaven-1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The damage is probably already done, have our researchers search for a way to help them, but we have come too far to leave Haven now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeHaven-2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Sad news from Haven. Apparently our archeologists were not careful enough, and a virus mutated enough to infect the local population.
+
+The disease spread through the population quickly. The latest report is that the entire known native population is dead.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeHaven-2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This is very disturbing indeed. Have our scientists try and find a cure for the natives in case any have survived in the wild.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeHaven-2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We tried our best, but perhaps it was meant to be; sometimes the old must make way for the new.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeHaven-3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Disturbing news from Haven. 
+
+Apparently our attempts to make use of the Native population have failed. It seems several human diseases mutated enough to infect the local population. 
+
+The disease spread through the population quickly. The latest report is that the entire known native population is dead.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeHaven-3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well, that is unfortunate. We must study what happened, to make sure we are better prepared next time.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_ColonizeHaven-3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Oh well, I guess cheap labor was too much to hope for, but at least Haven is now completely uncontested territory.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_IncomingMessage_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Secretary General. 
+
+We are receiving reports of a message being sent to each of our colonies from the Stellar Guild. Apparently they have heard of the events on Haven, and are using it as an excuse to incite full-on rebellion.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_IncomingMessage_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Put it through.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuildWar1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Attention all United Earth colonies! We are the Stellar Guild, and we will liberate you.
+The incompetence of Earth rule has finally gone too far; the destruction reaped on the native population of Haven has proven once and for all that Earth does not care about the worlds it is colonizing, they only care about the resources they control.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuildWar1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Continue listening...</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuildWar1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's it, let's kill these idiots.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuildWar2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>From this day forward the Stellar Guild declares that each colony should be free to rule itself.
+Humanity has found its way to the stars and it must be free to explore, without being bound to old ways and tyrannical leaders. 
+The Stellar Guild will reach for the stars and learn from new races, not try and take their worlds.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuildWar2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Continue listening...</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuildWar2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Really, it's time for these guys to die.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuildWar3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We ask each of the Earth colonies to join us. Shake off your bonds: Earth is light years away, it is time for you to stand on your own and make a better future for us all.
+And to all Earth ships, should you dare to enforce your laws the Stellar Guild will be there to stop you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuildWar3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Order our colonies to lock down all travel and keep an eye out for Stellar Guild ships.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerGuildWar3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Order all ships to be on the lookout for Stellar Guild ships. Orders are shoot to kill.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerRaiders_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>New reports coming in from several colonies. 
+
+Apparently by not declaring independence immediately, they have irritated the Stellar Guild. The Guild has executed several small-scale raids on Haven, one of which resulted in multiple casualties.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerRaiders_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Order all ships to hunt down these raiders, offer them a chance to surrender, but if they do not, destroy them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_StellerRaiders_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will hunt down these raiders and whatever rock they are operating out of and destroy them once and for all.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_UnknownSingle_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Some of our ships out looking for the Stellar raiders have reported picking up a signal coming from a star system out past Haven. They can not decrypt it, but it is certainly from a more advanced civilization. 
+We have even picked up a return message coming back the other way, but it is being destroyed by a black hole, so we are unable to locate its origin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_UnknownSingle_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Have all ships keep an eye out for the signal, but first we need to take care of the Stellar Guild.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_UnknownSingle_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I'm sure there are signals traveling the galaxy constantly, we are too busy with the Stellar Guild to waste effort on this.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_SomeoncesListening_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>One of our ships has discovered a barely habitable planet on the far side of the sector. There was a scientific team from a race called "The Drengin" surveying it.  They did not seem to have any armed ships. 
+
+Actually, they have been quite friendly. For a scary looking bunch of guys, that is.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_SomeoncesListening_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, ask them if they are open to trade; I am sure that there is much we can learn from them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_SomeoncesListening_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Have our ships keep an eye on them. Unfortunately, we need to secure our colonies before we try and get to know the neighbors.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_SomeoncesListening-1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Drengin researchers have replied to our request for trade.
+
+They claim that they do not have authority to do so and are on their way back to their home system with the request.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_SomeoncesListening-1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's too bad but I'm sure we will get along just fine.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_DestroyStellerGuildRaiders_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The last of the Stellar Guild Raiders has been tracked down and destroyed. 
+
+To the end, they continued to ignore our orders to surrender. If any part of the Stellar Guild survives, they have gone into hiding.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_DestroyStellerGuildRaiders_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>In the end, they proved themselves no better than Pirates. The galaxy will be better off without them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_KillSpaceMonster_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our ships have hunted down the "Space monster" and killed it. It was surprisingly tough. 
+
+They are however very concerned, after closer examination it appears that it was only an infant. 
+
+They are very concerned that its mother might come looking for it</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_KillSpaceMonster_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will face that challenge when it comes. But we should see if we can find a way to communicate with them in the future.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_KillSpaceMonster_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We knew the exploring the galaxy would be dangerous, but who knew it would be so much fun.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_EverythingWillBeFineNow_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Since we defeated the Stellar Guild raiders, things seem to be settling down. All our colonies are prospering, and approval rates are up.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_EverythingWillBeFineNow_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>For all its mistakes the Stellar Guild was right about one thing; humanity is now bigger than Earth alone.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_EverythingWillBeFineNowCont1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It is true. Many of our colonial Governors would like to see a new constitutional convention. 
+It is true that with a more balanced alliance of all Earth colonies, the Stellar Guild would not have been able to grow to such a threat so quickly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RiseoftheTerrans_Haven_EverythingWillBeFineNowCont1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I believe they are right. It's time for a new government, a true alliance of all Terran Colonies.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- PlanetFeatureText.XML -->
+
+ 
+  <StringTable>
+    <Label>NaturalWonder_Name</Label>
+    <String>Natural Wonder</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NaturalWonder_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Attractions built here will draw tourists from the furthest reaches of the galaxy.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientRuins_Name</Label>
+    <String>Ancient Ruins</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientRuins_Dec</Label>
+    <String>[COLOR=UIDefaultHot]These Precursor ruins are a great site for researching their exotic technologies.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GeothermalSprings_Name</Label>
+    <String>Geothermal Springs</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GeothermalSprings_Dec</Label>
+    <String>[COLOR=UIDefaultHot]These springs power manufacturing plants, and heated pools.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Cataract_Name</Label>
+    <String>Cataract</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Cataract_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Massive falls provide almost free energy, for manufacturing or research.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Planetfall_Name</Label>
+    <String>Planetfall</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Planetfall_Dec</Label>
+    <String>[COLOR=UIDefaultHot]The reported location of the original scouts to set foot on this world.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientWonder_Name</Label>
+    <String>Ancient Wonder</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientWonder_Dec</Label>
+    <String>[COLOR=UIDefaultHot]The fame of this ancient wonder can spread your influence and attract tourists.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PreciousMetals_Name</Label>
+    <String>Precious Metals</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PreciousMetals_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Veins of precious metals make this an ideal spot to make some profit.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RareStones_Name</Label>
+    <String>Rare Stones</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RareStones_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Rare gems found in this location are valuable throughout the galaxy.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MineralRich_Name</Label>
+    <String>Mineral Rich</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MineralRich_Dec</Label>
+    <String>[COLOR=UIDefaultHot]The minerals found here are extremely useful for starship construction.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RareEarth_Name</Label>
+    <String>Rare Earth Metals</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RareEarth_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Rare earth metals allow for much more exotic research methods.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Floodplain_Name</Label>
+    <String>Floodplain</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Floodplain_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Locally available food supports larger city sizes.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WildGrain_Name</Label>
+    <String>Wild Grain</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WildGrain_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Locally available food supports larger city sizes.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Wasteland_Name</Label>
+    <String>Wasteland</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Wasteland_Dec</Label>
+    <String>[COLOR=UIDefaultHot]This desolate area is barely usable and perfect for blowing things up.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Caverns_Name</Label>
+    <String>Caverns</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Caverns_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Deep natural caverns, perfect for fortification against just about any type of attack.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Haven_Name</Label>
+    <String>Haven</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Haven_Dec</Label>
+    <String>[COLOR=UIDefaultHot]This idyllic region is so beautiful that living here makes people happy.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Paradise_Name</Label>
+    <String>Paradise</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Paradise_Dec</Label>
+    <String>[COLOR=UIDefaultHot]This slice of paradise is where everyone wants to live, or at least visit once in their life.[/COLOR]</String>
+  </StringTable>
+ 
+</StringTableList>

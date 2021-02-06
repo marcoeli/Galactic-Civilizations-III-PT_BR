@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- AltarianProphecy_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Mission1_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>With their victory over the Korx, the newly born Terran Alliance has proven to be a powerful force in the galaxy and worthy of respect.
+This has not gone unnoticed by the Altarian Confederation who has agreed to formal talks on forming an Alliance.
+But the Korx still control several worlds and continue to attack more distant Altarian colonies. The battle for the Altarian Sector may be over but the war has yet to be won.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mission1_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>The newborn Terran Alliance, having failed secure its place in the greater galactic community, has begun to retreat back toward earth.
+Will they ever recover from this loss or will they become nothing but a footnote in galactic history as the race that foolishly gave away its greatest achievement?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_TurnOneMessage_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>General Secretary, we are receiving reports from one of our new colonies.
+They have made visual contact with a strange alien survey ship. It has already begun to leave their system without incident.
+From the elegant design of the ship, our intelligence people think it may be the mysterious Altarian Confederation that we have heard about from the Arcean Empire.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_TurnOneMessage_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Interesting. Instruct them to attempt PEACEFUL first contact. An alliance with such a powerful race would be very beneficial. [COLOR=BenevolentBlue](Benevolent +10)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_TurnOneMessage_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Have our forces keep an eye on them. We have heard they are peaceful, but we don't want to be surprised. [COLOR=PragmaticGold](Pragmatic +10)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_TurnOneResponse1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are relaying your orders, but it may not be necessary as we are now receiving a message from the ship.
+This either very convenient timing or they are listening to our conversation.
+We do not seem to be able to get a lock on the video signal yet but we can put though the audio.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_TurnOneResponse1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Put it through to me immediately.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_TurnOneResponse2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are relaying your orders, but it may not be necessary, we are now receiving a message from the ship.
+This either very convenient timing, or they are listening to our conversation.
+We do not seem to be able to get a lock on the video signal yet but we can put though the audio.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_TurnOneResponse2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Put it through to me immediately.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_Greetings_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Greetings Terrans, we apologize for monitoring your communications.
+We were surveying the sector and wanted to make sure you were peaceful.
+We did not realize that it was you. Our people owe you a great debt for the gift of the Hyperdrive.
+Though we have begun to suspect that you did not mean to share it as freely as you did.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_Greetings_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have heard of the much of the noble Altarian Confederation. We are interested in establishing formal relations with your people.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_ContactingBoss_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Unfortunately, we are but a simple survey ship and have not the authority to open talks. However, we have sent word to our closest colony and they will be contacting you soon.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_ContactingBoss_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Is there some reason that your visuals are  scrambled?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_WhySoShy_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have been instructed to avoid visual contact with the Terran Alliance until an ambassador is available.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_WhySoShy_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We look forward to your contact.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_TurnTwoMessage_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>General Secretary, it appears the Altarians have received our request for talks. We have a message coming from several star systems away.
+They wish to talk to someone with the authority to speak for the entire Terran Alliance. But they still refuse to broadcast a visual signal. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_TurnTwoMessage_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I guess that would be me. Put them through. [COLOR=BenevolentBlue](Benevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_TurnTwoMessage_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Put the message through to me. Try to trace the signal. [COLOR=PragmaticGold](Pragmatic +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_IncomingMessage_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This is a message for the  leaders of the Terran Alliance from the Altarian Confederation.
+We have received your request for diplomatic talks. If you have the authority to speak for your people please respond. 
+This is a message for the leaders of the Terran Alliance...</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_IncomingMessage_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This is General Secretary Gregory Mathews of the United Earth. I can speak for the Terran Alliance.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_OneMomentPlase_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>One moment please...
+Security Scan complete.
+We will now connect you to the Ambassador.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_OneMomentPlase_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Please do.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_FaceToFace_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Greeting Secretary Mathews. 
+I am Ambassador Akari Malara of the Altarian Colony Serenity. I have been authorized to represent the Altarian Confederation should we finally encounter the fabled Terrans. 
+We have been very interested in you since we first received the plans for your miraculous Hyperdrive.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_FaceToFace_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Madam Ambassador, it is a pleasure to finally meet the Altarian people face to face.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_FaceToFace_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Ambassador, it is nice to speak to you. I must admit your appearance is surprising. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_FaceToFace_R1and2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Indeed, I must admit we have been watching you closely. Your resemblance to the Altarian people has become a great subject for our philosophers and scientists. We have been reluctant to approach you until this mystery had been solved.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_FaceToFace_R1and2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have not made visual contact with anyone but the Arceans. So I will admit this was not expected.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_FaceToFace_R1and2_R1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Indeed. We have explored the stars for millennia and have met many races.  Yet, we have never encountered a race that bears such a resemblance to us. 
+Indeed, we have even searched for such to no avail.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_FaceToFace_R1and2_R1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You have searched for a race that looks like you?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_FaceToFace_R1and2_R1_R1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have.  There is an ancient prophecy among our people that one day we would meet our cousins. 
+However, this has been considered a myth for millennia. 
+Perhaps one day we will share the prophecy with you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_FaceToFace_R1and2_R1_R1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It sounds like an interesting tale.  We would be interested in learning more. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_FaceToFace_R1and2_R1_R1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>While our similarities are interesting, our main goal is to avoid any conflicts between our people.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_FaceToFace_R1and2_R1_R1and2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our highest priority, certainly, is that we must discuss diplomacy.
+I must inform you that the Altarian Confederation wishes the Terran Alliance no ill will. But we are concerned with your recent colonial expansion. Your worlds slowly encroach our territory. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_FaceToFace_R1and2_R1_R1and2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have no interest in violating your territory. However, until now, we had no idea where that was.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_FaceToFace_R1and2_R1_R1and2_R1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This is true. We must take some responsibility for not making contact earlier. 
+For now, let us say we have a new understanding. We will send you the location of our nearest colony. Please do not continue to colonize any worlds beyond it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_FaceToFace_R1and2_R1_R1and2_R1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This seems reasonable. Can we discuss trade relations between our people?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_FaceToFace_R1and2_R1_R1and2_R1_R1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have some problems of our own at this time and do not think it would be wise of you to venture into our space for any reason.
+I will take your request to my leaders and contact you shortly. 
+For now, I wish you peace.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_FaceToFace_R1and2_R1_R1and2_R1_R1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We look forward to speaking to you again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_WhatsGoingOn_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>General Secretary, our scouts are detecting a powerful burst of energy coming from Altarian space. Our best estimate is that there have been several large space-based explosions. 
+We think the Altarians may be engaged in some sort of skirmish or war. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_WhatsGoingOn_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We should try and contact them and see if we can be of assistance. [COLOR=BenevolentBlue](Benevolent +20)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_WhatsGoingOn_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Perhaps this is the problem that the Altarian Ambassador was speaking of. Have our scouts investigate further but instruct them to stay away from any Altarian Colonies. [COLOR=PragmaticGold](Pragmatic +20)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_WhatsGoingOn_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I knew they were hiding something. We must be cautious as they might be doing a weapons test.
+[COLOR=WarRed](Malevolent +20)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_WhatsGoingOnR1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>General Secretary, while it is pleasant to hear from you, we are rather busy at the moment. As I said, we will contact you as soon as possible about opening trade talks. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_WhatsGoingOnR1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I understand and do not wish to seem to be impatient. But we have detected several explosions inside of your territory and would like to know if we can be of assistance.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_WhatsGoingOnR1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>OK then, sorry to bother you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_OfferingToHelp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If you are offering to help, then we would not turn your assistance away. 
+I would warn you that assisting us would not be without risk.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_OfferingToHelp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We Terrans are not averse to risk. Let us know what we can do to help.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_MightNeedHelp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>General Secretary, we find ourselves in an awkward position. 
+The Altarian leadership does not believe we will be able to discuss trade between our people any time soon. 
+However, I would like to propose a way for you to prove to them your good intentions.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_MightNeedHelp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I'm listening...</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_OfferingToHelpR1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>A formerly timid race known as the "Dominion of the Korx" has begun raiding our colonies. They have even captured several of our nearby worlds.
+Their attacks have become more and more brazen over the last year, and we find ourselves stretched in the defense of our territory.
+Any pressure you can apply on them would be helpful and perhaps allow us to catch our breath.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_OfferingToHelpR1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I am reluctant to declare open war on race we have not yet met. Yet, we will certainly see if we contact them. Perhaps we can broker a peace treaty of some kind?  [COLOR=PragmaticGold](Pragmatic +25)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_OfferingToHelpR1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are always up for a fight! What information can you give us on the Korx? [COLOR=WarRed](Malevolent +25)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_OfferingHelpPeace_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You may try to talk to them but I fear any appeal for peace will fall on deaf ears. 
+They have taken three of our local colonies. We will not accept any treaties that do not return our worlds and include reparations for our losses.
+They are using one of our oldest colonies, Vol, as their headquarters in this sector. We will send you the location.
+I strongly advise you to use great caution when approaching them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_OfferingHelpPeace_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will send a force to make contact with the Korx. Hopefully, we can find a peaceful resolution to this conflict. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_OfferingHelpWar_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your willingness to attack a race that you have not even met is concerning.
+However, since it is in our defense we will accept your help.
+They are using one of our oldest colonies, Vol, as their headquarters in this sector. We will send you the location.
+I strongly advise you to use great caution when approaching them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_OfferingHelpWar_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will be careful. But more importantly, we will bring big guns.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_KorxWarning1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What have we here?
+Are these the upstart Terrans that we have heard so much about?
+You are about to blunder into a war zone. I suggest that you turn your ships around and head back the way you came.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_KorxWarning1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Greetings. On behalf of the Terran Alliance, we would like to discuss a peaceful conclusion to your current conflict with the Altarian Confederation. [COLOR=PragmaticGold](Pragmatic +30)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_KorxWarning1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I represent the Terran Alliance and have come to tell you to abandon your war with the Altarians or be destroyed. [COLOR=WarRed](Malevolent +30)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_KorxWarning1Alt_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What have we here?
+Are these the upstart Terrans that we have heard so much about?
+You are about to blunder into a war zone. I suggest that you turn your ships around and head back the way you came.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_KorxWarning1Alt_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Greetings, on behalf of the Terran Alliance, we would like to discuss a peaceful conclusion to your current conflict with the Altarian Confederation. [COLOR=PragmaticGold](Pragmatic +30)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_KorxWarning1Alt_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I represent the Terran Alliance and have come to tell you to abandon your war with the Altarians or be destroyed. [COLOR=WarRed](Malevolent +30)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_NotInterestedInPeace_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Ha, you have no idea of what you are interfering in. We have no interest in peace talks. 
+The Altarians have looked down on the rest of the galaxy long enough, we now have the resources to put them in their place. If you interfere further, we will gladly bury you alongside them and take your planets for our own.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_NotInterestedInPeace_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We do not want war, but you have taken colonies that do not belong to you. If you are not willing to talk, we will have no choice but to assist the Altarians militarily.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_YouScrewedUp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Fools, you have just taken your first steps into the wider galaxy and you dare to threaten us.
+If your ships come anywhere near our worlds, or attempt to intervene further on behalf of the Altarians, we will destroy them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_YouScrewedUp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Humans are no strangers to war.  If you are wise you will flee this sector immediately.
+This is your last warning.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_ThisMeansWar_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will not be intimidated by a race of primitives.
+If want so badly to help the Altarians, you can do so by dying beside them. 
+The Dominion of the Korx will consider you enemies as long as you remain in this sector.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_ThisMeansWar_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It is war then. You will regret this rash decision.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_WontRegretthis_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We were monitoring the Korx's Communications. I am not surprised the Korx would not listen to reason. 
+However, your willingness to help us has made an impression with our leaders. [COLOR=PragmaticGold](Open Borders Treaty)[/COLOR]
+Our borders are now open to you, as long as you do not colonize any worlds in our territory. 
+We are also willing to share some of our research with you, as a thank you for the gift of Hyperdrive. [COLOR=PragmaticGold](2000 Research points)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_WontRegretthis_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are only interested in strengthening our ties. You do not need to reward us for being good neighbors. [COLOR=BenevolentBlue](Benevolent +35)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_WontRegretthis_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Korx do not seem like a race that would listen to reason. We will do what we must. However, the technical assistance is very welcome. [COLOR=PragmaticGold](Pragmatic +35)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_WontRegretthis_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Some research assistance seems like the least you can do in return.  [COLOR=WarRed](Malevolent +35)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_WontRegretthis_R1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Regardless, we are grateful. You almost make me believe in the Prophecy of our lost cousins.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_WontRegretthis_R1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Once we have kicked the Korx from the sector, we must speak of this Prophecy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_WontRegretthis_R2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They were not always so belligerent -- they use to be simple traders. We will turn them back to their old ways together.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_WontRegretthis_R2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Indeed, and then we must talk about this mysterious Prophecy of yours.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_WontRegretthis_R3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your enthusiasm is appreciated, if not your manors.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_WontRegretthis_R3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We can be blunt at times, but we know who our friends are. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_LostAnotherColony_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have lost another colony to the Korx. This one is closer to you. 
+The planet's name is Proctor. It may be an easier target than Vol, since the Korx have held for a shorter time.
+We are going to continue the push to take back Vol. We believe that if we can take out their stronghold, they will abandon the sector without us having to take each world back individually.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_LostAnotherColony_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thank you for the heads up. We will do what we can for Proctor. It may be some time before we are ready to take Vol directly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_CaptureProctorPlayer_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have heard of your victory on Proctor. We are forever in your debt.
+Proctor was a new colony and most of the survivors have no interest in staying there after trying times.
+I have been authorized to offer the colony to you. If you wish to rebuild the fractured world, we will gladly welcome you as neighbors.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_CaptureProctorPlayer_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will gladly take custody of Proctor. Perhaps one day we can return it to you in a far better condition.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_CaptureProctorAltarian_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have taken back Proctor. The battle was fierce but we will be able to rebuild.
+We must now focus on taking back Vol. Without it, the Korx will not have the resources to maintain their fleets in the area.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_CaptureProctorAltarian_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Congratulations. Surely this is a sign that we make a good team.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_CaptureVolPlayer_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>General Secretary, we have liberated the Planet Vol.
+The Dominion of the Korx is in full retreat. Surely, this will prove our worth to the Altarians.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_CaptureVolPlayer_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>There is only one way to find out. Put me though to their Ambassador.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_CaptureVolAltarian_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>General Secretary, the Altarians have liberated Vol and the Dominium of the Korx is in full retreat.
+Surely, the Altarians will realize they could not have taken back the sector without our assistance.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_CaptureVolAltarian_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>There is only one way to find out. Put me through to their Ambassador.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_EndTalk1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Truly the Arnor meant for us to encounter you in our time of need.
+We owe the Terran Alliance a great debt for your deeds on our behalf.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_EndTalk1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I am glad that we were able to help. We have already learned much from your people.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_EndTalk2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I have been appointed as the liaison between our people. I am now authorized to discuss trade and treaties with the full backing of my government.
+The Prophecy of our distant lost cousins has spread like fire through our people. We have many philosophers and luminaries asking to visit your worlds. 
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_EndTalk2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Once again your mention this Prophecy. What is it?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_EndTalk3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It is said that we would one day meet our lost cousins amongst the stars. And that they would save us in a time of desperation.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_EndTalk3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That is very encouraging. Perhaps we are related in some way. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_EndTalk4_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Unfortunately, that is only the first part of the prophecy. There are many verses, but perhaps the one that is most concerning is this:
+'They will save you in your time of need and defeat your most dreadful foes. 
+But in saving all that is good, they will bring into this universe the means of its destruction.'</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AltarianProphecy_Mission1_EndTalk4_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Surely this is only a legend. If the Korx are indeed a dreadful foe, then together we will be able to face anything.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

@@ -1,0 +1,3798 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+<!-- Created with the Crusade editor -->
+<!-- FACTION_IRIDIUM_TechFlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>TechTree_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Iridium Tree</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EngineeringTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Research and Development</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EngineeringTech_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Improve our engines and logistics.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EngineeringTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>This new hyperdrive invention is the very definition of a disruptive technology. The Iridium people have never possessed something with such limitless inherent potential. Or risk.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ConstructionOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our quality managers have had great success adapting their methodologies to off-world manufacturing environments, and have begun to identify opportunities for improvement in our construction sector.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoManufacturingMethods_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A new generation of ultra-precise, high volume manufacturing equipment should allow us to once again expand the capacity of our manufacturing sector.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ManufacturingFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>However refined they might seem, there's always room for improving our manufacturing techniques. Even the most minor efficiency gains are worthy of getting excited over.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ManufacturingFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Adjusting our factories to begin specializing in military production will allow our security division to equip itself more rapidly, to better deal with the various high-risk threats this galaxy might throw at us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ManufacturingFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Continued, relentless growth remains our corporation's number one objective, and improving the speed with which civilian equipment and structures can be built should help increase that growth rate substantially.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ManufacturingFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Anything we can do to make our equipment and structures cheaper to build will be widely appreciated by the board. All of these savings initiatives really do add up.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IndustrialExpertise_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Iridium production technology is already the envy of the galaxy, our newest factories capable of forging materials from the atomic level up. We're now capable of building things on a scale few ever imagined possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IndustrialMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our manufacturing sector is now almost perfectly efficient, even our finest managers struggling to find room for improvement. Not that they've given up of course. A few small refinements surely remain to be found.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IndustrialMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The aggressive stance taken by our competitors has been the topic of much discussion in the business press. A boost to our military production capacity will ensure the Iridium security division is equipped to face the challenges this market presents.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IndustrialMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Even at this advanced stage in our expansion plans, there's still room for improving our growth rate. Progress waits for no-one, and if can improve the speed with which we build social and economic structures, all of our business shall benefit.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InstitutionalResearch_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Research and Development</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InstitutionalResearch_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>As our business expands out of our home system we're going to be presented with opportunities we can't possibly foresee. A dedicated R and D division will ensure we have the products needed to profit, no matter what comes our way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>We always have to keep a firm hand on R and D, to ensure that our brlliant but absent-minded researchers not only stay on track and meet their research goals, but keep costs down while they're doing so.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>By waiving some of the more onerous reporting requirements for our R and D division, and giving them assistants to handle the rest, we should free up more of our researchers' time for doing actual research.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our quality managers working in R and D have identified a couple requisition processes we can streamline, which should make the equipment our researchers need cheaper to come by.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Getting researchers to consider long term maintenance costs when they're kitting out their labs is almost impossible. We've inserted a new oversight process which should ensure that everything we buy is first reviewed for ease of maintenance.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchCenters_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Think Tanks</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchCenters_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Think tanks are intended to become much more than just basic research facilities. They'll serve as havens, safe places for our most talented thinkers to work with people whose skills compliment their own gifts.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TechnologicalFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Specializing our research efforts should always be done cautiously, as it can be tough to predict what our business will require in the future. We should ensure that any specialization we pursue doesn't impede our research ability in other fields.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IntegratedResearch_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>In order to keep delivering the pace of breakthroughs R and D is expected to, a new generations of integrated, multi-disciplinary research facilities will be needed.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchMatrixTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A city-sized research facility filled with the finest minds our business can produce, should be able to generate breakthroughs at a speed never seen before. Sometimes the answer is as simple as throwing more people at a problem.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DeeperKnowledge_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A new type of research methodology, characterized by small teams of polymaths that relentlessly pursue the deeper aspects of the universe, is turning up some interesting and very profitable findings.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>QuantumUnderstanding_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our deep research teams have begun to penetrate the mysteries present in the very fabric of space. Their findings are showing us that a new way of doing business may be just around the corner.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeyondMortality_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Ascension will usher the Iridium Corporation into a new reality, allowing the cycle of growth and expansion to begin again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchCoordination_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>We're masters of process and coordination, and the challenge of organizing research efforts scattered across multiple worlds is nothing to us. Our new Research Coordination Centers will help boost research efforts everywhere.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>NeroLinking_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Brain-to-brain communication poses an incredible opportunity to our research efforts. The ethical impact of this technology is of course substantial and if this technology proves unprofitable, will serve as an excellent excuse for killing the program.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetaryImprovement_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Identifying and realizing the potential of a raw resource is one of the most crucial skills in all of business, and colonial development is no different. But we'll require the right tools if we hope to be able to do it consistently.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetarySpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our colonization managers have done excellent work over the past few years, and are beginning to refine some of their initial processes, allowing us to improve specific aspects of our colonies.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetarySpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Without enough food, our colonial growth rates will plateau quickly, hurting our corporation's long term potential. Increased food production should ensure that something as trivial as food doesn't become our business' limiting factor.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetarySpecialization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>If we're trying to maximize the growth of our business, let's not be bashful about what the fundamental requirement for that will be. Increased population growth will mean more workers, more consumers, and more of everything else.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetarySpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>There's no sense having a higher workforce if they're going to work inefficiently. A program of environmental enhancements designed to encourage production will ensure workplace productivity is as high as it can be.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoAgriculturalAdaptation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Food is one of our most critical commodities, and an increasingly valuable one at that, considering the challenges of producing it in alien environments. Improved farms should help ensure our colonies are as well fed as possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Offloading much of our farming work to external service providers will ensure our workers are fed as efficiently as possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Farms take up valuable space, which could be used for other, more useful structures. We should preferentially award food supply contracts to suppliers who can generate as much food per unit of area as possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Requiring our food suppliers to begin using standardized equipment and pre-fabricated structures should ensure new farms are built as cost effectively as possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Generating fertilizer and nutrients on an alien planet is a particularly challenging chore, but if we can force our suppliers to do it for us, we'll be able to significantly reduce the costs associated with importing fertilizer from off-world.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IntensiveFarming_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>If we hope to maximize our PopCap/Land ratios - and our colonization managers assure us that we definitely do - then we'll need to develop the most efficient, high yield farms possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FarmingFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Something about working with dirt all the time seems to cause a person to become complacent and set in their ways. We have to continuously press our food suppliers to keep on top of their continual improvement goals.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FarmingFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Intelligent fertilization dispersal fields, embedded directly in the soil, are capable of monitoring the health and growth rates of crops and directing nutrients to them at the optimal rate, greatly increasing crop yield.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FarmingFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our supplier have already automated much of the work on our farms, but by switching from single-use machines to adaptable, multipurpose devices, they should be able to reduce startup costs even more.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FarmingFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>By limiting our selection of crops to the simplest, least labor intensive ones, our supplier have been able to reduce the operating pass-through costs for all of our farms.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LosslessFarming_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Once we began treating fertilizer with the same scrutiny with which we treat our other capital, we were able to begin constructing almost perfectly efficient farms, every nutrient tracked individually on a molecular level.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our suppliers have almost mastered agricultural technology, Iridium farms having won many trade awards throughout the galaxy for their efficiency. But that's no reason to rest; even the best can be improved upon.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our food suppliers assure us that no room for improvement remains, that we've reached the very limits of agricultural science, our crops now generating as much food as chemistry allows. Which sounds to us like it's time to find some new suppliers.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>By making our crops enhance fertility, our food supplier have found a way to turn our business' abundance of food into an abundance of new workers. Who said farming couldn't be sexy?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FoodDistributionTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Dedicated food distribution structures will ensure that food no longer goes bad in storage or transit, which will ultimately increase the food production of an entire planet.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoIrrigation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Centralizing our irrigation efforts will help us better share and make more efficient use of the significant investment these systems represent. Food production across an entire planet should be increased as a result.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BiomassResequencing_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Directly sequencing biomass into food products has long been possible, but has never resulted in a very palatable end product. But as a supplement source of fertilizer, it's well suited for increasing the efficiency of all farms on a planet.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoBiology_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>We have to ensure our workers are capable of surviving on alien worlds. For moral reasons, morale reasons, and yes, of course, for productivity reasons.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BioReplication_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Reproduction is too critical to the success of our enterprise to leave in the hands of our workers, and now that we finally have the technology to do something about it, we expect our population growth curves to accelerate dramatically.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnvironmentalEngineering_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Property Management</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnvironmentalEngineering_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The terrain of a planet can be managed just like any other resource, and when done properly, leads to smoother and more efficient running facilities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ExtremeWorldColonization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>We can't ignore the opportunity that extreme worlds present us. Empty land to build upon and grow in is incredibly valuable, even if life might be tough for the workers stationed there.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The biggest problem with our colonies on extreme worlds, other than the horrible quality of life, is of course, the low production potential. If we can dedicate R and D resources to improve production on these planets, we might just make more of them worthwhile.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Improved floating and submersible structures should help increase the production potential of aquatic planets, making them nearly as productive as everywhere else in our business.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>It took a few iterations and a few lost fingers to finally perfect our frozen world construction practices. But now that we have, we expect production their to rise substantially.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Thanks to some water recycling products which have recently hit the market, production capacity on barren worlds should now be greatly increased.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AtmosphericCleansing_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Radioactive and toxic planets pose a challenge to our business activities, but not an insurmountable one. And they provide an avenue for growth that we can simply no longer ignore.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BiospherePerfection_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our outposts on toxic and radioactive worlds are still shockingly limited in terms of production capacity. We should do everything we can to correct that.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BiospherePerfection1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our workers and managers on radioactive worlds will no longer have to suffer through the random mutations which plagued their careers. Aside from the obvious boost to morale, this should make everyone more productive as well.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BiospherePerfection2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>All employees and subcontractors are still strongly advised against going outside, but within the confines of our colonial structures, life on toxic worlds is now much more pleasant and productive.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TerraformingTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Making the land itself more productive is an admirable goal, and will allow us to begin making use of some of the more marginal terrain on the planets we establish our business.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HabitatImprovement_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Natural ecosystems may be pretty, but they're often woefully unusable for modern business purposes. Our latest terraforming equipment should help correct that, which, in a sense, will make them even prettier.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SoilReclamation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>We can now manage a planet's landmasses with far greater efficiency than nature ever could herself. Almost any terrain on a planet is now potentially usable by us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnvironmentalResequencing_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Environmental Resequencing will increase the usable land on every planet in our corporation, dramatically increasing production potential at the cost of nothing more than a few trillion unproductive plants.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarTravel_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>We must implement the same best management practices in our space-faring fleets as we have everywhere else. If we wish our business to succeed, improvements in all of our space-faring systems must be found immediately.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A targeted design review of a chosen system should be able to come up with some improvements that management had previously missed.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarSpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Faster hyperdrives will speed up our ships and the speed which our business is ultimately capable of expanding.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarSpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Improved life support recirculation systems will not only ensure the safety of our valuable crews, but extend the range of our ships, and thus expand the list of potential growth opportunities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IonDriveTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Ion Drives use magnetic fields to capture ions during hyperdrive flight, which are then used as additional reactant mass, making our ships significantly faster, and improving our goal achievability scores.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IonOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Regular teleconferences between our engine managers have allowed them to share tips and maintenance tricks, revealing a number of improvements we could possibly implement on our Ion Drive systems across the entire fleet.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IonOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>An adjusted magnetic envelope should improve the ion capture technology of our Ion Drives, allowing for increased mass capture and consequently higher speeds.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IonOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Many of our engine managers, seeking ways to increase their groups' ROI, have identified multiple cost savings measures when installing new ion drives. We should implement these practices fleet wide ASAP.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IonOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Using a new type of field generation coil that's recently come on the market will help make our hyperdrives more mass efficient. A worthy pursuit, seeing as this will leave more room in our vessels for revenue generating equipment.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarpFieldTheory_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Internal R and D has found a way to multiply the space-bending properties of hyperfields, leading to the development of so called "Warp Fields." Our ships will now be faster and more productive than ever before.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarpFieldFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our initial implementation of Warp Engines apparently left much room for improvement. R and D believes that a number of different efficiencies have yet to be found in these systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarpFieldFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>R and D's experiments with different arrangements of stacked hyperfields has led to a new configuration of Warp Drive which is marginally more effective than previous versions.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarpFieldFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Budget crunches can come at any time, and as our drive systems become more expensive, they'll always be a target for cost cutting. Let's instruct R and D to get ahead of the curve and find some cost savings measures before they become necessary.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarpFieldFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>R and D has found a way to modify an off the shelf product to result in a new, more compact form of hyperfield generator. Achieving the same results as earlier, heavier models, this should make all of our drives a bit lighter.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HyperwarpWaves_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A Hyperwarp drive allows our ships to travel through space that has effectively been pre-compressed, moving at speeds never seen before. This will give every line of our business an immeasurable advantage in their work.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HyperwarpMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Iridium R and D leads the galaxy in its work on drive technologies, giving us an incredible competitive advantage in all our dealings. And thanks to the right worker incentives, they still look tirelessly for more ways to improve upon our edge.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HyperwarpMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our drives are now incredibly economical to build, our engineers' dedication to their craft serving as a shining example to the rest of our company.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HyperwarpMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Few thought it possible, but R and D has found a few more ways to miniaturize our engines. Our relentless drive for improvement mocks even the laws of physics.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>StellarFoldingTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Stellar folding drives will make our ships faster than ever, capable of bringing the Iridium Corporation to the most distant markets in the galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HyperfieldProjection_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Speed boosting modules will allow an entire fleet to be sped up by a properly equipped ship. The opportunities such a system allow will be of great use to our fleet managers.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GravityFieldManipulation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>R and D's recent breakthrough on graviton research will allow us to generate artificial gravity fields on a massive scale, increasing the maneuverability of our ships when faced with high-risk security operations.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HyperfieldDisruption_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>We're now able to use hyperfield technology in our fleet speed boosting modules, increasing their effectiveness. Additionally a new type of related product will allow us to limit the speed of ships that pose a security risk.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>StellarFieldProjection_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Stellar Field Projectors will allow our best ships to boost the speed of every other travelling in their fleet. This incredible technology will give our fleet managers an enormous degree of flexibility when making up fleets.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarSurvey_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our ship managers have to have the right information to operate their ships effectively, and that starts with knowing what's around them. We should direct R and D to begin building better sensor and survey systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>It seems probable that our network of suppliers can help improve our sensor systems. With the right aftermarket upgrades and accessories, our sensor systems could be made more effective, or at the very least more efficient.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Improving the processing power of our sensor systems will allow them to sift through the information returned to them more effectively, improving their overall performance.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>With our network of suppliers eagerly standing by, outsourcing the production of some of our sensor components should result in cost savings.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Earlier generations of our sensors were needlessly crude, hardly befitting something which bears an official stamp of the Iridium people. Our latest models use the latest and lightest components, and are far more weight efficient.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldSensors_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The fields emitted by hyperdrives are detectable at distances far outside their ship's normal light cones. And the latest generation of sensors to come on the market promise to be able to detect those fields at even greater distances than before.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Sensor managers can earn bonuses for identifying ways to do their work more effectively, and a number of great ideas have percolated up the chain of command recently due to this practice.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>By installing a new model of shielding around our sensor equipment, we can reduce interference generated from our own engines, allowing our sensors to operate just a bit more effectively.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>By adjusting the layout of our sensor bays, standardizing them with the latest generation of sensor systems on the market, we should be able to greatly reduce installation costs for all new sensor packages.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Switching our field-sensing arrays with higher density models should lead to more compact sensors. However important they are, sensors are rarely a ship's most critical piece of equipment, and weight savings found here will be well used elsewhere.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SubspaceSensors_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>R and D had recently developed a new type of sensor capable of detecting ships via a 12-dimensional region of space which marketing wants to call "Subspace." Whatever we call it, our next generation of sensors will be extremely effective.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>R and D seem pretty sure that we're not going to find any more increases in our sensor range, due to some inescapable constraints of this universe. But there's no reason we can't still try to make them lighter or cheaper.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our sensor systems are now so complicated that only our most talented internal auditors are capable of reviewing their manufacturing process. But now that they've done it, we've found a few more cost savings to wring out.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>During a team building event, one of our sensor managers pointed out that some parts of our sensors don't technically have to exist in this universe any more. By shifting them into a another plane, we can reduce the weight of our entire sensor arrays.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TargetingAssistTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>In high risk security situations, improved tactical targeting systems and systems that deter enemy sensors will give our security forces an important competitive advantage.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TargetingSupport_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our tactical sensor enhancement and jamming modules will now be capable of supporting an entire fleet, giving our fleet managers an important degree of safety when managing high risk security situations.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoArcheology_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A group of aliens known as the Precursors once called this space home. Their relics offer hints of the incredible technology they had, and we'd be doing a disservice to our business to not try and capitalize on every such find.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorStudies_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our early studies of Precursor relics has revealed the basic guidelines with which we should frame our research efforts. All future Precursor research efforts should greatly benefit from this work.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorRelicFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Precursor relics don't just offer us scraps of technology; they can also impart significant cultural and economic effects. If we so choose, we can adapt our Precursor research efforts to maximize these associated effects.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorRelicFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>By moving our best researchers into our Precursor studies department, we hope to boost that department's productivity and the pace of their research.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorRelicFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our staff seem incredibly excited by the idea of the Precursors, and have speculated wildly about the nature of their civilization and markets. With some effort, we could help boost this impact new relics have on our culture.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorRelicFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Anything having to do with the Precursors is proving incredibly lucrative in the markets, quickly inspiring copycat designs and motifs. With the right product planning, we should be able to capitalize on that more fully.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorExploitation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our Precursor Studies department requires unique and expensive equipment to do their work. But with it, they predict that they'll soon be able to start recreating Precursor technology. Marketing's already salivating at the prospect.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorEngineering_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Making Precursor-like technology will require specialized equipment and massively increased security measures for protecting our trade secrets. But the market's appetite for this equipment will surely make all the costs worth it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorUnderstanding_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>We're now capable of building equipment nearly as well as the Precursors themselves, and are as close to understanding them and their markets as we've ever been.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupport_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Range Extension</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupport_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Life support is the limiting factor restricting our ships' effective ranges. And given the stringent requirements required by workplace health committees, something we can't scrimp on. Improved life support will be necessary to ensure our growth rate.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>There are a variety of ways our product managers can improve upon our life support systems. They can make these systems lighter, more effective, or simply more cost effective.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Another factor to consider when improving life support: the expense we go to  train our ships' crews. Improving their life support systems isn't just ethical; it protects our investment as well.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>There's no excuse for spending wastefully, no matter the line of business. Even something as vital as life support needs to be constructed as cost effectively as possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Reducing the weight of our life support systems will leave more room for equipment which actually earns revenue.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldGeneration_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The winner of our latest Life Support Systems Design/Build contract is proposing a force field based life support system that uses fields to convey nutrients to the crew. This innovative solution should help extend the range of our ships even more.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The contractor who delivered our field-based life support systems has been fired, due to the many messes those early systems left behind. Internal R and D is looking for ways to improve these systems now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>An even more nutrient dense version of sludge, aerated to increase the volume delivered to the crew, allows our ships to travel farther, while minimizing on some of the mess issues we've been dealing with.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Along with cleaning up the issues we had with floating globs of nutrient sludge, R and D has found a number of ways to fabricate our field based life support systems more economically as well.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A rising star in our logistics department noted that we could minimize our life support mass requirements by preferentially hiring smaller crew members. Our crews now shrink by the day.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PromethionSupportSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A Promethion Support System improves upon our existing systems by inserting nutrients and oxygen directly into the organism being sustained. This dramatically cuts back on waste, albeit at the cost of somewhat reduced workplace morale.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our direct-nutrient injection technology leads the galactic life support market, all of our competitors feverishly trying to build their own versions. But even with the lead, that's no reason to stop improving on our part.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Reducing the cost of our life support systems while maintaining workplace morale is proving a tricky challenge. We've found that including some mild stimulants in the nutrients helps a bit.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Embedding tiny Promethion field emitters in the nutrients themselves saves us the weight of the heavy fixed equipment. Used emitters are collected in the waste stream and cleaned for reuse, though we kind of gloss over that part in the brochure.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LosslessSupportSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The final improvement to our life support systems has made them almost perfectly efficient, and to our crews' delight, much less humiliating to use. No further improvements seem necessary, or even possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Standardized nutrient blocks will allow for life support responsibilities to be offloaded to other ships in a fleet, or even supplemented by an appropriately equipped starport, allowing for much more flexible fleet compositions.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ExplorationExtention_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Promethion technology will make our fleet-support vessels even more capable, as it will for our starbase support modules. The flexibility this imparts can't be overstated; our fleet managers will be able to build more useful fleets than ever.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalManufacturing_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Orbital environments present certain unique advantages and challenges for our construction divisions. The potential for building massive structures is the main draw, but there will be a lot of work to get there.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>While gathered for one of their regular conferences, our orbital construction managers came up with a number of methods with which we could begin improving our orbital construction practices.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalSpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The biggest problem with orbital construction is the incredible training requirements needed for the workers. Anything we can do to improve or streamline that process should result in faster construction.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalSpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Orbits are far more complicated than most laypersons understand, and adapting our logistical practices to accommodate their quirks has proven difficult. But if we manage it, our ability to support our fleets should improve significantly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalSpecialization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The more equipment we can carry in our ships' hulls, the more revenue they'll be capable of generating. Or, for our security forces, the more revenue protection equipment they'll be capable of carrying.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ZeroGravityConstruction_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A new round of public tenders has found us a set of contractors with the equipment and personal to scale up our orbital construction, opening the door to a new class of vessels.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ZeroGravityOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our contract managers have been monitoring the performance of our construction contractors, and identified a number of lapses in their performance. The appropriate clauses forcing them to improve have been triggered.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ZeroGravityOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Requiring our contractors to minimize the use of replacement-spec materials during construction should result in our hulls being a bit tougher, which will come in handy in any high risk security situations.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ZeroGravityOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Forcing our contractors to improve their space-based worksite planning will ensure they have the materials they need in the places they need them prior to construction, minimizing delays and lowering costs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ZeroGravityOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our contractors have found a clever way of embedding tertiary ship systems within hollow structural elements, saving space that can be used for revenue generating or protection equipment.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LargeScaleConstruction_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A number of contractors have come forward promising the ability to build even larger vessels. Overpromising and underdelivering is a problem with these guys, so we'll have to ensure we have strong performance clauses in their contract.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalConstructionFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>After a slightly bumpy transition period, our new construction contractors are settling in, and are already finding ways to improve upon their work.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalConstructionFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our hulls will be more resilient if they can deform under stress in predictable ways, and our latest efforts to build crumple zones into them should result in significantly tougher hulls.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalConstructionFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A new variety of construction drone is capable of performing without oversight for extended periods, allowing for around the clock construction with significantly reduced crews. This will save both time and costs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalConstructionFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A ship with a well designed interior can provide more usable space than a ship of the same size. Anything we can do to increase the flexibility and packing capacity of a ship will ultimately result in more useful ships.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MassiveScaleConstruction_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our ships are now the largest the galaxy has ever seen, a potent symbol of our market force. With these behemoths in our fleets, Iridium business has never been more secure.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HullMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our contractors claim that they've mastered ship construction. But further improvements are always possible; our entire quality management apparatus rests on that fact.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HullMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Building ships on the scale we do now can be horrendously expensive. But on that scale, new efficiencies are easy to find, and quickly magnify into significant savings.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HullMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Experimental work with pocket dimensions allows us to store necessary but rarely used equipment in a place that doesn't technically exist, saving more room for the equipment we need to exist all the time.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HullStrengthening_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Strengthening fields embedded within the structure of our vessels will make them more resilient, thus protecting the significant investment that those vessels represent. Also, the crews will be safer.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HullRepairSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our latest iteration of strengthening field technology will now allow us to partially repair battle-damaged hulls in situations where time allows it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SelfHealingHulls_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Repair systems composed of tiny little automatons smaller than the eye can see will be capable of repairing our ships and starbases during combat situations, offering obvious benefits to our security department.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CarrierTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>In security situations, overwhelming force often leads to less losses suffered. Carrier based security fighters will let us bring many weapons to bear on high risk threats, overwhelming their ability to effectively attack us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CarrierFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Feedback from users of our early carrier modules have revealed a number of avenues of improvement we can begin pursuing.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighCapacityCarriers_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>High capacity carriers that use the latest generation of compact fighters coming on the market will allow our security forces more revenue protection capacity than ever before.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarLogistics_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Middle management gets a bad reputation, but it's these men and women who do the hard work of keeping our fleets supplied with the fuel, ammunition, and people needed to do their jobs. Improved logistical capacity benefits our entire enterprise.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LogisticalOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A new version of our quality management process is being installed throughout our corporation and sub-contractors. The first areas to likely see improvements are our core logistical operations.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LogisticalOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Relativistic travel wreaked havoc with our record keeping systems, but now that we've found ways to accommodate that, all of our internal operational efficiency metrics are way up. We should see improved fleet logistical support as a result.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LogisticalOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Complicated operations such as asteroid mining are a figurative gold mine for our quality managers, the sea of complex activities a perfect place to hunt for efficiency improvements. Their work should lead to increased mining production.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LogisticalOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The costs to maintain our shipyards is one of the most troublesome aspects of growing our business on this scale. Reducing their maintenance costs should help boost our net income substantially.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FleetLogisticsTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>To our dismay we found that our logistical operations weren't as scalable as we'd originally conceived. It's taken much overhauling of internal processes, as well as letting a few people go, but we should now finally be able to support larger fleets.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DeepSpaceLogistics_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>As our business grows ever larger, the complexity of our logistical operations increases exponentially. A new generation of supply drones and cloaked supply caches will be necessary to keep all corners of our business well stocked.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GalacticLogistics_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>We have mastered mass-scale logistics like no other enterprise, our ability to deliver supplies where they're needed when they're needed the envy of all our competitors. This is really exciting stuff, and we can all take a great deal of pride in it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarMining_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Resource extraction is the foundation on which our business is laid. We must never rest in our efforts to improve the speed and efficiency with which we mine asteroids.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEfficiencyMining_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The relentless scrutiny we've put on our mining operations has resulted in a number of breakthroughs, resulting in improved high efficiency mines capable of producing more resources than before.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResourceExtraction_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Subsurface extraction drones will let us crack asteroids from the inside out, speeding up our resource collection efforts dramatically.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LosslessMining_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Miniaturized resource extraction probes will allow us to extract resources without any losses at all. Additionally, these new drones are intelligent enough to seek out and extract the rarest resources.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarfareTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Diversification</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarfareTech_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Although we can see the profit potential of a lasting peace, we can't assume the rest of the galaxy will. We must begin assembling a security force to protect our investments.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WeaponsSystemsTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Even a purely defensive security force will have need for weapons. We've begun development on weapon systems which we should immediately begin assessing for their current and future applications.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WeaponsSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Instructing our R and D department to specialize their weapons research will eventually lead to more breakthroughs for our chosen class of weapon, and in the short term, more efficient weapons.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeapons_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>For sheer intimidation power alone, there are few weapons more effective than beam weapons. Ideal as a deterrent, they also have enormous destructive potential if our security forces ultimately need it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Many of our sub-contractors are making great strides in the development of materials used in beam weapons. These new materials could lead to a number of new improvements for our arsenal.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our procurement managers have found a supplier that can provide a new type of ultra transparent focusing crystal, which should help improve the resolution and damage potential of our beam weapons.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Now that we're buying in volume, prices are starting to come down for the energy storage and transmission equipment our beam weapons rely upon.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Making our beam weapons more mass-efficient will allow our security forces to carry more of them, or even allow our revenue generating ships to carry some, affording them a modest amount of security potential.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MatterDisruption_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>R and D has found a particle capable of disrupting the strong nuclear force, which once weaponized, will result in a beam weapon of unparalleled destructive potential. Armed with this, our security forces will be more secure than ever.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>R and D has found a particle capable of disrupting the strong nuclear force, which once weaponized, will result in a beam weapon of unparalleled destructive potential. Armed with this, our security forces will be more secure than ever.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Previous generations of focusing crystals were incapable of handling the quantities of energy our weapons require without fracturing. An adjustment to the growing process should result in more resilient crystals and thus more powerful weapons.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Much of the equipment used in our beam weapons has been over-specced, built to unnecessarily high tolerances at great cost. By revising our procurement standards appropriately, we hope to reduce the manufacturing costs for all our beam weapons.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>By relocating the cooling systems of our beam weapons to where they're needed most, we can cut down on the excess of plumbing these weapons are notorious for. Our beam weapons should now be lighter than ever.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlasmaProjection_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>We went to the market for our next generation of beam weapon, the winner of the RFP proposing a new form of collimated plasma weapon which promises to be able to generate far more destructive power than previous systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The Iridium marketplace has few peers in the field of beam weaponry, our weapons as powerful as any in the galaxy. But a few small efficiencies remain to be gained from our current generation.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>It's taken a little while for our supplier to work some of the kinks out of the process used for making plasma containment field generators, but now that they have, we expect to see cost savings passed along to us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>After our latest mass-reduction efforts, our contractors state that we're now running up on the hard limits of what this universe will allow in terms of energy density. No amount of white board brainstorming will get around this now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyPhasing_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>An internal competition has inspired a team within our R and D department to synthesize something called the phaser particle, which can be used in an enormously destructive weapon. With this, our security forces will be really very secure.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DoomRayTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>There are unfortunately few markets for the Doom Ray, because really, who would we dare sell it to? An improvement of our phasers, with massive increased rates of matter-breakdown reaction, Doom Rays will be effective against even the hardest armor.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponAugmentation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Beam augmentation systems use an external field to improve the energy storage capacity and damage output of our beam weapons. A security fleet equipped with such a device should prove much more capable of dealing with threats.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyTransfer_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>One of our suppliers has developed a new system which allows a beam weapon to be much more effective at penetrating shields. Even more impressive, a variation of the same system will allow our own shields to partially absorb our competitors' beam attacks.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyMagnification_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>With our latest augmentation systems, our beam weapons can disable shields entirely. Few of our competitors will pose a serious threat to our security forces now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MissileWeapons_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Missile systems offer the most economical means of self-defense for our security fleets, making them one of the more attractive methods of revenue protection.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MissileOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>It shouldn't take much effort for R and D to find ways to improve upon our missile systems, seeing as how fundamentally simple the technology is.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MissileOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Making our missile launchers shoot faster is a simple, almost childishly obvious idea. Which is why about twelve managers now claim credit for it. Actually implementing it was much harder, but isn't that always the way?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MissileOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Everything we can do to improve upon the already excellent cost-effectiveness of our missile systems will make it a little easier to sell security allocation budgets to the board.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MissileOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>If we dedicate some research effort to reducing the mass of our missile weapon systems, we'll have room for putting more of them on our security ships, increasing their deterrence potential.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HarpoonTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our latest self-guided deterrence vector, the Harpoon Missile, vastly improves upon previous generations in terms of speed, range and destructive potential.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarheadFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Warhead development is a specialized industry with very few qualified suppliers, resulting in a variety of market inefficiencies. It will take some concentrated effort to force our suppliers to do better.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarheadFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Lightweight, shaped charge warheads offer the same destructive potential at a reduced mass. This leaves room for additional propellant, allowing our missiles to travel much longer distances.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarheadFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A concerted effort to develop new, more stable forms of explosive should result in weapons which are far safer, and consequently cheaper to make. Workplace accidents are an incredible drain on our financial resources.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarheadFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Shaped-charge warheads weigh less than conventional warheads of equivalent damage potential. That weight savings can allow our security ships to carry more missile launchers or other revenue protection equipment.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PhotonicWarheads_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A new system has come on the market which uses a high energy burst of photons at the moment of impact to pierce both shields and armor  and shield systems. Called Photonic Warheads, these represent the state of the art in self defensive technology.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PayloadMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our supplier for Photonic warhead systems has several performance incentives built into their contract to deliver improved systems within agreed timeframes which are rapidly approaching.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PayloadMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>If we lean on our supplier to pay their workers less, we can probably get missiles made for cheaper. They're the only company that makes missiles, so it's not like those workers can go anywhere else.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PayloadMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Thanks to a new form of ultra lightweight casing, our next generation of missile systems will be lighter than ever. They also now come in a broad selection of pleasing colors.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PhotonTorpedos_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The spec-sheet sounds promising: broad-range high-def photon-based piercing system, coupled with the latest next-gen AM warheads. Whatever all that means, these new photon missiles promise to meet our security forces' deterrence needs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>NightmareTorpedoTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The Nightmare torpedo was a clever bit of marketing, the name for the device preceding the invention of the torpedo by several years. Still, these are horrific weapons of immense potential. The warning labels alone are pretty terrifying.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MissileAugmentation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>R and D has developed a new system that compliments our existing missile platforms, improving their tracking ability and range. This will not only make our security fleets safer, it also opens up a new accessories market for us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AdvancedMissileGuidance_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Losing missiles to point defense systems no longer has to be a cost of doing defensive business. Our latest missile support systems provide the counter-counter measures to defeat enemy PD, reduce missile wastage and boost our bottom line.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IntelligentWarheads_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The latest intelligent cluster warheads can target enemy point defense system, allowing later salvos to pass by unmolested. And R and D has found a way to improve our missile support accessories even more, allowing for increased accuracy and range.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticWeapons_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Kinetic weapons provide a straightforward means of self-defense for our security forces, using powerful electromagnets to accelerate projectiles to incredible speeds.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A vast number of components are needed for our kinetic weapons. It's only a matter of time before our suppliers come up with improved versions of those components, leading to improved weapons for us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Smaller barrels and the smaller projectiles that go with them will allow us to increase the muzzle velocity of our kinetic weapons while using the same charging coils. This won't increase the damage of the system, but will boost its effective range.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A new supplier of electromagnetic coils has begun offering them to us at an exceptionally good price, which should lead to lower prices for all our kinetic weapons.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our existing supplier has managed to make the capacitors and associated charging systems of our kinetic weapons significantly lighter.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PulseCannonTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>At a recent conference, researchers revealed their work on using clusters of particles to replace the slugs used by traditional kinetic weapons. Called pulse cannons, R and D believes these will be much more powerful than previous generations of weapons.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticAccelerationFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A recent breakthrough in the superconductor sector promises to lead to a number of improvements for our kinetic weapon systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticAccelerationFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The newest superconductors enable us to impart energy to our projectiles much more rapidly. The total energy imparted isn't increased that much, but we should be able to accelerate smaller masses to higher speeds, leading to longer effective ranges.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticAccelerationFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Due to the incredible volume the Iridium Corporation is now ordering them in, our supplier are able to offer us superconductors at very good prices, which should reduce the unit cost of our kinetic weapons substantially.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticAccelerationFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The newest superconductors on the market have much less strenuous cooling requirements, which will make our kinetic weapons much lighter to carry around.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GravitonThrower_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>R and D has found a way to synthesize gravitons, which when used by our particle cannons, can massively damage the hulls of high-risk security threats.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The Iridium Corporation and her associated suppliers are now widely regarded as masters of kinetic weapon technology, with few peers in the galaxy. Only a few remaining efficiencies remain to be found in the field.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Increasing use of automation has not only reduced our labor costs, but decreased the failure rate of our kinetic weapon systems. Prices have come down significantly, and we're told the workers are all probably landing on their feet elsewhere.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our kinetic weapons are now remarkably mass-efficient, allowing our security forces to carry more of them and project far greater deterrent potential than they could even a few years ago.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>QuantumDrivers_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our latest weapon is capable of firing small particles, which upon impact, pull in a tremendous amount of mass from a neighboring dimension. Although incredibly devastating, the legal impact of using another dimension's mass is still being explored.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SingularityDrivers_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Singularity drivers are the apex of kinetic technology, micro-singularities capable of ravaging the ships of any high-risk security threats that dare menace Iridium growth potential.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticAugmentation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Inertial dampening systems allow projectiles to be fired at much higher velocities than this universe should allow. A security fleet equipped with such a system will see the range of all kinetic weapons boosted substantially.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MassManipulation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Miniaturizing our inertial dampening fields to fit inside projectiles allows them to generate dense outer surfaces that provide enhanced armor penetration capacity. And our  kinetic augmentation systems have been incrementally improved once again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InertialMagnification_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our projectiles are now capable of attacking enemy armor plate directly, fracturing it upon impact. And the latest version of our fleet wide inertial modifying systems now promises even more rapid threat-neutralization capacity than previous models.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MilitarySpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The number of suppliers rushing to get lucrative security supply contracts is impressive, and our procurment managers now have a great deal of leverage when convincing them to improve upon their bids</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MilitarySpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Thanks to the efforts of our procurement managers, our security forces should now be far better equipped when circumstances require them to conduct ground-based operations.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MilitarySpecialization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>In cases where high-risk security threats menace us directly, it may be necessary to organize our workers into defensive militias. Having dedicated equipment and training suppliers in place should dramatically increase those militias' effectiveness.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MilitarySpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>By training our population in basic resistance tactics, we can help them be ready for anything. A prepared population can often be the difference between victory and defeat when invaded.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetaryInvasion_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Planetary landers will be necessary for our security forces to be capable of acquiring a world. This is always a difficult decision to make, but in environments where our growth is constrained, there may be no other choice.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InvasionOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Certain planetary acquisitions may prove more challenging than others, and in those cases, we should be sure our security forces have the advanced tactics and equipment they need to do their jobs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InvasionOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Planetary bombardments are undeniably an effective way of lowering the risk to our security forces during a high-risk acquisition. But given the potential damage to infrastructure, this shouldn't be considered lightly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InvasionOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Information warfare will hamper the ability of hostile counterparties to defend against our security forces during acquisitions.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InvasionOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Viral Acquisition Enhancement Deployments will severely weaken any hostile counterparties who might wish to oppose our security forces during an acquisition.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>StallerMarines_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>If we provide enhanced training to our security forces on ground-based security situations, including hostile acquisitions, we should improve their effectiveness greatly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GravitationalFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our recent mastery over the graviton will allow our security forces increased flexibility when dealing with particularly recalcitrant counterparties during the initial stages of the acquisition process.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GravitationalFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Powerful gravitational fields can induce flooding and even tectonic activity underneath the feet of hostile counterparties, reducing their ability to impede our acquisitions process.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GravitationalFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Using powerful graviton beams to induce massive volcanic activity is certainly an effective way to sap the morale of a hostile counterparty, if not remove them from the equation outright.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DroneSoldiers_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Drones have far greater security potential than conventional, previous generation soldiers, making our ground based security operations that much more effective.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>Fortification_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>In those situations where a high-risk security threat penetrates or otherwise bypasses our security fleets, we should ensure that out own ground structures are capable of resisting hostile acquisition.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Advanced acquisition tactics can be used by hostile counterparties as well as us. We should ensure our security forces have some means to defend against these strategies.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Hardening critical structures, and moving our most valuable utilities underground will dramatically limit the effectiveness of hostile orbital bombardment.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A new security software supplier promises that their latest technology will dramatically improve the resiliency of our IT systems when threatened by hostiles.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>R and D has developed a form of engineered life which should be capable of detecting and protecting against a broad range of hostile biological attacks.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalDefencePlatform_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A dedicated orbital defense platform will provide an additional layer of defense for our planetary systems, and take some of the pressure off of our starbases in orbit.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetaryDefenseDome_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>One of our suppliers is now able to provide shields of such strength that once installed, they will render a colony effectively invulnerable to all forms of orbital bombardment.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefenseSystemTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our vessels, whether revenue generating or security, are too valuable to go unprotected. Considering the unknown hazards this galaxy poses, we should equip them with some form of defensive technology ASAP.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>It shouldn't take much work to improve the capabilities of our defensive systems. The first generation of any technology always has room for substantial improvement.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveSpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The emitters used in our deflector systems are an entirely new technology, and have consequently been very expensive to build. Newer versions on the market appear to have brought the costs down somewhat.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveSpecialization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The supplier who constructs the feed mechanisms for our point defense systems has delivered a new version capable of higher throughputs. The increased firing rate should make our point defenses marginally more effective.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveSpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Being such a simple system, armor is a little hard to improve upon, no matter what incentives we embed in our contracts. The best our suppliers have been able to do is cut some weight out of the mounting hardware.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>According to the product literature, by increasing the density of our deflector arrays and rearranging their layout, we end up with a new generation of "Shield" systems, capable of providing much greater protection.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our shield supply contract has several performance incentive clauses in it to coax our supplier to improve upon their shield systems. We expect to see the fruits of those any day now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A new version of field emitter with higher output capacity will make our shields a bit more effective at no additional cost to us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Shields are pretty costly, and at least a few spreadsheets have suggested we should consider accepting a higher ship-loss rate instead. Reducing shield costs should quash that argument. And keep our security departments morale up.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our suppliers have found a way to reduce the mass of our shield systems' field emitters. Which leaves room for more of them, or other revenue protection/generation equipment.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BarrierFieldGeneration_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Barrier Fields are capable of absorbing a portion of incoming offensive energy, thus charging the very shields which will repulse it. This is an incredibly appealing prospect, if only from an energy balance sheet perspective.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BarrierSystemFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A competitor to our current shield system supplier promises the ability to deliver improved shields if we can award the contract to them. Breaking the existing contract may incur penalties, but sometimes that's the cost of progress.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BarrierSystemFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our new shield supplier has recommended we begin installing newer and more robust models of energy absorber to make our Barrier Fields a bit stronger.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BarrierSystemFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our new supplier promises the ability to deliver shield generators at lower costs than before, so long as we promise not to ask too many questions about how they're made. No problem, we said.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BarrierSystemFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Apparently our shield generations were designed inefficiently by the last contractor so that they could easily trim them down later to hit their performance targets. These errors have since been corrected, reducing the mass of all our shield systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ForceFieldTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The latest generation of shields on the market promise to be capable of directing vast amounts of energy in the specific direction of incoming hostile energy. Our security forces should be far safer and more effective behind such technology.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>It shouldn't come as a surprise that we've mastered shielding technology so completely, given the advantages our commitment to open and competitive markets provides. And that process doesn't end; more improvements are surely to come.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A supplier can always be undercut; there's always someone willing to submit a suicidally low bid. Hopefully word doesn't get out we're doing that with our shields though. Our employees like to think we're spending a lot of money on those things.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The latest performance targets to encourage the development of lighter weight shield emitters have finally been hit, our supplier managing to shave a bit more weight off of their charging systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InvulnerabilityTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Although incredibly powerful, "Invulnerable" is more of a marketing term than anything else. But it's a good one, so it's sticking.  Regardless of how actually invulnerable these shields are, it will help our security forces if everyone thinks they are.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldSupportSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A new form of shield accessory will allow ships to support the shield systems of other ships in a fleet. Along with increasing the survivability of an entire fleet, this creates a new product category for our market of suppliers to begin competing in.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldAugmentation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our suppliers have found a new way to reverse engineer the proprietary Barrier Field technology and use it to improve upon our shield augmentation systems, making them stronger than ever.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldManipulation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The latest shield accessory on the market is capable of interfering with the shields of hostiles, weakening them substantially. Additionally the standard shield augmentation systems have been improved upon again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenses_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Point defense systems are an excellent means of defending our security forces against missile based threats. They're not so good against other threats, but we're optimistic the market will find a solution for that soon.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>In between major generations of systems, our suppliers often come up with minor updates to their equipment which feature minor performance gains. We have no reason to suspect our point defense systems will be any different.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A recent firmware update for our point defense firing controllers has made them somewhat more accurate, leading to a stronger overall defensive capability.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Switching to a cheaper source of sub-components has allowed our point defense supplier to pass on some of the savings to us. Not all the savings of course, but that's their prerogative.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The ammunition used by our point defense systems isn't delicate, and had been over-packed in early models of those systems. Using slimmer, more compact ammunition storage modules should lead to overall weight savings for the system.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CounterMeasures_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>At a recent trade fair our procurement managers visited a booth featuring an electronic counter measure system which promises to confuse incoming missile attacks. As soon as we sort out the pricing, we'll have them available for our fleet.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CounterMeasureFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>We ensured that upgrade protocols were included in our ECM suite contract, as we do with all new technologies. And our vendor has already hinted at a number of promising possibilites the next round of updates might hold.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CounterMeasureFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A simple firmware patch is all that it will take to make our ECM suites more capable of confusing enemy missiles. Automatic updates should also ensure this edge never fades away as a result of improvements in the missile sector.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CounterMeasureFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Now that we're the biggest, and indeed only customer of our ECM vendor, we can leverage that position to get better prices on their ECM suites. Say it quietly now, but market inefficiencies are great when they work out in our favor.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CounterMeasureFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The latest update to our ECM suites consolidates some of the equipment into a single module, which causes the overall system to weigh much less.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DroneSentrySystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The latest model of point defense system uses drone platforms to extend the protective envelope around our security vessels. Many of the drones are now also given cute names, to assist with branding.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DroneSystemMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Drone systems added so much extra equipment to our point defenses, that any minor cost or weight savings we can find with them will be magnified significantly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DroneSystemMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our drone supplier found a new manufacturing technique - it looks a little bit like a conveyor belt with a large stamp - that's capable of churning out drones at much lower costs than before.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DroneSystemMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The newest version of point defense drone comes in a more cube-like shape that makes them much more stackable, saving weight on various drone storage and launching systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArreonMissileDefenseTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The brochure for Aereon drones makes them sound incredible. Nano drones. Smart railguns. Adaptive-ECM. High Def Chafe. Something with that many cool adjectives must be good.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseSupportSystem_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Sensor modules which improve the long range tracking ability of our point defenses will enable a single ship to boost the point defense capabilities of an entire security fleet.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseAugmentation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The newest iteration of point defense accessory module adds improved missile disruptors which  enhance the effectiveness of an entire fleet's counter measures, giving our security forces a much needed extra layer of security.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseManipulation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Fleet-wide drone systems expand the perimeter of our defenses even further. And the newest point defense disruptors will let our own missile attacks more easily penetrate the point defenses of high risk threats.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>There's something charmingly retro about armor, and the market is full of brands adorned with decorative rivets and such. Still, even in this age, armor is surprisingly effective, so let's go ahead and use it if it meets our security forces' needs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Armor is so simple that we have a pretty broad selection of suppliers willing to manufacture it for us, all  of whom promise to improve upon what we already have.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A supplier with a new fabrication process promises the ability to deliver denser, more resilient armor panels to us, which should make our security ships a little more capable at fending off high-risk security threats.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A new supplier promises they'll be able to supply armor panels to us at reduced rates. Apparently the last guy was spending too much on unnecessary health and safety protocols for their workers. A shame when that gets passed on to the consumer.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>So it turns out those decorative rivets and other adornments were adding unnecessary weight to our already bulky armor systems. Stripping them down to the bare essentials should result in a lighter load to carry around.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DurantiumCompositeTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Durantium was developed by a consortium in our polymers industry. A composite of different substances, Durantium has tremendous damage absorption potential, far in excess of conventional armor plating.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>No system is ever perfect, and our armor manufacturers know they have to relentlessly pursue innovations if they want to retain the market share they have.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Durantium composites have an unusual problem with cracking completely in half under typical end-of-life stresses. A new after-market lamination process promises to address that, making our ships just a little bit tougher.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Keeping our security ships operational is worth a lot to our business, and we armor them gladly because of it. But if it could be done for less, well, we'd probably armor them a little more gladly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The latest version of Durantium has a slightly different configuration of layers which results in a lighter product with just the same destruction-avoidance capabilities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KanviumLaminateTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A new product called Kanvium claims to be a laminated armor product which partially fluidizes on impact to disperse incoming force. Whether that's marketing nonsense or not, it certainly looks more effective at stopping fast moving things.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Iridium security vessels are already some of the most durable in the galaxy. But the high-risk threats they're called to face are always increasing their own risk profiles. We must continuously innovate our armor systems to stay ahead of the curve.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>By considering our armoring needs earlier in the ship design process, our product managers can design ships that remain just as durable while using far less armor. Tough luck for our armor suppliers, but that's the business.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>If we involve our armor supplier to get involved in the design process, they might help us find ways to minimize overlap and otherwise maximize the efficiency of our armor placement, leading to reduced overall armor mass.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ZeroPointArmorTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The manufacturer of Zero Point Armor explains that it can tap into the zero-point energy of the quantum vacuum, using that energy to confront incoming energy. We have no way of determining if that's true, but it sure looks a lot tougher.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorSupportSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A new type of armor accessory has come on the market, using long range hardening fields to allow a ship to make every piece of armor in a fleet substantially more durable. Our fleet managers are reportedly ecstatic at the news.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorEnhancement_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Thanks to some kind of "polar" device, or possibly just piece of marketing, our fleet-wide armor accessories have gotten even more effective.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IntegrityFieldProjection_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The latest model of armor accessory is capable of inducing material fluidization and shape recovery in impacted armor within a fleet. The manufacturer promises that a single ship with one of these can make a fleet almost invulnerable.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TranslatorTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A crowdsourcing effort to analyze the fragments of alien speech we've received has resulted in a complete understanding of their languages. The Universal Translator developed alongside this effort will let us communicate with our future customers.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A careful study of the languages  used by our neighbors may unlock valuable insights into the way they think. This will make our diplomatic efforts easier, to say nothing of the boon it will cause for our advertising industry.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticSpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Now that we've identified what they are, our diplomats should be able to use the hand gestures and guttural tics that various species respond well too.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarGovernance_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>How to manage a business which literally spans the stars is an interesting challenge. Adding more layers to our org chart could lead to gross inefficiencies. But given the scale of our business, what other choices do we have?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>There are several competing philosophies for how corporate governance should be conducted in a galaxy-spanning business. We should choose among these options very carefully.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalSpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Giving more control to local management can reduce overall corporate cohesion, but the informed decisions that only local managers can make should help boost local economies.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalSpecialization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Policies which boost job satisfaction will obviously benefit the corporate image we're trying to build. Along with increased internal approval, this image should also greatly boost our diplomatic efforts.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalSpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>There's no shame in picking a middle of the road approach to governance. Considering the diversity of the markets presented to us, enormous profit could be had by trying to be all things to all people.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GalacticGovernance_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Increasing the say of our workers in determining our overall corporate direction is a novel idea. But the increased worker satisfaction and productivity gains we expect to see should make it worth the risk.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Even our core management policies must subject themselves to a process of continuous improvement. A number of new management philosophies have been developed in recent years which we would be wise to consider carefully.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A focus on increasing our industrial capacity will mean more motivational seminars, productivity awards, and rigorous internal quality control measures. Productivity shall be the watchword by which the Iridium Corporation lives by.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A management philosophy based on maximizing trading revenue is perhaps the most natural fit for our people, given its obvious impact to our bottom line. Our "aggressive" market research efforts should also benefit from this approach.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A commitment to R and D will involve internal competitions, rapid promotion from within, and the swift purchase of sub-contractors with advanced products. We shall be known as leaders in the industry. Every industry.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarDemocracyTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>An employee share ownership plan will not only allow our workers the ability to share in our profits, but also have a direct say in our organization's leadership. The increase in approval and productivity is expected to be enormous.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Some of the most advanced management techniques will require total buy-in from our employees. It's taken the deployment of a new generation of subconscious motivational brain wave for us to even consider some of these techniques.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Putting the entire Iridium Corporation and its network of suppliers on a war footing isn't something which should be done lightly. But when aggressive acquisition is our only feasible path towards growth, we may have no other choice.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>In an environment featuring open markets, where our growth prospects are unrestrained by closed minds, a peaceful management philosophy will ensure our corporate image is as widely admired as it can be.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>StarFederationTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Decades of relentless improvements to our internal processes has led to this, the pinnacle of corporate governance. All other organizational models pale in comparison to ours.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomacyTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Making formal treaties with our neighbors will ensure both borders and markets remain open to us, easing the path towards pain-free growth.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Depending on our business needs, we may wish to pursue specific types of diplomatic treaties with our friendliest competitors.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>An economic treaty will remove the tariffs and import bans that choke growth. These should benefit both parties, though if that's not possible we'll ensure that it at least benefits us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A cultural treaty will increase the influence we have with our neighbors. Our traders and other corporate ambassadors will help them see the light of a civilization dedicated to unrestricted access to markets.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Information sharing agreements with our neighbors could benefit our internal R and D division greatly, and allow both parties to accelerate their research efforts.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarAlliances_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A formal alliance is a curious idea. Tying our fortunes to that of an alien business seems an unusually risky move. But in a galaxy filled with high-risk security threats, solidifying our relations with a friend may have some value.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AllianceFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our negotiators are without peer in this galaxy, and can slant alliances in any direction they choose. We should consider our business needs carefully before entering such talks.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AllianceFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A formal military alliance will provide our security forces valuable additional support in times of crisis. However we also risk being pulled into conflicts that will have little benefit to our business.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AllianceFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Increasing the scope of our information sharing programs with our allies should lead to dramatic research gains on both sides. So long as we're not giving away any competitive advantage, the benefits of this should be obvious.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AllianceFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The free movement of people and ideas across borders with our ally will ensure their markets remain open to us, and provide a tremendous opportunity to influence their thinking.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EminenceTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our mastery of the art of the deal is so respected that many parties now seek us out to help solve their problems for them. Our voices carry now, and our business profits from it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MajestyTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The superiority of the Iridium market-based way of life is so obvious that many cultures now pre-emptively approach and beg us to acquire their assets on exceedingly generous terms.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>StellarEmigration_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The benefits of the Iridium marketplace are plain to see, and our traders are admired wherever they go. If we can make the process of emigration easier, Iridium  influence should spread faster throughout the galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalAssimilation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>New arrivals to our culture often cling to backwards expectations about public services and facilities. Quickly assimilating them to the Iridium way of life should help ease this transition, and make our culture more influential.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalDomination_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The superiority of a culture forged in an open marketplace of ideas was utterly predictable. Sentient life throughout the galaxy now has little choice but seeing the advantages of our way of life.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalAffinity_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Growth can never stop, and the boundary between realities are nothing before that simple fact. Our product managers are already drawing up plans for a literally new dimension of products.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CommerceSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Routine market research has shown that our customers have a variety of unique needs that our quickly growing economy could fulfill for them. Targeting some of these needs specifically might be warranted.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CommerceSpecialization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>A happy and content customer base serves as the foundation of our entire way of life. Notably, happy customers are almost always willing to buy next year's model.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CommerceSpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Increasing our trading activities will ensure our goods are sold to the customers who need them most. And, not coincidentally, the customers who are willing to pay the most for them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarBanking_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Interstellar Finance</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarBanking_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Improving the access our workers have to retail investment guidance centers will ensure capital doesn't just sit around, and is instead quickly reinvested in the places where it can grow fastest.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EconomicFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The Iridium Corporation is involved in multiple lines of business, ensuring a nice healthy mix of revenue sources. But when business conditions dictate it, we can also choose to specialize in a specific field, to try and maximize the income we receive there.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EconomicFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>If our external trading activities are unusually profitable, it's only rational to ramp those up, whether by increasing the volume of goods traded, or transitioning our product mix to include higher-margin commodities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EconomicFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>If we want to reassign some of our shrewdest negotiators to our external treaties division, we can expect to see a little more income from those.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EconomicFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Tourism is an incredibly attractive business, bringing in external revenue to our economy. If we have the infrastructure to handle it, encouraging more tourists to travel here is practically printing free money.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarTrade_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>When the supply of a good is limited, such as when it comes from a great distance, prices for that good become distorted. Increasing our trading activity will help minimize those distortions, leading to a more perfect market.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TradeOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Understanding what the customer needs is key in any business, and external trading is no different. If we focus our trading on specific types of customers, we should be able to profit more handsomely from our efforts.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TradeOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>By optimizing both the outgoing and receiving ends of our trade routes we have been able to achieve a modest overall profit for everyone involved.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TradeOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>We believe the best way to increase trade income is the establish more trade routes. With a bit of effort we have been able to stretch our recourses enough to establish one more.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GalacticTrade_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Permanent trading hubs will encourage more private traders to base their activities in places beneficial to us. Due to network effects, their work will help boost the profitability of our own trading, and vice versa.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TradeFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>All of our business activities should complement each other, and if our trading department can help boost specific sectors of our business, we'd be foolish not to pursue it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TradeFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>By establishing a trade tariffs on our colonies we have been able to increase our trade route profits substantially.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TradeFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>More trade routes, more trade income, who no need for Tariffs, or 'Luxury items', Some times its best to stick to the basics.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GalacticFacilitation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Improved material handling equipment and just-in-time logistical capacity will be needed to maximize our trading revenue, and that will require new facilities to do it in.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TradeMasters_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The Iridium Corporation is seen throughout the market as the best and most honest dealer in the galaxy. Our bazaars are more than just markets; they're living, breathing proof of the superiority of our way of life.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoEntertainment_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>We mustn't allow our workers to become cynical or dissatisfied with their careers. The impact to our culture could sap productivity for years. Installing facilities to keep them entertained is really just a first step.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PopulationDiversion_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Iridium workers love consuming the next big thing, and our market research has shown our existing entertainment complexes need to be updated. Bigger and better amusements should go a long way to keeping morale and productivity up.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Market research has identified a number of audiences within our business that might be more receptive to certain types of enterainment products.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SuperiorRecreation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>One of the sad ironies of our business is that so much of our time spent in space is spent working. A micro gravity amusement park will address that, and let our workers bounce off the walls in safe, controlled environments.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ContentmentTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Directly injecting happiness into the head of anyone who needs it cuts down on a lot of the inefficiencies that were inherent in previous generations of happiness delivery products.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarTourism_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Considering the population of the galaxy, the tourism industry represents an enormous untapped potential. Improved facilities to attract and entertain off-world facilities should help us begin extracting some of this wealth on offer.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GalacticCruseLines_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Encouraging our workers and tourists from other worlds to experience the delights of Iridium space is a fine way to boost our tourism income. Really, there was just so much of that space not going to use.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WondersoftheGalaxy_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>It will take a serious marketing effort to convince our neighbors that our newest tourist attractions are the most incredible wonders in the galaxy. But that will be cheaper than building actual wonders.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PilgrimageTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>The wonder that is an Iridium marketplace in the mid-day rush is known throughout civilized space. Intelligent life everywhere now consider our bazaars to be the single most important must-see destination of their lives.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Expansion</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationTech_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Growth is the most fundamental requirement of both a business and a civilization. We cannot allow ourselves to stagnate, confining our business to just one planet. The Iridium Corporation must expand or perish.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoIndustrializationTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Capital Investment</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoIndustrializationTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_IRIDIUM</ListenerFaction>
+      </Requirements>
+      <Text>Our corporate empire must be built on a firm foundation. We should ensure our initial colonial buildings are as capable and durable as possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+</FlavorTextDefs>

@@ -1,0 +1,3658 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+<!-- Created with the Crusade editor -->
+<!-- FACTION_KRYNN_TechFlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>TechTree_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Krynn Tree</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EngineeringTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Conversion</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EngineeringTech_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Discover ways to increase the rate in which we can reach the rest of the galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EngineeringTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>This hyperdrive invention of the humans will dramatically speed up our efforts to convert the rest of the galaxy to the Way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AdvancedConstruction_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Advanced factories will help increase our manufacturing capacity, ensuring our people have the tools they need to continue their journeys along the Path.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ConstructionOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Krynn who follow the Shadow Path have long struggled with blasphemers in our manufacturing sector who siphon funds off for their own sinister needs. We must do everything we can to stop them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoManufacturingMethods_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Thanks to the enlightened work of our researchers, we're now able to build a new generation of exotic manufacturing centers.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ManufacturingFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The more orderly a Krynn's internal mind, the more orderly they make the world around them. By preferentially promoting our most enlightened manufacturing workers, we might hope to improve our manufacturing sector.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ManufacturingFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The need for a military is not always clear to Krynn who have yet to see the Way. But when we make them understand that ascension will not be possible until all sentient life has begun along the Path, even by force, the need becomes clearer.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ManufacturingFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Civilian manufacturing allows us to build the cultural structures and Krynniac facilities we need to show people the Path. All Krynn, regardless of species, caste, or clan, can surely see that.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ManufacturingFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Internal audits, inquisitions, and random locker inspections should help catch any remaining heretics within our manufacturing sector, and reduce our manufacturing costs a bit more.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IndustrialExpertise_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our researchers have found a way to manipulate matter on the level of individual atoms. Crude to someone who understands the majesty of the Way, but this mastery of physical matter will allow us to increase our manufacturing capacity even more.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IndustrialMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our people have mastered manufacturing in much the same way we have mastered the Path that leads to the Way. But we are mortals, far from perfection. More improvements remain to be found.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IndustrialMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our military manufacturing is now as efficient as it can be. We shall soon force the Path into the minds of all who have resisted its brilliance.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IndustrialMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The structures which assure our people's quality of life and assist with the spread of the Path can now be made for far fewer resources.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InstitutionalResearch_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Researching the physical world may seem trivial to those of us who fully understand the Way. Yet we must remain in this physical world until the Way has been spread to all sentient life. This will take awhile, so we'd better get good at it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our researchers are more committed to the Path than almost all other Krynn, but remain naive about the ways of the world. With the right oversight, we can ensure their work spreads the Path in the manner best suiting our needs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The Path is more flexible than most people know, and with the right adjustments, we can grant our faithful researchers the time they need to conduct research, while still keeping up the spiritual duties the Path requires.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our researchers are blinded by both their work and their commitment to the Path. Certainly too blind to pay attention to trivial secular things like money. With the right managers, we should be able to cut down on our research costs quite a bit.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>However important research is, the Secret Order will not tolerate our government spending resources wastefully. We should ensure our research facilities consume as few of our resources as possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchCenters_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Advanced research facilities will give our researchers the tools they need to push back the veil of darkness of the physical world, making it a little bit more like the world of unencumbered light that is the Way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TechnologicalFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our researchers assure us that if we begin specializing our research efforts, this will lead to tools that can help spread the Path faster.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IntegratedResearch_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Advanced academies can accommodate teams of researchers working on larger, more complicated projects, and provide the spiritual support those researchers need to maintain their own individual progress along the Path.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchMatrixTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A massive city-sized research facility will allow our researchers the time they need to make the biggest breakthroughs. And isolating them from the general population will make it easier to protect them from the distressing cries of blasphemers.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DeeperKnowledge_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>There are curious parallels between the physical world and the Way. Research teams dedicated to studying these congruencies may be able to make incredible breakthroughs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>QuantumUnderstanding_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>It should come as no surprise, but our grasp over the Way has led us to startling truths about the quantum world. Both this plane and the next are falling open before us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeyondMortality_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Ascension will make us immortal, allowing us to bring the Way to the plane beyond this one. The Secret Order is both pleased and terrified, trembling about what this change implies for their control. But there is no stopping the process now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchCoordination_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>As devout as they are, our researchers are by their nature, a bit absentminded. We'll be able to get the most out of them by constructing coordination centers to organize their work and keep them focused on the task at hand.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>NeroLinking_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Direct brain-to-brain communication will greatly increase the effectiveness of our researchers, and make it far easier for us to monitor them for blasphemous thoughts or the presence of outside influences.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetaryImprovement_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The planets we settle on will require a variety of structures, for food production, places of worship, and internal monitoring.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetarySpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our farmers are simple folk, with but a rudimentary understanding of the Path. All they care for is dirt, and the tools to work with it. So we shall give them better tools.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetarySpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our researchers have found a forgotten species of crop from our own world which adapts well to alien environments. Food production should go up as a result.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetarySpecialization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>With a few simple changes to the appropriate elements of the Path, we can tie some of our rituals surrounding food to the importance of fertility. With the right touch, and some gentle winking, our population growth rates should increase as a result.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetarySpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Adapting some of our crops to include mild stimulants will ensure our workers can work longer and harder, improving the production capacity without impacting the time they need to pursue the Path.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoAgriculturalAdaptation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The blasphemers within our civilization have far less influence over our colonies than they do on our home world. If we increase our farming potential to expand our colonies faster, we can ensure more Krynn stay on the right and true Path.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Even something as simple as our farms cannot remain free from waste. The Secret Order is asking, no, demanding, that we do something about it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Placing a loyal curate in charge of each farm, to "bless" the food as it is produced will ensure that less of it goes "missing" in production, indirectly boosting our farm production.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>If we directly procure startup equipment for our farmers, instead of forcing them to take the unfairly inflated prices our black market offers, we can reduce the startup costs of our farms somewhat.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A sad thing, placing members of the Shadow Path around our farms, but if it cuts down on the vandalism and extortion threats, it should be cheaper to run our farms.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IntensiveFarming_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our multi-racial nature means that we're already used to growing wide varieties of crops to suit various diets. The variety of crops needed, and the space that requires has made our farmers experts at growing in even the most marginal conditions.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FarmingFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our farmers are simple folk, following a simplifed version of the Path, and sometimes resent the attention we pay to them. But the importance of food production to our society is to much to leave it entirely in their hands. Our farms must get better.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FarmingFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our researchers have discovered that if we force our farmers to implement a different code of fertilization techniques, we should see greater food production. A change to the Farmers' Path is in order.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FarmingFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The Secret Order has quietly suggested we reduce the costs of starting a farm by simply giving our farmers less money. The farmers don't seem happy about it, but they do the work anyways, because they have to. The Secret Order is wise.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FarmingFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The creator saw fit to bless worlds across the galaxy with plants edible by us, and by taking the strains and species which adapt to the widest range of environments, we can ensure our farms operate much more cost-efficiently.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LosslessFarming_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our researchers have developed a way to insert inventory tracking devices into food as soon as it's produced, which should dramatically cut down on the mysterious losses we attribute to theft by heretics.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Krynn's farms are among the best in the galaxy, the skill, faith, and industry of our farmers an example to us all. But a few improvements remain to be made to their practices.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>By replacing our monitoring curates with automated food blessing systems, we can remove a bottleneck that had been holding back our food production capacity.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AgriculturalMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The example set by our farmers now serves as a symbol of Krynn fertility, and with the right change to the Path, we can make that symbol a legally meaningful one. Mere proximity to farms will now require our people to reproduce more.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FoodDistributionTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Distributing different types of food to the many races of the Krynn is something we mastered millennia ago. Adapting these tools and techniques to new worlds will be a small challenge for a people so enlightened.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoIrrigation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A member of the Secret Order has approached us with a request to permit his organization to begin constructing large scale irrigation systems for our colonies. A large contract to just give away, but the benefit to our food production is undeniable.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BiomassResequencing_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Biomass resequencers will allow us to turn compost into food. This will boost the production of neighboring farms, but also create a black market for compost. Let's make sure the Secret Order get their foot into that business before we begin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoBiology_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Due to our unique heritage, the Krynn are already familiar with multi-species medical issues.  Adapting this philosophy to the challenges posed by alien biospheres is a small step, but one that must still be taken. Our people deserve proper medical care.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PopulationEnhancement_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The Path governs the way our people must live their lives as they slowly come closer to the Way. It is not a static thing, and by adjusting it wisely, we can require our people to attend the fertility clinics necessary for building a strong population.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BioReplication_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Bio-replication has profound ethical considerations, even if the boost to our population growth rate is too significant to ignore. The potential for criminal mischief is very real. Some of the proposals the Secret Order are suggesting  are terrifying.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnvironmentalEngineering_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Thanks to our researchers' efforts, we can now manipulate the terrain of a planet with the same ease with which we shape the hearts and minds of our people.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ExtremeWorldColonization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Composed of a wide variety of races, capable of surviving in a variety of environmental envelopes, gives the Krynn a unique ability to colonize worlds too difficult for single-species civilizations.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>If we can improve the conditions for the poor fools living on extreme worlds, they'll surely be grateful to us. The Secret Order loves it when favors are owed to them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Thanks to many simultaneous advances in environmental and engineering research, aquatic worlds will no longer have reduced production, and can now be settled by the full spectrum of Krynn species.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Frozen worlds will kill less of our people now. Except when inquisitors from the Shadow Path deem it necessary, of course.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Life on barren worlds is now far more tolerable, thanks to our dedicated researchers. A special requirement of the Path for those who dwell on such planets now requires them to thank those researchers via prayer.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AtmosphericCleansing_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Thanks to our control over the texts that make up and interpret the Path, we can make Krynn live on even the foulest and most toxic planetary environments. Enemies of the Secret Order make ideal candidates.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BiospherePerfection_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Using forced colonization of the most extreme worlds as punishment was an ideal stick to wield during inquisitions. But the galaxy is too crowded to let these worlds remain unproductive.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BiospherePerfection1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Even mutants can follow the Path, and they find more acceptance in Krynn society than they would elsewhere. But that's no reason to make mutants unnecessarily. Our technology has now made radioactive worlds perfectly safe.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BiospherePerfection2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>With our latest technology, we shall lose no more Krynn to hellacious toxic environments. We pray for those so lost, and promise to them that we shall not rest until the Way has reached everyone, so that we might rejoin them in the afterlife.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TerraformingTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A people made up of a number of different races is capable of making use of a far greater variety of biomes than a civilization with a less diverse make-up.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HabitatImprovement_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>We must be sure to protect out most advanced terraforming processes, lest they fall into the hands of blasphemers. The Secret Order insist that this technology must serve their purposes above all others.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SoilReclamation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>We now have the capability of fabricating land from almost nothing, allowing Krynn to pursue their Paths on formerly unusable terrain.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnvironmentalResequencing_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Environmental resequencing adds usable land to all planets in our power. This is a monumental technology, that shouldn't belong in the hands of a mortal. We're lucky the Secret Order wields power so wisely.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarTravel_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>If we can make better ships, faster, far-seeing, or longer lasting, we'll be able to spread the Way faster. And more comfortable ships could be an important favor to offer Krynn we want to reward.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our faithful researchers have come up with a number of ways to improve our equipment and navigational techniques.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarSpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>These hyperdrives of the humans have a number of inefficiencies. "Clever, but not wise," would be an excellent way to describe them. We'll improve the drives now, and the humans later.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarSpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Improved life support recirculation systems will not only increase our ships' effective ranges, they'll make our crews more comfortable, and better able to remain on the Path.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IonDriveTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our researchers have found that by capturing ions during hyperdrive flight and adding them to the exhaust of our conventional engines we can travel faster. The Secret Order insists we reward these researchers for their genius.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IonOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Apparently our new Ion Drive systems had a number of inefficiencies in their design which need to be corrected. We pray this was an honest mistake, and not a sign of our researchers being corrupted by heretical thoughts.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IonOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A modification to the magnetic field capture device should lead to higher ion capture rates and higher speeds for our vessels.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IonOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The field coils of our Ion Drives were over-specced, possibly to give a supplier tied to the Secret Order a cushy deal. We've fixed that, which should lower our drive costs, and are considering how to delicately raise this issue with our shadowy masters.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IonOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our early hyperdrives were very heavy, made by an associate of the Secret Order who was perhaps less than capable. After much internal struggle, we've stripped them of their contract and found another "friend"  who can deliver lighter drives to us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarpFieldTheory_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>"Stacked" hyperfields will magnify the acceleration effect they offer. These Warp fields will allow us to spread the Way to the distant corners of the galaxy much more rapidly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarpFieldFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>It seems that new hyperdrive technologies always have room for improvement, and that this doesn't imply corruption on the part of our researchers at all. We had prayed this was the case.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarpFieldFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our ever pious researchers have found new ways to arrange the stacked hyperfields, leading to improved speed for all of our Warp Drives.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarpFieldFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A critical part of our hyperfield generators was being manufactured by a supplier who was willing to lower his prices after a few late night visits by our friends in the Secret Order. Bless his generosity.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarpFieldFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A redesign of our hyperfield generators to accommodate the fact that we're now equipping them in parallel should lead to lower overall mass for these systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HyperwarpWaves_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Hyperwarp uses cascading warp fields to allow out drives to compress already compressed space. The light that shines on our researchers' minds is sometimes a wondrous thing.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HyperwarpMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Krynn drives are among the most powerful in the galaxy, the brilliance of our researchers as sure a sign of the righteousness of the Way as anything else we can offer. And still those blessed minds insist they can do better.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HyperwarpMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>It's not that we've gotten rid of all the waste in our hyperdrive construction, although we have gotten rid of most of it. It's just that all that waste that remains is going to the right parties.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HyperwarpMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The Secret Order has found a supplier willing to deliver new, low-mass plasma conduits to us at the same cost as previous models. How fortunate we are that so many Krynn are willing to makes sacrifices of their own to help spread the Way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarSurvey_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Throughout the history of our various peoples, success has always hinged on knowing more than your adversary. Sensors and survey equipment will illuminate the galaxy to us, showing us the path forward.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our researchers are constantly hard at work on our sensor systems, looking for minor improvements while still pursuing the next breakthrough.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our researchers have developed new algorithms for processing the information our sensors return, turning data from greater distances into usable intelligence.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our sensors detect the perturbations emitted by hyperfields to detect ships moving faster than the speed of light. The equipment used to do this was initially quite costly, but our researchers have found ways to bring the prices down a little.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The more sensor equipment we can squeeze in our vessels the better, making this new lighter-weight sensor equipment our researchers have developed very valuable indeed.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldSensors_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The space folding perturbations emitted by ships traveling via hyperdrive are detectable at much greater distances than we'd previously thought. Our researchers have developed new sensors capable of using this new technique.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Many of our ships' crews regularly blaspheme against the Path and tinker with the equipment sent for them to do their work. We typically look the other way, but when their adjustments lead to improvements, we'd be fools not to capitalize on them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Additional shielding to isolate our sensors from the energy emitted by the ships carrying them seems to improve their ability.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our crews have been using an aftermarket processing software which works the same as the one provided, but costs much less. We'll implement the change fleet wide, though probably won't investigate how an inefficient supplier won such a choice contract.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our sensor equipment comes from the manufacturer with much unneeded extra gear that our crews were stripping off. If we do that fleet wide, we should see lighter sensors for everyone.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SubspaceSensors_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Subspace is the reality underneath this one. Devoid of sentient life, and thus normally beneath the interest of those who spread the Way, our researchers note that by accessing it, our sensors should be able to see further.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>It is of no surprise that the Krynn would master sensor technology so easily. Knowledge is the cornerstone of everything we are. Our wisest and most pious scientists are now putting the finishing touches on their masterpieces.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>We've rooted out a very clever scam in our network of sensor parts suppliers, an organization which had been overbilling us for decades. Our sensors will now be cheaper, and the fiends will now be subject to a more detailed inquisition.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our scientists are insisting we build their sensors with the suppliers of their choosing. Secular needs, such as the protection of the Secret Order's interests, have long prevented this. But the potential weight savings may now be too great to ignore.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TargetingAssistTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>In circumstances that require us to introduce the Path to an alien species via force, improved targeting and stealth systems will give our vessels the edge they need.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TargetingSupport_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our tactical sensor and jamming modules can now benefit an entire fleet of vessels. Cooperation will be necessary to maximize the effectiveness of this equipment, but that's an area the Krynn have always excelled in.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoArcheology_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The Precursors were the first beings created by the shattering of the great crystal. Much of what they know is lost to us, but by analyzing their relics, we might peace together more of their history, shedding more light on the Way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorStudies_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Precursor technology seems to use a form of "dark energy" present both in the fragments of the long shattered crystal, as well as in all life. We still have much to learn to recreate this technology ourselves. But we must persist.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorRelicFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The Precursor relics we find have strange effects on the Krynn, evoking a sense of wonder, excitement, and even greed. With our skills at manipulating sentiment, we should be able to capitalize on specific benefits if we choose.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorRelicFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>By selecting our most pious researchers to work on Precursor artifacts, we can ensure not only faster research, but that their secrets aren't leaked out to the heretics that lurk in the shadows of our culture.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorRelicFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>If we highlight the parallels newly discovered Precursor artifacts have with the Way, we can make the wisdom of our path more apparent to those in the galaxy who still refuse to see it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorRelicFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Carefully released details of new Precursor artifacts, details that support the elements of the Path related to industry and enterprise, should increase the economic boost these artifacts seem to cause in our people.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorExploitation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our Precursor researchers require very specialized equipment to handle the dark energy flows these relics require. Dedicated facilities with this equipment should increase our ability to research these artifacts.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorEngineering_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>We're now trying to recreate some of the Precursor's technology, using the same dark energy that powered their own incredible devices. All Krynn whose faith was wavering are finding it now. Even the heretics can see we're close to something big.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorUnderstanding_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>We understand completely. The Precursors, their corrupted creator, their downfall. We know all. Furthermore, we now see a new path to Ascension, a new route that the Path may use to lead us to the Way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupport_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Life support is a complicated challenge for us, considering the many species which make up the Krynn. But it's one we must tackle head on if we hope to introduce the Path to the unenlightened.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Although we aim to bring salvation, even to the deceased, we cannot allow Krynn to perish without cause. Our life support systems must get better.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Blasphemers working in our shipyards have been sabotaging our life support systems, limiting our ship's ranges. We've fixed the damage, and will conduct a thorough inquisition to root out these villains.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A few days after we mentioned our problem with life support costs to one of our handlers in the Secret Order, our life support meal supplier voluntarily lowered their prices. Always nice when coincidences like that happen.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Reducing the mass of our air circulation and filtration systems should save weight our ships could use for other, more spiritual purposes.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldGeneration_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Support field systems use force fields to pipe nutrient-rich sludges to our crews. This will extend the range of our vessels and create a valuable sludge supply contract we can award to someone the Secret Order needs a favor from.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Field-based life support systems are a little messy. We'll need to do something about this, lest our crews lose faith in our stewardship.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>More refined force fields with user-customizable controls have cut down on the mess and waste of our support field systems. Our sludge supplier may have preferred the old, wasteful ways, but now our ships can now travel much further.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A new force field supplier promises a cheaper brand of emitter will work in our life support systems, so long as we promise not to ask many questions about where they came from.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Less powerful force field emitters in our life support systems will save valuable weight. And our researchers note that we did not need that additional power, which was causing many of the messes in the first place.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PromethionSupportSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Promethion technology improves the injection and recycling capabilities of our life support, generating small quantities of new food directly from waste. Our crews are resistant to the idea, but a simple change to the Path will make it their moral duty.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Krynn crews are now as well fed and cared for as those in our colonies. Even better perhaps, for some of our less favored colonists at least. But a few more improvements remain to be made in these systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>When appeals to their faith don't work, we can usually count on our suppliers cutting their prices after a few well timed visits from members of the Shadow Path. A shame for an arm or a leg to literally be at stake, but that's the way it has to be.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our researchers have devised a new type of Promethion field effecter which can be embedded directly in the nutrients, saving quite a bit of weight compared to their heavy, fixed counterparts.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LosslessSupportSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Lossless systems are an uncomfortable concept, the profit potential of waste a place where the shadows of Krynn culture have thrived. And yet we can't ignore the fact that long range ships will help spread the Way further than ever.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>New technology will make it possible to offload partial life support requirements to different vessels in a fleet, or even a nearby starbase. A superb way to extend the range of our fleets, and keep a measure of control over less faithful crews.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ExplorationExtention_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our Promethion support technology can now be used by our fleet-support vessels. These vessels control the fate and welfare of an entire fleet, and must be staffed by our least corruptible crews.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalManufacturing_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>If we move ship construction to orbital environments we should be able to build larger hulls. But we should first ensure the Secret Order has a chance to get their people in place, to limit the chances of corruption developing in this new industry.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Orbital construction is hard to maintain control of, with too many moving parts to buy off, and the workers too wealthy to be deterred by their religious obligations. We may require more severe management techniques.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalSpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>By putting only the most loyal people in charge of our ship construction academies, we can ensure the workers going into the field aren't corrupted. This should result in higher manufacturing, and far less blasphemy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalSpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>By requiring fleet logistics officers to undertake extensive theological training we can ensure the workers that take those positions are influenced only by us. This should reduce corruption and thus increase our logistical capacity.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalSpecialization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Lazy or unmotivated ship builders can easily restrict the amount of usable space on a ship with their sloth. If we motivate them properly, we can ensure our ships have the most usable space possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ZeroGravityConstruction_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our blessed researchers have developed new techniques for orbital construction, which should lead to bigger vessels, better equipped to spread salvation.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ZeroGravityOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Orbital construction remains a dangerous occupation, with many unexplain accidents sapping productivity. We must do what we can to limit the influence of unfriendly factions in this sector, if only for the sake of our faithful workers.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ZeroGravityOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A new series of daily motivational sermons, focusing on the virtue of hard work, and the success our ships have spreading the Way, seems to have inspired our workers to build better, stronger ships.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ZeroGravityOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>As orbital construction becomes more complicated, the opportunity for graft and bribery blooms. We must monitor our managers and planners carefully, casting them out as blasphemers at the first sign of corruption.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ZeroGravityOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>One of our loyal ship workers realized that hollow structural elements can contain various smaller ship systems, saving space for other equipment. Properly designed, these have no impact to a ship's durability. His brilliance will be well rewarded.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LargeScaleConstruction_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Larger hulls will allow us to spread our people, culture, and the Way faster than ever before.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalConstructionFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>With the worst corrupting influences removed from our shipyards, we can safely allow our innocent researchers on site to allow them to work their wonderous magic, improving our construction.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalConstructionFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>It was a tremendous, almost miraculous insight to realize that molecular weaknesses in a hull could make it deformable in a controlled manner, increasing the resiliency of the entire hull. The researcher who came up with it is now a living legend.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalConstructionFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>We didn't dare trust our workers with heavy equipment when so many of them were potentially blasphemers. Now that the proper theological oversight is in place, this equipment should make construction faster and cheaper.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalConstructionFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>By rewarding workers who come up with space saving ideas with rewards, such as special dispensations from duties required by the Path, or even cash prizes, we've managed to improve the packing efficiency of all of our vessels.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MassiveScaleConstruction_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Krynn vessels are now among the largest this galaxy has ever seen, rivaling even those of the Precursors. Few things will stop the primitive minds from learning the Way now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HullMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>As good as they already are, with the right motivation, our workers and designers should be able to make better ships. And between faith and money, we've got the best motivational tools known to sentient life on hand.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HullMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>We've managed to root out the last bits of corruption in our construction sector, any small amounts of waste remaining being directed to places that suit the Secret Order's needs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HullMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Krynn vessels are now as efficiently designed as possible, capable of any spiritual or secular mission we might throw at them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HullStrengthening_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The inner strength all Krynn possess, thanks to their commitment to the Path, is now more than a metaphor. We can embed strengthening fields in the hulls of our vessels, making them as resilient as we are.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HullRepairSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Metaphors continue to abound within our hulls. Our latest technology uses straightening fields to repair battle damage in our vessels, in the same way the Path can help restore our sense of purpose in the face of ignorance.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SelfHealingHulls_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Nanobots are automations capable of repairing our ships and starbases, even during battle itself. The potential for criminal misuse of these is enormous, and they should only be deployed to our most loyal vessels.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CarrierTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Carrier combat will expose selected Krynn to excessive danger while protecting those who remain on our capital ships. So long as the pilots understand the risk, we shall allow this, while continuing to make all efforts to secure their future salvation.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CarrierFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Fighter pilots are extremely pious, dedicated to the Path like few others. This makes them not only incorruptible, but reliable sources of wisdom. We should listen to their ideas for improving our carriers.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighCapacityCarriers_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>New, compact fighters, along with our growing cabal of pilots who don't mind cramped quarters, will allow us to begin deploying high capacity carrier modules.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarLogistics_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The potential for corruption in our logistics department is incredible. If we are to have any hope of success, these must be the most pious Krynn, subject to the highest scrutiny.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LogisticalOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our newly established logistical seminaries are not only training a new generation of logistical workers, they're also coming up with surprising improvements we can implement to our existing operations.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LogisticalOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Relativistic travel creates a bookkeeping nightmare which mere faith does little to address. To counter this, we've developed a new system of record keeping, which should improve our logistical capacity.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LogisticalOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Mines will always be a breeding ground for corruption; the Krynn who choose to work there are almost always beyond salvation. Still, with the right management, we can contain the worst of the fraud and graft, indirectly increasing mining output.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LogisticalOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Shipyards are incredibly complicated operations, filled with people and groups that are all potential sources for inefficiency and corruption. Ensuring our shipyard managers are of the highest moral character should cut down on the waste somewhat.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FleetLogisticsTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Due to the many races which all achieved sentience on our home world, the Krynn cooperate like few other civilizations. So long as corruption can remain in check, our fleet logistical operations will remain the envy of the galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DeepSpaceLogistics_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>As our fleets grow, so does the challenge of supplying them. Although our starbases are staffed by faithful and honest Krynn, segments of the supply chain remain quite corruptible. We must redouble our efforts to ensure out fleets stay supplied.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GalacticLogistics_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Logistics is now perhaps the most respected career path within our civilization, all of its priests renowned for their piousness and incorruptible character, only responding to our (and the Secret Order's) bidding.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarMining_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Improved mining technology will ensure our mines produce more, even if so much of it is wasted by the wicked people who work there.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEfficiencyMining_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>After providing them the right training (and body armor) we've begun deploying loyal clerics to manage our mines, to both bring some measure of salvation to the scum that work there, and increase the output of goods which ultimately reach us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResourceExtraction_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Replacing our miners with resource extraction probes not only cuts back on the opportunity for theft, it will allow us to extract minerals found in concentrations once thought too low to be worth our time.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LosslessMining_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Miniaturized resource extraction probes allows for almost perfectly lossless resource extraction. Even the rarest resources can feasibly be targeted for extraction now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarfareTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Inquisition</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarfareTech_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The galaxy is filled with closed minds. When our words fail us, we will have to introduce the Path to these heretics by force. Our own salvation depends on it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WeaponsSystemsTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Researchers sworn to the Shadow Path have a certain knack for weapon design, and have developed basic weapons for our ships. A valuable group, although due to their flexible morals, they must be segregated from our regular research communities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WeaponsSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our weapons researchers recommend we dedicate our efforts on a specific field of weapons technology, which will make it easier to develop more destructive weapons. These followers of the Shadow Path are a bloodthirsty lot.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeapons_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>There is something pure, even beautiful about beam weapons. Even an initiate on the Path can see the allegory in the manner they illuminate with such fury. And our new beam weapons shall be even more illuminating.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our weapons researchers regularly push past boundaries more peaceful minds would stop at, their lust for destructive potential pushing the limits of our understanding of materials science. The results are hard to argue with though.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A new type of focusing crystal will make the arguments put forward by our beam weapons a bit more penetrating.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Frustrated by the expense of beam weapon development, our weapons researchers contacted some peers in the Secret Order to help provide relief. Suddenly, many of our suppliers are offering discounts on beam weapon components.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The troubled minds of our weapons researchers have come up with a way to make our beam weapons more mass-efficient without losing any of their destructive ability.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MatterDisruption_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>According to our weapons researchers, matter disruptors use a type of particle capable of disrupting the strong nuclear force. This meant little to us, but they promised it would make our vessels much more persuasive.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our weapons researchers have found several mistakes in their work on our beam systems. Their self-flagellation is not part of any Path we sanctify, but if it leads to improvements, we're willing to look the other way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>By using intelligent (but non-sentient) crystal growing processes, we can create focusing crystals capable of much higher energy throughputs, making all our beam weapons a bit stronger.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our weapons researchers have been instructed to take some of the mysticism out of the manufacture of beam weapons. Shorter, less elaborate ritual blessings, and more automation should reduce the cost of each unit.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Reducing the mass of our beam weapons' cooling equipment is a neat trick which our weapons researchers refuse to reveal how they accomplished. Some sort of industrial espionage seems likely, but we're not going to ask any questions.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlasmaProjection_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>We've going to stop asking our weapons researchers how these weapons work. This latest one uses plasma, that much we were able to decipher. We are blessed that these maniacs are on our side.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our weapons researchers warn that our weapons are nearing perfect efficiency. But the Path, even the Shadow Path, does not permit rest. They must always look to do better.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>One of our suppliers for plasma containment fields was not giving us the best possible price. Then after an unfortunate accident, he suddenly saw the error of his ways, lowering his prices and apologizing for his sins.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our beam weapons are now as mass efficient as this reality will allow us. To get around these limits, we will have to ascend to a higher plane. But by that point, we'll no longer need weapons at all.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyPhasing_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Phaser particles are the most confusing thing our weapons researchers have invented yet. This feels dangerously close to blasphemy, twisting the physical world in this way. But the Way must be spread.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DoomRayTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Doom Rays are a terrifying construct, more powerful than anything seen before. Even the Secret Order now worries about the sanity of our weapons researchers. Something will have to be done about them shortly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponAugmentation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Using a new ritual based on force fields, our weapons researchers have found a way to augment the beam output of an entire fleet. A blessed development, taking advantage of our people's natural affinity for cooperation.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyTransfer_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our weapons researchers, the clever fiends, have developed a system that makes our beams more effective against shields. A similar system is capable of absorbing unbeliever beam attacks.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyMagnification_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our beam weapons can now cut entirely through shields. The unbelievers will have nowhere to cower now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MissileWeapons_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Not only are these new missiles more destructive, their self-guiding capabilities neatly symbolize the guidance that the Path can provide even a simple mind.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MissileOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our weapons researchers have been busy demolishing asteroids with their new toys. A strange bunch, but it's not our place to question them, and the Secret Order seem pleased with the improvements they're finding for our missile systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MissileOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our weapons researchers have developed new launchers which can shoot more missiles. They insist, with wild, unfocused eyes, that such violence will help bring the Path to more minds.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MissileOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The Secret Order has always thought highly of missiles due to their cost effectiveness, allowing more resources to remain unspent and within their control. And now our missiles are a little bit cheaper again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MissileOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A simple redesign of our ammunition storage racks has cut down on the mass of our missile launchers. A small step, but long journeys always begin as small steps.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HarpoonTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Harpoon missiles will make a bigger explosion when they strike the hulls of unbelievers, lending more weight to our argument than mere words can.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarheadFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our weapons researchers have cloistered themselves in an explosives testing facility. There is a lot more laughter eminating than is befitting such a pious group, but they will ultimately be judged by their results.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarheadFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Lightweight warheads which use the newest generation of explosives should improve the effective range of our missiles, allowing our vessels to deliver sermons from further away.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarheadFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A new form of ultra-stable explosive should be cheaper to manufacture, as it will require less safeguards to protect the simple, honest Krynn who do the work.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarheadFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>With our new, lighter warheads, we can reduce the weight of each individual missile without compromising its ability to deliver potent arguments.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PhotonicWarheads_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Photonic warheads use a shell of photons to pierce the shields and armor of their target, making them more effective. A suiting metaphor for a well worked argument that slips pasts an unbeliever's defenses, finally opening their eyes.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PayloadMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our weapons researchers' brilliance is a troubling thing, constrained only by the limits set forth by the mysterious Path of Shadows. But the results cannot be argued with; Krynn warheads are now feared throughout the galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PayloadMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Missile manufacturing has finally been brought entirely under the control of suppliers preferred by the Secret Order. We should see reduced costs for all of our missiles.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PayloadMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>One of our weapons researchers' had the insight to replace the ammunition storage racks with force-field based containment, which should reduce the mass of each system. Her brilliance has already been rewarded by her shadowy masters.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PhotonTorpedos_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Photon torpedoes improve upon the piercing technology of previous warheads using some form of science. The weapons researchers speak in a strange language, so we just have to have faith in them when they say these will be more effective.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>NightmareTorpedoTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The Nightmare torpedo is proof that our weapons researchers have gone too far. Even the Secret Order blanches at their depravity. We shall still use their twisted invention, but solely as a last resort.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MissileAugmentation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our blessed weapons researchers have devised a system which will allow a ship or starbase to improve the missile tracking ability of an entire fleet. Such cooperation features heavily in many elements of the Path.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AdvancedMissileGuidance_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our missile systems should now fare better when penetrating the point defenses of unbelievers. And our missile cooperation and coordination systems have been improved as well.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IntelligentWarheads_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Semi intelligent warheads that cooperate can now neutralize point defense systems, leaving the unbelievers defenseless. And our missile cooperation systems have been blessed with even more power.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticWeapons_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Projectile weapons are simple, and already have many established doctrines within the Path on their proper usage. These new versions are even more powerful, and should provide a convincing final argument to those who resist seeing the beauty of the Way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our weapons researchers are conducting strange, scientific rituals on the energy delivery systems of our kinetic weapons. They promise this could lead to a number of improvements in these systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The cleverness of our weapons researchers has  found that by switching to a slightly smaller projectile and installing coils which cycle up more rapidly, we can fire projectiles a bit faster, extending the effective range of each weapon.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our electromagnet suppliers have decided to provide their wares to us at cheaper prices. They state this is to help spread the Way more rapidly, although we don't doubt some secular pressure was placed on them as well.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Some strange new winding of the electromagnetic coils results in lighter, more compact coils that are just as effective as before. Similar to the way the Shadow Path takes its own strange and winding path to achieve the same ends as us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PulseCannonTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Particles can be more effective than projectiles if we fire many of them at the same time. These pulse cannons have similar tactical characteristics as other kinetic weapons, so we won't have to update the components of the Path relevant to ship command.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticAccelerationFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A private company has developed a new form of superconductor. Elements of the Shadow Path have already "acquired" this technology, and provided it to our weapons researchers to help improve our kinetic weapons.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticAccelerationFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>These new superconductors will let us deliver energy upon our weapons more rapidly, resulting in higher speeds and a much longer effective range.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticAccelerationFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>These new superconductors mean our electromagnetic coils will require less cooling, reducing the cost of each unit.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticAccelerationFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our weapons researchers seem confident we can use these new superconductors to build smaller, more compact acceleration coils, resulting in more persuasive ability per unit of mass.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GravitonThrower_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The weapons researchers won't reveal to us what a graviton is, claiming the Path that we're on won't permit understanding of it. A troubling claim, but we can't deny the effectiveness of the weapons that make use of these new particles.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Krynn vessels are now renowned throughout the galaxy for the speed and force with which we can deliver enlightenment upon unbelievers. But our weapons researchers aren't done yet, and claim further improvements are still to come.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Huge portions of our superconductor industry are now infiltrated by Krynn who follow the Path of Shadows. The Secret Order now ensures that we will get the best possible price on all future kinetic weapon components.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Even our smallest vessels can now argue persuasively thanks to our weapons researchers' efforts to reduce the weight of our kinetic weapon systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>QuantumDrivers_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Quantum drivers strike unbelievers with mass that doesn't exist in this reality. Every plane of existence now supports our war to spread the Way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SingularityDrivers_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Singularity Drivers attack unbelievers with tiny black holes, destroying the souls trapped within. This is horrifying. We shall use these only as a last resort, and take immediate steps to restrain these weapons researchers and their twisted minds.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticAugmentation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Inertial dampening systems will allow Krynn ships equipped with the right modules to cooperate, boosting the range of their kinetic weapons. Our arguments shall become stronger together.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MassManipulation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our kinetic weapons can now generate ultra-dense outer surfaces to make them more effective at countering unbeliever armor systems. And our fleet kinetic cooperation systems have been improved again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InertialMagnification_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>We can now crack the armor of the unbelievers entirely, leaving them defenseless against our reasoning. And our natural affinity for cooperation has found ways to improve upon our fleet kinetic support systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MilitarySpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The portions of the Path which governs the Krynn in charge of our military can be adjusted in small ways to direct their efforts toward areas that require special attention.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MilitarySpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A specialized branch of the Path, designed just for soldiers, will give them more time to train without compromising their spiritual obligations.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MilitarySpecialization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>By making the requirement for civic duty and defense an integral part of the Path, our colonists will be able to turn into more effective militias if the unthinkable happens and the unbelievers arrive at our door.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MilitarySpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>By training our population in basic resistance tactics, we can help them be ready for anything. A prepared population can often be the difference between victory and defeat when invaded.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetaryInvasion_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>When unbelievers cower on their planets, spouting their blasphemies, we shall have to get up close to show them the error of their ways. Tactics and equipment to land on a world and take it by force will be necessary.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InvasionOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The Way must be accepted by all sentient beings for us to achieve salvation. That can be accomplished by persuasion and argument. Or it can be accomplished by making less sentient beings.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InvasionOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Dropping something very heavy and very fast on someone is not a great way to persuade them of your righteousness. But it is a good way to convince any survivors who witnessed it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InvasionOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Information warfare saps the ability of unbelievers to coordinate their ground defenses. If they refuse to see the truth of the Way after that, then they deserve what happens to them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InvasionOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>There can be no equivocation: we must convert all life to the Way. If a being refuses to do so, they have no place in the galaxy, and even tactics like biological warfare become permitted by the Path. Their death will lead to our salvation.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>StallerMarines_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>If we can identify and select our most pious soldiers, then give them extra training and spiritual guidance, they'll become far more effective when fulfilling their sacred duties spreading the Way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GravitationalFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our weapons researchers have developed tools which allow us to manipulate gravitational fields. These horrible weapons should only be used when all other forms of persuasion have failed.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GravitationalFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>If we induce flooding we can drown unbelievers and crush their defenses before having to risk any of our own souls. The weakened fools will prove far less resistant to conversion then.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GravitationalFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Inducing volcanic and tectonic activity sends a clear sign to unbelievers: even the forces of nature bow before the glory of the Way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DroneSoldiers_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Smart (but non-sentient) drone soldiers provide more persuasive ability than conventional troops, without needing to risk Krynn souls to deliver it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AdvancedInvasionTactics_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>High density troop transports will allow us to deliver more persuasive ability to the homes of unbelievers faster than ever before.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>Fortification_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>We can't assume the unbelievers will accept the truth without struggle. We must ensure our own colonies are capable of defending against the blind thrashings of these closed minds.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>When the unbelievers come to our homes, we can't pretend that they will fight honorably. We must develop defenses to counter their sinister devices.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>If we bury infrastructure and our most vital spiritual structures, we can provide our civilians and soldiers sanctuary from orbital bombardment, limiting its effectiveness.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The devout Krynn blessed with minds capable of manipulating computers have found a number of ways to harden them against unbeliever attacks.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Biological attacks are horrific and we our fortunate our blessed researchers have devised a form of adaptive vaccine which should protect against the worst the unbelievers can throw against us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalDefencePlatform_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Orbital defense platforms shall halt the unbelievers in space, long before they can menace the sanctity of our colonies.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetaryDefenseDome_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Thanks to shields, strengthening fields, and sacred hardening rituals, we're now capable of developing domes which will protect against almost all forms of orbital bombardment.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefenseSystemTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>We must protect the lives of the Krynn who crew our vessels. Theirs is the hardest, most critical task in our mission to spread the Way, and they deserve nothing less.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>We've set up a separate team of devoted researchers to devise ways to protect against the weapons our devious weapons researchers are coming up with. Already these blessed minds are finding ways to improve upon their work.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveSpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our defensive researchers have found a more efficient arrangement of shield generators which should reduce the costs of assembling our shields.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveSpecialization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Increasing the firing rate of our point defense systems is a simple but effective means of increasing their effectiveness. The Path states that simple solutions are often the best ones.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveSpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our defensive researchers have modified the way our armor panels are made, which should make them easier to fit to our ships, reducing overall armor weight.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Shields are a vast improvement over earlier deflector fields, and will provide our crews sanctuary against even the most violent attacks.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Thanks to the diligent work of our defensive researchers, our shields continually get better. Their work is a shining example of what minds that follow the Path are capable of.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Larger, more robust field emitters, ritually blessed upon installation, should improve the strength of our shield systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our shield systems are made by a variety of suppliers, not all of whom are as devoted to spreading the Way as they should be. We've asked our contacts in the Secret Order to convince them to lower their prices using more secular means.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our defensive researchers have found a way to slim down the field emitters used by our shield systems, resulting in lower mass shields. Now our ships can carry additional shields, or, if necessary, more persuasive equipment.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BarrierFieldGeneration_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Barrier Fields improve earlier shields by absorbing a portion of the energy which strikes them. The parallel with our ability to absorb new species into our civilization is delightful, a sure a sign as we need that our Way is the one true Way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BarrierSystemFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our defensive researchers are ashamed of themselves due to several oversights in the implementation of our Barrier Fields. After their self-cleansing ritual concludes, they promise to upgrade these systems immediately.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BarrierSystemFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our earliest Barrier Fields used an improperly specified form of capacitor in the energy absorption system. Replacing these with the proper model should result in significantly more resilient shields.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BarrierSystemFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our defensive researchers report that our shield generators can be made for far cheaper than they already are. The Secret Order promises to contact the vendors and investigate the source of this discrepancy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BarrierSystemFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>New forms of superconductor recently acquired by our weapons researchers can also be used to make our shields much less bulky, thanks to their less extensive cooling requirements.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ForceFieldTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our newest shields use a scientific ritual to direct energy to the portion of the shields which requires it the most. An excellent metaphor for the way the Path teaches us to spread the Way in the direction of those that need it the most.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The shields of Krynn vessels are famed throughout the galaxy, even the unbelievers unable to deny their effectiveness. But there is no end to the Path, and our defensive researchers continue to look for ways to improve upon their excellence.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>We have only a limited amount of resources, and many needs that require them. As vital as our shields are, if they can cost less, that would be something to be thankful of.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Denser, more compact shields mean we can install more of them on the vessels that need them most, the ones spreading the Way to the most closed minds.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InvulnerabilityTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Krynn vessels are now all but invincible. Our faithful crews never knew fear before, and with these new shields, they'll never have to.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldSupportSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>New technology which allows us to augment shields at a distance will allow Krynn vessels to cooperate in combat situations in the same manner with which Krynn cooperate in their daily lives.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldAugmentation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our shield cooperation systems have been improved yet again, incorporating the absorption properties of our Barrier Field systems. Few unbelievers will dare menace a Krynn fleet now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldManipulation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Shields will provide no sanctuary for the unbelievers now, thanks to our new systems capable of interfering with their shield systems. Additionally, our own shield support systems have been blessed with more power.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenses_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Point defenses use tiny railguns to protect against the missiles fired by unbelievers. We should not place all of our faith in them however, as they are of limited use against other forms of weapons.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our point defense systems are still primitive, with much room for improvement. As our defensive researchers become more enlightened about their capabilities, we should see some positive changes.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A new type of firing pattern will make our point defenses more accurate and capable of defending the lives of our brave crews.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>There is no excuse for suppliers to overcharge us on defensive equipment. It is a moral obligation of every Krynn to protect their brothers. We will ask the Secret Order to vigorously remind our vendors of their civic and moral duties.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A new form of point defense, using smaller slugs and railguns will prove just as effective against unbeliever missile attacks, while saving weight for our vessels to carry other equipment.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CounterMeasures_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Electronic counter measures provide an unseen form of sanctuary against missiles, confusing and distracting them from their sinister purposes.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CounterMeasureFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our defensive researchers have been working tirelessly on our counter measure systems, a labor made easier by the knowledge that their efforts will save the lives of other Krynn.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CounterMeasureFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The researchers who work on ECM suites hare developed new computing rituals which should improve the performance of those systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CounterMeasureFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our defensive researchers have discovered which of our ECM rituals were most effective. By stripping the ineffective modules from these suites, we can reduce the costs of these units.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CounterMeasureFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our first ECM suites were assembled very inefficiently. Some sermons on the virtue of effort and competent work should help convince those workers to mend their ways, reducing the mass of those vital pieces of equipment.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DroneSentrySystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Drones that have been provided with specially anointed point defense equipment will be able to intercept unbeliever missiles long before they threaten our own vessels.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DroneSystemMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Drones, despite lacking sentience, are our most faithful warriors, tirelessly working to protect the lives of Krynn crews. Our defensive researchers adore them, and work almost as energetically to make them more capable.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DroneSystemMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A new form of aiming ritual implemented by our drones should reduce the total amount of computing power they require without affecting their accuracy. The cost savings could be significant.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DroneSystemMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>New lightweight composites and force field based containment will make our drone systems lighter, and easier to install in even our smallest vessels.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArreonMissileDefenseTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Aereon drones use our most advanced railguns, ECM, and chafe to defend our vessels. Even the most aggressive of the close minded species will have trouble getting past these.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseSupportSystem_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The tracking systems used by point defenses can be supplemented by a module carried by another Krynn vessel. As always, the Krynn shall be stronger together than apart.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseAugmentation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our cooperative point defense modules can now use a form of wide-area counter measure to confuse unbeliever missiles. If only the unbelievers could be so easily led astray themselves.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseManipulation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Fleet-wide drone systems add point defenses to ships that would normally be left vulnerable. And our new counter-counter measures will more easily penetrate the flimsy counter arguments offered by unbeliever point defense systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Armor is a simple solution to a complicated problem, much in the same way that an individual who starts along the Path finds that all of life's complications seem far more manageable.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our armor will never be good enough, not as long as there are still hostile unbelievers in this galaxy. Our defensive researchers must do everything in their power to improve upon their work.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A miraculous insight has allowed one of our defensive researchers to devise a form of armor panel denser than previous versions. All of our vessels will now be a little safer.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The Krynn who manufacture armor are common folk, barely capable of keeping on the Path. We shall have to manage them closely to ensure their time isn't wasted, and our armor is made as cheaply as possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>No amount of faith can make armor anything but what it is: heavy. But if we improve the mounting, fit and placement of our armor panels, our defensive researchers believe we should be able to minimize the weight somewhat.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DurantiumCompositeTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Durantium composites are the latest invention our blessed defensive researchers have delivered unto us. Our ships and crews will now be far more resilient when presenting our beliefs to the unbelievers.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>As our armor systems become more complicated, only our most enlightened, most pious researchers can keep up with the science involved. But this winnowing process makes it easier for good ideas to rise to the top.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A new form of lamination has been found to make our armor far more resilient. It is much like the way that brief but regular study of the Path can gird an individual for the challenges of life.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>There is no room for profit in the production of armor, not when Krynn lives are at stake. We've asked our contacts in the Secret Order to ensure that no armor is lost to graft or other form of blasphemy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A brilliant young researcher has found a new arrangement of Durantium which is lighter than previous versions but just as resilient. His brilliance has saved Krynn lives and brought salvation just a bit closer.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KanviumLaminateTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Kanvium lamination allows our armor to turn into a fluid when confronted by unbeliever energy. The way it absorbs abuse then recovers its shape calls to mind the way the Path allows Krynn to adapt to the various trials of life.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Krynn vessels are as sturdy and reliable as any in the galaxy, protected by armor imbued with the faith of an entire people. And still our diligent defensive researchers work to make it better.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>By cooperating more fully with our ship designers - a simple task for our kind - we can ensure our ship designs allow for easy installation of armor, reducing the cost by some margin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>There is only so much mass you can remove from armor before it's not armor any more. We've taken all we can. The Path never stops, but in this field at least, it will now slow to a crawl.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ZeroPointArmorTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Zero point armor uses energy from the quantum vacuum itself to repulse unbeliever attacks. There is strange science at work here, and if it were anyone other than our devout defensive researchers offering it, we'd mistrust it deeply.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorSupportSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Force fields that induce hardening effects can allow a Krynn vessel to strengthen all of its peers. Which seems a very Krynn thing for one of our vessels to do.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorEnhancement_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our defensive researchers have discovered a new strengthening ritual that our armor support systems can use to increase their hardening effects.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IntegrityFieldProjection_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our armor strengthening fields can now do the exact opposite to the unbelievers, weakening their armor, making them more open to persuasion. And the same brilliance has made our own ships stronger again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CommunicationsTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Evangelism</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TranslatorTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>We will not experience salvation until all sentient life has been shown the Way. Universal Translators are the first and most crucial step on this Path, allowing us to set our neighbors down their own Path to enlightenment.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>By studying the history and culture of the unbelievers who surround us, we might better understand them, and more ably convince them to join the Path.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticSpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Peaceful relations are ideal for spreading the Way. We should do all we can to establish healthy relationships with our neighbors before they can close their minds to us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarGovernance_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Governing a civilization whose distant outposts are many weeks of travel away is a challenge we must tackle head on. If we expect to win the entire galaxy, we can't lose hold of our own people.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Throughout our history, the Krynn have experienced a wide variety of governments. All have been acceptable, so long as the goal that they aim for remained the same.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalSpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Federalist governments share much of the power with local governments. This encourages economic development, and thanks to the influence of our peers in the Secret Order, results in little loss of practical control for us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalSpecialization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Populist governments make the people happy above all other activities. A noble intent, although we do have loftier goals than ensuring happiness in this realm. On the plus side, representatives from these governments make very convincing diplomats.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalSpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Universalist governments strike a balanced approach to governance, with no notable strengths or weak spots. A natural form for the Krynn, considering our history is filled with examples of cooperation between the disparate species of our own world.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GalacticGovernance_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A Galactic Republic will improve efficiency and contentment, and provide an ideal platform from which we can spread the Way further.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Installing a new political theory in our people is a trivial thing, requiring only new instructions be delivered to our clergy on how best to guide their flocks on the new branch of the Path we're setting down.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>An Industrialist government will lead our people on a Path committed to hard work and quality, improving the production potential of our entire civilization.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A Mercantilist approach to governance will boost our coffers through trade, both the fair and unfair kind. The Secret Order salivate at the increased opportunity for espionage all this trading will permit.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The Krynn are not naturally inclined to studies of the physical world, but we cannot assume the unbelievers of this galaxy will be the same way. A Technologist Party will ensure we don't fall too far behind.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarDemocracyTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>An Interstellar Democracy will allow our people to pick, after a fashion, their own leaders. That their leaders will be pre-selected by the Secret Order is a small matter, which won't hurt the benefits we expect this form of government to provide.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>So great are our powers of persuasion that we can now steer the minds of our people to either extreme of morality with incredible ease.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>When the unbelievers of the galaxy close their minds to us, we will be presented with no choice but to convert them to the Path forcefully. When it comes to this, we must be sure every single Krynn stands behind us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our words travel farther when people like us, and a commitment to peaceful relations and social welfare does just that. The Pacifist party can win minds like few others.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>StarFederationTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A Star Federation is perfect, using every organizational strategy our people have discovered to govern a galactic civilization with the bare minimum of waste. As close to perfection as mortals in this realm can achieve, anyways.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomacyTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The closer our relations with our neighbors, the easier it will be to lead them on the Path. Embassies and treaties are the first step of many to come.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>All treaties encourage peaceful relations, making them ideal for influencing our neighbors spiritual lives. But some treaties have other, more secular effects, which we'd do well to consider.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Economic treaties will encourage increased economic activity between us and our neighbors, activity which our peers in the Secret Order can take advantage of.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A cultural treaty is ideal for our purposes, easing the flow of scripture and ideas between us and our neighbors, making them more open to accepting the Path into their lives.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Formal research treaties will increase our own research potential, allowing our neighbors to enrich us with knowledge of the physical world in the same way we shall enrich them spiritually.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarAlliances_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Formal alliances will tie us closer to our neighbors, increasing the opportunity we'll have to show them our ways and lead them on to the Path.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AllianceFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>We should consider what our neighbors can offer us when forming alliances with them. Although bringing them on to the Path is the long term goal, we will have many intermediate goals along the way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AllianceFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Military alliances will give our forces a much needed edge when bringing light to the unbelievers. Manipulating an ally into doing the hard work is a time-honored tradition in Krynn history.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AllianceFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A technological alliance will allow us to make full use of a neighbor's scientific expertise, providing us rapid access to the tools we need to spread the Way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AllianceFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>An ally with the wisdom to form a cultural alliance with us will soon find the inner peace that comes to all who set down the Path.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EminenceTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our reputation for wisdom has spread throughout the galaxy. Any bargaining table we find ourselves at soon begins slanting in our direction.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MajestyTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The Way now sells itself, and so perfect a spiritual life do our people live that people throughout the galaxy clamor to join the Path themselves.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>StellarEmigration_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>All Krynn, regardless of training, understand the importance of teaching others how to walk the Path. We should do everything in our power to enable our people to travel the galaxy spreading the truth.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalAssimilation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>New arrivals to our colonies, even those just passing through, must be introduced to the Path as quickly as possible, in the manner they're most receptive to. Assimilation centers will train the Krynn who do this vital work.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalDomination_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The Path is the only means of achieving salvation, and all who claim otherwise are heretics. With these latest cultural buildings, the light of the Path shall shine brightly on all of civilized space.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalAffinity_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The Way beckons us closer, as civilized minds throughout the galaxy begin their journey down the Path. On the horizon, the light of salvation rises.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CommerceSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>A representative from the Secret Order has approached us with some "suggestions" about how to improve our handling of the economy. Suggestions from this channel are often not suggestions at all.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CommerceSpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The Secret Order would like us to adjust the regulations affecting some very specific businesses which they presumably have an interest in. They promise this will lead to more funds for the treasury though, so a fair trade it would seem.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CommerceSpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Additional trade routes will allow our treasury to grow faster, and give the Secret Order an additional avenue for pursuing their own type of profit.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoEconomics_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>New economic buildings will provide the marketplaces our private sector require to make their transactions, and, indirectly, provide our masters in the Secret Order more transactions to skim.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarBanking_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The limited speed of communication across our vast civilization has opened the door to new types of fraud. New economic structures will help eliminate or at least bring this fraud under our control, boosting our economic income.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EconomicFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The Secret Order has provided us with a list of economic initatives they'd like us to persue. We don't have to do everything on this list, but they promise that whatever we do will be worth our while.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EconomicFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The Secret Order recommends we increase trading activity, which will increase our treasury at the same time it provides cover for their own "trading" activities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EconomicFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>If we give the say-so, the Secret Order can deploy its members to the worlds of our neighbors, gathering information that we can use to our advantage during trade negotiations.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EconomicFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Visitors to our worlds should be coming for spiritual enlightenment, not amusements. But when the close-minded refuse to see the Path in front of them, we might as well profit as much as we can from their visit.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FinancialSectorsTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The complexity of our secular financial sector is baffling to us. But the Secret Order assure us it will lead us to the Way, and that new financial structures will arrive us there sooner.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GalacticStockMarket_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Letting businesses from across the galaxy trade portions of themselves in our stock markets is a confusing idea. The profits that flow our way are substantial, but is this really leading us towards salvation?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarTrade_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Trade provides an opportunity to enrich ourselves from the appetites our neighbors have for our goods. The Secret Order thrive on trading like this, and encourage us to actively pursue it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TradeOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Trading is a secular activity, one enlightened Krynn have little to do with. But the Secret Order have many ideas how we could adjust our trading activites to our benefit. And, no doubt, to theirs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GalacticTrade_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Fixed trading hubs will not only increase our ability to trade, they'll ensure that more goods pass within sight of the Secret Order and their sticky hands.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TradeFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>No longer satisfied by their regular profiteering, the Secret Order is now encouraging us to restructure our trading activities to target specific economic sectors.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GalacticFacilitation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>As our trading ports grow ever larger, we see now the wisdom of such trade. These funds, which would have gone to waste in the hands of the unbelievers, can be used to bring the Path right back to their doorstep.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TradeMasters_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Our trade empire is almost complete, every corner of the galaxy now tapped by members of the Shadow Path for potential profits. Our latest trading facilities will only extend our fingers further.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GalacticCruseLines_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Sadly, many of the visitors to our planets are not setting down the Path as quickly as we'd hoped. They spend money here, which is fine. But we need more. Perhaps some new facilities can convince them to stay longer.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WondersoftheGalaxy_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>The crowds are growing, and word of the natural beauty of Krynn worlds is spreading. We're beginning to see changes in their attitude as well and foresee that the Path will soon have many new travelers on it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PilgrimageTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Every sentient mind in this galaxy understands the importance of the Krynniac faith, and even if they have yet to set down the Path themselves, will make a point of visiting here at least once in their lives.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Expansion</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationTech_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>We cannot remain on the homeworld indefinitely if we hope to spread the Way to every sentient being in the galaxy. We must expand.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoIndustrializationTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Adapting even our most basic technology to work on alien worlds is a serious challenge. But no challenge is too great for a people infused with our inner strength.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+</FlavorTextDefs>

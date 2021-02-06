@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- CampaignText.XML -->
+ 
+  <StringTable>
+    <Label>DreadLords_DreadLords_Name</Label>
+    <String>Dread Lords Return</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DreadLords_DreadLords_Dec</Label>
+    <String>A dormant Dread Lord colony has awoken. Stop them before they become too powerful and wipe out all life in the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DreadLords_DreadLords_ShortDec</Label>
+    <String>A dormant Dread Lord colony has awoken. Stop them before they become too powerful and wipe out all life in the galaxy.</String>
+  </StringTable>
+ 
+</StringTableList>

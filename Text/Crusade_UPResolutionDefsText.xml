@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+
+  
+  <StringTable>
+    <Label>TechnologyOutreach_Name</Label>
+    <String>Technology Outreach</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>TechnologyOutreach_Dec</Label>
+    <String>We cooperating together all civilizations will be able to finish their current research project</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>TechnologyOutreach_Question</Label>
+    <String>Should everyone get their current research project completed?</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>ANewHomeWorld_Name</Label>
+    <String>Xendar Homeworld</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>ANewHomeWorld_Dec</Label>
+    <String>The Xendar's homeworld was destroyed many years ago. Since then, they have sought a new world.  At last, we have found a suitable planet for them to settle on.  Should they be given a homeworld?</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>ANewHomeWorld_Question</Label>
+    <String>Should the Xendar be given a planet?</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>ThuliumNeeded_Name</Label>
+    <String>Thulium Needed</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>ThuliumNeeded_Dec</Label>
+    <String>There is a definite shortage of Thulium in the galaxy. This proposal requires us to use all our resources to convert 5 dead worlds into Thulium.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>ThuliumNeeded_Question</Label>
+    <String>Should 5 dead worlds be converted to Thulium?</String>
+  </StringTable>
+  
+</StringTableList>

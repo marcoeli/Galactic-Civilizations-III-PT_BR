@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- CampaignText.XML -->
+ 
+  <StringTable>
+    <Label>RevengeoftheSnathi_Name</Label>
+    <String>Revenge of the Snathi</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RevengeoftheSnathi_Revenge_Name</Label>
+    <String>Revenge of the Snathi</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RevengeoftheSnathi_Revenge_Dec</Label>
+    <String>Lead the merciless Snathi race as they break free of the prison world that has held them for millennia. Guide them as they seek revenge against the races that vanquished their gods, The Dread Lords.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RevengeoftheSnathi_Revenge_ShortDec</Label>
+    <String>Lead the merciless Snathi race as they break free of the prison world that has held them for millennia. Guide them as they seek revenge against the races that vanquished their gods, The Dread Lords.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RevengeoftheSnathi_Revenge_Snathi_DLC_SNATHI_Name</Label>
+    <String>Snathi Revenge</String>
+  </StringTable>
+  <StringTable>
+    <Label>RevengeoftheSnathi_Revenge_Snathi_FACTION_TERRAN_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>RevengeoftheSnathi_Revenge_Snathi_FACTION_DRENGIN_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+  <StringTable>
+    <Label>RevengeoftheSnathi_Revenge_FACTION_SNATHI_WARDENS_Name</Label>
+    <String>Arnoran Wardens</String>
+  </StringTable>
+  <StringTable>
+    <Label>RevengeoftheSnathi_Revenge_FACTION_PIRATES_Name</Label>
+    <String>Space Pirates</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RevengeoftheSnathi_Revenge_CaptureTheRevenge_Message</Label>
+    <String>Capture the T.A.S. Revenge III</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RevengeoftheSnathi_Revenge_SurveyArea_Message</Label>
+    <String>Survey Area</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RevengeoftheSnathi_Revenge_DefeattheWardens_Message</Label>
+    <String>Defeat the Wardens (Optional)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RevengeoftheSnathi_Revenge_ColonizeStepstone_Message</Label>
+    <String>Colonize Stepstone (Optional)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RevengeoftheSnathi_Revenge_DestroyTerrans_Message</Label>
+    <String>Wipe out the Terrans (Optional)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RevengeoftheSnathi_Revenge_SnathiPrime_Message</Label>
+    <String>Recapture Snathi Prime</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RevengeoftheSnathi_Revenge_DestroyDrengin_Message</Label>
+    <String>Destroy the Drengin (Optional)</String>
+  </StringTable>
+ 
+</StringTableList>

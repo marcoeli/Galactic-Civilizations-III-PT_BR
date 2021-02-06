@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- ShipClassText.xml -->
+ 
+<!-- Ship Name -->
+ 
+  <StringTable>
+    <Label>XendarScout_Class_Name</Label>
+    <String>Scout</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarScout_Dec</Label>
+    <String>Unarmed but quick, with excellent Sensor Range. It will lose every fight it gets into, so try not to get it into any.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarScout_Class_Name</Label>
+    <String>ProtoType Scout</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarScout_Dec</Label>
+    <String>With the help of a Promethion augmented Hyper Drive, this scout is faster than anything we have been able to build in the past.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarSniper_Class_Name</Label>
+    <String>Sniper</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarSniper_Dec</Label>
+    <String>Short range and kitted out for beam combat. A nasty little slicer.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarSniper_Class_Name</Label>
+    <String>Prototype Assassin</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarSniper_Dec</Label>
+    <String>This deadly short range ship uses an Elerium powered Prototype  Weapon, giving it the firepower  of a much larger vessel.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarSniper_Class_Name</Label>
+    <String>Sniper</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarSniper_Dec</Label>
+    <String>Short range and kitted out for beam combat. A nasty little slicer.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarBomber_Class_Name</Label>
+    <String>Bomber</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarBomber_Dec</Label>
+    <String>Short range and set up for missile combat. A mean little torpedo boat.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarBomber_Class_Name</Label>
+    <String>Prototype Bomber</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarBomber_Dec</Label>
+    <String>Short range but equipped with powerful Prototype antimatter missile.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarBomber_Class_Name</Label>
+    <String>Bomber</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarBomber_Dec</Label>
+    <String>Short range and set up for missile combat. A mean little torpedo boat.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarGuardian_Class_Name</Label>
+    <String>Guardian</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarGuardian_Dec</Label>
+    <String>Short-range, optimized for kinetic combat. An ornery little stone thrower.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarGuardian_Class_Name</Label>
+    <String>Prototype Guardian</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarGuardian_Dec</Label>
+    <String>Short-range but equipped with a Prototype Durantium Driver.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarGuardian_Class_Name</Label>
+    <String>Guardian</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarGuardian_Dec</Label>
+    <String>Short-range, optimized for kinetic combat. An ornery little stone thrower.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarKnight_Class_Name</Label>
+    <String>Knight</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarKnight_Dec</Label>
+    <String>Short-range but versatile. Equipped with Thulium Hull Reinforcement it can really take a beating.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarKnight_Class_Name</Label>
+    <String>Knight</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarKnight_Dec</Label>
+    <String>Short-range but versatile. Equipped with Thulium Hull Reinforcement it can really take a beating.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarAssaultFighter_Class_Name</Label>
+    <String>Assault Fighter</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarAssaultFighter_Dec</Label>
+    <String>Fast and deadly. Designed to get to the enemy fast and take out high value targets.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDroneInterceptor_Class_Name</Label>
+    <String>Drone Interceptor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDroneInterceptor_Dec</Label>
+    <String>Remotely piloted and designed for close-range combat. Seeks out and destroys enemy Support ships.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarGuardianFighter_Class_Name</Label>
+    <String>Guardian Drone</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarGuardianFighter_Dec</Label>
+    <String>Tiny but tough, these drones will defend your Support Ships to the end.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarSurvey_Class_Name</Label>
+    <String>Prototype Survey</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarSurvey_Dec</Label>
+    <String>A small, light ship capable of surveying anomalies thanks to a Prototype Survey module.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarExplorer_Class_Name</Label>
+    <String>Explorer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarExplorer_Dec</Label>
+    <String>Unarmed but quick, dedicated to exploration and not much else. A runner, not a fighter.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCutter_Class_Name</Label>
+    <String>Battle Axe</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCutter_Dec</Label>
+    <String>Mid range ship set up for Beam Weapons and Shields. It's earned its name.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarCutter_Class_Name</Label>
+    <String>Axe-R</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarCutter_Dec</Label>
+    <String>Mid range ship set up for Beam Weapons and Shields. It's earned its name.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCutterL_Class_Name</Label>
+    <String>Battle Axe</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCutterL_Dec</Label>
+    <String>Equipped with a Rapid Beam Recharger, for a faster rate of fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarCutter_Class_Name</Label>
+    <String>Battle Axe</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarCutter_Dec</Label>
+    <String>Mid range ship set up for Beam Weapons and Shields. It's earned its name.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDefender_Class_Name</Label>
+    <String>Defender</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDefender_Dec</Label>
+    <String>Mid range missile boat, set up with Point Defenses. Packs a punch.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarDefender_Class_Name</Label>
+    <String>Defender-R</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarDefender_Dec</Label>
+    <String>Mid range missile boat, set up with Point Defenses. Packs a punch.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarDefender_Class_Name</Label>
+    <String>Defender</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarDefender_Dec</Label>
+    <String>Mid range missile boat, set up with point defenses. Packs a punch.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDefenderL_Class_Name</Label>
+    <String>Defender</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDefenderL_Dec</Label>
+    <String>Equipped with a Missile Weapon Assister, for a faster rate of fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIXendarDefenderL_Class_Name</Label>
+    <String>Defender</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIXendarDefenderL_Dec</Label>
+    <String>Equipped with a Missile Weapon Assister, for a faster rate of fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarGunboat_Class_Name</Label>
+    <String>Gunboat</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarGunboat_Dec</Label>
+    <String>Mid range shootist, arrayed with Kinetic Weapons and armor. A mean, mean ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarGunboat_Class_Name</Label>
+    <String>Prototype Gunboat-R</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarGunboat_Dec</Label>
+    <String>Mid range shootist, arrayed with Kinetic Weapons and armor. A mean, mean ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarGunboatL_Class_Name</Label>
+    <String>Gunboat</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarGunboatL_Dec</Label>
+    <String>Equipped with a Rapid Reload system, for a faster rate of fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarGunboat_Class_Name</Label>
+    <String>Gunboat</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarGunboat_Dec</Label>
+    <String>Mid range shootist, arrayed with Kinetic Weapons and armor. A mean, mean ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarFury_Class_Name</Label>
+    <String>Fury</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarFury_Dec</Label>
+    <String>Medium range ship, capable of all forms of combat, though excelling at none. Still pretty tough though.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarFury_Class_Name</Label>
+    <String>Fury</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarFury_Dec</Label>
+    <String>Medium range ship, capable of all forms of combat, though excelling at none. Still pretty tough though.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarSurvey_Class_Name</Label>
+    <String>Survey</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarSurvey_Dec</Label>
+    <String>A long ranged vessel suited for mapping the stars and running away from things.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HeavyXendarSurvey_Class_Name</Label>
+    <String>Heavy Survey</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HeavyXendarSurvey_Dec</Label>
+    <String>A Better armed and armored survey ship, for when discovery gets dangerous. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCorvette_Class_Name</Label>
+    <String>Corvette</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCorvette_Dec</Label>
+    <String>Medium size beam-warfare ship. If you need a lot of things burnt very quickly, this is your ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarCorvette_Class_Name</Label>
+    <String>Corvette-R</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarCorvette_Dec</Label>
+    <String>Medium size beam-warfare ship. If you need a lot of things burnt very quickly, this is your ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCorvetteL_Class_Name</Label>
+    <String>Corvette</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCorvetteL_Dec</Label>
+    <String>Equipped with a Rapid Beam Recharger, for a faster rate of fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCorvetteP_Class_Name</Label>
+    <String>Corvette</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCorvetteP_Dec</Label>
+    <String>Equipped with a Energy Accelerator, That boost the range of all Beam Weapons on the ship substantially.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarCorvette_Class_Name</Label>
+    <String>Corvette</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarCorvette_Dec</Label>
+    <String>Medium size beam-warfare ship. If you need a lot of things burnt very quickly, this is your ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarRanger_Class_Name</Label>
+    <String>Ranger</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarRanger_Dec</Label>
+    <String>Medium size missile-warfare ship. Can put a lot of missiles into space very quickly.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarRanger_Class_Name</Label>
+    <String>Ranger-R</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarRanger_Dec</Label>
+    <String>Medium size missile-warfare ship. Can put a lot of missiles into space very quickly.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarRangerL_Class_Name</Label>
+    <String>Ranger</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarRangerL_Dec</Label>
+    <String>Equipped with a Missile Weapon Assister, for a faster rate of fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarRangerP_Class_Name</Label>
+    <String>Ranger</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarRangerP_Dec</Label>
+    <String>Equipped with a Slingshot Booster, giving the ships Missile Weapons a substantial boost in range.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarRanger_Class_Name</Label>
+    <String>Ranger</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarRanger_Dec</Label>
+    <String>Medium size missile-warfare ship. Can put a lot of missiles into space very quickly.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarFrigate_Class_Name</Label>
+    <String>Frigate</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarFrigate_Dec</Label>
+    <String>Medium size kinetic-warfare ship. The larger the slug-thrower, the larger the slugs.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarFrigate_Class_Name</Label>
+    <String>Frigate-R</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarFrigate_Dec</Label>
+    <String>Medium size kinetic-warfare ship. The larger the slug-thrower, the larger the slugs.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarFrigateL_Class_Name</Label>
+    <String>Frigate</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarFrigateL_Dec</Label>
+    <String>Equipped with a Rapid Reload system, for a faster rate of fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarFrigateP_Class_Name</Label>
+    <String>Frigate</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarFrigateP_Dec</Label>
+    <String>Equipped with a Kinetic Accelerator, That boost the range of all Kinetic Weapons on the ship substantially.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarFrigate_Class_Name</Label>
+    <String>Frigate</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarFrigate_Dec</Label>
+    <String>Medium size kinetic-warfare ship. The larger the slug-thrower, the larger the slugs.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarPaladin_Class_Name</Label>
+    <String>Battle Hammer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarPaladin_Dec</Label>
+    <String>Medium size combat ship of balanced capabilities. Could form the backbone of any fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarPaladin_Class_Name</Label>
+    <String>Battle Hammer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AIDefenseXendarPaladin_Dec</Label>
+    <String>Medium size combat ship of balanced capabilities. Could form the backbone of any fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCruiser_Class_Name</Label>
+    <String>Cruiser</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCruiser_Dec</Label>
+    <String>Large beam-combat platform capable of filling space with deadly, glittering colors.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarCruiser_Class_Name</Label>
+    <String>Cruiser-R</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarCruiser_Dec</Label>
+    <String>Large beam-combat platform capable of filling space with deadly, glittering colors.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCruiserL_Class_Name</Label>
+    <String>Cruiser</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCruiserL_Dec</Label>
+    <String>Equipped with a Rapid Beam Recharger, for a faster rate of fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCruiserP_Class_Name</Label>
+    <String>Cruiser</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCruiserP_Dec</Label>
+    <String>Equipped with a Energy Accelerator, That boost the range of all Beam Weapons on the ship substantially.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCruiserD_Class_Name</Label>
+    <String>Cruiser</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCruiserD_Dec</Label>
+    <String>Equipped with energy disrupting components, allowing ship to more efficiently cut though Shield Defenses.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDestroyer_Class_Name</Label>
+    <String>Destroyer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDestroyer_Dec</Label>
+    <String>Large missile-combat platform capable of spewing forth clouds of deadly missiles.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarDestroyer_Class_Name</Label>
+    <String>Destroyer-R</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarDestroyer_Dec</Label>
+    <String>Large missile-combat platform capable of spewing forth clouds of deadly missiles.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDestroyerL_Class_Name</Label>
+    <String>Destroyer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDestroyerL_Dec</Label>
+    <String>Equipped with a Missile Weapon Assister, for a faster rate of fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDestroyerP_Class_Name</Label>
+    <String>Destroyer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDestroyerP_Dec</Label>
+    <String>Equipped with a Slingshot Booster, giving the ships Missile Weapons a substantial boost in range.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDestroyerD_Class_Name</Label>
+    <String>Destroyer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDestroyerD_Dec</Label>
+    <String>Equipped with Cluster Warheads, that allow Missile weapons to take down Point Defense systems with 100% efficiency.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarBattleship_Class_Name</Label>
+    <String>Battleship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarBattleship_Dec</Label>
+    <String>Large kinetic-combat platform, capable of delivering massive amounts of kinetic energy to things it doesn't like.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarBattleship_Class_Name</Label>
+    <String>Battleship-R</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarBattleship_Dec</Label>
+    <String>Large kinetic-combat platform, capable of delivering massive amounts of kinetic energy to things it doesn't like.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarBattleshipL_Class_Name</Label>
+    <String>Battleship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarBattleshipL_Dec</Label>
+    <String>Equipped with a Rapid Reload system, for a faster rate of fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarBattleshipP_Class_Name</Label>
+    <String>Battleship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarBattleshipP_Dec</Label>
+    <String>Equipped with a Kinetic Accelerator, That boost the range of all Kinetic Weapons on the ship substantially.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarBattleshipD_Class_Name</Label>
+    <String>Battleship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarBattleshipD_Dec</Label>
+    <String>Equipped with Armor Piercing Rounds, That down armor rating at 100% efficiency.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarOverlord_Class_Name</Label>
+    <String>Overlord</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarOverlord_Dec</Label>
+    <String>Large combat vessel, versatile in nature. For the indecisive who still wants a nice big stick.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCarrier_Class_Name</Label>
+    <String>Carrier</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCarrier_Dec</Label>
+    <String>Carries fast and deadly assault fighters that seek to destroy high value enemy targets.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarAvatar_Class_Name</Label>
+    <String>Avatar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarAvatar_Dec</Label>
+    <String>Enormous vessel designed for beam combat. Doesn't play nice with others.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarAvatar_Class_Name</Label>
+    <String>Avatar-R</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarAvatar_Dec</Label>
+    <String>Enormous vessel designed for beam combat. Doesn't play nice with others.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarAvatarL_Class_Name</Label>
+    <String>Avatar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarAvatarL_Dec</Label>
+    <String>Equipped with a Rapid Beam Recharger, for a faster rate of fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarAvatarP_Class_Name</Label>
+    <String>Avatar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarAvatarP_Dec</Label>
+    <String>Equipped with a Energy Accelerator, That boost the range of all Beam Weapons on the ship substantially.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarAvatarD_Class_Name</Label>
+    <String>Avatar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarAvatarD_Dec</Label>
+    <String>Equipped with energy disrupting components, allowing ship to more efficiently cut though Shield Defenses.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarFortress_Class_Name</Label>
+    <String>Fortress</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarFortress_Dec</Label>
+    <String>Massive vessel designed for missile combat. So, so many missiles.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarFortress_Class_Name</Label>
+    <String>Fortress-R</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarFortress_Dec</Label>
+    <String>Massive vessel designed for missile combat. So, so many missiles.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarFortressL_Class_Name</Label>
+    <String>Fortress</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarFortressL_Dec</Label>
+    <String>Equipped with a Missile Weapon Assister, for a faster rate of fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarFortressP_Class_Name</Label>
+    <String>Fortress</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarFortressP_Dec</Label>
+    <String>Equipped with a Slingshot Booster, giving the ships Missile Weapons a substantial boost in range.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarFortressD_Class_Name</Label>
+    <String>Fortress</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarFortressD_Dec</Label>
+    <String>Equipped with Cluster Warheads, that allow Missile weapons to take down Point Defense systems with 100% efficiency.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDreadnought_Class_Name</Label>
+    <String>Dreadnought</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDreadnought_Dec</Label>
+    <String>Gigantic vessel designed for kinetic warfare. Will lower property values anywhere it shows up.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarDreadnought_Class_Name</Label>
+    <String>Prototype </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProtoTypeXendarDreadnought_Dec</Label>
+    <String>Gigantic vessel designed for kinetic warfare. Will lower property values anywhere it shows up.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDreadnoughtL_Class_Name</Label>
+    <String>Dreadnought</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDreadnoughtL_Dec</Label>
+    <String>Equipped with a Rapid Reload system, for a faster rate of fire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDreadnoughtP_Class_Name</Label>
+    <String>Dreadnought</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDreadnoughtP_Dec</Label>
+    <String>Equipped with a Kinetic Accelerator, That boost the range of all Kinetic Weapons on the ship substantially.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDreadnoughtD_Class_Name</Label>
+    <String>Dreadnought</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDreadnoughtD_Dec</Label>
+    <String>Equipped with Armor Piercing Rounds, That down armor rating at 100% efficiency.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarTitan_Class_Name</Label>
+    <String>Titan</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarTitan_Dec</Label>
+    <String>Titanic vessel designed for all forms of warfare. Capable of killing you in many, many ways.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarAssaultCarrier_Class_Name</Label>
+    <String>Assault Carrier</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarAssaultCarrier_Dec</Label>
+    <String>Carries fast and deadly assault fighters that seek to destroy high value enemy targets.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarColony_Class_Name</Label>
+    <String>Colony Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarColony_Dec</Label>
+    <String>Large but fragile ship, equipped to colonize distant planets.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarConstructor_Class_Name</Label>
+    <String>Constructor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarConstructor_Dec</Label>
+    <String>Large but fragile ship capable of building starbases.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarBasicConstructor_Class_Name</Label>
+    <String>Basic Constructor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarBasicConstructor_Dec</Label>
+    <String>Large but fragile ship capable of building starbases.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarEarthUnitTransport_Class_Name</Label>
+    <String>Unit Transport</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarEarthUnitTransport_Dec</Label>
+    <String>Unarmed transport used to ferry Important Citizens between worlds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarTransport_Class_Name</Label>
+    <String>Transport</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarTransport_Dec</Label>
+    <String>Large but fragile ship, packed with troops and vehicles, built to invade unfriendly planets.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarFreighter_Class_Name</Label>
+    <String>Freighter</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarFreighter_Dec</Label>
+    <String>Large but fragile ship, Used to establish trade routes with distant worlds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDroneCarrier_Class_Name</Label>
+    <String>Drone Carrier</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarDroneCarrier_Dec</Label>
+    <String>Carries fast and deadly Drone Interceptors that seek out and destroy enemy support craft.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarBeamSupport_Class_Name</Label>
+    <String>Beam Support</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarBeamSupport_Dec</Label>
+    <String>Provides fleet-wide Beam Weapons and Armor for the boost they need to win against all odds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarMissileSupport_Class_Name</Label>
+    <String>Missile Support</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarMissileSupport_Dec</Label>
+    <String>Provides fleet-wide missle weapons and armor for the boost they need to win against all odds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarKineticSupport_Class_Name</Label>
+    <String>Kinetic Support</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarKineticSupport_Dec</Label>
+    <String>Provides fleet-wide  Kinetic Weapons and armor for the boost they need to win against all odds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarTacticalSupport_Class_Name</Label>
+    <String>Tactical Support</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarTacticalSupport_Dec</Label>
+    <String>Can give you help with everything from Targeting to Repair. Always worth having in any big fleet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarStartingScout_Class_Name</Label>
+    <String>Scout</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarStartingScout_Dec</Label>
+    <String>Unarmed but quick, with excellent Sensor Range. It will lose every fight it gets into, so try not to get it into any.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarStartingSurvey_Class_Name</Label>
+    <String>Survey</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarStartingSurvey_Dec</Label>
+    <String>A long ranged vessel suited for mapping the stars and running away from things.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarStartingColony_Class_Name</Label>
+    <String>Colony Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarStartingColony_Dec</Label>
+    <String>Large but fragile ship, equipped to colonize distant planets.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarScout_Class_Name</Label>
+    <String>Scout</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarScout_Dec</Label>
+    <String>Unarmed but quick, with excellent Sensor Range. It will lose every fight it gets into, so try not to get it into any.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarCutter_Class_Name</Label>
+    <String>Battle Axe</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarCutter_Dec</Label>
+    <String>Mid range ship set up for Beam Weapons and Shields. It's earned its name.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarDefender_Class_Name</Label>
+    <String>Defender</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarDefender_Dec</Label>
+    <String>Mid range missile boat, set up with point defenses. Packs a punch.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarGunboat_Class_Name</Label>
+    <String>Gunboat</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarGunboat_Dec</Label>
+    <String>Mid range shootist, arrayed with  Kinetic Weapons and armor. A mean, mean ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarSurvey_Class_Name</Label>
+    <String>Survey</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarSurvey_Dec</Label>
+    <String>A long ranged vessel suited for mapping the stars and running away from things.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarFrigate_Class_Name</Label>
+    <String>Frigate</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarFrigate_Dec</Label>
+    <String>Medium size kinetic-warfare ship. The larger the slug-thrower, the larger the slugs.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarOverlord_Class_Name</Label>
+    <String>Overlord</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarOverlord_Dec</Label>
+    <String>Large combat vessel, versatile in nature. For the indecisive who still wants a nice big stick.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarColony_Class_Name</Label>
+    <String>Colony Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarColony_Dec</Label>
+    <String>Large but fragile ship, equipped to colonize distant planets.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarConstructor_Class_Name</Label>
+    <String>Constructor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarConstructor_Dec</Label>
+    <String>Large but fragile ship capable of building starbases.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarFreighter_Class_Name</Label>
+    <String>Freighter</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarFreighter_Dec</Label>
+    <String>Large but fragile ship, Used to establish trade routes with distant worlds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarTransport_Class_Name</Label>
+    <String>Transport</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AwardXendarTransport_Dec</Label>
+    <String>Large but fragile ship, packed with troops and vehicles, built to invade unfriendly planets.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCampaignXendarGuardian_Class_Name</Label>
+    <String>Guardian</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCampaignXendarGuardian_Dec</Label>
+    <String>Short-range, optimized for kinetic combat. An ornery little stone thrower.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCampaignAIDefenseXendarGuardian_Class_Name</Label>
+    <String>Guardian</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCampaignAIDefenseXendarGuardian_Dec</Label>
+    <String>Short-range, optimized for kinetic combat. An ornery little stone thrower.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCampaignXendarGunboat_Class_Name</Label>
+    <String>Gunboat</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCampaignXendarGunboat_Dec</Label>
+    <String>Mid range shootist, arrayed with Kinetic Weapons and armor. A mean, mean ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCampaignAIDefenseXendarGunboat_Class_Name</Label>
+    <String>Gunboat</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCampaignAIDefenseXendarGunboat_Dec</Label>
+    <String>Mid range shootist, arrayed with Kinetic Weapons and armor. A mean, mean ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCampaignXendarFrigate_Class_Name</Label>
+    <String>Frigate</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCampaignXendarFrigate_Dec</Label>
+    <String>Medium size kinetic-warfare ship. The larger the slug-thrower, the larger the slugs.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCampaignAIDefenseXendarFrigate_Class_Name</Label>
+    <String>Frigate</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCampaignAIDefenseXendarFrigate_Dec</Label>
+    <String>Medium size kinetic-warfare ship. The larger the slug-thrower, the larger the slugs.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCampaignTransport_Class_Name</Label>
+    <String>Freighter</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XendarCampaignTransport_Dec</Label>
+    <String>Large but fragile ship, packed with troops and vehicles, built to invade unfriendly planets.</String>
+  </StringTable>
+ 
+</StringTableList>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- SnathiTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>SnathiTechTree_Name</Label>
+    <String>Snathi Tech Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiTechTree_ShortDec</Label>
+    <String>Techs scavenged from many races, and giving an evil twist.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiTechTree_Dec</Label>
+    <String>Techs scavenged from many races, and giving an evil twist.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiSlavePits_Dec</Label>
+    <String>The Drengin are plain crazy -- relying on slaves to do all their production. Still it does seem stupid to not take advantage of all those prisoners that we have been acquiring lately.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiSlaveMills_Dec</Label>
+    <String>We are starting to think that the Drengin have something with this whole slavery thing. Slaves do seem to come in handy in a pinch.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiArtificialSlaves_Dec</Label>
+    <String>Artificial slaves are the best thing ever! They don't complain and they don't pick on our size. They just work, work, work. Lets make more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiMolecularFabricationTech_Dec</Label>
+    <String>The Iconians's are always telling us that they are so ancient and wise.  But as the true hairs of the Dread Lords, we are able to puzzle out even their oldest and most arcane technologies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiObservation_Name</Label>
+    <String>Observation</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiObservation_ShortDec</Label>
+    <String>Let us study the technology of other races.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiObservation_Dec</Label>
+    <String>The Snathi are known thoughout the galaxy as the ultimate Scavengers.  Not just for the ships we take, but for the technologies that we glean from the simple observation of our enemies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiXeonMysticism_Name</Label>
+    <String>Xeno Mysticism</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiXeonMysticism_ShortDec</Label>
+    <String>Allows construction of the Social Matrix.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiXeonMysticism_Dec</Label>
+    <String>The Altarians use "The Social Matrix" as a place to interact with and judge their peers. We do the same, but we call it name-calling and brawling. However, it has the additional effect of blowing off steam and making us stronger and more productive.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiPrecursorHistory2_Name</Label>
+    <String>Way of the Dread Lords</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiPrecursorHistory2_ShortDec</Label>
+    <String>Boost military production and soldiering.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiPrecursorHistory2_Dec</Label>
+    <String>Our appreciation of the strength of will possessed by the Dread Lords gives every planet in our civilization a boost to its military production capacity.  This inspiration makes all of our soldiers more effective.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiDarkEnergeyReseach_Name</Label>
+    <String>Dark Energy Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiDarkEnergeyReseach_ShortDec</Label>
+    <String>Allows construction of the Dark Energy Lab.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiDarkEnergeyReseach_Dec</Label>
+    <String>The Dark Energy Lab harnasses the secret energy source of the Dread Lords.  The energy provides a massive bonus to research and production on a planet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiSlaveringRecycling_Name</Label>
+    <String>Slave Recycling</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiSlaveringRecycling_ShortDec</Label>
+    <String>Boost Food production and Population Growth</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiSlaveringRecycling_Dec</Label>
+    <String>The Drengin are right about one thing: slaves can be tasty. The thing they don't realize is that deep fried Drengin are to die for. Literally.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiRecovery_Name</Label>
+    <String>Recovery</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiRecovery_ShortDec</Label>
+    <String>Learn to make use of the resources already floating around the galaxy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiRecovery_Dec</Label>
+    <String>There is plenty of perfectly good stuff out there in the galaxy that we can make use of. With a little effort, we can get our little hands on that stuff before anyone else does.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiScavenging_Name</Label>
+    <String>Scavenging</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiScavenging_ShortDec</Label>
+    <String>Boost our Scavenging Rate when victorious in battle.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiScavenging_Dec</Label>
+    <String>Why build new ships? With a little repair work, you can use your enemy's ships against them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiScavengingSpecialization1_Name</Label>
+    <String>Research Scavenging</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiScavengingSpecialization1_ShortDec</Label>
+    <String>Use salvaged ships to boost Research per turn.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiScavengingSpecialization1_Dec</Label>
+    <String>We have discovered that if we carefully dismantle some of  the enemy ships we salvage, we are able to learn some fun new tricks.  This should greatly increase our research rates.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiScavengingSpecialization2_Name</Label>
+    <String>Structural Scavenging</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiScavengingSpecialization2_ShortDec</Label>
+    <String>Use salvaged ships to strengthen your fleets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiScavengingSpecialization2_Dec</Label>
+    <String>After studying some of the ships we have scavenged we now realize that we might want to focus more on the integrity of our hulls. It seems to have the added advantage of keeping them in one piece.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiScavengingSpecialization3_Name</Label>
+    <String>Smart Scavenging</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiScavengingSpecialization3_ShortDec</Label>
+    <String>Allows us to repair scavenged ships quicker after battle.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiScavengingSpecialization3_Dec</Label>
+    <String>Our crews have found new and exciting new ways to repair the ships they scavenge at a record pace. This has the added advantage of making repairs more efficient on their own ships as well.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiCreativeRecycling_Name</Label>
+    <String>Creative Recycling</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiCreativeRecycling_ShortDec</Label>
+    <String>Increases Scavenging Rate and boosts Military Production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiCreativeRecycling_Dec</Label>
+    <String>Our fleets have become so efficient at scavenging enemy ships that they have found that found better ways to recylce these ships. This has given us a substantial boost to Manufacturing on all our colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiUltimateScavengers_Name</Label>
+    <String>Ultimate Scavengers</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiUltimateScavengers_ShortDec</Label>
+    <String>Boosts our Scavenging Rate when victorious in battles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiUltimateScavengers_Dec</Label>
+    <String>Our fleets have learned where to exactly to hit in order to disable ships.  As a result, our Scavenging Rates are at an all time high.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiVicious_Name</Label>
+    <String>Vicious</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiVicious_ShortDec</Label>
+    <String>Increase Soldiering and Resistance.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiVicious_Dec</Label>
+    <String>The Snathi know that being small makes us vulnerable to the larger races.  However, we make up for our size with pure viciousness. There are many advantages to always starting a battle with a low blow.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiTranslatorTech_Dec</Label>
+    <String>In our absence, it seems that a great number of new races has arisen in the galaxy. We have found it useful to learn their pathetic languages so we know  what they have is worth taking.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiDiplomacyTech_Name</Label>
+    <String>Tolerance</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiDiplomacyTech_Dec</Label>
+    <String>At times, it proves necessary to work with the pathetically weak races of the galaxy. By tolerating their existence (and perhaps working with them for a while) we can find new ways to kill them.</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+  <StringTable>
+    <Label>SnathiBiospherePerfection_Dec</Label>
+    <String>No longer must our colonists suffer in their own homes. Even the deadliest of planets are now perfectly survivable to us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiScavengingSpecialization_Name</Label>
+    <String>Scavenging Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiScavengingSpecialization_ShortDec</Label>
+    <String>Get more out of the ships you scavenge</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnathiScavengingSpecialization_Dec</Label>
+    <String>Our knack for salvaging ships comes in handy, but with a bit of work we can pry even more goodies out of them.</String>
+  </StringTable>
+ 
+</StringTableList>

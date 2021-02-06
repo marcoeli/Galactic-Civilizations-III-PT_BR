@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+
+  <!-- Drath -->
+  <StringTable>
+    <Label>Planet_Dratha_Name</Label>
+    <String>Dratha</String>
+  </StringTable>
+  <StringTable>
+    <Label>Planet_Dratha2_Name</Label>
+    <String>Dratha II</String>
+  </StringTable>
+  <StringTable>
+    <Label>Planet_Dratha3_Name</Label>
+    <String>Dratha III</String>
+  </StringTable>
+  <StringTable>
+    <Label>Planet_Dratha4_Name</Label>
+    <String>Dratha IV</String>
+  </StringTable>
+  <StringTable>
+    <Label>Planet_Dratha5_Name</Label>
+    <String>Dratha V</String>
+  </StringTable>
+
+  <!-- Korath -->
+  <StringTable>
+    <Label>Planet_Kora_Name</Label>
+    <String>Kora</String>
+  </StringTable>
+  <StringTable>
+    <Label>Planet_Kynda_Name</Label>
+    <String>Kynda</String>
+  </StringTable>
+  <StringTable>
+    <Label>Planet_Ranagoh3_Name</Label>
+    <String>Ra'nagoh III</String>
+  </StringTable>
+  <StringTable>
+    <Label>Planet_Ranagoh4_Name</Label>
+    <String>Ra'nagoh IV</String>
+  </StringTable>
+  <StringTable>
+    <Label>Planet_Ranagoh5_Name</Label>
+    <String>Ra'nagoh V</String>
+  </StringTable>
+
+</StringTableList>

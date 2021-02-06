@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- UIText_EventsText.xml -->
+ 
+<!-- Event Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>Event_Aristocracy02_Name</Label>
+    <String>Os Quebra-Correntes</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Aristocracy02_Dec</Label>
+    <String>Uma organização de escravos fugitivos começou a visar nossa civilização, tentando aleijar os alicerces de nossa economia, libertando nossos escravos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Aristocracy01_Name</Label>
+    <String>A Era da Conformidade</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Aristocracy01_Dec</Label>
+    <String>Nossos escravos finalmente foram quebrados, aceitando seus papéis na glória de nossa civilização. Um súbito aumento de produtividade, aprovação e até mesmo pesquisa agora lava sobre tudo, queimando todas as correntes até um brilho lustroso.
+
+[COLOR=UIDefaultHighlight]Efeito Global: +25% Produção, Aprovação e Pesquisa para 5 turnos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Aristocracy03_Name</Label>
+    <String>Tempo de crise</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Aristocracy03_Dec</Label>
+    <String>Uma confluência inesperada de vários prazos fez com que seus supervisores começassem a trabalhar mais duro com seus escravos. Isto levou a um aumento dramático na produtividade, embora ainda não se saiba quantos sobreviverão ao processo. 
+
+[COLOR=UIDefaultHighlight]Global Effect: +10% Produção e -0,1 Crescimento para 10 turnos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Colonial02_Name</Label>
+    <String>A Recompensa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Colonial02_Dec</Label>
+    <String>Um grupo dissidente construiu um poderoso navio de guerra chamado Bounty e começou a invadir nossos planetas em retaliação ao que eles chamam de nosso "regime opressivo". Eles exigem o fim imediato do governo colonial para permitir às colônias uma maior influência em seu destino.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Colonial01_Name</Label>
+    <String>Dia da fundação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Colonial01_Dec</Label>
+    <String>Colônias ao redor de nossa civilização começaram a celebrar os aniversários de vários marcos coloniais. Isto levou a um calendário de feriados muito confuso, mas aumentou a felicidade geral em toda a nossa civilização. 
+
+[COLOR=UIDefaultHighlight]Efeito Global:  +10% Aprovação para 10 turnos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Colonial03_Name</Label>
+    <String>Turnos rápidos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Colonial03_Dec</Label>
+    <String>Seu povo é tão adepto da arte da colonização, que foi capaz de gerar rapidamente uma nova nave colônia a partir de peças de reposição sem que ninguém percebesse. 
+
+[COLOR=UIDefaultHighlight]Navio Colônia Grátis[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Colonial04_Name</Label>
+    <String>Fofoca do comerciante</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Colonial04_Dec</Label>
+    <String>Nossos capitães e comandantes falam um com o outro o tempo todo, formando uma rede informal para compartilhar a sabedoria de starfaring. Recentemente, esta rede de sussurros atingiu uma massa crítica, produzindo uma grande quantidade de informações úteis sobre canais seguros e rotas comerciais lucrativas.
+
+[COLOR=UIDefaultHighlight]+50% de receitas de rotas comerciais para 20 turnos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Emergency02_Name</Label>
+    <String>Chafing</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Emergency02_Dec</Label>
+    <String>Nosso pessoal começou a se esforçar com as medidas de emergência que lhes impusemos para superar esta crise. Muitos sugerem que a crise passou, ou não é mais tão ruim quanto era antes, e que há muito tempo voltamos aos velhos caminhos. 
+
+[COLOR=UIDefaultHighlight]Efeito Global: -25% Aprovação para 10 turnos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Emergency01_Name</Label>
+    <String>Solidariedade</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Emergency01_Dec</Label>
+    <String>Este momento de crise incutiu um novo senso de patriotismo entre nossos civis, levando a uma maior atenção e apoio às nossas forças armadas.
+
+[COLOR=UIDefaultHighlight]Efeito Global: +25% soldados por 20 turnos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Emergency03_Name</Label>
+    <String>Momento de Silêncio</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Emergency03_Dec</Label>
+    <String>Por um breve período, todos os membros de nossa civilização param o que estão fazendo e se lembram dos eventos que levaram nosso povo a este caminho sombrio. 
+
+[COLOR=UIDefaultHighlight]Efeito Global: -50% Produção em 2 turnos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Imperial01_Name</Label>
+    <String>A Ascensão do Imperador</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Imperial01_Dec</Label>
+    <String>Viva o Imperador! A ascensão de um novo Imperador ao trono provocou celebrações generalizadas em todo o império, os cidadãos de todos os lugares estão convencidos de que gostarão muito mais dele do que do último homem. 
+
+[COLOR=UIDefaultHighlight]Efeito Global: +25% Aprovação para 10 turnos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Imperial02_Name</Label>
+    <String>O caminho do cidadão</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Imperial02_Dec</Label>
+    <String>Histórias de bravura das linhas de frente do Império são devoradas pela população, que agora fetichizam tudo o que existe sobre o soldado e suas forças armadas em geral. 
+
+[COLOR=UIDefaultHighlight]Efeito Global:  +25% Soldados e Resistência por 20 turnos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic01_Name</Label>
+    <String>Raiders do Comércio</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic01_Dec</Label>
+    <String>Um grupo organizado de piratas se uniu para criar um grande navio capitaneado para melhor ajudar em seus esforços de ataque. Eles nos visaram devido a nossa prosperidade.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02_Name</Label>
+    <String>Senador questionável</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02_Dec</Label>
+    <String>Um de nossos senadores foi acusado de aceitar subornos de um coletivo pirata. Não há evidência de atividade criminosa e ele nega a acusação, mas o público exige ação.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02_Choice1Dec</Label>
+    <String>Mesmo a dica de impropriedade não pode ser tolerada, demita-o.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02_Choice1BonusDec</Label>
+    <String>+5 Benevolente, +10% de moral por 10 turnos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02_Choice2Dec</Label>
+    <String>Nenhuma ação pode ser tomada até que as acusações sejam comprovadas.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02_Choice2BonusDec</Label>
+    <String>+5 Pragmatico</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02_Choice3Dec</Label>
+    <String>Promova-o.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02_Choice3BonusDec</Label>
+    <String>+5 Malévolo, +10% de renda para 10 turnos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02b_Name</Label>
+    <String>Senador questionável Parte 2</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02b_Dec</Label>
+    <String>A investigação sobre o questionável senador mostrou que os rumores foram divulgados pelo coletivo pirata como uma tentativa de desacreditar o honesto senador. Sua fé nele foi bem merecida e o respeito de seu povo por você cresce. 
+
+[COLOR=UIDefaultHighlight]Efeito Global: +5% de moral para 25 turnos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Monarchy01_Name</Label>
+    <String>A Era Dourada</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Monarchy01_Dec</Label>
+    <String>Sua sábia e considerada liderança trouxe a estabilidade muito necessária ao seu reino, todos os seus súditos alinhados em seus esforços e mentes. Uma bênção em economia, pesquisa e produtividade é sentida em todos os lugares. A História olhará para trás com gentileza para esta época.
+
+[COLOR=UIDefaultHighlight]Efeito Global: +10% para Pesquisa, Manufatura e Renda por 25 turnos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Utopian01_Name</Label>
+    <String>Um Farol para os Outros</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Utopian01_Dec</Label>
+    <String>A galáxia pode ver o que construímos aqui, e o benefício de nosso governo utópico. Tivemos um súbito afluxo de candidatos à imigração, juntamente com algumas almas que acabaram de aparecer sem serem convidadas. Vamos encontrar espaço para eles em algum lugar.
+
+[COLOR=UIDefaultHighlight]Efeito Global: +25% de crescimento para 25 turnos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Jihad01_Name</Label>
+    <String>Botas trêmulas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Jihad01_Dec</Label>
+    <String>medida que a palavra se espalha pela galáxia de nosso novo governo e nosso inabalável compromisso com a destruição de nossos inimigos, o medo começou a instalar-se. Eles sabem que estamos vindo em busca deles. E sabem que serão impotentes para nos deter.
+
+[COLOR=UIDefaultHighlight]Efeito Global: +20% soldados por 50 turnos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Kingdom01_Name</Label>
+    <String>Festa das Estrelas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Kingdom01_Dec</Label>
+    <String>Este ano, celebramos o estabelecimento de nosso glorioso Reino Galáctico por meio de uma Festa das Estrelas. Todos os senhores do mundo foram instruídos a abrir suas despensas para sua gente, o que deve tornar tudo muito alegre e contente.
+
+[COLOR=UIDefaultHighlight]Efeito Global: +25% de moral por 10 turnos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_LowApproval01_Name</Label>
+    <String>Greve dos trabalhadores!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_LowApproval01_Dec</Label>
+    <String>O moral dos trabalhadores está sempre em baixa. Em todo nosso mundo, milhões de manifestantes se recusam a trabalhar até que o governo mude. As fábricas foram forçadas a fechar e os canteiros de obras estão adormecidos. 
+
+[COLOR=UIDefaultHighlight]Efeito Global: -25% Construção Social para 5 turnos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_LowApproval02_Name</Label>
+    <String>Protestos generalizados!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_LowApproval02_Dec</Label>
+    <String>Como o moral e nosso governo continuam a cair, nossos cidadãos têm levado a lançar protestos maciços. Os veículos de notícias de toda a galáxia estão transmitindo esses protestos e isso está minando nossa posição junto a outras civilizações. 
+
+[COLOR=UIDefaultHighlight]Efeito Global: -50% Influência por 10 turnos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_LowApproval03_Name</Label>
+    <String>Cidadãos em fuga!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_LowApproval03_Dec</Label>
+    <String>A aprovação governamental caiu tão baixo que muitos de nossos cidadãos estão partindo para se tornarem membros de outras civilizações. Os navios de transporte estão cheios de passageiros que tentam partir e os navios de outras civilizações estão sendo sobrecarregados por cidadãos que lhes pedem para ir junto quando saem do porto. 
+
+[COLOR=UIDefaultHighlight]Efeito Global: -75% Influência para 15 turnos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_HighApproval01_Name</Label>
+    <String>Patriotic Celebrations!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_HighApproval01_Dec</Label>
+    <String>Uma onda de patriotismo estimulada por uma forte aprovação governamental está varrendo nosso mundo. Muitos destacam isto como uma era dourada para nossa civilização e nós nos lembraremos disto como um momento chave quando todos estarão juntos. 
+
+[COLOR=UIDefaultHighlight]Efeito Global: Permanente +10% de resistência à invasão[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_HighApproval02_Name</Label>
+    <String>A mais alta classificação de aprovação até agora!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_HighApproval02_Dec</Label>
+    <String>Nosso governo é tão popular em nosso mundo que itens de marca e licenciados pelo governo estão voando das prateleiras das lojas. Os trajes de nosso estimado líder foram os mais populares nesta última temporada de férias e nossos slogans mais populares foram inscritos em artigos de vestuário a desentupidores de banheiro. Estas taxas de licenciamento resultaram em uma inesperada queda inesperada para os cofres do governo.
+
+[COLOR=UIDefaultHighlight]+450 Créditos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_HighApproval03_Name</Label>
+    <String>Outras Civilizações são invejosas!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_HighApproval03_Dec</Label>
+    <String>Nossa alta aprovação é bem conhecida, mesmo entre outras civilizações. Os luxos que nosso povo desfruta, e o apoio de nosso governo fizeram com que os cidadãos de outros governos ficassem invejosos. 
+
+[COLOR=UIDefaultHighlight]Efeito Global: Influência de +100% para 15 turnos[/COLOR]</String>
+  </StringTable>
+ 
+</StringTableList>

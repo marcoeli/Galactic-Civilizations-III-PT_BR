@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- EXP4_AbilityText.xml -->
+ 
+  <StringTable>
+    <Label>WarProfiteersAbility_Name</Label>
+    <String>[ICON=RaceType_CarbonBased_Icon] Exploradores de guerra</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarProfiteersAbility_ShortName</Label>
+    <String>Expl. de guerra</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarProfiteersAbility_Dec</Label>
+    <String>Recebe 200% de bônus das rotas comerciais estabelecidas com as raças de guerreiras.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ExterminatorsAbility_Name</Label>
+    <String>[ICON=RaceType_Synthetic_Icon] Exterminadores</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExterminatorsAbility_ShortName</Label>
+    <String>Exterminadores</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExterminatorsAbility_Dec</Label>
+    <String>Pode construir a arma de esporos, que pode ser usada para exterminar e toxificar mundos inimigos.</String>
+  </StringTable>
+ 
+ 
+</StringTableList>

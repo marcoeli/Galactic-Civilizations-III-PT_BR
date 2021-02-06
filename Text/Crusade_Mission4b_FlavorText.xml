@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Crusade_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>Humanity has emerged victorious. The Drengin have been sent back to their homeworld, their power greatly diminished. A new galactic order has emerged, this time with humanity sitting at the head of the table.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>Despite its incredible strength, the Terran fleet failed to defeat the Drengin. Dark days for humanity loom ahead.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_TurnOneMessage_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Humans. Still you pursue your path of revenge. Have you learned nothing?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_TurnOneMessage_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Drengin have done horrible things to us, Thalan. They must be stopped from doing so again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_TurnOneMessage_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Not revenge. Self-defense. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_TurnOneMessage2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This is dangerous terrain you walk on, human. But at least you have foregone the temptation of the Bane. We still fear what D.L. Bradley might do alone in the darkness. But for now, humanity is undeniably on a new, safer path.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_TurnOneMessage2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>So you're not going to stand in our way?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_TurnOneMessage3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>No we will not. We are not blind. We see the danger the Drengin pose. We would not ask you to submit to them again.
+
+We will stand with you, and provide a voice of reason. Because when you do confront the Drengin, you must not risk all. We have fought too hard to throw this new future away now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_TurnOneMessage3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Then let's get started.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ScoutUnhide_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel, our ships have detected a Drengin scout that's just emerged from that radiation storm. If it contacts Drengi, it might give the Drengin enough time to prepare for our assault.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ScoutUnhide_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Do we have anyone in range to engage it?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ScoutUnhide2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Close. But not close enough. It's probably too late now anyways. It will be transmitting back to Drengi any second now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ScoutUnhide2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well, not much we can do about it then. Engage it when we get a ship in range.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ScoutUnhide4_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Of course. Damn. This might give them enough time to rush some more capital ships into production.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ScoutUnhide4_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We'll blow those up when we get to them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ColonyUnhide1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel, we've detected a Drengin colony with something... obscene on it. Our scans suggest that this is the world the Drengin have based much of their recent Spore research.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ColonyUnhide1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's killed a lot of people.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ColonyUnhide1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well let's get rid of it then.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ColonyUnhide2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Invading the world might be difficult, sir. Our troops would almost certainly be infected if we land there. I bet the Thalans would be too. Even a conventional orbital bombardment might be risky, given the Spore's reported xenopsychological capabilities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ColonyUnhide2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>So they're invulnerable?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ColonyUnhide2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>There has to be some way of stopping them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ColonyUnhide3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They'll be a hard nut to crack. I'd suggest we keep a blockade around it for now. Enough ships to pick off any Exterminator ships that try to escape the planet.
+
+Hang on. We're getting a communication from the Thalans now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ColonyUnhide3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Put it through.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ColonyUnhide4_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Humans. We have detected the same activity on that Drengin world. The Spore virus is sickening. A disgusting invention. 
+
+We hope you are not planning something equally disgusting to be rid of it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ColonyUnhide4_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We weren't, actually, but thanks for thinking that of us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ColonyUnhide5_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I apologize. It is a bad habit. We have a long history... or should I say, a long future of unpleasant interactions with humans.
+
+You are forging a new path though, so we will try to be more generous with you. We will detach some ships to your fleet to help you erect a blockade around this world.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ColonyUnhide5_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thanks, Thalans.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ColonyConquered_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel! Why did you order that transport to land there!? Every human who set foot on the surface has fallen ill! Worse, there seems to be some kind of xenopsychological effects coded deep within this variant of the Spore virus. Humans in orbit, even throughout the sector are starting to come down ill. 
+
+What have we done?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_ColonyConquered_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Oh no....</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_UncoverOutpostA_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Casey, we've found a series of Drengin Outposts. These worlds were apparently among the first the Drengin conquered when they established their Empire millenia ago.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_UncoverOutpostA_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>So this is the border of Drengin space then?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_UncoverOutpostB_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Casey, we've found a series of Drengin Outposts. These worlds were apparently among the first the Drengin conquered when they established their Empire millenia ago.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_UncoverOutpostB_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>So this is the border of Drengin space then?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_UncoverOutpostC_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Casey, we've found a series of Drengin Outposts. These worlds were apparently among the first the Drengin conquered when they established their Empire millenia ago.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_UncoverOutpostC_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>So this is the border of Drengin space then?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_UncoverOutpost2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's essentially right. 
+
+The Drengin are on the ropes, Colonel. If we can capture these three colonies, we'll have pushed them back to where they started. If nothing else, they'll think twice before attacking innocent sentient beings again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_UncoverOutpost2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well let's do that then.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_UncoverOutpost2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thinking's not one of their strong suits, but let's do that anyways.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_1First2Second3Third_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's the last of the Drengin outposts conquered, Colonel.
+
+Hang on. The Drengin are trying to open a channel to us now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_1First2Second3Third_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Put them through.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_1First3Second2Third_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's the last of the Drengin outposts conquered, Colonel.
+
+Hang on. The Drengin are trying to open a channel to us now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_1First3Second2Third_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Put them through.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_2First1Second3Third_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's the last of the Drengin outposts conquered, Colonel.
+
+Hang on. The Drengin are trying to open a channel to us now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_2First1Second3Third_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Put them through.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_2First3Second1Third_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's the last of the Drengin outposts conquered, Colonel.
+
+Hang on. The Drengin are trying to open a channel to us now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_2First3Second1Third_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Put them through.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_3First1Second2Third_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's the last of the Drengin outposts conquered, Colonel.
+
+Hang on. The Drengin are trying to open a channel to us now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_3First1Second2Third_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Put them through.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_3First2Second1Third_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's the last of the Drengin outposts conquered, Colonel.
+
+Hang on. The Drengin are trying to open a channel to us now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_3First2Second1Third_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Put them through.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Have you come to exterminate us, human? Good. Let all the galaxy see what monsters you are.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Would you like us to exterminate you?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Have you come to exterminate us, human? Good. Let all the galaxy see what monsters you are.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Would you like us to exterminate you?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You toy with us? And to think you call us the cruel ones.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We're not going to exterminate you, Drengin. We're stopping here.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You are the cruel ones. We'll let you live, Lord Kona. Remember it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat4_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Lies! Your deception knows no bounds!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat4_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It's not a lie. We've put you back where you belong. Now stay there.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat5_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We're getting word from Admiral Bradley, Colonel. Putting him through now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat5_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Go ahead.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat5_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Oh great.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat6_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Casey? Good work stopping the Drengin. Whether we do ultimately decide to destroy them, or just keep them in a cage, we've got them right where we want them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat6_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>How has your mission gone? Have you caught the Yor?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat6_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We shouldn't destroy them, sir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat7_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Nearly. With the help of some more of those Thalan bugs, we've pinned them down in this sector. Finally the Shard will be ours. Soon humans will be the ultimate power in this galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat7_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's... good.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat7A_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's never been your decision to make, Colonel.
+
+The good news is, with the help of some more of those Thalan bugs, we've pinned down the Yor in this sector. Finally the Shard will be ours. Soon humans will be the ultimate power in this galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat7A_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's... good.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat8_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Look! I'll send you imagery of the moment of our victory.
+
+Oh... Oh no! They can't be! Singul...</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Crusade_Mission4b_DrenginBeat8_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What is it?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

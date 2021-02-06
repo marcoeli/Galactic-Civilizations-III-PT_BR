@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- CampaignText.XML -->
+ 
+  <StringTable>
+    <Label>LandRush_MegaEvent_Name</Label>
+    <String>LandRush</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LandRush_MegaEvent_Dec</Label>
+    <String>Find a safe world that can be used as a rallying point for the scattered Terran survivors.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LandRush_MegaEvent_ShortDec</Label>
+    <String>Find a safe world that can be used as a rallying point for the scattered Terran survivors.</String>
+  </StringTable>
+ 
+</StringTableList>

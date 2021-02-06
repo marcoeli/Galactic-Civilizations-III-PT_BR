@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- AbilityText.xml -->
+ 
+<!-- Abilities Traits -->
+ 
+  <StringTable>
+    <Label>ExperiencedAbility_Name</Label>
+    <String>Experienced</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ExperiencedAbility_ShortName</Label>
+    <String>Experienced</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ExperiencedAbility_Desc</Label>
+    <String>[COLOR=UIDefaultHot]All Ships receive 25% more Experience Points from battles.[/COLOR]</String>
+  </StringTable>
+ 
+</StringTableList>

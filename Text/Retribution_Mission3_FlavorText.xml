@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Retribution_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>Having reached the Hypergate to Drengi, Colonel Casey now speeds toward the First Fleet with the  Shard of the Telenanth. Hopefully they are not too late.
+
+The Shard may have the power to neutralize the Bane, but will the thirst for revenge and the power of the Bane be too much for D.L. Bradley resist? The Drengin have been a cosmic plague long before humanity came onto the scene.  They have enslaved countless civilizations and murdered billions.  Should we even try to prevent D.L. from exacting retribution for their crimes?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>The last Shard of the Telenath has been lost and with it the any hope of stopping D.L. Bradley from using the Bane to destroy the Drengin. And so begins the chain of events, the Cycle of the Draginol, that will only end with destruction of this universe.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_Briefing1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have reached the last colony in our control between us and the First Fleet. There is a Hypergate on the far side of the sector that will bring us directly to Drengi. 
+
+However the Thalan Contingency has fortified the area around Hypergate.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_Briefing1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Thalan should be willing to help us since it was their warning that brought us to the Shard.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_Briefing2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They have either colonized or built starbases in nearly every star system near the Hypergate. It's as if they knew we would need to come this way and wanted to intercept us, for some reason.
+
+We are picking up readings for a lot of ships. I get the feeling they are not here to help us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_Briefing2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We just need to convince them that we are doing what they asked. [COLOR=BenevolentBlue](+15 Benevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_Briefing2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We can sneak past them. [COLOR=PragmaticGold](+15 Pragmatic)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_Briefing2_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have no time for interference. We will fight our way through if needed. [COLOR=WarRed](+15 Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_BriefingResponse1Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Thalan are not answering our hails, it appears that they are in no mood to negotiate.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_BriefingResponse1Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We can only hope that they contact us before it is too late.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_BriefingResponse2Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our primary goal is getting the Shard to the fleet. All our efforts should go to escorting the Valkyrie to the Hypergate. Nothing else matters.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_BriefingResponse2Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I hate to pin all our hopes to one ship but I'm afraid you are right.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_BriefingResponse3Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Their forces are formidable. It will cost us time to root out all their bases.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_BriefingResponse3Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If they interfere, they will pay.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ThalanContact1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonel Casey, we are glad to see you have discovered the truth of our warnings at last.
+
+We have been awaiting your arrival for some time.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ThalanContact1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your warning led us to the Last Shard of the Telenanth. With it we will be able to stop the destruction you fear.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ThalanContact2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Indeed it will. But we can no longer trust humanity to solve this problem. 
+
+You will turn the Shard over to us. When it is under our control will take our remaining forces though the Hypergate and stop D.L. Bradley ourselves once and for all. We can trust no other to see this done.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ThalanContact2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will not surrender the Shard to you.  Stand aside if you want to stop the war. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ThalanContact3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our knowledge of these final days is clouded. We dare not leave this task to any other race.
+
+Surrender the Shard and we depart as friends. Resist us, and we will have no choice but to take it from you, whatever the cost.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ThalanContact3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If you stand aside, I will make sure D.L. Bradley uses the Shard wisely. [COLOR=BenevolentBlue](+15 Benevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ThalanContact3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I cannot let you stand in our way. [COLOR=PragmaticGold](+15 Pragmatic)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ThalanContact3_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The time for talk is over. Your interference will not be forgotten. [COLOR=WarRed](+15 Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ThalanContactResponse1Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We regret that we simply can no longer take chances in these matters.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ThalanContactResponse1Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Then it is to be war between us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ThalanContactResponse2Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If war with Humanity is what is required to save the Galaxy, then we will show no hesitation in doing so, know that it only saddens us that it had to come to this.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ThalanContactResponse2Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This is a war of your choosing, not ours.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ThalanContactResponse3Award_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>With your true nature now revealed, we have no choice but to stop you, at any cost.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ThalanContactResponse3Award_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It will cost you more than you can imagine.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_Activity1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are intercepting a lot of chatter. It looks like the Thalans are bringing in all their reserves.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_Activity1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>So much for getting by them without them knowing.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_Activity2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Energy signals coming from the hypergate. The Thalan are bringing in reinforcements.
+
+We might not be able to get to it as easily as we thought.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_Activity2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will not win this battle with brute force alone. Keep me informed of any further activity.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ThalanTaught_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You will not reach the Hypergate. Even as we speak we have reinforcements flooding in on the Hyperlane. It doesn't have to end like this. 
+
+Surrender the Shard now and you will survive this, refuse and we will have no choice but to order an All Fire.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ThalanTaught_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You already know our answer. Close comms.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_UncoverHGB1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>A Thalan Frigate has just come through the Hypergate.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_UncoverHGB2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thalan reinforcements continue to come through the Hypergate.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_UncoverHGRelic_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are reading a large Energy spike coming from the Hypergate. A Capital ship is on its way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ReachHypergate1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You think you have won but you may have just doomed us. Human, Drengin, Thalan - all of us and, the galaxy along with it. 
+
+We now have no choice but to hope that you have the strength to convince Bradley to divert from the path he has taken and save us all.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ReachHypergate1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If you had chosen to trust us sooner, many lives on both sides could have been spared.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ReachHypergate2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We believed we were destined to end the Cycle of Draginol once and for all. I fear we were wrong and allowed arrogance and misplaced pride blind us with zealotry. 
+
+It is now up to you Colonel Casey. The fate of the galaxy is in your hands.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ReachHypergate2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It is not too late to make this right. Follow us though the Hypergate and stand with us as we confront Bradley.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ReachHypergate2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your mistake has cost you everything.  But I will stop Bradley so perhaps your sacrifice will not have been in vain.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ReachHypergate2_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I will stop Bradley. But your interference will not be forgotten. I recommend finding a quiet corner of the galaxy to hide in.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ReachHypergate3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our part in this war is over. At least our long mission will soon be over, for better or for worse. We wish you luck Colonel Casey.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_HypergateLost_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Fools, now neither of us will be able to intercept the Bane in time. You have doomed us all.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Retribution_Mission3_ValkyrieLost_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your part in this war is over Colonel Casey. We will take the Shard and do what is needed.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

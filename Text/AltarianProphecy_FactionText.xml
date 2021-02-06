@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- FactionText.xml -->
+ 
+  <StringTable>
+    <Label>AP_1_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Terran_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Terran_LeaderName</Label>
+    <String>Gregory Mathews</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Terran_Dec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Terran_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Terran_HomeworldName</Label>
+    <String>SolSystem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Terran_Callsign</Label>
+    <String>U.E.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Terran_StartupTitle</Label>
+    <String>Altarian Prophecy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Terran_StartupDescription</Label>
+    <String>August 2190: The newly founded Terran Alliance continues to expand. Though they have gathered information on all five local major races, they have yet to encounter any face to face other than the Arceans.
+
+Now one of their most distant colonies has reported contact with perhaps the most mysterious of these races: The Altarian Confederation. 
+
+Befriending this powerful neighbor has become one of Mankind's highest priorities.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Terran_StartupTraitsDescription</Label>
+    <String>After over a decade of expanding into the galaxy, humanity has made great progress and faced threats not of its own making.
+
+But that's all about to change.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Altarian_Name</Label>
+    <String>Altarian Confederation</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Altarian_ShortName</Label>
+    <String>Altarians</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Altarian_LeaderName</Label>
+    <String>Akari Malara</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Altarian_Dec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Altarian_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Altarian_HomeworldName</Label>
+    <String>AltariaSystem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Altarian_Callsign</Label>
+    <String>A.R.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Altarian_StartupTitle</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Altarian_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Altarian_StartupTraitsDescription</Label>
+    <String>Altarians are careful researchers, generally content, and influential with their neighbors. Their ships are known for being fast but fragile, though they can organize large fleets of them when called upon. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Korx_Name</Label>
+    <String>Dominion of the Korx</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Korx_ShortName</Label>
+    <String>Korx</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Korx_LeaderName</Label>
+    <String>Kralax of Korx</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Korx_Dec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Korx_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Korx_HomeworldName</Label>
+    <String>SolSystem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Korx_Callsign</Label>
+    <String>A.E.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Korx_StartupTitle</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Korx_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_1_Korx_StartupTraitsDescription</Label>
+    <String>The Korx are the ultimate mercenaries. The will sell you anything and do anything if there is enough money attached to it. When asked you can bet they have a 'special price' just for you!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Terran_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Terran_LeaderName</Label>
+    <String>Gregory Mathews</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Terran_Dec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Terran_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Terran_HomeworldName</Label>
+    <String>SolSystem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Terran_Callsign</Label>
+    <String>U.E.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Terran_StartupTitle</Label>
+    <String>Alliance</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Terran_StartupDescription</Label>
+    <String>Having driven the Dominion of the Korx from Altarian Space, the Terran Alliance and the Altarian Confederation have finally had time for diplomacy. 
+A formal alliance has been proposed and the grateful Altarians seem likely to agree.
+
+But there are still several threats to forming a lasting peace with the Altarians. The Korx, though in retreat, still raid the Altarian outer colonies.  Even more concerning is that the age-old enemy of the Altarians, the Drengin Empire, threatens to get involved. If the Korx can bring the Drengin into the war, even the combined forces of the Altarians and the Terran Alliance may not be enough to stop them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Terran_StartupTraitsDescription</Label>
+    <String>The Terran Alliance General Secretary has sent a young but brilliant Commander, D.L. Bradley, to secure the former Korx world of Vol. His job is to help the Altarians prosecute their war with the Korx, and to do whatever it takes to keep the Drengin from interfering.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Altarian_Name</Label>
+    <String>Altarian Confederation</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Altarian_ShortName</Label>
+    <String>Altarians</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Altarian_LeaderName</Label>
+    <String>Akari Malara</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Altarian_Dec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Altarian_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Altarian_HomeworldName</Label>
+    <String>AltariaSystem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Altarian_Callsign</Label>
+    <String>A.R.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Altarian_StartupTitle</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Altarian_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Altarian_StartupTraitsDescription</Label>
+    <String>Altarians are careful researchers, generally content, and influential with their neighbors. Their ships are known for being fast but fragile, though they can organize large fleets of them when called upon. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Korx_Name</Label>
+    <String>Dominion of the Korx</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Korx_ShortName</Label>
+    <String>Korx</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Korx_LeaderName</Label>
+    <String>Kralax of Korx</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Korx_Dec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Korx_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Korx_HomeworldName</Label>
+    <String>SolSystem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Korx_Callsign</Label>
+    <String>A.E.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Korx_StartupTitle</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Korx_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Korx_StartupTraitsDescription</Label>
+    <String>The Korx are the ultimate mercenaries. They will sell you anything and do anything if there is enough money attached to it. When asked, you can bet they have a 'special price' just for you!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Drengin_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Drengin_ShortName</Label>
+    <String>Drengin</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Drengin_LeaderName</Label>
+    <String>Lord Kona</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Drengin_Dec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Drengin_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Drengin_HomeworldName</Label>
+    <String>DrengiSystem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Drengin_Callsign</Label>
+    <String>D.E.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Drengin_StartupTitle</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Drengin_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_2_Drengin_StartupTraitsDescription</Label>
+    <String>Drengin soldiers are savagely effective at ground-based combat, and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slaveling revolts.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Terran_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Terran_LeaderName</Label>
+    <String>Gregory Mathews</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Terran_Dec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Terran_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Terran_HomeworldName</Label>
+    <String>SolSystem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Terran_Callsign</Label>
+    <String>U.E.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Terran_StartupTitle</Label>
+    <String>Unwitting Pawns</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Terran_StartupDescription</Label>
+    <String>The newly formed alliance of Terrans and Altarians have forced the surrender of the Korx. However, they learned that the Korx were being manipulated by an even more powerful and ancient race: the Drath Legion.
+
+The Drath claim Altaria as their ancestral home world and that they were exiled from their world millennia ago by the Altarians. In the decades since the Hyperdrive was discovered, they have been using the Korx to soften up the Altarians while building up their own forces, waiting for the chance to take back their ancient home.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Terran_StartupTraitsDescription</Label>
+    <String>Having claimed several new colonies on the edge of the Drath Territory, the Terrans and the Altarians are getting ready for war. Together they must confront the Drath and find a way to bring an end to this ancient feud once and for all. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Altarian_Name</Label>
+    <String>Altarian Confederation</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Altarian_ShortName</Label>
+    <String>Altarians</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Altarian_LeaderName</Label>
+    <String>Akari Malara</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Altarian_Dec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Altarian_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Altarian_HomeworldName</Label>
+    <String>AltariaSystem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Altarian_Callsign</Label>
+    <String>A.R.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Altarian_StartupTitle</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Altarian_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Altarian_StartupTraitsDescription</Label>
+    <String>Altarians are careful researchers, generally content, and influential with their neighbors. Their ships are known for being fast but fragile, though they can organize large fleets of them when called upon. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Drath_Name</Label>
+    <String>Drath Legion</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Drath_ShortName</Label>
+    <String>Drath</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Drath_LeaderName</Label>
+    <String>Embryes Draken</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Drath_Dec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Drath_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Drath_HomeworldName</Label>
+    <String>ArceaSystem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Drath_Callsign</Label>
+    <String>D.R.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Drath_StartupTitle</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Drath_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_3_Drath_StartupTraitsDescription</Label>
+    <String>The Drath are a reptilian race who were originally the dominant species on what is now known as Altaria. While enormous in size the Drath prefer to linger in the shadows and specialize in pulling strings from afar.</String>
+  </StringTable>
+ 
+</StringTableList>

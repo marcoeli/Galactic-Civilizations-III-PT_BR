@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- WishuponaRelic_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>WishuponaRelic_MegaEvent_Message_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>One of our ships has found an amazing Precursor Relic, orbiting the star in a local star system. The Relic's strange energies are diminishing, but the crew thinks they can put it to good use while it lasts.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WishuponaRelic_MegaEvent_Message_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, let us allocate all of the power to Research. [COLOR=BenevolentBlue](Benevolent +30, +100% Research for 25 turns)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WishuponaRelic_MegaEvent_Message_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I think our best bet would be to divide this power up fairly between our Research and Manufacturing facilities. [COLOR=PragmaticGold](Pragmatic +30, +50% Manufacturing, and Research, for 25 turns)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WishuponaRelic_MegaEvent_Message_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Let us use this power to build up our Military and infrastructure. [COLOR=WarRed](Malevolent +30, +100% Manufacturing for 25 turns)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

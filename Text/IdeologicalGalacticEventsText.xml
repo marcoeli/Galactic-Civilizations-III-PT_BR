@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- IdeologicalGalacticEventsText.xml -->
+ 
+<!-- Event Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>RuthlessVisionEvent_Name</Label>
+    <String>Ruthless Vision</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RuthlessVisionEvent_Dec</Label>
+    <String>While on a deep space survey, one of our ships has discovered an ancient artifact that can be used to enhance our targeting systems. Unfortunately, it works by turning a sentient being into a living psionic sensor. The process is agonizing, and the existing personality of the "Volunteer" is completely destroyed. What should we do with the artifact?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RuthlessVisionEvent_Benevolent_Bonus_Name</Label>
+    <String>Study the artifact as much as we can safely, and lock it away in the deepest vault in the empire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RuthlessVisionEvent_Benevolent_Bonus_Dec</Label>
+    <String>+30 Benevolent, +10% Research</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RuthlessVisionEvent_Neutral_Bonus_Name</Label>
+    <String>Use the artifact on convicted capital criminals, saving on expensive prison upkeep, and boosting our ability to defend ourselves in a dangerous galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RuthlessVisionEvent_Neutral_Bonus_Dec</Label>
+    <String>+20 Pragmatic, +10% Targeting</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RuthlessVisionEvent_Merciless_Bonus_Name</Label>
+    <String>Forcibly volunteer the least popular crew member from each ship to undergo the transformation, giving them a chance to make something valuable of themselves.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RuthlessVisionEvent_Merciless_Bonus_Dec</Label>
+    <String>+30 Malevolent, +25% Targeting, -5% Approval</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradeSecretsEvent_Name</Label>
+    <String>Trade Secrets</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradeSecretsEvent_Dec</Label>
+    <String>One of our traders has been approached by representatives from an association of black market traders. They're offering us a wealth of insider information on the other civilizations in the galaxy, enough to negotiate incredibly favorable terms, boosting trade income on all our routes. In exchange, they want access to some of our current research projects.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradeSecretsEvent_Benevolent_Bonus_Name</Label>
+    <String>We're not going to use any unfair advantage in trade negotiations, and we're certainly not going to give away our research. Turn them away and inform our neighbors of their possible security breaches.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradeSecretsEvent_Benevolent_Bonus_Dec</Label>
+    <String>+20 Benevolent. +10% Diplomacy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradeSecretsEvent_Neutral_Bonus_Name</Label>
+    <String>Make the deal, but ensure we're giving away no research information critical to our security.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradeSecretsEvent_Neutral_Bonus_Dec</Label>
+    <String>+20 Pragmatic, +100% Trade Income, -5% Research</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradeSecretsEvent_Merciless_Bonus_Name</Label>
+    <String>Offer to make the deal, then use some large weapons to simply take the trade secrets from them. We can afford a war with a shadowy black market.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradeSecretsEvent_Merciless_Bonus_Dec</Label>
+    <String>+20 Malevolent, +100% Trade Income</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PublicEducationEvent_Name</Label>
+    <String>Public Education</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PublicEducationEvent_Dec</Label>
+    <String>The people of our civilization have begun a series of minor protests, demanding increased funding for basic education. Although this will cost us something, it should lead to higher public approval, and the stream of educated workers could help benefit certain specific industries.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PublicEducationEvent_Benevolent_Bonus_Name</Label>
+    <String>Of course. Weren't we doing that already? Even if we were, let's do it more then. Much more. But we don't have to restrict anyone's career choices; let our people choose what life is best for them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PublicEducationEvent_Benevolent_Bonus_Dec</Label>
+    <String> +20 Benevolent. -10% Total Income, +15% Approval</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PublicEducationEvent_Neutral_Bonus_Name</Label>
+    <String>That sounds reasonable. Although our manufacturing and construction sectors require specialized training outside the scope of this, our administration and logistics departments could benefit from recruits with improved basic education.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PublicEducationEvent_Neutral_Bonus_Dec</Label>
+    <String>+20 Pragmatic, -5% Total Income, +5% Approval</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PublicEducationEvent_Merciless_Bonus_Name</Label>
+    <String>No. Tell them we need that money for literally anything other than that. In fact, tell them that they now have to work harder for daring suggest it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PublicEducationEvent_Merciless_Bonus_Dec</Label>
+    <String>+20 Malevolent, -5% Approval, +10% Manufacturing</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DesignRevolutionEvent_Name</Label>
+    <String>Design Revolution</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DesignRevolutionEvent_Dec</Label>
+    <String>Our culture has developed a bit of an obsession with efficient, well designed products. Domiciles throughout our civilization are filling up with tidy, well organized furniture, and otherwise normal people now get in arguments about typesetting. As a practical benefit, this has instilled a new appreciation for the work of designers, and our colleges now overflow with bright young minds. With the right policy, we can choose where to direct this energy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DesignRevolutionEvent_Benevolent_Bonus_Name</Label>
+    <String>Direct our new designers to build the best and most prestigious cultural institutions they can.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DesignRevolutionEvent_Benevolent_Bonus_Dec</Label>
+    <String>+20 Benevolent. +10% Social Manufacturing</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DesignRevolutionEvent_Neutral_Bonus_Name</Label>
+    <String>Allow the designers to choose their own path, letting the benefits fall where they may.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DesignRevolutionEvent_Neutral_Bonus_Dec</Label>
+    <String>+20 Pragmatic, -5% Manufacturing Costs</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DesignRevolutionEvent_Merciless_Bonus_Name</Label>
+    <String>Direct these idle minds to help with something actually practical. But don't let them choose what's practical. Tell them ships are practical. Start there.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DesignRevolutionEvent_Merciless_Bonus_Dec</Label>
+    <String>+20 Malevolent, Ships can carry 10% more mass.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EavesdroppingEvent_Name</Label>
+    <String>Eavesdropping</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EavesdroppingEvent_Dec</Label>
+    <String>One of our United Planets diplomats reports that a worker from the facilities division of the UP headquarters claims to have placed eavesdropping devices throughout the building, and that he's willing to provide access to them to the highest bidder.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EavesdroppingEvent_Benevolent_Bonus_Name</Label>
+    <String>This is outrageous. Diplomacy cannot be effective when both parties act on such bad faith. Turn this figure into the Council.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EavesdroppingEvent_Benevolent_Bonus_Dec</Label>
+    <String>+20 Benevolent. +10% Influence all colonies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EavesdroppingEvent_Neutral_Bonus_Name</Label>
+    <String>This might be a trap, and even if it isn't, when those bugs are discovered, we don't want to be anywhere near them. Expose this fool to the Council, then lobby them for a reward. Either an important chair, or additional influence on key matters.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EavesdroppingEvent_Neutral_Bonus_Dec</Label>
+    <String>+20 Pragmatic, +10% Approval all Colonies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EavesdroppingEvent_Merciless_Bonus_Name</Label>
+    <String>This is an opportunity which cannot be passed up. In exchange for access to the bugs, give the villain whatever he wants, then give him a bit more to keep him quiet, then kill him just to be sure.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EavesdroppingEvent_Merciless_Bonus_Dec</Label>
+    <String>+30 Malevolent </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TheScoutEvent_Name</Label>
+    <String>The Scout</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TheScoutEvent_Dec</Label>
+    <String>A mysterious single occupant craft has appeared in orbit around our homeworld. Our ships quickly surrounded the intruder, who explained that she's a scout from a peaceful but secretive race from the far side of the galaxy. In exchange for her release and the provision of supplies to repair her sensor device, she offers you samples of the advanced sensor technology her people have.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TheScoutEvent_Benevolent_Bonus_Name</Label>
+    <String>We'd have gladly helped her for no reward, but certainly won't turn one down. And making friends with a species talented in the arts of scouting seems like the kind of thing that could be beneficial. Ask if she's willing to share any information about the state of the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TheScoutEvent_Benevolent_Bonus_Dec</Label>
+    <String>+20 Benevolent, +10% Sensor Power for All Ships</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TheScoutEvent_Neutral_Bonus_Name</Label>
+    <String>Her ship has a lot more than that on it, certainly. Threaten to expose her entire race to the galaxy if she doesn't share something a bit richer. The sensor device, perhaps.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TheScoutEvent_Neutral_Bonus_Dec</Label>
+    <String>+20 Pragmatic, +25% Sensor Power for All Ships</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TheScoutEvent_Merciless_Bonus_Name</Label>
+    <String>We're not going to take the word of a spy capable of penetrating our defenses. Confiscate the entire ship. Even if she sabotages her systems, the salvage alone will be valuable. And a thorough interrogation will surely teach us more.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TheScoutEvent_Merciless_Bonus_Dec</Label>
+    <String>+20 Malevolent, Gain the Scout's Ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FlagWavingEvent_Name</Label>
+    <String>Flag Waving</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FlagWavingEvent_Dec</Label>
+    <String>A sudden wave of patriotic fervor has swept across our civilization, all our people caught up celebrating the great things we're doing. Such universal approval is incredibly rare; this seems an ideal opportunity to channel our people's energy into more constructive acts.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FlagWavingEvent_Benevolent_Bonus_Name</Label>
+    <String>This is a gift too great to interfere with. This approval was based on our people's appreciation for what we're already doing. We shall continue doing it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FlagWavingEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent. +20% Approval all colonies</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FlagWavingEvent_Neutral_Bonus_Name</Label>
+    <String>Eager but unskilled labor has limited uses, but not non-existent ones. Let's start directing our people's new energy to contribute to various volunteer programs and other civic projects.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FlagWavingEvent_Neutral_Bonus_Dec</Label>
+    <String>+20 Pragmatic, +10% Approval all colonies</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FlagWavingEvent_Merciless_Bonus_Name</Label>
+    <String>Send these eager young citizens into the military where their brave talk can be put to some actual use.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FlagWavingEvent_Merciless_Bonus_Dec</Label>
+    <String>+20 Malevolent, +5% Approval,  +10% Planetary Defense</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutbreakEvent_Name</Label>
+    <String>Outbreak</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutbreakEvent_Dec</Label>
+    <String>{PLANETNAME} has been overrun by a strange alien norovirus. It rapidly kills about 5% of those it infects, but has the curious side effect of making those who survive profoundly more intelligent.
+Our scientists have found a means to cure it, but some wonder if we should consider allowing the disease to flourish, to take advantage of its side effects.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutbreakEvent_Benevolent_Bonus_Name</Label>
+    <String>Eradicate the Virus. One life lost is too many, regardless of the gain.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutbreakEvent_Benevolent_Bonus_Dec</Label>
+    <String>+20 Benevolent, +10% Research to Affected Planet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutbreakEvent_Neutral_Bonus_Name</Label>
+    <String>Quarantine the planet, and immunize anyone who leaves. Allow volunteers to relocate there, knowing the risk.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutbreakEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +50% Research affected planet, -20% Growth on Affected Planet</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutbreakEvent_Merciless_Bonus_Name</Label>
+    <String>Never let a good Norovirus go to waste. Immunize yourself and your friends, then spread the disease throughout your colonies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutbreakEvent_Merciless_Bonus_Dec</Label>
+    <String>+20 Malevolent, +10% Research, -10% Growth.</String>
+  </StringTable>
+ 
+</StringTableList>

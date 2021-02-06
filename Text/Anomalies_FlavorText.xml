@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Anomalies_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Anomalies_MegaEvent_Message_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Nossas equipes de pesquisa estão relatando que houve um pico repentino no número de Anomalias encontradas. Eles pensam que são os primeiros a descobrir esta tendência, mas é provável que outras raças notarão em breve.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Anomalies_MegaEvent_Message_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Devemos informar nossos aliados sobre isto para assegurar que estes itens caiam nas mãos certas. [COLOR=BenevolentBlue](Benevolente +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Anomalies_MegaEvent_Message_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excelente! Devemos impulsionar a produção de nossos navios de pesquisa para tirar proveito da situação. [COLOR=PragmaticGold](Pragmatico +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Anomalies_MegaEvent_Message_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Deveríamos visar e destruir os navios de inspeção inimigos para que possamos reivindicar as anomalias para nós mesmos. [COLOR=WarRed](Malevolente +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

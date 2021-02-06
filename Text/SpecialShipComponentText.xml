@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- SpecialShipComponentText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>PrecurserHullReinforcement_Name</Label>
+    <String>Precursor Hull Reinforcement</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecurserHullReinforcement_Dec</Label>
+    <String>Increases Hit points of ship</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TheBane_Name</Label>
+    <String>The Bane</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TheBane_Dec</Label>
+    <String>Precursor Artifact of Unfathomable Power.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UniversalDisplacementFiled_Name</Label>
+    <String>Universal Displacement Field</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UniversalDisplacementFiled_Dec</Label>
+    <String>Precursor Artifact that reduces the logistics cost of a ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UniversalIntegrityFiled_Name</Label>
+    <String>Universal Integrity Field</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UniversalIntegrityFiled_Dec</Label>
+    <String>Precursor Artifact keeps a ship from degrading.</String>
+  </StringTable>
+ 
+</StringTableList>

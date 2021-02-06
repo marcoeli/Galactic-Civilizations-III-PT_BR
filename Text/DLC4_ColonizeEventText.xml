@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- ColonizeEventText.xml -->
+ 
+<!-- Event Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>ThuliumMoonEvent_Name</Label>
+    <String>Estudo da Lua de Thulium</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumMoonEvent_Dec</Label>
+    <String>Há muito tempo, os Precursores capturaram um pequeno nó de Thulium e o colocaram em órbita deste mundo. Poderemos usar esta fonte pronta de Thulium para fortalecer os pontos de impacto das naves feitas a partir de nosso estaleiro naval.
+Nossos cientistas também gostariam de estudá-la para ver o que mais podemos aprender. A tecnologia que pode ser usada para criar uma lua artificial não é algo a ser desperdiçado.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumMoonEvent_Title</Label>
+    <String>Evento de colonização</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumMoonEvent_Benevolent_Bonus_Name</Label>
+    <String>Esta pesquisa é definitivamente importante. Eu os encorajo a estudar as tecnologias Precursor.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumMoonEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolente, +10% de pesquisa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumMoonEvent_Neutral_Bonus_Name</Label>
+    <String>Fazer com que eles procurem uma maneira de usar essas tecnologias para fortalecer nossos navios, independentemente de onde eles são construídos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumMoonEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +5% Hit Points para todos os navios.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumMoonEvent_Merciless_Bonus_Name</Label>
+    <String>Esta lua é obviamente a plataforma de armas perfeita que podemos usar para proteger este mundo. Eles podem se lançar mais tarde sobre as tecnologias.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumMoonEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malévolo, +10% Defesa Planetária</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloudEvent_Name</Label>
+    <String>Estudar a nuvem de Durantium</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloudEvent_Dec</Label>
+    <String>Uma antiga raça Precursora parece ter habitado este lugar uma vez. Eles deixaram para trás uma nuvem de asteróides Durantium que agora estão orbitando o mundo. Seremos capazes de usá-los para aumentar a eficiência dos Mass Drivers em nossos navios.
+Entretanto, também poderemos usar esta fonte pronta de Durantium para outros fins.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloudEvent_Title</Label>
+    <String>Evento de colonização</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloudEvent_Benevolent_Bonus_Name</Label>
+    <String>Podemos usar este Durantium para aumentar a produção deste planeta e aliviar a carga sobre nosso povo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloudEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolente, +1 Produção bruta para esta colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloudEvent_Neutral_Bonus_Name</Label>
+    <String>Devemos usar o excesso de Durantium para encontrar maneiras de aumentar a eficiência da blindagem em todos os nossos navios.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloudEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmático, +5% de blindagem para todos os navios.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloudEvent_Merciless_Bonus_Name</Label>
+    <String>Já estamos usando o Durantium para fazer melhores Drivers de Massa, vamos nos concentrar no que é importante: matar coisas.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloudEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malévolo, +5% adicional Ataque de driver de massa a todos os navios.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Name</Label>
+    <String>Estudar o Acelerador Precursor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Dec</Label>
+    <String>Um imenso Acelerador Precursor está orbitando este mundo. Conseguimos tocar neste dispositivo para criar sistemas de acionamento ainda mais potentes. Todos os nossos navios construídos aqui se beneficiarão de um grande aumento de velocidade.
+Alguns de nossos cientistas pensam que podem usar o acelerador para refinar também o Elerium e gostariam de fazer algumas experiências.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Title</Label>
+    <String>Evento de Colonização</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Benevolent_Bonus_Name</Label>
+    <String>Excelente, podemos usar o Elerium para criar um campo de defesa para a colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolente, +10% de Defesa Planetária</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Neutral_Bonus_Name</Label>
+    <String>Talvez possamos usar este Elerium para aumentar a força de nossos sistemas de proteção.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmático, +5% para a força de blindagem de todos os nossos navios.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Merciless_Bonus_Name</Label>
+    <String>Elerium é ótimo para fazer armas de raios, certo? Sem dúvida, devemos colocar nossa energia para fazer explosões maiores.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malévolo, +5% para o feixes de ataque de todos os nossos navios.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Name</Label>
+    <String>Estudo do Elevador Precursor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Dec</Label>
+    <String>Os Precursores que viveram neste mundo antes de nós deixaram para trás um elevador espacial completamente funcional. Isto aumentará muito nossa capacidade de colocar produtos manufaturados no espaço e se revelará muito útil para nosso estaleiro naval.
+Infelizmente, o setor público e vários outros grupos estão colocando muita pressão sobre nós. Eles esperam usar o elevador para facilitar seus próprios projetos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Title</Label>
+    <String>Evento de Colonização</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Benevolent_Bonus_Name</Label>
+    <String>Eles podem usá-lo como um local de férias quando estiver disponível, desde que não bloqueiem o tráfego militar.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolente, +5 Moral, +10% para a renda do turismo da colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Neutral_Bonus_Name</Label>
+    <String>Podemos permitir algum tempo de interesse comercial no Elevador. Qualquer aumento na renda será útil.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmático, +10% tanto para a renda das Colônias como para a renda das rotas comerciais.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Merciless_Bonus_Name</Label>
+    <String>O elevador é muito valioso para ser desperdiçado em atividades não-militares. Se eles tiverem tempo livre, podem emprestá-lo ao esforço de guerra.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolência, +10% de produção militar para todos os estaleiros navais.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefineryEvent_Name</Label>
+    <String>Estudar a Refinaria Promethion</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefineryEvent_Dec</Label>
+    <String>Duas estruturas gigantescas do Precursor orbitam os pólos deste mundo. Elas parecem ter sido usadas para, de alguma forma, transformar um gigante do Promethion Gas em um mundo habitável. Podemos usar o Promethion armazenado neles para aumentar o alcance de qualquer nave construída por nosso estaleiro.
+Nossos cientistas pensam que podem fazer mais com essas máquinas gigantes e gostariam de sua permissão para estudá-las mais a fundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefineryEvent_Title</Label>
+    <String>Evento de Colonização</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefineryEvent_Benevolent_Bonus_Name</Label>
+    <String>Veja se eles podem encontrar uma maneira de terraformar a superfície. Mais terra utilizável é sempre bem-vinda.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefineryEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolente, terraforma dois ladrilhos adicionais instantaneamente.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefineryEvent_Neutral_Bonus_Name</Label>
+    <String>Veja se há alguma maneira de aumentar o valor da terra que temos agora.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefineryEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmático, +1 Nível para todas as melhorias neste mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefineryEvent_Merciless_Bonus_Name</Label>
+    <String>Veja o que você pode fazer para calar os reclamantes para que eles cheguem ao trabalho. Temos uma galáxia a ser conquistada.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefineryEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malévolo, +8 para colônias Moral</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Name</Label>
+    <String>Estudar os satélites Precursor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Dec</Label>
+    <String>Os antigos habitantes do Precursor deixariam uma grande variedade de satélites muito poderosos em órbita. Conseguimos usá-los para ampliar tanto o alcance dos sensores do planeta quanto das naves que são construídas aqui. 
+Nossos pesquisadores gostariam de capturar um destes satélites para estudo e nos garantiram que ele não terá nenhum efeito prejudicial sobre o conjunto.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Title</Label>
+    <String>Evento de Colonização</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Benevolent_Bonus_Name</Label>
+    <String>Excelente. Faça com que nossos pesquisadores se concentrem no uso dos satélites para aumentar ainda mais o alcance de nossos sensores.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolente, +5 Potência do Sensor para todas as naves e colônias.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Neutral_Bonus_Name</Label>
+    <String>Fazer com que nossos pesquisadores descubram quais são os segredos de sua fonte de energia para que possamos usá-la em nossos próprios sistemas.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmático, +1 Produção de Matérias-Primas Planetárias.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Merciless_Bonus_Name</Label>
+    <String>Esta é uma oportunidade de ouro. Certifique-se de que nossos pesquisadores se concentrem no que eles encontram para tornar nossos sistemas de armas mais precisos..</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malévolo, +5% Precisão para todos os tipos de armas em todos os nossos navios.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Name</Label>
+    <String>Estudo do Tesouro Precursor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Dec</Label>
+    <String>Este planeta está rodeado por um imenso anel Precursor. Está cheio de ativos valiosos que poderiam ser usados para gerar renda.
+Outros estudos sobre o anel mostraram que ele já foi uma arma antiga. Nossos pesquisadores gostariam de fazer algumas experiências para ver se podem aprender como ele funcionava.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Title</Label>
+    <String>Evento de Colonização</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Benevolent_Bonus_Name</Label>
+    <String>Há muito a aprender com este artefato, mas vamos nos concentrar em outras coisas além da destruição.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolentes, +10% de pesquisa para esta colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Neutral_Bonus_Name</Label>
+    <String>Novas tecnologias de armas são sempre bem-vindas, mas não queremos correr o risco de destruir nossa "galinha dos ovos de ouro".</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmático, +5% para todas as armas em todos os nossos navios.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Merciless_Bonus_Name</Label>
+    <String>Descubra estes segredos por qualquer meio necessário, independentemente do custo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malévolo, +5% para todas as armas em todos os nossos navios.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Name</Label>
+    <String>Estudar a Fábrica de Precursores</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Dec</Label>
+    <String>Através de intensas pesquisas, temos sido capazes de usar a antiga Fábrica de Precursores orbitando este mundo para aumentar nossa produção de fabricação. 
+Vários membros da equipe de pesquisa responsável por isto apresentaram sugestões sobre como podemos utilizar este novo e incrível ativo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Title</Label>
+    <String>Evento de Colonização</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Benevolent_Bonus_Name</Label>
+    <String>Podemos usar o excesso de fabricação para melhorar a qualidade de vida dos cidadãos deste mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolente, +4 Moral para esta colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Neutral_Bonus_Name</Label>
+    <String>Podemos ter a fábrica focada na construção de nossa infra-estrutura, o que reduzirá o custo de construção de todas as nossas melhorias.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmático, +10% para a Construção Social nesta colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Merciless_Bonus_Name</Label>
+    <String>Usando os resultados desta pesquisa, podemos canalizar nossos esforços de fabricação para nosso estaleiro local de forma mais eficiente.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malévolo, +10% Construção de estaleiro</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Name</Label>
+    <String>Estudar o mundo da pesquisa do Precursor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Dec</Label>
+    <String>O antigo conjunto de Bases de Pesquisa de Precursores em órbita deste planeta está aumentando a capacidade de pesquisa para este mundo.  
+Nossos pesquisadores gostariam de ter permissão para ver se conseguem encontrar uma maneira de especializar o foco desses novos ativos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Title</Label>
+    <String>Evento de Colonização</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Benevolent_Bonus_Name</Label>
+    <String>É claro. Vamos fazer com que eles pesquisem maneiras de aumentar a produtividade de nosso mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +3 to Production, and Morale.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Neutral_Bonus_Name</Label>
+    <String>Diga a eles para estudar tudo! A longo prazo, nos beneficiaremos mais de ter uma maior variedade de tecnologias.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmático, +10% para Pesquisar sobre esta colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Merciless_Bonus_Name</Label>
+    <String>Diga a nossos pesquisadores para se concentrarem em maneiras de tornar nossas armas mais mortíferas e eficientes.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malévolo, +5% para o alcance de todas as armas.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Name</Label>
+    <String>Estudar a prisão Precursor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Dec</Label>
+    <String>Agora que limpamos a atmosfera, podemos usar a infra-estrutura das prisões Precursor para aumentar a qualidade de fabricação deste mundo.
+Entretanto, parece haver muito mais descobertas que são... mais escuras na natureza. Devemos tirar proveito desses bens?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Title</Label>
+    <String>Evento de Colonização</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Benevolent_Bonus_Name</Label>
+    <String>Devemos evitar agitar o passado sombrio deste mundo. Vamos nos concentrar na construção de nossa colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolente, +10% para a Construção Social.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Neutral_Bonus_Name</Label>
+    <String>Seria melhor usar a infra-estrutura carcerária para fortificar este novo mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmático, +10% para Defesa Planetária e Resistência Planetária.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Merciless_Bonus_Name</Label>
+    <String>Não importa qual seja a natureza da descoberta! Use os dispositivos mais perturbadores para tornar nossos soldados implacáveis.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malévolo, +5% para os soldados em geral.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Name</Label>
+    <String>Estudar o mundo experimental do Precursor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Dec</Label>
+    <String>A gigantesca Estação Experimental Precursor que orbita este mundo tornou-se um recurso surpreendente que está ajudando a capacidade deste planeta de pesquisar novas tecnologias.
+Também encontramos algumas experiências interessantes que talvez possamos completar com algum trabalho extra.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Title</Label>
+    <String>Evento de Colonização</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Benevolent_Bonus_Name</Label>
+    <String>Convidar nossos vizinhos para estudar este incrível artefato. Ele pode nos ajudar a ganhar alguma boa vontade.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolentes, +10 Influência por turno para esta colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Neutral_Bonus_Name</Label>
+    <String>Devemos continuar trabalhando no maior número possível dessas experiências.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmáticos, +10 a Pontos de Pesquisa por turno.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Merciless_Bonus_Name</Label>
+    <String>Se conseguirmos encontrar qualquer forma de tornar este mundo mais produtivo, devemos torná-lo nossa maior prioridade.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malévolo, +8 Pontos de produção para esta colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Name</Label>
+    <String>Estudar a Quarentena do Precursor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Dec</Label>
+    <String>A limpeza da atmosfera deste mundo demonstrou ser surpreendentemente produtiva e rica em recursos.
+Nossos pesquisadores têm estudado o dispositivo de contenção Precursor que está orbitando o planeta e pensam que podem usá-lo para aumentar ainda mais o potencial deste mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Title</Label>
+    <String>Evento de Colonização</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Benevolent_Bonus_Name</Label>
+    <String>Precisamos nos concentrar em tornar este planeta o mais confortável possível para nossos colonos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolentes, +10% para o crescimento da população neste planeta.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Neutral_Bonus_Name</Label>
+    <String>Devemos usar essas tecnologias para aumentar a capacidade alimentar do mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmático, +6 para o limite de população neste planeta.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Merciless_Bonus_Name</Label>
+    <String>Vamos ver se podemos aumentar a quantidade de terra utilizável.  Podemos sempre fazer mais pessoas mais tarde.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malévolo, +2 para a classe deste planeta.</String>
+  </StringTable>
+ 
+</StringTableList>

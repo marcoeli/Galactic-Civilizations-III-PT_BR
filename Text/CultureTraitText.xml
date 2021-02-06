@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- CultureTraitText.xml -->
+ 
+  <StringTable>
+    <Label>OutreachTrait1_Name</Label>
+    <String>Pioneirismo</String>
+  </StringTable>
+  <StringTable>
+    <Label>OutreachTrait1_Dec</Label>
+    <String>Concede um navio-colônia livre, totalmente carregado.</String>
+  </StringTable>
+  <StringTable>
+    <Label>OutreachTrait1_ShortDec</Label>
+    <String>Seu povo está ansioso para explorar as estrelas e, mais importante ainda, está disposto a colocar os créditos para fazer isso.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachTrait2_Name</Label>
+    <String>Exploradores</String>
+  </StringTable>
+  <StringTable>
+    <Label>OutreachTrait2_Dec</Label>
+    <String>Um Planeta classe 10 previamente despercebido é revelado perto de seu sistema doméstico.</String>
+  </StringTable>
+  <StringTable>
+    <Label>OutreachTrait2_ShortDec</Label>
+    <String>Nossos pesquisadores descobriram que um mundo que se pensava ser árido é colonizável. A melhor parte é que isso está bem próximo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachTrait3_Name</Label>
+    <String>Abundante</String>
+  </StringTable>
+  <StringTable>
+    <Label>OutreachTrait3_Dec</Label>
+    <String>Todas as novas colônias começam com 2 populações extras.</String>
+  </StringTable>
+  <StringTable>
+    <Label>OutreachTrait3_ShortDec</Label>
+    <String>Um jorro de crescimento recente junto com pessoas que estão ansiosas para experimentar novos planetas. Isto resulta em um aumento agradável para a colonização futura.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachTrait4_Name</Label>
+    <String>Adepto</String>
+  </StringTable>
+  <StringTable>
+    <Label>OutreachTrait4_Dec</Label>
+    <String>Cada colônia existente recebe 1 ladrilho adicional.</String>
+  </StringTable>
+  <StringTable>
+    <Label>OutreachTrait4_ShortDec</Label>
+    <String>Nossa experiência em exploração e colonização compensou novamente, permitindo-nos encontrar 1 ladrilho adicional utilizável em cada uma de nossas colônias.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachTrait5_Name</Label>
+    <String>Farol</String>
+  </StringTable>
+  <StringTable>
+    <Label>OutreachTrait5_Dec</Label>
+    <String>Concede um Planeta classe 16.</String>
+  </StringTable>
+  <StringTable>
+    <Label>OutreachTrait5_ShortDec</Label>
+    <String>Um mundo recluso, há muito escondido do resto da galáxia, decidiu que nossa civilização é um farol de esclarecimento e vale a pena alinhar-se com.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait1_Name</Label>
+    <String>Elevado</String>
+  </StringTable>
+  <StringTable>
+    <Label>AffinityTrait1_Dec</Label>
+    <String>Permite a construção da conquista Elevation Foundation.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AffinityTrait1_ShortDec</Label>
+    <String>A Elevation Foundation encoraja os visitantes de sua civilização a assimilarem mais plenamente a cultura de sua espécie, elevando o moral de uma colônia em 100% e gerando um ponto de ideologia benevolente a cada 10 turnos..</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait2_Name</Label>
+    <String>Dignificado</String>
+  </StringTable>
+  <StringTable>
+    <Label>AffinityTrait2_Dec</Label>
+    <String>A aprovação do mundo natal aumentou em 50%.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AffinityTrait2_ShortDec</Label>
+    <String>Os residentes de seu mundo natal estão tão orgulhosos de sua herança que parecem não se importar que é também um dos mundos mais povoados de sua civilização.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait3_Name</Label>
+    <String>Apreciativo</String>
+  </StringTable>
+  <StringTable>
+    <Label>AffinityTrait3_Dec</Label>
+    <String>Seus primeiros 5 mundos recebem um bônus de aprovação.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AffinityTrait3_ShortDec</Label>
+    <String>Os descendentes dos primeiros colonizadores carregam consigo uma quantidade incomum de orgulho e fé em sua civilização.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait4_Name</Label>
+    <String>Leal</String>
+  </StringTable>
+  <StringTable>
+    <Label>AffinityTrait4_Dec</Label>
+    <String>Todas as colônias recebem um bônus de resistência de 10%..</String>
+  </StringTable>
+  <StringTable>
+    <Label>AffinityTrait4_ShortDec</Label>
+    <String>Nossos cidadãos cresceram para amar nosso mundo e se erguerão em defesa deles.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AffinityTrait5_Name</Label>
+    <String>Nobre</String>
+  </StringTable>
+  <StringTable>
+    <Label>AffinityTrait5_Dec</Label>
+    <String>Todas as colônias recebem um bônus de aprovação de 50%.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AffinityTrait5_ShortDec</Label>
+    <String>Um governo pode escravizar a força de seus cidadãos e dominar suas mentes, mas seus corações só podem ser conquistados.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait1_Name</Label>
+    <String>Eminência</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProminenceTrait1_Dec</Label>
+    <String>Permite a construção de um Centro Missionário, que produz um ponto de Ideologia Benevolente a cada 10 turnos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProminenceTrait1_ShortDec</Label>
+    <String>O Centro Missionário cria missionários que viajam pela galáxia espalhando a palavra sobre a grandeza de sua civilização. Esta Melhoria concede poderosos bônus para Influenciar e construir sua reputação como raça benevolente..</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait2_Name</Label>
+    <String>Admirável</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProminenceTrait2_Dec</Label>
+    <String>Dá a seu mundo natal uma influência adicional por vez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProminenceTrait2_ShortDec</Label>
+    <String>A cultura e o padrão de vida da civilização do mundo natal são admirados e invejados em toda a galáxia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait3_Name</Label>
+    <String>Seduzindo</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProminenceTrait3_Dec</Label>
+    <String>Todos os planetas e bases estelares dentro de nossa Influência se unem a nossa civilização.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProminenceTrait3_ShortDec</Label>
+    <String>Nossa reputação cresceu ao ponto de que qualquer mundo dentro de nossa Influência implora para se unir à nossa Civilização.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait4_Name</Label>
+    <String>Atraente</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProminenceTrait4_Dec</Label>
+    <String>Todas as Starbases geram Influência, independentemente do tipo.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProminenceTrait4_ShortDec</Label>
+    <String>Nossas bases estelares brilham na noite profunda do espaço como estrelas formadas de vidro e titânio.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProminenceTrait5_Name</Label>
+    <String>Radiante</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProminenceTrait5_Dec</Label>
+    <String>Todos seus mundos ganham Influência adicional por vez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProminenceTrait5_ShortDec</Label>
+    <String>Nossos mundos são tão prósperos e avançados que cada um deles é idolatrado pelo resto da galáxia..</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait1_Name</Label>
+    <String>Educado</String>
+  </StringTable>
+  <StringTable>
+    <Label>EnlightenmentTrait1_Dec</Label>
+    <String>Concede 150 pontos de pesquisa gratuitos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EnlightenmentTrait1_ShortDec</Label>
+    <String>Sua cultura de aceitação de mente aberta incentiva regularmente o desenvolvimento de grandes pensadores. Uma dessas mentes deu um passo adiante, levando a avanços maciços em sua compreensão do universo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait2_Name</Label>
+    <String>Qualificados</String>
+  </StringTable>
+  <StringTable>
+    <Label>EnlightenmentTrait2_Dec</Label>
+    <String>Todos os seus mundos ganham um bônus de pesquisa de 10%..</String>
+  </StringTable>
+  <StringTable>
+    <Label>EnlightenmentTrait2_ShortDec</Label>
+    <String>Nossas bases estelares são o coração pulsante de nosso império, através do qual o sangue flui para cada parte. Elas transportam suprimentos e navios, mas o mais importante é a comunicação entre nossos mundos, para que nossas melhores mentes possam facilmente conferenciar umas com as outras.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait3_Name</Label>
+    <String>Enriquecido</String>
+  </StringTable>
+  <StringTable>
+    <Label>EnlightenmentTrait3_Dec</Label>
+    <String>Permite a construção do Templo do Iluminismo.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EnlightenmentTrait3_ShortDec</Label>
+    <String>Permite-nos construir um Templo do Iluminismo, que dá um bônus de 200% à Pesquisa de uma colônia e gera um ponto de Ideologia Benevolente a cada 5 turnos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait4_Name</Label>
+    <String>Inovação</String>
+  </StringTable>
+  <StringTable>
+    <Label>EnlightenmentTrait4_Dec</Label>
+    <String>Concede 300 pontos de pesquisa gratuitos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EnlightenmentTrait4_ShortDec</Label>
+    <String>Nossa civilização se tornou tão atraente que grandes mentes através da galáxia começaram a migrar para nosso mundo, iniciando uma nova Era Dourada de avanço científico..</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnlightenmentTrait5_Name</Label>
+    <String>Salto Quântico</String>
+  </StringTable>
+  <StringTable>
+    <Label>EnlightenmentTrait5_Dec</Label>
+    <String>Concede 600 pontos de pesquisa gratuitos, e todas as colônias ganham 5 Pesquisas por turno.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EnlightenmentTrait5_ShortDec</Label>
+    <String>O avanço foi tão significativo que não podíamos imaginar o que estávamos prestes a nos tornar e, uma vez transformados, não podíamos nos lembrar do que um dia fomos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait1_Name</Label>
+    <String>Preparado</String>
+  </StringTable>
+  <StringTable>
+    <Label>VigilantTrait1_Dec</Label>
+    <String>Permite a construção de um Centro de Preparação, que produz pontos de Ideologia Pragmática a cada 10 turnos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>VigilantTrait1_ShortDec</Label>
+    <String>Um povo pragmático sabe que é melhor estar preparado para o pior.  Estes centros permitem a nossos mundos lidar melhor com as duras realidades da galáxia.. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait2_Name</Label>
+    <String>Projetado</String>
+  </StringTable>
+  <StringTable>
+    <Label>VigilantTrait2_Dec</Label>
+    <String>Qualquer pessoa em guerra conosco recebe uma penalidade de 25% para Aprovação.</String>
+  </StringTable>
+  <StringTable>
+    <Label>VigilantTrait2_ShortDec</Label>
+    <String>Nossa civilização é tão bem pensada na galáxia que qualquer raça que declare guerra contra nós logo sofrerá um retrocesso de sua própria população.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait3_Name</Label>
+    <String>Reservado</String>
+  </StringTable>
+  <StringTable>
+    <Label>VigilantTrait3_Dec</Label>
+    <String>Navios inimigos em nossa Zona de Controle recebem uma penalidade de 25% para seu Sensor e alcance de navio.</String>
+  </StringTable>
+  <StringTable>
+    <Label>VigilantTrait3_ShortDec</Label>
+    <String>Nosso povo tem o hábito de fazer com que as raças hostis tenham dificuldade em se locomover ou até mesmo encontrar seu caminho em torno de nossos territórios.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait4_Name</Label>
+    <String>Cauteloso</String>
+  </StringTable>
+  <StringTable>
+    <Label>VigilantTrait4_Dec</Label>
+    <String>Todos os planetas recebem 3 navios de defesa gratuitos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>VigilantTrait4_ShortDec</Label>
+    <String>À medida que a galáxia se torna cada vez mais perigosa, nossos cidadãos se tornaram mais capazes de defender seus próprios mundos, e encontraram os meios para fazê-lo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantTrait5_Name</Label>
+    <String>Vigilância</String>
+  </StringTable>
+  <StringTable>
+    <Label>VigilantTrait5_Dec</Label>
+    <String>Todos os nossos navios recebem um caça de escolta gratuito quando em nossa Zona de Controle.</String>
+  </StringTable>
+  <StringTable>
+    <Label>VigilantTrait5_ShortDec</Label>
+    <String>Nossa cidadania tornou-se muito protetora de nossa infra-estrutura e formou vários grupos voluntários que patrulham nosso território protegendo nossas frotas de ataques.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait1_Name</Label>
+    <String>Construtivo</String>
+  </StringTable>
+  <StringTable>
+    <Label>BuilderTrait1_Dec</Label>
+    <String>Concede 3 Embarcações Construtoras gratuitas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BuilderTrait1_ShortDec</Label>
+    <String>Estabelecemos parcerias público-privadas para incentivar a criação de embarcações Construtoras que nos ajudarão a construir nossa infra-estrutura.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait2_Name</Label>
+    <String>Coordenado</String>
+  </StringTable>
+  <StringTable>
+    <Label>BuilderTrait2_Dec</Label>
+    <String>Nossos estaleiros operam a 100% ao dobro da distância de suas colônias.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BuilderTrait2_ShortDec</Label>
+    <String>Um planejamento melhorado tornou nossos estaleiros muito mais eficientes, melhorando drasticamente a eficácia de nossa infra-estrutura econômica e militar.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait3_Name</Label>
+    <String>Inventivo</String>
+  </StringTable>
+  <StringTable>
+    <Label>BuilderTrait3_Dec</Label>
+    <String>Aumenta a Área de Efeito de todas as nossas bases estelares em 2</String>
+  </StringTable>
+  <StringTable>
+    <Label>BuilderTrait3_ShortDec</Label>
+    <String>Nossos engenheiros econômicos da base estelar são tão eficientes que agora podem alcançar recursos e planetas mais distantes no espaço.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait4_Name</Label>
+    <String>Com muitos recursos</String>
+  </StringTable>
+  <StringTable>
+    <Label>BuilderTrait4_Dec</Label>
+    <String>Todos os rendimentos dos recursos minerados aumentaram .1 por turno.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BuilderTrait4_ShortDec</Label>
+    <String>Nossos mineiros foram capazes de aumentar o rendimento de nossas bases estelares sem nenhuma infra-estrutura adicional.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BuilderTrait5_Name</Label>
+    <String>Eficiente</String>
+  </StringTable>
+  <StringTable>
+    <Label>BuilderTrait5_Dec</Label>
+    <String>As Starbases não pagam mais nenhuma manutenção.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BuilderTrait5_ShortDec</Label>
+    <String>Nossos engenheiros tornaram-se tão proficientes na construção de Starbases que agora podem se manter com os recursos encontrados ao seu redor no espaço.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait1_Name</Label>
+    <String>Exportadores</String>
+  </StringTable>
+  <StringTable>
+    <Label>TradersTrait1_Dec</Label>
+    <String>Concede uma Licença de Carga e de Comércio Livre.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TradersTrait1_ShortDec</Label>
+    <String>Com a infra-estrutura adequada, estaremos muito mais aptos a capitalizar as possibilidades de viagens interestelares.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait2_Name</Label>
+    <String>Comerciantes</String>
+  </StringTable>
+  <StringTable>
+    <Label>TradersTrait2_Dec</Label>
+    <String>Toda a renda comercial aumentou em 25%.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TradersTrait2_ShortDec</Label>
+    <String>Os comerciantes de nossa civilização são considerados como os mais duros comerciantes de toda a galáxia.  Eles podem obter o melhor preço em qualquer lugar que viajem.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait3_Name</Label>
+    <String>Luxo</String>
+  </StringTable>
+  <StringTable>
+    <Label>TradersTrait3_Dec</Label>
+    <String>Possibilita Rotas de Comércio de Luxo.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TradersTrait3_ShortDec</Label>
+    <String>As Rotas de Comércio de Luxo não são apenas mais lucrativas, elas aumentam a Influência &amp; Aprovação dos planetas que elas conectam.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait4_Name</Label>
+    <String>Indispensável</String>
+  </StringTable>
+  <StringTable>
+    <Label>TradersTrait4_Dec</Label>
+    <String>Melhora as relações com as Civilizações com as quais temos Rotas de Comércio.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TradersTrait4_ShortDec</Label>
+    <String>Nossas rotas comerciais se tornaram tão bem estabelecidas que as Civilizações com as quais negociamos farão quase tudo para mantê-las.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradersTrait5_Name</Label>
+    <String>Sagaz</String>
+  </StringTable>
+  <StringTable>
+    <Label>TradersTrait5_Dec</Label>
+    <String>Ofícios diplomáticos para Créditos pagam um adicional de 25%..</String>
+  </StringTable>
+  <StringTable>
+    <Label>TradersTrait5_ShortDec</Label>
+    <String>Nossas habilidades como negociadores são tão grandes que somos sempre capazes de garantir que nossas civilizações saiam à frente em qualquer comércio.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait1_Name</Label>
+    <String>Neutro</String>
+  </StringTable>
+  <StringTable>
+    <Label>NegotiatorTrait1_Dec</Label>
+    <String>Ninguém vai declarar guerra contra nós nos próximos 50 turnos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>NegotiatorTrait1_ShortDec</Label>
+    <String>Nossa civilização estabeleceu uma reputação que pode ser raciocinada e, por enquanto, seremos capazes de falar sobre como sair de todos os conflitos..</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait2_Name</Label>
+    <String>Amável</String>
+  </StringTable>
+  <StringTable>
+    <Label>NegotiatorTrait2_Dec</Label>
+    <String>Melhoria das relações com todas as raças.</String>
+  </StringTable>
+  <StringTable>
+    <Label>NegotiatorTrait2_ShortDec</Label>
+    <String>Nossa abordagem cautelosa mas razoável ao falar com nossos vizinhos estabeleceu uma reputação que nos beneficiará em todas as nossas relações diplomáticas.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait3_Name</Label>
+    <String>Árbitros</String>
+  </StringTable>
+  <StringTable>
+    <Label>NegotiatorTrait3_Dec</Label>
+    <String>Permite a construção da realização do Centro de Arbitragem.</String>
+  </StringTable>
+  <StringTable>
+    <Label>NegotiatorTrait3_ShortDec</Label>
+    <String>Nossa reputação como uma Civilização justa e equilibrada tem atraído a atenção de outros que desejam que ajudemos a resolver suas próprias disputas.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait4_Name</Label>
+    <String>Popular</String>
+  </StringTable>
+  <StringTable>
+    <Label>NegotiatorTrait4_Dec</Label>
+    <String>Civilizações que declaram guerra contra nós enfurecem todas as outras raças da galáxia.</String>
+  </StringTable>
+  <StringTable>
+    <Label>NegotiatorTrait4_ShortDec</Label>
+    <String>Nossa reputação como negociadores cresceu ao ponto de até nossos inimigos olharem com desconfiança para qualquer um que declare guerra contra nós..</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NegotiatorTrait5_Name</Label>
+    <String>Venerável</String>
+  </StringTable>
+  <StringTable>
+    <Label>NegotiatorTrait5_Dec</Label>
+    <String>Qualquer civilização que invade nosso mundo natal é imediatamente declarada em guerra por todas as outras raças não aliadas a elas..</String>
+  </StringTable>
+  <StringTable>
+    <Label>NegotiatorTrait5_ShortDec</Label>
+    <String>Nosso mundo natal tornou-se conhecido como o terreno neutro em toda a galáxia. A sua violação convida a ira da maioria das raças da galáxia..</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait1_Name</Label>
+    <String>Militarista</String>
+  </StringTable>
+  <StringTable>
+    <Label>AggressionTrait1_Dec</Label>
+    <String>Concede um navio de guerra gratuito da classe Frigate.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AggressionTrait1_ShortDec</Label>
+    <String>O interesse de nossa civilização pela pesquisa e desenvolvimento militar resultou na criação de um navio protótipo que está verdadeiramente à frente de seu tempo..</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait2_Name</Label>
+    <String>Ansioso</String>
+  </StringTable>
+  <StringTable>
+    <Label>AggressionTrait2_Dec</Label>
+    <String>Cada planeta que conquistamos proporciona a nosso povo um impulso permanente para a Aprovação.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AggressionTrait2_ShortDec</Label>
+    <String>Com cada vitória, nossas forças se tornam mais seguras de sua causa e mais determinadas a fazer o que é necessário para alcançá-la.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait3_Name</Label>
+    <String>Ameaçando</String>
+  </StringTable>
+  <StringTable>
+    <Label>AggressionTrait3_Dec</Label>
+    <String>Concede 3 transportes gratuitos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AggressionTrait3_ShortDec</Label>
+    <String>Nosso povo está tão faminto por conquistas que financiou e tripulou uma frota de invasão inteira.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait4_Name</Label>
+    <String>Perigoso</String>
+  </StringTable>
+  <StringTable>
+    <Label>AggressionTrait4_Dec</Label>
+    <String>Desbloqueia Módulos avançados de transporte que vêm com caças de escolta.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AggressionTrait4_ShortDec</Label>
+    <String>Nossos módulos de transporte são agora tão eficazes que podem transportar caças de escolta no caso de serem atacados.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressionTrait5_Name</Label>
+    <String>Sedento de sangue</String>
+  </StringTable>
+  <StringTable>
+    <Label>AggressionTrait5_Dec</Label>
+    <String>Todos os planetas recebem um navio da classe Overlord totalmente armado.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AggressionTrait5_ShortDec</Label>
+    <String>Nossa civilização está tão faminta de violência que cada um de nossos planetas é capaz de reunir os recursos para fabricar um grande navio defensivo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait1_Name</Label>
+    <String>Intimidante</String>
+  </StringTable>
+  <StringTable>
+    <Label>MotivationTrait1_Dec</Label>
+    <String>Desbloqueia a melhoria do Centro de Intimidação, que produz um Ponto de Ideologia Malévolo a cada 10 turnos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MotivationTrait1_ShortDec</Label>
+    <String>Um Centro de Intimidação é capaz de levantar a aprovação pela força. Quando colocado em um mundo problemático, ele ajudará a calar os queixosos e reconfirmar nossa reputação como uma raça que não tira... guff... de ninguém.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait2_Name</Label>
+    <String>Sem piedade</String>
+  </StringTable>
+  <StringTable>
+    <Label>MotivationTrait2_Dec</Label>
+    <String>Concede produção gratuita para nosso mundo natal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MotivationTrait2_ShortDec</Label>
+    <String>Os trabalhadores são destinados a trabalhar.  Depois de fazer um exemplo confuso de alguns que pensavam o contrário, podemos contar com um grande impulso à produção em nosso mundo natal.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait3_Name</Label>
+    <String>Implacável</String>
+  </StringTable>
+  <StringTable>
+    <Label>MotivationTrait3_Dec</Label>
+    <String>Aumenta a produção Militar de nosso mundo natal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MotivationTrait3_ShortDec</Label>
+    <String>Nosso mundo natal está tão motivado a espalhar sua influência que nossos estaleiros podem produzir naves mais rapidamente do que praticamente qualquer outro mundo da galáxia...</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait4_Name</Label>
+    <String>Implacável</String>
+  </StringTable>
+  <StringTable>
+    <Label>MotivationTrait4_Dec</Label>
+    <String>Permite a construção da realização do Forno da Morte.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MotivationTrait4_ShortDec</Label>
+    <String>Estes terríveis Fornos da Morte tornarão um planeta substancialmente mais produtivo, embora um pouco menos agradável de se ver. Ele também gera um ponto de Ideologia Malévola a cada 5 turnos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotivationTrait5_Name</Label>
+    <String>Imperdoável</String>
+  </StringTable>
+  <StringTable>
+    <Label>MotivationTrait5_Dec</Label>
+    <String>Todas as colônias recebem um Bônus de 20% de Produção Bruta.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MotivationTrait5_ShortDec</Label>
+    <String>Desde que começamos a transmitir nossas mais hilariantes e dolorosas Sanções de Preguiça em toda a nossa civilização, os trabalhadores em todos os lugares vivem aterrorizados por não darem 110%.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait1_Name</Label>
+    <String>Inútil</String>
+  </StringTable>
+  <StringTable>
+    <Label>GreedTrait1_Dec</Label>
+    <String>Proporciona um aumento de 10% na renda planetária.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GreedTrait1_ShortDec</Label>
+    <String>Os administradores planetários se tornaram especialistas em raspar um pouco da receita do topo das economias de seus mundos. Um assunto simples realmente - qualquer um que reclama logo se vê trabalhando em algum lugar escuro e barulhento..</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait2_Name</Label>
+    <String>Utilitário</String>
+  </StringTable>
+  <StringTable>
+    <Label>GreedTrait2_Dec</Label>
+    <String>Melhora a classe dos nossos primeiros cinco mundos em 1.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GreedTrait2_ShortDec</Label>
+    <String>Nossos mundos centrais compreendem que a terra deve ser desenvolvida, e que mesmo o terreno mais marginal deve ser explorado para que nossa raça maximize sua produtividade.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait3_Name</Label>
+    <String>Resistente</String>
+  </StringTable>
+  <StringTable>
+    <Label>GreedTrait3_Dec</Label>
+    <String>Permite a construção da Citadel of Revenue.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GreedTrait3_ShortDec</Label>
+    <String>A Cidadela da Receita é falada em sussurros por toda a galáxia, embora poucos conheçam as técnicas que ela usa para espremer até o último crédito de um planeta. A simples posse de uma gera um ponto de Ideologia Malévola a cada 10 turnos..</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait4_Name</Label>
+    <String>Mestres escravos</String>
+  </StringTable>
+  <StringTable>
+    <Label>GreedTrait4_Dec</Label>
+    <String>Todas as Rotas Comerciais agora trazem de volta escravos além dos Créditos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GreedTrait4_ShortDec</Label>
+    <String>Com um pouco de gestão criativa, nossos comerciantes têm sido capazes de começar a importar escravos de mundos alienígenas, na maioria das vezes sem que nossos parceiros comerciais percebessem.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GreedTrait5_Name</Label>
+    <String>Sem coração</String>
+  </StringTable>
+  <StringTable>
+    <Label>GreedTrait5_Dec</Label>
+    <String>Cada planeta recebe terra utilizável adicional.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GreedTrait5_ShortDec</Label>
+    <String>Nossa civilização se preocupa tão pouco com a situação de seus trabalhadores que somos capazes de fazer uso do terreno, uma vez considerado perigosamente inutilizável..</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait1_Name</Label>
+    <String>Assustador</String>
+  </StringTable>
+  <StringTable>
+    <Label>AweTrait1_Dec</Label>
+    <String>Nenhuma penalidade por compartilhar fronteiras com outra Civilização.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AweTrait1_ShortDec</Label>
+    <String>Raças com as quais compartilhamos uma fronteira, sabemos melhor do que fazer um problema.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait2_Name</Label>
+    <String>Temido</String>
+  </StringTable>
+  <StringTable>
+    <Label>AweTrait2_Dec</Label>
+    <String>Outras raças terão mais facilidade em negociar conosco.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AweTrait2_ShortDec</Label>
+    <String>Nossa reputação agora faz com que as raças mais fracas se humilhem a nossos pés, implorando por nosso favor com termos comerciais injustificadamente generosos..</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait3_Name</Label>
+    <String>Desinteressante</String>
+  </StringTable>
+  <StringTable>
+    <Label>AweTrait3_Dec</Label>
+    <String>Os navios inimigos em nossa Zona de Controle sofrem uma penalidade de 25% em seus Hit Points.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AweTrait3_ShortDec</Label>
+    <String>As embarcações inimigas em nosso território são tão paranóicas que parecem literalmente se abalar com medo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait4_Name</Label>
+    <String>Exaltado</String>
+  </StringTable>
+  <StringTable>
+    <Label>AweTrait4_Dec</Label>
+    <String>Uma colônia Classe 16 perto de suas fronteiras defeitos para sua civilização.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AweTrait4_ShortDec</Label>
+    <String>Existem alguns mundos suficientemente sábios para saber não resistir ao nosso esplendor, independentemente do que seu líder lhes disser.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AweTrait5_Name</Label>
+    <String>Indomável</String>
+  </StringTable>
+  <StringTable>
+    <Label>AweTrait5_Dec</Label>
+    <String>Nossos Planetas e Bases Estelares são imunes ao Culture Flipping.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AweTrait5_ShortDec</Label>
+    <String>Nosso povo está tão orgulhoso que o conceito de ceder a uma cultura estrangeira é impossível de conceber. Eles permanecerão leais até o amargo fim..</String>
+  </StringTable>
+ 
+ 
+</StringTableList>

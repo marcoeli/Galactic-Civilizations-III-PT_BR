@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- UIText_CrisisText.xml -->
+ 
+<!-- Event Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust_Name</Label>
+    <String>Crisis: The Brain Trust</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust_Dec</Label>
+    <String>Our intelligence officers have uncovered a clandestine group of scientists calling themselves "The Brain Trust" that have been secretly working on a mysterious project. We have not been able to figure out what they are up to, but we do know that they are using our precious resources to do it.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust_Choice1Dec</Label>
+    <String>Offer to fund their little project, as long as they share any breakthroughs with us first.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust_Choice1BonusDec</Label>
+    <String>+5 Benevolent, -250 Credits</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust_Choice2Dec</Label>
+    <String>Try and infiltrate their group and find out what they are planning.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust_Choice2BonusDec</Label>
+    <String>+5 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust_Choice3Dec</Label>
+    <String>Break up their little group, and make sure they stay focused on our goals.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust_Choice3BonusDec</Label>
+    <String>+5 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1_Name</Label>
+    <String>Crisis: The Brain Trust (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1_Dec</Label>
+    <String>The Credits we have been pumping into "The Brain Trust" have bore fruit finally. They claim to have created a new type of Durantium Shielding, that should allow us to build a power plant that would substantially boost the Raw Production of any planet it is constructed on.
+
+We are having our researchers fact check their findings, but honestly the math is beyond anything they understand.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1_Choice1Dec</Label>
+    <String>Sounds risky, see if they can find a way to use this tech to improve our existing power systems.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Benevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1_Choice2Dec</Label>
+    <String>This news is concerning, and perhaps we should spend some more credits to make sure it is safe.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1_Choice2BonusDec</Label>
+    <String>-250 Credits</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1_Choice3Dec</Label>
+    <String>Let's build the thing and see what happens, what could go wrong?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Science check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1a_Name</Label>
+    <String>Crisis: The Brain Trust - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1a_Dec</Label>
+    <String>It appears "The Brain Trust" should have been called the "The Lame Trust". After a more detailed review of their findings, we have discovered that most of the test results were fake. They were just after government funding so they could all retire to a pleasure planet outside of our borders.
+
+Despite this, we were able to salvage some of their research, and have been able to make our existing power systems slightly more efficient
+
+[COLOR=UIDefaultHighlight]+5% Raw production on all colonies[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1b_Name</Label>
+    <String>Crisis: The Brain Trust - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1b_Dec</Label>
+    <String>In an unfortunate turn of events, our fact checkers gave "The Brain Trust" the go-ahead to test their new technology on {PLANETNAME}.
+
+The results were not what we expected. In fact, the entire "Brain Trust" was killed when the power system they were testing exploded and the shock wave disintegrated them and all the surrounding civilians. 
+
+[COLOR=UIDefaultHighlight]-25% Raw production {PLANETNAME} for 10 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1c_Name</Label>
+    <String>Crisis: The Brain Trust - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1c_Dec</Label>
+    <String>The extra Credits we put into testing "The Brain Trusts" new power plant has paid off. If we had built it as designed, it probably would have worked, but it would have also vibrated the brains of all the all the surrounding colonists into some sort of grey pudding.
+
+With some work, we have been able to fix the issue. Yet the plant will not be quite as efficient, as the brain-melting version.
+
+[COLOR=UIDefaultHighlight]Can now build the Durantium Matrix Power Plant[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1e_Name</Label>
+    <String>Crisis: The Brain Trust - Uncertain</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1e_Dec</Label>
+    <String>"The Brain Trust" has completed the design of their revolutionary new Durantium Matrix Power Plant. Everything appears safe to our scientists.
+
+The only member of our fact-checking team who was concerned with the numbers seems to have gone missing. His colleagues assure us that he probably just needed a vacation.
+
+
+[COLOR=UIDefaultHighlight]Can now build the Durantium Matrix Power Plant[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1f_Name</Label>
+    <String>Crisis: The Brain Trust - Uncertain</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1f_Dec</Label>
+    <String>"The Brain Trust" has completed the design of their revolutionary new Durantium Matrix Power Plant. There are some concerns building it might have an adverse effect on colonies' morale, but the production boost will probably make it worthwhile.
+
+The only member of our fact-checking team who was concerned with the numbers seems to have gone missing, but his colleagues assure us that he probably just needed a vacation.
+
+[COLOR=UIDefaultHighlight]Can now build the Durantium Matrix Power Plant[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1f1_Name</Label>
+    <String>Crisis: The Brain Trust - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1f1_Dec</Label>
+    <String>The Durantium Matrix Power Plant has finally been completed. Our best scientists are quite frankly surprised that it is working just as "The Brain Trust" promised.
+
+The members of the Brain trust are now all famous and have begun lucrative lecture tours throughout our civilization.
+
+ [COLOR=UIDefaultHighlight]+10% Research to all colonies for 10 turns.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1f2_Name</Label>
+    <String>Crisis: The Brain Trust - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust1f2_Dec</Label>
+    <String>The Durantium Matrix Power Plant has finally been completed and is indeed producing record power levels. The bad news is that the amazing new Durantium Shielding resonates with the plant, providing a mind-numbing subsonic humming, which has made the colony we built it on absolutely miserable and crazy aggressive.
+
+Unfortunately, the unhappy colonist tracked down the members of the brain trust before we could set them the task fixing the problem.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2_Name</Label>
+    <String>Crisis: The Brain Trust (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2_Dec</Label>
+    <String>We have successfully infiltrated "the Brain Trust." It appears that they have been appropriating Durantium in large quantities. They think they can create a new type of shielding for power planets.
+ 
+Our operatives think they are hoping to sell this tech to the highest bidder when they complete their research.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2_Choice1Dec</Label>
+    <String>Confront "The Brain Trust" and let them know they will be treated fairly, if they share this new technology with us.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Diplomacy check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2_Choice2Dec</Label>
+    <String> Arrest "The Brain Trust." Seize  their  research, and force them to refund the Durantium they embezzled.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2_Choice3Dec</Label>
+    <String>Arrest them all. Squeeze what you can out of them and then execute them as a lesson to would-be thieves.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Malevolent check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2a_Name</Label>
+    <String>Crisis: The Brain Trust - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2a_Dec</Label>
+    <String>With some diplomatic prodding, we were able to persuade "The Brain Trust" to come out of the shadows. They have shared their research with us and even told us the location of the Durantium that they embezzled.
+
+In return, we have agreed not to shoot them into space without a ship.
+
+[COLOR=UIDefaultHighlight]+5% Research all colonies, +5 Pragmatic, +5 Durantium[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2b_Name</Label>
+    <String>Crisis: The Brain Trust - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2b_Dec</Label>
+    <String>Our attempt to diplomatically confront "The Brain Trust" did not work out so well. The building they were hiding out in was accidentally disintegrated when one of our "negotiators" flipped a switch on one of their experiments.
+`
+On the bright side, we did find the missing Durantium buried in the sub-basement.
+
+[COLOR=UIDefaultHighlight]+5 Durantium[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2c_Name</Label>
+    <String>Crisis: The Brain Trust - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2c_Dec</Label>
+    <String>We have successfully rounded up "The Brain Trust" and were able to seize most of their research. Our scientists think it will be quite useful, allowing us to increase the output of our existing power systems substantially. However they seem to have sold off the Durantium they embezzled.
+
+[COLOR=UIDefaultHighlight]+3% Raw Production all Colonies[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2d_Name</Label>
+    <String>Crisis: The Brain Trust - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2d_Dec</Label>
+    <String>We were able to arrest several members of "The Brain Trust." Unfortunately, most of them managed to escape, along with the missing Durantium.
+
+We were able to capture some of their research. Yet without being able to interrogate the rest of the members, we will not be able to finalize their project.
+
+
+[COLOR=UIDefaultHighlight]+1% Research all Colonies[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2e_Name</Label>
+    <String>Crisis: The Brain Trust - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2e_Dec</Label>
+    <String>Our raid on "The Brain Trust" headquarters was successful. We even located our missing Durantium and after some "creative" interviews we were able to get some useful information out of each of the members before they lost the ability to talk.
+
+Our Researchers are very excited with the results and have already found several ways to implement the new Durantium shielding technologies.
+
+[COLOR=UIDefaultHighlight]+5% Research all colonies, +10 Malevolent, +5 Durantium[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2f_Name</Label>
+    <String>Crisis: The Brain Trust - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust2f_Dec</Label>
+    <String>Unfortunately, our raid on "The Brain Trust" headquarters did not go as expected. One of the experimental devices they were working on was activated, and a strange shockwave disintegrated the building and its immediate surroundings. Our soldiers and all "The Brain Trust" members were instantly killed.
+
+Luckily we were able to find the missing Durantium.
+
+[COLOR=UIDefaultHighlight]+5 Durantium, +5 Malevolent[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3_Name</Label>
+    <String>Crisis: The Brain Trust (part 2)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3_Dec</Label>
+    <String>It appears that the group calling themselves the "The Brain Trust" has been continuing to work together remotely. They have taken our attempts to break them up personally and have become actively hostile.
+
+Our intelligence officers are of the opinion that they may be working on some sort of weapon.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3_Choice1Dec</Label>
+    <String>Send in our best negotiators to defuse the situation before it gets out of hand.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3_Choice1BonusDec</Label>
+    <String>{STATCHANCE}% Diplomacy check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3_Choice2Dec</Label>
+    <String>Set up surveillance on their communication. Find out what they are working on.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3_Choice2BonusDec</Label>
+    <String>{STATCHANCE}% Science check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3_Choice3Dec</Label>
+    <String>Arrest them all immediately, and find out what we can about the weapons project, by whatever means necessary.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3_Choice3BonusDec</Label>
+    <String>{STATCHANCE}% Military check</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3a_Name</Label>
+    <String>Crisis: The Brain Trust - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3a_Dec</Label>
+    <String>Our negotiators have convinced "The Brain Trust" that they need to come forward with their work, by offering them immunity to espionage laws they may have broken.
+
+More surprisingly they have provided us with a new type of Durantium shielding that should allow us to create more robust hulls.
+
+[COLOR=UIDefaultHighlight]+20% Hit points to all ships [/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3b_Name</Label>
+    <String>Crisis: The Brain Trust - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3b_Dec</Label>
+    <String>Our negotiators were not able to get "The Brain Trust" to surrender any of their research.
+
+Unfortunately, the group managed to disappear shortly after our attempted contact. We have no idea what they were up to. All we can do is hope it does not end up in enemy hands.
+
+[COLOR=UIDefaultHighlight]+10 Benevolent[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3c_Name</Label>
+    <String>Crisis: The Brain Trust - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3c_Dec</Label>
+    <String>Our surveillance of "The Brain Trust" has proven to be quite lucrative. Not only were we able to discover the location of some of the Durantium they have embezzled, but we have also found that they had developed a new type of Durantium Shielding that they intend to use to make more powerful Mass Driver technology.
+
+[COLOR=UIDefaultHighlight]+1 Mass Driver Damage to all ships, +3 Durantium[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3d_Name</Label>
+    <String>Crisis: The Brain Trust - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3d_Dec</Label>
+    <String>Our attempts to surveil "The Brain Trust" have not been fruitful. They have managed to disappear from our networks utterly.  Unfortunately, We have no idea what they were up to. All we can do is hope it does not end up in enemy hands. 
+
+The only good news is that we were able to track down their supply stash before they bolted.
+
+[COLOR=UIDefaultHighlight]+2 Durantium, +500 Credits[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3e_Name</Label>
+    <String>Crisis: The Brain Trust - Success</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3e_Dec</Label>
+    <String>Our military has managed to round up all the entire "Brain Trust" before they could bolt.
+
+After some not-so-friendly interrogation, we have discovered that they were planning on selling a new type of Durantium shielding to the highest bidder.
+
+[COLOR=UIDefaultHighlight]+10 Malevolent, +5% Hit points to all ships [/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3f_Name</Label>
+    <String>Crisis: The Brain Trust - Failure</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crisis_BrainTrust3f_Dec</Label>
+    <String>We have just received word from the Military that their attempt to round up "The Brain Trust" did not go well. Not only did they manage to vanish from our surveillance, but they also infected our networks with a nasty virus that is playing havoc with our existing research project.
+
+Unfortunately, we still have no idea what they were up to. All we can do is hope it does not end up in enemy hands.
+
+[COLOR=UIDefaultHighlight]-25% Research for 10 turns[/COLOR]</String>
+  </StringTable>
+ 
+</StringTableList>

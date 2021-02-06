@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- DLC2_FactionText.xml -->
+ 
+  <StringTable>
+    <Label>FACTION_DLC_DREADLORDS_Name</Label>
+    <String>Dread Lords</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_DREADLORDS_ShortName</Label>
+    <String>Dread Lords</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_DREADLORDS_LeaderName</Label>
+    <String>Bob</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_DREADLORDS_Dec</Label>
+    <String>something</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_DREADLORDS_LeaderDec</Label>
+    <String>something</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_DREADLORDS_Callsign</Label>
+    <String>Dread Lord</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_DREADLORDS_StartupTraitsDescription</Label>
+    <String>As forças piratas são descentralizadas e brutais. Eles não têm os recursos da maioria das raças, portanto são lentos para construir forças, mas com o tempo podem se tornar uma poderosa ameaça se não forem controlados.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DLC_PEACEKEEPERS_Name</Label>
+    <String>Peacekeepers</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_PEACEKEEPERS_ShortName</Label>
+    <String>Peacekeepers</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_PEACEKEEPERS_LeaderName</Label>
+    <String>Kip</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_PEACEKEEPERS_Dec</Label>
+    <String>something</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_PEACEKEEPERS_LeaderDec</Label>
+    <String>something</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_PEACEKEEPERS_Callsign</Label>
+    <String>Guardião da paz</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_PEACEKEEPERS_StartupTraitsDescription</Label>
+    <String>As forças piratas são descentralizadas e brutais. Eles não têm os recursos da maioria das raças, portanto são lentos para construir forças, mas com o tempo podem se tornar uma poderosa ameaça se deixadas sem controle..</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DLC_SPACEMONSTERS_Name</Label>
+    <String>Space Monsters</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_SPACEMONSTERS_ShortName</Label>
+    <String>Space Monsters</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_SPACEMONSTERS_LeaderName</Label>
+    <String>All</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_SPACEMONSTERS_Dec</Label>
+    <String>something</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_SPACEMONSTERS_LeaderDec</Label>
+    <String>something</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_SPACEMONSTERS_Callsign</Label>
+    <String>Space Monster</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_SPACEMONSTERS_StartupTraitsDescription</Label>
+    <String>As forças piratas são descentralizadas e brutais. Eles não têm os recursos da maioria das raças, portanto são lentos para construir forças, mas com o tempo podem se tornar uma poderosa ameaça se deixadas sem controle.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MINOR_BRAINY'AK_Name</Label>
+    <String>Brainy'ak Collective</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BRAINY'AK_ShortName</Label>
+    <String>Brainy'ak</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BRAINY'AK_LeaderName</Label>
+    <String>Savant</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BRAINY'AK_Dec</Label>
+    <String>Uma civilização antiga que passou os últimos milênios concentrando-se na tecnologia, Agora que foram expostos à comunidade galáctica mais ampla, os Brainy'ak acham que eles mesmos não conseguem competir militarmente e tentam manter sua soberania através do comércio de suas preciosas tecnologias.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BRAINY'AK_LeaderDec</Label>
+    <String>A descrição do líder vai aqui.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BRAINY'AK_HomeworldName</Label>
+    <String>Revelation</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BRAINY'AK_Callsign</Label>
+    <String>B.C.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BRAINY'AK_StartupTraitsDescription</Label>
+    <String>Uma civilização antiga que passou os últimos milênios concentrando-se na tecnologia, Agora que foram expostos à comunidade galáctica mais ampla, os Brainy'ak acham que eles mesmos não conseguem competir militarmente e tentam manter sua soberania através do comércio de suas preciosas tecnologias.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_MEGA_PIRATES_Name</Label>
+    <String>Space Pirates</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MEGA_PIRATES_ShortName</Label>
+    <String>Pirates</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MEGA_PIRATES_LeaderName</Label>
+    <String>Arr</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MEGA_PIRATES_Dec</Label>
+    <String>something</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MEGA_PIRATES_LeaderDec</Label>
+    <String>alguma coisa</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MEGA_PIRATES_Callsign</Label>
+    <String>Pirate</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MEGA_PIRATES_StartupTraitsDescription</Label>
+    <String>As forças piratas são descentralizadas e brutais. Eles não têm os recursos da maioria das raças, portanto são lentos para construir forças, mas com o tempo podem se tornar uma poderosa ameaça se não forem controlados.</String>
+  </StringTable>
+ 
+</StringTableList>

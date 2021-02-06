@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Return_DrenginTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>Return_DrenginTechTree_Name</Label>
+    <String>Return Drengin Tree</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+  <StringTable>
+    <Label>Return_DrenginIndustrialSpecialization_Name</Label>
+    <String>Exploitation Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginIndustrialSpecialization_ShortDec</Label>
+    <String>Improves our ability to exploit labor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginIndustrialSpecialization_Dec</Label>
+    <String>Forcing the population to do what you want may not always be the best way to do things, but it's almost always the fastest.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginConstructionOptimization_Name</Label>
+    <String>Labor Management</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginConstructionOptimization_ShortDec</Label>
+    <String>Stop Wasting Slaves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginConstructionOptimization_Dec</Label>
+    <String>If we waste even a few less slavelings, we can make things faster or cheaper. Don't worry. We will still waste lots of slavelings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginManufacturingFocus_Name</Label>
+    <String>Slavery Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginManufacturingFocus_ShortDec</Label>
+    <String>Begin using slavelings for the jobs they're best at.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginManufacturingFocus_Dec</Label>
+    <String>If we start using the slavelings for the jobs they're best at, or even breeding them that way, we can make everything more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginResearchOptimization_Name</Label>
+    <String>Researcher Motivation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginResearchOptimization_ShortDec</Label>
+    <String>Forces our smart slavelings to be smarter. Or cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginResearchOptimization_Dec</Label>
+    <String>Getting more smarts out of the smart slavelings is tricky because of how fragile they are.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginTechnologicalFocus_Name</Label>
+    <String>Extraction Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginTechnologicalFocus_ShortDec</Label>
+    <String>Forces our smart slavelings to be even more smarter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginTechnologicalFocus_Dec</Label>
+    <String>Getting the most out of research slavelings is an art. It's just not one that they like very much.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginPlanetarySpecialization_ShortDec</Label>
+    <String>Forces planets to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginPlanetarySpecialization_Dec</Label>
+    <String>Making planets better and more productive is way less fun than conquering them, but it's also pretty important.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginAgriculturalOptimization_ShortDec</Label>
+    <String>Forces planets to make more food.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginAgriculturalOptimization_Dec</Label>
+    <String>Making our meat crops and plant crops thrive better on alien worlds will mean more slavelings to do work.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginFarmingFocus_ShortDec</Label>
+    <String>Forces our planets to make food more efficiently.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginFarmingFocus_Dec</Label>
+    <String>The business of meat crops is stinky, unpleasant work. But that's no reason not to take pride in it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginAgriculturalMastery_ShortDec</Label>
+    <String>Forces our planets to maximize food growth.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginAgriculturalMastery_Dec</Label>
+    <String>We now make food so efficiently that our worlds overflow with spare Drengin and slavelings. Finally their stench overwhelms that of the meat crops.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginEnvironmentOptimization_Name</Label>
+    <String>Environmental Bashing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginEnvironmentOptimization_ShortDec</Label>
+    <String>Forces our planets to be better for various purposes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginEnvironmentOptimization_Dec</Label>
+    <String>Our research slavelings have found clever new ways to bash the land into the shape we want it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginColonizationFocus_ShortDec</Label>
+    <String>Force the slavelings to adapt fully to extreme worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginColonizationFocus_Dec</Label>
+    <String>The research slavelings have found a way to make life pleasant for those living on extreme worlds. Making things more pleasant doesn't sound like us; we're not sure how this mistake happened.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginBiospherePerfection_ShortDec</Label>
+    <String>Force the slavelings to adapt fully to the harshest extreme worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginBiospherePerfection_Dec</Label>
+    <String>Now the people who live on the harshest of worlds don't have to suffer to do so. All suffering from this point on shall be intentional.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginInterstellarSpecialization_ShortDec</Label>
+    <String>Forces our ships to be better in a variety of ways.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginInterstellarSpecialization_Dec</Label>
+    <String>Sending warships through space is great fun, and our research slavelings have thought of several ways to do it better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginIonOptimization_ShortDec</Label>
+    <String>Forces our Ion Drives to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginIonOptimization_Dec</Label>
+    <String>Our Ion Drives require lots of fussy work by fussy slavelings to get the most out of. If we can make them - the engines - just a little more efficient, we'll need less of them - the slavelings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginWarpFieldFocus_ShortDec</Label>
+    <String>Forces our Warp Engines to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginWarpFieldFocus_Dec</Label>
+    <String>Every time we make something new, the slavelings always find new ways to improve it later. Why the slavelings can't get it right on the first try is the source of much confusion and thrashings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginHyperwarpMastery_ShortDec</Label>
+    <String>Forces our Hyperwarp Drives to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginHyperwarpMastery_Dec</Label>
+    <String>The research slavelings mewl that our engines are already very powerful, and asked if we're satisfied with that? So we checked. It turns out we're not.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginSensorOptimization_ShortDec</Label>
+    <String>Forces our sensors to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginSensorOptimization_Dec</Label>
+    <String>Some of the research slavelings have taken a particular interest in studying sensors, because they figure the work is safer. To keep them motivated, we'll make sure it isn't.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginEnergyFieldFocus_ShortDec</Label>
+    <String>Forces our sensors to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginEnergyFieldFocus_Dec</Label>
+    <String>If we throw more research slavelings at our sensor systems, we're sure to see some improvements in their efficiency. Not literally throwing, but actually... sure, let's try literally throwing.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginSensorMastery_ShortDec</Label>
+    <String>Forces our sensors to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginSensorMastery_Dec</Label>
+    <String>The research slavelings complain that we can't see any further because of the nature of this universe. We have ordered the universe be whipped, but in the meantime, have found a few more efficiencies we could implement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginPrecursorRelicFocus_ShortDec</Label>
+    <String>Forces Precursor Relics to be more useful.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginPrecursorRelicFocus_Dec</Label>
+    <String>These Precursor relics have a number of confusing benefits on our society. Although we don't really understand how this is occurring, we should force them to be better at it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginLifeSupportOptimization_ShortDec</Label>
+    <String>Forces our life support systems to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginLifeSupportOptimization_Dec</Label>
+    <String>Improving our life support systems is one of those things which sounds unnecessary, but really isn't. We need those life support systems to enable our life reduction systems to get where they need to go.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginSupportFieldFocus_ShortDec</Label>
+    <String>Forces our life support systems to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginSupportFieldFocus_Dec</Label>
+    <String>We stationed a huge Drengin with an axe in the research labs, standing there, not saying a word. Almost immediately the researchers saw several places to improve our sensors. What a lucky coincidence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginLifeSupportMastery_ShortDec</Label>
+    <String>Forces our life support systems to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginLifeSupportMastery_Dec</Label>
+    <String>Making our life support systems better helps make our ships better, but more importantly, it also helps humiliate our ships' crewmembers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginOrbitalSpecialization_ShortDec</Label>
+    <String>Forces our slavelings to be better at doing things in orbit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginOrbitalSpecialization_Dec</Label>
+    <String>So it turns out that if we tie the orbital slavelings on to things, they can't float away as easy. This leash technology should open the door to a bunch of possible improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginZeroGravityOptimization_ShortDec</Label>
+    <String>Forces our ships to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginZeroGravityOptimization_Dec</Label>
+    <String>Now that we go through less slavelings when making things in space, we've discovered that some of the older and wiser ones are full of good ideas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginOrbitalConstructionFocus_ShortDec</Label>
+    <String>Forces our ships to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginOrbitalConstructionFocus_Dec</Label>
+    <String>Building super big ships is super fun and arousing. The more we think about it, the more clever ideas we get, which only excites us more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginHullMastery_ShortDec</Label>
+    <String>Forces our ships to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginHullMastery_Dec</Label>
+    <String>With our ships as big as they are, often the biggest construction challenge is making sure the slavelings don't get lost. Our new "buddy system" should lead to some more construction efficiencies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginCarrierFocus_ShortDec</Label>
+    <String>Forces our carriers to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginCarrierFocus_Dec</Label>
+    <String>Throwing more Drengin at a problem is a good way to solve or at least annihilate that problem. We should make our carriers better to do just that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginLogisticalOptimization_ShortDec</Label>
+    <String>Forces various logistical operations to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginLogisticalOptimization_Dec</Label>
+    <String>Shooting things in space is great. But to do that we have to move a lot of things around first. Like, a lot. This is boring. But if we don't get good at it, we won't get to shoot. So we're stuck.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginWeaponsSpecialization_ShortDec</Label>
+    <String>Forces our weapons to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginWeaponsSpecialization_Dec</Label>
+    <String>If we focus our research on a specific way of spreading space-based misery and destruction, we'll probably be able to spread it faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginBeamWeaponOptimization_ShortDec</Label>
+    <String>Forces our beam weapons to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginBeamWeaponOptimization_Dec</Label>
+    <String>Our research slavelings seem pretty sure they can use the latest generation of materials to make our beam weapons beamier. They used more technical language though.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginHighEnergyFocus_ShortDec</Label>
+    <String>Forces our beam weapons to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginHighEnergyFocus_Dec</Label>
+    <String>Making our beam weapons better, or at the very least brighter, is a great way to spread the good news about Drengin inventiveness to other races in the galaxy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginBeamWeaponMastery_ShortDec</Label>
+    <String>Forces our beam weapons to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginBeamWeaponMastery_Dec</Label>
+    <String>Our puny research slavelings claim that physics prevents our beam weapons from becoming more efficient. "So invent new physics!" we shouted. They're working on it now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginMissileOptimization_ShortDec</Label>
+    <String>Forces our missile systems to get better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginMissileOptimization_Dec</Label>
+    <String>We have annihilated thousands of asteroids, target drones, and, accidentally, target range slavelings, and have come up with a number of possible improvements for our missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginWarheadFocus_ShortDec</Label>
+    <String>Forces our missile systems to get better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginWarheadFocus_Dec</Label>
+    <String>The research slavelings seem to think that if we pay attention to the warheads of our missile systems we'll get better booms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginPayloadMastery_ShortDec</Label>
+    <String>Forces our missile systems to get better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginPayloadMastery_Dec</Label>
+    <String>We think we can make our missiles a bit cheaper and lighter still. The cost to our research slavelings time will be considerable, but we've ensured they don't have any hobbies, so they're ready to go.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginKineticOptimization_ShortDec</Label>
+    <String>Forces our kinetic weapons to get better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginKineticOptimization_Dec</Label>
+    <String>Making our kinetic weapons better will turn the food species into food faster</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginKineticAccelerationFocus_ShortDec</Label>
+    <String>Forces our kinetic weapons to get better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginKineticAccelerationFocus_Dec</Label>
+    <String>The research slavelings are very excited about the latest superconductors. They are an excitable bunch. Then they said the superconductors will make our kinetic weapons better. Now everyone's excited.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginKineticMastery_ShortDec</Label>
+    <String>Forces our kinetic weapons to get better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginKineticMastery_Dec</Label>
+    <String>The research slavelings have been whipped to the brink of sanity, and report back that our kinetic weapons are just about as good as they can be. We'll whip them a smidge more, just to be sure.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginMilitarySpecialization_ShortDec</Label>
+    <String>Forces our military to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginMilitarySpecialization_Dec</Label>
+    <String>Soldiers and guns are good and we like them. We should have more of them. And better ones! And more of them again!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginInvasionOptimization_ShortDec</Label>
+    <String>Lets us use creative invasion tactics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginInvasionOptimization_Dec</Label>
+    <String>When we scare the cowardly food species out of space, we'll still have to chase them down to the ground. And we should be angry at them for making us chase them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginGravitationalFocus_ShortDec</Label>
+    <String>Lets us use dangerously creative invasion tactics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginGravitationalFocus_Dec</Label>
+    <String>Thanks to advances in unethical behavior, we have a few new options for tenderizing the ground forces of any food species.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginDefensiveFocus_ShortDec</Label>
+    <String>Forces our defenses to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginDefensiveFocus_Dec</Label>
+    <String>If the food species dare try to attack our homes, we should be ready for them and all their tricky tricks.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginDefensiveSpecialization_ShortDec</Label>
+    <String>Forces our ships to die less quickly.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginDefensiveSpecialization_Dec</Label>
+    <String>Giving a ship something that isn't a gun is a confusing idea. But if it lets them use their guns more, then that's ok we guess.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginShieldOptimization_ShortDec</Label>
+    <String>Forces our shields to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginShieldOptimization_Dec</Label>
+    <String>The research slavelings have reviewed reports of how our shield systems have behaved in battle, and come up with several possible improvements we can make.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginBarrierSystemFocus_ShortDec</Label>
+    <String>Forces our shields to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginBarrierSystemFocus_Dec</Label>
+    <String>We brought in some new research slavelings who say they can do a better job with our shields than the old ones, and the old ones should be beaten. No love lost amongst those slavelings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginShieldMastery_ShortDec</Label>
+    <String>Forces our shields to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginShieldMastery_Dec</Label>
+    <String>We brought back the old research slavelings because they claimed that if we whipped their replacements enough, they could find a way to improve the shields some more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginPointDefenseOptimization_ShortDec</Label>
+    <String>Forces our point defenses to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginPointDefenseOptimization_Dec</Label>
+    <String>There are still a number of ways we can optimize our point defense systems, if we're willing to spend the effort on cowardly defensive technology, that is.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginCounterMeasureFocus_ShortDec</Label>
+    <String>Forces our point defenses to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginCounterMeasureFocus_Dec</Label>
+    <String>After locking them in a room with highly powerful transmitters for a few days, the research slavelings all have headaches, as well as a number of clever ways for improving our ECM systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginDroneSystemMastery_ShortDec</Label>
+    <String>Forces our point defenses to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginDroneSystemMastery_Dec</Label>
+    <String>If we can make our drone systems even a little more efficient, we should be able to see significant cost or weight savings. Which is almost as good as researching a new gun, we suppose.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginArmorOptimization_ShortDec</Label>
+    <String>Forces our armor to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginArmorOptimization_Dec</Label>
+    <String>Armor is good and honest and we like it. We should make it better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginArmorFocus_ShortDec</Label>
+    <String>Forces our armor to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginArmorFocus_Dec</Label>
+    <String>Armor is getting complex, which is confusing and bad, but it keeps us alive longer, which is still good. Making it better is harder, but we should still do that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginArmorMastery_ShortDec</Label>
+    <String>Forces our armor to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginArmorMastery_Dec</Label>
+    <String>Our armor is thick enough to stop all but the meanest food species from hurting us. But we can probably still make it a little lighter or cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginDiplomaticSpecialization_ShortDec</Label>
+    <String>Forces our words to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginDiplomaticSpecialization_Dec</Label>
+    <String>Paying attention to the words you speak is just the most boring garbage thing to do. But if we get good at it, we might be able to convince the food species to self tenderize or something.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginPoliticalSpecialization_ShortDec</Label>
+    <String>Forces our politicians to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginPoliticalSpecialization_Dec</Label>
+    <String>How we organize all the Drengin and slavelings into an effective conquering force is very, very important, in a kind of boring way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginPoliticalFocus_ShortDec</Label>
+    <String>Forces our politicians to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginPoliticalFocus_Dec</Label>
+    <String>Our weakest, palest slavelings have come up with a few new ways we could organize our people, which might make them better at eating the food species.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginPoliticalMastery_Name</Label>
+    <String>Drenginize - Political Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginPoliticalMastery_ShortDec</Label>
+    <String>Forces our politicians to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginPoliticalMastery_Dec</Label>
+    <String>With the right technology, we can now begin injecting our political systems directly into people's faces, making this whole politics business a lot easier, and frankly, more fun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginDiplomaticOptimization_ShortDec</Label>
+    <String>Forces our treaties to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginDiplomaticOptimization_Dec</Label>
+    <String>Diplomatic treaties are a great way to make the food species give us things. We can then use those things for making ships that can go eat the food species. Diplomacy can be fun after all.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginAllianceFocus_ShortDec</Label>
+    <String>Forces our alliances to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginAllianceFocus_Dec</Label>
+    <String>An alliance is a strange concept, but it essentially means a food species who we will eat last, if at all. A troubling notion, though it might make sense for some of the gristlier food species.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginCulturalOptimization_ShortDec</Label>
+    <String>Forces our culture to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginCulturalOptimization_Dec</Label>
+    <String>Spending time and energy on making art things is distasteful, so the least we can do is make the art things more efficiently.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginCulturalFocus_ShortDec</Label>
+    <String>Forces our culture to be more focused.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginCulturalFocus_Dec</Label>
+    <String>If we make our art things appealing to specific people, those people will like us more. They will not be given a choice.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginCommerceSpecialization_ShortDec</Label>
+    <String>Forces our economy to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginCommerceSpecialization_Dec</Label>
+    <String>"Targeted" economic policies makes them sound really exciting and militaristic. They're not though. They're still boring spreadsheet garbage.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginEconomicFocus_ShortDec</Label>
+    <String>Forces our economy to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginEconomicFocus_Dec</Label>
+    <String>The Drengin and slavelings responsible for making money are full of clever ways to make more of it. It's almost a little unseemly.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginTradeOptimization_ShortDec</Label>
+    <String>Forces our traders to target specific markets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginTradeOptimization_Dec</Label>
+    <String>By convincing our traders to menace particular markets with threats of savings and big value, we should be able to increase our income.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginTradeFocus_ShortDec</Label>
+    <String>Forces our traders to target specific markets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginTradeFocus_Dec</Label>
+    <String>We should continue inflicting the menace that are Drengin traders on specific economic sectors that we wish to ravage.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginApprovalFocus_ShortDec</Label>
+    <String>Forces various planets to be happier.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Return_DrenginApprovalFocus_Dec</Label>
+    <String>Our regular program of inspirational beatings is no longer capable of delivering the approval benefits we need. We should begin targeting our inspiration more carefully.</String>
+  </StringTable>
+ 
+</StringTableList>

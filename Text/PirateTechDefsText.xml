@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- PirateTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>PirateTechTree_Name</Label>
+    <String>Base Tech Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateTechTree_ShortDec</Label>
+    <String>The base tech tree.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateTechTree_Dec</Label>
+    <String>The base tech tree.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PiratePirateBasesTech_Name</Label>
+    <String>PirateBases</String>
+  </StringTable>
+  <StringTable>
+    <Label>PiratePirateBasesTech_ShortDec</Label>
+    <String>Gives pirates what they need to survive without worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PiratePirateBasesTech_Dec</Label>
+    <String>Gives pirates what they need to survive without worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateArtificialGravity_Name</Label>
+    <String>Artificial Gravity</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateArtificialGravity_ShortDec</Label>
+    <String>Allows the manipulation of gravity which has endless applications.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateArtificialGravity_Dec</Label>
+    <String>We are not able to generate gravity but rather channel it.  By doing so we can make  offworld living much more productive.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateSubspaceSensors_Dec</Label>
+    <String>Subspace is our term for the 12-dimension region of space which lies at right angles to and a little bit behind our universe. It's that place which is just permanently in the corner of your eye, and it took some very smart people a very long time to figure out a way to look at it. The upshot of all this is that it enables us to peer over much longer distances than ever before.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateSensorMastery1_Dec</Label>
+    <String>When a ragtag group of science-accountants teamed up with the goal of identifying cost savings in our most advanced sensor systems, few believed they had a chance. Many openly mocked them. Some people spit on them. But somehow, despite all odds, they managed it. And we will all reap the benefits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateTargetingSupport_Dec</Label>
+    <String> We've adapted our tactical sensor improvements into support modules, capable of allowing a single ship to provide the same sensor accuracy and evasion benefits to an entire fleet of vessels.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateSupportFieldGeneration_Dec</Label>
+    <String>Our growing familiarity with various force field technologies has enabled us to replace our primitive mechanical life support systems with more elegant field based processors. Food is now stored in a single block of nutrient-rich sludge, which should greatly reduce spoilage, as well as the need for utensils, as the fields pipe it directly into the user's mouth.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateCarrierTech_Dec</Label>
+    <String> Carrier based combat allows us to bring many weapons to bear on an enemy from multiple vectors, while keeping our larger capital ships further from the danger. Fighters are a lot more replaceable than capital ships, and there's no shortage of volunteers to fly them. Apparently there's something glamorous about being vaporized in a very small ship.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateInterstellarLogistics_Dec</Label>
+    <String>It's one thing to build a ship, it's another thing to keep it running. Whether it's keeping it supplied with fuel, ammunition, or people, there is an awful lot going on behind the scenes to keep a deep-space vessel operational. None of this is exciting of course. Logistics officers are some of the most boring people you're ever likely to meet. But a necessary evil.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateWeaponsSystemsTech_Dec</Label>
+    <String>The best defense is a good offense. Interestingly, so is the best offense. With that in mind, we've developed a number of weapon systems which should prove very well suited to space-based defense. And, as discussed, offense.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateEnergyPhasing_Dec</Label>
+    <String>The synthesis of the phaser particle is almost impossible to understand if you don't have several advanced degrees and possibly an extra brain. Suffice to say, by sending a modest quantity of these particles at the enemy, we can induce a chain reaction which breaks matter down into ghostly neutrinos, effectively evaporating it. This is vicious, nasty staff we're working with now, so please be good with it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateAdvancedMissileGuidance_Dec</Label>
+    <String>Improved decoy and adaptive camoflauge systems have greatly increased the survivavbility of our missiles when faced with point defense systems. And our ship and starbase based guidance systems now feature a number of predictive systems, allowing for more efficient missile flight paths which should help boost their range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateMassManipulation_Dec</Label>
+    <String>We've modified our intertial modification technology to actually fit inside the projectiles, which are now capable of generating ultra-dense outer surfaces for a brief period, adding massive armor penetrating capabilities. Additionally, we've made improvements to our fleetwide inertial modification systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateInertialMagnification_Dec</Label>
+    <String>Our inertial modifying projectiles are now capable of attacking the enemy's armor directly, creating low density fissures throughout it, causing the whole structure to splinter if struck properly. Additionally our fleetwide inertial modifying systems have been more or less perfected, subjecting anything which menaces one of our fleets with the prospect of facing a deadly hailstorm. Of death.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateZeroPointArmorTech_Dec</Label>
+    <String>Zero point armor is a thin layer of a material we have a hard time proving exists, only knowing of it by the effect that it has. Upon impact, it appears to essentially tap into the zero-point energy of the surrounding quantum vacuum, directing all that energy to repulse any incoming projectiles. It's almost impossibly tough, we can prove that much at least.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateArmorSupportSystems_Dec</Label>
+    <String>In the factory, we've begun producing armor plating with a variety of force field based technologies. By adapting some of those into long-range ship-based emitters, we're able to create a hardening effect in material at a considerable distance. This technology could be used to make every ship in a fleet substantially more durable.</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+ 
+</StringTableList>

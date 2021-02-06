@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- CampaignText.XML -->
+ 
+  <StringTable>
+    <Label>Campaign_Name</Label>
+    <String>The Return</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Campaign_Arcea_Name</Label>
+    <String>Arcea</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Campaign_Arcea_Dec</Label>
+    <String>The Terran 1st Fleet, having taken refuge in a mysterious pocket universe at the end of the war of the Dreadlords, have returned, vowing to cut their way across the galaxy and liberate Earth from the Precursor shield that has been its salvation - and its prison - for the last 10 years.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Campaign_Arcea_ShortDec</Label>
+    <String>The Terran 1st Fleet, having taken refuge in a mysterious pocket universe at the end of the war of the Dreadlords, have returned, vowing to cut their way across the galaxy and liberate Earth from the Precursor shield that has been its salvation - and its prison - for the last 10 years.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Arcea_Arcea_FACTION_TERRAN_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Arcea_Arcea_FACTION_DRENGIN_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+ 
+  <!-- DestoyFlagShip Note - 4) You beat the armada, and killed the drengin flag ship.-->
+  <StringTable>
+    <Label>Campaign_Arcea_DestoyFlagShip_Message</Label>
+    <String>Destroy Drengin Armada</String>
+  </StringTable>
+ 
+  <!-- CaptureArcea Note - 5) On taking Arcea, Advisor explains that we will have a lot of work to .-->
+  <StringTable>
+    <Label>Campaign_Arcea_CaptureArcea_Message</Label>
+    <String>Liberate Arcea</String>
+  </StringTable>
+ 
+  <!-- ColonizeHammer Note - 9a) You colonized Hammer-->
+  <StringTable>
+    <Label>Campaign_Arcea_ColonizeHammer_Message</Label>
+    <String>Re-Colonize Hammer (Optional)</String>
+  </StringTable>
+ 
+  <!-- ColonizeFarsight Note - 9b) You colonized Farsight-->
+  <StringTable>
+    <Label>Campaign_Arcea_ColonizeFarsight_Message</Label>
+    <String>Re-Colonize Farsight (Optional)</String>
+  </StringTable>
+ 
+  <!-- ColonizeVega Note - 9c) You colonized Vega Prime-->
+  <StringTable>
+    <Label>Campaign_Arcea_ColonizeVega_Message</Label>
+    <String>Re-Colonize Vega Prime (Optional)</String>
+  </StringTable>
+ 
+  <!-- CrusaderLost Note - 10) Failure, T.A.S. Crusader Lost-->
+  <StringTable>
+    <Label>Campaign_Arcea_CrusaderLost_Message</Label>
+    <String>Protect The T.A.S. Crusader</String>
+  </StringTable>
+ 
+  <!-- WipeOutDrengin Note - 11) Victory, Wipe the Drengin off the map-->
+  <StringTable>
+    <Label>Campaign_Arcea_WipeOutDrengin_Message</Label>
+    <String>Secure the Arcea Sector</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Campaign_Contingency_Name</Label>
+    <String>Contingency</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Campaign_Contingency_Dec</Label>
+    <String>The Thalan Contingency has been warning the galaxy of the return of the Terran 1st Fleet for years. It is time to deal with them, one way or the other.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Campaign_Contingency_ShortDec</Label>
+    <String>The Thalan Contingency has been warning the galaxy of the return of the Terran 1st Fleet for years. It is time to deal with them, one way or the other.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Contingency_Contingency_FACTION_TERRAN_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Contingency_Contingency_FACTION_DRENGIN_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Contingency_Contingency_FACTION_THALAN_Name</Label>
+    <String>Thalan Contingency</String>
+  </StringTable>
+ 
+  <!-- DealWithTheThalan Note - Take care of the Thalan-->
+  <StringTable>
+    <Label>Campaign_Contingency_DealWithTheThalan_Message</Label>
+    <String>Deal with the Thalan Contingency</String>
+  </StringTable>
+ 
+  <!-- WipeOutDrengin Note - Victory, Wipe the Drengin off the map-->
+  <StringTable>
+    <Label>Campaign_Contingency_WipeOutDrengin_Message</Label>
+    <String>Clear Drengin from Thalis Sector</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Campaign_Return_Name</Label>
+    <String>Return</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Campaign_Return_Dec</Label>
+    <String>The Terran 1st Fleet has returned and has begun its final push toward Earth, right into the heart of the Drengin Empire.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Campaign_Return_ShortDec</Label>
+    <String>The Terran 1st Fleet has returned and has begun its final push toward Earth, right into the heart of the Drengin Empire.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Return_Return_FACTION_TERRAN_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Return_Return_FACTION_DRENGIN_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Return_Return_FACTION_ALTARIAN_Name</Label>
+    <String>Altarian Resistance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Return_Return_FACTION_IRIDIUM_Name</Label>
+    <String>Iridium Corperation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Return_Return_FACTION_KRYNN_Name</Label>
+    <String>Krynn Syndicate</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Return_Return_FACTION_YOR_Name</Label>
+    <String>Yor Singularity</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Campaign_Return_TakeBackMars_Message</Label>
+    <String>Liberate the Sol System</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Campaign_Return_GetToEarth_Message</Label>
+    <String>Lower the Precursor Shield</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Campaign_Return_CrusaderLost_Message</Label>
+    <String>Protect The T.A.S. Crusader</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Campaign_Return_DestroyArmada_Message</Label>
+    <String>Destroy the Drengin (Optional)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Campaign_Return_WipOutYor_Message</Label>
+    <String>Destroy the Yor (Optional)</String>
+  </StringTable>
+ 
+  <!-- CreysFlolly Note - Go get creys folly-->
+  <StringTable>
+    <Label>Campaign_Return_CreysFlolly_Message</Label>
+    <String>Capture Crey's Folly (Optional)</String>
+  </StringTable>
+ 
+  <!-- SteppingStones Note - Steping stones-->
+  <StringTable>
+    <Label>Campaign_Return_SteppingStones_Message</Label>
+    <String>Take the Stepping Stones (Optional)</String>
+  </StringTable>
+ 
+</StringTableList>

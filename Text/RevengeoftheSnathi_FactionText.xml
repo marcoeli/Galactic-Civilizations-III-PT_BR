@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- RevengeoftheSnathi_FactionText.xml -->
+ 
+  <StringTable>
+    <Label>Snathi_FACTION_TERRAN_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_FACTION_TERRAN_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_FACTION_TERRAN_LeaderName</Label>
+    <String>DL Bradley</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_FACTION_TERRAN_Dec</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_FACTION_TERRAN_LeaderDec</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_FACTION_TERRAN_Callsign</Label>
+    <String>T.A.S</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_FACTION_TERRAN_StartupTitle</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_FACTION_TERRAN_StartupDescription</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_FACTION_TERRAN_StartupTraitsDescription</Label>
+    <String>The 1st Fleet is led by the most powerful ship ever created by the human race, the T.A.S. Crusader. Powered by a Precursor artifact of unfathomable strength, this ship will be the key to freeing Earth. The first fleet is not large, but it is deadly.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Snathi_FACTION_DRENGIN_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_FACTION_DRENGIN_ShortName</Label>
+    <String>Drengin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_FACTION_DRENGIN_LeaderName</Label>
+    <String>Lord Kona</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_FACTION_DRENGIN_Dec</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_FACTION_DRENGIN_LeaderDec</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_FACTION_DRENGIN_Callsign</Label>
+    <String>D.E.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_FACTION_DRENGIN_StartupTitle</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_FACTION_DRENGIN_StartupDescription</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_FACTION_DRENGIN_StartupTraitsDescription</Label>
+    <String>Drengin soldiers are savagely effective at ground-based combat, and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slaveling revolts.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Snathi_DLC_SNATHI_Name</Label>
+    <String>Snathi Revenge</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DLC_SNATHI_ShortName</Label>
+    <String>Snathi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DLC_SNATHI_LeaderName</Label>
+    <String>Lord Snarky</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DLC_SNATHI_Dec</Label>
+    <String>The most Evil sect of an already Evil race, the Snathy Revenge, has spent the last millennia imprisoned by the precursors on a distant world.  Free at last they will teach the galaxy the true face of Evil.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DLC_SNATHI_LeaderDec</Label>
+    <String>The leader of the Snathi, Lord Snarky is known for having a mind as sharp as his teeth.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DLC_SNATHI_HomeworldName</Label>
+    <String>Snathi Prime</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DLC_SNATHI_Callsign</Label>
+    <String>S.R.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DLC_SNATHI_StartupTitle</Label>
+    <String>Revenge of the Snathi!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DLC_SNATHI_StartupDescription</Label>
+    <String>In the last days of the great Precursor War, we were created. Our magnificent Dread Lord creators wrought us of pure hate to be used as the ultimate biological weapon. No mere virus or toxin, we the Snathi were created to purge the galaxy of the lesser races.
+
+But then our Gods vanished before we were given our full strength. The Arnoran Devils banished us to a prison world at the edge of the galaxy. We've been surrounded by the debris of worlds destroyed by our Creators.  Giant robot ships make sure we that would never leave our prison.
+
+For millennia, we have waited for our chance to escape our wardens and seek out those we were created to hate. We have waited for our revenge!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Snathi_DLC_SNATHI_StartupTraitsDescription</Label>
+    <String>We have nothing but our hatred and the will to make anything into a weapon.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_SNATHI_WARDENS_Name</Label>
+    <String>Arnoran Wardens</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SNATHI_WARDENS_ShortName</Label>
+    <String>Wardens</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SNATHI_WARDENS_LeaderName</Label>
+    <String>Arr</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SNATHI_WARDENS_Dec</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SNATHI_WARDENS_LeaderDec</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SNATHI_WARDENS_Callsign</Label>
+    <String>Warden</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SNATHI_WARDENS_StartupTitle</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SNATHI_WARDENS_StartupDescription</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SNATHI_WARDENS_StartupTraitsDescription</Label>
+    <String>Gigantic robotic ships left behind by the Arnor to keep the Snathi from escaping their prison world.</String>
+  </StringTable>
+ 
+</StringTableList>

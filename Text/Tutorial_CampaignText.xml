@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- CampaignText.XML -->
+ 
+  <StringTable>
+    <Label>Tutorial_Name</Label>
+    <String>Tutorial</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_Refuge_Name</Label>
+    <String>Tutorial</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_Refuge_Dec</Label>
+    <String>Find a safe world that can be used as a rallying point for the scattered Terran survivors.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_Refuge_ShortDec</Label>
+    <String>Find a safe world that can be used as a rallying point for the scattered Terran survivors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_Refuge_Tutorial_FACTION_TERRAN_Name</Label>
+    <String>Terran</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_Refuge_Tutorial_FACTION_ICONIAN_Name</Label>
+    <String>Iconian Refuge</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_Refuge_Tutorial_FACTION_DRENGIN_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_Refuge_Tutorial_FACTION_PIRATES_Name</Label>
+    <String>Pirates</String>
+  </StringTable>
+ 
+  <!-- ColonizePlanet Note - 2) Good job, before you can prosper on that world you are going to need to build up some infrastructure.  Start by building a factory.-->
+  <StringTable>
+    <Label>Tutorial_Refuge_ColonizePlanet_Message</Label>
+    <String>Colonize the planet Refuge.</String>
+  </StringTable>
+ 
+  <!-- StartResearching Note - 3) Now that we have a home we should do some research-->
+  <StringTable>
+    <Label>Tutorial_Refuge_StartResearching_Message</Label>
+    <String>Research new technologies.</String>
+  </StringTable>
+ 
+  <!-- HelpWithPirates Note - Pirates are causing problems, we would be in your debt if you would kill them-->
+  <StringTable>
+    <Label>Tutorial_Refuge_HelpWithPirates_Message</Label>
+    <String>Destroy Pirate starbase</String>
+  </StringTable>
+ 
+  <!-- InteractionWnd Note - OpInteraction Window-->
+  <StringTable>
+    <Label>Tutorial_Refuge_InteractionWnd_Message</Label>
+    <String>Trade with other races</String>
+  </StringTable>
+ 
+  <!-- PrecipiceNotification Note - Give precipice location-->
+  <StringTable>
+    <Label>Tutorial_Refuge_PrecipiceNotification_Message</Label>
+    <String>Colonize Precipice (Optional)</String>
+  </StringTable>
+ 
+  <!-- WipeOutDrengin Note - Destroy Drengin-->
+  <StringTable>
+    <Label>Tutorial_Refuge_WipeOutDrengin_Message</Label>
+    <String>Eliminate Drengin Threat</String>
+  </StringTable>
+ 
+</StringTableList>

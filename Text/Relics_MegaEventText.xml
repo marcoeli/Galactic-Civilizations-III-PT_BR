@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- CampaignText.XML -->
+ 
+  <StringTable>
+    <Label>Relics_MegaEvent_Name</Label>
+    <String>Relics</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Relics_MegaEvent_Dec</Label>
+    <String>Relics</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Relics_MegaEvent_ShortDec</Label>
+    <String>Relics</String>
+  </StringTable>
+ 
+</StringTableList>

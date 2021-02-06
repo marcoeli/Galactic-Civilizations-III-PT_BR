@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Tutorial_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Refuge_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>The last remnant of the Terran Alliance has found a safe place to rebuild. Now they will need to find a way to help free the Earth from the Precursor shield that serves as its sanctuary, and its prison.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Refuge_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>One of the last remnants of Terran Alliance has been lost. They were unable to find a safe place in the Drengin controlled galaxy. 
+
+The last hope for the Terrans still remains -  their homeworld is safe behind its Precursor shield, but how long will it last?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- Greetings Note - 1) Hello we are the Iconians-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_Greetings_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Greetings Terran, we are the Iconian Refuge. We have found this quiet corner of the galaxy is the perfect place to settle and stay unnoticed by the overreaching Drengin Empire.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_Greetings_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are also looking for a safe place to lick our wounds and rebuild.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_Greetings_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are biding our time before we go wipe the Drengin from the face of existence once and for all.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_Greetings_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Iconian cowards! If you had been better allies, the Drengin would not be feasting on our people.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- GreetingResponse1 Note - 1-1) you look tired, have a planet-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GreetingResponse1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Your fleet looks haggard and your people tired. There is a habitable planet nearby that we have not colonized. We gladly offer it to you as a new home.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GreetingResponse1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thanks, but ah, how do we colonize a planet? [COLOR=White] [ICON=Video_Icon] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GreetingResponse1_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>To colonize the planet Refuge simply select your colony ship, the T.A.S. Last Hope. Then right click on the planet Refuge.
+
+[ICON=Bullet] All Ship movement, regardless of distance, is done by right clicking on a destination.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GreetingResponse1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thank you, we will gladly take you up on your offer.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GreetingResponse1_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It is the least you can do for us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- GreetingResponse2 Note - 1-2) You want revenge, have a planet-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GreetingResponse2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If your goal is revenge you must first rebuild your strength. There is a habitable planet nearby that we have not colonized. You can use it as your new staging area.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GreetingResponse2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thanks, but ah, how do we colonize a planet? [COLOR=White] [ICON=Video_Icon] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GreetingResponse2_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>To colonize the planet Refuge simply select your colony ship, the T.A.S. Last Hope. Then right click on the planet Refuge.
+
+[ICON=Bullet] All Ship movement, regardless of distance, is done by right clicking on a destination.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GreetingResponse2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thank you, we will gladly take you up on your offer.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GreetingResponse2_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It is the least you can do for us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- GreetingResponse3 Note - 1-2) your kind of jerks, take that planet over there.-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GreetingResponse3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It is not cowardice to rebuild. If you wish to do the same then we can offer you a nearby world that we haven't colonized yet.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GreetingResponse3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thanks, but ah, how do we colonize a planet? [COLOR=White] [ICON=Video_Icon] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GreetingResponse3_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>To colonize the planet Refuge simply select your colony ship, the T.A.S. Last Hope. Then right click on the planet Refuge.
+
+[ICON=Bullet] All Ship movement, regardless of distance, is done by right clicking on a destination.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GreetingResponse3_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thank you, we will gladly take you up on your offer.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GreetingResponse3_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It is the least you can do for us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- ColonizePlanet Note - 2) Good job, before you can prosper on that world you are going to need to build up some infrastructure.  Start by building a factory.-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ColonizePlanet_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commander, this new planet is ideal for colonization, but we are going to need to build up some infrastructure.  
+
+I would recommend starting by building a factory.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ColonizePlanet_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>A factory would be helpful, how would I go about building one? [COLOR=White] [ICON=Video_Icon] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ColonizePlanet_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>[ICON=Bullet] You can make improvements more powerful by building them adjacent to each other.
+[ICON=Bullet] Keep an eye out for planetary features that can boost the level of your improvements even further.
+[ICON=Bullet] Cities will increase your population cap, but need food (from Xeno Farms or other improvements) to build.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ColonizePlanet_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thanks for the advice, but I already have a plan for this world.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- ResearchPrompt Note - 3) Now that we have a home we should do some research-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ResearchPrompt_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Now that we have a new world, we should start researching ways to improve it. You can do this by clicking on the "Technology" button. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ResearchPrompt_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>How do you research new technologies? [COLOR=White] [ICON=Video_Icon] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ResearchPrompt_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>To research new technologies, simply click on the Technology button at the top of the screen and select a technology you would like your civilization to pursue. You can choose from 4 categories of research.
+  [ICON=Bullet] Colonization, which focuses on building your colonies. 
+  [ICON=Bullet] Engineering, which focuses on ships and exploration.
+  [ICON=Bullet] Warfare, which focuses on the weapons and defenses needed to survive in a hostile galaxy.
+[ICON=Bullet] Governance, which focuses your people's happiness, and your interaction with other races.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ResearchPrompt_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I have already started our people researching. You should be helping them, not pestering me.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- ResearchHelp Note - 4) Do you need help researching-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ResearchHelp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>By researching different technologies you can unlock new planetary improvements, ship types, or earn bonuses that will help your civilization thrive.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ResearchHelp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Are there ways to help me research faster? [COLOR=White] [ICON=Video_Icon] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ResearchHelp_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You can control how much research your planets do by adjusting your research spending in the Govern window. You can also build improvements and starbase modules that will help your planets research faster.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ResearchHelp_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Got it, research stuff so I can build stuff and get bigger, badder and smarter!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- GiveShipsOrders Note - Give your idle ships orders.-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GiveShipsOrders_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Now that we have a safe harbor, our remaining ships would like orders on how to proceed. The T.A.S. Strider is interested in surveying the local anomalies, and the T.A.S. Foresight would like to scout the area for threats.
+It might also be wise to send the T.A.S. Revenge to guard our new home.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GiveShipsOrders_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>How do I set these destinations? [COLOR=White] [ICON=Video_Icon] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GiveShipsOrders_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>To set the destination of any ship, simply select it and right click on the tile you wish it to move to. If it is located more than one turn away it will continue to move toward that destination unless given new orders.
+If a ship is given a planet or starbase as a location, it will station there if possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GiveShipsOrders_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I will issue new orders immediately.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- GoSurvey Note - Set Survey ship to survey anomalies-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GoSurvey_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The captain of the T.A.S. Strider has requested permission to survey the area. We have reports of interesting anomalies in this remote area of the galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GoSurvey_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent, how do we survey these anomalies? [COLOR=White] [ICON=Video_Icon] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GoSurvey_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Survey ships have the ability to study all manner of strange anomalies. Start by selecting your survey ship, the T.A.S. Strider, then set its destination to a nearby anomaly by right clicking on it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GoSurvey_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tell them to await my orders, I will get to them shortly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- AutoSurvey Note - When anomaly is hit
+You can also Auto Survey-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_AutoSurvey_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Now that they know what we are looking for, the T.A.S. Strider would like to look around on its own. They assure us they will be careful. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_AutoSurvey_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I'm sure that will be fine, how do I issue that command? [COLOR=White] [ICON=Video_Icon] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_AutoSurvey_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>All ships have the ability to accept commands. Simply select the ship, then select the command button on the ship context area. Each ship has its own options, such as:
+  [ICON=Bullet] Survey ship can auto survey
+  [ICON=Bullet] Scout ships can auto explore
+  [ICON=Bullet] War ships can be set to Guard or Stand Sentry</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_AutoSurvey_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tell them to stick around and wait for my direct orders. I like having them close at hand.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- GovernHelp Note - How do I use the govern window and the production wheel-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GovernHelp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our new home is promising, but our resources are limited. To get the most out of our people, we need to focus their production on what is important to keeping our civilization alive. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GovernHelp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I agree, what do you think would be the best way to do that? [COLOR=White] [ICON=Video_Icon] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GovernHelp_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Each population gives you 1 unit of raw production. You can control your people's production by assigning them a focus with the Production Wheel. 
+You can adjust your focus on Wealth, Research, or Manufacturing. 
+You can further focus your Manufacturing on either Military (Shipyards) or Social (Planets).</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GovernHelp_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Sound advice, I already have a plan to get our new home up and running smoothly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- BuildShipyard Note - Now that you have a planet you need a shipyard-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_BuildShipyard_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Now that you have joined us here in the 'Refuge', we would welcome your assistance defending it. In order to build up your fleet you are going to need a new shipyard.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_BuildShipyard_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are eager to help and will make it our highest priority. [COLOR=White] [ICON=Video_Icon] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_BuildShipyard_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Shipyards are used to build ships of all kinds. Shipyards can be built by any colonized planet. Simply select the shipyard in the improvement list, and add it to the production queue. When it is completed it will appear in orbit of your world.
+
+  [ICON=Bullet] Up to 5 planets can sponsor a single shipyard.
+  [ICON=Bullet] Shipyards get a penalty if their sponsors are far away.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_BuildShipyard_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are busy building our new home at the moment, but we will build a shipyard soon enough.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- ShipyardComplete Note - You built a shipyard, now build a starbase-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ShipyardComplete_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Now that we have a shipyard we can start building all types of ships, from colony ships and constructors, to war ships. Your advisors have different priorities on what to build first.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ShipyardComplete_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I am open to suggestions.  [COLOR=White] [ICON=Video_Icon] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ShipyardComplete_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our people are requesting that we build a new colony ship, so that we can make sure we are not trapped here if things go badly.
+ Our Engineers would like to build Constructors to help build our infrastructure, and so we can begin mining nearby resources. 
+Our military advisors would like to start building some defensive ships, to better protect our new world.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ShipyardComplete_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>My priorities are my own, I will send orders to the shipyard immediately.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- HelpWithPirates Note - Pirates are causing problems, we would be in your debt if you would kill them-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_HelpWithPirates_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>One of our scouts has been destroyed by pirates in the area near you. They were able to report back the location of the pirate base before we lost contact. We also noticed you have a well armed frigate. If you would remove this threat from the area we would be grateful.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_HelpWithPirates_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You have been generous to us, we will gladly hunt down these pests and wipe them out.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_HelpWithPirates_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thank you, when they are gone we will know we can trust you, and might have some valuable technologies we would be willing to share.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_HelpWithPirates_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>How grateful? We are not about to risk our necks for nothing.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_HelpWithPirates_Counter2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We may be willing to share some technologies with you, after you have proven we can trust you by removing the pirates.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- PirateBaseDestroyed Note - You killed the pirate base-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_PirateBaseDestroyed_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thank you for ridding us of that pirate menace, we have lost many scouts and sentries to their mischief. 
+
+As a token of our gratitude we would like to offer you the secrets of our advanced terraforming technology. With it you can increase the class of your new home substantially.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_PirateBaseDestroyed_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thank you. We are glad we could help. Together we can make this a truly safe corner of the galaxy. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_PirateBaseDestroyed_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Do be careful, there is bound to be some pirate stragglers still hiding out there.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- OpenBorders Note - We need open borders since we are so close to each other.-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_OpenBorders_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Now that we are neighbors in truth, we should make a formal treaty that allows us to move through each others territory freely.
+
+I propose we enter into an open borders treaty, in the hopes of avoiding any incidents.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_OpenBorders_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I will gladly agree to this. I hope it is the start of a long friendship.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_OpenBorders_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>As long as we have an open borders treaty with the Iconians we will be able to move through their territory without antagonizing them.
+
+  [ICON=Bullet] Our treaty will eventually expire and we may have to renegotiate it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_OpenBorders_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We do not mean to be offensive, but we prefer you stayed out of our territory until we feel more secure.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_OpenBorders_Counter2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If we do not have an open borders treaty with the Iconians we will not be able to move though their territory without antagonizing them.
+
+  [ICON=Bullet] Our treaty will eventually expire and we may have to renegotiate it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- DiplomacyHelp Note - Open diplomacy window-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_DiplomacyHelp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>With this diplomacy simulation we can keep track of who are our friends and who are our enemies. As you can see, in this corner of the galaxy both are scarce.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_DiplomacyHelp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Very interesting, can you tell me more? [COLOR=White] [ICON=Video_Icon] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_DiplomacyHelp_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Races on the grey disk are neutral or friendly to us. Races on the red disk are enemies.
+
+ [ICON=Bullet] You can get more details about each race by clicking on them to see their relations with others, and their standing in the galaxy. 
+ [ICON=Bullet] Click on the report button to get more details of the selected race.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_DiplomacyHelp_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thanks, but all I need to know is who to conquer and who to avoid.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- DesignerHelp Note - open the design window-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_DesignerHelp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We maintain a detailed list of all the ship designs we currently have on file. Our engineers are constantly updating our designs. However, they are always willing to work on new designs, if you have something in mind.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_DesignerHelp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I can design my own starships? How? [COLOR=White] [ICON=Video_Icon] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_DesignerHelp_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>To design a new ship, click on the new design button. Then follow these steps.
+  [ICON=Bullet] Choose a hull, this determines the size and hit points of your new design.
+  [ICON=Bullet] Equip your ship. You can add weapons, defenses, or other components. The only limit is the hull's carrying capacity.
+  [ICON=Bullet] You can also add cosmetic components from the design tab, they will not use up any of your capacity.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_DesignerHelp_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thanks, I will let the engineers focus on designing ships, while I focus on saving our civilization.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- ShipyardHelp Note - Open shipyard for first time.-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ShipyardHelp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>All of our ships are built in the shipyard. Here you will see all the ship designs that are available for construction. We can also see those we could build if we control the right resources.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ShipyardHelp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>How do I order a ship to be built in the shipyard? [COLOR=White] [ICON=Video_Icon] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ShipyardHelp_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>To order a ship built, double click on it, or select it in the available ships list and select build in the production queue.
+ [ICON=Bullet] You can cancel orders at any time as well as rearrange the order.
+ [ICON=Bullet] If a ship requires a resource that you don't control, it will be greyed out in the list.
+ [ICON=Bullet] If you have the funds available you can buy a ship, and receive it the next turn.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ShipyardHelp_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I know the ships I would like to build, and will take care of it myself.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- InteractionWnd Note - OpInteraction Window-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_InteractionWnd_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Trading with other races can be profitable, and even help us move forward technologically. However, our diplomatic officers would like to urge caution when trading with other races. Even the most generous offers often hide an agenda.
+
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_InteractionWnd_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I would like some advice on trading. [COLOR=White] [ICON=Video_Icon] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_InteractionWnd_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>To trade with other races, request items from their list on the right of the screen and offer your own items from your inventory on the left.
+ [ICON=Bullet] The more you request, the less likely a race will be to accept.
+ [ICON=Bullet] Each race values their assets differently, so you can often buy from one race and sell to another.
+ [ICON=Bullet] Some trades, such as treaties, have a duration. Make sure you are willing to make a commitment before taking them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_InteractionWnd_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I will be cautious but I think I can handle myself in a negotiation.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- PrecipiceNotification Note - A planet on the precipice-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_PrecipiceNotification_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our scouts have located a high-class habitable world on the edge of the Refuge. Unfortunately, it is close to a minor Drengin colony. We are reluctant to colonize it and draw attention to ourselves. However, if you are interested we can give you the location.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_PrecipiceNotification_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are interested. Please give us the location. We will deal with the Drengin ourselves.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_PrecipiceNotification_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thank you, but We are content with our new home and we are not ready to risk our security.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- EliminateDrenginThreat Note - Eliminate the Drengin Threat-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_EliminateDrenginThreat_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have been fortunate that there is only one Drengin planet nearby. Now that we can work together, it may be time to eliminate the Drengin colony before it becomes an even greater threat to our safety. We could use your help in this. We are willing to share our Invasion Technology with you as an incentive.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_EliminateDrenginThreat_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are interested, can you give us more information about this Invasion technology? [COLOR=White] [ICON=Video_Icon] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_EliminateDrenginThreat_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>With Invasion technology you will be able to build transports. To invade a planet, build a transport and send it to an undefended enemy planet.
+ [ICON=Bullet] The more troops you load on a transport the better its chance of success.
+ [ICON=Bullet] You can fleet up transports to attack higher population worlds.
+ [ICON=Bullet] You can unlock new Invasion types that are better against different types of planetary defense.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_EliminateDrenginThreat_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will deal with the Drengin in our own time.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- KilledTheIconians Note - You killed the Iconians, dude that was not necessary.-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_KilledTheIconians_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You are truly unredeemable. After all we did to help you rebuild you turn on us. Our only consolation is that you will soon be food in the belly of the Drengin Empire.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_KilledTheIconians_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Terran Alliance will no longer tolerate any aliens meddling in our affairs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- WipeOutDrengin Note - Destroy Drengin-->
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_WipeOutDrengin_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excuse me, sir. I do not wish to interrupt the celebration of our victory over the Drengin, but there is an incoming message from near Arcea. It seems the 1st Fleet has returned and they are heading toward Drengin occupied space.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_WipeOutDrengin_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Quick, put the message through.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_WipeOutDrengin_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This is D.L. Bradley of the 1st Fleet, to all remaining Terran forces. Calling for a rendezvous in the Arcea system. We are back from the pocket universe and we have brought some surprises for the Drengin. We are going to take back Earth!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

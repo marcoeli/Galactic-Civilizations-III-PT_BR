@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- PlanetTraitText.XML -->
+
+ 
+  <StringTable>
+    <Label>ThuliumMoon_Name</Label>
+    <String>[ICON=PrecursorMoonIcon] Thulium Moon</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumMoon_Dec</Label>
+    <String>A Precursor World with an artificial moon created from a Thulium node. Shipyards sponsored by this world gain additional Hit Points.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloud_Name</Label>
+    <String>[ICON=PrecursorCloudIcon] Durantium Cloud</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumCloud_Dec</Label>
+    <String>A Precursor World with a cloud of captured Durantium Asteroids. Shipyards sponsored by this world gain a bonus to any Mass Drivers ships produced.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAccelerator_Name</Label>
+    <String>[ICON=PrecursorAcceleratorIcon] Precursor Accelerator</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorAccelerator_Dec</Label>
+    <String>A Precursor World with immense Promethion Accelerator orbiting it. Shipyards sponsored by this world will build faster ships.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellites_Name</Label>
+    <String>[ICON=PrecursorSatellitesIcon] Precursor Satellites</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSatellites_Dec</Label>
+    <String>A Precursor World with an advanced array of orbiting satellites. These satellites give the planet a larger sensor range and boost the sensor range of any ship built by its shipyard.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevator_Name</Label>
+    <String>[ICON=PrecursorElevatorIcon] Precursor Elevator</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorElevator_Dec</Label>
+    <String>A Precursor World with an intact Space Elevator that greatly increases its efficiency  of a sponsored shipyard.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefinery_Name</Label>
+    <String>[ICON=PrecursorRefineryIcon] Promethion Refinery World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionRefinery_Dec</Label>
+    <String>A Precursor World created by mining out a Promethion Planet, Shipyards sponsored by this world will have greatly increased range.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorld_Name</Label>
+    <String>[ICON=PrecursorFactoryIcon] Precursor Factory World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorFactoryWorld_Dec</Label>
+    <String>A Precursor World, with a vast orbital factory rings. That greatly increases the manufacturing potential of the world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorld_Name</Label>
+    <String>[ICON=PrecursorResearchIcon] Precursor Research World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorResearchWorld_Dec</Label>
+    <String>A Precursor world with intact precursor bases in orbit that can greatly increase the Research potential of any colony.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasury_Name</Label>
+    <String>[ICON=PrecursorWealthIcon] Precursor Treasury</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorTreasury_Dec</Label>
+    <String>A Precursor World with a vast orbiting ring that is full of ancient and valuable resources. It will greatly increase the wealth of any colony.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantine_Name</Label>
+    <String>[ICON=PrecursorQuarantineIcon] Precursor Quarantine</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorQuarantine_Dec</Label>
+    <String>A once wealthy world quarantined by the Precursors. What remains is so toxic that it is uncolonizable without work.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorld_Name</Label>
+    <String>[ICON=PrecursorExperimentalIcon] Precursor Experimental World</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorExperimentalWorld_Dec</Label>
+    <String>A world thought to have been used by the Precursors for dangerous experimentation. It will take a great deal of work to make it safe to colonize.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrison_Name</Label>
+    <String>[ICON=PrecursorPrisonIcon] Precursor Prison</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorPrison_Dec</Label>
+    <String>A mysterious world that was once used as a Precursor Prison. Its atmosphere has been poisoned, making it impossible to colonize without a great deal of work</String>
+  </StringTable>
+ 
+</StringTableList>

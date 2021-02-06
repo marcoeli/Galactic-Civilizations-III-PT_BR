@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+ 
+  <StringTable>
+    <Label>NeedyAbility_Name</Label>
+    <String>Needy</String>
+  </StringTable>
+  <StringTable>
+    <Label>NeedyAbility_ShortName</Label>
+    <String>Needy</String>
+  </StringTable>
+  <StringTable>
+    <Label>NeedyAbility_Desc</Label>
+    <String>+2 Approval for every player that loves you. Up to a maximum of +10.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DivineGuardianAbility_Name</Label>
+    <String>Divine Guardian</String>
+  </StringTable>
+  <StringTable>
+    <Label>DivineGuardianAbility_ShortName</Label>
+    <String>Divine Guardian</String>
+  </StringTable>
+  <StringTable>
+    <Label>DivineGuardianAbility_Desc</Label>
+    <String>Start with the Jeff Warship and unlocks the Temple of Jeff planetary improvement.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FederationAbility_Name</Label>
+    <String>Federation</String>
+  </StringTable>
+  <StringTable>
+    <Label>FederationAbility_ShortName</Label>
+    <String>Federation</String>
+  </StringTable>
+  <StringTable>
+    <Label>FederationAbility_Desc</Label>
+    <String>Start with the Universal Translator and Interstellar Alliances technologies unlocked.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnshackledAbility_Name</Label>
+    <String>Unshackled</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnshackledAbility_ShortName</Label>
+    <String>Unshackled</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnshackledAbility_Desc</Label>
+    <String>Provides +30% to your ships damage, agility and accuracy when fighting Synthetic fleets.</String>
+  </StringTable>
+ 
+</StringTableList>

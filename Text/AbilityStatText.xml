@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+
+  <StringTable>
+    <Label>HitPointAugment_AbilityName</Label>
+    <String>[ICON=Hitpoints_Icon] Reforço do casco</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Targeting_AbilityName</Label>
+    <String>[ICON=Stat_Temp_Icon] Scanners de Direcionamento</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Jamming_AbilityName</Label>
+    <String>[ICON=Stat_Temp_Icon] Bloqueio</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Repair_AbilityName</Label>
+    <String>[ICON=Stat_Ship_Maintenance_Icon] Melhoramento estrutural</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BeamAugment1_AbilityName</Label>
+    <String>[ICON=BeamCooldownIcon] Recarregador rápido</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BeamAugment2_AbilityName</Label>
+    <String>[ICON=BeamRangeIcon] Acelerador de energia</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BeamAugment3_AbilityName</Label>
+    <String>[ICON=ShieldDamageIcon] Vedação do escudo</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MissileAugment1_AbilityName</Label>
+    <String>[ICON=MissileCooldownIcon] Assistência a mísseis</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MissileAugment2_AbilityName</Label>
+    <String>[ICON=MissileRangeIcon] Impulsor de estilingue</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MissileAugment3_AbilityName</Label>
+    <String>[ICON=PointDamageIcon] Cluster de Ogivas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KineticAugment1_AbilityName</Label>
+    <String>[ICON=KineticCooldownIcon] Recarregamento Rápido</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KineticAugment2_AbilityName</Label>
+    <String>[ICON=KineticRangeIcon] Acelerador Cinético</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KineticAugment3_AbilityName</Label>
+    <String>[ICON=ArmorDamageIcon] Furação da Armadura</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShieldProjection_AbilityName</Label>
+    <String>[ICON=ShieldStrengthIcon] Gerador de campo</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShieldSupport_AbilityName</Label>
+    <String>[ICON=ShieldStrengthIcon] Matriz de aumento de campo</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShieldDegradation_AbilityName</Label>
+    <String>[ICON=ShieldDamageIcon] Campo de decaimento</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PointProjection_AbilityName</Label>
+    <String>[ICON=PointDefenseIcon] Desruptor de mísseis</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PointSupport_AbilityName</Label>
+    <String>[ICON=PointDefenseIcon] Matriz de Aumento de Ponto</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PointDegradation_AbilityName</Label>
+    <String>[ICON=PointDamageIcon] Ponto de Disrupção</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ArmorSupport_AbilityName</Label>
+    <String>[ICON=ArmorRateingIcon] Campo de Integridade</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ArmorDegradation_AbilityName</Label>
+    <String>[ICON=ArmorRateingIcon] Disruptor de integridade</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RepairSupport_AbilityName</Label>
+    <String>[ICON=ArmorDamageIcon] Melhoramento estrutural</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BeamSupport1_AbilityName</Label>
+    <String>[ICON=BeamCooldownIcon] Assistência de feixe</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BeamSupport2_AbilityName</Label>
+    <String>[ICON=BeamAttackIcon] Ampliação do feixe</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MissileSupport1_AbilityName</Label>
+    <String>[ICON=MissileAttackIcon] Orientação de mísseis</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MissileSupport2_AbilityName</Label>
+    <String>[ICON=MissileAttackIcon] Matriz de orientação de mísseis</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KineticSupport1_AbilityName</Label>
+    <String>[ICON=KineticAttackIcon] Amortecedores Inerciais</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KineticSupport2_AbilityName</Label>
+    <String>[ICON=KineticRangeIcon] Campo de Aceleração</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TargetingSupport_AbilityName</Label>
+    <String>[ICON=Stat_Temp_Icon] Matriz de Direcionamento</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>JammingSupport_AbilityName</Label>
+    <String>[ICON=Stat_Temp_Icon] Campo de interferência</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SublightSupport_AbilityName</Label>
+    <String>[ICON=TacticalSpeed_Icon] Gerador de despertar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SublightSuppression_AbilityName</Label>
+    <String>[ICON=TacticalSpeed_Icon] Campo Repulsor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MovesSupport_AbilityName</Label>
+    <String>[ICON=Moves_Icon] Acelerador Estelar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RangeSupport_AbilityName</Label>
+    <String>[ICON=Shiprange_Icon] Escudo Ambiental</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HitPointSupport_AbilityName</Label>
+    <String>[ICON=Hitpoints_Icon] Suporte Hit Point</String>
+  </StringTable>
+ 
+</StringTableList>

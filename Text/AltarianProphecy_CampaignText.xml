@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- CampaignText.XML -->
+ 
+  <StringTable>
+    <Label>AltarianProphecy_Name</Label>
+    <String>Altarian Prophecy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianProphecy_Mission1_Name</Label>
+    <String>Coincidence</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianProphecy_Mission1_Dec</Label>
+    <String>Lead the newly founded Terran Alliance as it encounters the Altarian Confederation for the first time and takes its first steps in founding an alliance that will shape the galaxy's future.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianProphecy_Mission1_ShortDec</Label>
+    <String>Lead the newly founded Terran Alliance as it encounters the Altarian Confederation for the first time and takes its first steps in founding an alliance that will shape the galaxy's future.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianProphecy_Mission1_AP_1_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianProphecy_Mission1_AP_1_Altarian_Name</Label>
+    <String>Altarian Confederation</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianProphecy_Mission1_AP_1_Korx_Name</Label>
+    <String>Dominion of Korx</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianProphecy_Mission1_WarWithAltarians_Message</Label>
+    <String>Avoid war with the Altarians</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianProphecy_Mission1_CaptureVol_Message</Label>
+    <String>Drive the Korx out of the sector</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianProphecy_Mission2_Name</Label>
+    <String>Alliance</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianProphecy_Mission2_Dec</Label>
+    <String>The Terran Alliance works to form its first lasting alliance with a galactic power. Yet, another power has come onto the scene, the Drengin Empire. Newly promoted D.L. Bradley must do whatever it takes to make the Korx stop their unprovoked war with the Altarians before the Drengin get involved.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianProphecy_Mission2_ShortDec</Label>
+    <String>The Terran Alliance works to form its first lasting alliance with a galactic power. Yet, another power has come onto the scene, the Drengin Empire. Newly promoted D.L. Bradley must do whatever it takes to make the Korx stop their unprovoked war with the Altarians before the Drengin get involved.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianProphecy_Mission2_AP_2_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianProphecy_Mission2_AP_2_Altarian_Name</Label>
+    <String>Altarian Republic</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianProphecy_Mission2_AP_2_Korx_Name</Label>
+    <String>Dominion of Korx</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianProphecy_Mission2_AP_2_Drengin_Name</Label>
+    <String> Drengin Empire</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianProphecy_Mission2_FormAlliancewithAltairans_Message</Label>
+    <String>Form an alliance with Altarians</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianProphecy_Mission2_WarWithAltarians_Message</Label>
+    <String>Avoid war with Altarians</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianProphecy_Mission2_CaptureHarbor1_Message</Label>
+    <String>Capture Harbor (Optional)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianProphecy_Mission2_ForceDrenginFromSector_Message</Label>
+    <String>Remove the Drengin (Optional)</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianProphecy_Mission2_ForceKorxToSurrender_Message</Label>
+    <String>End Korx-Altarian War</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianProphecy_Mission3_Name</Label>
+    <String>Pawns</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianProphecy_Mission3_Dec</Label>
+    <String>The devastating war with the Dominion of the Korx has come to an end, only to reveal an even more deadly enemy lurking in the shadows.
+Now the newly allied Terran and Altarian forces must confront the secretive race that has tried so hard to destroy them both.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianProphecy_Mission3_ShortDec</Label>
+    <String>The devastating war with the Dominion of the Korx has come to an end, only to reveal an even more deadly enemy lurking in the shadows.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianProphecy_Mission3_AP_3_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianProphecy_Mission3_AP_3_Altarian_Name</Label>
+    <String>Altarian Confederation</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianProphecy_Mission3_AP_3_Drath_Name</Label>
+    <String>Drath Legion</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AltarianProphecy_Mission3_FindtheDrathHomeworld_Message</Label>
+    <String>Find the Drath homeworld</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianProphecy_Mission3_MaintainAlliancewithAltairans_Message</Label>
+    <String>Maintain alliance with Altarians</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianProphecy_Mission3_ForceDrathtoSurrender_Message</Label>
+    <String>Force the Drath to surrender</String>
+  </StringTable>
+ 
+</StringTableList>

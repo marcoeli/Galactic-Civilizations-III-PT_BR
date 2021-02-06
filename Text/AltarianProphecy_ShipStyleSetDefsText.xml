@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- AltarianProphecy_ShipStyleSetDefsText.xml -->
+ 
+  <StringTable>
+    <Label>AP_TerranShipStyleSet_Name</Label>
+    <String>Terran Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_DrenginShipStyleSet_Name</Label>
+    <String>Drengin Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_AltarianShipStyleSet_Name</Label>
+    <String>Altarian Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_KorxShipStyleSet_Name</Label>
+    <String>Korx Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_M2_DrathShipStyleSet_Name</Label>
+    <String>Drath Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AP_M3_DrathShipStyleSet_Name</Label>
+    <String>Drath Ship Style</String>
+  </StringTable>
+ 
+</StringTableList>

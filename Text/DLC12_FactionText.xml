@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../data/Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- DLC12_FactionText.xml  -->
+ 
+  <StringTable>
+    <Label>DLC12_FACTION_Scryve_Name</Label>
+    <String>Scryve</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Scryve_ShortName</Label>
+    <String>Scryve</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Scryve_LeaderName</Label>
+    <String>Scryve Legate Graffid</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Scryve_Dec</Label>
+    <String>Burocratas como os centauros, que se empenham em manter a ordem na galáxia, mesmo que isso signifique genocídio.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Scryve_LeaderDec</Label>
+    <String>Legado do império Scryve, Kradius é tão frio e calculado como todos os seus pares. Mesmo que ele não tivesse um capacete naval cobrindo-o, muito pouca emoção jamais seria vista cruzando seu rosto.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Scryve_Callsign</Label>
+    <String>S.E.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Scryve_StartupTitle</Label>
+    <String>Prevenindo o pior</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Scryve_StartupDescription</Label>
+    <String>Os Scryve são as únicas criaturas da Via Láctea que realmente entendem as ameaças lá fora. Eles servem como um muro entre nós e os seres de pesadelo das regiões vizinhas. Só os Scryve compreendem que não há como permitir que este muro caia, ou todos nós estaremos certamente condenados.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Scryve_StartupTraitsDescription</Label>
+    <String>Os Scryve são mais do que guerreiros destemidos que já conquistaram inúmeros mundos. Eles estão lutando por uma causa superior. E o resto da Galáxia não será permitido interferir no seu trabalho.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DLC12_FACTION_Measured_Name</Label>
+    <String>The Measured</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Measured_ShortName</Label>
+    <String>The Measured</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Measured_LeaderName</Label>
+    <String>Measured  ID: G012770</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Measured_Dec</Label>
+    <String>Coral sensível, e a coisa mais próxima de um computador vivo. Extremamente capaz quando se trata de organização, coordenação, regulamentação e, é claro, repetição.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Measured_LeaderDec</Label>
+    <String>Measured ID: G012770 é quase exatamente o mesmo que Measured ID: G012771 e Measured ID: G012769, com a única exceção de que Measured  ID: G012770 é 5% melhor em impressões.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Measured_Callsign</Label>
+    <String>Measured</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Measured_StartupTitle</Label>
+    <String>Organizado, como Todas as Coisas Devem Ser</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Measured_StartupDescription</Label>
+    <String>Os Measured são mestres da organização, talvez por um defeito. Cada decisão tomada pelo Measured passa por pelo menos três camadas de confirmação. Se não houver documentos ou procedimentos para uma determinada situação, estes serão criados com alegria.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Measured_StartupTraitsDescription</Label>
+    <String>Os Measured são os últimos burocratas. Embora um pouco menos agressivos que outras raças, nada o ajudará se você entrar em seu território sem a devida documentação.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DLC12_FACTION_Phamysht_Name</Label>
+    <String>Phamysht</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Phamysht_ShortName</Label>
+    <String>Phamysht</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Phamysht_LeaderName</Label>
+    <String>Devourer Al</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Phamysht_Dec</Label>
+    <String>Criaturas de musculatura pesada que balançam dos tetos. Elas se deliciam muito com a arte, a cultura e devoram outras formas de vida sencientes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Phamysht_LeaderDec</Label>
+    <String>Al é reservado até a Phamysht, mas facilmente tentado por novos alimentos. Sendo um membro da classe alta, Al já consumiu quase todos os sabores conhecidos de sua raça.  O contato com um novo ser (e seus novos sabores) é um grande deleite.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Phamysht_Callsign</Label>
+    <String>P.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Phamysht_StartupTitle</Label>
+    <String>Fome de Aventura ou Apenas Fome</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Phamysht_StartupDescription</Label>
+    <String>Apesar de sua reputação, os Phamysht são mais do que animais famintos de sangue. Elegantes e civilizados, eles são diplomatas reservados e excelentes negociadores. É responsabilidade do Senhor Devoradores Seniores manter a paz com outras raças, bem como adquirir novos suprimentos de iguarias.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Phamysht_StartupTraitsDescription</Label>
+    <String>Os Phamysht estão muito à vontade com seu estilo de vida baseado no canibalismo e não compreendem a repulsa que lhes é mostrada por raças menos civilizadas. Afinal de contas, não se pode conhecer honestamente a qualidade de um ser até que se saiba o sabor de um fogo lento.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DLC12_FACTION_Xraki_Name</Label>
+    <String>Xraki</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Xraki_ShortName</Label>
+    <String>Xraki</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Xraki_LeaderName</Label>
+    <String>Chaos Commander Xelran</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Xraki_Dec</Label>
+    <String>Criaturas de outra dimensão, elas parecem não servir a nada. Puros servos da anarquia. Se podem ser mortos, eles o matarão. Ou talvez não o façam. Difícil dizer com esses caras.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Xraki_LeaderDec</Label>
+    <String>Xelran é excelente em trabalhar ao acaso. A única constante é que tudo com que ele lida logo é arruinado de uma forma horrível. Verdadeiramente um excelente membro da raça Xraki.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Xraki_Callsign</Label>
+    <String>X.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Xraki_StartupTitle</Label>
+    <String>Só existe a Loucura...</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Xraki_StartupDescription</Label>
+    <String>Escondido dos olhos, finalmente em conforto. Entregue-se ao caos, o sangue vital de Xraki.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLC12_FACTION_Xraki_StartupTraitsDescription</Label>
+    <String>O Xraki prospera no caos. Embora algumas vezes pareça haver um método para sua loucura, outras vezes eles parecem tropeçar na vitória. A única coisa certa sobre eles é que estão muito zangados com alguma coisa.
+</String>
+  </StringTable>
+ 
+</StringTableList>

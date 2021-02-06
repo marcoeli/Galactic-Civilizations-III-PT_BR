@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- StarNamesText.xml -->
+ 
+  <!-- GalCiv2 Names -->
+ 
+  <StringTable>
+    <Label>MOWLINGS_STAR_NAME</Label>
+    <String>Delta Xiphios</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MUKAY_STAR_NAME</Label>
+    <String>Beta Pavo</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TYWOM_STAR_NAME</Label>
+    <String>Alpha Repeculae</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FREETRANDALS_STAR_NAME</Label>
+    <String>Delta Gladius</String>
+  </StringTable>
+
+</StringTableList>

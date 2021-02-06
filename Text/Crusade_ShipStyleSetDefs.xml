@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- Crusade_ShipStyleSetDefs.xml -->
+ 
+  <StringTable>
+    <Label>Crusade_TerranShipStyleSet_Name</Label>
+    <String>Terran Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_DrenginShipStyleSet_Name</Label>
+    <String>Drengin Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_AltarianShipStyleSet_Name</Label>
+    <String>Altarian Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_ThalanShipStyleSet_Name</Label>
+    <String>Thalan Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_YorShipStyleSet_Name</Label>
+    <String>Yor Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_TorianShipStyleSet_Name</Label>
+    <String>Torian Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_SlyneShipStyleSet_Name</Label>
+    <String>Slyne Ship Style</String>
+  </StringTable>
+ 
+ 
+</StringTableList>

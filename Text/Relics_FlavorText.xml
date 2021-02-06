@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Relics_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Relics_MegaEvent_Message_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>While studying a Precursor Relic, one of our researchers seems to have triggered some sort of Beacon. As a result, several new Precursor Relics have appeared across the galaxy. If we can reach them before others, this could be an opportunity to advance our civilization beyond our imagination.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Relics_MegaEvent_Message_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must find these Relics and claim them for the good of all life in the galaxy. [COLOR=BenevolentBlue](Benevolent +10)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Relics_MegaEvent_Message_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Send out our scouts to find these new Relics and start building constructors to claim them. [COLOR=PragmaticGold](Pragmatic +10)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Relics_MegaEvent_Message_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will send out our scouts to find these relics.  Our fleets will stop anyone else from claiming them. [COLOR=WarRed](Malevolent +10)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

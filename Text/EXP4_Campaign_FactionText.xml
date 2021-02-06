@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- EXP4_Campaign_FactionText.xml -->
+ 
+  <StringTable>
+    <Label>EXP4_M1_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Terran_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Terran_LeaderName</Label>
+    <String>Jenna Casey</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Terran_Dec</Label>
+    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Terran_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Terran_Callsign</Label>
+    <String>T.A.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Terran_StartupTitle</Label>
+    <String>Proof on Yiven III</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Terran_StartupDescription</Label>
+    <String>D.L. Bradley has returned from the pocket universe and freed Earth. But the war has only just begun. Bradley, with the terrible power of the Bane at his command, has begun a crusade that will only end when the Drengin Empire has been completely wiped from the galaxy.
+
+But the mysterious Thalan Contingency has come forward with a chilling prophecy: this crusade will result in the utter destruction of the galaxy. Despite this warning, Bradley has begun to make his strike into the heart of the Drengin Empire.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Terran_StartupTraitsDescription</Label>
+    <String>The Thalan claim that proof of the upcoming Apocalypse can be found on an ancient Precursor prison world. What this proof is exactly, they weren't clear but it deserves further investigation.
+
+D.L. Bradley has dispatched a small fleet to this out-of-the-way sector to investigate the Thalan's claims, while he continues into Drengin territory.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4_M1_Drath_Name</Label>
+    <String>Drath Legion</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Drath_ShortName</Label>
+    <String>Drath</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Drath_LeaderName</Label>
+    <String>Embryes Draken</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Drath_Dec</Label>
+    <String>Mysterious creatures who love to move in the shadows, the Drath are masters of subterfuge and manipulation. Rumored to be behind every major conflict in the galaxy, though it's just as likely they spread those rumors themselves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Drath_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Drath_Callsign</Label>
+    <String>D.L.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Drath_StartupTitle</Label>
+    <String>Moving In The Shadows</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Drath_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Drath_StartupTraitsDescription</Label>
+    <String>The Drath have bonuses to diplomatic and economic skills but are hampered with a slow natural birth rate.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4_M1_Korath_Name</Label>
+    <String>Korath Clan</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Korath_ShortName</Label>
+    <String>Korath</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Korath_LeaderName</Label>
+    <String>Kindar A'Aghohl </String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Korath_Dec</Label>
+    <String>The Korath Clan is made up  from formerly elite Drengin warriors, who differentiated themselves from their brethren by both the ferocity of their desire to wipe out non-Drengin races and their ability to actually do so.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Korath_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Korath_Callsign</Label>
+    <String>K.C.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Korath_StartupTitle</Label>
+    <String>Crushing The Weak</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Korath_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M1_Korath_StartupTraitsDescription</Label>
+    <String>The Korath have bonuses to soldiering and ship combat, though their excessively militaristic nature limits their economic development somewhat.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4_M2_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M2_Terran_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M2_Terran_LeaderName</Label>
+    <String>Jenna Casey</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M2_Terran_Dec</Label>
+    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M2_Terran_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M2_Terran_Callsign</Label>
+    <String>T.A.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M2_Terran_StartupTitle</Label>
+    <String>Elemental</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M2_Terran_StartupDescription</Label>
+    <String>The appearance of the Last Dreadlord on Yiven III has brought Colonel Casey to Altaria, also known as the ancient world of Elemental. Once there she has to find the last Shard of the Telenanth and bring it to D.L. Bradley or all is lost. Unfortunately, the Yor have captured Altaria and fortified the surrounding space with special hyperdrive disrupting starbases. This will make a fast retrieval of the Shard difficult, if not impossible. 
+
+Colonel Casey must fight her way through the Yor fortifications and secure the last Shard before D.L. Bradley reaches the heart of Drengin Territory and seals the fate of the galaxy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M2_Terran_StartupTraitsDescription</Label>
+    <String>The Terran Alliance has secured two colonies within striking distance of Altaria. Will the resources of two worlds be enough to overcome the Yor Singularity? </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4_M2_Yor_Name</Label>
+    <String>Yor Singularity</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M2_Yor_ShortName</Label>
+    <String>YOR</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M2_Yor_LeaderName</Label>
+    <String>N-1</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M2_Yor_Dec</Label>
+    <String>The Yor are a race of sentient artificial beings. They have no need for crude means for reproduction and consumption, and can instead build citizens to inhabit their worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M2_Yor_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M2_Yor_Callsign</Label>
+    <String>Y.S.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M2_Yor_StartupTitle</Label>
+    <String>The Iconian Legacy</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M2_Yor_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M2_Yor_StartupTraitsDescription</Label>
+    <String>The Yor are highly productive and capable of building large fleets of self-repairing vessels. They're profoundly unpopular, and few races opt to befriend them. Unlike organic races, their growth rate is a function of production capacity.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4_M3_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M3_Terran_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M3_Terran_LeaderName</Label>
+    <String>Jenna Casey</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M3_Terran_Dec</Label>
+    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M3_Terran_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M3_Terran_Callsign</Label>
+    <String>T.A.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M3_Terran_StartupTitle</Label>
+    <String>Time is running out.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M3_Terran_StartupDescription</Label>
+    <String>The warning of the Last Dreadlord and the prophecies of the Altarians have convinced Colonel Jenna Casey that D.L. Bradley's campaign against the Drengin and continued use of the The Bane will cause the utter destruction of this Universe. 
+
+The only hope to end The Cycle of Draginol is to bring the last Shard of the Telenanth to D.L. Bradley and convince him to use it to neutralize the Bane before it is too late.
+ </String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M3_Terran_StartupTraitsDescription</Label>
+    <String>With the fastest ships they could spare, Colonel Casey races to the edge of Terran space. Only to discover the Thalan Contingency blocking the only Hypergate leading to the First Fleet, their motives in doing so currently unknown.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4_M3_Thalan_Name</Label>
+    <String>Thalan Contingency</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M3_Thalan_ShortName</Label>
+    <String>Thalan</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M3_Thalan_LeaderName</Label>
+    <String>Hithesius</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M3_Thalan_Dec</Label>
+    <String>The Thalan Contingency have come from another universe, in the hopes of stopping what they call The Terran Crusade. Which they believe will lead to the destruction of the universe if left unchecked.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M3_Thalan_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M3_Thalan_Callsign</Label>
+    <String>T.C.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M3_Thalan_StartupTitle</Label>
+    <String>From Another Time</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M3_Thalan_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M3_Thalan_StartupTraitsDescription</Label>
+    <String>The Thalans are excellent researchers, extremely productive, and unfailingly militant. Their fertility is limited however, a possible side effect of living in an unfamiliar universe. And their distant and aloof nature makes them very unlikable.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4_M4_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Terran_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Terran_LeaderName</Label>
+    <String>Jenna Casey</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Terran_Dec</Label>
+    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Terran_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Terran_Callsign</Label>
+    <String>T.A.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Terran_StartupTitle</Label>
+    <String>The final battle has begun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Terran_StartupDescription</Label>
+    <String>Colonel Jenna Casey has fought her way into the heart of the Drengin Empire to bring the Shard of the Telenanth to D.L. Bradley. However, Drengi and the devestating firepower of the Drengin armada stands between her and the First Fleet. While the battle around Drengi rages, she must reach the Crusader and convince it's commander to stop using the most powerful Precursor artifact ever known if there is to be any hope of saving this Universe.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Terran_StartupTraitsDescription</Label>
+    <String>Having secured a single colony to use as a base, Casey's small force is outnumbered and outgunned. The only hope remaining is that the Drengin are too busy holding back the First Fleet to notice the Valkyrie.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4_M4_Crusade_Name</Label>
+    <String>Terran Crusade</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Crusade_ShortName</Label>
+    <String>Crusade</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Crusade_LeaderName</Label>
+    <String>DL Bradley</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Crusade_Dec</Label>
+    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Crusade_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Crusade_Callsign</Label>
+    <String>T.A.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Crusade_StartupTitle</Label>
+    <String>Explorers in a Hostile Universe</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Crusade_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Crusade_StartupTraitsDescription</Label>
+    <String>Terrans are naturally adventurous, with fast, long ranging ships. Their production capacity and diplomatic abilities are well regarded. Their ability to field large fleets is regarded with a bit more wariness.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP4_M4_Drengin_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Drengin_ShortName</Label>
+    <String>Drengin</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Drengin_LeaderName</Label>
+    <String>Lord Kona</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Drengin_Dec</Label>
+    <String>The Drengin are a profoundly evil and warlike civilization. Exceedingly clever and vicious, there are few beings capable of meeting a Drengin and not becoming its next meal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Drengin_LeaderDec</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Drengin_Callsign</Label>
+    <String>D.E.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Drengin_StartupTitle</Label>
+    <String>An Entire Galaxy to Conquer</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Drengin_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4_M4_Drengin_StartupTraitsDescription</Label>
+    <String>Drengin soldiers are savagely effective at ground-based combat, and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slaveling revolts.</String>
+  </StringTable>
+ 
+ 
+</StringTableList>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- EXP4_CampaignShipComponentText.xml -->
+ 
+  <StringTable>
+    <Label>EXP4TheBane_Name</Label>
+    <String>The Bane</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP4TheBane_Dec</Label>
+    <String>Precursor Artifact of Unfathomable Power.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EXP3DefenseGrid_Name</Label>
+    <String>Defense Grid</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP3DefenseGrid_Dec</Label>
+    <String>Drengin Defense Grid</String>
+  </StringTable>
+ 
+ 
+</StringTableList>

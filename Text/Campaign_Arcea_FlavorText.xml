@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Campaign_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Arcea_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>The Terran 1st Fleet has taken back the Arcea sector. The Terran Alliance now has a beachhead on which they can stage their return to Earth.
+
+ The Drengin Empire has been dealt a severe blow, but not a fatal one. Their forces in the Arcea sector were but a shadow compared to the force that surrounds Earth.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Arcea_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>The Terran 1st Fleet's near-miraculous return to this universe has ended in tragedy. Despite the awesome power of the T.A.S. Crusader, the fleet was crushed under the heel of the ever expanding Drengin Empire.
+
+All that remains of the Human race now is Earth, imprisoned behind its Precursor Shield, perhaps forever.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- ThankYou Note - 1) DL thanks Cory for his help, too bad Arcea did not make it.-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_ThankYou_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thank you, Commander, for the part you have played in our return to this universe. I am sorry we have not returned in time to save Arcea.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_ThankYou_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They fought valiantly, but the Drengin Empire has grown even stronger. [COLOR=BenevolentBlue](Benevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_ThankYou_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Arcean Empire was too weak, we will put their worlds to better use. [COLOR=WarRed](Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- YourWelcome1 Note - 1a) Remorseful response-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_YourWelcome1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They were once a great people. We will avenge them, and perhaps one day we will help them rebuild.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_YourWelcome1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We can only hope. For now liberating their homeworld is a good first step.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- YourWelcome2 Note - 1b) Xenophobic Response-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_YourWelcome2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It has been a difficult fight while we were away, but we must not judge all the races of the galaxy by the Drengin. The Arceans were loyal allies once.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_YourWelcome2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I will try, but help from our allies may be hard to find.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- TakeCommand1 Note - 2b1) Lets make the galaxy better, take command.-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_TakeCommand1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>On that subject Commander, I am going to need your help. I would like you to take operational command of the fleet. I have brought back an artifact from the pocket universe that requires my attention.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_TakeCommand1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It would be my honor, sir. What are my orders? [COLOR=PragmaticGold](Pragmatic)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_TakeCommand1_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have brought enough firepower to cut though the Drengin armada guarding Arcea. Your first order is simple: take Arcea back from the Drengin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_TakeCommand1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Arceans need help. Isn't leading the fleet more important than academic research? [COLOR=BenevolentBlue](Benevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- TakeCommand2 Note - 2b2) Your kind of jerk, but take command-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_TakeCommand2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>On that subject Commander, I am going to need your help. I would like you to take operational command of the fleet. I have brought back an artifact from the pocket universe that requires my attention.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_TakeCommand2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It would be my honor, sir. What are my orders? [COLOR=PragmaticGold](Pragmatic)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_TakeCommand2_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have brought enough firepower to cut though the Drengin armada guarding Arcea. Your first order is simple: take Arcea back from the Drengin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_TakeCommand2_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What artifact could be more important than revenge? [COLOR=WarRed](Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- Artifact1 Note - 2b1a) The bane is no joke.-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_Artifact1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If I don't learn to control this artifact, this fleet will not reach Earth. I will be doing my part; you are about to find out what makes the T.A.S Crusader the most powerful ship ever built.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_Artifact1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir. It will be my honor to lead the fleet in this battle. What are my orders?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_Artifact1_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have brought enough firepower to cut though the Drengin armada guarding Arcea. Your first order is simple: take Arcea back from the Drengin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- Artifact2 Note - 2b2b) The bane is no joke now STFU.-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_Artifact2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Do not push your luck! I want you in command, but you are a soldier. I will be doing my part. You are about to find out what makes the T.A.S Crusader the most powerful ship ever built.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_Artifact2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir. Excuse my impatience. What are my orders?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_Artifact2_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have brought enough firepower to cut though the Drengin armada guarding Arcea. Your first order is simple: take Arcea back from the Drengin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- ResearchHelp Note - 3) On Research screen opening we tell the player that the roles of the pocket universe no longer apply. We are going to have to do things the hard way now.-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_ResearchHelp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Greetings, Commander. It seems we will not be able to rely on some of the technologies we were using in the pocket universe. They simply do not work here. That said, we are not helpless; we can build on what still works.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_ResearchHelp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>With this fleet we will be able to rebuild quickly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_ResearchHelp_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It's never easy, we will make do with what we have.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_ResearchHelp_Counter2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Just tell us where to start.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- DestoyFlagShip Note - 4) You beat the armada, and killed the drengin flag ship.-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_DestoyFlagShip_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Well done Commander, but don't get cocky. If our intelligence is correct, this fleet was made up of the dregs of the Drengin forces. The armada that surrounds Earth will not be so easily defeated, even with the T.A.S. Crusader leading the fight.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_DestoyFlagShip_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir. Though it was nice to show them what was coming for them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_DestoyFlagShip_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir, they got what they deserved, as will every Drengin ship that stands in our way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- CaptureArcea Note - 5) On taking Arcea, Advisor explains that we will have a lot of work to .-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_CaptureArcea_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commander, Arcea is ours! The Drengin have not been kind to the planet. Thankfully we have been able to liberate most of the Arcean slaves before it was too late. There are quite a few Drengin survivors as well, what should we do with them?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_CaptureArcea_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Isolate the Drengin where they can't do anyone harm. [COLOR=BenevolentBlue](Benevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_CaptureArcea_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Turn them over to the Arcean survivors to deal with as they see fit. [COLOR=PragmaticGold](Pragmatic)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_CaptureArcea_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Send them to their own slave pits and execute any who resist! [COLOR=WarRed](Malevolent)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- CongratulationsArcea Note - 6) Congratulations on liberating Arcea-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_CongratulationsArcea_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Congratulations on your victory, Commander! The Drengin have truly grown powerful in our absence. The fleet lost more ships than I had expected, but as long as we have the T.A.S. Crusader we will be able to rebuild it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_CongratulationsArcea_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The loss of ships is nothing to the loss of lives. They will be remembered as heroes.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_CongratulationsArcea_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Drengin are no match for us. We will take their worlds one by one. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- NewOrders Note - 7) Now that we have the planet, go clear the rest of the sector.-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_NewOrders_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>While we rebuild here, I would like you to secure the rest of this sector. We have reports of at least two more Drengin controlled systems and if they are as well defended as Arcea, you will have your work cut out for you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_NewOrders_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir! </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_NewOrders_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>And Commander, please be careful with my ship.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- ResourceReminder Note - 8) Remind Player to mine resources to get better ships.-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_ResourceReminder_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Drengin have been heavily mining the resources in this sector. I would recommend we do the same. We will need these resources if we want to build ships that are as powerful as the T.A.S. Crusader.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_ResourceReminder_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Good advice, I will see that it is done.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_ResourceReminder_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have a war to fight! Mining can be done once the sector is secure.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- ColonizeLocalWorlds Note - 9) Adviseor, we have heard reports to tow empy planets in near by-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_ColonizeLocalWorlds_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Our scouts report that there are several former Arcean worlds that have been abandoned in the area. Recolonizing them would help secure the sector.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_ColonizeLocalWorlds_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Once we have Arcea up and running we will find a good use for them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_ColonizeLocalWorlds_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonizing is a peace time activity. There are occupied Drengin worlds for us to capture and rebuild on.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- ColonizeHammer Note - 9a) You colonized Hammer-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_ColonizeHammer_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This planet used to be the right-hand of Arcea; now it is nothing but a burned out husk. We will be able to rebuild, but it is going to take some effort.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_ColonizeHammer_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Drengin will regret what they have done. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- ColonizeFarsight Note - 9b) You colonized Farsight-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_ColonizeFarsight_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This planet was never the best, but it is in a resource rich area. We will be able to make good use of it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_ColonizeFarsight_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>One step at a time, let us get the colony up and running first.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- ColonizeVega Note - 9c) You colonized Vega Prime-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_ColonizeVega_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>This planet was named for the last great Arcean leader. Perhaps that is why the Drengin wiped out the population and left it to rot.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_ColonizeVega_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Lord Vega was a great leader, we will make this world worthy of his name.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <!-- WipeOutDrengin Note - 11) Victory, Wipe the Drengin off the map-->
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_WipeOutDrengin_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It seems I was right to entrust you with the fleet. Now that this sector is secure we will use it as our base of operations. We will need these worlds to keep us supplied on the long campaign to free Earth.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_WipeOutDrengin_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes, sir! I am eager to begin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Campaign_Arcea_WipeOutDrengin_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I will have new orders for you in the morning. Congratulations, Commander. Get some rest.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

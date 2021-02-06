@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Renaissance_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Renaissance_MegaEvent_Message_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>A consortium of researchers from different races have come up with a new technology, that will greatly boost the efficiency of Research. However, the price they want is very high. If we are not willing to buy it outright, they  say they will lease it to anyone who asks. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Renaissance_MegaEvent_Message_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We should encourage the sharing of knowledge.  Let them lease the new technology along with our neighbors.
+[COLOR=BenevolentBlue](Benevolent +50, +100% Base Research to All races, -500 Credits)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Renaissance_MegaEvent_Message_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I'm sure if we provide the right incentive, we can make sure the lease agreement is to our advantage.
+[COLOR=PragmaticGold](Pragmatic +50, +50% Base Research to all races, -1000 Credits,  +500 Tech Points)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Renaissance_MegaEvent_Message_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I do not like being extorted. Hunt them down and take their research for our own.
+[COLOR=WarRed](Malevolent +50, +1000 Tech Points)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

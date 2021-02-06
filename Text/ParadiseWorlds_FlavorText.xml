@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- ParadiseWorlds_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>ParadiseWorlds_MegaEvent_Message_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Rumor has come to us that several previous class 25 worlds have been discovered. Our sources have not been forthcoming with the planet locations but we believe the reports to be true.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ParadiseWorlds_MegaEvent_Message_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must put effort into finding these worlds before they fall into the hands of those that would abuse them. [COLOR=BenevolentBlue](Benevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ParadiseWorlds_MegaEvent_Message_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must send out our scouts in search of these worlds and build new colonies ships as needed. [COLOR=PragmaticGold](Pragmatic +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ParadiseWorlds_MegaEvent_Message_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We shall find these worlds and make sure no other civilization gets near them before we can claim them as our own. [COLOR=WarRed](Malevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

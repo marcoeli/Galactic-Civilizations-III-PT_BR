@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- AbilityText.xml -->
+ 
+<!-- Abilities Traits -->
+ 
+  <StringTable>
+    <Label>ScavengersAbility_Name</Label>
+    <String>Scavengers</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ScavengersAbility_ShortName</Label>
+    <String>Scavengers</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ScavengersAbility_Desc</Label>
+    <String>[COLOR=UIDefaultHot]Have a 25% chance capturing the ships of your vanquished foes.[/COLOR]</String>
+  </StringTable>
+ 
+</StringTableList>

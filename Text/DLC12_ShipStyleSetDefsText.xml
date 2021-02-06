@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- DLC12_ShipStyleSetDefsText.xml -->
+ 
+  <StringTable>
+    <Label>ScryveShipStyleSet_Name</Label>
+    <String>Scryve Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MeasuredShipStyleSet_Name</Label>
+    <String>Measured Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PhamyshtShipStyleSet_Name</Label>
+    <String>Phamysht Ship Style</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XrakiShipStyleSet_Name</Label>
+    <String>Xraki Ship Style</String>
+  </StringTable>
+ 
+</StringTableList>

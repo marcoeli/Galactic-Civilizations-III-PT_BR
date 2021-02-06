@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../Data/Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- ArtifactPowerText.xml -->
+ 
+  <StringTable>
+    <Label>ResearchCharge_Name</Label>
+    <String>Arquivo Precursor</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResearchCharge_Dec</Label>
+    <String>Um arquivo de conhecimentos quase sem limites. Ao ativá-lo, podemos concluir instantaneamente nossas pesquisas atuais.
+[COLOR=UIDefaultHighlight]Completa pesquisa atual[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SocialConstruction_Name</Label>
+    <String>Nano fabricador</String>
+  </StringTable>
+  <StringTable>
+    <Label>SocialConstruction_Dec</Label>
+    <String>Capaz de produzir tudo o que precisamos. Ativá-la nos permite fazer progressos instantâneos no projeto social de um planeta selecionado.
+[COLOR=UIDefaultHighlight]+100 Produção do planeta[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MilitaryConstruction_Name</Label>
+    <String>Hélice de Motivação</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilitaryConstruction_Dec</Label>
+    <String>Remanescente de uma antiga raça de escravos. Quando ativado, ele inspira produtividade e aumenta a produção no estaleiro selecionado.
+[COLOR=UIDefaultHighlight]+500 Produção no estaleiro[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlanetInfluence_Name</Label>
+    <String>Ecoando Corações de Pedra</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetInfluence_Dec</Label>
+    <String>Um pedaço do coração da criação. Ativá-lo aumenta significativamente a influência do planeta selecionado..
+[COLOR=UIDefaultHighlight]+1,000 Influência[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlanetClass_Name</Label>
+    <String>Biomassa quimérica</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetClass_Dec</Label>
+    <String>Este artefato produz material rico em matéria proto-orgânica. Este material pode melhorar a classe de qualquer mundo em que o utilizamos.
+[COLOR=UIDefaultHighlight]Terraform 1 Ladrilho[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FleetMoves_Name</Label>
+    <String>Infinito Astrocompass</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetMoves_Dec</Label>
+    <String>Ao se conectar a nossos sistemas de navegação de navios, este artefato irá melhorar permanentemente os movimentos da frota selecionada.
+[COLOR=UIDefaultHighlight]+1 Movimentos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FleetAttack_Name</Label>
+    <String>Arnor Embers</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetAttack_Dec</Label>
+    <String>Esta arma Arnor arruinada pode ser colhida para fontes de energia que irão melhorar o ataque da frota selecionada.
+[COLOR=UIDefaultHighlight]+3 Ataque[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FleetDefense_Name</Label>
+    <String>Forja Matryoshka</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetDefense_Dec</Label>
+    <String>A dobra de materiais através de dimensões produz um revestimento mais forte do que a física permitiria, aumentando a defesa da frota selecionada.
+[COLOR=UIDefaultHighlight] +21 Defesa[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FleetHitpoints_Name</Label>
+    <String>Arnor Halo</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetHitpoints_Dec</Label>
+    <String>A ativação deste símbolo do Arnor aplicará alguma medida desta permanência à frota selecionada, aumentando seus pontos de golpe.
+[COLOR=UIDefaultHighlight]+25% Pontos de Acerto[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Wormhole_Name</Label>
+    <String>Gerador de buracos de minhoca</String>
+  </StringTable>
+  <StringTable>
+    <Label>Wormhole_Dec</Label>
+    <String>Esta parte anterior de um revezamento galáctico está adormecida. Ativá-la enviará uma frota selecionada para algum lugar, mas não temos controle sobre onde.
+[COLOR=UIDefaultHighlight]Teleportagem aleatória da frota [/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FOWReveal_Name</Label>
+    <String>Espelho Dimensional</String>
+  </StringTable>
+  <StringTable>
+    <Label>FOWReveal_Dec</Label>
+    <String>Este artefato do Precursor foi deixado aqui por razões desconhecidas. Ele nos permite ver uma determinada área de espaço em grande detalhe.
+[COLOR=UIDefaultHighlight]Revelar uma área do mapa[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FleetDamage_Name</Label>
+    <String>Colisor Betatron</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetDamage_Dec</Label>
+    <String>Capaz de empenar o espaço com um feixe capaz de infligir pesados danos a toda uma frota inimiga.
+[COLOR=UIDefaultHighlight]25% Danos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SpawnOverlord_Name</Label>
+    <String>Transmissor de nanites</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpawnOverlord_Dec</Label>
+    <String>Capaz de transmitir um fluxo de nanites para qualquer parte da galáxia e construir instantaneamente uma nave de guerra.
+[COLOR=UIDefaultHighlight]Gerar um navio Overlord[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SpaceMonster_Name</Label>
+    <String>Farol Preumbral</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpaceMonster_Dec</Label>
+    <String>Este farol chamará do espaço distante. Mas cuidado, ele não garante nenhum controle sobre o monstro.
+[COLOR=UIDefaultHighlight]Cria um monstro espacial[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlanetPopulation_Name</Label>
+    <String>Esfera Berna</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetPopulation_Dec</Label>
+    <String>Este habitat auto-sustentável pode ser implantado em qualquer planeta e proporciona um lar confortável para seus habitantes.
+[COLOR=UIDefaultHighlight]Capacidade populacional +1[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GlobalApproval_Name</Label>
+    <String>Motor de Empatia</String>
+  </StringTable>
+  <StringTable>
+    <Label>GlobalApproval_Dec</Label>
+    <String>Este dispositivo é capaz de transmitir uma onda calmante sobre todos os nossos mundos. Embora sua influência seja temporária.
+[COLOR=UIDefaultHighlight]+10 Aprovação para 10 turnos[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlanetResistance_Name</Label>
+    <String>Sensor Precognitivo</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetResistance_Dec</Label>
+    <String>Este sensor quântico adverte sobre ameaças antes que haja qualquer indicação conhecida de sua presença.
+[COLOR=UIDefaultHighlight]+10% Resistência[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ConvertDeadWorld_Name</Label>
+    <String>Forno do Mundo</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConvertDeadWorld_Dec</Label>
+    <String>Um ecossistema está contido dentro deste artefato. Ao implantá-lo em mundos mortos, o mundo inteiro ganhará vida.
+[COLOR=UIDefaultHighlight]Converter um Mundo Morto em um Planeta Classe 5[/COLOR]</String>
+  </StringTable>
+ 
+ 
+</StringTableList>

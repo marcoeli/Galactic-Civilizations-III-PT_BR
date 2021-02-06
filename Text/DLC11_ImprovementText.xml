@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- ImprovementText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+ 
+    <StringTable>
+    <Label>TempleOfJeff_Name</Label>
+    <String>Temple of Jeff</String>
+  </StringTable>
+  <StringTable>
+    <Label>TempleOfJeff_ShortDec</Label>
+    <String>Both a community hub, and a quiet place to listen to and better understand Jeff's Word. Increases a planet's Approval and Influence.</String>
+  </StringTable>
+ 
+ 
+</StringTableList>

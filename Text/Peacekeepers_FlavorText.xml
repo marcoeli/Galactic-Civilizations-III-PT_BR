@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Peacekeepers_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Peacekeepers_Peacekeepers_Warning_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Strange news from our scouts. They have encountered several giant space faring robotic vessels that are patrolling deep space.
+They are continuously broadcasting a single message "We will keep the Peace." They have begun attacking the vessels of any race that is currently engaged in a war. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Peacekeepers_Peacekeepers_Warning_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We must take advantage of this turn of events and try to resolve our current conflicts.
+[COLOR=BenevolentBlue](Benevolent +30)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Peacekeepers_Peacekeepers_Warning_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>If they encourage peace, we should support them. But if they threaten us, we will destroy them. [COLOR=PragmaticGold](Pragmatic +30)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Peacekeepers_Peacekeepers_Warning_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We will not bow to the whims of these interstellar peaceniks. We will destroy them along with our enemies. [COLOR=WarRed](Malevolent +30)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

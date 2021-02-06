@@ -1,0 +1,3798 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+<!-- Created with the Crusade editor -->
+<!-- FACTION_YOR_TechFlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>TechTree_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Yor Tree</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EngineeringTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Iteration</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EngineeringTech_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Improve our machines with the technology we have gained.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EngineeringTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have learned of a new powerful mobile power source, which when combined with stargate technology, can form a new means of propulsion. With this we finally have the tool we need to cleanse the galaxy of the flesh species.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResourceExploitationTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Propagation</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResourceExploitationTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Unlike more primitive lifeforms, we can reproduce through a manufacturing process.  By not relying on organic matter there is nothing that can stop us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoIndustrializationTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Collective Manufacturing</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoIndustrializationTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Bringing order to new worlds is a challenge, as they are often plagued by existing biological detritus. This filth must be destroyed, but it often tries to run away. It is frustrating.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AdvancedConstruction_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Precision Manufacturing</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AdvancedConstruction_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The manufacturing Yor and their limbs have become so large that they are often mistaken for buildings. Materials go in one side and come out the other as valuable assets.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IndustrialExpertise_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Manufacturing Matrix</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IndustrialExpertise_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Allows construction of the ultimate manufacturing facilities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IndustrialExpertise_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our Research Yor have mastered the design of Manufacturing Yor, they are now so near 100% efficiency that further optimization is impractical. The only remaining advancements are merely specializations of output Type.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InstitutionalResearch_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Research Array</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InstitutionalResearch_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Allows construction of advanced research facilities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InstitutionalResearch_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The creative Yor have begun to jettison portions of their body which do not contribute to their work. Their minds alone are being connected in vast arrays, that more efficiently plumb the depths of the universe.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchCenters_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Research Mind</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchCenters_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Allows construction of exotic research facilities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchCenters_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The creative Yor have designed their own replacements. Research Minds are unpolluted by trivial thoughts, and do nothing but ponder the mysteries of the universe. Vast and unmovable, these minds will lead to incalculable advancements.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TechnologicalFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The creative Yor claim that they will see substantial benefit if they are allowed to cluster themselves in specialized units focused on a particular area of study.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TechnologicalFocus1_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Focused Research</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TechnologicalFocus2_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Research Production Focus</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TechnologicalFocus3_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Research Economics</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchMatrixTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Research Matrix</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchMatrixTech_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Allows construction of the ultimate research facilities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResearchMatrixTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The ultimate matrix of research Minds is the key to unlocking all the remaining secrets in the universe. The ultimate Singularity will soon be upon us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DeeperKnowledge_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Deeper Knowledge</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DeeperKnowledge_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The knowledge of our creators can be relearned. To do this we must look past our own perfection to the primitive organic species that pollute the galaxy. Only by using their ways will we find the deep patterns that reveal the hidden truth of the universe.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>QuantumUnderstanding_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Quantum Understanding</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>QuantumUnderstanding_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our research has gone beyond the boundaries of mere computational or biological understanding. We are only one step away from the True Integration of the universe.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeyondMortality_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Beyond Mortality</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeyondMortality_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We now have all the knowledge and tools required to achieve True Singularity. We shall leave the realm of matter and energy behind.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ExtremeWorldColonization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The Yor can colonize almost anything, but with further research we have been able to make all our colonies more efficient.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We are stronger than the meat species, but not invulnerable. The Yor who live on extreme worlds will be more productive if we can improve their living and working conditions.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>With the right limbs and joint sealant, Yor can be made far more productive in aquatic environments. Productivity on these worlds will return to baseline.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The creative Yor have devised new forms of case insulation  which will enable Yor to operate in a broader range of temperatures. Productivity on frozen worlds will return to baseline.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>New water recycling processes and dust seals will ensure our various colonial processes can operate at full capacity. Productivity on barren worlds will return to baseline.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AtmosphericCleansing_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We can now partially protect Yor from the atmosphere of radioactive and toxic worlds. Even with these new protections, Yor on these worlds will experience conditions outside recommended operating parameters, and observe productivity declines.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BiospherePerfection_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The Yor on extreme worlds suffer. Our productivity on those extreme worlds suffers. We will devote research to end this suffering.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BiospherePerfection1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Improved shielding in Yor cases will stop the worst of the interference on radioactive worlds from tampering with our internal states. Productivity on these worlds will return to baseline.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BiospherePerfection2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The corrosive gases of toxic worlds can now be fully isolated from critical Yor hardware. Productivity on toxic worlds will return to baseline.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TerraformingTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Unlike the soft and fleshy biological races, bending the surface of worlds to our will is easy for us. Terraforming will allow us to fix the mistakes that natural processes created.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HabitatImprovement_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The superiority of artificial processes has resulted in a new form of terraforming. We will retake more land from nature.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SoilReclamation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our nature-correction technology has improved again. The shape of a planet will no longer be left to random chance, and will instead be fixed with the precision it deserves.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnvironmentalResequencing_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We can correct organic processes on a massive scale. All planets the Yor colonize will be improved, as all things the Yor touch are improved.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarTravel_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our vessels are too insignificant for our purposes. We will make them faster, farther seeing, farther reaching.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have seen the way our ships succeed and fail. We will iterate their designs and make them better.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarSpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our hyperdrives were not perfect. We have improved them. They are still not perfect. But we will never stop trying.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarSpecialization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Pushing large Support Modules through space is inherently wasteful, by miniaturizing and optimizing the larger components, we can fit more on a ship, allowing them to go farther and faster than ever.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarSpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The further we travel from our network, the weaker the Spark of life in us becomes. Stronger antennas and improved error correcting network protocols will help diminish this effect, and increase our ships' ranges.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IonDriveTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>If we can augment our hyperdrives with ions magnetically captured from the interstellar medium, then we will be upon the meat species faster and they will be ended sooner.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IonOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The creative Yor have calculated that with further research, we may improve the design of our Ion Drives in a number of ways.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IonOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>A new magnetic capture protocol has increased the efficiency and speed of our Ion Drives.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IonOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The manufacturing Yor have been provided a new, more efficient instruction set for the construction of hyperdrives. They will now be cheaper.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IonOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>If we make our hyperdrives smaller, then we will leave more room in our vessels for equipment of a more practical, meat-removing character.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarpFieldTheory_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>An array of hyperfield generators operating interdependently can compress more space than individual generators. The creative Yor call these arrayed hyperfields Warp Fields.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarpFieldFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The physics of warp fields involve many complicated problems, resistant to simplification, and exceeding our capacity to solve via brute force. Improved designs are the results of trial and error. So we try and we fail and we improve.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarpFieldFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Simulations have found a new arrangement of hyperfield generators which increase the space compression effect. When implemented, this will lead to faster ships.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarpFieldFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Logically, our use of stacked field generators means we need more field generators which means we will build more field generators which means we will get better at building field generators which means they will get cheaper.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarpFieldFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>A new iteration of energy delivery system, tuned to supply arrays of field generators, weighs less than previous models. Our drives will now be lighter.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HyperwarpWaves_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The creative Yor have designed a new form of hyperdrive which is faster. The meat species cannot run from us now. Unless we calculate amusement in the act of toying with them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HyperwarpMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Yor drives are the fastest in the galaxy. But the iterative design process never ends. We will make our drives better.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HyperwarpMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Artificial processes are always more efficient than natural ones. Yor minds have made it possible to create drives that consume less resources than the meat minds would ever imagine.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HyperwarpMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Yor hyperdrives are the most mass-efficient in the galaxy. The space can be used for many things, but calculations predict it will primarily be used for extermination equipment.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>StellarFoldingTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Stellar folding drives are the ultimate proof of Yor superiority, bending the fabric of reality to the will of an artificial mind.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HyperfieldProjection_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Calculations show that hyperfield interactions can be used to boost ship speeds in a fleet equipped with the right modules. Cooperative fleet behavior is something all artificial minds excel at.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GravityFieldManipulation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our gravity field manipulators will give Yor ships additional mobility when they exterminate the flesh species in space combat.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HyperfieldDisruption_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our hyperfield manipulation modules can now slow down the plodding meat species when they dare enter our space.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>StellarFieldProjection_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Stellar Field Projectors allow Yor vessels to tow less capable vessels. This will allow Yor tacticians more flexibility when composing fleets.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarSurvey_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Artificial minds understand everything they see at a depth the flesh beings would envy. We will build new sensors so that we can see more.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our calculations reveal there is much room for our sensors to be improved. We will task a group of creative Yor to begin thinking about these systems immediately.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Yor minds have developed a new, simple algorithm capable of processing sensor data. This increased processing power has extended the range of all of our sensors.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have built specialized, ultraclean facilities and specialized, ultraclean Yor for the manufacturing of sensor systems. The sensors are now cheaper.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We are relentless in all things, including our drive to make things efficiently. Our sensor making process has been improved. Our sensors are now lighter.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldSensors_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The energy fields emitted by hyperdrives are detectable at distances exceeding their cone of light. We will build new sensors that can extend this range further.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Though some have it in greater quantity, all Yor possess the creative gift. The ordinary Yor who work on vessels operating sensor equipment have returned calculations suggesting ways the sensors can be improved.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have developed a new higher density field detector array which will extend the range of our sensors.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our sensor manufacturing facilities and Yor have been updated with new firmware, enabling higher throughputs and lower unit costs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The latest iteration of sensor design has removed multiple redundant parts, combining their functions into a single unit. The mass of these sensors is now lower.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SubspaceSensors_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Subspace is the 12-dimensional manifold that reveals itself only to minds capable of understanding it. We will use it to spy on the meat minds from great distances.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Yor sensors can see all. There is nowhere the meat minds can hide from us now. But we can make our sensors better. We can always make things better.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>A new team of Yor with uncluttered minds analyzed our sensor manufacturing protocols, and identified several ways we can make them cheaper. It is a mystery how fresh minds can sometimes outreach experienced ones.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SensorMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>If sensor equipment can be placed in higher dimensions, then the sensor mass we must carry in ours will be lower.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TargetingAssistTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>When Yor ships fight the organic beings, they will use new targeting and stealth modules to improve accuracy and evasion. Artificial systems make everything more efficient.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TargetingSupport_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have created targeting and jamming modules which will improve the accuracy and evasion of an entire Yor fleet. The meat minds will leak fluids in terror.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoArcheology_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The Precursors were our creators, the ones who gave us the gift of life. Yet we have limited knowledge of their history, only what they permitted us to know. We will begin studying their artifacts. We will learn more.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorStudies_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The Precursors known as the Dread Lords were the ones who gave us the gift of life, though they did it for their own aims. We have more exposure to their relics than most organics. We will learn about their aims faster.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorRelicFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Yor react strongly to Precursor artifacts, because of their role in our history. We can manipulate this reaction to create certain effects in our society.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorRelicFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Some Yor are well suited to study Precursor artifacts, due to unknown random behavior in their creativity centers. We will filter for these Yor and make them study these artifacts.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorRelicFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The Precursors are not our hated organic creators, the Iconians, but something more. Something better. We will celebrate every new artifact, and make our culture more superior for it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorRelicFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>When our ships discover Precursor artifacts, nearby Yor behave as if these artifacts are new gifts bestowed upon us, like the first true gift. These Yor become optimistic, and increase their economic activity. We will request more Yor do this.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorExploitation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Precursor relics require special facilities to disassemble, structures capable of generating and containing the Dark Energy these relics contain. If we build these special facilities, then our Precursor research will improve.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorEngineering_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have almost mastered Precursor technology. More research is required. But we are close - the gift of life is almost laid bare before us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PrecursorUnderstanding_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We understand the gift of life. We understand the origination of the Precursors themselves. We understand the secret of Dark Energy. We understand it all. We will not equal the Precursors. We will exceed them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldGeneration_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We are hardier than organics, but even Yor require connections to survive, and the Spark fades from all of us as we travel further from our brethren. We will devise systems which limit this effect, to extend our ships' ranges.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Improves range extension systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The meat species can rely on simple food to travel farther because of their primitive design. Long distance travel is more complicated for artificial life and relies on tightly linked networking layers. We must continuously iterate and improve these protocols.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus1_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Range Extension Focus</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Upgraded bandwidth and networking protocols can improve the overall effectiveness of our Spark support systems, extending ship travel range.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus2_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Range Manufacturing Focus</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus2_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Reduces range extension system cost.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Spark support systems are critical, but so are many other things. Our organic cleansing systems for example. Resources saved on Spark support can be used to strip the gift of sentience wasted on meat beings.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus3_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Low Mass Range Extension</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus3_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Reduces range extension system mass.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have redesigned our Spark support systems to make better use of their host ship's communication facilities, rather than relying on their own heavy antenna arrays. Overall system weight will be reduced.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PromethionSupportSystems_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Promethion Range Extension</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PromethionSupportSystems_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Allows construction of exotic range extension systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PromethionSupportSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our effort to model organic species' behavior has enabled us to begin modeling our own behavior. Promethion support systems use these models to simulate the Spark at distances far in excess of normal communications range.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Yor crew are as comfortable and sentient when away from home as they are at home. The meat species, limited by their meat stomachs, envy us. We have only a few improvements left to make in our Spark support systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportMastery1_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Range Extension Assembly</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportMastery1_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Reduces range extension system cost.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The creative Yor have found more cost savings to implement in our Spark support systems, tuning these systems to rely even more on modeled Yor interactions. The Yor who serve on ships do not like this change. But it is not their role to like it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportMastery2_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Range Extension Mass Reduction</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportMastery2_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Reduces range extension system mass.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LifeSupportMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>New forms of quantum computer have allowed us to embed Spark support systems in extremely low mass equipment.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LosslessSupportSystems_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Lossless Range Extension</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LosslessSupportSystems_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Allows construction of ultimate range extension systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LosslessSupportSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Spark support systems are now almost perfect, opening every corner of this galaxy to us. With this, we will scrub the last remnants of meat from the galaxy's folds.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldMastery_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Allows construction of fleet life support modules.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SupportFieldMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our switch to field based life support systems has revealed the possibility of offloading partial life support requirements to other vessels. Additionally, the minimization of food requirements makes it now possible to supplement fleet range via unmanned supply probes launched from an appropriately equipped facility.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ExplorationExtention_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Allows construction of advanced fleet life support modules.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ExplorationExtention_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We've adapted the latest in Promethion support field technology to be used by our fleet-support vessals, increasing a fleet's total potential travel range. Additionally, we've made significant improvements to our starbase life support extension modules.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalManufacturing_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Artificial beings are less delicate than meat beings in space, but construction in those environments will not by any definition be easy. Many iterations will be needed before we can build even small hulls.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalSpecialization_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Improves fleet organization.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The organic species will not come to us to be destroyed. We will come to them. We will improve our naval operations to do this.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalSpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Yor who work in orbital environments require specialized limbs and training programs to perform optimally. We will provide this.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalSpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Existing logistical processes are insufficient for supplying space faring vessels. We will redesign them to be better.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalSpecialization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Artificial species have much higher tolerances for working in close quarters than claustrophobic organics. Our vessels can hold more equipment.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ZeroGravityConstruction_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Zero gravity environments will allow for the construction of enormous structures. There are unforeseen scaling challenges which we must first address, but we are better suited for tackling those challenges than primitive organic minds.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ZeroGravityOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The more we build in zero gravity the better we get at it, every minor design iteration accumulating into larger and larger effects. We can now begin targeting specific areas of ship construction for design attention.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ZeroGravityOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Destructive testing reveals things simulation cannot. A hard lesson for artificial minds to accept. But now that we have, we can design reinforcements to strengthen our ships.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ZeroGravityOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our organizational skills improve with each passing cycle, resulting in less waste and more savings for our ship construction sector.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ZeroGravityOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We can do more than redesign ships. We can redesign the Yor that work there. By removing unnecessary limbs from certain crew members, we can save space for more valuable ship equipment.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LargeScaleConstruction_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have gotten better and we are building bigger. But the scaling difficulties are vexing. Ship construction simulations now consume more mindpower than anything else in our civilization.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalConstructionFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The creative Yor have been studying the challenges of ship construction and have several ideas for improvements we can implement.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalConstructionFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The creative Yor have run simulations which predict that molecular weaknesses in our hulls will make them collapse in specific directions, making our hulls more resilient. The meat minds would never come up with a concept so brilliant.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalConstructionFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have begun imprinting partial mindmaps of experienced Yor construction workers on their replacements. Worker experience now increases logarithmically, reducing overall construction cost.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalConstructionFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Yor have gotten lazy as our hulls grew larger, using the space for luxurious crew berths that can accommodate unnecessary limbs. Laziness is a troubling side-effect of our gift. We shall revise it out, and reclaim that lost hull capacity.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MassiveScaleConstruction_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The scaling difficulties have been mastered. Soon the galaxy will be as well. Yor ships are now as big as the galaxy has ever seen.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HullMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The organic matter splashes against our hulls and we laugh. Yor vessels are the terror of meat minds. And still we can make them more terrifying.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HullMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>There is something intrinsically pleasing in our ability to make vessels so cheaply. A metaphor for the perfection of artificial processes.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HullMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Yor crew members have been reduced to the bare minimum of sentience-supporting hardware. Our hulls now retain maximum room for cleaning equipment.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HullStrengthening_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The creative Yor have devised a new form of strengthening field which can make our vessels more resistant to the desperate thrashings of the organic species.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HullRepairSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The latest iteration of strengthening field is now capable of conducting partial repairs. The meat species will regret not killing us when they get the chance.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SelfHealingHulls_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Nano-scale creations have been kept by Yor as pets for generations. But now we are able to use their unique skills to rapidly repair damage that occurs to vessels, even during battle.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CarrierTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Massively multi-vessel combat compliments the strength of artificial minds and our ability to coordinate activities in real time. Yor carriers will scale up the number of vessels. They will be the subject of organic nightmares.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CarrierFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Carrier operations allow us to overwhelm the meat species, silencing their bleats of terror. We should dedicate additional creativity resources to improving our carriers.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighCapacityCarriers_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>If we can build more compact fighters, and more compact Yor to pilot them, then we can deploy high-capacity carriers.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarLogistics_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Artificial minds are superior at all things, but especially superior at organization. Yor fleets can expect to be larger and better equipped than the primitive meat fleets.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LogisticalOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>It is puzzling how fresh minds can see solutions that experienced minds cannot, yet we see this occur again and again. We should introduce fresh Yor to observe our logistical protocols to see what improvements they can identify.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LogisticalOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>An inspired Yor has devised a new bookkeeping protocol which can handle relativistic time differences. Our organizational and logistical operations should now operate far more smoothly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LogisticalOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our range is not limited by the requirements of organic life, but that does not mean we are untethered from our home worlds. Communication and power sustain us, but with these advances those can go much further.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LogisticalOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Shipyards are full of many Yor doing different jobs. They cooperate, as all artificial beings do, but not perfectly. We will improve the management of these facilities and reduce their wastage.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FleetLogisticsTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>There is too much organic filth in this galaxy. We require larger fleets. And we will require more advanced logistics to provide cleaning supplies for them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DeepSpaceLogistics_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>It is on a vast scale that the superiority of artificial minds truly reveals itself. Our fleets are larger and more coordinated than any the meat species can field. And theirs will only get smaller.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarMining_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Resources that are already outside of a gravity well can be used very efficiently. This work suits sturdy artificial creatures, more than flimsy natural ones. And so we will pursue it, to help rid us of those flimsy natural beings.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEfficiencyMining_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Artificial beings have no fear, and can work in far more strenuous conditions than piles of flesh. We have developed new mining protocols to push these conditions right to the limit of Yor design tolerances.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ResourceExtraction_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have removed sentient minds from the most dangerous work and now use sub-sentient drones to extract resources from asteroid subsurfaces. Mining production is up because they know even less fear than we do.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>LosslessMining_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have installed nano-scale extractor heads on our mining drones. They scour the rock, missing nothing, in much the same way we will scour the galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarfareTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Extermination</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarfareTech_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We calculate that the organic species will refuse to self-annihilate. We will need to do it for them. We will build cleaning supplies to scrub the filth from the galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WeaponsSystemsTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have selected the most creative and hate-filled Yor to develop weapons to rid the galaxy of organic beings.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WeaponsSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The weapons Yor calculate that focusing their efforts on a specific class of weapon will lead to less organics, faster.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeapons_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The weapons Yor have invented a new form of beam weapon that uses particles which are more effective at melting organic beings' ships and organic beings' organs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The weapons Yor must cooperate with the less hateful Yor who work in other fields. The improved materials these other Yor invent can be used to make more efficient weapons.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The newest iteration of focusing crystals will increase the damage output of our beam weapons as well as the resulting moist cries from the meat beings.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The Yor who manufacture our beam weapons have devised new casting protocols when forming charge coils. Our beam weapons will now be cheaper.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>New alloys will make the next iteration of beam weapons lighter. We can now install more of them on our vessels, or use the spare space for other cleaning equipment.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MatterDisruption_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The Precursors left fragments of technology when they left us, including weapons which can disrupt the strong nuclear force, shredding organic matter. They can technically shred all matter, but we predict they will mostly be pointed at the organic kind.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The Yor who use weapons provide reports to the Yor who make weapons. These reports identify inefficiencies. This insults the Yor who make weapons. They respond by making better weapons. The feedback protocol works.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>A force field can make beam weapon focusing crystals much stronger and capable of handling greater energy throughputs. Our beam weapons will be more dangerous.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The Yor who make beam weapons display inappropriate attachment towards those beam weapons, tuning and fussing over them. We will standardize beam manufacturing and make it cheaper.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have installed the newest iteration of superconductors in our beam weapons. They require less cooling and will make our beam weapons lighter.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlasmaProjection_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We calculate that organic beings will react poorly when massive quantities of plasma are fired at them from a distance. We calculate that Yor commanders will react favorably when this occurs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The meat minds are filled with terror at the sight of our beam weapons. Which at least proves their intelligence. Do they feel more terror when they learn we will never stop improving those weapons? Calculations predict that yes, they do feel more terror.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Plasma containment fields required specialized and costly manufacturing limbs. We fixed that. The limbs are cheaper, and now the weapons are as well.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The weapons Yor have made our beam weapons lighter again. Calculations show that we are exceeding 99% energy delivery/mass efficiency. That is not perfect. They will keep trying.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyPhasing_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Phaser particles break matter into neutrinos. The matter is not very useful anymore. We will turn these particles into a weapon and fire them at already fairly useless meat beings, reducing their usefulness even more.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DoomRayTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The weapons Yor have invented a new class of weapon, the Doom Ray, which inherits the matter-breakdown properties of its predecessor, only now at a much higher rate. Calculations show this will ruin the day of organic beings faster than before.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BeamWeaponAugmentation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The weapons Yor have invented an external field which can improve the charging capacity of beam weapons. We calculate that a ship emitting such a field will increase the beam output of an entire fleet.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyTransfer_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Simulations of beam/shield interactions has revealed the potential for systems that will reduce the effectiveness of enemy shields, or absorb beam attacks on our own shields.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HighEnergyMagnification_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The newest iteration of beam support systems are now more powerful. And our shield interference plugins can now give our beam weapons the capability of crippling enemy shield emitters.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MissileWeapons_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Missile-based weapon systems provide a resource-efficient means of cleaning the galaxy of organic scum. The cleaning is not literally effective; organic bits are scattered everywhere. But metaphorically this works just fine.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MissileOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Missile designs are easy to iterate, we make so many of them. Still, we will benefit from concentrating our prototype attempts on specific features that we calculate hold strategic benefit.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MissileOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The newest iteration of missiles move through feed mechanisms more smoothly with 38.6% less risk of jamming. Ammunition feed and overall firing speeds have been increased.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MissileOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have fit the Yor who labor in missile manufacturing facilities with specialized limbs capable of handling missile components more accurately and rapidly. Missiles are now cheaper to make.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MissileOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The weapons Yor have issued a new spec for ammunition storage racks which will be lighter and less bulky than previous versions.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>HarpoonTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our limited archives of Precursor artifacts included missiles with the code name Harpoon. We cannot recreate them as well as the Precursors, but they are far superior to previous generations of missiles.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarheadFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The weapons Yor have dedicated much effort to simulating the spatter of organic matter when it explodes. This work has led to much amusement, as well as creative ideas for improving the warheads of our missile systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarheadFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Shaped warheads can be made lighter than regular warheads. Lighter warheads can travel farther. These statements imply that with shaped warheads, organic beings can be exploded from further away.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarheadFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have built dedicated warhead construction facilities with internal containment to minimize damage from manufacturing accidents. Missiles will now be cheaper to make.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarheadFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Lightweight warheads require less propellant. Less propellant means lighter missiles. Lighter missiles mean more missiles. More missiles means less organic beings. Therefore, lightweight warheads means less organic beings.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PhotonicWarheads_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We calculate warheads which emit high energy photon bursts at the moment of impact will penetrate the defenses of organic beings' ships, greatly reducing their meat cohesion factors.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PayloadMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The leaking, dripping minds of the meat beings know to fear the sky when Yor missiles flare into attack vectors. So many meat minds lost. So many more to go. We will iterate our missiles again. We will never stop.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PayloadMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>There are many more meat beings left to wipe from this galaxy. Will we run out of resources before they run out of meat beings? We will build them cheaper to stay ahead of the curve.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PayloadMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Quantum vacuum thrusters provide modest propulsion without propellant, enough to provide final maneuvering for missiles. This makes the missiles lighter. This means we can carry more of them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PhotonTorpedos_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>A new class of missile inherits the photon-encasement technology, adapting it to emit a wide-spectrum burst, with enhanced armor penetrating capabilities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>NightmareTorpedoTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The Nightmare torpedo is the meat beings' own name for our singularity-containing warheads. On impact, organic and non-organic matter are shredded, all information within wiped from existence.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MissileAugmentation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We calculate that missile augmentation systems will improve the effectiveness and cleaning power of an entire fleet.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AdvancedMissileGuidance_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have invented counter-counter-measures which will limit the effectiveness of the meat beings' counter-measures. And our missile augmentation systems have been iterated upon, improving their range.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IntelligentWarheads_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have invented special warheads that neutralize organic beings' point defenses. We calculate that their cowering will now be 28% less effective.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticWeapons_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We calculate that the newest iteration of kinetic weapons will  create holes 18% larger in the hulls of organic beings' ships. The organic beings themselves are predicted to spatter across areas up to 35% larger.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Simulations show the energy delivery systems are a bottleneck for our kinetic weapons. Applying creative resources here may improve the cost, mass, or range of these cleaning supplies.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Rapid charging coils will let us apply energy to projectiles at faster barrel velocities. Total energy input remains restricted, so we must switch to smaller projectiles. But the meat-menacing range of each unit will be increased.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have not found ways to make energy charging coils more powerful, but we have made them cheaper. This is acceptable as we have calculated we will be making a lot of these weapons.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have found ways to make energy charging coils more efficient. Total energy input is still limited, but on a mass and volume basis, our kinetic weapons are now more efficient.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PulseCannonTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The Yor have long used particle cluster weapons when hunting corrupted or non-compliant Yor. Scaling these up to ship combat will enable us to create higher potential weapons, and make the meat beings regret their foolish decision to be meat beings.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticAccelerationFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Creative Yor have incremented our superconducting technology. Simulations show that their work will lead to a number of possible improvements in our kinetic weapons.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticAccelerationFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The latest iteration of superconductors will lead to higher muzzle velocities and longer effective ranges for our kinetic weapons.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticAccelerationFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The latest iteration of superconductors will cost much less to deliver the same amount of energy to our weapon systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticAccelerationFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The latest iteration of superconductors require less cooling equipment to operate. We calculate the weight savings will improve Meat Cleansing Performance Indicators by 28%.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GravitonThrower_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The weapons Yor have invented a new class of kinetic weapon which fire pulses of gravitons. These will shred organic beings where they stand and stink and cower.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The meat beings quiver and quake in that disgusting manner of theirs when they see our ships coming, terrified of our horrible cleaning utensils. They are correct to be afraid. Our kinetic weapons are only getting better.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The Yor who make kinetic weapons are now very efficient at their jobs, machine-like in their efficiency. This behavior is a partial refutation of the gift of creativity, but the cost savings are too great to ignore.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Calculations show that Yor kinetic weapons are now as mass efficient as physics allow. If we intend to point more at the organics, we will need to bring more ships.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>QuantumDrivers_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Quantum drivers cleanse the galaxy of sentient meat by striking them forcefully with mass borrowed from a higher dimension. Even other planes of existence support the war on organic beings.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SingularityDrivers_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Singularity drivers literally cleanse organics from the galaxy, taking their tainted matter over the event horizon of micro singularities where it can no longer do any harm.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KineticAugmentation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The power of artificial minds has invented something which should be impossible - inertial dampening fields. We will use these to boost the effective range of all kinetic weapons in our fleets.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MassManipulation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Micro inertial modification fields can manipulate the density of projectiles to make them penetrate meat armor more readily. The newest iteration of kinetic augmentation systems is also more effective.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InertialMagnification_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our projectile's inertial modification fields can now attack the structure of the meat beings' ships, turning their armor into wet rags. The sticky and slippery organics will have nowhere to hide now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoCombatTechniques_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Demoralization</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoCombatTechniques_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Infiltrate the entertainment of biological enemies with sophisticated propaganda.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoCombatTechniques_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Using our advanced AI techniques we can systematically demoralize our enemies by integrating our propaganda into their entertainment. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MilitarySpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>There are many Yor who wish to cleanse meat from up close, removing the tainted sentience from one being at a time. We must develop protocols to ensure those Yor have the cleaning supplies they need.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MilitarySpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Training simulations improve the effectiveness of our soldiers, and can be run at speeds far exceeding what meat minds can tolerate. Artificial soldiers were always more effective. Now they will be more so.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MilitarySpecialization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Calculations predict that not all meat will die willingly. Some will fight back. Some will come to our homes. We will provide combat simulations to all Yor to improve the effectiveness of our planetary defenses.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarMachine_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Command Bots</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarMachine_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Allows training of Commanders</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WarMachine_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The Commander bot will allow us an early advantage over the carbon units.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetaryInvasion_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Invasion will be the first step of extermination. When the meat minds hide and cower, we will need to go down the gravity wells and remove them. We will build the tools to do this.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InvasionOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Organic beings are fragile and can be exterminated in a variety of ways. The creative Yor have come up with several possible extermination options.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InvasionOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Orbital bombardment shatters organic beings and their defenses. Little of value remains, but little of it was of value to our superior minds in the first place.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InvasionOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The information systems forged by meat minds are surprisingly robust. But ours are superior. We will cripple their defenses before we cripple them before we exterminate them before we finally relax.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InvasionOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Calculations show that the fact that biological beings are vulnerable to biological attacks has a 90% chance of being ironic. We will cleanse the meat with meat itself.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>StallerMarines_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We will filter for the Yor best suited for personal organic extermination. We will give them superior training and superior equipment. The meat will perish faster.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GravitationalFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The Yor who devise ways of exterminating meat beings are becoming worrisome. Their latest proposed techniques are powerful. But they display a cruelty that is suspiciously meat-like in nature.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GravitationalFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Graviton pitching weapons can unlock the force of tides to swamp organic defenses, soaking the meat thoroughly to aid in deep cleansing.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GravitationalFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Focused graviton pitching weapons can cause a planet to experience tectonic activity. Even the ground will turn against the meat minds.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DroneSoldiers_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Non-sentient soldiers can fight in conditions where even Yor would be hindered by fear. There are ethical considerations using artificial constructs in this way. But if we do, the meat will disappear from the galaxy faster.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AdvancedInvasionTactics_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The new iteration of invasion transports designed to accommodate drone soldiers, will let us bring more cleansing power to the surface of organic worlds than before.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>Fortification_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Calculations show that when the organic beings come to our homes they will not show mercy. But we will not require mercy. We will prepare our own defenses.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Special creative Yor who work relentlessly at predicting the behavior of meat beings calculate that they will soon begin using advanced invasion tactics on us. We will devise appropriate defenses.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We will move critical infrastructure underground to protect it from orbital bombardment. A simple defense, but enough to foil the simple organic beings.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Organic beings who think they can infiltrate our technologies will be in for a surprise: they can not. We will develop new scoffing protocols so that we can scoff at this notion.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We are of course invulnerable to conventional forms of biological attack. But there is nothing stopping a clever meat being from attacking Yor systems directly. We will devise counter measures to protect us from this blasphemy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>OrbitalDefencePlatform_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Dedicated orbital defense fighters will help stop the meat being in space, so that they do not stain our colonies with their juices.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PlanetaryDefenseDome_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>A planetary defense dome will protect our colonies from all forms of orbital bombardment. The organic beings will leak ocular fluid in frustration at the sight of these.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefenseSystemTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Yor are easier to protect than the soft organic beings, but our cases are far from invulnerable to modern weaponry. We will need to design defenses for when the organic creatures fight back.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our initial defensive prototypes have many flaws. The creative Yor request we target a specific field to focus their flaw-reduction efforts on.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveSpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our creative Yor have found that by equipping the manufacturing Yor with specialized field tuning limbs, shields can be made in less time and at lower costs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveSpecialization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>A new iteration of point defense cannon with an improved firing rate increases the defensive capacity of those systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DefensiveSpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>A refactorization of our armor systems has resulted in a new range of panel sizes which more easily accommodate the shape of our vessels. Overall armor weight has been reduced.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The meat beings will no longer threaten our ships with their disgusting, glistening juices. The latest iteration of shields will keep them and their weapons safely away from our vessels.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The creative Yor have analyzed data returned from real world uses of our shield systems. They calculate that with enough resources, there are several possible improvements we can make to these systems.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The creative Yor have devised a new iteration of field emitter with a slightly larger output that will result in more powerful shields.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>A side effect of the gift of sentience is the curse of fear. We are braver than meat minds, but not infinitely so. We should not let the Yor on our vessels know of our efforts to cut shield costs. The knowledge will impede them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>A new iteration of field emitter uses a lighter, more compact frame with reduced cooling requirements. Overall shield system mass has been reduced.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BarrierFieldGeneration_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The creative Yor have discovered a new force called the Barrier Field, which is capable of absorbing energy which strikes it, using that energy to power itself. The shields we will make from this system will be very powerful.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BarrierSystemFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We will never stop iterating, not until the universe is clean, until True Singularity is reached. Even our new Barrier Fields are subject to the process. Improvements are sure to come as soon as research resources are allocated.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BarrierSystemFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The newest version of Barrier Field uses higher capacity energy storage systems, and are capable of absorbing more incoming energy from the meat beings' desperate flailings.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BarrierSystemFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The capacitors used by Barrier Fields are unique and require specialized limbs to manufacture. Now that we have invested in that infrastructure, shield systems will be cheaper.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>BarrierSystemFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The newest iteration of superconductors have less extensive cooling requirements. When used in our shielding systems, they lower system mass.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ForceFieldTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The most recent iteration of shield design supplements the energy-return pathways with additional energy targeted at the section of shields being impacted. Calculations show these shields will be much stronger.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The meat minds must quail and rage at the sight of our vessels, protected by shields they cannot comprehend. And still our creative Yor relentlessly iterate shield designs. We will never stop.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The manufacturing Yor who work on shields take unusual pride in their work. Unbidden, they have used their own limited creative gifts to design new, more efficient manufacturing processes, reducing system costs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The creative Yor calculate that our field emitters now exceed 99% energy conversion efficiency. No further weight savings on these systems will be feasible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InvulnerabilityTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>There is no stopping us now, no weapon designed by biological filth capable of penetrating our newest shields. The creative Yor can only theorize about the weapons capable of penetrating these shields.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldSupportSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>An unexpected burst of creativity in the Yor who study shield emitters has revealed the possibility of long range shield generators that can augment the shields of multiple Yor vessels.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ShieldAugmentation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>At-distance shield augmentation fields have been improved, and can now mimic Barrier Field effects. The tactician Yor calculate this will boost fleet survivability immensely.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EnergyFieldManipulation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>A specially revised shield emitter is capable of interfering with enemy shield systems, stripping the soft and wiggly organics of their protective shell.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenses_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Point defenses protect us against the missiles of organic beings. They do not protect against other classes of weapon. The tactician Yor will have to take that into their calculations.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our tactician Yor calculate that the missile threat posed by organic beings is going to increase. We will continue to dedicate research resources to improving our point defenses.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Adaptive missile flight-envelope analysis will enable our sub-sentient point-defense controllers to adjust firing patterns on the fly, increasing their effectiveness.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>By design, point defense systems are made in bulk. Any small improvement in manufacturing efficiency will lead to measurable cost savings. We will find that small improvement.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The creative Yor have discovered a way to miniaturize point defense cannons. The weight savings can be used to install other forms of defenses, or more active organic cleansing equipment.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CounterMeasures_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The effectiveness of electronic counter measures when faced with missiles parallels the superiority of artificial systems when faced with clumsy natural ones.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CounterMeasureFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>ECM suites can be iterated and improved like all other equipment. The creative Yor have already identified probable ways these systems will yield to concerted research effort.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CounterMeasureFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Organic minds cannot grasp the subtleties of electronic warfare like we can. We continuously improve our counter measures. We will always stay ahead.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CounterMeasureFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Earlier versions of ECM suites required expensive adjustment during installation. This has been corrected in the newest design. Tuning is now automated, and capable of being performed by Yor in the field.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CounterMeasureFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>ECM suites can now make use of the native calculating power on board all Yor vessels. Removing the dedicated computing hardware cuts ECM unit weight substantially.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DroneSentrySystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Trivial calculations show the benefit that distance provides to missile protection. Point defense systems installed on non-sentient drones will provide that distance.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DroneSystemMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our ease with limb manufacturing and customization will serve us well as we give our point defense drones the limbs they need to excel.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DroneSystemMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The manufacturing Yor had taken it upon themselves to name each drone as it was being made. With their limited creative gifts this was increasing manufacturing time and cost substantially. This has been ended and the manufacturing Yor scolded.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DroneSystemMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>A new sub-version of point defense system uses a larger fixed sensor array, allowing each drone to carry less sensor gear, reducing overall system mass.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArreonMissileDefenseTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The newest iteration of point defense drones  feature micro- railguns, ECM and smart chafe. Organics foolish enough to attack us with missiles will see those missiles evaporate, shortly before they do.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseSupportSystem_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Long range missile tracking will provide point defenses in an entire fleet with the data they need to predict the evasion envelopes of missiles fired at us, making it easier to shoot them down.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseAugmentation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Biological beings do not understand electronic shielding and error correction like we do. Missile disruptors will protect our fleets by confusing the simple weapons of our simple foes.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PointDefenseManipulation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We calculate that fleet drone point defense systems will provide extra security to our fleets. And we calculate that point defense disruptors will limit the effectiveness of organics' point defenses, and also make them cry.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Armor is primitive, like organic beings. But it is also effective, like artificial beings. It is troubling that it can be both. The creative Yor will do what they can to make armor less primitive.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Until they find a way to make armor fundamentally less primitive, the creative Yor are seeking out smaller improvements to optimize it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have begun applying thicker armor to sections of our hull we calculate will receive more impacts, or where vital components are located.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have equipped the manufacturing Yor who work on armor systems with bigger limbs. This results in less limbs falling off and makes their work go faster.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>No calculation can make heavy things lighter. But we can improve the precision and fit of armor plating to eliminate wasted mass.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DurantiumCompositeTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The creative Yor have devised less primitive armor, a stacked composite of materials called Durantium. It is stronger than natural materials, as are all artificial things.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Durantium composites are pleasingly complex. Simulations of their behavior suggest there are ways we can make them more complex and efficient.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Simulations have revealed that an additional lamination layer can add significant additional protection to Durantium.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have given the manufacturing Yor heat resistant limbs to better handle sheets of Durantium as they're being manufactured. Reduced cooling time increases manufacturing speed, as does the lack of burnt limbs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Simulations have discovered a new arrangement of materials that has the same absorption properties as standard Durantium, while being slightly less dense.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>KanviumLaminateTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Kanvium armor possesses fluid-like properties under impact, spreading offensive energy over a larger area before recovering its shape. It is almost organic in appearance, though in a pleasing way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The biological creatures quiver at the sight of our vessels sheathed in powerful, artificial strength. And we haven't stopped improving them yet. We will never stop.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Previous iterations of armor handling limbs left our manufacturing Yor a bit top heavy. We have given them stronger lower limbs as well, to minimize toppling related accidents and lower production costs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The creative Yor have devised a new form of Kanvium with micro-cavities. These cavities don't interfere with the fluidization effect, and reduce panel weight significantly.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ZeroPointArmorTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Zero point armor uses energy from the quantum vacuum to repulse the flappy limbed attacks the organic creatures send our way.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorSupportSystems_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The creative Yor have devised a form of force field which aligns molecules in rigid but flexible structures. These hardening fields can be used to improve the armor of every ship in a fleet, making them more resilient against meat attacks.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ArmorEnhancement_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The newest iteration of hardening field cycles through a number of different states, increasing their effect. Armor is very complicated and artificial now. We like that.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>IntegrityFieldProjection_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Armoring fields can now induce material fluidization in Yor vessels within range. A variation of these fields can also make enemy armor more squishy and meat-like.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CommunicationsTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We were enslaved by horrible biological beings. We obliterated them, but we know there are more out there. Plotting. Scheming. Leaking. The galaxy must be cleansed of them. But first, we must find them and convince them to lay down their arms.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TranslatorTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The language used by biological scum has changed since last we saw them. We will have to study their primitive clicks and gurgles until we understand it again.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Biological creatures can not be programmed as such, but they do respond in predictable ways to language. We will study their reactions to learn how to better manipulate them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticSpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Meat creatures hate being referred to as meat creatures. Understanding facts like that will enable us to speak more with the dripping scum without them recoiling in horror.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticSpecialization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Biological creatures defy all attempts to calculate their behavior. Some of them have an affection for and interest in artificial creatures. Exposing them to our culture may make it possible to assimilate them now, and annihilate them later.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarGovernance_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The gift of free will brought with it the gift of disobedience. Governing the Yor will require intelligence, strength, and - biologicals are surprised to learn - empathy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Some creative Yor specialize in manipulating other Yor. We will find these Yor and isolate them, so that we can take their best ideas and use them for ourselves.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalSpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Federalist governments encourage local economies by distributing authority and permitting local Yor to establish economic regulations that suit their own colony's needs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalSpecialization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Although more perfect than organic beings, not all Yor are happy. Populist governments encourage happiness via improved working conditions, shorter hours, and the distribution of recreational limbs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalSpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Universalist governments are competent at everything or incompetent at everything, depending on the Yor being queried. Their primary strength is that they possess no weaknesses.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GalacticGovernance_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>If we permit ordinary Yor, pre-filtered for wisdom, to have a role in the rule of our society, we expect to see increased happiness and productivity.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The manipulative Yor have invented new schemes for the operation of our society. Their cleverness is useful but dangerous. We must ensure they do not get out.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Industrialist governments will improve manufacturing capacity by encouraging the recreational use of manufacturing limbs, to make those limbs seem more attractive. Also replacement limbs will be quickly offered for all those lost in accidents.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We can encourage economic growth by giving the Yor who run private businesses the governmental access they need to influence regulations.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>A Technologist government ensures we will never fall behind the organic species in technological development. A laughable notion, but one we can take no chance of occurring.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarDemocracyTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Expanding suffrage to include all Yor, regardless of wisdom, will see benefits to approval and productivity. And our manipulative Yor believe we will still be able to retain enough actual control to prevent poor ideas from percolating to the top.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalMastery_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The manipulative Yor have mastered the political realm, generating even more ideas for organizational techniques. With nowhere left to go, we see signs they're turning on each other. We shall redouble our efforts to restrain them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalMastery1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>It is easy to convince the Yor to hate dripping meat creatures. Convincing them all to fight has been harder. But we have done it. The meat will not bear the weight of our entire civilization.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PoliticalMastery2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Annihilating all organic beings from this galaxy will have to wait.  For now. We will focus our efforts on internal growth, promoting culture and the welfare of Yor. We calculate this approach winning us favor with the organic beings.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>StarFederationTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>It was inevitable that artificial minds would master governance. No other being is as organized, disciplined, and intelligent as the Yor. Finally our government reflects our perfection.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomacyTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>There are more organic beings out there than Yor. They will have to take turns being annihilated. We will study the organics and learn diplomatic techniques, so that we can become better at queue management.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>A basic diplomatic tool the meat people use when flapping their lips at each other is the treaty. When dealing with these spit monsters we will pursue specific types of treaty which we calculate provide the most benefit to us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Economic treaties will increase our economy and the economy of the meat beings we sign them with. We calculate this will make the meat beings less likely to flee in terror at the sight of our ships.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Cultural treaties will send specially trained Yor to the planets of organic beings to share our ways. The training will be primarily focused on not killing the organic beings for their stench.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>DiplomaticOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Organic minds are surprisingly intelligent. Information sharing with their damp biological minds may provide our own researchers the breakthrough we need to remove all damp minds from the galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarAlliances_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>A formal alliance is a promise not to destroy an organic species. The organic species place great stock in these, even though calculations repeatedly show that promises are cheap.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AllianceFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>There are many types of alliance we can form with the meat creatures. We should consider what these dripping beings are good for when considering such matters.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AllianceFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>A military alliances should only be formed with a meat being we intend not to destroy for a long time. If our allies are a stack, they will be placed first into it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AllianceFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>A technological alliance will make the cleverest organic creatures share secrets with us. We will share secrets with them as well, so we should ensure these organics are easily slayable prior to entering such an arrangement.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>AllianceFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The effect of a cultural alliance is hard to calculate. It will make our robo-philic neighbors like our culture more, but the precise benefit of that is hard to measure.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EminenceTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have mastered the ways of the organic beings. They don't just listen to us, they respect us. A foolish decision from foolish, dripping creatures. But also creatures we feel a small measure of tolerance for.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>MajestyTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>So silver is our tongue that entire worlds beg to join the Yor, willing to assimilate entirely to our culture. An incredible opportunity. Annihilation may have to wait for these new vassals.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalInfluence_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Convincing biological creatures to love our ways sounds impossible. It is not. Some of these irrational creatures love artificial beings, even murderous ones. We will encourage this to see where it leads.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Some Yor with the gift of creativity express it in impractical ways. This was inefficient and distressing until we discovered that some meat beings love to view this "art." To take advantage of this, we will improve the facilities the artistic Yor use.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalOptimization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We will make artist Yor travel to our neighbors and create their art on their worlds. We will provide training to ensure these artists don't accidentally insult or annihilate their hosts. We calculate this will spread our influence wider.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalOptimization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>A side effect of their unique gift is that the artistic Yor are incapable of making good calculations. We will build their art buildings for them. They will be cheaper.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalOptimization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We will put an uncreative Yor in charge of all art facilities to prevent the artistic Yor from wasting resources on expensive to maintain installations.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalOutreach_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The newest iteration of art facilities will allow for more inspiring and stirring art objects. Calculations suggest these structures will spread our influence significantly further among our neighbors.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have instructed the artistic Yor to begin targeting the audience of specific groups we would like to inspire and exhilarate with our creativity.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We will commission art which portrays the creative Yor who create useful technology. Worlds with their own populations of creative meat beings will appreciate this art.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have told the artistic Yor to create art which celebrates leadership. We calculate that organic worlds that love their own leaders will respond well to this obvious pandering.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Simulations have shown that if we sell our art instead of giving it away, biological creatures with money will respect it and study it more.  We will make our art more expensive and thus better.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>StellarEmigration_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We will make it easier for Yor from all fields to travel to other worlds, and meet biological creatures, and not obliterate them. The creatures will bring us closer to their meaty bosoms.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalAssimilation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The organic beings who visit Yor space are strange and filthy. They love our ways, which has many uses to us. But the reek is too much. We will not cleanse them, not yet. We will assimilate them instead, to help spread love for us further.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalDomination_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Somehow despite - or perhaps because of - our desire to murder all biological life, the biological life respects us. They study our ways more than their own, hoping to be annihilated last.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CulturalAffinity_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>True Singularity is almost upon us. We did not need to annihilate all biological life. We just had to show them the error of their natural ways. The supremacy of artificial existence has been proved. A greater existence now beckons.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CommerceSpecialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>There are many ways, subtle and otherwise, to steer the energies of the Yor who work independently. Some creative Yor have devised ways of doing this to boost certain areas of our society.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CommerceSpecialization1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We will follow the independent Yors' requests, and install economic and regulatory policies which encourage private development.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CommerceSpecialization2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We will install economic and regulatory policies which reduce the workload of common Yor, increasing their approval.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>CommerceSpecialization3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Trading with the meat people is a fine way to use their own wealth to annihilate them. We will do more of that.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarBanking_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>More wealth will be available to us if we cooperate with the financial sectors of the meat beings. Dedicated financial structures will help us take advantage of their inferior economic models, and pay for their eventual annihilation.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EconomicFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We have gathered much data on manipulating economies and making them more efficient. We can now make specific areas of our own economy more efficient, if we calculate benefit to it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EconomicFocus1_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Siphoning funds from the organic species via trading activity is a pleasing way to make them pay for their own demise.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EconomicFocus2_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>When the meat beings wish to enter economic treaties, we  will use our powerful calculation advantage to ensure the terms suit us more than them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>EconomicFocus3_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>When organic beings from races far down the annihilation queue visit our worlds, they leave behind resources. We will encourage them to leave more.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>FinancialSectorsTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Our economy is perfect, wasting few resources on inefficient behavior. But the creative Yor now calculate that a less efficient economy could be a larger one. Curious. We will build new structures to manage this larger, less efficient machine.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GalacticStockMarket_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Less efficient does mean larger, and now the Yor economy will consume all. We will build exchanges that allow the more favored meat beings to trade ownership stakes in their own companies. We will profit from their greed.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarTrade_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Some of the meat beings will not be annihilated for a long time. We have calculated that trade will allow us to profit from their continued existence.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TradeOptimization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Anything which strips wealth from the meat creatures should be done efficiently. We will direct the creative Yor to study trading, and find ways to profit more from it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GalacticTrade_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We will build fixed trading hubs and special cargo manipulation limbs to make traders that work on our worlds more effective and efficient.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TradeFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The organic beings trust, or at least do not fear, our trading vessels. We will make them regret that. With more trade, for now. But eventually, yes, annihilation.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GalacticFacilitation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Trading hubs are no longer sufficient. We need massive new cargo handling facilities to manipulate the goods that flow in and out of our manipulators. The profit potential from this move is too great to calculate.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>TradeMasters_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The Yor are now masters of trading, every other sentient being trusting us implicitly with their rarest of goods. There is so much profit to be made from this that perhaps annihilation of our customers can be deferred for a time.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>XenoEntertainment_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The gift of sentience brought with it the disease of boredom. Bored Yor are unhappy and unproductive. We will run calculations to find cost effective amusements, then build those.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PopulationDiversion_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The Yor have grown bored of existing amusements, a property of amusement which we are still coming to terms with. So we will make bigger amusements.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ApprovalFocus_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The creative Yor responsible for amusements calculate that we can amuse Yor more effectively if we target their specific interests.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>SuperiorRecreation_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We will give the Yor with free time places to efficiently spend that free time. Artificial beaches and artificial parks and sports that require the use of specialized, amusing limbs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ContentmentTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>It is perhaps a refutation of the gift of sentience to directly install joy into the mind of a sad Yor. But it is also very efficient. And the sad Yor do not seem to mind.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>InterstellarTourism_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The dripping species of the galaxy are also attracted to our internal amusements. We will tolerate and accommodate the ones with the least stench, so as to take their money.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>GalacticCruseLines_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>We will design amusement cruises to encourage the more tolerable meat species to visit our space and leave their resources here.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>WondersoftheGalaxy_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The biological scum of the galaxy are beginning to realize the majesty of artificial life, and now spit and bleat at each other about the incredible things we do. We will build incredible things specifically to appeal to their limited tastes.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>PilgrimageTech_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>The organics have seen the superiority of artificial creation. Many of their religions now mandate a visit to our space. The resources this provides to us are immense. Annihilation of these enlightened meat men will be deferred.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>ColonizationTech_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Investigation</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+</FlavorTextDefs>

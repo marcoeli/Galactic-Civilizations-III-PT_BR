@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Tutorial_IconianTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>Tutorial_IconianTechTree_Name</Label>
+    <String>Iconian Tech Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianMolecularFabricationTech_Name</Label>
+    <String>Molecular Fabrication</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianMolecularFabricationTech_ShortDec</Label>
+    <String>Allows for the creation of the Molecular Fabricator.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianMolecularSpecialization1_Name</Label>
+    <String>Molecular Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianMolecularSpecialization1_ShortDec</Label>
+    <String>Increases the Manufacturing of your colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianMolecularSpecialization2_Name</Label>
+    <String>Molecular Farming</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianMolecularSpecialization2_ShortDec</Label>
+    <String>Increases the Food supply of your colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianMolecularSpecialization3_Name</Label>
+    <String>Molecular Computers</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianMolecularSpecialization3_ShortDec</Label>
+    <String>Increases the Research output of our colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianIndustrialReplicationTech_Name</Label>
+    <String>Industrial Replication</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianIndustrialReplicationTech_ShortDec</Label>
+    <String>Allows for the creation of the Industrial Replicator.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianPrecursorLegacy_Name</Label>
+    <String>Precursor Legacy</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianPrecursorLegacy_ShortDec</Label>
+    <String>Allows for the creation of the Precursor Archive achievement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianRoboticFarming_Name</Label>
+    <String>Robotic Farming</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianRoboticFarming_ShortDec</Label>
+    <String>Increases the level of all Farms and Population Improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianUltimateAdaptability_Name</Label>
+    <String>Ultimate Adaptability</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianUltimateAdaptability_ShortDec</Label>
+    <String>Removes penalties from all types of extreme worlds, and gives them a Production Bonus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianPrecursorTraditions_Name</Label>
+    <String>Precursor Traditions</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianPrecursorTraditions_ShortDec</Label>
+    <String>Increase shipyard output and quality.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianPrecursorTraditionSpecialization1_Name</Label>
+    <String>Healing Hulls</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianPrecursorTraditionSpecialization1_ShortDec</Label>
+    <String>Our ships will repair themselves in battle.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianPrecursorTraditionSpecialization2_Name</Label>
+    <String>Intelligent Ships</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianPrecursorTraditionSpecialization2_ShortDec</Label>
+    <String>Reduces the logistics costs of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianPrecursorTraditionSpecialization3_Name</Label>
+    <String>Organic Materials</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianPrecursorTraditionSpecialization3_ShortDec</Label>
+    <String>Increases the hit points of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianPrecursorMysteries_Name</Label>
+    <String>Precursor Mysteries</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianPrecursorMysteries_ShortDec</Label>
+    <String>Allows us to build the Precursor Protection Field support module.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianLivingShipsTech_Name</Label>
+    <String>Living Ships</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianLivingShipsTech_ShortDec</Label>
+    <String>Our ships no longer need to be maintained and will self heal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianPhotonTorpedos_Name</Label>
+    <String>Photon Torpedos</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianKineticOptimization1_Name</Label>
+    <String>Kinetic Range Extention</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianOrbitalDefencePlatform_Name</Label>
+    <String>Orbital Defense Platform</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianShieldOptimization1_Name</Label>
+    <String>Shield Enhancment</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianArreonMissileDefenseTech_Name</Label>
+    <String>Arreon Missile Defense</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianCommunicationsTech_Name</Label>
+    <String>Communications</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianInterstellarGovernance_ShortDec</Label>
+    <String>Allows use of Steller Empire form of government.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianTradeOptimization1_Name</Label>
+    <String>Trade route optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianPrecursorSole_Name</Label>
+    <String>Precursor Sole</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_IconianPrecursorSole_ShortDec</Label>
+    <String>Allows construction of the Dream Conclave Achievement</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+ 
+</StringTableList>

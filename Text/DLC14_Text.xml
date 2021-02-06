@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
+
+  <StringTable>
+    <Label>Dark_Hub_Base_Name</Label>
+    <String>Dark Hub Starbase</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>DLC14TerraformingPlant_Name</Label>
+    <String>Prototype Ultra-Terraformer</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>DLC14TerraformingPlant_ShortDec</Label>
+    <String>Terraform one tile of any quality.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>DLC14TerraformingPlant_Dec</Label>
+    <String>Terraform one tile of any quality.</String>
+  </StringTable>
+
+
+</StringTableList>

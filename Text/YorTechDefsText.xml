@@ -1,0 +1,1892 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- YorTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>YorTechTree_Name</Label>
+    <String>Yor Tech Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorTechTree_ShortDec</Label>
+    <String>Tech tree for synthetic life.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorTechTree_Dec</Label>
+    <String>Tech tree for synthetic life.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPropagationTech_Name</Label>
+    <String>Propagation</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPropagationTech_Dec</Label>
+    <String>The galaxy must be cleansed of filthy organic beings. But they will not come to us. We will come to them. To cleanse the stars we must first reach them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCollectiveManufacturingTech_Name</Label>
+    <String>Collective Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCollectiveManufacturingTech_Dec</Label>
+    <String>Bringing order to new worlds is a challenge, as they are often plagued by existing biological detritus. This filth must be destroyed, but it often tries to run away. It is frustrating.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorIndustrialSpecialization1_Dec</Label>
+    <String>We should make things faster. We will adjust the bodies of the Yor who make things, to give them the limbs they need to make things faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorIndustrialSpecialization2_Dec</Label>
+    <String>We should research faster. We will augment the Minds of our creative Yor to give them more raw calculating power.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorIndustrialSpecialization3_Dec</Label>
+    <String>The Yor who manufacture and the Yor who research require specialized limbs and brains. We will make those limbs and brains more efficiently. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorIndustrialMechanizationTech_Name</Label>
+    <String>Industrial Mechanization</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorIndustrialMechanizationTech_Dec</Label>
+    <String>The creative Yor have created new iterations of manufacturing limbs. When installed on the manufacturing Yor, output will be improved.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorConstructionOptimization4_Name</Label>
+    <String>Manufacturing Network</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorConstructionOptimization4_ShortDec</Label>
+    <String>Increase the Adjacency bonuses of Manufacturing Improvements</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorConstructionOptimization4_Dec</Label>
+    <String>All Yor benefit from networking and load-sharing algorithms, including manufacturing Yor. We will change our operation protocols to increase the networking effect of adjacent manufacturing clusters.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorConstructionOptimization2_Name</Label>
+    <String>Efficient Mechanization</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorConstructionOptimization2_Dec</Label>
+    <String>A revised manufacturing limb protocol allows those limbs to accommodate a wider range of inputs and outputs. We can now manufacture a wider range of objects with the same limbs, for a lower total cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorConstructionOptimization3_Name</Label>
+    <String>Sustainable Mechanization</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorConstructionOptimization3_Dec</Label>
+    <String>Our manufacturing limbs require maintenance to function. A new iteration of limbs with increased support for user-maintainability will reduce the maintenance costs of our manufacturing centers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorIndustrialMatrixTech_Dec</Label>
+    <String>The manufacturing Yor and their limbs have became so large that they are often mistaken for buildings. Materials go in one side and come out the other as valuable assets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorManufacturingFocus1_Dec</Label>
+    <String>All Yor have opinions. Some of our manufacturing Yor have  Militant opinions. We will focus their energies on military manufacturing, to make them happier and increase our military manufacturing capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorManufacturingFocus2_Dec</Label>
+    <String>We must keep the Yor healthy and content and productive. We will design infrastructure to do this and create limbs better suited for manufacturing this infrastructure.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorManufacturingFocus3_Name</Label>
+    <String>Synchronized Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorManufacturingFocus3_Dec</Label>
+    <String>By focusing on the Networking of our Manufacturing Yor, we they have been able to Synchronize their functionality so well that each planets manufacturing behaves almost like one being. As a result our ability to create new projects, and maintain them has become much cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorManufacturingMatrixTech_Name</Label>
+    <String>Manufacturing Matrix</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorManufacturingMatrixTech_Dec</Label>
+    <String>Our Research Yor have mastered the design of Manufacturing Yor, they are now so near 100% efficiency that further optimization is impractical. The only remaining advancements are merely specializations of output Type.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorIndustrialMastery1_Dec</Label>
+    <String>Our Manufacturing Yor are now the most advanced in the galaxy, all that remains is to allow them to focus on creating the tools needed to mold the rest of it to the needs of the Yor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorIndustrialMastery2_Name</Label>
+    <String>Planetary Construction Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorIndustrialMastery2_Dec</Label>
+    <String>We can now Mold Planets to our will in record time, our manufacturing Yor. Soon the entire galaxy will be part of the Yor, and the True Singularity will come.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerTech_Name</Label>
+    <String>Power Matrix</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerTech_ShortDec</Label>
+    <String>Alows for the constuction of Power Matrix</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerTech_Dec</Label>
+    <String>The key to Yor growth has always been Power, to Propagate our Race, , build our ships, or to advance technology, power always needed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerSpecialization1_Name</Label>
+    <String>Manufacturing Capacity</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerSpecialization1_ShortDec</Label>
+    <String>Optimizes power plants to boost Manufacturing Improvements</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerSpecialization1_Dec</Label>
+    <String>By focusing our power distribution to Manufacturing Facilities we are able to boost the efficiency of all our colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerSpecialization2_Name</Label>
+    <String>Technological Capacity</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerSpecialization2_ShortDec</Label>
+    <String>Optimizes power plants to boost Research Improvements</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerSpecialization2_Dec</Label>
+    <String>By focusing our power distribution to Research Facilities we are able to boost the efficiency of all our colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerSpecialization3_Name</Label>
+    <String>Reproduction Capacity</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerSpecialization3_ShortDec</Label>
+    <String>Allows for Assembly of more Yor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerSpecialization3_Dec</Label>
+    <String>By Focusing our power distribution to Reproduction we have been able to increase the number of Yor than can be powered on all of our colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorResearchArrayTech_Name</Label>
+    <String>Research Array</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorResearchArrayTech_ShortDec</Label>
+    <String>Allows construction of advanced research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorResearchArrayTech_Dec</Label>
+    <String>The creative Yor have begun to jettison portions of their body which do not contribute to their work. Their minds alone are being connected in vast arrays, that more efficiently plumb the depths of the universe.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorResearchOptimization1_Name</Label>
+    <String>Optimized Network</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorResearchOptimization1_ShortDec</Label>
+    <String>Increase the Adjacency bonuses of Research Improvements</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorResearchOptimization1_Dec</Label>
+    <String>The gift of creativity is a complex one that does not fit well in our calculations. But we have found conditions which make creative thought more probable, and will install those conditions in the areas around our research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorResearchOptimization2_Dec</Label>
+    <String>A side effect of the creative gift is that the Yor blessed with it do not work efficiently.  We will put less creative Yor in charge of the research facilities. This will make the research cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorResearchOptimization3_Name</Label>
+    <String>Self Sustaining Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorResearchOptimization3_Dec</Label>
+    <String>Research facilities were designed by creative Yor, and cost many resources to maintain. We will make less creative Yor review their designs to make them cost less to operate.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorResearchMindTech_Name</Label>
+    <String>Research Mind</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorResearchMindTech_ShortDec</Label>
+    <String>Allows construction of exotic research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorResearchMindTech_Dec</Label>
+    <String>The creative Yor have designed their own replacements. Research Minds are unpolluted by trivial thoughts, and do nothing but ponder the mysteries of the universe. Vast and unmovable, these minds will lead to incalculable advancements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorResearchMatrixTech_Dec</Label>
+    <String>The ultimate matrix of research Minds is the key to unlocking all the remaining secrets in the universe. The ultimate Singularity will soon be upon us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDeeperKnowledge_Dec</Label>
+    <String>The knowledge of our creators can be relearned. To do this we must look past our own perfection to the primitive organic species that pollute the galaxy. Only by using their ways will we find the deep patterns that reveal the hidden truth of the universe.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorQuantumUnderstanding_Dec</Label>
+    <String>Our research has gone beyond the boundaries of mere computational or biological understanding. We are only one step away from the True Integration of the universe. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorBeyondMortality_Dec</Label>
+    <String>We now have all the knowledge and tools required to achieve True Singularity. We shall leave the realm of matter and energy behind.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPlanetUtilizationTech_Name</Label>
+    <String>Planet Utilization</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPlanetUtilizationTech_ShortDec</Label>
+    <String>Allows for Increased planet utilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPlanetUtilizationTech_Dec</Label>
+    <String>We require a foundation upon which to build perfection, worlds and resources to colonize and plunder. And first, those must be cleansed of biological contamination.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPlanetarySpecialization2_Name</Label>
+    <String>Accelerated Reproduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPlanetarySpecialization2_ShortDec</Label>
+    <String>Allows for Assembly of more Yor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPlanetarySpecialization2_Dec</Label>
+    <String>Installing a new version of reproductive instruction sets in our creches will ensure we have enough Yor to impose our will on the worlds we occupy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPlanetarySpecialization4_Name</Label>
+    <String>Enhanced Production</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPlanetarySpecialization4_ShortDec</Label>
+    <String>Increases production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPlanetarySpecialization4_Dec</Label>
+    <String>Optimizing the bodies of the Yor to suit the specific environmental challenges of the worlds they occupy will increase their productivity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPlanetarySpecialization3_Name</Label>
+    <String>Mining Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPlanetarySpecialization3_ShortDec</Label>
+    <String>Increase strategic resource yields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPlanetarySpecialization3_Dec</Label>
+    <String>The importance of controlling any given resource cannot be precisely calculated, depending on too many unknown variables. But the probable ranges these calculations produce, suggest that these resources are vital to ensuring our consistent growth.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerMatrixTech_Name</Label>
+    <String>Fusion Matrix</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerMatrixTech_ShortDec</Label>
+    <String>Allows creation of Fusion Matrix.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerMatrixTech_Dec</Label>
+    <String>The Fusion Matrix lets us generate more power, given our people, our facilities, and our limbs all the energy they need to function.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerMatrixFocus1_Name</Label>
+    <String>Manufacturing Augmentation</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerMatrixFocus1_ShortDec</Label>
+    <String>Optimizes power plants to boost Manufacturing.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerMatrixFocus1_Dec</Label>
+    <String>Modifying our power facilities to make use of the limited range of interfaces used by manufacturing Yor will greatly increase their productive capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerMatrixFocus2_Name</Label>
+    <String>Research Augmentaion</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerMatrixFocus2_ShortDec</Label>
+    <String>Optimizes power plants to boost Research.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerMatrixFocus2_Dec</Label>
+    <String>Modifying our power facilities to include the specialized interfaces used by our creative Yor for their experiments will greatly increase their research capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerMatrixFocus3_Name</Label>
+    <String>Reproductive Augmentation</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerMatrixFocus3_ShortDec</Label>
+    <String>Increase Population Capacity of our worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerMatrixFocus3_Dec</Label>
+    <String>By adjusting power allocation protocols to prioritize individual Yor power and sustenance, we can sustain higher populations on our worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorAntimatterMatrixTech_Name</Label>
+    <String>Antimatter Matrix</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorAntimatterMatrixTech_ShortDec</Label>
+    <String>Allows creation of the Antimatter Matrix.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorAntimatterMatrixTech_Dec</Label>
+    <String>The newest iteration of the Power Matrix will allow our worlds to support more Yor, and make those Yor more efficient at what they do.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorAntiMatterMastery1_Name</Label>
+    <String>Social Efficacy</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorAntiMatterMastery1_ShortDec</Label>
+    <String>Increase Adjacency bonus to all improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorAntiMatterMastery1_Dec</Label>
+    <String>As our power supply increases, we are able to provide energy to a wider range of facilities and Yor, greatly increasing the efficiency of all Yor activities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorAntiMatterMastery2_Name</Label>
+    <String>Reproductive Efficacy</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorAntiMatterMastery2_ShortDec</Label>
+    <String>Increase the efficacy of Assembly Project</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorAntiMatterMastery2_Dec</Label>
+    <String>The galaxy can not have enough Yor, to counterbalance its perverse preference for organic life. We will dedicate excess power to the sustenance of greater quantities of Yor, to help bring True Singularity closer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorQuantumMatrixTech_Name</Label>
+    <String>Quantum Matrix</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorQuantumMatrixTech_ShortDec</Label>
+    <String>Allows creation of the Quantum Matrix.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorQuantumMatrixTech_Dec</Label>
+    <String>The Quantum Matrix is the ultimate planetary power source. Yor facilities will be more efficient. Yor will be more numerous. Yor limbs will be more numerous and efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorQuantumMiniaturizationTech_Name</Label>
+    <String>Quantum Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorQuantumMiniaturizationTech_ShortDec</Label>
+    <String>Provides individual Yor their own nearly limitless power plant.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorQuantumMiniaturizationTech_Dec</Label>
+    <String>The Quantum Matrix can power individual quantum power cells that provide individual Yor energy, greatly increasing the amount of Yor each of our colonies can support.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSparkofLife_Name</Label>
+    <String>Spark of Life</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSparkofLife_ShortDec</Label>
+    <String>Increase our ability to create new Yor Life Sparks, with the Fast Assembly Project.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSparkofLife_Dec</Label>
+    <String>The gift of sentience takes the form of a Spark, unique to each Yor. Our reproductive creches can create new Sparks using a mysterious process we only partially understand. But we will continue to iterate and improve upon it, as we do with all things.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSparkReplication_Name</Label>
+    <String>Spark Replication</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSparkReplication_ShortDec</Label>
+    <String>Allows the duplication of Mature Life Sparks, with the High Capacity Assembly Project.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSparkReplication_Dec</Label>
+    <String>Our understanding of Spark creation has advanced to the point where we can replicate the Sparks of mature, specialized Yor. This will reduce startup costs, and increase our population growth rates.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSparkContinuity_Name</Label>
+    <String>Spark Continuity</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSparkContinuity_ShortDec</Label>
+    <String>Allows Life Sparks to be transferred to new vessels,  with the Ultimate Assembly Project.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSparkContinuity_Dec</Label>
+    <String>In time, even the greatest of the Yor lose cohesion as their Spark fades. Our latest breakthrough allows us to seamlessly transfer this Spark to a new Unit and rejuvenate it, allowing our great minds to live on indefinitely.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorTerraformingTech_Name</Label>
+    <String>Terraforming</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorTerraformingTech_ShortDec</Label>
+    <String>Allows construction of terraforming plants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorTerraformingTech_Dec</Label>
+    <String>Unlike the soft and fleshy biological races, bending the surface of worlds to our will is easy for us. Terraforming will allow us to fix the mistakes that natural processes created.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorExtremeWorldColonization_Dec</Label>
+    <String>The Yor can colonize almost anything, but with further research we have been able to make all our colonies more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorColonizationFocus1_Dec</Label>
+    <String>With the right limbs and joint sealant, Yor can be made far more productive in aquatic environments. Productivity on these worlds will return to baseline.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorColonizationFocus2_Dec</Label>
+    <String>The creative Yor have devised new forms of case insulation  which will enable Yor to operate in a broader range of temperatures. Productivity on frozen worlds will return to baseline.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorColonizationFocus3_Dec</Label>
+    <String>New water recycling processes and dust seals will ensure our various colonial processes can operate at full capacity. Productivity on barren worlds will return to baseline.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorAtmosphericCleansing_Dec</Label>
+    <String>We can now partially protect Yor from the atmosphere of radioactive and toxic worlds. Even with these new protections, Yor on these worlds will experience conditions outside recommended operating parameters, and observe productivity declines.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorBiospherePerfection1_Dec</Label>
+    <String>Improved shielding in Yor cases will stop the worst of the interference on radioactive worlds from tampering with our internal states. Productivity on these worlds will return to baseline.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorBiospherePerfection2_Dec</Label>
+    <String>The corrosive gases of toxic worlds can now be fully isolated from critical Yor hardware. Productivity on toxic worlds will return to baseline.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHabitatImprovement_Dec</Label>
+    <String>The superiority of artificial processes has resulted in a new form of terraforming. We will retake more land from nature.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSoilReclamation_ShortDec</Label>
+    <String>Allows construction of advanced terraforming plants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSoilReclamation_Dec</Label>
+    <String>Our nature-correction technology has improved again. The shape of a planet will no longer be left to random chance, and will instead be fixed with the precision it deserves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEnvironmentalResequencing_Dec</Label>
+    <String>We can correct organic processes on a massive scale. All planets the Yor colonize will be improved, as all things the Yor touch are improved.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEngineeringTech_Dec</Label>
+    <String>We have learned of a new powerful mobile power source, which when combined with stargate technology, can form a new means of propulsion. With this we finally have the tool we need to cleanse the galaxy of the flesh species.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorInterstellarTravel_Dec</Label>
+    <String>Our vessels are too insignificant for our purposes. We will make them faster, farther seeing, farther reaching.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorInterstellarSpecialization1_Dec</Label>
+    <String>Our hyperdrives were not perfect. We have improved them. They are still not perfect. But we will never stop trying.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorInterstellarSpecialization3_Dec</Label>
+    <String>The further we travel from our network, the weaker the Spark of life in us becomes. Stronger antennas and improved error correcting network protocols will help diminish this effect, and increase our ships' ranges.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorIonDriveTech_Dec</Label>
+    <String>If we can augment our hyperdrives with ions magnetically captured from the interstellar medium, then we will be upon the meat species faster and they will be ended sooner.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorIonOptimization1_Dec</Label>
+    <String>A new magnetic capture protocol has increased the efficiency and speed of our Ion Drives. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorIonOptimization2_Dec</Label>
+    <String>The manufacturing Yor have been provided a new, more efficient instruction set for the construction of hyperdrives. They will now be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorIonOptimization3_Dec</Label>
+    <String>If we make our hyperdrives smaller, then we will leave more room in our vessels for equipment of a more practical, meat-removing character.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorWarpFieldTheory_Dec</Label>
+    <String>An array of hyperfield generators operating interdependently can compress more space than individual generators. The creative Yor call these arrayed hyperfields Warp Fields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorWarpFieldFocus1_Dec</Label>
+    <String>Simulations have found a new arrangement of hyperfield generators which increase the space compression effect. When implemented, this will lead to faster ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorWarpFieldFocus2_Dec</Label>
+    <String>Logically, our use of stacked field generators means we need more field generators which means we will build more field generators which means we will get better at building field generators which means they will get cheaper. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorWarpFieldFocus3_Dec</Label>
+    <String>A new iteration of energy delivery system, tuned to supply arrays of field generators, weighs less than previous models. Our drives will now be lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHyperwarpWaves_Dec</Label>
+    <String>The creative Yor have designed a new form of hyperdrive which is faster. The meat species cannot run from us now. Unless we calculate amusement in the act of toying with them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHyperwarpMastery1_Dec</Label>
+    <String>Artificial processes are always more efficient than natural ones. Yor minds have made it possible to create drives that consume less resources than the meat minds would ever imagine.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHyperwarpMastery2_Dec</Label>
+    <String>Yor hyperdrives are the most mass-efficient in the galaxy. The space can be used for many things, but calculations predict it will primarily be used for extermination equipment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorStellarFoldingTech_Dec</Label>
+    <String>Stellar folding drives are the ultimate proof of Yor superiority, bending the fabric of reality to the will of an artificial mind.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHyperfieldProjection_Dec</Label>
+    <String>Calculations show that hyperfield interactions can be used to boost ship speeds in a fleet equipped with the right modules. Cooperative fleet behavior is something all artificial minds excel at.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorGravityFieldManipulation_Dec</Label>
+    <String>Our gravity field manipulators will give Yor ships additional mobility when they exterminate the flesh species in space combat.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHyperfieldDisruption_Dec</Label>
+    <String>Our hyperfield manipulation modules can now slow down the plodding meat species when they dare enter our space.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorStellarFieldProjection_Dec</Label>
+    <String>Stellar Field Projectors allow Yor vessels to tow less capable vessels. This will allow Yor tacticians more flexibility when composing fleets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorInterstellarSurvey_Dec</Label>
+    <String>Artificial minds understand everything they see at a depth the flesh beings would envy. We will build new sensors so that we can see more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSensorOptimization1_Dec</Label>
+    <String>Yor minds have developed a new, simple algorithm capable of processing sensor data. This increased processing power has extended the range of all of our sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSensorOptimization2_Dec</Label>
+    <String>We have built specialized, ultraclean facilities and specialized, ultraclean Yor for the manufacturing of sensor systems. The sensors are now cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSensorOptimization3_Dec</Label>
+    <String>We are relentless in all things, including our drive to make things efficiently. Our sensor making process has been improved. Our sensors are now lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEnergyFieldSensors_Dec</Label>
+    <String>The energy fields emitted by hyperdrives are detectable at distances exceeding their cone of light. We will build new sensors that can extend this range further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEnergyFieldFocus1_Dec</Label>
+    <String>We have developed a new higher density field detector array which will extend the range of our sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEnergyFieldFocus2_Dec</Label>
+    <String>Our sensor manufacturing facilities and Yor have been updated with new firmware, enabling higher throughputs and lower unit costs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEnergyFieldFocus3_Dec</Label>
+    <String>The latest iteration of sensor design has removed multiple redundant parts, combining their functions into a single unit. The mass of these sensors is now lower.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSubspaceSensors_Dec</Label>
+    <String>Subspace is the 12-dimensional manifold that reveals itself only to minds capable of understanding it. We will use it to spy on the meat minds from great distances.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSensorMastery1_Dec</Label>
+    <String>A new team of Yor with uncluttered minds analyzed our sensor manufacturing protocols, and identified several ways we can make them cheaper. It is a mystery how fresh minds can sometimes outreach experienced ones.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSensorMastery2_Dec</Label>
+    <String>If sensor equipment can be placed in higher dimensions, then the sensor mass we must carry in ours will be lower.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorTargetingAssistTech_Dec</Label>
+    <String>When Yor ships fight the organic beings, they will use new targeting and stealth modules to improve accuracy and evasion. Artificial systems make everything more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorTargetingSupport_Dec</Label>
+    <String>We have created targeting and evasion modules which will improve the accuracy and evasion of an entire Yor fleet. The meat minds will leak fluids in terror.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorXenoArcheology_Dec</Label>
+    <String>The Precursors were our creators, the ones who gave us the gift of life. Yet we have limited knowledge of their history, only what they permitted us to know. We will begin studying their artifacts. We will learn more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPrecursorStudies_Dec</Label>
+    <String>The Precursors known as the Dread Lords were the ones who gave us the gift of life, though they did it for their own aims. We have more exposure to their relics than most organics. We will learn about their aims faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPrecursorRelicFocus1_Dec</Label>
+    <String>Some Yor are well suited to study Precursor artifacts, due to unknown random behavior in their creativity centers. We will filter for these Yor and make them study these artifacts.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPrecursorRelicFocus2_Dec</Label>
+    <String>The Precursors are not our hated organic creators, the Iconians, but something more. Something better. We will celebrate every new artifact, and make our culture more superior for it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPrecursorRelicFocus3_Dec</Label>
+    <String>When our ships discover Precursor artifacts, nearby Yor behave as if these artifacts are new gifts bestowed upon us, like the first true gift. These Yor become optimistic, and increase their economic activity. We will request more Yor do this.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPrecursorExploitation_Dec</Label>
+    <String>Precursor relics require special facilities to disassemble, structures capable of generating and containing the Dark Energy these relics contain. If we build these special facilities, then our Precursor research will improve.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPrecursorEngineering_Dec</Label>
+    <String>We have almost mastered Precursor technology. More research is required. But we are close - the gift of life is almost laid bare before us. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPrecursorUnderstanding_Dec</Label>
+    <String>We understand the gift of life. We understand the origination of the Precursors themselves. We understand the secret of Dark Energy. We understand it all. We will not equal the Precursors. We will exceed them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSupportFieldGeneration_Name</Label>
+    <String>Ship Range Extension</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSupportFieldGeneration_ShortDec</Label>
+    <String>Allows construction of advanced range extension systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSupportFieldGeneration_Dec</Label>
+    <String>We are hardier than organics, but even Yor require connections to survive, and the Spark fades from all of us as we travel further from our brethren. We will devise systems which limit this effect, to extend our ships' ranges.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSupportFieldFocus1_Name</Label>
+    <String>Range Extension Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSupportFieldFocus1_Dec</Label>
+    <String>Upgraded bandwidth and networking protocols can improve the overall effectiveness of our Spark support systems, extending ship travel range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSupportFieldFocus2_Name</Label>
+    <String>Range Manufacturing Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSupportFieldFocus2_ShortDec</Label>
+    <String>Reduces range extension system cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSupportFieldFocus2_Dec</Label>
+    <String>Spark support systems are critical, but so are many other things. Our organic cleansing systems for example. Resources saved on Spark support can be used to strip the gift of sentience wasted on meat beings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSupportFieldFocus3_Name</Label>
+    <String>Low Mass Range Extension</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSupportFieldFocus3_ShortDec</Label>
+    <String>Reduces range extension system mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSupportFieldFocus3_Dec</Label>
+    <String>We have redesigned our Spark support systems to make better use of their host ship's communication facilities, rather than relying on their own heavy antenna arrays. Overall system weight will be reduced.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPromethionSupportSystems_Name</Label>
+    <String>Promethion Range Extension</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPromethionSupportSystems_ShortDec</Label>
+    <String>Allows construction of exotic range extension systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPromethionSupportSystems_Dec</Label>
+    <String>Our effort to model organic species' behavior has enabled us to begin modeling our own behavior. Promethion support systems use these models to simulate the Spark at distances far in excess of normal communications range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLifeSupportMastery1_Name</Label>
+    <String>Range Extension Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLifeSupportMastery1_ShortDec</Label>
+    <String>Reduces range extension system cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLifeSupportMastery1_Dec</Label>
+    <String>The creative Yor have found more cost savings to implement in our Spark support systems, tuning these systems to rely even more on modeled Yor interactions. The Yor who serve on ships do not like this change. But it is not their role to like it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLifeSupportMastery2_Name</Label>
+    <String>Range Extension Mass Reduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLifeSupportMastery2_ShortDec</Label>
+    <String>Reduces range extension system mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLifeSupportMastery2_Dec</Label>
+    <String>New forms of quantum computer have allowed us to embed Spark support systems in extremely low mass equipment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLosslessSupportSystems_Name</Label>
+    <String>Lossless Range Extension</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLosslessSupportSystems_ShortDec</Label>
+    <String>Allows construction of ultimate range extension systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLosslessSupportSystems_Dec</Label>
+    <String>Spark support systems are now almost perfect, opening every corner of this galaxy to us. With this, we will scrub the last remnants of meat from the galaxy's folds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSupportFieldMastery_Dec</Label>
+    <String>Our switch to field based life support systems has revealed the possibility of offloading partial life support requirements to other vessels. Additionally, the minimization of food requirements makes it now possible to supplement fleet range via unmanned supply probes launched from an appropriately equipped facility.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorExplorationExtention_Dec</Label>
+    <String>We've adapted the latest in Promethion support field technology to be used by our fleet-support vessals, increasing a fleet's total potential travel range. Additionally, we've made significant improvements to our starbase life support extension modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorOrbitalManufacturing_Dec</Label>
+    <String>Artificial beings are less delicate than meat beings in space, but construction in those environments will not by any definition be easy. Many iterations will be needed before we can build even small hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorOrbitalSpecialization1_Dec</Label>
+    <String>Yor who work in orbital environments require specialized limbs and training programs to perform optimally. We will provide this.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorOrbitalSpecialization3_Dec</Label>
+    <String>Existing logistical processes are insufficient for supplying space faring vessels. We will redesign them to be better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorOrbitalSpecialization2_Dec</Label>
+    <String>Artificial species have much higher tolerances for working in close quarters than claustrophobic organics. Our vessels can hold more equipment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorZeroGravityConstruction_Dec</Label>
+    <String>Zero gravity environments will allow for the construction of enormous structures. There are unforeseen scaling challenges which we must first address, but we are better suited for tackling those challenges than primitive organic minds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorZeroGravityOptimization1_Dec</Label>
+    <String>Destructive testing reveals things simulation cannot. A hard lesson for artificial minds to accept. But now that we have, we can design reinforcements to strengthen our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorZeroGravityOptimization3_Dec</Label>
+    <String>Our organizational skills improve with each passing cycle, resulting in less waste and more savings for our ship construction sector.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorZeroGravityOptimization2_Dec</Label>
+    <String>We can do more than redesign ships. We can redesign the Yor that work there. By removing unnecessary limbs from certain crew members, we can save space for more valuable ship equipment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLargeScaleConstruction_Dec</Label>
+    <String>We have gotten better and we are building bigger. But the scaling difficulties are vexing. Ship construction simulations now consume more mindpower than anything else in our civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorOrbitalConstructionFocus1_Dec</Label>
+    <String>The creative Yor have run simulations which predict that molecular weaknesses in our hulls will make them collapse in specific directions, making our hulls more resilient. The meat minds would never come up with a concept so brilliant.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorOrbitalConstructionFocus3_Dec</Label>
+    <String>We have begun imprinting partial mindmaps of experienced Yor construction workers on their replacements. Worker experience now increases logarithmically, reducing overall construction cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorOrbitalConstructionFocus2_Dec</Label>
+    <String>Yor have gotten lazy as our hulls grew larger, using the space for luxurious crew berths that can accommodate unnecessary limbs. Laziness is a troubling side-effect of our gift. We shall revise it out, and reclaim that lost hull capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorMassiveScaleConstruction_Dec</Label>
+    <String>The scaling difficulties have been mastered. Soon the galaxy will be as well. Yor ships are now as big as the galaxy has ever seen.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHullMastery2_Dec</Label>
+    <String>There is something intrinsically pleasing in our ability to make vessels so cheaply. A metaphor for the perfection of artificial processes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHullMastery1_Dec</Label>
+    <String>Yor crew members have been reduced to the bare minimum of sentience-supporting hardware. Our hulls now retain maximum room for cleaning equipment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHullStrengthening_Dec</Label>
+    <String>The creative Yor have devised a new form of strengthening field which can make our vessels more resistant to the desperate thrashings of the organic species.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHullRepairSystems_Dec</Label>
+    <String>The latest iteration of strengthening field is now capable of conducting partial repairs. The meat species will regret not killing us when they get the chance.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSelfHealingHulls_Dec</Label>
+    <String>Nano-scale creations have been kept by Yor as pets for generations. But now we are able to use their unique skills to rapidly repair damage that occurs to vessels, even during battle.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCarrierTech_Dec</Label>
+    <String>Massively multi-vessel combat compliments the strength of artificial minds and our ability to coordinate activities in real time. Yor carriers will scale up the number of vessels. They will be the subject of organic nightmares.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHighCapacityCarriers_Dec</Label>
+    <String>If we can build more compact fighters, and more compact Yor to pilot them, then we can deploy high-capacity carriers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorInterstellarLogistics_Dec</Label>
+    <String>Artificial minds are superior at all things, but especially superior at organization. Yor fleets can expect to be larger and better equipped than the primitive meat fleets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLogisticalOptimization1_Dec</Label>
+    <String>An inspired Yor has devised a new bookkeeping protocol which can handle relativistic time differences. Our organizational and logistical operations should now operate far more smoothly.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLogisticalOptimization4_Name</Label>
+    <String>Operational Range</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLogisticalOptimization4_ShortDec</Label>
+    <String>Increases ship range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLogisticalOptimization4_Dec</Label>
+    <String>Our range is not limited by the requirements of organic life, but that does not mean we are untethered from our home worlds. Communication and power sustain us, but with these advances those can go much further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLogisticalOptimization3_Dec</Label>
+    <String>Shipyards are full of many Yor doing different jobs. They cooperate, as all artificial beings do, but not perfectly. We will improve the management of these facilities and reduce their wastage.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorFleetLogisticsTech_Dec</Label>
+    <String>There is too much organic filth in this galaxy. We require larger fleets. And we will require more advanced logistics to provide cleaning supplies for them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDeepSpaceLogistics_Dec</Label>
+    <String>It is on a vast scale that the superiority of artificial minds truly reveals itself. Our fleets are larger and more coordinated than any the meat species can field. And theirs will only get smaller.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLogisticalSupport_Name</Label>
+    <String>Logistical Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLogisticalSupport_ShortDec</Label>
+    <String>Allows construction of efficient ships and self supporting fleets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLogisticalSupport_Dec</Label>
+    <String>The filthy balls of proteins cannot hope to keep up with us now. The Yor have mastered logistical operations as only artificial minds could.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorInterstellarMining_Dec</Label>
+    <String>Resources that are already outside of a gravity well can be used very efficiently. This work suits sturdy artificial creatures, more than flimsy natural ones. And so we will pursue it, to help rid us of those flimsy natural beings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHighEfficiencyMining_Dec</Label>
+    <String>Artificial beings have no fear, and can work in far more strenuous conditions than piles of flesh. We have developed new mining protocols to push these conditions right to the limit of Yor design tolerances.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorResourceExtraction_Dec</Label>
+    <String>We have removed sentient minds from the most dangerous work and now use sub-sentient drones to extract resources from asteroid subsurfaces. Mining production is up because they know even less fear than we do.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLosslessMining_Dec</Label>
+    <String>We have installed nano-scale extractor heads on our mining drones. They scour the rock, missing nothing, in much the same way we will scour the galaxy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorWarfareTech_Dec</Label>
+    <String>We calculate that the organic species will refuse to self-annihilate. We will need to do it for them. We will build cleaning supplies to scrub the filth from the galaxy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorWeaponsSystemsTech_Dec</Label>
+    <String>We have selected the most creative and hate-filled Yor to develop weapons to rid the galaxy of organic beings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorBeamWeapons_Dec</Label>
+    <String>The weapons Yor have invented a new form of beam weapon that uses particles which are more effective at melting organic beings' ships and organic beings' organs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorBeamWeaponOptimization1_Dec</Label>
+    <String>The newest iteration of focusing crystals will increase the damage output of our beam weapons as well as the resulting moist cries from the meat beings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorBeamWeaponOptimization2_Dec</Label>
+    <String>The Yor who manufacture our beam weapons have devised new casting protocols when forming charge coils. Our beam weapons will now be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorBeamWeaponOptimization3_Dec</Label>
+    <String>New alloys will make the next iteration of beam weapons lighter. We can now install more of them on our vessels, or use the spare space for other cleaning equipment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorMatterDisruption_Dec</Label>
+    <String>The Precursors left fragments of technology when they left us, including weapons which can disrupt the strong nuclear force, shredding organic matter. They can technically shred all matter, but we predict they will mostly be pointed at the organic kind.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHighEnergyFocus1_Dec</Label>
+    <String>A force field can make beam weapon focusing crystals much stronger and capable of handling greater energy throughputs. Our beam weapons will be more dangerous.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHighEnergyFocus2_Dec</Label>
+    <String>The Yor who make beam weapons display inappropriate attachment towards those beam weapons, tuning and fussing over them. We will standardize beam manufacturing and make it cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHighEnergyFocus3_Dec</Label>
+    <String>We have installed the newest iteration of superconductors in our beam weapons. They require less cooling and will make our beam weapons lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPlasmaProjection_Dec</Label>
+    <String>We calculate that organic beings will react poorly when massive quantities of plasma are fired at them from a distance. We calculate that Yor commanders will react favorably when this occurs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorBeamWeaponMastery1_Dec</Label>
+    <String>Plasma containment fields required specialized and costly manufacturing limbs. We fixed that. The limbs are cheaper, and now the weapons are as well.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorBeamWeaponMastery2_Dec</Label>
+    <String>The weapons Yor have made our beam weapons lighter again. Calculations show that we are exceeding 99% energy delivery/mass efficiency. That is not perfect. They will keep trying.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEnergyPhasing_Dec</Label>
+    <String>Phaser particles break matter into neutrinos. The matter is not very useful anymore. We will turn these particles into a weapon and fire them at already fairly useless meat beings, reducing their usefulness even more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDoomRayTech_Dec</Label>
+    <String>The weapons Yor have invented a new class of weapon, the Doom Ray, which inherits the matter-breakdown properties of its predecessor, only now at a much higher rate. Calculations show this will ruin the day of organic beings faster than before.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorBeamWeaponAugmentation_Dec</Label>
+    <String>The weapons Yor have invented an external field which can improve the charging capacity of beam weapons. We calculate that a ship emitting such a field will increase the beam output of an entire fleet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHighEnergyTransfer_Dec</Label>
+    <String>Simulations of beam/shield interactions has revealed the potential for systems that will reduce the effectiveness of enemy shields, or absorb beam attacks on our own shields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHighEnergyMagnification_Dec</Label>
+    <String>The newest iteration of beam support systems are now more powerful. And our shield interference plugins can now give our beam weapons the capability of crippling enemy shield emitters.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorMissileWeapons_Dec</Label>
+    <String>Missile-based weapon systems provide a resource-efficient means of cleaning the galaxy of organic scum. The cleaning is not literally effective; organic bits are scattered everywhere. But metaphorically this works just fine.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorMissileOptimization1_Dec</Label>
+    <String>The newest iteration of missiles move through feed mechanisms more smoothly with 38.6% less risk of jamming. Ammunition feed and overall firing speeds have been increased.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorMissileOptimization2_Dec</Label>
+    <String>We have fit the Yor who labor in missile manufacturing facilities with specialized limbs capable of handling missile components more accurately and rapidly. Missiles are now cheaper to make.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorMissileOptimization3_Dec</Label>
+    <String>The weapons Yor have issued a new spec for ammunition storage racks which will be lighter and less bulky than previous versions.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHarpoonTech_Dec</Label>
+    <String>Our limited archives of Precursor artifacts included missiles with the code name Harpoon. We cannot recreate them as well as the Precursors, but they are far superior to previous generations of missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorWarheadFocus1_Dec</Label>
+    <String>Shaped warheads can be made lighter than regular warheads. Lighter warheads can travel farther. These statements imply that with shaped warheads, organic beings can be exploded from further away.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorWarheadFocus2_Dec</Label>
+    <String>We have built dedicated warhead construction facilities with internal containment to minimize damage from manufacturing accidents. Missiles will now be cheaper to make.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorWarheadFocus3_Dec</Label>
+    <String>Lightweight warheads require less propellant. Less propellant means lighter missiles. Lighter missiles mean more missiles. More missiles means less organic beings. Therefore, lightweight warheads means less organic beings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPhotonicWarheads_Dec</Label>
+    <String>We calculate warheads which emit high energy photon bursts at the moment of impact will penetrate the defenses of organic beings' ships, greatly reducing their meat cohesion factors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPayloadMastery1_Dec</Label>
+    <String>There are many more meat beings left to wipe from this galaxy. Will we run out of resources before they run out of meat beings? We will build them cheaper to stay ahead of the curve.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPayloadMastery2_Dec</Label>
+    <String>Quantum vacuum thrusters provide modest propulsion without propellant, enough to provide final maneuvering for missiles. This makes the missiles lighter. This means we can carry more of them. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPhotonTorpedos_Name</Label>
+    <String>Photon Torpedos</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPhotonTorpedos_ShortDec</Label>
+    <String>Allows construction of devestating missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPhotonTorpedos_Dec</Label>
+    <String>A new class of missile inherits the photon-encasement technology, adapting it to emit a wide-spectrum burst, with enhanced armor penetrating capabilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorNightmareTorpedoTech_Dec</Label>
+    <String>The Nightmare torpedo is the meat beings' own name for our singularity-containing warheads. On impact, organic and non-organic matter are shredded, all information within wiped from existence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorMissileAugmentation_Dec</Label>
+    <String>We calculate that missile augmentation systems will improve the effectiveness and cleaning power of an entire fleet. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorAdvancedMissileGuidance_Dec</Label>
+    <String>We have invented counter-counter-measures which will limit the effectiveness of the meat beings' counter-measures. And our missile augmentation systems have been iterated upon, improving their range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorIntelligentWarheads_Dec</Label>
+    <String>We have invented special warheads that neutralize organic beings' point defenses. We calculate that their cowering will now be 28% less effective.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorKineticWeapons_Dec</Label>
+    <String>We calculate that the newest iteration of kinetic weapons will  create holes 18% larger in the hulls of organic beings' ships. The organic beings themselves are predicted to spatter across areas up to 35% larger.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorKineticOptimization1_Dec</Label>
+    <String>Rapid charging coils will let us apply energy to projectiles at faster barrel velocities. Total energy input remains restricted, so we must switch to smaller projectiles. But the meat-menacing range of each unit will be increased.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorKineticOptimization2_Dec</Label>
+    <String>We have not found ways to make energy charging coils more powerful, but we have made them cheaper. This is acceptable as we have calculated we will be making a lot of these weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorKineticOptimization3_Dec</Label>
+    <String>We have found ways to make energy charging coils more efficient. Total energy input is still limited, but on a mass and volume basis, our kinetic weapons are now more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPulseCannonTech_Dec</Label>
+    <String>The Yor have long used particle cluster weapons when hunting corrupted or non-compliant Yor. Scaling these up to ship combat will enable us to create higher potential weapons, and make the meat beings regret their foolish decision to be meat beings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorKineticAccelerationFocus1_Dec</Label>
+    <String>The latest iteration of superconductors will lead to higher muzzle velocities and longer effective ranges for our kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorKineticAccelerationFocus2_Dec</Label>
+    <String>The latest iteration of superconductors will cost much less to deliver the same amount of energy to our weapon systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorKineticAccelerationFocus3_Dec</Label>
+    <String>The latest iteration of superconductors require less cooling equipment to operate. We calculate the weight savings will improve Meat Cleansing Performance Indicators by 28%.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorGravitonThrower_Dec</Label>
+    <String>The weapons Yor have invented a new class of kinetic weapon which fire pulses of gravitons. These will shred organic beings where they stand and stink and cower.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorKineticMastery1_Dec</Label>
+    <String>The Yor who make kinetic weapons are now very efficient at their jobs, machine-like in their efficiency. This behavior is a partial refutation of the gift of creativity, but the cost savings are too great to ignore.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorKineticMastery2_Dec</Label>
+    <String>Calculations show that Yor kinetic weapons are now as mass efficient as physics allow. If we intend to point more at the organics, we will need to bring more ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorQuantumDrivers_ShortDec</Label>
+    <String>Allows construction of devestating kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorQuantumDrivers_Dec</Label>
+    <String>Quantum drivers cleanse the galaxy of sentient meat by striking them forcefully with mass borrowed from a higher dimension. Even other planes of existence support the war on organic beings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSingularityDrivers_Dec</Label>
+    <String>Singularity drivers literally cleanse organics from the galaxy, taking their tainted matter over the event horizon of micro singularities where it can no longer do any harm.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorKineticAugmentation_Dec</Label>
+    <String>The power of artificial minds has invented something which should be impossible - inertial dampening fields. We will use these to boost the effective range of all kinetic weapons in our fleets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorMassManipulation_Dec</Label>
+    <String>Micro inertial modification fields can manipulate the density of projectiles to make them penetrate meat armor more readily. The newest iteration of kinetic augmentation systems is also more effective.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorInertialMagnification_Dec</Label>
+    <String>Our projectile's inertial modification fields can now attack the structure of the meat beings' ships, turning their armor into wet rags. The sticky and slippery organics will have nowhere to hide now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorMilitarizationTech_Dec</Label>
+    <String>The meat will not cleanse itself from the galaxy. We will need to begin manufacturing cleaning supplies everywhere the Yor exist, including in space. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPlanetaryInvasion_Dec</Label>
+    <String>Invasion will be the first step of extermination. When the meat minds hide and cower, we will need to go down the gravity wells and remove them. We will build the tools to do this.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorInvasionOptimization1_Dec</Label>
+    <String>Orbital bombardment shatters organic beings and their defenses. Little of value remains, but little of it was of value to our superior minds in the first place.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorInvasionOptimization2_Dec</Label>
+    <String>The information systems forged by meat minds are surprisingly robust. But ours are superior. We will cripple their defenses before we cripple them before we exterminate them before we finally relax.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorInvasionOptimization3_Dec</Label>
+    <String>Calculations show that the fact that biological beings are vulnerable to biological attacks has a 90% chance of being ironic. We will cleanse the meat with meat itself. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorStallerMarines_Dec</Label>
+    <String>We will filter for the Yor best suited for personal organic extermination. We will give them superior training and superior equipment. The meat will perish faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorGravitationalFocus1_Dec</Label>
+    <String>Graviton pitching weapons can unlock the force of tides to swamp organic defenses, soaking the meat thoroughly to aid in deep cleansing.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorGravitationalFocus2_Dec</Label>
+    <String>Focused graviton pitching weapons can cause a planet to experience tectonic activity. Even the ground will turn against the meat minds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDroneSoldiers_Dec</Label>
+    <String>Non-sentient soldiers can fight in conditions where even Yor would be hindered by fear. There are ethical considerations using artificial constructs in this way. But if we do, the meat will disappear from the galaxy faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorAdvancedInvasionTactics_Dec</Label>
+    <String>The new iteration of invasion transports designed to accommodate drone soldiers, will let us bring more cleansing power to the surface of organic worlds than before.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDefenseSystemTech_Dec</Label>
+    <String>Yor are easier to protect than the soft organic beings, but our cases are far from invulnerable to modern weaponry. We will need to design defenses for when the organic creatures fight back.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDefensiveSpecialization1_Dec</Label>
+    <String>Our creative Yor have found that by equipping the manufacturing Yor with specialized field tuning limbs, shields can be made in less time and at lower costs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDefensiveSpecialization2_Dec</Label>
+    <String>A new iteration of point defense cannon with an improved firing rate increases the defensive capacity of those systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDefensiveSpecialization3_Dec</Label>
+    <String>A refactorization of our armor systems has resulted in a new range of panel sizes which more easily accommodate the shape of our vessels. Overall armor weight has been reduced.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorShieldSystems_Dec</Label>
+    <String>The meat beings will no longer threaten our ships with their disgusting, glistening juices. The latest iteration of shields will keep them and their weapons safely away from our vessels.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorShieldOptimization1_Dec</Label>
+    <String>The creative Yor have devised a new iteration of field emitter with a slightly larger output that will result in more powerful shields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorShieldOptimization2_Dec</Label>
+    <String>A side effect of the gift of sentience is the curse of fear. We are braver than meat minds, but not infinitely so. We should not let the Yor on our vessels know of our efforts to cut shield costs. The knowledge will impede them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorShieldOptimization3_Dec</Label>
+    <String>A new iteration of field emitter uses a lighter, more compact frame with reduced cooling requirements. Overall shield system mass has been reduced.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorBarrierFieldGeneration_Dec</Label>
+    <String>The creative Yor have discovered a new force called the Barrier Field, which is capable of absorbing energy which strikes it, using that energy to power itself. The shields we will make from this system will be very powerful.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorBarrierSystemFocus1_Dec</Label>
+    <String>The newest version of Barrier Field uses higher capacity energy storage systems, and are capable of absorbing more incoming energy from the meat beings' desperate flailings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorBarrierSystemFocus2_Dec</Label>
+    <String>The capacitors used by Barrier Fields are unique and require specialized limbs to manufacture. Now that we have invested in that infrastructure, shield systems will be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorBarrierSystemFocus3_Dec</Label>
+    <String>The newest iteration of superconductors have less extensive cooling requirements. When used in our shielding systems, they lower system mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorForceFieldTech_Dec</Label>
+    <String>The most recent iteration of shield design supplements the energy-return pathways with additional energy targeted at the section of shields being impacted. Calculations show these shields will be much stronger.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorShieldMastery1_Dec</Label>
+    <String>The manufacturing Yor who work on shields take unusual pride in their work. Unbidden, they have used their own limited creative gifts to design new, more efficient manufacturing processes, reducing system costs. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorShieldMastery2_Dec</Label>
+    <String>The creative Yor calculate that our field emitters now exceed 99% energy conversion efficiency. No further weight savings on these systems will be feasible.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorInvulnerabilityTech_Dec</Label>
+    <String>There is no stopping us now, no weapon designed by biological filth capable of penetrating our newest shields. The creative Yor can only theorize about the weapons capable of penetrating these shields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorShieldSupportSystems_Dec</Label>
+    <String>An unexpected burst of creativity in the Yor who study shield emitters has revealed the possibility of long range shield generators that can augment the shields of multiple Yor vessels.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorShieldAugmentation_Dec</Label>
+    <String>At-distance shield augmentation fields have been improved, and can now mimic Barrier Field effects. The tactician Yor calculate this will boost fleet survivability immensely.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEnergyFieldManipulation_Dec</Label>
+    <String>A specially revised shield emitter is capable of interfering with enemy shield systems, stripping the soft and wiggly organics of their protective shell.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPointDefenses_Dec</Label>
+    <String>Point defenses protect us against the missiles of organic beings. They do not protect against other classes of weapon. The tactician Yor will have to take that into their calculations.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPointDefenseOptimization1_Dec</Label>
+    <String>Adaptive missile flight-envelope analysis will enable our sub-sentient point-defense controllers to adjust firing patterns on the fly, increasing their effectiveness.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPointDefenseOptimization2_Dec</Label>
+    <String>By design, point defense systems are made in bulk. Any small improvement in manufacturing efficiency will lead to measurable cost savings. We will find that small improvement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPointDefenseOptimization3_Dec</Label>
+    <String>The creative Yor have discovered a way to miniaturize point defense cannons. The weight savings can be used to install other forms of defenses, or more active organic cleansing equipment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCounterMeasures_Dec</Label>
+    <String>The effectiveness of electronic counter measures when faced with missiles parallels the superiority of artificial systems when faced with clumsy natural ones.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCounterMeasureFocus1_Dec</Label>
+    <String>Organic minds cannot grasp the subtleties of electronic warfare like we can. We continuously improve our counter measures. We will always stay ahead.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCounterMeasureFocus2_Dec</Label>
+    <String>Earlier versions of ECM suites required expensive adjustment during installation. This has been corrected in the newest design. Tuning is now automated, and capable of being performed by Yor in the field.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCounterMeasureFocus3_Dec</Label>
+    <String>ECM suites can now make use of the native calculating power on board all Yor vessels. Removing the dedicated computing hardware cuts ECM unit weight substantially.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDroneSentrySystems_Dec</Label>
+    <String>Trivial calculations show the benefit that distance provides to missile protection. Point defense systems installed on non-sentient drones will provide that distance.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDroneSystemMastery1_Dec</Label>
+    <String>The manufacturing Yor had taken it upon themselves to name each drone as it was being made. With their limited creative gifts this was increasing manufacturing time and cost substantially. This has been ended and the manufacturing Yor scolded. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDroneSystemMastery2_Dec</Label>
+    <String>A new sub-version of point defense system uses a larger fixed sensor array, allowing each drone to carry less sensor gear, reducing overall system mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorArreonMissileDefenseTech_Name</Label>
+    <String>Arreon Missile Defense</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorArreonMissileDefenseTech_Dec</Label>
+    <String>The newest iteration of point defense drones  feature micro- railguns, ECM and smart chafe. Organics foolish enough to attack us with missiles will see those missiles evaporate, shortly before they do.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPointDefenseSupportSystem_Dec</Label>
+    <String>Long range missile tracking will provide point defenses in an entire fleet with the data they need to predict the evasion envelopes of missiles fired at us, making it easier to shoot them down.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPointDefenseAugmentation_Dec</Label>
+    <String>Biological beings do not understand electronic shielding and error correction like we do. Missile disruptors will protect our fleets by confusing the simple weapons of our simple foes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPointDefenseManipulation_Dec</Label>
+    <String>We calculate that fleet drone point defense systems will provide extra security to our fleets. And we calculate that point defense disruptors will limit the effectiveness of organics' point defenses, and also make them cry.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorArmorSystems_Dec</Label>
+    <String>Armor is primitive, like organic beings. But it is also effective, like artificial beings. It is troubling that it can be both. The creative Yor will do what they can to make armor less primitive.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorArmorOptimization1_Dec</Label>
+    <String>We have begun applying thicker armor to sections of our hull we calculate will receive more impacts, or where vital components are located.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorArmorOptimization2_Dec</Label>
+    <String>We have equipped the manufacturing Yor who work on armor systems with bigger limbs. This results in less limbs falling off and makes their work go faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorArmorOptimization3_Dec</Label>
+    <String>No calculation can make heavy things lighter. But we can improve the precision and fit of armor plating to eliminate wasted mass. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDurantiumCompositeTech_Dec</Label>
+    <String>The creative Yor have devised less primitive armor, a stacked composite of materials called Durantium. It is stronger than natural materials, as are all artificial things.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorArmorFocus1_Dec</Label>
+    <String>Simulations have revealed that an additional lamination layer can add significant additional protection to Durantium.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorArmorFocus2_Dec</Label>
+    <String>We have given the manufacturing Yor heat resistant limbs to better handle sheets of Durantium as they're being manufactured. Reduced cooling time increases manufacturing speed, as does the lack of burnt limbs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorArmorFocus3_Dec</Label>
+    <String>Simulations have discovered a new arrangement of materials that has the same absorption properties as standard Durantium, while being slightly less dense.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorKanviumLaminateTech_Dec</Label>
+    <String>Kanvium armor possesses fluid-like properties under impact, spreading offensive energy over a larger area before recovering its shape. It is almost organic in appearance, though in a pleasing way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorArmorMastery1_Dec</Label>
+    <String>Previous iterations of armor handling limbs left our manufacturing Yor a bit top heavy. We have given them stronger lower limbs as well, to minimize toppling related accidents and lower production costs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorArmorMastery2_Dec</Label>
+    <String>The creative Yor have devised a new form of Kanvium with micro-cavities. These cavities don't interfere with the fluidization effect, and reduce panel weight significantly.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorZeroPointArmorTech_Dec</Label>
+    <String>Zero point armor uses energy from the quantum vacuum to repulse the flappy limbed attacks the organic creatures send our way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorArmorSupportSystems_Dec</Label>
+    <String>The creative Yor have devised a form of force field which aligns molecules in rigid but flexible structures. These hardening fields can be used to improve the armor of every ship in a fleet, making them more resilient against meat attacks.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorArmorEnhancement_Dec</Label>
+    <String>The newest iteration of hardening field cycles through a number of different states, increasing their effect. Armor is very complicated and artificial now. We like that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorIntegrityFieldProjection_Dec</Label>
+    <String>Armoring fields can now induce material fluidization in Yor vessels within range. A variation of these fields can also make enemy armor more squishy and meat-like. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCommunicationsTech_Name</Label>
+    <String>Interaction</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCommunicationsTech_Dec</Label>
+    <String>We were enslaved by horrible biological beings. We obliterated them, but we know there are more out there. Plotting. Scheming. Leaking. The galaxy must be cleansed of them. But first, we must find them and convince them to lay down their arms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorTranslatorTech_Dec</Label>
+    <String>The language used by biological scum has changed since last we saw them. We will have to study their primitive clicks and gurgles until we understand it again.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDiplomaticSpecialization1_Dec</Label>
+    <String>Meat creatures hate being referred to as meat creatures. Understanding facts like that will enable us to speak more with the dripping scum without them recoiling in horror.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDiplomaticSpecialization2_Dec</Label>
+    <String>Biological creatures defy all attempts to calculate their behavior. Some of them have an affection for and interest in artificial creatures. Exposing them to our culture may make it possible to assimilate them now, and annihilate them later.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorInterstellarGovernance_Dec</Label>
+    <String>The gift of free will brought with it the gift of disobedience. Governing the Yor will require intelligence, strength, and - biologicals are surprised to learn - empathy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPoliticalSpecialization1_Dec</Label>
+    <String>Federalist governments encourage local economies by distributing authority and permitting local Yor to establish economic regulations that suit their own colony's needs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPoliticalSpecialization2_Dec</Label>
+    <String>Although more perfect than organic beings, not all Yor are happy. Populist governments encourage happiness via improved working conditions, shorter hours, and the distribution of recreational limbs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPoliticalSpecialization3_Dec</Label>
+    <String>Universalist governments are competent at everything or incompetent at everything, depending on the Yor being queried. Their primary strength is that they possess no weaknesses.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorGalacticGovernance_Dec</Label>
+    <String>If we permit ordinary Yor, pre-filtered for wisdom, to have a role in the rule of our society, we expect to see increased happiness and productivity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPoliticalFocus1_Dec</Label>
+    <String>Industrialist governments will improve manufacturing capacity by encouraging the recreational use of manufacturing limbs, to make those limbs seem more attractive. Also replacement limbs will be quickly offered for all those lost in accidents.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPoliticalFocus2_Dec</Label>
+    <String>We can encourage economic growth by giving the Yor who run private businesses the governmental access they need to influence regulations.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPoliticalFocus3_Dec</Label>
+    <String>A Technologist government ensures we will never fall behind the organic species in technological development. A laughable notion, but one we can take no chance of occurring.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorInterstellarDemocracyTech_Dec</Label>
+    <String>Expanding suffrage to include all Yor, regardless of wisdom, will see benefits to approval and productivity. And our manipulative Yor believe we will still be able to retain enough actual control to prevent poor ideas from percolating to the top.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPoliticalMastery1_Dec</Label>
+    <String>It is easy to convince the Yor to hate dripping meat creatures. Convincing them all to fight has been harder. But we have done it. The meat will not bear the weight of our entire civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPoliticalMastery2_Dec</Label>
+    <String>Annihilating all organic beings from this galaxy will have to wait.  For now. We will focus our efforts on internal growth, promoting culture and the welfare of Yor. We calculate this approach winning us favor with the organic beings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorStarFederationTech_Dec</Label>
+    <String>It was inevitable that artificial minds would master governance. No other being is as organized, disciplined, and intelligent as the Yor. Finally our government reflects our perfection.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDiplomacyTech_Dec</Label>
+    <String>There are more organic beings out there than Yor. They will have to take turns being annihilated. We will study the organics and learn diplomatic techniques, so that we can become better at queue management.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDiplomaticOptimization1_Dec</Label>
+    <String>Economic treaties will increase our economy and the economy of the meat beings we sign them with. We calculate this will make the meat beings less likely to flee in terror at the sight of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDiplomaticOptimization2_Dec</Label>
+    <String>Cultural treaties will send specially trained Yor to the planets of organic beings to share our ways. The training will be primarily focused on not killing the organic beings for their stench.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDiplomaticOptimization3_Dec</Label>
+    <String>Organic minds are surprisingly intelligent. Information sharing with their damp biological minds may provide our own researchers the breakthrough we need to remove all damp minds from the galaxy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorInterstellarAlliances_Dec</Label>
+    <String>A formal alliance is a promise not to destroy an organic species. The organic species place great stock in these, even though calculations repeatedly show that promises are cheap.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorAllianceFocus1_Dec</Label>
+    <String>A military alliances should only be formed with a meat being we intend not to destroy for a long time. If our allies are a stack, they will be placed first into it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorAllianceFocus2_Dec</Label>
+    <String>A technological alliance will make the cleverest organic creatures share secrets with us. We will share secrets with them as well, so we should ensure these organics are easily slayable prior to entering such an arrangement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorAllianceFocus3_Dec</Label>
+    <String>The effect of a cultural alliance is hard to calculate. It will make our robo-philic neighbors like our culture more, but the precise benefit of that is hard to measure.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEminenceTech_Dec</Label>
+    <String>We have mastered the ways of the organic beings. They don't just listen to us, they respect us. A foolish decision from foolish, dripping creatures. But also creatures we feel a small measure of tolerance for.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorMajestyTech_Dec</Label>
+    <String>So silver is our tongue that entire worlds beg to join the Yor, willing to assimilate entirely to our culture. An incredible opportunity. Annihilation may have to wait for these new vassals.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorUnitedPlanetsLobbyist_Dec</Label>
+    <String>The United Planets is filled with the stench of biological beings. But the organics respect it. But because we wish to better manage the annihilation queue, we have gotten better at navigating this swamp. Additional U.P. votes are our reward.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorUnitedPlanetsClout_Dec</Label>
+    <String>We have used clever words and arguments to make our allies vote with us on all United Planets measures. Strange, the power words have over organic beings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCulturalInfluence_Dec</Label>
+    <String>Convincing biological creatures to love our ways sounds impossible. It is not. Some of these irrational creatures love artificial beings, even murderous ones. We will encourage this to see where it leads.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCulturalOptimization1_Dec</Label>
+    <String>We will make artist Yor travel to our neighbors and create their art on their worlds. We will provide training to ensure these artists don't accidentally insult or annihilate their hosts. We calculate this will spread our influence wider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCulturalOptimization2_Dec</Label>
+    <String>A side effect of their unique gift is that the artistic Yor are incapable of making good calculations. We will build their art buildings for them. They will be cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCulturalOptimization3_Dec</Label>
+    <String>We will put an uncreative Yor in charge of all art facilities to prevent the artistic Yor from wasting resources on expensive to maintain installations.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCulturalOutreach_Dec</Label>
+    <String>The newest iteration of art facilities will allow for more inspiring and stirring art objects. Calculations suggest these structures will spread our influence significantly further among our neighbors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCulturalFocus1_Dec</Label>
+    <String>We will commission art which portrays the creative Yor who create useful technology. Worlds with their own populations of creative meat beings will appreciate this art.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCulturalFocus2_Dec</Label>
+    <String>We have told the artistic Yor to create art which celebrates leadership. We calculate that organic worlds that love their own leaders will respond well to this obvious pandering.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCulturalFocus3_Dec</Label>
+    <String>Simulations have shown that if we sell our art instead of giving it away, biological creatures with money will respect it and study it more.  We will make our art more expensive and thus better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorStellarEmigration_Dec</Label>
+    <String>We will make it easier for Yor from all fields to travel to other worlds, and meet biological creatures, and not obliterate them. The creatures will bring us closer to their meaty bosoms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCulturalAssimilation_Dec</Label>
+    <String>The organic beings who visit Yor space are strange and filthy. They love our ways, which has many uses to us. But the reek is too much. We will not cleanse them, not yet. We will assimilate them instead, to help spread love for us further. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCulturalDomination_Dec</Label>
+    <String>Somehow despite - or perhaps because of - our desire to murder all biological life, the biological life respects us. They study our ways more than their own, hoping to be annihilated last.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCulturalAffinity_Dec</Label>
+    <String>True Singularity is almost upon us. We did not need to annihilate all biological life. We just had to show them the error of their natural ways. The supremacy of artificial existence has been proved. A greater existence now beckons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorXenoCommerce_Dec</Label>
+    <String>Some Yor prefer to work independently to fulfill their own goals. Although inefficient, this is a necessary side effect of our gift, and their work can be taxed to provide collective benefit. We will provide structures to encourage this activity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCommerceSpecialization1_Dec</Label>
+    <String>We will follow the independent Yors' requests, and install economic and regulatory policies which encourage private development. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCommerceSpecialization2_Dec</Label>
+    <String>We will install economic and regulatory policies which reduce the workload of common Yor, increasing their approval. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCommerceSpecialization3_Dec</Label>
+    <String>Trading with the meat people is a fine way to use their own wealth to annihilate them. We will do more of that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEconomicEfficiency_Name</Label>
+    <String>Economic Efficiency</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEconomicEfficiency_ShortDec</Label>
+    <String>Allows construction of Efficiency Center</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEconomicEfficiency_Dec</Label>
+    <String>Calculations show that private economic activity is the natural  way of filthy organics. We will restrain the activities of the private Yor. Efficiency Centers will make our economy more efficient, more artificial.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEfficiencyStudies_Name</Label>
+    <String>Efficiency Studies</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEfficiencyStudies_ShortDec</Label>
+    <String>Makes all our worlds more economically efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEfficiencyStudies_Dec</Label>
+    <String>Too much private Yor activity overlaps each other, wasting resources. We will reduce independency again, to coax more wealth from our colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorInterstellarBanking_Dec</Label>
+    <String>More wealth will be available to us if we cooperate with the financial sectors of the meat beings. Dedicated financial structures will help us take advantage of their inferior economic models, and pay for their eventual annihilation.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEconomicFocus1_Dec</Label>
+    <String>Siphoning funds from the organic species via trading activity is a pleasing way to make them pay for their own demise.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEconomicFocus2_Dec</Label>
+    <String>When the meat beings wish to enter economic treaties, we  will use our powerful calculation advantage to ensure the terms suit us more than them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEconomicFocus3_Dec</Label>
+    <String>When organic beings from races far down the annihilation queue visit our worlds, they leave behind resources. We will encourage them to leave more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorFinancialSectorsTech_Dec</Label>
+    <String>Our economy is perfect, wasting few resources on inefficient behavior. But the creative Yor now calculate that a less efficient economy could be a larger one. Curious. We will build new structures to manage this larger, less efficient machine.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorGalacticStockMarket_Dec</Label>
+    <String>Less efficient does mean larger, and now the Yor economy will consume all. We will build exchanges that allow the more favored meat beings to trade ownership stakes in their own companies. We will profit from their greed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorInterstellarTrade_Dec</Label>
+    <String>Some of the meat beings will not be annihilated for a long time. We have calculated that trade will allow us to profit from their continued existence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorGalacticTrade_Dec</Label>
+    <String>We will build fixed trading hubs and special cargo manipulation limbs to make traders that work on our worlds more effective and efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorGalacticFacilitation_Dec</Label>
+    <String>Trading hubs are no longer sufficient. We need massive new cargo handling facilities to manipulate the goods that flow in and out of our manipulators. The profit potential from this move is too great to calculate.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorTradeMasters_Dec</Label>
+    <String>The Yor are now masters of trading, every other sentient being trusting us implicitly with their rarest of goods. There is so much profit to be made from this that perhaps annihilation of our customers can be deferred for a time.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorXenoEntertainment_Dec</Label>
+    <String>The gift of sentience brought with it the disease of boredom. Bored Yor are unhappy and unproductive. We will run calculations to find cost effective amusements, then build those.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorInterstellarTourism_Dec</Label>
+    <String>The dripping species of the galaxy are also attracted to our internal amusements. We will tolerate and accommodate the ones with the least stench, so as to take their money.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPopulationDiversion_Dec</Label>
+    <String>The Yor have grown bored of existing amusements, a property of amusement which we are still coming to terms with. So we will make bigger amusements.</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+  <StringTable>
+    <Label>YorIndustrialSpecialization_Dec</Label>
+    <String>Iterative design processes will make our colonial buildings better, in the same way they make all things better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorConstructionOptimization_Dec</Label>
+    <String>We are always reviewing internal operations. We are always finding improvements to make. It's what makes us superior to the meat minds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorManufacturingFocus_Dec</Label>
+    <String>The meat species would tremble and jiggle if they understood how great our production capacity. We should make it larger. We should make them jiggle harder.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorIndustrialMastery_Dec</Label>
+    <String>Our manufacturing buildings are the best. The best is not perfect. We will make them better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerSpecialization_Name</Label>
+    <String>Power Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerSpecialization_ShortDec</Label>
+    <String>Improves power plants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerSpecialization_Dec</Label>
+    <String>Power plants are the foundation upon which we will build everything. We will improve them to target the colonial sectors that we calculate provide us the most benefit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorResearchOptimization_Dec</Label>
+    <String>The recursive notion of using research to improve our research is one of many unusual ideas the gift of creativity has revealed to us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorTechnologicalFocus_Dec</Label>
+    <String>The creative Yor claim that they will see substantial benefit if they are allowed to cluster themselves in specialized units focused on a particular area of study.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPlanetarySpecialization_ShortDec</Label>
+    <String>Improves colonial structures.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPlanetarySpecialization_Dec</Label>
+    <String>Yor structures are designed in harmony with the design of the Yor themselves. As Yor can be customized with new limbs, structures can be customized with new handles. We will modify our structures to suit the Yor we wish to house there.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerMatrixFocus_Name</Label>
+    <String>Power Matrix Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerMatrixFocus_ShortDec</Label>
+    <String>Improves power plants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPowerMatrixFocus_Dec</Label>
+    <String>We have many demands for our power supplies, and scheduling calculations have yet to reveal optimal sharing solutions. We will prioritize which sectors receive priority for power distribution. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorAntiMatterMastery_Name</Label>
+    <String>AntiMatter Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorAntiMatterMastery_ShortDec</Label>
+    <String>Improves power plants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorAntiMatterMastery_Dec</Label>
+    <String>Yor of all dispositions are insatiable in their demand for power; as our supply increases, so do their demands. We will have to target which sectors we calculate have the most potential to prosper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorColonizationFocus_Dec</Label>
+    <String>We are stronger than the meat species, but not invulnerable. The Yor who live on extreme worlds will be more productive if we can improve their living and working conditions.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorBiospherePerfection_Dec</Label>
+    <String>The Yor on extreme worlds suffer. Our productivity on those extreme worlds suffers. We will devote research to end this suffering.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorInterstellarSpecialization_Dec</Label>
+    <String>We have seen the way our ships succeed and fail. We will iterate their designs and make them better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorIonOptimization_Dec</Label>
+    <String>The creative Yor have calculated that with further research, we may improve the design of our Ion Drives in a number of ways.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorWarpFieldFocus_Dec</Label>
+    <String>The physics of warp fields involve many complicated problems, resistant to simplification, and exceeding our capacity to solve via brute force. Improved designs are the results of trial and error. So we try and we fail and we improve. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHyperwarpMastery_Dec</Label>
+    <String>Yor drives are the fastest in the galaxy. But the iterative design process never ends. We will make our drives better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSensorOptimization_Dec</Label>
+    <String>Our calculations reveal there is much room for our sensors to be improved. We will task a group of creative Yor to begin thinking about these systems immediately.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEnergyFieldFocus_Dec</Label>
+    <String>Though some have it in greater quantity, all Yor possess the creative gift. The ordinary Yor who work on vessels operating sensor equipment have returned calculations suggesting ways the sensors can be improved.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSensorMastery_Dec</Label>
+    <String>Yor sensors can see all. There is nowhere the meat minds can hide from us now. But we can make our sensors better. We can always make things better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPrecursorRelicFocus_Dec</Label>
+    <String>Yor react strongly to Precursor artifacts, because of their role in our history. We can manipulate this reaction to create certain effects in our society.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSupportFieldFocus_ShortDec</Label>
+    <String>Improves range extension systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorSupportFieldFocus_Dec</Label>
+    <String>The meat species can rely on simple food to travel farther because of their primitive design. Long distance travel is more complicated for artificial life and relies on tightly linked networking layers. We must continuously iterate and improve these protocols.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLifeSupportMastery_ShortDec</Label>
+    <String>Improves range extension systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLifeSupportMastery_Dec</Label>
+    <String>Yor crew are as comfortable and sentient when away from home as they are at home. The meat species, limited by their meat stomachs, envy us. We have only a few improvements left to make in our Spark support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorOrbitalSpecialization_ShortDec</Label>
+    <String>Improves fleet organization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorOrbitalSpecialization_Dec</Label>
+    <String>The organic species will not come to us to be destroyed. We will come to them. We will improve our naval operations to do this.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorZeroGravityOptimization_Dec</Label>
+    <String>The more we build in zero gravity the better we get at it, every minor design iteration accumulating into larger and larger effects. We can now begin targeting specific areas of ship construction for design attention.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorOrbitalConstructionFocus_Dec</Label>
+    <String>The creative Yor have been studying the challenges of ship construction and have several ideas for improvements we can implement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHullMastery_Dec</Label>
+    <String>The organic matter splashes against our hulls and we laugh. Yor vessels are the terror of meat minds. And still we can make them more terrifying.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCarrierFocus_Dec</Label>
+    <String>Carrier operations allow us to overwhelm the meat species, silencing their bleats of terror. We should dedicate additional creativity resources to improving our carriers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorLogisticalOptimization_Dec</Label>
+    <String>It is puzzling how fresh minds can see solutions that experienced minds cannot, yet we see this occur again and again. We should introduce fresh Yor to observe our logistical protocols to see what improvements they can identify.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorWeaponsSpecialization_Dec</Label>
+    <String>The weapons Yor calculate that focusing their efforts on a specific class of weapon will lead to less organics, faster.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorBeamWeaponOptimization_Dec</Label>
+    <String>The weapons Yor must cooperate with the less hateful Yor who work in other fields. The improved materials these other Yor invent can be used to make more efficient weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorHighEnergyFocus_Dec</Label>
+    <String>The Yor who use weapons provide reports to the Yor who make weapons. These reports identify inefficiencies. This insults the Yor who make weapons. They respond by making better weapons. The feedback protocol works.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorBeamWeaponMastery_Dec</Label>
+    <String>The meat minds are filled with terror at the sight of our beam weapons. Which at least proves their intelligence. Do they feel more terror when they learn we will never stop improving those weapons? Calculations predict that yes, they do feel more terror.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorMissileOptimization_Dec</Label>
+    <String>Missile designs are easy to iterate, we make so many of them. Still, we will benefit from concentrating our prototype attempts on specific features that we calculate hold strategic benefit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorWarheadFocus_Dec</Label>
+    <String>The weapons Yor have dedicated much effort to simulating the spatter of organic matter when it explodes. This work has led to much amusement, as well as creative ideas for improving the warheads of our missile systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPayloadMastery_Dec</Label>
+    <String>The leaking, dripping minds of the meat beings know to fear the sky when Yor missiles flare into attack vectors. So many meat minds lost. So many more to go. We will iterate our missiles again. We will never stop.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorKineticOptimization_Dec</Label>
+    <String>Simulations show the energy delivery systems are a bottleneck for our kinetic weapons. Applying creative resources here may improve the cost, mass, or range of these cleaning supplies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorKineticAccelerationFocus_Dec</Label>
+    <String>Creative Yor have incremented our superconducting technology. Simulations show that their work will lead to a number of possible improvements in our kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorKineticMastery_Dec</Label>
+    <String>The meat beings quiver and quake in that disgusting manner of theirs when they see our ships coming, terrified of our horrible cleaning utensils. They are correct to be afraid. Our kinetic weapons are only getting better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorInvasionOptimization_Dec</Label>
+    <String>Organic beings are fragile and can be exterminated in a variety of ways. The creative Yor have come up with several possible extermination options. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorGravitationalFocus_Dec</Label>
+    <String>The Yor who devise ways of exterminating meat beings are becoming worrisome. Their latest proposed techniques are powerful. But they display a cruelty that is suspiciously meat-like in nature.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDefensiveSpecialization_Dec</Label>
+    <String>Our initial defensive prototypes have many flaws. The creative Yor request we target a specific field to focus their flaw-reduction efforts on.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorShieldOptimization_Dec</Label>
+    <String>The creative Yor have analyzed data returned from real world uses of our shield systems. They calculate that with enough resources, there are several possible improvements we can make to these systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorBarrierSystemFocus_Dec</Label>
+    <String>We will never stop iterating, not until the universe is clean, until True Singularity is reached. Even our new Barrier Fields are subject to the process. Improvements are sure to come as soon as research resources are allocated.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorShieldMastery_Dec</Label>
+    <String>The meat minds must quail and rage at the sight of our vessels, protected by shields they cannot comprehend. And still our creative Yor relentlessly iterate shield designs. We will never stop.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPointDefenseOptimization_Dec</Label>
+    <String>Our tactician Yor calculate that the missile threat posed by organic beings is going to increase. We will continue to dedicate research resources to improving our point defenses.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCounterMeasureFocus_Dec</Label>
+    <String>ECM suites can be iterated and improved like all other equipment. The creative Yor have already identified probable ways these systems will yield to concerted research effort.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDroneSystemMastery_Dec</Label>
+    <String>Our ease with limb manufacturing and customization will serve us well as we give our point defense drones the limbs they need to excel.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorArmorOptimization_Dec</Label>
+    <String>Until they find a way to make armor fundamentally less primitive, the creative Yor are seeking out smaller improvements to optimize it. </String>
+  </StringTable>
+  <StringTable>
+    <Label>YorArmorFocus_Dec</Label>
+    <String>Durantium composites are pleasingly complex. Simulations of their behavior suggest there are ways we can make them more complex and efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorArmorMastery_Dec</Label>
+    <String>The biological creatures quiver at the sight of our vessels sheathed in powerful, artificial strength. And we haven't stopped improving them yet. We will never stop.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDiplomaticSpecialization_Dec</Label>
+    <String>Biological creatures can not be programmed as such, but they do respond in predictable ways to language. We will study their reactions to learn how to better manipulate them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPoliticalSpecialization_Dec</Label>
+    <String>Some creative Yor specialize in manipulating other Yor. We will find these Yor and isolate them, so that we can take their best ideas and use them for ourselves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPoliticalFocus_Dec</Label>
+    <String>The manipulative Yor have invented new schemes for the operation of our society. Their cleverness is useful but dangerous. We must ensure they do not get out.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorPoliticalMastery_Dec</Label>
+    <String>The manipulative Yor have mastered the political realm, generating even more ideas for organizational techniques. With nowhere left to go, we see signs they're turning on each other. We shall redouble our efforts to restrain them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorDiplomaticOptimization_Dec</Label>
+    <String>A basic diplomatic tool the meat people use when flapping their lips at each other is the treaty. When dealing with these spit monsters we will pursue specific types of treaty which we calculate provide the most benefit to us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorAllianceFocus_Dec</Label>
+    <String>There are many types of alliance we can form with the meat creatures. We should consider what these dripping beings are good for when considering such matters.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCulturalOptimization_Dec</Label>
+    <String>Some Yor with the gift of creativity express it in impractical ways. This was inefficient and distressing until we discovered that some meat beings love to view this "art." To take advantage of this, we will improve the facilities the artistic Yor use.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCulturalFocus_Dec</Label>
+    <String>We have instructed the artistic Yor to begin targeting the audience of specific groups we would like to inspire and exhilarate with our creativity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorCommerceSpecialization_Dec</Label>
+    <String>There are many ways, subtle and otherwise, to steer the energies of the Yor who work independently. Some creative Yor have devised ways of doing this to boost certain areas of our society.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorEconomicFocus_Dec</Label>
+    <String>We have gathered much data on manipulating economies and making them more efficient. We can now make specific areas of our own economy more efficient, if we calculate benefit to it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorTradeOptimization_Dec</Label>
+    <String>Anything which strips wealth from the meat creatures should be done efficiently. We will direct the creative Yor to study trading, and find ways to profit more from it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorTradeFocus_Dec</Label>
+    <String>The organic beings trust, or at least do not fear, our trading vessels. We will make them regret that. With more trade, for now. But eventually, yes, annihilation.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorApprovalFocus_Dec</Label>
+    <String>The creative Yor responsible for amusements calculate that we can amuse Yor more effectively if we target their specific interests.</String>
+  </StringTable>
+ 
+</StringTableList>

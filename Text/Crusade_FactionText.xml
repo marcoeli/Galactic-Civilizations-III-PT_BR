@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../../Game/Data/Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- Crusade_FactionText.xml -->
+ 
+  <StringTable>
+    <Label>Crusade_1_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Terran_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Terran_LeaderName</Label>
+    <String>Rafe Alan</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Terran_Dec</Label>
+    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Terran_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Terran_Callsign</Label>
+    <String>T.A.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Terran_StartupTitle</Label>
+    <String>Don't Call It A Comeback</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Terran_StartupDescription</Label>
+    <String>For over a decade Earth was locked behind the Precursor Shield. Their foes thought them beaten. They were wrong. In their solitude, mankind found a new purpose, united behind a single goal: the destruction of the Drengin Empire. 
+
+With the return of D.L. Bradley and the T.A.S. Crusader, Earth was finally able to escape the confines of the Precursor Shield. And now it's ready to retake its place in the galaxy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Terran_StartupTraitsDescription</Label>
+    <String>Lead by General Rafe Alan, the Terrans have command of the greatest fleet in human history. But they are untested, and still must face the bulk of the Drengin empire, which still controls hundreds of worlds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_1_Altarian_Name</Label>
+    <String>Altarian Confederation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Altarian_ShortName</Label>
+    <String>Altarians</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Altarian_LeaderName</Label>
+    <String>Akari Malara</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Altarian_Dec</Label>
+    <String>Altarians are a deeply religious race that are kind in their interaction with others, although a bit self-righteous. For unknown reasons, they are very similar in appearance to the Terrans.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Altarian_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Altarian_Callsign</Label>
+    <String>A.R.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Altarian_StartupTitle</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Altarian_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Altarian_StartupTraitsDescription</Label>
+    <String>Altarians are careful researchers, generally content, and influential with their neighbors. Their ships are known for being fast but fragile, though they can organize large fleets of them when called upon. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_1_Drengin_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Drengin_ShortName</Label>
+    <String>Drengin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Drengin_LeaderName</Label>
+    <String>Lord Kona</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Drengin_Dec</Label>
+    <String>The Drengin are a profoundly evil and warlike civilization. Exceedingly clever and vicious, there are few beings capable of meeting a Drengin and not becoming its next meal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Drengin_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Drengin_Callsign</Label>
+    <String>D.E.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Drengin_StartupTitle</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Drengin_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_1_Drengin_StartupTraitsDescription</Label>
+    <String>Drengin soldiers are savagely effective at ground-based combat, and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slaveling revolts.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_2_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Terran_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Terran_LeaderName</Label>
+    <String>Jenna Casey</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Terran_Dec</Label>
+    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Terran_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Terran_Callsign</Label>
+    <String>T.A.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Terran_StartupTitle</Label>
+    <String>Torian Trap</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Terran_StartupDescription</Label>
+    <String>With control over their core systems solidified, the Terrans turn their attention to old allies, the Torians. Trapped by the Drengin behind a fleet of Hyperspace Destabilizers, Colonel Jenna Casey will have to navigate this part of the galaxy very carefully. It has been a long time since humans have seen these stars, and new forces may have established themselves in that time.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Terran_StartupTraitsDescription</Label>
+    <String>Lead by Colonel Jenna Casey, the Terrans have sent a small expeditionary fleet tasked with freeing the Torians from Drengin rule. After first establishing a base of operations, they will have to explore this region and find some way to penetrate the Hyperspace Destabilizers placed around the Torian homeworld by the Drengin.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_2_Drengin_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Drengin_ShortName</Label>
+    <String>Drengin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Drengin_LeaderName</Label>
+    <String>Lord Kona</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Drengin_Dec</Label>
+    <String>The Drengin are a profoundly evil and warlike civilization. Exceedingly clever and vicious, there are few beings capable of meeting a Drengin and not becoming its next meal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Drengin_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Drengin_Callsign</Label>
+    <String>D.E.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Drengin_StartupTitle</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Drengin_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Drengin_StartupTraitsDescription</Label>
+    <String>Drengin soldiers are savagely effective at ground-based combat, and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slaveling revolts.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_2_Slyne_Name</Label>
+    <String>The Slyne</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Slyne_ShortName</Label>
+    <String>Slyne</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Slyne_LeaderName</Label>
+    <String>Raz-Spon Erg</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Slyne_Dec</Label>
+    <String>The Slyne are gelatinous beings capable with a natural understanding of technology, who  use a variety of cybernetic limbs and enhancements to project their will. Fickle and hard to kill, it's probably best to stay on their good side.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Slyne_LeaderDec</Label>
+    <String>Leader Description</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Slyne_Callsign</Label>
+    <String>S.E.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Slyne_StartupTitle</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Slyne_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_2_Slyne_StartupTraitsDescription</Label>
+    <String>The Slyne possess cybernetic limbs which can be swapped out as needed to suit whatever tasks the Slyne is asked to perform, making them naturally skilled shipbuilders. Additionally, their gelatinous nature makes them very difficult to kill.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_3a_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3a_Terran_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3a_Terran_LeaderName</Label>
+    <String>Jenna Casey</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3a_Terran_Dec</Label>
+    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3a_Terran_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3a_Terran_Callsign</Label>
+    <String>T.A.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3a_Terran_StartupTitle</Label>
+    <String>Power of the Telenanth</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3a_Terran_StartupDescription</Label>
+    <String>Having saved the Torians, Jenna Casey has taken the information provided by the Slyne and traveled to the location of the Shard of the Telenanth. Unfortunately the Thalans, who have foreseen a great calamity caused by humanity, have been fortifying this area for decades. The only way to get the Shard will be to go through them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3a_Terran_StartupTraitsDescription</Label>
+    <String>Led by Jenna Casey, the Terrans have sent their most powerful fleet to a distant corner of the galaxy to find a Shard of the Telenanth. Combined with the Bane which powers their flagship, the Crusader, the Shard will unlock the full destructive power of these artifacts, and forever free humanity from the tyranny of their neighbors.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_3a_Thalan_Name</Label>
+    <String>Thalan Contingency</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3a_Thalan_ShortName</Label>
+    <String>Thalans</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3a_Thalan_LeaderName</Label>
+    <String>Hithesius</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3a_Thalan_Dec</Label>
+    <String>The Thalan Contingency have come from another universe, in the hopes of stopping what they call The Terran Crusade. Which they believe will lead to the destruction of the universe if left unchecked.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3a_Thalan_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3a_Thalan_Callsign</Label>
+    <String>T.C.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3a_Thalan_StartupTitle</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3a_Thalan_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3a_Thalan_StartupTraitsDescription</Label>
+    <String>Technically advanced, the Thalans are hampered by the fact that they were unable to bring much of their technology with them into the past. They now have to recreate it from scratch, with none of the tools or power sources they're accustomed to working with.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_3b_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Terran_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Terran_LeaderName</Label>
+    <String>Jenna Casey</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Terran_Dec</Label>
+    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Terran_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Terran_Callsign</Label>
+    <String>T.A.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Terran_StartupTitle</Label>
+    <String>A New Future</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Terran_StartupDescription</Label>
+    <String>Having chosen to reject the path that would lead them to the Shard and its power, Jenna Casey and the Terrans are contacted by the Thalan Contingency. Now that humanity has chosen to refuse the power of the Telenanth, the Thalans believe the galaxy stands on a great cusp in history, with a new, better future laid open that avoids the calamity they have long warned us of. 
+
+But within that new future, another calamity looms, at the hands of the Yor Singularity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Terran_StartupTraitsDescription</Label>
+    <String>Led by Jenna Casey, the Terrans have sent their most powerful fleet to this sector to make contact with the Thalans. According to the Thalans, the Yor are on the threshold of achieving Singularity, which would unleash unforeseeable destructive energy across the galaxy. Having avoided one apocalypse, are we about to stumble into another?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_3b_Thalan_Name</Label>
+    <String>Thalan Contingency</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Thalan_ShortName</Label>
+    <String>Thalans</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Thalan_LeaderName</Label>
+    <String>Hithesius</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Thalan_Dec</Label>
+    <String>The Thalan Contingency have come from another universe, in the hopes of stopping what they call The Terran Crusade. Which they believe will lead to the destruction of the universe if left unchecked.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Thalan_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Thalan_Callsign</Label>
+    <String>T.C.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Thalan_StartupTitle</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Thalan_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Thalan_StartupTraitsDescription</Label>
+    <String>Technically advanced, the Thalans are hampered by the fact that they were unable to bring much of their technology with them into the past. They now have to recreate it from scratch, with none of the tools or power sources they're accustomed to working with.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_3b_Yor_Name</Label>
+    <String>Yor Singularity</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Yor_ShortName</Label>
+    <String>YOR</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Yor_LeaderName</Label>
+    <String>N-1</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Yor_Dec</Label>
+    <String>The Yor are a race of sentient artificial beings. They have no need for crude means for reproduction and consumption, and can instead build citizens to inhabit their worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Yor_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Yor_Callsign</Label>
+    <String>Y.S.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Yor_StartupTitle</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Yor_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_3b_Yor_StartupTraitsDescription</Label>
+    <String>The Yor are highly productive and capable of building large fleets of self-repairing vessels. They're profoundly unpopular, and few races opt to befriend them. Unlike organic races, their growth rate is a function of production capacity.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_4a_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Terran_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Terran_LeaderName</Label>
+    <String>D.L. Bradley</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Terran_Dec</Label>
+    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Terran_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Terran_Callsign</Label>
+    <String>T.A.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Terran_StartupTitle</Label>
+    <String>The Crusade</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Terran_StartupDescription</Label>
+    <String>With the Shard finally in humanity's possession, D.L. Bradley will now finally confront the greatest evil in the galaxy: the Drengin. By combining the Bane with this Shard of the Telenanth, Bradley will show the Drengin a destructive energy they have never seen before.
+
+They will be made to pay for their crimes. Never again will humanity be imperiled.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Terran_StartupTraitsDescription</Label>
+    <String>Led by Admiral D.L. Bradley, the Terrans have sent their most powerful weapon to finally end the Drengin threat.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_4a_Drengin_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Drengin_ShortName</Label>
+    <String>Drengin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Drengin_LeaderName</Label>
+    <String>Lord Kona</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Drengin_Dec</Label>
+    <String>The Drengin are a profoundly evil and warlike civilization. Exceedingly clever and vicious, there are few beings capable of meeting a Drengin and not becoming its next meal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Drengin_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Drengin_Callsign</Label>
+    <String>D.E.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Drengin_StartupTitle</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Drengin_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Drengin_StartupTraitsDescription</Label>
+    <String>Drengin soldiers are savagely effective at ground-based combat, and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slaveling revolts.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_4a_Altarian_Name</Label>
+    <String>Altarian Confederation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Altarian_ShortName</Label>
+    <String>Altarians</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Altarian_LeaderName</Label>
+    <String>Akari Malara</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Altarian_Dec</Label>
+    <String>Altarians are a deeply religious race that are kind in their interaction with others, although a bit self-righteous. For unknown reasons, they are very similar in appearance to the Terrans.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Altarian_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Altarian_Callsign</Label>
+    <String>A.R.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Altarian_StartupTitle</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Altarian_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4a_Altarian_StartupTraitsDescription</Label>
+    <String>Altarians are careful researchers, generally content, and influential with their neighbors. Their ships are known for being fast but fragile, though they can organize large fleets of them when called upon. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_4b_Terran_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Terran_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Terran_LeaderName</Label>
+    <String>Jenna Casey</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Terran_Dec</Label>
+    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Terran_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Terran_Callsign</Label>
+    <String>T.A.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Terran_StartupTitle</Label>
+    <String>A New Parity</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Terran_StartupDescription</Label>
+    <String>Furious at the insubordination and humanity's rejection of the path he laid out for them, D.L. Bradley has taken his great vessel, the Crusader, and gone to search for more power. Jenna Casey and the combined Terran fleet must now confront the Drengin on their own.
+
+Lacking the Crusader's incredible power, will they be able to turn back the Drengin theat, and finally buy some measure of peace for humanity?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Terran_StartupTraitsDescription</Label>
+    <String>Led by Jenna Casey, humanity's voice of reason, the Terrans now confront the Drengin. But without their greatest weapon, will humanity somehow be able to secure a future for themselves, and indeed, for the whole galaxy?</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_4b_Drengin_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Drengin_ShortName</Label>
+    <String>Drengin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Drengin_LeaderName</Label>
+    <String>Lord Kona</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Drengin_Dec</Label>
+    <String>The Drengin are a profoundly evil and warlike civilization. Exceedingly clever and vicious, there are few beings capable of meeting a Drengin and not becoming its next meal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Drengin_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Drengin_Callsign</Label>
+    <String>D.E.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Drengin_StartupTitle</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Drengin_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Drengin_StartupTraitsDescription</Label>
+    <String>Drengin soldiers are savagely effective at ground-based combat, and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slaveling revolts.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Crusade_4b_Thalan_Name</Label>
+    <String>Thalan Contingency</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Thalan_ShortName</Label>
+    <String>Thalans</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Thalan_LeaderName</Label>
+    <String>Hithesius</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Thalan_Dec</Label>
+    <String>The Thalan Contingency have come from another universe, in the hopes of stopping what they call The Terran Crusade. Which they believe will lead to the destruction of the universe if left unchecked.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Thalan_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Thalan_Callsign</Label>
+    <String>T.C.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Thalan_StartupTitle</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Thalan_StartupDescription</Label>
+    <String>Campaign Only</String>
+  </StringTable>
+  <StringTable>
+    <Label>Crusade_4b_Thalan_StartupTraitsDescription</Label>
+    <String>Technically advanced, the Thalans are hampered by the fact that they were unable to bring much of their technology with them into the past. They now have to recreate it from scratch, with none of the tools or power sources they're accustomed to working with.</String>
+  </StringTable>
+ 
+ 
+</StringTableList>

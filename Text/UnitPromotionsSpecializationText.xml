@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- UnitPromotionsSpecializationText.xml -->
+ 
+  <StringTable>
+    <Label>Promotion_Minister_Name</Label>
+    <String>Minister</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Minister_Dec</Label>
+    <String>A department is far more effective when it has political support, and nothing communicates that like installing a Minister there.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Minister_ActionTriggerDec_0</Label>
+    <String>[ICON=Stat_Admin_Icon] Provides 5 more administrative resources. </String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Minister_ActionTriggerDec_1</Label>
+    <String>[ICON=Cruel_Trait_Icon] Minister retires.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Mobster_Name</Label>
+    <String>Mobster</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Mobster_Dec</Label>
+    <String>It's amazing how many people are willing to do things for you when you subtly threaten their life. Or explicitly. The Mobster can go both ways.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Mobster_ActionTriggerDec_0</Label>
+    <String>[ICON=Stat_Maintenance_Icon] -100% Colony Maintenance</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Supreme_General_Name</Label>
+    <String>Supreme General</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Supreme_General_Dec</Label>
+    <String>One of the keenest military minds in our civilization. Looks good in a uniform, too.  A Supreme General increases Legions.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Supreme_General_ActionTriggerDec_0</Label>
+    <String>[ICON=Stat_Invading_Legion_Icon] Recruits 5 additional Legions</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Admiral_Name</Label>
+    <String>Admiral</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Admiral_Dec</Label>
+    <String>After spending a lifetime amongst the stars, the Admiral knows more about space combat than anyone alive. And loneliness. Upgrades to a Flagship which gives a powerful fleet wide bonus.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Admiral_ActionTriggerDec_0</Label>
+    <String>[ICON=ProductionSubWnd_Military_Entry] Upgrades Command ship to Flag ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Navigator_Name</Label>
+    <String>Navigator</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Navigator_Dec</Label>
+    <String>No-one sees the folds of space better or can cut the corners of reality quite like a Navigator. Upgrades  to Star Surfer, a powerful long-range survey ship.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Navigator_ActionTriggerDec_0</Label>
+    <String>[ICON=ProductionSubWnd_Military_Entry] Upgrades Command ship to Navigator ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Invader_Name</Label>
+    <String>Invader</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Invader_Dec</Label>
+    <String>The survivor of countless battles, and an expert on all forms of combat, the Invader hasn't met an alien yet that he can't subdue. Upgrades to a powerful Transport for invasions.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Invader_ActionTriggerDec_0</Label>
+    <String>[ICON=ProductionSubWnd_Military_Entry] Upgrades Command ship to Transport.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Privateer_Name</Label>
+    <String>Privateer</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Privateer_Dec</Label>
+    <String>A master of tricks and subterfuge, the Privateer can harry the enemy without letting them know who they really work for. Converts ship into a powerful ship that seemingly belongs to no Civilization. </String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Privateer_ActionTriggerDec_0</Label>
+    <String>[ICON=ProductionSubWnd_Military_Entry] Upgrades Command ship to Privateer.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Exterminator_Name</Label>
+    <String>Exterminator</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Exterminator_Dec</Label>
+    <String>A heartless genius, but aren't they all, the Exterminator can use their cruel gift to wipe out all the life on a world. Converts ship into a deadly Spore ship capable of eradicating all Biological life on a planet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Exterminator_ActionTriggerDec_0</Label>
+    <String>[ICON=ProductionSubWnd_Military_Entry] Upgrades Command ship to Spore ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Martyr_Name</Label>
+    <String>Martyr</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Martyr_Dec</Label>
+    <String>No-one loves our people (or hates the enemy) like the Martyr. They'll give everything to see our people prosper. Upgrades to Martyr which destroys itself and any enemy fleet it comes into contact with.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Infiltrator_Name</Label>
+    <String>Infiltrator</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Infiltrator_Dec</Label>
+    <String>You could stare right at them and not know what they look like, the Infiltrator's only defining feature being their incredibly sticky fingers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Infiltrator_ActionTriggerDec_0</Label>
+    <String>[ICON=Stat_Research_Icon] Infliltrator steals a random tech before getting caught.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Worker_Crunch Time_Name</Label>
+    <String>Crunch Time</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Worker_Crunch Time_Dec</Label>
+    <String>Your workers tend to burn out when forced to work crunch time, but if you need a project done right now, what choice do you have? Worker finishes planet's current project and becomes a Retiree.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Worker_Recall_Name</Label>
+    <String>Recall</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Worker_Recall_Dec</Label>
+    <String>Don't leave a productive worker spinning their wheels somewhere. Reassign them where they'll be more useful. Worker leaves the planet to work for the government or be sent somewhere else.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Worker_Recall_ActionTriggerDec_0</Label>
+    <String>[ICON=Stat_Productive_Icon] Worker is recalled to global pool.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Worker_Forced_labor_Name</Label>
+    <String>Forced labor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Worker_Forced_labor_Dec</Label>
+    <String>Forced labor tends to burn up workers, but there's not arguing with the results. Unless you're the worker.
+Generates a burst of Social Construction on target planet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Worker_Forced_labor_TriggerName_0</Label>
+    <String>Forced labor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Worker_Forced_labor_ActionTriggerDec_0</Label>
+    <String>[ICON=Cruel_Trait_Icon] Worker retires.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Worker_Overtime_Name</Label>
+    <String>Overtime</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Worker_Overtime_Dec</Label>
+    <String>It tends to shorten their careers, but overtime can certainly make your workers more productive for a short time. Overtime provides short burst to Social Constuction for all your colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Worker_Overtime_TriggerName_0</Label>
+    <String>Worker Overtime</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Worker_Overtime_TriggerDec_0</Label>
+    <String>[ICON=Stat_Productive_Icon] Global Bonus for 10 turns.  </String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Worker_Overtime_ActionTriggerDec_0</Label>
+    <String>[ICON=Cruel_Trait_Icon] Worker retires.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Epiphany_Name</Label>
+    <String>Epiphany</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Epiphany_Dec</Label>
+    <String>They might not manage anything else in their careers, but few will care if a scientist makes a breakthrough big enough.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Epiphany_ActionTriggerDec_0</Label>
+    <String>[ICON=Total_Research_Stat_Icon] Finishes current research project. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Coerced_Invention_Name</Label>
+    <String>Coerced Invention</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Coerced_Invention_Dec</Label>
+    <String>Even creative work can be forced, though it does tend to burn out the minds doing it. The sacrifice returns a large amount of research.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Coerced_Invention_ActionTriggerDec_0</Label>
+    <String>[ICON=Total_Research_Stat_Icon] Provides massive one-turn research boost. </String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Coerced_Invention_ActionTriggerDec_1</Label>
+    <String>[ICON=Cruel_Trait_Icon] Scientist retires.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Scientist_Recall_Name</Label>
+    <String>Recall</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Scientist_Recall_Dec</Label>
+    <String>Sometimes you need to move a researcher where they can do more good.  To a planet with better microscopes? Sure.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Scientist_Recall_ActionTriggerDec_0</Label>
+    <String>[ICON=Total_Research_Stat_Icon]  Scientist is recalled to global pool.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Bumper_Crop_Name</Label>
+    <String>Bumper Crop</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Bumper_Crop_Dec</Label>
+    <String>If you need food now, your farmers can probably get it for you. They just might reconsider their careers when they're done. Bumper crop increases planetary food production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Bumper_Crop_TriggerName_0</Label>
+    <String>Bumper Crop</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Bumper_Crop_TriggerDec_0</Label>
+    <String>Bumper Crop</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Bumper_Crop_ActionTriggerDec_0</Label>
+    <String>[ICON=Cruel_Trait_Icon] Farmer Retires</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Engineer_Forced_Labor_Name</Label>
+    <String>Forced labor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Engineer_Forced_Labor_Dec</Label>
+    <String>Engineers can't lift much themselves, but they can tell people how to lift things better. The resulting unpopularity tends to shorten their careers though. This generates a burst of shipyard Construction.
+</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Engineer_Forced_Labor_TriggerName_0</Label>
+    <String>Forced Labor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Engineer_Forced_Labor_TriggerDec_0</Label>
+    <String>[ICON=Stat_Productive_Icon] 1000 Ship Construction point.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Engineer_Forced_Labor_ActionTriggerDec_0</Label>
+    <String>[ICON=Cruel_Trait_Icon] Engineer Retires</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Engineer_Crunch_Time_Name</Label>
+    <String>Crunch Time</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Engineer_Crunch_Time_Dec</Label>
+    <String>When a ship needs to get done right this very instant, the welfare of your Engineers sometimes takes a backseat. The sacrifice finishes the nearest shipyard's project.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Engineer_Crunch_Time_ActionTriggerDec_0</Label>
+    <String>[ICON=MilitaryManufacturingStatIcon] Finishes ship construction project.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Engineer_Crunch_Time_ActionTriggerDec_1</Label>
+    <String>[ICON=Cruel_Trait_Icon] Engineer dies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Engineer_Recall_Name</Label>
+    <String>Recall</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Engineer_Recall_Dec</Label>
+    <String>Move an Engineer to where they're needed most. They honestly don't mind.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Engineer_Recall_ActionTriggerDec_0</Label>
+    <String>[ICON=Engineers_Ability_Icon]  Engineer is recalled to global pool.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Scholar_Name</Label>
+    <String>Scholar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Scholar_Dec</Label>
+    <String>A little bit of theoretical knowledge can improve the productivity of almost any enterprise.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Ambassador_Name</Label>
+    <String>Ambassador</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Ambassador_Dec</Label>
+    <String>No-one knows local customs and cool alien handshakes quite like an Ambassador. Ambassadors generate 10 influence points per turn on whatever planet they are on.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Statesmen_Name</Label>
+    <String>Statesmen</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Statesmen_Dec</Label>
+    <String>A diplomat can retire to the quiet life of a statesmen. But in the process they can generate 1000 influence for the planet they are currently settled on.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Diplomat_Recall_Name</Label>
+    <String>Recall</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Diplomat_Recall_Dec</Label>
+    <String>Move your Ambassadors where they're needed most. To the people who really like you, maybe. Or the ones who really, really hate you.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Mogul_Name</Label>
+    <String>Mogul</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Mogul_Dec</Label>
+    <String>The Entrepreneur takes his company public generation a vast fortune for himself and a capital gains for the government of 5000bc. Retires upon completion.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Mogul_TriggerName_0</Label>
+    <String>Mogul</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Mogul_TriggerDec_0</Label>
+    <String>[ICON=Wealthy_Icon] Provides 5,000bc.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Mogul_ActionTriggerDec_0</Label>
+    <String>[ICON=Cruel_Trait_Icon] Mogul Retires.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Saboteur_Name</Label>
+    <String>Saboteur</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Saboteur_Dec</Label>
+    <String>An expert in explosives, infrastructure, and treachery, the Saboteur will wreck your enemy's whole day, and then some.
+[ICON=Stat_Productive_Icon] Irridiates the planet. Requires Level 5.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Promotion_Galactic_Tour_Name</Label>
+    <String>Galactic Tour</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Galactic_Tour_Dec</Label>
+    <String>Sending your Celebrity out on tour will help increase your Influence (and their album sales) tremendously. The tour increases your global Influence by a modest amount. </String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Galactic_Tour_TriggerName_0</Label>
+    <String>Galactic Tour</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Galactic_Tour_TriggerDec_0</Label>
+    <String>Galactic Tour</String>
+  </StringTable>
+  <StringTable>
+    <Label>Promotion_Galactic_Tour_ActionTriggerDec_0</Label>
+    <String>[ICON=Cruel_Trait_Icon] Celebrity Retires.</String>
+  </StringTable>
+ 
+ 
+ 
+</StringTableList>

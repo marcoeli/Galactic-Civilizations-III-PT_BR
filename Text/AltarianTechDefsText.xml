@@ -1,0 +1,1664 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- AltarianTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>AltarianTechTree_Name</Label>
+    <String>Altarian Tech Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianTechTree_ShortDec</Label>
+    <String>Tech tree focused on Research and Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianTechTree_Dec</Label>
+    <String>Tech tree focused on Research and Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianColonizationTech_Dec</Label>
+    <String>We finally have the technology to reach out and take the stars, thus steering Altaria to her destiny. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianXenoIndustrializationTech_Dec</Label>
+    <String>Everything is harder on the surface of an alien world. But nothing so difficult that it can't be surpassed by Altarian ingenuity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianIndustrialSpecialization1_Dec</Label>
+    <String>Our engineers have managed to find workarounds for some of the issues we've experienced when manufacturing things on alien worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianIndustrialSpecialization2_Dec</Label>
+    <String>If we expand our research capacity, Altarian scientists will be able to make breakthroughs more easily than they already do.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianIndustrialSpecialization3_ShortDec</Label>
+    <String>Makes manufacturing and research buildings cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianIndustrialSpecialization3_Dec</Label>
+    <String>Altarians rarely make mistakes, and when we do, we don't make them twice. We've fixed some problems we've found in our construction practices, which should make all new construction a bit cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianAdvancedConstruction_Dec</Label>
+    <String>New materials, and the equipment to handle them, will make our workers even more effective than they had been.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianConstructionOptimization1_Dec</Label>
+    <String>Every time we change our manufacturing tools a new batch of inefficiencies appear. Once these are addressed, we'll be much closer to achieving our true potential.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianConstructionOptimization2_Dec</Label>
+    <String>Cost effective manufacturing is something all Altarians can appreciate, as it leaves more money left over for social programs and other benefits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianConstructionOptimization3_Dec</Label>
+    <String>If we can make our manufacturing processes even slightly less impactful to the environment, we can reduce the cost of running these plants greatly.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianXenoManufacturingMethods_Dec</Label>
+    <String>Adapting our most precise manufacturing processes to the range of environments they now have to be installed in was surprisingly challenging. But now Altarians can enjoy the safest and most advanced manufacturing facilities anywhere in our civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianManufacturingFocus1_Dec</Label>
+    <String>We can't pretend that everyone will welcome or even understand Altarian wisdom. Improving our military manufacturing is a sad, but very prudent step.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianManufacturingFocus2_Dec</Label>
+    <String>The Altarian people will gladly endorse any improvements we can make when building social and other civilian facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianManufacturingFocus3_Dec</Label>
+    <String>With wisdom and prudence, Altarians can make even our most advanced manufacturing processes more efficient and less costly.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianIndustrialExpertise_Dec</Label>
+    <String>With the latest atomic manipulation tools, Altarian engineers can now create objects with unparalleled precision and complexity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianIndustrialMastery1_Dec</Label>
+    <String>Our people will understand that we will never lead this galaxy to greatness without the help of a powerful military. Even the best ideas need force behind them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianIndustrialMastery2_Dec</Label>
+    <String>Whether farms, parks, or hospitals, everything that makes our worlds the most livable in the galaxy, costs money to build. But now a bit less so.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPracticalFusion_Dec</Label>
+    <String>Making cascading fusion reactions safe enough for civilian use has taken a great deal of ingenuity. And although some risk remains, we trust our people to be mature and responsible in their use of this technology.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianQuantumPower_Dec</Label>
+    <String>Quantum zero point energy can now be tapped by our latest power plants, providing access to a massive source of power, securing Altaria's place at the forefront of the galaxy in both research and manufacturing.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianXeonMysticism_Name</Label>
+    <String>Xeno Mysticism</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianXeonMysticism_ShortDec</Label>
+    <String>Allows construction of the Social Matrix.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianXeonMysticism_Dec</Label>
+    <String>The Social Matrix provides a place for all Altarians to interact with and judge their peers, increasing productivity in both manufacturing and research sectors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPrecursorHistory1_Name</Label>
+    <String>Way of the Arnor</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPrecursorHistory1_ShortDec</Label>
+    <String>Increases Research and Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPrecursorHistory1_Dec</Label>
+    <String>Our appreciation of the wisdom and intelligence of our Arnor precursors will give every planet in our civilization a boost to its research efforts, and make it more influential amongst its neighbors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPrecursorHistory2_Name</Label>
+    <String>Way of the Dread Lords</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPrecursorHistory2_ShortDec</Label>
+    <String>Boost military production and soldiering </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPrecursorHistory2_Dec</Label>
+    <String>Our appreciation of the strength of will possessed by the Dread Lords, gives every planet in our civilization a boost to its military production capacity, and makes all of our soldiers more effective.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDarkEnergeyReseach_Name</Label>
+    <String>Dark Energy Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDarkEnergeyReseach_ShortDec</Label>
+    <String>Allows construction of the Dark Energy Lab.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDarkEnergeyReseach_Dec</Label>
+    <String>The Dark Energy Lab uses the secret energy source of the Precursors to provide a massive bonus to research and production on a planet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInstitutionalResearch_Dec</Label>
+    <String>If we provide a dedicated place for Altarian thinkers to observe the physical world, we can expect research breakthroughs to occur much more frequently.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianResearchOptimization1_Dec</Label>
+    <String>By listening to the concerns and suggestions of our scientists, and immediately acting upon them, we've been able to streamline and improve our research practices a bit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianResearchOptimization2_Dec</Label>
+    <String>There's no reason that even something as important as research can't be done cost effectively. Our people will not abide by any waste, no matter how well intentioned.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianResearchOptimization3_Dec</Label>
+    <String>Our labs are full of valuable and fragile equipment. If we can extend the lifespan of this equipment even a bit, we should make our research centers much cheaper to operate.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianResearchCenters_Dec</Label>
+    <String>Altarians are naturally gifted in the study of scientific fields, and our research labs are already the envy of the galaxy. These new Research Centers will help extend our advantage even further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianIntegratedResearch_Dec</Label>
+    <String>Our people are so interested in unlocking the secrets of the universe that our research labs are overflowing with qualified researchers. We shall require larger academies to accommodate them all.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianResearchMatrixTech_Dec</Label>
+    <String>Millions of scientists in a massive city-sized facility will be able to make breakthroughs faster than we ever imagined. The greater challenge is simply keeping the scientists happy, but our people have always been pretty good about that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDeeperKnowledge_Dec</Label>
+    <String>The ease with which our researchers grasp deep patterns is the envy of the galaxy. Setting up special centers to study these deep patterns will set us even further ahead.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianQuantumUnderstanding_Dec</Label>
+    <String>Our researchers and philosophers are beginning to finally grasp the inner workings of the sub-atomic world, leading to surprising breakthroughs in almost every field.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianBeyondMortality_Dec</Label>
+    <String>Ascension is what Altaria has long been striving towards, the reward we have long deserved. It will make us immortal and lead us into the reality that is beyond this one.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianResearchCoordination_Dec</Label>
+    <String>It is sometimes amusing to see other species struggle with basic matters of coordination which come so naturally to Altarians. Our new Research Coordination Centers should help boost our research efforts even more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianNeroLinking_Dec</Label>
+    <String>The ethical considerations of direct brain-to-brain networks are troubling, and although the research benefits will be obvious, we shall monitor their deployments carefully to ensure the quality of life of our researchers isn't impacted.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPlanetaryImprovement_Name</Label>
+    <String>Planetary Improvement</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPlanetaryImprovement_Dec</Label>
+    <String>Making social and civic structures on an alien planet may seem a waste of resources, but if we want to ensure Altarians everywhere have an acceptably high quality of life, we have to do just that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPlanetarySpecialization1_Dec</Label>
+    <String>If we dedicate some of our research to improving crop yields, we should be able to accommodate higher populations in all of our colonies. The more the merrier.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPlanetarySpecialization2_Dec</Label>
+    <String>By helping our colonists with the challenges of raising children on an alien world, we should be able to encourage a more rapid rate of population growth.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPlanetarySpecialization3_Dec</Label>
+    <String>Our scientists have found a way to increase the nutrient density of our food, meaning our workers can now work that little bit harder each day, increasing production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianXenoAgriculturalAdaptation_Dec</Label>
+    <String>Advanced farms will enable us to grow more food than ever before, even on the strange alien worlds Altarians now so often find themselves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianAgriculturalOptimization1_Dec</Label>
+    <String>Altarians are very particular about their food, and it has taken much work to make plants grown in alien environments palatable to them. But now that we have, we expect to see improved food production. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianAgriculturalOptimization2_Dec</Label>
+    <String>Altarians' natural inclination towards efficiency has made our farmers better able to predict in advance what farming equipment a colony will need before its formed, leading to lower startup costs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianAgriculturalOptimization3_Dec</Label>
+    <String>We recently reevaluated some older, pre-spaceflight agricultural techniques, and realized that not only would some of them be suitable for use on alien worlds, they could cut our maintenance costs substantially.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianIntensiveFarming_Dec</Label>
+    <String>When usable land is tight, we need to get the most possible food out of our soil, and thanks to Altarian ingenuity, we can now do just that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianFarmingFocus1_Dec</Label>
+    <String>The microbes present in alien soil react differently to nutrients than on Altaria. It will require some careful tuning of our fertilization techniques to find the right balance, but once that's done, we should be able to boost our crop yield.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianFarmingFocus2_Dec</Label>
+    <String>We've finally homed in on the species and strains of plants which adapt to the widest range of environments, meaning the costs of running farms should decrease a bit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianFarmingFocus3_Dec</Label>
+    <String>Altarians love sharing their wisdom with others, and by implementing civilization-wide information sharing systems, we can spread our farmers' best practices, reducing farming operational costs everywhere.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianLosslessFarming_Dec</Label>
+    <String>Our farmers have been able to develop almost perfectly efficient farms, wasting no water or nutrients whatsoever. All Altarians owe them a great debt.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianFoodDistributionTech_Dec</Label>
+    <String>If we improve our food storage and distribution systems, we'll save a lot of food which had previously gone to waste, indirectly increasing production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianXenoIrrigation_Dec</Label>
+    <String>Irrigating alien planets is a surprisingly complicated problem, with few universal solutions. But there's no challenge too great for Altarians to tackle, and the benefits we expect this to have for our agricultural sector will be significant.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPopulationEnhancement_Dec</Label>
+    <String>All Altarians understand the wisdom and need for making more Altarians. But sometimes they also need a little more help than just kind words. Fertility centers should provide that help.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianBioReplication_Dec</Label>
+    <String>Bio-replication is a very troubling technology, which we implement only reluctantly. But the benefit to our birthrates are undeniable, as is the fact that the galaxy will be better with more Altarians in it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianEnvironmentalEngineering_Dec</Label>
+    <String>If we can begin enhancing the environment to suit our colonists' needs, we'll be able to make our colonies safer, more productive, and happier places to live.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianExtremeWorldColonization_Dec</Label>
+    <String>Altarian colonists are far braver and more resilient than many of our galactic peers, and readily accept the challenge of colonizing difficult worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianColonizationFocus1_Dec</Label>
+    <String>We've been able to make life on aquatic worlds almost as comfortable as anywhere else in our great civilization. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianColonizationFocus2_Dec</Label>
+    <String>Altarians have adapted so well to frozen worlds that their productivity and quality of life is as great there as anywhere else.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianColonizationFocus3_Dec</Label>
+    <String>It shouldn't have been much surprise to find that Altarians were well suited to obeying the harsh water recycling regulations required for living on a barren world.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianAtmosphericCleansing_Dec</Label>
+    <String>Even the foulest and most toxic planetary environments can now be colonized by those Altarians dedicated enough to do so.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianBiospherePerfection1_Dec</Label>
+    <String>Our people had little patience for the mutations faced by the early colonists of these worlds. The Altarian body is perfection, and must remain sacrosanct. But thanks to the latest technology, those mutations are a thing of the past.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianBiospherePerfection2_Dec</Label>
+    <String>We have mastered the challenges of living on even the most poisonous of planets. Altarians scoff at the lesser species, incapable of using every part of this galaxy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianTerraformingTech_Dec</Label>
+    <String>Terraforming requires a certain sensitivity, which Altarians seem to possess in abundance, clearly seeing the wisdom of balancing the needs of a planet's eco-system with those of its newest residents.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHabitatImprovement_Dec</Label>
+    <String>We can now repurpose even the most useless land for our civilization's needs. Finally Altarians are capable of correcting the mistakes nature made on these filthy alien planets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianParadiseWorlds_Name</Label>
+    <String>Paradise Worlds</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianParadiseWorlds_ShortDec</Label>
+    <String>Allows construction of the ultimate terraforming plants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianParadiseWorlds_Dec</Label>
+    <String>There's no reason Altarians should settle for anything less than perfection. It is our destiny. And with the latest terraforming technology, now we don't have to.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianSoilReclamation_Dec</Label>
+    <String>We can now terraform just about any terrain on a planet, reclaiming it from the natural processes which let it go to waste.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianEngineeringTech_Dec</Label>
+    <String>Our brothers, the Terrans, and their invention the 'hyperdrive' have made space travel immensely more practical. Although we fear the effect this will have on galactic stability, we cannot allow Altaria to fall behind in the race to expand.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInterstellarTravel_Dec</Label>
+    <String>Adapting our spaceships to accommodate hyperdrives has revealed opportunities for improvement in our sensors, life support, and even the designs of the hyperdrives themselves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInterstellarSpecialization1_Dec</Label>
+    <String>Of course Altarian minds would find ways to improve upon this Terran invention; it was only a matter of time. Our researchers have come up with a few ways to improve the speed of all of our  ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInterstellarSpecialization3_Dec</Label>
+    <String>We must spare no expense to ensure the safety and comfort of our space-faring crews. That improving their life support systems will increase our ships' effective range is but a happy coincidence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianIonDriveTech_Dec</Label>
+    <String>Magnetic fields can capture ions during hyperdrive flight, which can be added to the reactant of our engines, increasing the overall speed and efficiency of our hyperdrives. The stars, and Altaria's destiny, just got a little bit closer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianIonOptimization1_Dec</Label>
+    <String>Tuning the magnetic fields of our Ion Drives is a complicated chore, and it's taken awhile for our ship's crews to find out what works best. But now that they have, we should see improved speeds across all of our fleets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianIonOptimization2_Dec</Label>
+    <String>Our internal programs to identify cost savings measures have paid off, identifying a number of ways to reduce the costs of manufacturing our existing hyperdrives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianIonOptimization3_Dec</Label>
+    <String>If we focus on making our hyperdrives smaller, that will leave more room for other ship components. It's terribly inefficient just sending an engine out there.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianWarpFieldTheory_Dec</Label>
+    <String>Our engineers have found a way to enhance the space-bending properties of hyperdrives, essentially by stacking them up. These new "warp" engines are much more powerful than their predecessors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianWarpFieldFocus1_Dec</Label>
+    <String>Our newly stacked hyperfields can be manipulated in a number of surprising ways. The simplest of these will lead to a slightly increased speed for all of our Warp Drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianWarpFieldFocus2_Dec</Label>
+    <String>Our practice of educating even our lowliest workers has resulted in a workforce capable of discovering cost savings entirely on their own. All of our drives will now be a bit cheaper thanks to their efforts. And our foresight.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianWarpFieldFocus3_Dec</Label>
+    <String>A careful review of our procurement policies has revealed that we can begin using new, smaller field generators in our warp drives without losing any system output.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHyperwarpWaves_Dec</Label>
+    <String>Our clever engineers have come up with a new technology called "Hyperwarp," which uses cascading warp fields to allow our drives to compress already compressed space. All of Altaria swells with pride at their brilliance.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHyperwarpMastery1_Dec</Label>
+    <String>The most truly remarkable thing about our drives, is that despite their incredible power, they're able to be manufactured for so cheaply. Our neighbors surely wonder how we do it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHyperwarpMastery2_Dec</Label>
+    <String>There is something very pleasing, very Altarian, about squeezing the most power out of the smallest possible drive. Like we're achieving something a little bit closer to perfection.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianStellarFoldingTech_Dec</Label>
+    <String>The universe itself now groans under Altarian brilliance, our new drives bending space on a scale never seen before. Ships fitted with these drives will be almost impossibly fast. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHyperfieldProjection_Dec</Label>
+    <String>Our engineers have found a clever way to expand the scope of our hyperfield waves, letting a properly equipped ship increase the drive efficiency of an entire fleet. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianGravityFieldManipulation_Dec</Label>
+    <String>Properly applied artificial gravity fields should be able to increase the lateral movement of our ships in the sad but sometimes necessary occasions they need to enter combat.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHyperfieldDisruption_Dec</Label>
+    <String>The same technology we use to boost our fleet's speeds can now be used to limit the speed of enemy ships. We shall give them time to reconsider their hostile nature.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianStellarFieldProjection_Dec</Label>
+    <String>Stellar Field Projectors make our fleet speed enhancing modules even more effective, and will allow our slowest ships to keep pace with our latest and greatest.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInterstellarSurvey_Dec</Label>
+    <String>Improved sensors will allow our ships to see where they're going before they get there, and improve their ability to survey planets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianSensorOptimization1_Dec</Label>
+    <String>Some minor tweaks to the data-handling and pattern matching algorithms of our sensor systems should be able to make them slightly more effective.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianSensorOptimization2_Dec</Label>
+    <String>Our hyperfield detectors were originally constructed a bit haphazardly. Sensor-specific manufacturing processes should lead to some cost savings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianSensorOptimization3_Dec</Label>
+    <String>It shouldn't take much effort to lighten our sensor systems, with much of our work in the field to date being quite crude and primitive. Well. Crude and primitive to us. The rest of the galaxy surely would think differently.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianEnergyFieldSensors_Dec</Label>
+    <String>Altarians were certainly the first to realize how to detect the fields emitted by their hyperdrives. And our latest advances in the study of this field should improve our sensor edge even more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianEnergyFieldFocus1_Dec</Label>
+    <String>A brilliant young Altarian has come up with a way to increase the effectiveness of our sensor systems. He has been given the greatest pat on the back our people can award.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianEnergyFieldFocus2_Dec</Label>
+    <String>Sensors are a necessary part of space exploration, but that's no reason to be extravagant with them, when our people cry out for so many other things. We should make an effort to reduce the cost of our sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianEnergyFieldFocus3_Dec</Label>
+    <String>High-density field detection components will lead to lighter, and more compact sensor systems, leaving more room for not just seeing the galaxy, but asserting our will on it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianSubspaceSensors_Dec</Label>
+    <String>Subspace sensors will let our ships use one of the dimensions parallel to our own to see much further than ever before.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianSensorMastery1_Dec</Label>
+    <String>Sensors as powerful as ours don't come cheaply. Anything we can do to reduce their costs should be pursued immediately.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianSensorMastery2_Dec</Label>
+    <String>Now that the bulk of our sensing is done in parallel dimensions, much of the equipment no longer has to exist in ours. By shifting this workload to equipment stored "elsewhere" we can reduce the mass of our sensor systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianTargetingAssistTech_Dec</Label>
+    <String>In combat, Altarian vessels are always more inclined to triumph via cleverness and precision rather than brute force. To that end, our latest targeting and stealth systems should help improve our aim while confusing our enemy's.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInherentMagic_Name</Label>
+    <String>Inherent Talent</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInherentMagic_ShortDec</Label>
+    <String>Increases accuracy and interferes with enemy targeting.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInherentMagic_Dec</Label>
+    <String>We've been able to develop control systems which take advantage of Altarians' natural gifts for rapid thinking and positioning, which should greatly improve the effectiveness of our targeting and counter measure systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianTargetingSupport_Dec</Label>
+    <String>With a bit of work, we should be able to make support modules capable of improving an entire fleet's targeting and  tactical evasion abilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianXenoArcheology_Dec</Label>
+    <String>The artifacts left behind by the race we're calling the Precursors have incredible properties. Few races are open-minded enough even to detect these relics, much less decipher them. Fortunately, Altarians are.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPrecursorStudies_Dec</Label>
+    <String>Our leading minds have developed a translational codex which should greatly speed up our efforts to study the Precursors and their artifacts.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPrecursorRelicFocus1_Dec</Label>
+    <String>Adapting Precursor technology to enhance our own research is challenging to say the least; their technology is just so far beyond ours. But we're getting better at bridging that gap.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPrecursorRelicFocus2_Dec</Label>
+    <String>Altarians love the Precursors, and feel that were they alive today, they would surely prefer our race above all others. If we publicize every Precursor artifact we discover, we can capitalize on these cultural benefits even more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPrecursorRelicFocus3_Dec</Label>
+    <String>Discovering a new Precursor relic often boosts the local economy, as manufacturers scramble to replicate a its appearance or effects. If we study what's most marketable, we might be able to increase this economic effect a bit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPrecursorExploitation_Dec</Label>
+    <String>This latest generation of specialized equipment and facilities will help boost our Precursor research efforts considerably. Slowly their secrets are unraveling for us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPrecursorEngineering_Dec</Label>
+    <String>Extremely advanced fabrication equipment will be needed to recreate the most advanced Precursor technology. All of Altaria trembles in anticipation of what breakthroughs we will discover next.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPrecursorUnderstanding_Dec</Label>
+    <String>We understand the Precursors better than any other species in the galaxy. Were they alive today, they would surely greet us as equals.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianLifeSupport_Dec</Label>
+    <String>We will not send any Altarian into space without doing absolutely everything we can to ensure their return. Cutting edge life support systems will not only protect their health, but extend the operating range of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianLifeSupportOptimization1_Dec</Label>
+    <String>Some careful analysis of our life support systems have revealed a number of small improvements we can make to improve crew comfort and extend each ship's range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianLifeSupportOptimization2_Dec</Label>
+    <String>Although there is obvious merit to saving costs on our life support systems, we have to make absolutely sure our crews know we're not compromising their safety.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianLifeSupportOptimization3_Dec</Label>
+    <String>There's no reason even something as important as life support shouldn't be as mass-efficient as possible. All of ours ships will benefit from weight savings found here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianSupportFieldGeneration_Dec</Label>
+    <String>Few people care more about the welfare of their explorers than the Altarians. The latest generation of field based processors should ensure our crews are safely cared for, and our ship's ranges as extended as possible.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianSupportFieldFocus1_Dec</Label>
+    <String>Our new field based life support is incredibly complicated, with much possible room for improvement. Our crews report that these systems are a little humiliating to use, so we might want to start there. Or we could just increase our ship's ranges again.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianSupportFieldFocus2_Dec</Label>
+    <String>Making our life support systems cheaper is a touchy subject among Altarians, and has been the subject of many scathing news programs. We must ensure these efforts don't endanger our crews in any way. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianSupportFieldFocus3_Dec</Label>
+    <String>More efficient field generators should help us reduce the mass of our life support systems a bit, without compromising ship range or crew comfort.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPromethionSupportSystems_Dec</Label>
+    <String>Promethion Support Systems use fields to pipe all necessary nutrients directly into our crew members. It's not the most pleasant experience, but even Altarians must learn to suffer sometimes, especially if it gives our ships more range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianLifeSupportMastery1_Dec</Label>
+    <String>Our natural interest in maximizing crew comfort and safety has made our life support systems not only effective, but cost effective as well.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianLifeSupportMastery2_Dec</Label>
+    <String>Miniaturizing our Promethion field effectors has allowed us to embed those effectors directly in the nutrient sludge, leading to a number of different weight and volume savings in our life support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianLosslessSupportSystems_Dec</Label>
+    <String>Our life support systems are now almost perfectly efficient, recycling all generated waste products into fresh nutrients. Altarian crews have never traveled in such comfort. Or as far.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianSupportFieldMastery_Dec</Label>
+    <String>Field based life support and uniform nutrient blocks let us share life support responsibilities among different vessels in a properly equipped fleet. This same technology can allow starbases to supplement nearby ships' ranges.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianExplorationExtention_Dec</Label>
+    <String>Our fleet and starbase based life support modules have been enhanced with the latest Promethion technology, increasing a fleet's total potential travel range even more. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianOrbitalManufacturing_Dec</Label>
+    <String>If we can move our construction operations into orbit, we'll be able to build far larger structures. We just need to find a way to do it safely. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianOrbitalSpecialization1_ShortDec</Label>
+    <String>Increases Starport manufacturing.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianOrbitalSpecialization1_Dec</Label>
+    <String>Enhanced training programs for our orbital workers should result in safer work environments, and increased manufacturing capability.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianOrbitalSpecialization3_Dec</Label>
+    <String>Large scale manufacturing in orbit is a huge organizational challenge. Fortunately, our people's intelligence and patience make them well suited to tackle challenges like this.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianOrbitalSpecialization2_Dec</Label>
+    <String>Our hulls are too valuable to waste space in. Even the smallest efficiencies in carrying capacity are worth hunting down.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianZeroGravityConstruction_Dec</Label>
+    <String>Despite the challenges of micro-G construction, it wasn't going to take Altarians long to figure out the best way of building things in space, and now that we have a bit of practice, we can build even larger vessels.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianZeroGravityOptimization1_Dec</Label>
+    <String>One of our brilliant young engineers has discovered a new and efficient method of reinforcing hulls, making our ships tougher for essentially no extra cost. Her work serves as a shining example of Altarian exceptionalism.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianZeroGravityOptimization3_Dec</Label>
+    <String>We've put a lot of work into planning the most efficient hull construction practices, and are starting to see the benefits of this effort, in the form of cheaper hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianZeroGravityOptimization2_Dec</Label>
+    <String>By making some of our structural elements hollow, we can place minor ship components in those voids, saving weight and room for other equipment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianLargeScaleConstruction_Dec</Label>
+    <String>Larger space ship hulls will give the Altarian navy a greater degree of authority in the parts of the galaxy that aren't naturally blessed with Altarian presence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianOrbitalConstructionFocus1_Dec</Label>
+    <String>Glory to Altarian ingenuity! Research on the effect of micro-cavities has resulted in a new generation of hulls which will behave more predictably under impact, making them stronger and more resilient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianOrbitalConstructionFocus3_Dec</Label>
+    <String>A dedicated effort to improve the tools and techniques our workers use when manufacturing hulls will allow them to build hulls cheaper and more safely than ever before.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianOrbitalConstructionFocus2_Dec</Label>
+    <String>Altarians despise wasteful practices, and some of our most recent hulls, we're ashamed to admit, haven't been as efficiently designed as possible. We will correct these errors and, in doing so, increase our hulls' usable space right away.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianMassiveScaleConstruction_Dec</Label>
+    <String>Altarians have never had cause to fear anyone, and with our latest ships now we'll never need to. The backwards races of this galaxy will no longer stand between us and our glorious future.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHullMastery2_Dec</Label>
+    <String>Thanks to our latest design improvements, we're now building some of the largest ships in the galaxy. And we're doing so for far less than our neighbors spend on their clearly inferior vessels.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHullMastery1_Dec</Label>
+    <String>Much like our civilization, Altarian ships are the model of efficiency and considered design. And thanks to our latest efforts, all of our ships can now carry a little bit more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHullStrengthening_Dec</Label>
+    <String> Few species possess the lateral thinking to even consider embedding a strengthening field within a hull. Altarians do however, and our ships are now that much more resilient for it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHullRepairSystems_Dec</Label>
+    <String>We've found a way to modify our hull strengthening technology to begin conducting partial repairs to them away from the shipyard, which should help ensure our crew's safety a little bit more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianSelfHealingHulls_Dec</Label>
+    <String> Nanobot based systems are tough to control in chaotic environments, but we've finally found a way to do so. Repair modules installed in our ships and starbases will allow our ships to repair themselves during battle itself.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCarrierTech_Dec</Label>
+    <String>The tactical advantages offered by carrier platforms are too great to ignore, even if this will expose Altarian pilots to incredibly high risks. Their sacrifices shall be remembered.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHighCapacityCarriers_Dec</Label>
+    <String>Our latest generation of carriers use ultra compact fighters to generate far more offensive firepower for the same amount of space. This will put more Altarians at risk than ever before, but those brave souls are certainly willing.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInterstellarLogistics_Dec</Label>
+    <String>Keeping our fleets operational is a complicated but critical task, ensuring they have the fuel, food, and people they need to keep Altaria safe. If we get better at it, we will all be safer for it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianLogisticalOptimization1_Dec</Label>
+    <String>Any effort we can make to improve our logistical capacity will result in larger, more effective fleets, better capable of ensuring Altarian security.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianLogisticalOptimization2_Dec</Label>
+    <String>If we turn our best logistical minds to our mining operations, we should easily find a few ways to improve their output, thus increasing Altaria's mineral wealth.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianLogisticalOptimization3_ShortDec</Label>
+    <String>Reduces starport decay rate.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianLogisticalOptimization3_Dec</Label>
+    <String>Starports are very expensive to maintain. Cost savings should be straightforward to find, allowing money to be spent elsewhere to perhaps greater effect.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianFleetLogisticsTech_Dec</Label>
+    <String>Scaling up our naval operations has proven surprisingly easy. Even the lowliest of Altarians possesses organizational skills and intelligence that would make some of the lesser species of the galaxy tremble in envy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDeepSpaceLogistics_Dec</Label>
+    <String>Altarian greatness will be secured not just with our words or military might, but by hard work. Everything we can do to improve our logistical capacity will allow our fleets to be that much larger and more effective.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianGalacticLogistics_Dec</Label>
+    <String>Of course Altarians would master logistics. It's such a simple thing, something lesser minds could easily ignore, but capable of making our fleets the largest and most well equipped in the galaxy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInterstellarMining_Dec</Label>
+    <String>Some Altarians may quibble, but if we improve our mining technologies, the extra resources we collect can be used to benefit every aspect of our civilization. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHighEfficiencyMining_Dec</Label>
+    <String>Our continuing efforts to make our mining operations as safe as possible has had the pleasant side effect of making them more efficient as well. Once again our benevolent nature has shown us the way forward.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianResourceExtraction_Dec</Label>
+    <String>Altarian brilliance has led to the development of probes capable of independently navigating the subsurface of an asteroid to collect resources previously thought unextractable.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianLosslessMining_Dec</Label>
+    <String>Incorporating the latest in nanobot aided extraction heads into our probes allows for even more efficient resource extraction. Additionally, now the rarest of resources can be targeted for extraction.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianWarfareTech_Dec</Label>
+    <String>This galaxy is filled with simpler races than ours, and we can't pretend we'll be able to win them all to our side with the wisdom of our words. We must pursue self defensive technologies immediately.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianWeaponsSystemsTech_Dec</Label>
+    <String>Offensive weapons provide a useful deterrent to any primitive minds who might interfere with Altarian affairs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianWeaponsSpecializationTech1_Dec</Label>
+    <String>We have applied our research time well, we have increased the targeting systems of or existing weapons substantially, and what we have learned, we should apply to all future weapons systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianWeaponsSpecializationTech2_ShortDec</Label>
+    <String>Reduces the Mass of all weapon systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianWeaponsSpecializationTech2_Dec</Label>
+    <String>We have applied our research time well, we have been able to reduce the mass of our existing weapons systems, and what we have learned, we should apply to all future weapons as well.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianWeaponsSpecializationTech3_ShortDec</Label>
+    <String>Reduces the Cost of all weapon systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianWeaponsSpecializationTech3_Dec</Label>
+    <String>We have applied our research time well, we have been able to reduce the cost of our existing weapons systems, and what we have learned, we should apply to all future weapons as well.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianBeamWeapons_Dec</Label>
+    <String>Even if we have peaceful intentions, we can't afford to fall behind in any arms race. This next generation of beam weapons should make the lesser species think twice before becoming aggressive with us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianBeamWeaponOptimization1_Dec</Label>
+    <String>Our weapons researchers have developed a new type of focusing crystal capable of handling much greater energy curves, increasing the damage potential of our beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianBeamWeaponOptimization2_Dec</Label>
+    <String>Beam weapons are horribly expensive, but now that we're making them in volume, we've found a few economies of scale which should help reduce their costs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianBeamWeaponOptimization3_Dec</Label>
+    <String>Beam weapons are already pleasingly space efficient, allowing our ships to carry more useful equipment. But that's no reason not to make them even more compact, and our researchers will surely be able to come up with some further improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianMatterDisruption_Dec</Label>
+    <String>A genius in one of our labs found a particle capable of disrupting the strong nuclear force. Weaponizing this breakthrough will result in enormously destructive weapons. We don't have to use them, but we'll be safer for having them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHighEnergyFocus1_Dec</Label>
+    <String>Applying a fluctuating current to our focusing crystals allows them to handle a bit more energy without violently exploding. All of our beam weapons will be a little more menacing now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHighEnergyFocus2_Dec</Label>
+    <String>We've refined our beam weapon manufacturing process, reducing the amount of individual tuning required for each unit and the cost of the entire production process.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHighEnergyFocus3_Dec</Label>
+    <String>Our engineers have found a way to reduce the weight of the charge coils of our beam weapon systems. For the ships that need them, there's now room for a few more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPlasmaProjection_Dec</Label>
+    <String>Although few Altarians have the mindset needed for weapons research, the few that do are exceedingly good at it. Recently they've found a way to collimate plasma into deadly beams. If the galaxy won't love us, they will at least learn to respect us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianBeamWeaponMastery1_Dec</Label>
+    <String>Now that Altarian industry has, however reluctantly, committed itself to weapons development, our supply chains have gotten that much better and more efficient, reducing the costs of our beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianBeamWeaponMastery2_Dec</Label>
+    <String>Thanks to our latest research push, our beam weapons are now almost perfectly energy efficient, and as compact and lightweight as we can make them. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianEnergyPhasing_Dec</Label>
+    <String>Phaser particles induce a chain reaction which breaks matter down into ghostly neutrinos, effectively evaporating it. We shudder to think what these weapons could do in the hands of someone less enlightened.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDoomRayTech_Dec</Label>
+    <String>Doom Rays improve upon the matter-breakdown reaction of our phasers, and are now the deadliest weapons the galaxy has ever known. With these in our hands, few will dare stand between Altaria and her destiny.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianBeamWeaponAugmentation_Dec</Label>
+    <String>Our researchers have found that the storage systems of our beam weapons can be augmented by external fields, which can theoretically be projected at great distances. A properly equipped ship could potentially boost the beam output of an entire fleet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHighEnergyTransfer_Dec</Label>
+    <String>Our weapons engineers are so talented they've found a way to modulate our beam weapon systems to reduce the effectiveness of enemy shields.  A related process will allows us to partially absorb enemy beam attacks on our own vessels.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHighEnergyMagnification_Dec</Label>
+    <String>Our beam augmentation systems have been made even more effective, making all such equipped fleets that much more menacing. Additionally, we can now create beam systems capable of disabling enemy shields entirely.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianMissileWeapons_Dec</Label>
+    <String>There's something crude about missile weapons, and it seems a very un-Altarian way to make war. But there's no denying their cost effectiveness.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianMissileOptimization1_Dec</Label>
+    <String>We've modified the loading system of our missile weapons to allow them to shoot a bit more rapidly. If we're going to use them, let's use enough to be effective.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianMissileOptimization2_Dec</Label>
+    <String>If there's one thing about missiles that's appealing it's their low cost. Our people won't abide waste in our defensive spending. And with some more research effort, our missile systems could be even cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianMissileOptimization3_Dec</Label>
+    <String>For our ships that need missiles, they'll need a lot of them to increase their deterrence effect. We should do everything we can to reduce the mass of our missile systems to accommodate more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHarpoonTech_Dec</Label>
+    <String>For our weapons to have a credible deterrence effect, they must be capable of threatening the aggressor species. Our new Harpoon class missiles should do just that, being able to defeat the current state of defensive technologies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianWarheadFocus1_Dec</Label>
+    <String>Lighter, more efficient warheads that make use of the latest advancements in shaped charges will allow more room for propellant, giving our missiles a little extra range. And the further we can stay away from the aggressors, the better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianWarheadFocus2_Dec</Label>
+    <String>Warhead manufacturing has always been the most dangerous and costly part of our missile manufacturing process. But the latest ultra-stable explosives should make this process both cheaper, and more importantly, safer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianWarheadFocus3_Dec</Label>
+    <String>Shaped-charge warheads can reduce the weight of each individual missile significantly without reducing its effectiveness, allowing us to fit more missiles into smaller spaces. Even our smallest ships should be able to defend themselves. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPhotonicWarheads_Dec</Label>
+    <String>Photonic warheads use a high energy burst of photons released at the moment of impact to penetrate both armor and shield systems. The backwards races of this galaxy shall think carefully before attacking us now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPayloadMastery1_Dec</Label>
+    <String>We've perfected our missile manufacturing techniques, the process now as safe and cheap as it can possibly be. It is a little sad seeing how cheaply made destruction can be. You can see how the primitive races fall prey to its temptation.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPayloadMastery2_Dec</Label>
+    <String>We believe that our newest types of propellant are as energy-dense as the physics of this universe will allow. Our missile weapons are now as mass-efficient as they can possibly be.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPhotonTorpedos_Dec</Label>
+    <String>An improvement on the photon-based armor piercing warheads has led us to the development of Photon Torpedoes, which will provide our ships with threat-neutralizing capability they've never had before.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianNightmareTorpedoTech_Dec</Label>
+    <String>Each one of these torpedoes contains a tiny singularity that devastates the target upon impact. These are truly horrific weapons, so we must be sure of our aims, and intentions, before loosing them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianMissileAugmentation_Dec</Label>
+    <String>Missiles are a somewhat clumsy, even un-Altarian way to engage in combat. One of our best minds has thus come up with a support system which should improve the tracking and range of our missiles, making them far more accurate and efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianAdvancedMissileGuidance_Dec</Label>
+    <String>Thanks to decoy and evasion systems, our missiles should fare much better against aggressors equipped with point defense systems. And our missile support systems have been revised in a number of ways to help boost missile range even further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianIntelligentWarheads_Dec</Label>
+    <String>By installing smart clusters in our warheads that target enemy point defenses, we can quickly overwhelm even the most well equipped aggressor. And our missile support systems have been improved yet again.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianKineticWeapons_Dec</Label>
+    <String>However nasty kinetic weapons are, we can't pretend other species in the galaxy will ignore their potency. We must develop our own dedicated kinetic weapons programs, if only to deter any species who'd consider threatening us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianKineticOptimization1_Dec</Label>
+    <String>Keeping our distance from the aggressive species of the galaxy is a prudent idea. Our latest efforts to  increase the effective range of our kinetic weapons should help us do just that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianKineticOptimization2_Dec</Label>
+    <String>Our first kinetic weapons were hampered by manufacturing problems. Now that our factories have the basic process down, we should see production proceed a lot faster and more economically.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianKineticOptimization3_Dec</Label>
+    <String>A clever young Altarian technician discovered a new, more efficient way of winding our electromagnetic coils, meaning we can use less coils for the same effect. His brilliance has led to all kinetic weapons getting a bit lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPulseCannonTech_Dec</Label>
+    <String>Tight clusters of high velocity particles have many of the same tactical characteristics of kinetic weapons, but their destructive power is far more scalable, leading to more powerful weapons. With them, Altarian ships will be a little more secure.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianKineticAccelerationFocus1_Dec</Label>
+    <String>Now that we've observed the performance envelopes of some of our peers' vessels, our targeting systems are capable of predicting their future location a little more accurately. The upshot is kinetic weapons with a longer effective range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianKineticAccelerationFocus2_Dec</Label>
+    <String>We've focused on making our electromagnetic coils and their cooling systems a bit less fragile, which should lead to less waste and safety issues during production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianKineticAccelerationFocus3_Dec</Label>
+    <String>We've put a lot of effort into reducing the weight of our kinetic weapon charging systems, leading to lower mass accelerators. There's something very pleasing about making things less wasteful, even something so destructive.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianGravitonThrower_Dec</Label>
+    <String>Our defensive industry has devised a weapon capable of firing pulses of synthetic gravitons. Anyone who dares menace Altarian ships will soon find their own vessel torn apart from the inside. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianKineticMastery1_Dec</Label>
+    <String>Altarian workers take a great deal of pride in their jobs. And rightfully so, to judge by their latest efforts to reduce the cost of kinetic weapons. It's small things like this which will make Altaria safer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianKineticMastery2_Dec</Label>
+    <String>Our weapons manufacturing has refined itself to the point that our kinetic weapons are now perfectly efficient, as compact and deadly as they can be. It seems Altarians can excel at all things, even warfare. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianQuantumDrivers_Dec</Label>
+    <String>Quantum drivers fire shells which impact the enemy with mass that doesn't exist until the moment of impact. Few will choose to stand between Altaria and her destiny now. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianSingularityDrivers_Dec</Label>
+    <String>Singularity drivers fire synthesized black holes at the enemy, with predictably devastating effects. It's a shame this galaxy has forced us to become so violent. But it shall not force us to stray from our destined path.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianKineticAugmentation_Dec</Label>
+    <String>Kinetic augmentation fields use a new form of inertial dampening to boost the effective range of every kinetic weapon in our fleet. There's no need to let aggressive species so close to us now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianMassManipulation_Dec</Label>
+    <String>Kinetic weapons which can self-generate an ultra-dense outer surface are ideally suited for penetrating enemy armor. And we've also found several improvements to make in our kinetic augmentation systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInertialMagnification_Dec</Label>
+    <String>The same technology we used to harden our projectiles can now attack armor systems directly, weakening or even splintering them. And our fleet-based kinetic augmentation systems are now incredibly dangerous. Who would dare stop Altaria now?</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianMilitarizationTech_Dec</Label>
+    <String>If we've committed to building military equipment in space, we should do it properly, with dedicated military shipyards and defense platforms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDefensiveMeditation_Name</Label>
+    <String>Defensive Meditation</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDefensiveMeditation_ShortDec</Label>
+    <String>Allows construction of the Champion's Temple.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDefensiveMeditation_Dec</Label>
+    <String>The Champion's Temple trains Altarians the intricacies of various martial techniques, and the reason why even an enlightened species must sometimes use force to defend the weak.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPlanetaryInvasion_Dec</Label>
+    <String>If worse comes to worse, and we end up engaged in open conflict with an aggressive species, we may need to be able to pacify their worlds in some way. As distasteful as this might sound, we'd be foolish to not at least be prepared for such a situation.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInvasionOptimization1_Dec</Label>
+    <String>Attacking other beings from orbit is incredibly cruel and cold blooded. We should use this tactic as a last resort only, or simply keep it ready to be used as a deterrent.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInvasionOptimization2_Dec</Label>
+    <String>Crippling an enemy's ability to coordinate their defensive forces is a smart way to make them less effective, and reduce the risk to our troops when a ground engagement becomes necessary.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInvasionOptimization3_Dec</Label>
+    <String>Biological warfare is unthinkable. And yet, if Altaria's future, and even existence, is seriously threatened, perhaps even the unthinkable will need to be thought.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianGravitationalFocus1_Dec</Label>
+    <String>We now have the technology to manipulate gravitational fields, causing disruptive waves and tectonic activity on the planets we wish to invade. Lets hope we never need to use it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianGravitationalFocus2_Dec</Label>
+    <String>We can now initiate massive, worldwide volcanic activity on planets that need pacification. This is an extreme, almost unthinkable act, so let's be sure to only use it on lesser races who truly deserve it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDroneSoldiers_Dec</Label>
+    <String>Drone soldiers are more effective than regular soldiers, and remove one of the biggest objections Altarians had to warfare: the risk to our troops. Although now we'll have to contend with the drone-rights groups.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianAdvancedInvasionTactics_Dec</Label>
+    <String>Advanced, high capacity transports, and a new generation of invasion tactics will allow our ground forces to overwhelm the enemy as never before. Altaria will never go to war lightly. But when we do, we will win.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDefenseSystemTech_Dec</Label>
+    <String>We can't ignore the risk Altarians will face in space from aggressive neighbors. We must begin developing defensive systems to protect our ships as soon as possible.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDefensiveSpecialization1_Dec</Label>
+    <String>Shield systems are difficult and expensive to work with. We've made some progress at making them a bit cheaper to build, but more research will be necessary to get the most out of them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDefensiveSpecialization2_Dec</Label>
+    <String>By simply turning up the firing rate of our point defense systems, we can increase their effectiveness, and the safety of our crews dramatically.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDefensiveSpecialization3_Dec</Label>
+    <String>There's only so much you can do to save weight on armoring - weight is very much a design feature. But some small changes to minimize overlap should help save a bit of weight without affecting the safety of our crews.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianShieldSystems_Dec</Label>
+    <String>Our latest shield systems provide far more protection then earlier deflectors, and are now capable of stopping incoming ordnance and beams rather than just deflecting them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianShieldOptimization1_Dec</Label>
+    <String>No expense is too great for the safety of our crews, and after much effort we've found a few ways to make our shield systems a bit stronger.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianShieldOptimization2_Dec</Label>
+    <String>Shield systems are unfortunately quite expensive, and although we will not hesitate to spend money to protect our crews, there's no reason we can't try to make these systems a little more cost effective.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianShieldOptimization3_Dec</Label>
+    <String>Our shield systems require very large field emitters to be effective. An unexpected breakthrough in our private sector has resulted in the creation of more compact models, leading to overall weight savings. Another victory achieved by Altarian ingenuity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianBarrierFieldGeneration_Dec</Label>
+    <String>Barrier Fields will allow our shields to absorb a portion of the energy striking them, making our defenses far more energy efficient and resilient. Our ships and crews will now be much safer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianBarrierSystemFocus1_Dec</Label>
+    <String>After listening to some feedback from our ship's engineers, we made some changes to our Barrier Field systems to make the absorption capacitors work more efficiently. This should make a significant difference in shield strength.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianBarrierSystemFocus2_Dec</Label>
+    <String>All of the components of our shield systems are now made in such quantities that we've been able to achieve a number of cost savings thanks to economies of scale.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianBarrierSystemFocus3_Dec</Label>
+    <String>The newest superconductors will allow us to build our shield systems with much smaller cooling systems, resulting in significant weight savings. Now our ships will be able to carry more equipment. Or just more shields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianForceFieldTech_Dec</Label>
+    <String>In our ongoing efforts to keep our crews safe, our researchers have developed a new type of shield that directs additional energy to the section of shields being impacted. This results in a far stronger, more versatile shield system.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianShieldMastery1_Dec</Label>
+    <String>We've put so much effort into making our shields cheap that it's a little embarrassing. Altarians expect us to go to great expense to protect our crews, and now we simply can't.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianShieldMastery2_Dec</Label>
+    <String>Our shields are now as space and mass efficient as possible, the emitters pushing out as much energy as physics allows. Even Altarian ingenuity has limits it seems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInvulnerabilityTech_Dec</Label>
+    <String>Our newest shields are as close to being invulnerable as possible, with only theoretical weapons capable of penetrating them. Our crews have never been safer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianShieldSupportSystems_Dec</Label>
+    <String>Our researchers have found a way to focus shield emitters at greater distances than before, allowing us to augment friendly shields across an entire fleet. Altaria's ships shall be stronger when working together.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianShieldAugmentation_Dec</Label>
+    <String>Our Barrier Field systems can now be generated at enough of a distance that we can incorporate them into our fleet shield augmentation systems leading to even stronger reinforcement effects.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianEnergyFieldManipulation_Dec</Label>
+    <String>Our finest minds have come up with even more enhancements for our shield augmentation modules. Additionally, a version of the same technology can now interfere with enemy shield systems. Only the most mindless species will dare confront Altaria now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPointDefenses_Dec</Label>
+    <String>If we build improved point defenses, our ships will be far safer against missile attacks. They won't protect much against other classes of weapons, so we'll need other measures to totally ensure crew safety.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPointDefenseOptimization1_Dec</Label>
+    <String>Missiles have fairly limited ways to evade incoming point defense fire, which should make it easier to learn and anticipate those evasions, making our point defense systems much more effective.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPointDefenseOptimization2_Dec</Label>
+    <String>If we can find a way to reduce the cost of our point defenses, we can afford to install more of them, or spend those resources on some other form of defense.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPointDefenseOptimization3_Dec</Label>
+    <String>Smaller railguns and projectiles are just as effective for point defense purposes, and will afford our ships significant weight savings they could use to install other defensive equipment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCounterMeasures_Dec</Label>
+    <String>Electronic counter measures will interfere with and confuse incoming missile attacks, increasing the survivability of our ships and crews. We don't want to send any more letters to crying parents than we have to.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCounterMeasureFocus1_Dec</Label>
+    <String>Our latest ECM systems are capable of randomizing their various defensive measures, making them more effective against incoming missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCounterMeasureFocus2_Dec</Label>
+    <String>Thanks to some efforts to standardize the circuitry and emitters in our ECM suites, we can now build them for far cheaper than before. Even on matters of self defense, there's no need to spend money wastefully.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCounterMeasureFocus3_Dec</Label>
+    <String>By reducing the number of components in our ECM suites, and integrating many of their functions into smaller units, we can reduce their weight significantly, without compromising their effectiveness.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDroneSentrySystems_Dec</Label>
+    <String>Moving our point defense systems out to constellations of drone platforms will ensure enemy missiles are intercepted long before they can threaten our crews.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDroneSystemMastery1_Dec</Label>
+    <String>We've ordered our factory workers to stop becoming emotionally attached to the point defense drones, whom they'd been giving cute names. This should speed up production, and reduce any morale issues when those drones don't come back. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDroneSystemMastery2_Dec</Label>
+    <String>Refinements to our drone energy supplies and propulsion systems has allowed us to create smaller and more compact drones. Our ships shall be both safe and roomy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianArreonMissileDefenseTech_Dec</Label>
+    <String>Aereon Drones are a fraction the size of conventional drones and just as effective, meaning we can now send a lot more of them out there. Our ships have never been safer from missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPointDefenseSupportSystem_Dec</Label>
+    <String>Long range missile tracking systems will allow point defense systems of an entire fleet to  coordinate their fields of fire to better defend against incoming missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPointDefenseAugmentation_Dec</Label>
+    <String>ECM coordination suites will allow point defense systems across a fleet to better coordinate their evasive activities, increasing missile security for all friendly ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPointDefenseManipulation_Dec</Label>
+    <String>Fleet-wide drone systems will fill the space around our fleets with effective point defenses. And our missile systems can now equip counter-counter-measures that will boost the effectiveness of our own missile attacks.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianArmorSystems_Dec</Label>
+    <String>Thick plates of ultra-dense armor, however unsubtle, will provide significant protection to our ships. We don't have to over think this, as the primitive species certainly won't over think their attacks.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianArmorOptimization1_Dec</Label>
+    <String>A team of engineers found a curing process which makes our armor panels somewhat more resilient. Their hard work will keep all Altarian crews a little bit safer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianArmorOptimization2_Dec</Label>
+    <String>Manufacturing armor is tough to do safely, simply because of the mass of everything involved. But now that we have a bit more experience working with these materials, we should be able to speed up production while still keeping our workers safe.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianArmorOptimization3_Dec</Label>
+    <String>Armor is always going to be heavy, and not even Altarian genius can get around that. But if we improve the fit and mounting systems, we should be able to cut down the weight a bit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDurantiumCompositeTech_Dec</Label>
+    <String>In our ongoing efforts to keep our crews safe, we've invented a composite which has incredible damage absorption potential, which we call Durantium. Our armor systems will now be much tougher.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianArmorFocus1_Dec</Label>
+    <String>Under extreme stress our armor plates were fracturing in very specific ways. We've found that by laminating them using a new technique, we can increase their durability a little bit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianArmorFocus2_Dec</Label>
+    <String>We must always be careful of public perception when we try to save money on defensive systems; the Altarian people will not tolerate us putting their daughters and sons at risk. But if we frame this as making armor more cost-efficient, that should work.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianArmorFocus3_Dec</Label>
+    <String>Our engineers have found a variation of the Durantium composite which is slightly lighter without affecting the armor's damage absorption potential.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianKanviumLaminateTech_Dec</Label>
+    <String>Kanvium armor partially fluidizes upon impact, spreading the energy out over a much larger area. Not only is our armor more effective, it's capable of partially flowing back into shape after impact. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianArmorMastery1_Dec</Label>
+    <String>Our most advanced armor systems had to be installed by highly specialized experts, which raised costs dramatically. We've finally been able to simplify and automate some of this process, which should lead to some cost savings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianArmorMastery2_Dec</Label>
+    <String>A tweak to our Kanvium lamination process allows for the fluidization effect to work on marginally thinner armor plates. Our armor systems are now about as weight efficient as they can possibly be.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianZeroPointArmorTech_Dec</Label>
+    <String>Thanks to the genius of Altarian engineering, our newest armor is capable of tapping into the zero-point energy of the quantum vacuum. On impact, massive amounts of energy are directed outward to annihilate any incoming attacks.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianArmorSupportSystems_Dec</Label>
+    <String>Certain force fields are known to have a hardening effect, and by instigating those in powerful ship-based emitters, we're able to make every ship in a fleet substantially more durable. The aggressive species shall menace our fleets no longer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianArmorEnhancement_Dec</Label>
+    <String>A cyclical and ongoing adjustment to our ship-based hardening fields appears to make them substantially more effective, making our fleets that much tougher and our crews that much safer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianIntegrityFieldProjection_Dec</Label>
+    <String>We can now make armoring fields that induce the same fluidization properties of our Kanvium laminates, making every ship in an appropriately equipped fleet as close to invulnerable as we can make them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCommunicationsTech_Name</Label>
+    <String>Influence</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCommunicationsTech_Dec</Label>
+    <String>We've long known we're not alone in this galaxy. And if we hope to make the stars as peaceful as our own home, we must begin researching our communications technology immediately to begin a dialog with our new neighbors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianTranslatorTech_Dec</Label>
+    <String>After much hard work, and no small amount of brilliance, we've developed a Universal Translator which will allow us to communicate with the lesser species of this galaxy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDiplomaticSpecialization1_Dec</Label>
+    <String>Not all aliens think as Altarians do, to their detriment. But if we try different rhetorical approaches when dealing with them we should still be able to improve their attitudes towards us. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDiplomaticSpecialization2_Dec</Label>
+    <String>Altarian culture is so obviously superior to what alien civilizations have, that they'll surely open their hearts and minds to us if we can spread it to them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInterstellarGovernance_Dec</Label>
+    <String>Altarians are a civil bunch, docile and easy to rule. But that's no reason we should be complacent, or stop searching for better ways to lead.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPoliticalSpecialization1_Dec</Label>
+    <String>Federalist parties feature a weak central government with much of the power offloaded to regional Altarian governments. This bias towards local regulation seems to encourage economic development.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPoliticalSpecialization2_Dec</Label>
+    <String>Populist parties are designed to make our people happy and increase our diplomatic potential. This sometimes makes governments a bit less efficient, though happy Altarians are usually quick to forgive that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPoliticalSpecialization3_Dec</Label>
+    <String>Universalist governments attempt to be all things to all people, a naturally balanced approach which appeals to most Altarians' sensibilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianGalacticGovernance_Dec</Label>
+    <String>Unlike some other races in this galaxy, Altarians can be trusted with limited powers of self rule. By opening the government to the people in this way, we expect to see increased public satisfaction.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPoliticalFocus1_Dec</Label>
+    <String>Industrialist parties maximize industrial capacity with a variety of rewards and incentives. It takes a great deal of finesse to ensure this doesn't negatively impact Altaria's famous quality of life. But we've managed, of course.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPoliticalFocus2_Dec</Label>
+    <String>Mercantilist parties will boost Altarian strength via trade. The exposure our traders will have with other civilizations will also gives them a unique advantage at espionage, if we're willing to stoop to such a thing.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPoliticalFocus3_Dec</Label>
+    <String>Technologists understand that by dedicating all of Altaria's effort and resources towards research, we will become as elevated a civilization in technology as we are spiritually.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInterstellarDemocracyTech_Dec</Label>
+    <String>An Interstellar Democracy provides the ultimate in accountability and transparency. Altarians can finally have a government worthy of them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPoliticalMastery1_Dec</Label>
+    <String>It's hard to deny the inferiority of some of our neighbors, much less ignore their violent tendencies. War parties are willing to engage with these obstinate fools and secure Altaria's destiny by whatever means are necessary.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPoliticalMastery2_Dec</Label>
+    <String>A Pacifist party's dedication to promoting culture and social welfare can make Altarians so well liked in the galactic community that our very popularity ensures our safety.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianStarFederationTech_Dec</Label>
+    <String>The ultimate in space based governance, providing the ideal platform for Altaria to secure its position as the pinnacle civilization of sentient beings in this galaxy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDiplomacyTech_Dec</Label>
+    <String>Talking with our neighbors will always be cheaper than fighting them. And we shouldn't deny them the blessing of hearing our advice on how to run their civilizations.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDiplomaticOptimization1_Dec</Label>
+    <String>Economic treaties will lower tariffs and other obstacles that discourage business activity. These treaties should result in increased wealth for both Altaria and whoever we bless with our business.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDiplomaticOptimization2_Dec</Label>
+    <String>A cultural treaty will make it easier for thoughts and ideas to cross borders, which will shine the light of Altaria on our less fortunate neighbors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDiplomaticOptimization3_Dec</Label>
+    <String>A formal research treaty will help both our and our neighbors' researchers do their work. Our neighbors are so fortunate to have us around.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInterstellarAlliances_Dec</Label>
+    <String>We must be careful allying ourselves with other races, as even the friendly ones can be surprisingly primitive in their dealings. Still, the benefits of friendly relations are too great to ignore.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianAllianceFocus1_Dec</Label>
+    <String>A formal military alliance will make both Altaria and her ally that much more secure. The bullies and villains of the galaxy will learn to watch their step.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianAllianceFocus2_Dec</Label>
+    <String>A technological alliance will dramatically increase both our and our ally's research programs. Finally our allies can benefit from Altarian ingenuity, and to a lesser extent, vice versa.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianAllianceFocus3_Dec</Label>
+    <String>If we lower barriers to the movement of civilians across borders with our neighbor, we can influence their thinking and affairs more than ever.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianEminenceTech_Dec</Label>
+    <String>Altarian voices carry far, and even our enemies know their best interests lie in listening to us. More advanced diplomatic buildings will make this easier than ever.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianMajestyTech_Dec</Label>
+    <String>Most of our neighbors have long seen the light of Altarian prophecy. Our emissaries to their planets are treated as near gods themselves, and many beg us to become part of the Altarian republic.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianUnitedPlanetsLobbyist_Dec</Label>
+    <String>The United Planets is a crude venue for diplomatic discussions, filled with lesser minds. But there's always value in open discourse, and with our talent for diplomacy, we'll now have extra votes to make use of there.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianUnitedPlanetsClout_Dec</Label>
+    <String>It took very little to convince our allies to align their United Planets voting with us. They can see the benefit of the Altarian path as well as anyone.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCulturalInfluence_Dec</Label>
+    <String>No-one understands the benefits of culture better than Altarians, and any open-minded race who samples ours will soon see why. But for those that need a little help, we can start dumbing things down for them. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCulturalOptimization1_Dec</Label>
+    <String>Our diplomats, along with serving as Altaria's voice, can also serve as advertisements for the Altarian way of life. If we can make them better cultural ambassadors, we can spread our influence wider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCulturalOptimization2_Dec</Label>
+    <String>Altarians love their art, and have no problem spending resources on it. But that's no excuse for spending wastefully. With a bit of effort, we should be able to build our cultural facilities a little more economically.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCulturalOptimization3_Dec</Label>
+    <String>If we're going to be spending a lot of resources on our cultural facilities - and Altarians will certainly demand we do - we should ensure these facilities can be maintained as economically as possible.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCulturalOutreach_Dec</Label>
+    <String>Facilities that reach out to our neighbors, helping to make our art and thinking more accessible and digestible to them, will help spread  the light of Altarian culture further. If they don't like it, we shall teach them to like it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCulturalFocus1_Dec</Label>
+    <String>We could make several small tweaks to our cultural products to make them more appealing to scientists and researchers. More math jokes and the like.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCulturalFocus2_Dec</Label>
+    <String>A culture which celebrates leadership and good governance sounds deathly boring, but it will help spread Altaria's influence on planets with high approval. And really, who doesn't like good governance?</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCulturalFocus3_Dec</Label>
+    <String>It seems a bit tacky to celebrate wealth when so many in the galaxy go without. But if we adjust our culture to celebrate some of the tasteless things money can buy, we can spread our influence on planets with wealthy populations.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianStellarEmigration_Dec</Label>
+    <String>Considering all our civilization offers, it's only natural for the lesser races to look up to us. If we make the process of emigration easier, Altarians will shine our light on the galaxy, increasing our influence greatly.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCulturalAssimilation_Dec</Label>
+    <String>Many of the people who arrive in Altarian space cling to their old, inferior traditions. If we can remove the attachments they have to their old, backwards cultures, we can increase the acceptance of our own that much more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCulturalDomination_Dec</Label>
+    <String>The Altarian standard of living is now obviously the superior choice for sentient beings in this galaxy. All sane beings dream of becoming Altarian, to join us as we march on to our destiny.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCulturalAffinity_Dec</Label>
+    <String>The destiny of the Altarian people lies not in this universe, but the next. Our greatest minds are already making preparations for delivering our glorious civilization to these higher planes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianXenoCommerce_Dec</Label>
+    <String>Allowing Altarians to take their private enterprises into space will require careful regulation lest they begin inefficiently using resources that could be better used for the public good. But the potential a strong economy offers can't be ignored.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCommerceSpecialization1_Dec</Label>
+    <String>Allowing private enterprise to build their own wealth is a troubling idea for many of our people, going against much of what we stand for. But the boost to our economy should indirectly benefit Altarians everywhere.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCommerceSpecialization2_Dec</Label>
+    <String>Redirecting our economic policy to support workers and generally improve the work/life balance will please Altarians throughout our civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCommerceSpecialization3_Dec</Label>
+    <String>If we increase the amount with which we trade with our neighbors, we'll not only profit more, but tie them that much closer to us and our destiny.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianXenoEconomics_Dec</Label>
+    <String>We're dealing with far more complicated and involved markets than ever before. Revised regulations and economic buildings will be necessary to ensure Altarians can profit from this without sacrificing our quality of life.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInterstellarBanking_Dec</Label>
+    <String>Our private sector has grown at an alarming pace, leaving many Altarians frightened at what our civilization is becoming. A new generation of banks and regulations will be necessary to encourage this wealth to grow in a sustainable fashion.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianEconomicFocus1_Dec</Label>
+    <String>People throughout the galaxy appreciate Altarian goods, everything we touch seeming to be more valuable in their eyes. We should increase our trading efforts more to take advantage of everyone's envy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianEconomicFocus2_Dec</Label>
+    <String>Greatness is so obviously destined for the Altarian people that we can now begin extracting favorable terms from our treaty partners.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianEconomicFocus3_Dec</Label>
+    <String>If we do everything we can to accommodate tourists, we can encourage more of them to travel here and learn our ways. As a side-effect, they might spend a bit more money while they're here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianFinancialSectorsTech_Dec</Label>
+    <String>Buildings dedicated to complicated financial machinations should help generate much additional wealth for our civilization. Which is hard to turn down, even if it is a little unseemly for an Altarian.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianGalacticStockMarket_Dec</Label>
+    <String>Galactic stock markets will make it easier than ever for Altarians to generate wealth. Altaria was always known for its enlightened people; and know it shall be known for its wealthy ones as well.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInterstellarTrade_Dec</Label>
+    <String>Trade is an excellent way to build friendly relations with neighbors. If they didn't love Altaria for our culture, they shall love us for our goods.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianGalacticTrade_Dec</Label>
+    <String>Dedicated trading hubs will encourage our traders and their partners to do more of their business here. Where it can be more easily taxed, and thus benefit all Altarians.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianGalacticFacilitation_Dec</Label>
+    <String>Now that we've developed a taste for trading, the volume of goods passing through our ports has grown immensely. Enhanced facilities will be needed to ensure the money continues to flow into Altarian coffers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianTradeMasters_Dec</Label>
+    <String>Every lesser race in the galaxy knows that Altarian markets are the only place to move their goods, and the latest generation of trading buildings will increase our trading income more still.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianEnjoymentTech_Name</Label>
+    <String>Enjoyment</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianEnjoymentTech_Dec</Label>
+    <String>Spending resources on public entertainment is something all Altarians approve of and even demand. What purpose could be higher than improving an Altarian's quality of life?</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInterstellarTourism_Dec</Label>
+    <String>The rich and full lives that Altarians enjoy is the envy of the galaxy, and we've already begun luring visitors from our neighbors. Some increased tourism infrastructure can help encourage this.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianMeditationTech_Name</Label>
+    <String>Meditation</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianMeditationTech_ShortDec</Label>
+    <String>Allows the construction of Meditation Centers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianMeditationTech_Dec</Label>
+    <String>Meditation Centers will give Altarians a quiet place to reflect on their lives, the nature of the galaxy, and our rightful place in it, greatly boosting a planet's approval.</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+  <StringTable>
+    <Label>AltarianIndustrialSpecialization_Dec</Label>
+    <String>Moving our industry off world turned out to be far more dangerous than we anticipated, and we slowed everything down until we were confident the work could be done safely. But now that we've analyzed things, we've spotted a number of ways we can begin specializing our industry.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianConstructionOptimization_Dec</Label>
+    <String>As the Altarian civilization expands, we will find ourselves in a near constant state of construction. We should ensure our construction practices are as efficient as possible. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianManufacturingFocus_Dec</Label>
+    <String>Specializing our manufacturing processes will allow us to boost the capacity of specific sectors, or even to save money we could use to improve our people's lives in some other way</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianIndustrialMastery_Dec</Label>
+    <String>Our people are now famed throughout the galaxy for their industry, and yet even at this advanced stage, they're unwilling to rest. There are still some improvements left to make.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPrecursorHistory_Name</Label>
+    <String>Precursor History</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPrecursorHistory_ShortDec</Label>
+    <String>Let the wisdom of the Precursors improve our society.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPrecursorHistory_Dec</Label>
+    <String>By better understanding the history of the Precusors, we can begin taking steps to make our race even greater than it already is.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianResearchOptimization_Dec</Label>
+    <String>Altarian researchers are of course geniuses, but in their exuberance to keep pushing back the veil of darkness, they've developed a number of inefficient practices. We should correct some of those now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianTechnologicalFocus_Dec</Label>
+    <String>If we specialize our research facilities, we'll be able to accelerate the pace of findings in the fields most important to securing Altaria's future.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPlanetarySpecialization_Dec</Label>
+    <String>Altarians are intelligent and adaptable enough to make ideal colonists, and now have the free time to dedicate their energies to improving specific aspects of our colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianAgriculturalOptimization_Dec</Label>
+    <String>Various aspects of our agricultural sector appear ripe for optimization, which, if implemented, should lead to much more efficient farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianFarmingFocus_Dec</Label>
+    <String>It should come as no surprise that our civilization became master farmers; our peaceful and nurturing disposition is without peer in this galaxy. And yet still a few more improvements can be made to our agricultural industry.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianColonizationFocus_Dec</Label>
+    <String>Our people should never have to suffer, even on an extreme world. We must do everything we can to ensure the quality of life of every Altarian, no matter where they live.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianBiospherePerfection_Dec</Label>
+    <String>Thanks to the latest technology, even the deadliest and most toxic worlds need no longer inflict such a harsh toll on the Altarians who live there.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInterstellarSpecialization_Dec</Label>
+    <String>If we want to continue sending ships further and further from the safety of Altaria, we should begin improving our equipment and navigational techniques immediately.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianIonOptimization_Dec</Label>
+    <String>Altarians never settle for good, and now that our engineers have had a chance to work with our Ion Drive systems for a bit, they've identified a number of ways to make them even better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianWarpFieldFocus_Dec</Label>
+    <String>Warp field technology is incredibly complicated, but that just means there's lots of room for improvement. Our finest minds have already come up with some promising leads.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHyperwarpMastery_Dec</Label>
+    <String>Altarian ships are already the best in the galaxy and yet still our engineers spend hours looking for ways to wring even more power from their engines.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianSensorOptimization_Dec</Label>
+    <String>Sensor systems are so often overlooked in favor of more glamorous technologies that it's highly likely we will be able to improve upon them with only a minimal amount of effort.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianEnergyFieldFocus_Dec</Label>
+    <String>Some of our ship's engineers have begun reporting back that there are a number of different ways we could begin improving our field detectors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianSensorMastery_Dec</Label>
+    <String>We have mastered sensor technology like few other races. But that's no reason to give up yet. A few more improvements should still be possible.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPrecursorRelicFocus_Dec</Label>
+    <String>Now that we've observed the impact that Precusor relics have on our society, we can coax Altarians to react to them in very specific ways.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianLifeSupportOptimization_Dec</Label>
+    <String>It's an easy sell to the budgetary oversight committee when we promise we're working to optimize our life support systems. Everyone wants the best for our crews.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianSupportFieldFocus_Dec</Label>
+    <String>Field-based life support systems are powerful, but still a little messy. Some tweaks to their design and operation could make them far more efficient and pleasant to use.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianLifeSupportMastery_Dec</Label>
+    <String>We shall spare no expense in building the best possible life support systems in the galaxy. Few races care for their crews like we do. Even now, our researchers work to improve these systems a bit more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianOrbitalSpecialization_Dec</Label>
+    <String>Building things in orbit is proving to be extremely challenging. Some more research is needed to identify areas of improvement and begin addressing them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianZeroGravityOptimization_Dec</Label>
+    <String>Expanding the scale of our micro gravity construction has proven to be a challenging but rewarding exercise. And recently, our construcion managers have found a few ways we can begin building even more efficiently.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianOrbitalConstructionFocus_Dec</Label>
+    <String>The state of the Altarian ship-building industry has never been better, our engineers continually finding ways to improve our large scale construction techniques. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHullMastery_Dec</Label>
+    <String>Altaria's ships already dominate the galactic playing field, and still our engineers find ways to make them better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCarrierFocus_Dec</Label>
+    <String>If we're going to risk Altarian pilots in fighter combat situations, we should ensure our carrier systems are as refined and efficient as possible.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianLogisticalOptimization_Dec</Label>
+    <String>Waste is never acceptable, but especially not in the depths of space. We should dedicate some research effort to finding new ways to improve our logistical capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianWeaponsSpecialization_Dec</Label>
+    <String>If we're going to divert resources to weapon systems for self-defensive purposes, we'll benefit if we focus our research efforts on a specific class of weapon.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianBeamWeaponOptimization_Dec</Label>
+    <String>Thanks to the hard work of our engineers in the material sciences, our next generation of beam weapons should be much more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianHighEnergyFocus_Dec</Label>
+    <String>However powerful our beam weapons are becoming, there are still a number of inefficiencies in them that can be improved upon. </String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianBeamWeaponMastery_Dec</Label>
+    <String>Altaria has, to the dismay of the aggressive species, become masters at using beam weapons. And still, despite our edge, we will not rest in our efforts to make them a bit better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianMissileOptimization_Dec</Label>
+    <String>After much work at the test range, which they promise they didn't enjoy, our weapons engineers have discovered a few ways we can improve our missiles systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianWarheadFocus_Dec</Label>
+    <String>Our weapons researchers promise that they haven't just been blowing stuff up for fun, and that they've in fact found a number of ways we could improve our missile warheads.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPayloadMastery_Dec</Label>
+    <String>It's a little dismaying to see how excitable our weapons researchers are getting. To enjoy using such destructive tools seems very un-Altarian. Still, their exuberance should lead to even more improvements in our self-defensive capabilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianKineticOptimization_Dec</Label>
+    <String>However vicious they are, if we're going to use them, we should at least make sure to use them properly. More research on kinetic weapons could result in any number of possible improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianKineticAccelerationFocus_Dec</Label>
+    <String>Our kinetic weapons are becoming incredibly dangerous, and the aggressor species of the galaxy now know we are not a race to be trifled with. We should continue improving our kinetic weapons to maintain our self-defensive capabilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianKineticMastery_Dec</Label>
+    <String>Altarians are masters of the kinetic weapon, and few species are foolish enough to menace our ships now. Let's continue our research efforts to ensure it stays that way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianInvasionOptimization_Dec</Label>
+    <String>Even if we never intend to use them, we will be a more credible player on the galactic stage if we are capable of using advanced invasion tactics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianGravitationalFocus_Dec</Label>
+    <String>Our ability to manipulate gravitational fields presents several unique tactical possibilities for our ground forces, although we should resolve to never use these weapons unless absolutely necessary.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDefensiveSpecialization_Dec</Label>
+    <String>Our earliest attempts at building defensive systems left much room for improvement. For the sake of our crews, we have to do better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianShieldOptimization_Dec</Label>
+    <String>Whether it's to make them stronger, cheaper, or lighter, there are a number of ways we can begin improving our shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianBarrierSystemFocus_Dec</Label>
+    <String>Careful analysis of our Barrier Field systems has revealed that we're dramatically underutilizing their potential. We should begin improving them immediately.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianShieldMastery_Dec</Label>
+    <String>Thanks to our dedicated efforts to master shield technology, Altarian crews are now incredibly safe.  Though that's no reason to rest; our shield systems can still get better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPointDefenseOptimization_Dec</Label>
+    <String>Our point defense systems are still quite primitive, with much room for improvement. For the sake of our crews, we must continue making these systems better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCounterMeasureFocus_Dec</Label>
+    <String>Our ECM suites are already incredibly effective, but this is only the first step. These systems can still be improved in a number of ways.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDroneSystemMastery_Dec</Label>
+    <String>Drone systems provide incredible proteciton against missile attacks. But no system is perfect, and our engineers believe we can still find cost or weight savings in these systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianArmorOptimization_Dec</Label>
+    <String>We should spare no expense when it comes to the protection of our crews, and immediately look for ways to improve upon our existing armor systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianArmorFocus_Dec</Label>
+    <String>Advanced computer modelling is capable of modelling armor behavior under impact, which should let our engineers see ways to improve upon the design of these systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianArmorMastery_Dec</Label>
+    <String>We've done excellent work protecting our crews to date, but can't assume the violent beings that menace us will halt their own weapons research. We must continue improving our armor systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDiplomaticSpecialization_Dec</Label>
+    <String>We should think very carefully about how we present ourselves to our neighbors. Studying their comically backwards ways of thinking should be the first step.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPoliticalSpecialization_Dec</Label>
+    <String>We should choose how we organize our government very carefully, to ensure the welfare and safety of all Altarians.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPoliticalFocus_Dec</Label>
+    <String>As our glorious civilization grows, a number of new methods of governmental organization have become practical. We should choose among them very carefully.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianPoliticalMastery_Dec</Label>
+    <String>We are masters of civilized debate and rational thinking, and all of Altaria benefits for it. So great is our powers of self-control that the most advanced polticial footings are now available to us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianDiplomaticOptimization_Dec</Label>
+    <String>We should ensure that the treaties we enter in to benefit our people in the maximum possible way. They should settle for nothing less.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianAllianceFocus_Dec</Label>
+    <String>There are different types of alliance which we should become familiar with. Depending on the limitations of the species we're allying ourselves with, some of these may be more appropriate than others.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCulturalOptimization_Dec</Label>
+    <String>Altarian culture is so obviously the pinnacle of what civilized beings are capable of, that we should do everything we can to ensure its spread throughout the galaxy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCulturalFocus_Dec</Label>
+    <String>It's often the case that our culture, however fine it is, doesn't penetrate as far as it should, the small minded people of the galaxy distracted by their small minded concerns. But some specific modifications may help us target these challenging audiences.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianCommerceSpecialization_Dec</Label>
+    <String>Targeted programs can help boost specific sectors of the Altarian economy, delivering wealth and benefit to where it's needed most.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianEconomicFocus_Dec</Label>
+    <String>A more refined understanding of the complexities of galactic markets will allow us to boost specific sectors of our economy, ensuring Altaria's strategic needs are met by its growing economy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianTradeOptimization_Dec</Label>
+    <String>Our traders are already masters of wringing profits from the simpler races of this galaxy, but with a little more effort, we can make their trade routes even more lucrative by targeting specific markets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianTradeFocus_Dec</Label>
+    <String>So trusted are Altarian traders that we can now begin creating trade routes that traffic in the materials needed to aid strategic goals of our civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianApprovalFocus_Dec</Label>
+    <String>Our people are so naturally filled with approval of our leadership, that manipulating their attitude feels a little crude. But in those rare cases where approval dips, it would be prudent to have available certain techniques to get the people back on our side.</String>
+  </StringTable>
+ 
+</StringTableList>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Created with the Gal Civ 3 Editor -->
+  <!-- GalacticEventsText.xml -->
+
+  <!-- Event Names and Descriptions -->
+
+  <StringTable>
+    <Label>ALittleHelp_Name</Label>
+    <String>Ahead of schedule...</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>ALittleHelp_Dec</Label>
+    <String>The excitement of exploring the galaxy is infectious. Your enthusiasm has spread to your engineers who have finished constructing one of your ships early.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>ALittleHelp_Bonus_Dec</Label>
+    <String>Your shipyard projects have completed early.</String>
+  </StringTable>
+</StringTableList>

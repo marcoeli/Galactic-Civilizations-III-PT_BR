@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- AbilityDefsText.xml -->
+
+  <StringTable>
+    <Label>DiscreetAbility_Name</Label>
+    <String>Discreto</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiscreetAbility_ShortName</Label>
+    <String>Discreto</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiscreetAbility_Dec</Label>
+    <String>Recebe gratuitamente um mercenário aleatório de nível 1 a cada jogo, quando se deparam pela primeira vez com o Bazaar.</String>
+  </StringTable>
+ 
+</StringTableList>

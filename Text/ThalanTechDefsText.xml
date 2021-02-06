@@ -1,0 +1,1368 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- ThalanTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>ThalanTechTree_Name</Label>
+    <String>Thalan Tech Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanTechTree_ShortDec</Label>
+    <String>Tech tree focused on Military and Research.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanTechTree_Dec</Label>
+    <String>Tech tree focused on Military and Research.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanColonizationTech_Name</Label>
+    <String>Adaptation</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanXenoIndustrializationTech_Name</Label>
+    <String>Industrialization Adaptation</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanIndustrialSpecialization1_Dec</Label>
+    <String>There's no sense stopping at "basic competence" when it comes to making things in alien environments. We should probably learn from the many mistakes we're still making, for example.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanXenoManufacturingMethods_Dec</Label>
+    <String>Some of our more precise manufacturing processes have resisted the move off-world, adapting them to a broad range of planetary and micro-gravitational environments proving to be a surprisingly challenging endeavor. We think we've got it now, but nevertheless still recommend you invest in extended warranties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanManufacturingFocus1_Dec</Label>
+    <String>Tooling our manufacturing centres to specialize in military production sends a pretty unfriendly message to anyone paying close attention to us. But it should make everyone in adapative camo fatigues happy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanManufacturingFocus2_Dec</Label>
+    <String>One of the unforseen side-effects of managing a civilization on this scale is finding things to do with all these people. Keeping them happy is as important as keeping them safe, and they can sometimes be pretty difficult about it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanManufacturingFocus3_Dec</Label>
+    <String>We thought we cleared them out after the last time, but some more accountants managed to slip into our manufacturing centers. Or they're living in the walls now. Regardless, they've found some more ways for us to reduce our manufacturing overhead.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanIndustrialExpertise_Dec</Label>
+    <String>By manipulating materials at the level of individual atoms, we can now construct things of unparalleled precision and complexity. Which has massively expanded our industrial capacity, along with creating an entirely new class of pretty terrifying workplace safety issues.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanIndustrialMastery1_Dec</Label>
+    <String>We're slowly ekeing out the last possible efficiencies of our military manufacturing processes. Our civilization is now essentially a war machine itself.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanIndustrialMastery2_Dec</Label>
+    <String>Few of our civilians seem to realize the challenge of constructing the farms, hospitals, and entertainment complexes that they rely on to survive. And yet every time we try to tell them they just yawn and walk away.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPracticalFusion_ShortDec</Label>
+    <String>Allows construction of improved powerplants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanQuantumPower_ShortDec</Label>
+    <String>Allows construction of exotic powerplants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHiveTech_Name</Label>
+    <String>Hives</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHiveTech_ShortDec</Label>
+    <String>Allows for the construction of the Dimensional Hive.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHiveTech_Dec</Label>
+    <String>This universe is very difficult to adapt to. By establishing a dimensional hive on our worlds we maintain a bond with our former universe, keeping us healthy and strong.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHiveSpecialization1_Name</Label>
+    <String>Helpful Hives</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHiveSpecialization1_ShortDec</Label>
+    <String>Lowers the Maintenance of all improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHiveSpecialization1_Dec</Label>
+    <String>Our hives have taken it upon themselves to help maintain our colonies, greatly reducing our maintenance expenses.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHiveSpecialization2_Name</Label>
+    <String>Productive Hives</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHiveSpecialization2_ShortDec</Label>
+    <String>Lowers the manufacturing cost of all improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHiveSpecialization2_Dec</Label>
+    <String>Our hives have taken it upon themselves to help with the construction of new facilities. This not only saves us credits, but it saves us time.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGaiaTheory_Name</Label>
+    <String>Gaia Theory</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGaiaTheory_ShortDec</Label>
+    <String>Allows for the construction of the Gaia Vortex achievement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGaiaTheory_Dec</Label>
+    <String>By building a Gaia Vortex on one of our worlds, we are able to pull pure life energy from our home universe, and distribute it to our worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanMotherHiveTech_Name</Label>
+    <String>Mother Hives</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanMotherHiveTech_ShortDec</Label>
+    <String>Allows for the construction of the Mother Hive.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanMotherHiveTech_Dec</Label>
+    <String>Once fully adapted to this universe, our hives become things of wonder, allowing for the free exchange of thoughts between this universe and our own.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHyperionMatrixTech_Name</Label>
+    <String>Hyperion Matrix</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHyperionMatrixTech_ShortDec</Label>
+    <String>Allows the construction of the Hyperion Matrix achievement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHyperionMatrixTech_Dec</Label>
+    <String>The Hyperion Matrix is a repository of knowledge from our universe. It allows us to adapt our knowledge to the technologies of this universe at greatly accelerated rate.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanInstitutionalResearch_Name</Label>
+    <String>Technological Adaptation</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanResearchOptimization2_Dec</Label>
+    <String>In the rush to begin processing and analyzing all the new data our rapid expansion has provided, managerial oversight has slackened, and a number of horribly wasteful research practices became commonplace. By eliminating those we should be able to make our research quite a bit cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanResearchOptimization3_Dec</Label>
+    <String>Research labs are full of expensive toys which are in a near constant state of breaking down. By considering, even a bit, how to do some of this more sustainably, we expect to see broad cost savings over the life of a lab.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanIntegratedResearch_Dec</Label>
+    <String>In the last few years we've made great strides in our understanding of the universe, and now require larger academies to facilitate the multi-disciplinary studies needed to push back the veil further. The researchers are also demanding something called a "faculty bar."</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanResearchMatrixTech_Dec</Label>
+    <String>Imagine the benefit of millions of scientists, working away in a city-sized research facility, with none of the distractions of the outside world like weather or family or basic social contact. Yes, a few of them will probably turn into psychopaths, but we were planning to keep an eye on them anyways.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDeeperKnowledge_Dec</Label>
+    <String>In the past years, our understanding of the universe has grown by leaps and bounds. Teams who have made an effort to slow down and consider some of the implications of these discoveries are now revealing deeper patterns in the fabric of reality.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanQuantumUnderstanding_Dec</Label>
+    <String>We're no longer groping blindly at the edge of the sub-atomic world. For one thing, our researchers are pretty sure there are actually twenty eight edges to the sub-atomic world, that they're less edges than toroids, and that there are actually now zero of them. It turns out that reality is super complicated.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanResearchCoordination_Dec</Label>
+    <String>Coordinating research teams scattered across multiple worlds has only gotten more challenging as our civilization has grown. Research Coordination Centers should help ease that challenge, and minimize any duplication of effort.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPlanetaryImprovement_Name</Label>
+    <String>Planetary Adaptation</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPlanetarySpecialization1_Dec</Label>
+    <String>Our farming technology has improved dramatically, and we're beginning to see enhanced crop yields as a result.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanXenoAgriculturalAdaptation_Dec</Label>
+    <String>Adapting our agricultural expertise to fit a variety of alien environments has proven very difficult, and taken many simultaneous advances in our understanding of soil, atmospheric science, and shovels. That's right. On some planets, we need special shovels.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanAgriculturalOptimization3_Dec</Label>
+    <String>By taking a step back from the cutting edge of agriculture science, and using older, more reliable equipment, we can reduce the costs of running most of our farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanAgriculturalMastery1_Dec</Label>
+    <String>Our food production capacity has taken another step forward. Also, we've finally gotten that weird taste out of micro-gravity raised carrots.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanAgriculturalMastery2_Dec</Label>
+    <String>We have such an excess quantity of food now that many of our people have taken it almost as a challenge to create families capable of consuming it all.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanXenoIrrigation_Dec</Label>
+    <String>There are a number of surprising challenges when irrigating an alien planet, related to the unique gravity, soil, and atmosphere we might find there. Also, the water is often hiding.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanXenoBiology_Name</Label>
+    <String>Biological Adaptation</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanXenoBiology_Dec</Label>
+    <String>Understanding how our old familiar plants grow on alien worlds will be critical to our chances of survival when colonizing the stars. And if we want to avoid destroying the biosphere of our new homes, we'd better have a handle on what our germs are about to do to them too.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPopulationEnhancement_Dec</Label>
+    <String>It takes a lot of the romance out of it, but for our colonies to succeed, they need babies, and they need them quickly. This research into fertility enhancement and mood music should help.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanBioReplication_Dec</Label>
+    <String>It turns out that once we took all of the fun parts out of reproduction, we could dramatically increase our growth rates. Sure bio-replication might be ushering us into a nightmarish world of conformism and fewer available parking spaces, but we're sure we'll manage somehow.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanEnvironmentalEngineering_Name</Label>
+    <String>Environmental Adaptation</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanColonizationFocus1_Dec</Label>
+    <String>Our experience dealing with the challenges of life on aquatic worlds has allowed us to make living there almost as comfortable as anywhere else in our civilization. Bathing caps are no longer mandatory.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanColonizationFocus2_Dec</Label>
+    <String>We're now so good at living on snowball worlds, that many colonists go days at a time without using mittens, something which would have been considered wildly reckless even a few years ago.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanBiospherePerfection1_Dec</Label>
+    <String>The mutations and genetic defects which were a fact of life for the early colonists of radioactive worlds are now a thing of the past. Any further mutations are now for cosmetic purposes only.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanBiospherePerfection2_Dec</Label>
+    <String>We have mastered the challenges of living on even the most poisonous of planets. You still won't want to go outside without your helmet, but we've moved most of the places worth going to inside anyways.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanUniversalSoilAdaptation_Name</Label>
+    <String>Universal Soil Adaptation</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanUniversalSoilAdaptation_ShortDec</Label>
+    <String>Allows the construction of the Universal Soil Adapter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanUniversalSoilAdaptation_Dec</Label>
+    <String>Though this technology can be expensive, it is also very useful. It allows us to transform even the most barren location into habitable terrain.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanTerraformingTech_Dec</Label>
+    <String>Terraforming is a tricky business, delicately poised between making the world more habitable for us, without destroying an entire biosphere to do so. And there aren't any do-overs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanSoilReclamation_Dec</Label>
+    <String>We can now terraform just about any terrain on a planet. If you can crash a ship there, we can make it usable.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanEnvironmentalResequencing_Dec</Label>
+    <String>We're playing with powerful forces now, capable of manipulating planetary terrain on a scale never before seen in history. We must use this power wisely, or at least not actively for evil.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanEngineeringTech_Name</Label>
+    <String>Exploration</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanEngineeringTech_Dec</Label>
+    <String>For generations, we've looked up at the stars and wondered, "What if?" Well buckle up, because "if" has happened. By bending space around our ships, they're able to use conventional propulsion within a pocket of normal space, while accelerating at vastly greater speeds in reality. The stars have gotten closer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanInterstellarTravel_Dec</Label>
+    <String>Even at the incredible speeds we can travel at now, if we want to journey anywhere beyond the closest stars, we'll need to make significant improvements to our navigational and life support systems. More refined hyperdrives wouldn't hurt either.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanInterstellarSpecialization1_Dec</Label>
+    <String>After analyzing how our first generation of hyperdrives have (and haven't) worked, we've come up with a number of ways to improve our ship's speeds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanIonDriveTech_Dec</Label>
+    <String>By using magnetic fields to capture ions from the interstellar medium during hyperdrive flight, we can funnel this additional mass into the exhaust of our conventional fusion engines, increasing the overall speed and efficiency of the propulsion system. We call these Ion Drives, and they make us go faster, basically.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanIonOptimization1_Dec</Label>
+    <String>The ion capture technology of our Ion Drives requires a fiendish amount of tuning which our ship's engineers are only just learning to automate. Once this work is done, we should see slightly higher speeds across our fleet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanIonOptimization2_Dec</Label>
+    <String>Hyperfield generators are no longer the rare pieces of equipment they once were, and we're beginning to see efficiencies of scale in the manufacture of them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanWarpFieldTheory_Dec</Label>
+    <String>Our researchers are now able to "stack" up the space-bending fields of our hyperdrives, magnifying the acceleration effect. They call these stacked fields "Warp Fields" and are able to use them to create vastly more powerful engines.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanWarpFieldFocus2_Dec</Label>
+    <String>Now that we're using stacked fields and multi-field generators, even the most minuscule improvement in efficiency we find leads to significant cost savings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHyperwarpWaves_Dec</Label>
+    <String>A Hyperwarp Wave creates a cascading series of warp fields at a distance in front of the vessel, allowing the warp drive to effectively compress already compressed space. That glosses over a number of complicated mathematical issues which had to be sorted out to make it work, but our researchers now believe we can begin developing even faster drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHyperwarpMastery1_Dec</Label>
+    <String>No other civilization in the galaxy can match ours for the efficiency and ease with which we build our drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHyperwarpMastery2_Dec</Label>
+    <String>We have all but mastered hyperfield technology, and are capable of wringing the most possible speed from even the smallest engines.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanStellarFoldingTech_Dec</Label>
+    <String>Stellar folding is the ultimate extension of hyperfield technology, bending space on a scale never seen before, with hyperfields approaching the diameter of a star. Our ships are now the fastest in the galaxy, and perhaps the fastest the galaxy has ever seen.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravityFieldManipulation_Dec</Label>
+    <String>It took many decades of effort before our physicists were finally able to find the graviton. It turned out to be inside us the whole time. Inside of everything the whole time, to be technical. Anyways, having harnessed its power, we can now generate large artificial gravity fields, which should greatly increase the maneuverability and tactical options of our ships in combat.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHyperfieldDisruption_Dec</Label>
+    <String>By analyzing the interference effects of multiple hyperwave fields from different ships travelling in close proximity, and combining that with our ability to generate hyperfield effects at ever increasing ranges, we can now limit the speed of enemy ships within the range of a properly equipped starbase.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanStellarFieldProjection_Dec</Label>
+    <String>The Stellar Field Projector allows properly equipped ships to effectively "tow" ships with less capable drives. The same technology will help us improve the hyperfield enhancing capabilities of our Starbases.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanInterstellarSurvey_Dec</Label>
+    <String>"Look before you leap," is excellent advice in all sorts of aspects of life and galactic civilization building. Now we finally have the tools to do just that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanEnergyFieldSensors_Dec</Label>
+    <String>We've long been able to detect the fields which all ships emit to control their hyperdrives. But improvements in our understanding of the effects of space folding have revealed that those fields are detectable at much greater distances than previously believed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanEnergyFieldFocus2_Dec</Label>
+    <String>Further refinements to our sensor manufacturing process has led to the production of cheaper, more efficient sensors. The accountants are all very excited.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanSensorMastery2_Dec</Label>
+    <String>A careful analysis of the latest generation of sensor systems has revealed that several of their components don't technically have to exist in this universe. By shifting their workload into another plane, we can reduce the amount of mass we have to lug around in ours.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanTargetingAssistTech_Dec</Label>
+    <String> Study of how our ships have performed (and occasionally underperformed) in combat have led to a number of improvements in our tactical targeting systems. At the same time, we've devised a system which should confuse enemy sensors, for even greater tactical benefit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanTargetingSupport_Dec</Label>
+    <String> We've adapted our tactical sensor improvements into support modules, capable of allowing a single ship to provide the same sensor accuracy and evasive benefits to an entire fleet of vessels.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanXenoArcheology_Dec</Label>
+    <String>For some time now we've known of a race, or races, of long dead aliens who we've been calling Precursors. They were obviously massively beyond us in their technological capacity, and it's taken some doing to adapt our survey systems and techniques to even identify their relics as such. But now that we have, we hope to learn a few of their secrets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPrecursorRelicFocus2_Dec</Label>
+    <String>The public seems fascinated by the very idea of the Precursors, and the few relics that we've found have had a surprising range of effects on our society. If we desire, we can begin trying to capitalize on these cultural benefits. Precursor souvenirs. Wacky Precursor catchphrases. Things like that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPrecursorRelicFocus3_Dec</Label>
+    <String>We're only just scratching the surface of most of the Precursor relics we can get our hands on, most of which only seem able to generate patterns of pretty lights. Though it turns out there is a massive consumer market for that, so...</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPrecursorEngineering_Dec</Label>
+    <String>We've advanced to the stage that we can begin trying to recreate some of the Precursor's technology. Some extremely advanced fabrication equipment will be needed to even attempt this, but the benefits to our other research programs could be immeasurable.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPrecursorUnderstanding_Dec</Label>
+    <String>New Precursor relics are almost immediately incorporated into our understanding of the physical universe, and we're now close to building our own relics ourselves. We have almost as full an understanding of Precursor technology as the Precursors did themselves. We wonder if they'd be our friends?</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanLifeSupport_Dec</Label>
+    <String>It seems surprising that the factor limiting the travel range for most ships is its life support system, but there you have it. For anything less than a colony ship, keeping the occupants alive is now a bigger challenge than keeping the engines fueled.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanLifeSupportOptimization2_Dec</Label>
+    <String>Reducing the cost of building life support systems is one of those necessary things we have to do that we don't want to advertise too much. It's hard enough finding naval recruits as it is.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanSupportFieldFocus1_Dec</Label>
+    <String>It turns out that by aerating the nutrient sludge we provide our crews it takes up significantly more volume in their stomachs, making them feel full with less food. There are some associated problems with, uh, gas, but we're coming up with special filters to address that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanSupportFieldFocus3_Dec</Label>
+    <String>By using the latest generation of efficient field generators, and putting our crews on a diet, we've been able to reduce the mass of our life support systems even more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPromethionSupportSystems_Dec</Label>
+    <String>The Promethion Support System is the logical extension of our support field technologies, with all the requirements for a living organism - oxygen, water, and food - now piped directly into that organism rather than left to float around and get on the equipment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanLifeSupportMastery2_Dec</Label>
+    <String>We've figured out how to coax nutrient sludge to deliver itself to the crew using embedded Promethion field effectors, saving us the weight of carrying around heavy fixed effectors. And the embedded effectors come right out in the waste stream, ready for reuse!</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanLosslessSupportSystems_Dec</Label>
+    <String>Our life support systems are now close to perfect, wasting no resources whatsoever, and recycling essentially all generated waste products. As an added bonus, the experience of being surrounded and penetrated by deeply personal fields is now much less humiliating for the crew.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonics_Name</Label>
+    <String>Gravitonics</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonics_ShortDec</Label>
+    <String>Increase the Hull Capacity of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonics_Dec</Label>
+    <String>Our knowledge of gravity is far beyond that of any of this universe's native races. We have been able to apply it to our ship construction which allows us to carry more components of any kind.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonicSpecialization1_Name</Label>
+    <String>Offensive Gravitonics</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonicSpecialization1_ShortDec</Label>
+    <String>Reduce the Mass of our weapons systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonicSpecialization1_Dec</Label>
+    <String>By specializing in our gravitonic technologies we have been able to shrink our weapons systems substantially, allowing us to carry more of them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonicSpecialization2_Name</Label>
+    <String>Defensive Gravitonics</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonicSpecialization2_ShortDec</Label>
+    <String>Reduce the Mass of our defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonicSpecialization2_Dec</Label>
+    <String>By specializing in our gravitonic technologies, we have been able to shrink our defense systems substantially. Which allows us to better defend ourselves from this universe's natives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonicSpecialization3_Name</Label>
+    <String>System Gravitonics</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonicSpecialization3_ShortDec</Label>
+    <String>Reduce the Mass of drive, life support and sensor systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonicSpecialization3_Dec</Label>
+    <String>By specializing in our gravitonic technologies we have been able to shrink the components required to explore the galaxy, giving us a substantial edge over the natives when looking for new worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonicManipulating_Name</Label>
+    <String>Gravitonic Manipulation</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonicManipulating_ShortDec</Label>
+    <String>Increase Hull Capacity of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonicManipulating_Dec</Label>
+    <String>With further study, we have been able to push our knowledge of gravatonics to new levels. Our ships can now carry even more components of all kinds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonicMastery_Name</Label>
+    <String>Gravitonic Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonicMastery_ShortDec</Label>
+    <String>Increase Hull Capacity of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonicMastery_Dec</Label>
+    <String>We have mastered mass and gravity to the point that our ships can new carry more equipment than any other race in this universe.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanOrbitalManufacturing_Dec</Label>
+    <String>Moving our ship construction operations to micro-gravity environments will eventually allow for the construction of massive structures. We're not quite there yet, but this, the first step out of the well, was always going to be the biggest.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanOrbitalSpecialization1_Dec</Label>
+    <String>It turns out that you can't just put anyone in a space suit and get them to build things in orbit, because a huge majority of people don't understand what an orbit is. Some improved training programs should dramatically improve our orbital manufacturing capability.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanOrbitalSpecialization3_Dec</Label>
+    <String>Orbital plane change maneuvers are expensive, and something we want to avoid if we can. Getting material to the right orbit when it needs to be there is a huge challenge which we're only just coming to grips with.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanZeroGravityConstruction_Dec</Label>
+    <String>Most of our initial attempts at building structures in micro-gravity environments were clumsy variations of ground-based techniques, not far removed from banging rocks together. Now we have the expertise to design and implement true zero-gravity construction practices, opening the door to a whole new scale of vessels.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanZeroGravityOptimization1_Dec</Label>
+    <String>After donating a few hulls for weapons practice, we were able to see the structural damage inflicted on them, we identify structural reinforcements that should toughen each ship substantially.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanZeroGravityOptimization2_Dec</Label>
+    <String>Our new zero gravity construction program has enabled us to build hollow structural elements which are still able to handle very high compression loads. By maximizing the use of these, and routing various ancillary ship systems through the cavities, we can save space for mission critical equipment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanLargeScaleConstruction_Dec</Label>
+    <String>Building larger space ship hulls requires a lot more than just adding more stuff to them. Just ensuring that they won't collapse on themselves under acceleration is a serious challenge. Seating arrangements are another key factor, so that the crew doesn't collapse in on themselves under acceleration.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanOrbitalConstructionFocus1_Dec</Label>
+    <String>It seems counter-intuitive, but by introducing very small weaknesses in the molecular structure of our hulls, we can make them deformable in very controllable ways, which makes them quite a bit more resilient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanOrbitalConstructionFocus3_Dec</Label>
+    <String>The latest generation of self-propelled manufacturing equipment allows our worker to maneuver inside of hulls with more ease than ever before, reducing the challenge and expense of construction.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanOrbitalConstructionFocus2_Dec</Label>
+    <String>As our hulls grew ever larger, we began to lose some of the art of packing that our predecessors had. But now thanks to the scale of our ships, even very small improvements in packing can lead to much more room for everything else.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanMassiveScaleConstruction_Dec</Label>
+    <String>We're building some of the largest ships this galaxy has ever seen, capable of blotting out the stars. Obviously any ship can blot out the stars if you get close enough to it. You just don't have to get very close to these ones for that to be the case. Nor would you want to.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHullMastery1_Dec</Label>
+    <String>Thanks to advances in the field of bristling, never before have our ships been so bristling with weapons. They could also bristle with other things we suppose. Your choice.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHullRepairSystems_Dec</Label>
+    <String> The same field technology we use to strength our ships can be used to conduct partial repairs to them as well, straightening and reinforcing battle-damaged structural elements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanSelfHealingHulls_Name</Label>
+    <String>Self Repairing Hulls</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanSelfHealingHulls_Dec</Label>
+    <String> Tiny little self-replicating nanobots are capable of almost anything so long as you don't ask too many questions about them. By installing nanobot repair modules in our ships and starbases, our ships will be able to repair damage during battle itself.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHighCapacityCarriers_Dec</Label>
+    <String> Thanks to our latest generation of fighters, designed to be more compact and packable, along with more efficient repair, reloading, and recovery facilities, we've been able to greatly improve the carrying capacity of our carriers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanLogisticalOptimization1_Dec</Label>
+    <String>Now that we have a little more practice moving assets around in space, and figured out some of the issues relativistic travel creates with our timekeeping and administration, we've been able to significantly improve our logistical capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanLogisticalOptimization3_Dec</Label>
+    <String>Shipyards are, by some measures, the most complicated constructs we have ever created. Any improvements we can make to their management and operations will result in significant cost savings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDeepSpaceLogistics_Dec</Label>
+    <String>Whether it's via unmanned probes, deep space caches, or our network of merchant vessals, keeping our fleets well stocked while our civilization ever expands has proven to be a tremendous, but still very boring, challenge.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGalacticLogistics_Dec</Label>
+    <String>Our mastery of mass-scale logistics is the envy of the galaxy. Well. The part of the galaxy which gets excited about logistics that is.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanInterstellarMining_Dec</Label>
+    <String>We couldn't have ships without the resources to build them. The same can be said for most things actually. Basically, improved mining technologies will benefit every aspect of our civilization, or at least the aspects of our civilization which require building things.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHighEfficiencyMining_Dec</Label>
+    <String>Our mining operations have gotten better still, increasing the total amount of resources we're capable of generating, while losing less miners than ever.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanResourceExtraction_Dec</Label>
+    <String>Valuable minerals and resources can be found in the crust of most planets in extremely low concentrations. Extracting these hasn't been practical until the development of probes capable of independently navigating the subsurface while cracking rock to collect the goodies within.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanLosslessMining_Dec</Label>
+    <String>Miniaturizing our resource extraction probes to the nano-scale has allowed for almost perfectly lossless resource extraction. The rarest of rare resources can now feasibly be targeted for extraction.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanWarfareTech_Dec</Label>
+    <String>We can't be naive about what we might find in the galaxy. Or who. From this point on, our ships must be armed, whether to protect against some yet unseen enemy, or even ourselves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanWeaponsSystemsTech_Dec</Label>
+    <String>The best defense is a good offense. Interestingly, so is the best offense. With that in mind, we've developed  weapon systems which should prove very well suited to space-based defense. And, as discussed, offense.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanBeamWeapons_Dec</Label>
+    <String>Whether energy, particles, or both at the same time, there's an awful lot of destructive potential in suddenly sending a lot of them all at one place.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanBeamWeaponOptimization1_Dec</Label>
+    <String>A new generation of the ultra transparent materials we use in our focusing crystals has made it possible to increase the damage potential of our beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanBeamWeaponOptimization3_Dec</Label>
+    <String>Lacking the requirements for ammunition storage, beam weapons have always been mass-efficient. And after some hard work by the boys and girls in the lab, now they're more so.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanMatterDisruption_Dec</Label>
+    <String>Our researchers have been able to weaponize a columnated beam of particles capable of disrupting the strong nuclear force, severing the bonds which hold the nucleus together, turning matter into smaller chunks of matter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHighEnergyFocus2_Dec</Label>
+    <String>For a long time the manufacture of beam weapons was as much art as science, requiring highly trained technicians to individually polish and tune each weapon. By making concentrated efforts to standardize beam weapon manufacturing, we're finally able to automate portions of it, reducing the cost of each unit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHighEnergyFocus3_Dec</Label>
+    <String>The heaviest parts of beam weapons has always been the charge coils and their associated cooling equipment. But with the latest generation of super-conductors we can now build these smaller and more compact than ever.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPlasmaProjection_Dec</Label>
+    <String>Thanks to a breakthrough in containment technology, we're now able to generate columnated plasma containment fields at incredible distances. The upshot to this is that we can now send massive quantities of plasma at relativistic velocities in the direction of anything we don't like very much.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanBeamWeaponMastery1_Dec</Label>
+    <String>Our supply chain for the creation of plasma containment fields had a couple of kinks that needed to get worked out, but now that we have, we expect to be able to create beam weapons for far less resources.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanBeamWeaponMastery2_Dec</Label>
+    <String>We're now able to push our beam weapons right up to the limits that physics allow. If we want any more power per unit of mass, we may have to move to a different universe.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDoomRayTech_Dec</Label>
+    <String>An adaptation of the phaser particle emitter has resulted in massive improvements in the induced matter-breakdown reaction, making it effective against even the highest density armor. Also of note, our scientists are pretty sure the reaction won't consume the entire universe, so feel free to continue deploying it as you see fit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanBeamWeaponAugmentation_Dec</Label>
+    <String>Our beam weapons use a variety of systems to accumulate energy prior to the weapon firing. We've found that the capacity of these energy storage systems can be augmented by an external field, which although expensive, allows for increased beam output. Most interestingly, such fields can be theoretically projected at great distances, potentially improving the beam output of an entire fleet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHighEnergyTransfer_Dec</Label>
+    <String>After considerable study in the way that our beam weapons interact on a subatomic level with both shield systems and hulls, we've developed systems capable of reducing the effectiveness of enemy shields, or absorbing enemy beam attacks on our own vessels.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHighEnergyMagnification_Dec</Label>
+    <String>An improved understanding of the effects our beam augmentation fields have has resulted in the possibility of even greater beam outputs. Our beam weapons have that funny smell again, but we don't hear many crew members complaining.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanWarheadFocus2_Dec</Label>
+    <String>The most delicate part of missile manufacturing was the warhead, for obvious reasons. But the latest generation of ultra-stable exposives should reduce both manufacturing costs and workplace accidents significantly.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPhotonicWarheads_Dec</Label>
+    <String>One of the biggest downsides to missile based technology is that much of the energy is expended on the outer surface of enemy vessels. By including with our warheads a device which releases a high energy burst of photons at the moment of impact, we can achieve substantial penetration against both armor and shield systems, greatly increasing the destructive potential of our warheads.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPayloadMastery2_Dec</Label>
+    <String>Modeling of the subatomic interactions our warheads make upon detonation against various hull and shield systems have revealed the possibility of making lighter, more efficient warheads.c</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanNightmareTorpedoTech_Dec</Label>
+    <String>The Nightmare torpedo contains a tiny singularity trapped in a pocket universe until the moment of impact, which upon being released causes horrifying damage to anything foolish enough to be standing by a place we're firing something called Nightmare torpedos at.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanMissileAugmentation_Dec</Label>
+    <String>Our weapons researchers have come up with a number of ship or starbase based sensor systems which can improve the tracking, and ultimately the range of our missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanIntelligentWarheads_Dec</Label>
+    <String>Cluster warheads are capable of overwhelming and neutralizing enemy point defense systems. And our fleet-based guidance systems, along with the latest generation of information-sharing "pilot" missiles, will allow for even more efficient guidance and improved range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanKineticOptimization2_Dec</Label>
+    <String>Never before have we needed to make electromagnetic coils in such quantities, and the early days of kinetic weapons were plagued by supply-chain problems. But supply has finally ramped up to meet demand, and we should see cost savings across all associated kinetic weapons programs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanKineticOptimization3_Dec</Label>
+    <String>Some experimentation with the winding patterns of our electromagnetic coils has revealed a number of subtle synergistic effects which we can take advantage of, leading to tighter, more compact coils, and ultimately, lower mass weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPulseCannonTech_Dec</Label>
+    <String>Research efforts to emit tight clusters of particles at rapid velocities have led to a weapon which gets around some of the practical limitations of slug based mass drivers. Called pulse cannons, they have similar tactical characteristics as previous generations of kinetic weapons. They're just much more powerful.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanKineticAccelerationFocus1_Dec</Label>
+    <String>The latest generation of superconductors have enabled us to deliver energy to our weapon systems much more rapidly. The trade off is smaller projectiles, though as they'll be launched at higher velocities, the destructive potential will be similiar, and the weapons will have a much longer effective range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanKineticAccelerationFocus2_Dec</Label>
+    <String>The latest generation of superconducting electromagnetic coils, and their less-strenuous cooling requirements, make them much less fragile to handle. We expect to see significant cost savings now that we won't break as many during production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanKineticAccelerationFocus3_Dec</Label>
+    <String>Our new ultra-low resistance electromagnets generate a lot more kick per unit weight, leading to lower mass accelerators. So feel free to cram more of them into whatever you're cramming them into.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonThrower_Dec</Label>
+    <String>By synthesizing and launching pulses of gravitons at the enemy, we can induce massive shifts in the local gravity of the ship systems they strike. This will cause incredible amounts of damage, and probably make anyone standing nearby feel really dizzy. Before they die.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanKineticMastery1_Dec</Label>
+    <String>"We Make Kinetic Weapons Faster," is probably the dumbest slogan ever conceived of, but the factory workers seem really proud of it, so no-one had the heart to tell them. And to be fair, they do make them really quite quickly now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanKineticMastery2_Dec</Label>
+    <String>Our scientists have all but mastered kinetic weapons, and are approaching the limits of the field, making them as mass efficient as theoretically possible.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanQuantumDrivers_Dec</Label>
+    <String>Quantum drivers fire shells which contain small quantum fields which, on impact, pull in a tremendous amount of mass from a neighboring dimension. We're not sure which dimension and can only hope that they didn't need that mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanSingularityDrivers_Dec</Label>
+    <String>The pinnacle of kinetic weapon technology, these launch micro singularities that collapse into existance shortly after impact. These are bad news, the worst news really, for anyone who can't get out of the way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalWeapons_Name</Label>
+    <String>Dimensional Weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalWeapons_ShortDec</Label>
+    <String>Increase the Attack of all weapons types.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalWeapons_Dec</Label>
+    <String>By pulling power from extra-dimensional sources we are able to make our weapons exceed the limitation of this universe's laws.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalWeaponFocus1_Name</Label>
+    <String>Beam Shifting</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalWeaponFocus1_ShortDec</Label>
+    <String>Increase Accuracy of our beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalWeaponFocus1_Dec</Label>
+    <String>Through dimensional shifting we are able to make our beam weapons target slightly into the future, greatly increasing their accuracy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalWeaponFocus2_Name</Label>
+    <String>Missile Shifting</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalWeaponFocus2_ShortDec</Label>
+    <String>Increase Accuracy of our missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalWeaponFocus2_Dec</Label>
+    <String>Through dimensional shifting we are able to make our missile weapons target slightly into the future, greatly increasing their accuracy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalWeaponFocus3_Name</Label>
+    <String>Kinetic Shifting</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalWeaponFocus3_ShortDec</Label>
+    <String>Increase Accuracy of our kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalWeaponFocus3_Dec</Label>
+    <String>Through dimensional shifting we are able to make our kinetic weapons target slightly into the future, greatly increasing their accuracy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanMilitarizationTech_Dec</Label>
+    <String>We already have a significant amount of structures in orbit and on the ground, all of which can now be militarized with modest extra investment and some new uniforms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPlanetaryInvasion_Dec</Label>
+    <String>We've developed the equipment and tactics necessary to land on a world and take it by force. We are now the alien invaders.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanInvasionOptimization1_Dec</Label>
+    <String> So it turns out that thanks to the properties of mass, the easiest way to pacify something is to just drop something on it. It takes a bit of practice to get right, but the practice is fun too.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanInvasionOptimization2_Dec</Label>
+    <String> Information warfare lacks a certain visceral appeal, but by using EMP's and targetted hacking attacks, we can cripple an enemy's coordination abilities, dramatically limiting the effectiveness of their defenses. If they want to keep fighting after that, then it can get visceral.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanInvasionOptimization3_Dec</Label>
+    <String> Let's be honest with ourselves. If we're now the alien invaders, there's no reason we have to be nice about it. Yes we'll have to live with the consequences of our actions. But at least we'll be the ones who live.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitationalFocus2_Dec</Label>
+    <String> Inducing a planet to suddenly experience massive, worldwide volcanic activity is a pretty extreme step. That said, it certainly will pacify any defenders. Also liquify them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalFazing_Name</Label>
+    <String>Dimensional Phasing</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalFazing_ShortDec</Label>
+    <String>Jams enemy targeting systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalFazing_Dec</Label>
+    <String>By manipulating dimensional phasing we can make all of our ships more difficult to target, and our defense systems more powerful.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalFazingFocus1_Name</Label>
+    <String>Shield Phasing</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalFazingFocus1_ShortDec</Label>
+    <String>Boost the shield strength of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalFazingFocus1_Dec</Label>
+    <String>We have found a way to apply dimensional phasing to our shield systems, making them more resistant to this universe's beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalFazingFocus2_Name</Label>
+    <String>Phased Point Defenses</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalFazingFocus2_ShortDec</Label>
+    <String>Boost the Point Defense of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalFazingFocus2_Dec</Label>
+    <String>We have found a way to apply dimensional pasing to our Point Defense systems, making them much more resistant to this universe's missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalFazingFocus3_Name</Label>
+    <String>Phased Armor</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalFazingFocus3_ShortDec</Label>
+    <String>Strengthens the Armor of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalFazingFocus3_Dec</Label>
+    <String>We have found a way to apply dimensional phasing to our Armor, making it more resistant to this universe's kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDefenseSystemTech_Dec</Label>
+    <String>Naval officers are notoriously squishy, and otherwise difficult to protect in a ship that operates in hard vacuum. But we've got to try, otherwise the squishy officers will stop getting in to the ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDefensiveSpecialization1_Dec</Label>
+    <String>Deflecting or diffusing incoming weapon fire is really, really hard, and we're far from having a really good understanding of it. Our latest round of research has only succeeded in making existing systems a bit cheaper to build.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDefensiveSpecialization2_Dec</Label>
+    <String>Making our point defenses fire more crap into the space around the ship is a simple solution to a complicated question. Though a surprisingly effective one.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanShieldOptimization1_Dec</Label>
+    <String>Of all the suggestions we've received from the field on how to improve our shield systems, "Please make them bigger," seemed to be their most common. So we've done that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanBarrierFieldGeneration_Dec</Label>
+    <String>The latest generation of shielding technology, the so called Barrier Field, provides a number of improvements over previous systems. Now capable of absorbing a portion of the energy which strikes it, this dramatically increases the energy efficiency of the system, allowing for ultimately much more powerful shields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanBarrierSystemFocus2_Dec</Label>
+    <String>After the first few prototypes went out the door, we've been able to achieve some economies of scale in the manufacture of our Barrier Field systems, reducing the cost of shield components.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanBarrierSystemFocus3_Dec</Label>
+    <String>We've recently been able to shave a ton of weight off our shield generators thanks to the latest generation of superconductors and their less extensive cooling requirements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanShieldMastery1_Dec</Label>
+    <String>Cheaper shields never meant less effective shields, and it's only taken a few decades for our troops to finally understand that. Which is good, because our shields are spectacularly cheap now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanShieldMastery2_Dec</Label>
+    <String>It's impossible to make the energy emitters of our shields any denser, our engineers now claim. They claim that kind of thing a lot and always take it back later, but they seem pretty sure this time.c</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanShieldSupportSystems_Dec</Label>
+    <String>Advances in the focusing capabilities of our shield generators has given us the ability to generate and augment shields at a distance. This should provide massive tactical and strategic options for fleet operations.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPointDefenses_Dec</Label>
+    <String>An array of tiny computer controlled railguns that track and destroy incoming missiles, point defense systems are unparalleled at protecting ships and starbases from missile attacks, though still aren't terribly helpful at defending against other classes of weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPointDefenseOptimization1_Dec</Label>
+    <String>A careful analysis of various missile performance envelopes has led us to adjust the firing patterns of our point defense systems, which should make them more effective.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPointDefenseOptimization2_Dec</Label>
+    <String>The sensor and tracking equipment our point defense systems use are fairly specialized pieces of equipment that were initially quite rare and costly. Now that we've dedicated a lot of effort to building point defenses, the price of those systems is starting to come down.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPointDefenseOptimization3_Dec</Label>
+    <String>The slugs fired by point defenses don't need to be large, and were limited by the fact that we could only build railguns so small. But now that we can build more compact railguns, we should see significant weight savings for all our point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanCounterMeasures_Dec</Label>
+    <String>By deploying electronic counter measures which interfere with and confuse incoming missile attacks, we've greatly increased the survivability of our ships and starbases. Against missiles at least. Hard to confuse a laser.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanCounterMeasureFocus1_Dec</Label>
+    <String>There's always a generational game of leap frog being played between missile designers and ECM designers, but we believe our latest algorithims have given us the leg up on the bad guys this time.c</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanCounterMeasureFocus2_Dec</Label>
+    <String>Our earliest attempts at ECM suites were heavily customizable, requiring a great deal of hand tuning to get to perform. Now that we know what works, we can automate much more of the manufacturing and installation process.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDroneSentrySystems_Dec</Label>
+    <String>By installing our point defense systems on drone platforms that orbit our ships at a distance, we add a valuable extra layer of protection against missile attacks.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDroneSystemMastery1_Dec</Label>
+    <String>To be fair, only a few of our drone systems have ever actually shot each other in combat situations. But by minimizing that just a little more, we should be able to make our point defenses a little more cost-effective, albeit less funny.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanArreonMissileDefenseTech_Dec</Label>
+    <String>The ultimate in point defense technology, featuring the latest generation of micro-drones, armed with railguns, ECM and smart chafe, capable of filling the space around a ship with a cloud of debris so thick no enemy missiles are likely to survive.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPointDefenseAugmentation_Dec</Label>
+    <String>Wide area missile disruptors enhance the effectiveness of our existing counter measures, adding a much needed layer of extra missile security to entire fleets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPointDefenseManipulation_Dec</Label>
+    <String>Our mastery of point defense technologies has led to the development of fleet-wide drone systems. Additionally, our fleets can now be equipped with point defense disruptors, essentially a type of counter-counter-measure, which should greatly boost the effectiveness of our own missile attacks.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanArmorSystems_Dec</Label>
+    <String>A big lump of ultra-dense material remains an effective, if unsubtle, method of protection from modern space-based weaponry.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanArmorOptimization3_Dec</Label>
+    <String>By its very nature, armor is always going to be a fairly mass-intensive way of protection. That said, we can do a few things to improve the precision and fit of armor plating, which should cut down on weight a bit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDurantiumCompositeTech_Dec</Label>
+    <String>Experminents have revealed that when certain materials are stacked in specific arrangements, they have a synergistic effect on the strength of their neighbors when exposed to compressive forces, which greatly magnifiess their damage absorption potential. We call these new composites Durantium, and they should tremendously increase the survivability of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanArmorFocus1_Dec</Label>
+    <String>A careful study of some battle-damaged ships has revealed previously unknown weaknesses in our armor systems. Basically, we know why some of them were cracking in half now. We'll do something about that right away.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanArmorFocus2_Dec</Label>
+    <String>If the troops ask, it's not that our armor is now cheap. It's that we've found a more efficient way of manufacturing it. But yes, it is pretty cheap.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanArmorFocus3_Dec</Label>
+    <String>Some experiments with the arrangement of our Durantium composites has revealed that we can get away with slightly lense dense materials at certain layers with no impact to the armor's effectiveness.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanKanviumLaminateTech_Dec</Label>
+    <String>Kanvium armor systems use a new type of lamination which, upon impact, causes surrounding materials to partially fluidize, deforming to absorb energy, but in a recoverable way. Impacts are spread out over a much larger area, increasing the effectiveness of the armor. After the impact, the armor flows back into its original shape, minimizing the risk posed by repeat hits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanArmorMastery1_Dec</Label>
+    <String>With modern armoring systems, the design of the armor informs the shape of the ship as much as the other way around, and properly armoring a ship is a complicated trade off between armoror and ship designer. It's an art essentially, and it's one that we have mastered.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanArmorMastery2_Dec</Label>
+    <String>We've created and shredded countless generations of armor, and worn out entire test ranges with our target practice. On a weight basis, our armor systems are now as efficient as they can possibly be.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanArmorEnhancement_Dec</Label>
+    <String>The fields that we use to generate hardening effects at a distance have twenty seven different "poles" which can be cycled repeatedly through, changing the alignment of the hardening effects in the affected material, generating substantially stronger, more resiliant materials.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanIntegrityFieldProjection_Dec</Label>
+    <String>Our latest generation of armoring fields no longer just generate hardening effects at a distance, but can now induce material fluidization and shape recovery effects as well. These new Integrity Fields can make every ship in a fleet invulnerable to all but the most powerful attacks.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanCommunicationsTech_Name</Label>
+    <String>Relations</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanCommunicationsTech_Dec</Label>
+    <String>We've already seen glimpses of evidence that we're not alone in this galaxy. This presents an incredible danger to us, but also perhaps an opportunity. But also, let's stress again, danger.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDiplomaticSpecialization1_Dec</Label>
+    <String>Our increased exposure to alien cultures has given us the opportunity to simulate several different rhetorical and diplomatic approaches when dealing with them, revealing several ways to improve their attitudes towards us. Our roleplaying has enabled us to talk prettier, essentially.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDiplomaticSpecialization2_Dec</Label>
+    <String>Our culture has a way of communicating what our diplomats cannot, and by increasing the ease with which other civilizations can access our culture, we can win hearts and minds before we even get to the negotiating table.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanInterstellarGovernance_Dec</Label>
+    <String>Governing a civilization whose distant outposts are many weeks of travel away isn't a new challenge for us, parallaling our experience exploring our own world hundreds of years ago. But it's a field we're having to refamiliarize ourselves with pretty quickly, before we get any space tea dumped in one of our harbors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPoliticalSpecialization1_Dec</Label>
+    <String>The Federalist method of organization features a relatively weak central government with much of the power and responsibility offloaded to lower, more local governmental groups. This bias towards local regulation seems to encourage economic development.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPoliticalSpecialization2_Dec</Label>
+    <String>Populist forms of government are designed to make people happy, albeit at the cost of having the most effective policies. As a side-effect of this relentless interest in pleasing others, Populist governments are often very good at diplomacy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPoliticalSpecialization3_Dec</Label>
+    <String>Universalist governments attempt to be all things to all people. In a galaxy-spanning civilization, that can be a lot of people, none of whom agree on anything. Still, a balanced approach like this at least ensures a government has no weak spots.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGalacticGovernance_Dec</Label>
+    <String>By granting limited powers of self rule to various elements of society, reserving the most critical functions for our own central government, we expect to see increased public satisfaction and more trite political slogans.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPoliticalFocus2_Dec</Label>
+    <String>Mercantilists seek to ensure their civilization's prosperity through trade, via careful negotiations, hard-earned intelligence, or brutally unfair tariffs. The exposure their traders have with other civilizations also gives them a unique advantage at espionage.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPoliticalFocus3_Dec</Label>
+    <String>Technologists understand that throughout history, any time two civilizations have met, the less technologically advanced one has come out very poorly from the encounter. By dedicating all their effort and resources to R &amp; D, Technologists hope to never be that dumber civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanInterstellarDemocracyTech_Dec</Label>
+    <String>A system which lets people pick their own rulers, or at least think they're picking their own rulers, has been one of the crowning achievments of political theory. Adapting it to a galaxy-spanning civilization has posed a number of challenges - the campaign trail is now rather long - but the increase in public satisfaction and market certainty will certainly be worth it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPoliticalMastery1_Dec</Label>
+    <String>Whether it's because they consider all other civilizations to be inferior, or are simply terrified of them, the War Party is willing to put their entire civilization on a military footing to do something about it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPoliticalMastery2_Dec</Label>
+    <String>Pacifist governments forego the language of aggression and militarization, and focus all their efforts on promoting culture and social welfare. This makes them well liked in the galactic community, and their words travel far.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDiplomacyTech_Dec</Label>
+    <String>The potential for profit that an alliance with our neighbors could bring is something we should always consider. And failing that, the cost of talking with them will be a fraction of the cost of going to war with then.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanInterstellarAlliances_Dec</Label>
+    <String>The process of turning a friendly species into a formal ally is a supremely delicate one. There's only one way those talks can go right, and a thousand different ways they can go wrong. The etiquette of alien handshakes alone is fraught with peril.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanAllianceFocus1_Dec</Label>
+    <String>By forming formal military alliances with our friends, our civilization will be that much more imposing to our enemies. The trade-off is that we now risk being drawn into wars not of our own choosing. Friends are cheap to have, but allies can be very expensive indeed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanAllianceFocus2_Dec</Label>
+    <String>A formal technological alliance will dramatically ramp up the research information sharing programs we have with our ally. This is valuable information we're sharing, so we must be sure of their friendship before entering such an agreement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanAllianceFocus3_Dec</Label>
+    <String>A formal cultural alliance will lower almost all barriers to the movement of people and ideas across borders with our neighbor. Not only will this bring us closer, we can hope to have a bigger influence on our neighbor's affairs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanMajestyTech_Dec</Label>
+    <String>The galaxy doesn't just listen to our words. They want to believe them. So sterling is our reputation, that simple gestures by our diplomats can adjust the fate of whole worlds. The pen hasn't just beaten the sword; it's humiliated it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanUnitedPlanetsLobbyist_Dec</Label>
+    <String>To the initiate in intragalactic diplomacy, there's a shocking amount of crude backroom dealing which goes on behind the surface of an organization like the United Planets. But that's how the sausage is made, and we'll do well if we're better at it than our enemies. And our allies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanUnitedPlanetsClout_Dec</Label>
+    <String>Our allies have long been convinced of the benefits of our friendship. Now they see the benefit of our wisdom and leadership. We carry a lot more weight in the United Planets now, deservedly so.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanXenoAnthropology_Name</Label>
+    <String>Xeno Anthropology</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanXenoAnthropology_ShortDec</Label>
+    <String>Allows the construction of the Xeno Anthropology Center.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanXenoAnthropology_Dec</Label>
+    <String>By studying the natives of this universe we are able to better interact with them. It also allows us to educate them in the proper way of doing things, our way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanAnthropologySpecialization1_Name</Label>
+    <String>Adaptive Anthropology</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanAnthropologySpecialization1_ShortDec</Label>
+    <String>Improves relations with other races.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanAnthropologySpecialization1_Dec</Label>
+    <String>Adapting to the native ways of this universe allows us to better interact with other races, and avoid unfortunate miss understandings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanAnthropologySpecialization2_Name</Label>
+    <String>Educational Anthropology</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanAnthropologySpecialization2_ShortDec</Label>
+    <String>Helps to spread our influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanAnthropologySpecialization2_Dec</Label>
+    <String>By educating the natives of this universe we are able to better spread our influence. Which allows us to expand without the need of conflict.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanAnthropologySpecialization3_Name</Label>
+    <String>Economic Anthropology</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanAnthropologySpecialization3_ShortDec</Label>
+    <String>Helps to build our economy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanAnthropologySpecialization3_Dec</Label>
+    <String>By studying the natives of this universe we can find what they value most, allowing us to capitalize on their desires.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanCulturalInfluence_Dec</Label>
+    <String>Winning the hearts and minds of both our people and our neighbors will make almost every aspect of running this civilization easier. It lacks some of the visceral appeal of a new type of mass driver, but may in the long run be far more effective.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanCulturalOptimization2_Dec</Label>
+    <String>Although the artists and dreamers who serve as our cultural ambassadors aren't naturally inclined towards thinking about money, after we locked a few of them in a room with an accountant for a bit, they managed to find a number of ways to do things more efficiently.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanCulturalOptimization3_Dec</Label>
+    <String>The facilities we need for our artistic endeavors cost money to maintain, and many of our artists and directors have very expensive tastes indeed. By encouraging them to reuse materials, props, and punchlines, we can reduce the ongoing costs of running these enterprises.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanCulturalOutreach_Dec</Label>
+    <String>By building facilities that focus on spreading our cultural accomplishments amongst our civilians and neighbors, we expect to see even more influence in this region of space, or at the very least, more awards from the artisitic community.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanCulturalFocus1_Dec</Label>
+    <String>By adapting our cultural products to cast scientists and researchers in a more favorable light, we might find appreciative audiences among the substantial research communities in our civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanCulturalFocus2_Dec</Label>
+    <String>A culture which focuses intently on its leaders is a fine thing to have when those leaders are doing a good job. Though when the leaders aren't doing a good job, it's filled with harsh satire and unflattering impressions, so watch out for that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanCulturalFocus3_Dec</Label>
+    <String>If our people have money, let's not make them ashamed of it. By encouraging displays of conspicuous consumption and a culture which celebrates wealth, we can gain a great deal of influence with people living the good life.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanUniversalOutreach_Name</Label>
+    <String>Universal Outreach</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanUniversalOutreach_ShortDec</Label>
+    <String>Allows for the construction of the Universal Outreach Center.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanUniversalOutreach_Dec</Label>
+    <String>We have mastered the ways of this Universe. Now we can use our knowledge to better interact with the natives, further spreading our influence in the galaxy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanFutureStudies_Name</Label>
+    <String>Future Studies</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanFutureStudies_ShortDec</Label>
+    <String>Allows for the creation of the Future Studies Center.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanFutureStudies_Dec</Label>
+    <String>By studying what we know of the future, we are able to influence the fate of this dimension.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanStellarEmigration_Dec</Label>
+    <String>Our civilization is seen across the galaxy as a haven for all those who desire a more fulfilling intellectual life. If we make the process of emigration easier, we can spread our influence wider still.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanCulturalAssimilation_Dec</Label>
+    <String>We've long since encorporated all the worthy ideas of other cultures into our own, and can now safely say that they serve no purpose other than muddying the waters. By quickly assimilating and removing the cultural trappings of new arrivals, and even those just trying to pass through, we can increase the penetration and acceptance of our culture more still.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanCulturalDomination_Dec</Label>
+    <String>There is no other culture in the galaxy but ours, and anyone who claims otherwise is a heretic. Or worse, dumb. All sane beings bow down before our celebrities and thinkers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanCulturalAffinity_Dec</Label>
+    <String>Other universes deserve the benefit of seeing the light of our wisdom and culture. Indeed, it is a bit offensive that they don't see it already. Our thinkers are now beginning to prepare plans for shining our light on the next world, and beyond.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanCommerceSpecialization1_Dec</Label>
+    <String>With targeted tax rates, we can encourage a number of different areas of our economy. A tax policy which favor business and investment should ultimately lead to a wealthier economy, for example.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanXenoEconomics_Dec</Label>
+    <String>The recent explosion in newly available commodities combined with the sheer distance between buyers and sellers, has resulted in us having to rewrite a number of different theories of economics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanEconomicFocus1_Dec</Label>
+    <String>An economy which prioritizes external trading will be well suited to exploit the markets of the greater galactic community, or just exploit the greater galactic community in general.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanEconomicFocus3_Dec</Label>
+    <String>By reducing the obstacles that foreign tourists might face when trying to visit us, we can encourage more of them to travel here, and more of their money to stay here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGalacticTrade_Dec</Label>
+    <String>By establishing fixed trading hubs and encouraging the markets which develop around them, we stand to profit handsomely. The wealth of the entire galactic community will flow through our hands. Our ever so slightly sticky hands.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGalacticFacilitation_Dec</Label>
+    <String>The sheer volume of goods that pass through a trading port is staggering, and we've needed to develop a number of new pieces of equipment and organizational techniques for managing the flow of goods smoothly. And safely. We've had a few too many large masses make dock workers very, very flat, to not reevaluate our procedures.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanTradeMasters_Dec</Label>
+    <String>Our civilization is synomous with wealth and trading, and all intelligent beings know our markets are the best, really, only place to buy and sell goods. And, of course, certain advantages accrue to the owner of such a monopoly.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanInterstellarTourism_Dec</Label>
+    <String>Not only can we amuse and distract our own citizens with amusements, we can begin luring friendly visitors from our galactic neighbors. This will help improve relations, and at minimum, result in some extra income for us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPopulationDiversion_Dec</Label>
+    <String>More amusements! Bigger amusements! Our people are at heart dreadfully simple, which is distressing on some level, even if it does make them pretty easy to manage.</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+  <StringTable>
+    <Label>ThalanHiveSpecialization_Name</Label>
+    <String>Hive Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHiveSpecialization_Dec</Label>
+    <String>Allows our hives to specialize in different ways to grow and adapt to this universe.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanResearchOptimization_Dec</Label>
+    <String>Researchers are great at inventing things, but surprisingly bad at the business of inventing things. A number of inefficient practices have developed which we should be able to streamline.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanTechnologicalFocus_Dec</Label>
+    <String>The lab equipment needed to research some of these new fields is incredibly expensive and esoteric. Specializing our research efforts will be necessary to make the biggest advances.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanAgriculturalMastery_Dec</Label>
+    <String>Our farms now provide an almost unlimited bounty, the food doing much of the hard work itself. The first time you see a plant or animal self-harvest is a little grim though, and school field trips have gotten harder.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHyperwarpMastery_Dec</Label>
+    <String>Our ships are the envy of the galaxy, and our engineers heralded as heroes wherever they go. Fortunately they don't like going out much.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanSensorOptimization_Dec</Label>
+    <String>A concentrated effort to optimize our sensor systems could lead to a number of different improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanEnergyFieldFocus_Dec</Label>
+    <String>As is usually the case when equipment is sent to the field, the technicians who actually use it soon came up with a number of different ways to improve its efficiency and effectiveness.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPrecursorRelicFocus_Dec</Label>
+    <String>Having captured a few Precursor relics now, and observed the impact they have on our research and culture, we can now try adjusting our Precursor studies to benefit specific areas of our civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanSupportFieldFocus_Dec</Label>
+    <String>Our early attempts at building field-based life support systems left behind many messes and many possible opportunities for improvement, which we're starting to identify now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanLifeSupportMastery_Dec</Label>
+    <String>We have all but mastered direct-nutrient injection technologies, and are wringing out a few additional efficiencies to reduce equipment size and cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonicSpecialization_Name</Label>
+    <String>Gravitonic Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanGravitonicSpecialization_Dec</Label>
+    <String>Focusing our study of gravitonics can allow us to lower the mass of specialized systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanOrbitalSpecialization_Dec</Label>
+    <String>Now that we've watched a few construction projects accidentally collapse on themselves in orbit, we've identified a number of possible improvements in our existing construction techniques.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanZeroGravityOptimization_Dec</Label>
+    <String>We took a big step forward with our most recent switch to zero-gravity construction practices, and after a few trial runs and one teensy little accident, our engineers have identified a number of areas for improvement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanOrbitalConstructionFocus_Dec</Label>
+    <String>We're getting better and better at large scale construction with every passing day, and a number of more efficient design practices are beginning to show up on our engineers' drawing tables. Along with the pretty offensive doodles which have always been there.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHullMastery_Dec</Label>
+    <String>Our shipyards are already the envy of the civilized galaxy. But however great they are, they're still capable of more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanCarrierFocus_Dec</Label>
+    <String>There's nothing like doing something a few times to see how much better it could be. A number of efficiencies in how we conduct our carrier operations have been made clear to us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanLogisticalOptimization_Dec</Label>
+    <String>A new generation of space accountants are becoming trained as we speak, capable of finding efficiencies and boring workers in any industry we choose.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanWeaponsSpecialization_Dec</Label>
+    <String>By dedicating their efforts on a specific field of weapons technology, our researchers believe they can deliver a number of more effiicent weapon systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanHighEnergyFocus_Dec</Label>
+    <String>A careful analysis of data returned from the field has revealed a number of inefficiencies which we can begin addressing in the next generation of our beam systems. We may also finally be able to get rid of that funny smell they make too.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanBeamWeaponMastery_Dec</Label>
+    <String>We're now able to push our beam weapons right up to the limits that physics allow. If we want any more power, we may have to move to a different universe.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanWarheadFocus_Dec</Label>
+    <String>We've spent comparatively little research time on the warhead components of our missile systems, but now that we've turned our attention to the matter, a number of possible efficiencies should be able to be gained with a little effort.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanKineticOptimization_Dec</Label>
+    <String>Some modest improvements in the energy delivery systems of our kinetic weapons could result in improvements to the cost, mass, or even the range of each unit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanKineticAccelerationFocus_Dec</Label>
+    <String>Recent advances in superconducting technology should lead to improvements in the critical energy delivery systems of our kinetic weapons.c</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanKineticMastery_Dec</Label>
+    <String>After several generations of whipping things at other things as fast as possible, our scientists are now really quite goood at it. There remain but a few small efficiencies to wring out of the field.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalWeaponFocus_Name</Label>
+    <String>Dimensional Shifting Weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalWeaponFocus_Dec</Label>
+    <String>By manipulating dimensional shift we can make our weapons systems more accurate.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanInvasionOptimization_Dec</Label>
+    <String>Good news! We've developed some new, possibly ammoral, but certainly effective techniques for pacifying enemy ground forces.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalFazingFocus_Name</Label>
+    <String>Dimensional Defense Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDimensionalFazingFocus_Dec</Label>
+    <String>With Dimensional Phasing we can make existing defense systems more resilient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDefensiveSpecialization_Dec</Label>
+    <String>Tasked with improving the survivability of our naval officers in combat situations, our engineer's first solution: "Don't enter combat situations," was less than helpful. So, after studying the wreckage of a few vessels we've lost in combat, they've come up with a number of possible improvements we can make in our defensive technologies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanShieldMastery_Dec</Label>
+    <String>Our shielding technology approaches perfection, our engineers now pushing the capabilities of our shield systems right to their theoretical limits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPointDefenseOptimization_Dec</Label>
+    <String>Optimizing our point defense systems should lead to a number of different performance gains. Also importantly, less dead naval officers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDroneSystemMastery_Dec</Label>
+    <String>Drone systems dramatically increased the sheer volume of our point defense capabilities, so any small improvement in their design we can make should lead to significant cost or weight savings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanArmorFocus_Dec</Label>
+    <String>Our armor systems have increased significantly in complexity. An increased effort to model their behavior under impact should help lead to more effective or efficient designs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDiplomaticSpecialization_Dec</Label>
+    <String>The words we use have a limited ability to affect the way we think, and by studying the vocabulary used by our neighbors, we may unlock valuable insights into their mindsets. And possibly even find out how to manipulate them better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPoliticalSpecialization_Dec</Label>
+    <String>There are several broad ways to organize a government for a space faring civilization, all of which pose distinct advantages and disadvantages. Rest assured, there's no right choice here; regardless of what you pick, everyone will tell you that you made the wrong choice.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPoliticalFocus_Dec</Label>
+    <String>As we continue to manage (and often mis-manage) our affairs, it's become clear that a number of political theories we'd never considered viable before might actually be very relevant indeed when practiced on a galactic scale.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanPoliticalMastery_Dec</Label>
+    <String>Coordinating the activities and direction of an entire galaxy-wide civilization is tremendously dificult. There's just so many damned people. But thanks to advances in deceit and brain injection technology, we can now put this whole show entirely on a war footing, or, if we choose, the exact opposite.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanDiplomaticOptimization_Dec</Label>
+    <String>We profit more from some types of treaties than others, and should begin slanting our diplomatic posture in those directions right away.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanAnthropologySpecialization_Name</Label>
+    <String>Anthropology Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanAnthropologySpecialization_Dec</Label>
+    <String>The study of the native being of this universe can be very helpful if we specialize our study.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanCommerceSpecialization_Dec</Label>
+    <String>With a bit of experience managing and regulating markets on an extraplanetary scale, we're now able to target some specific economic improvements that will benefit us in a variety of ways.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThalanTradeOptimization_Dec</Label>
+    <String>Trading has long been as much an art as a science, by inducing our traders to use just a smidge more science, they might be able to maximize their profits when dealing with certain sectors.</String>
+  </StringTable>
+ 
+</StringTableList>

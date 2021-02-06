@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+
+  <StringTable>
+    <Label>Hyperlane_Name</Label>
+    <String>Hyperlane</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Hyperlane_Bonus_Description</Label>
+    <String>Hyperlane +{VALUE}% Moves</String>
+  </StringTable>
+  
+</StringTableList>
