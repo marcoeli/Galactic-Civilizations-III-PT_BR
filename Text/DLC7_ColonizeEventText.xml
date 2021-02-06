@@ -550,12 +550,12 @@ Ela tem uma arma estranha que parece funcionar muito como uma arma de feixe padr
  
   <StringTable>
     <Label>AncientKineticAugmenterEvent_Name</Label>
-    <String>Ancient Kinetic Augmenter</String>
+    <String>Ampliador Cinético Antigo</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientKineticAugmenterEvent_Dec</Label>
-    <String>We've found a strange artifact floating in the rings of a nearby gas giant. When powered, it appears to accelerate any object that comes within its radius. This could be a powerful weapon entirely on its own, but we think there's a chance we could adjust it to potentially affect an entire fleet's offensive output.</String>
+    <String>Encontramos um artefato estranho flutuando nos anéis de um gigante do gás próximo. Quando energizado, parece acelerar qualquer objeto que se encontre dentro de seu raio. Esta poderia ser uma arma poderosa por si só, mas pensamos que há uma chance de ajustá-la para potencialmente afetar a saída ofensiva de toda uma frota.</String>
   </StringTable>
  
   <StringTable>
@@ -565,42 +565,42 @@ Ela tem uma arma estranha que parece funcionar muito como uma arma de feixe padr
  
   <StringTable>
     <Label>AncientKineticAugmenterEvent_Benevolent_Bonus_Name</Label>
-    <String>Supporting an allied fleet is clearly the superior choice. Modify the device to work that way.</String>
+    <String>O apoio a uma frota aliada é claramente a escolha superior. Modificar o dispositivo para funcionar dessa forma.</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientKineticAugmenterEvent_Benevolent_Bonus_Dec</Label>
-    <String>+25 Benevolent, Ancient Kinetic Augmenter, with large fleet wide Kinetic boost.</String>
+    <String>+25 Benevolente, Ampliador Cinético Antigo, com grande impulso cinético da grande frota.</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientKineticAugmenterEvent_Neutral_Bonus_Name</Label>
-    <String>Can we split the difference? Lets see what fleet support effects we can get without losing the weapon completely.</String>
+    <String>Podemos dividir a diferença? Vamos ver que efeitos de apoio da frota podemos obter sem perder completamente a arma.</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientKineticAugmenterEvent_Neutral_Bonus_Dec</Label>
-    <String>+25 Pragmatic,  Ancient Kinetic Augmenter Weapon, with small fleet wide Kinetic boost.</String>
+    <String>+25 Pragmático, Arma Cinética Antiga de Aumento, com um pequeno impulso cinético da frota.</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientKineticAugmenterEvent_Merciless_Bonus_Name</Label>
-    <String>It's a weapon. Let's not wreck that. Let's just get the most possible damage out of it.</String>
+    <String>É uma arma. Não vamos estragar isso. Vamos apenas tirar o máximo dano possível dela.</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientKineticAugmenterEvent_Merciless_Bonus_Dec</Label>
-    <String>+25 Malevolent, powerful Ancient Kinetic Weapon Component.</String>
+    <String>+25 Malévolo, poderoso Componente de Armas Cinéticas Antigas.</String>
   </StringTable>
  
   <StringTable>
     <Label>AtomicPolorizerEvent_Name</Label>
-    <String>Atomic Polarizer</String>
+    <String>Polarizador atômico</String>
   </StringTable>
  
   <StringTable>
     <Label>AtomicPolorizerEvent_Dec</Label>
-    <String>We found a Precursor wreck in the heart of a nearby Asteroid Field. The ship's unusable, but it contained a device which seems to greatly strengthen the integrity of its armor. This would be obviously useful if installed on one of our ships, but could be even more so if our scientists were allowed to study it.</String>
+    <String>Encontramos um naufrágio do Precursor no coração de um campo de asteróides próximo. O navio é inutilizável, mas continha um dispositivo que parece reforçar muito a integridade de sua armadura. Isto seria obviamente útil se instalado em um de nossos navios, mas poderia ser ainda mais se nossos cientistas fossem autorizados a estudá-lo.</String>
   </StringTable>
  
   <StringTable>
@@ -610,42 +610,42 @@ Ela tem uma arma estranha que parece funcionar muito como uma arma de feixe padr
  
   <StringTable>
     <Label>AtomicPolorizerEvent_Benevolent_Bonus_Name</Label>
-    <String>We can't turn down the opportunity to protect all of our ships. Dismantle it and learn its secrets.</String>
+    <String>Não podemos recusar a oportunidade de proteger todos os nossos navios. Desmontá-la e aprender seus segredos.</String>
   </StringTable>
  
   <StringTable>
     <Label>AtomicPolorizerEvent_Benevolent_Bonus_Dec</Label>
-    <String>+25 Benevolent, +20% Armor Rating to all ships.</String>
+    <String>+25 Benevolente, +20% de taxa de blindagem para todos os navios.</String>
   </StringTable>
  
   <StringTable>
     <Label>AtomicPolorizerEvent_Neutral_Bonus_Name</Label>
-    <String>Study it a bit, but don't completely wreck its potential as a ship component.</String>
+    <String>Estude-o um pouco, mas não destrua completamente seu potencial como componente de um navio.</String>
   </StringTable>
  
   <StringTable>
     <Label>AtomicPolorizerEvent_Neutral_Bonus_Dec</Label>
-    <String>+25 Pragmatic, Atomic Polarizer Component</String>
+    <String>+25 Pragmático, Componente do Polarizador Atômico</String>
   </StringTable>
  
   <StringTable>
     <Label>AtomicPolorizerEvent_Merciless_Bonus_Name</Label>
-    <String>Don't touch it, don't mess with it. Just get it ready to be used ASAP.</String>
+    <String>Não toque nele, não mexa com ele. Basta prepará-lo para ser usado o mais rápido possível.</String>
   </StringTable>
  
   <StringTable>
     <Label>AtomicPolorizerEvent_Merciless_Bonus_Dec</Label>
-    <String>+25 Malevolent, More powerful Atomic Polarizer</String>
+    <String>+25 Malévolo, mais potente Polarizador Atômico</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorBio-ReplicatorEvent_Name</Label>
-    <String>Precursor Bio-Replicator</String>
+    <String>Bio-Replicator Precursor</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorBio-ReplicatorEvent_Dec</Label>
-    <String>On the ocean floor of this world, we've found an artifact apparently left behind by the Precursors. It appears to be capable of generating food perfectly suited for whatever lifeform operates it. It's an incredible gift; we only have to decide how best to use it.</String>
+    <String>No fundo do oceano deste mundo, encontramos um artefato aparentemente deixado para trás pelos Precursores. Ele parece ser capaz de gerar alimentos perfeitamente adequados para qualquer forma de vida que o opere. É um presente incrível; só temos que decidir a melhor maneira de utilizá-lo.</String>
   </StringTable>
  
   <StringTable>
@@ -655,12 +655,12 @@ Ela tem uma arma estranha que parece funcionar muito como uma arma de feixe padr
  
   <StringTable>
     <Label>PrecursorBio-ReplicatorEvent_Benevolent_Bonus_Name</Label>
-    <String>What's to decide? Give the food to the people.</String>
+    <String>O que decidir? Dar a comida para o povo.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorBio-ReplicatorEvent_Benevolent_Bonus_Dec</Label>
-    <String>+25 Benevolent, Precursor Bio-Replicator Improvement and +5% food to all colonies.</String>
+    <String>+25 Benevolente, Melhoria do Bio-Replicador Precursor e +5% de alimentos para todas as colônias.</String>
   </StringTable>
  
   <StringTable>
