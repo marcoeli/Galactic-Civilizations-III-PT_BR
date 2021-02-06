@@ -249,12 +249,12 @@ xsi:noNamespaceSchemaLocation="../../../data/Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>PlasmaArcEvent_Benevolent_Bonus_Name</Label>
-    <String>The benefit to one of our worlds is far greater than having yet another way to kill things.</String>
+    <String>O benefício para um de nossos mundos é muito maior do que ter mais uma maneira de matar as coisas.</String>
   </StringTable>
  
   <StringTable>
     <Label>PlasmaArcEvent_Benevolent_Bonus_Dec</Label>
-    <String>+25 Benevolent, Plasma Furnace Improvement.</String>
+    <String>+25 Benevolente, Melhoria do Forno de Plasma.</String>
   </StringTable>
  
   <StringTable>
@@ -264,28 +264,28 @@ xsi:noNamespaceSchemaLocation="../../../data/Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>PlasmaArcEvent_Neutral_Bonus_Dec</Label>
-    <String>+25 Pragmatic, Plasma Arc Component.</String>
+    <String>+25 Pragmático, Componente de Arco de Plasma.</String>
   </StringTable>
  
   <StringTable>
     <Label>PlasmaArcEvent_Merciless_Bonus_Name</Label>
-    <String>Are you kidding? Let's get this thing on a ship as soon as possible. No, faster than that.</String>
+    <String>Você está brincando? Vamos colocar esta coisa num navio o mais rápido possível. Não, mais rápido que isso.</String>
   </StringTable>
  
   <StringTable>
     <Label>PlasmaArcEvent_Merciless_Bonus_Dec</Label>
-    <String>+25 Malevolent, More powerful Plasma Arc Component.</String>
+    <String>+25 Malevolente, Componente de Arco de Plasma mais potente.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorEnergyWeaponEvent_Name</Label>
-    <String>Precursor Energy Weapon</String>
+    <String>Arma de Energia Precursora</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorEnergyWeaponEvent_Dec</Label>
-    <String>Some of our miners have stumbled upon an ancient vessel that got trapped in a nearby asteroid somehow. 
-It has a strange weapon that appears to function much like a standard beam weapon, yet can apparently be tuned to do a variety of different types of damage.</String>
+    <String>Alguns de nossos mineiros tropeçaram em uma antiga embarcação que ficou presa em um asteróide próximo de alguma forma. 
+Ela tem uma arma estranha que parece funcionar muito como uma arma de feixe padrão, mas que aparentemente pode ser regulada para fazer uma variedade de tipos diferentes de danos.</String>
   </StringTable>
  
   <StringTable>
@@ -295,42 +295,42 @@ It has a strange weapon that appears to function much like a standard beam weapo
  
   <StringTable>
     <Label>PrecursorEnergyWeaponEvent_Benevolent_Bonus_Name</Label>
-    <String>Leave it as is. Even in its stock form, we can use it to better defend our citizens.</String>
+    <String>Deixe as coisas como estão. Mesmo em sua forma de estoque, podemos usá-lo para melhor defender nossos cidadãos.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorEnergyWeaponEvent_Benevolent_Bonus_Dec</Label>
-    <String>+25 Benevolent, Precursor Energy Weapon component with some Kinetic, and missile damage.</String>
+    <String>+25 Benevolente, componente de Arma Energética Precursora com alguns danos cinéticos, e mísseis.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorEnergyWeaponEvent_Neutral_Bonus_Name</Label>
-    <String>Let's try to modify it to even out the damage types a bit.</String>
+    <String>Vamos tentar modificá-lo para equilibrar um pouco os tipos de danos.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorEnergyWeaponEvent_Neutral_Bonus_Dec</Label>
-    <String>+25 Pragmatic, Precursor Energy Weapon Component, does all types of damage evenly.</String>
+    <String>+25 Pragmático, Componente de Arma Energética Precursora, faz todos os tipos de danos de maneira uniforme.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorEnergyWeaponEvent_Merciless_Bonus_Name</Label>
-    <String>It would be deadlier if it specialized on what it's best at.</String>
+    <String>Seria mais mortal se ele se especializasse naquilo em que é melhor.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorEnergyWeaponEvent_Merciless_Bonus_Dec</Label>
-    <String>+25 Malevolent, Precursor Energy Weapon, that does very high beam damage.</String>
+    <String>+25 Malévolo, Arma Energética Precursora, que faz danos de feixe muito altos.</String>
   </StringTable>
  
   <StringTable>
     <Label>ForceBubbleEvent_Name</Label>
-    <String>Force Bubble</String>
+    <String>Bolha de força</String>
   </StringTable>
  
   <StringTable>
     <Label>ForceBubbleEvent_Dec</Label>
-    <String>We've found the remains of a Precursor ship. Although it's badly damaged, there's still some sort of advanced shield system operating on it. We think we can salvage it intact, but if we wanted to take it apart we might learn how to boost the strength of all our ships' shields.</String>
+    <String>Encontramos os restos de um navio Precursor. Embora esteja muito danificada, ainda há algum tipo de sistema avançado de blindagem operando nela. Pensamos que podemos salvá-la intacta, mas se quiséssemos desmontá-la, poderíamos aprender como aumentar a força de todos os escudos de nossas naves.</String>
   </StringTable>
  
   <StringTable>
@@ -340,42 +340,42 @@ It has a strange weapon that appears to function much like a standard beam weapo
  
   <StringTable>
     <Label>ForceBubbleEvent_Benevolent_Bonus_Name</Label>
-    <String>Let's keep it intact, but tune the field so it can protect an entire fleet.</String>
+    <String>Vamos mantê-lo intacto, mas afinemos o campo para que possa proteger uma frota inteira.</String>
   </StringTable>
  
   <StringTable>
     <Label>ForceBubbleEvent_Benevolent_Bonus_Dec</Label>
-    <String>+25 Benevolent, Force Bubble Component, that gives shield to all ships in fleet.</String>
+    <String>+25 Benevolente, componente de bolha de força, que dá proteção a todos os navios da frota.</String>
   </StringTable>
  
   <StringTable>
     <Label>ForceBubbleEvent_Neutral_Bonus_Name</Label>
-    <String>Disassemble and study the system. Improving our shield technology is a far better use for this artifact.</String>
+    <String>Desmontar e estudar o sistema. Melhorar nossa tecnologia de blindagem é um uso muito melhor para este artefato.</String>
   </StringTable>
  
   <StringTable>
     <Label>ForceBubbleEvent_Neutral_Bonus_Dec</Label>
-    <String>+25 Pragmatic, +15% Shield Strength to all ships.</String>
+    <String>+25 Pragmático, +15% de resistência de blindagem para todos os navios.</String>
   </StringTable>
  
   <StringTable>
     <Label>ForceBubbleEvent_Merciless_Bonus_Name</Label>
-    <String>Let's see how effective it is if we focus all of its powers on a single ship.</String>
+    <String>Vamos ver como é eficaz se concentrarmos todos os seus poderes em um único navio.</String>
   </StringTable>
  
   <StringTable>
     <Label>ForceBubbleEvent_Merciless_Bonus_Dec</Label>
-    <String>+25 Malevolent, powerful Single ship Force Bubble Component.</String>
+    <String>+25 Malévolo, poderoso Componente de bolha de força de um único navio.</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientDefenseSystemEvent_Name</Label>
-    <String>Ancient Defense System</String>
+    <String>Sistema de Defesa Antigo</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientDefenseSystemEvent_Dec</Label>
-    <String>Deep in the crust of this colony, we've found a buried defense array with some kind of self-generating missiles system. We think we can adapt it to use as a planetary defense system. But disassembling it to learn and use its secrets elsewhere is tempting.</String>
+    <String>Nas profundezas da crosta desta colônia, encontramos uma matriz de defesa enterrada com algum tipo de sistema de mísseis auto-geradores. Pensamos que podemos adaptá-lo para ser usado como um sistema de defesa planetário. Mas desmontá-la para aprender e usar seus segredos em outro lugar é tentador.</String>
   </StringTable>
  
   <StringTable>
@@ -385,42 +385,42 @@ It has a strange weapon that appears to function much like a standard beam weapo
  
   <StringTable>
     <Label>AncientDefenseSystemEvent_Benevolent_Bonus_Name</Label>
-    <String>Let's use it as it was intended, and defend one of our planets.</String>
+    <String>Vamos usá-lo como foi pretendido e defender um de nossos planetas.</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientDefenseSystemEvent_Benevolent_Bonus_Dec</Label>
-    <String>+25 Benevolent, Ancient Defense System-B Improvement.</String>
+    <String>+25 Benevolente, Melhoria do Antigo Sistema de Defesa-B.</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientDefenseSystemEvent_Neutral_Bonus_Name</Label>
-    <String>Let's dismantle and study a portion of it, while leaving the rest intact, and size it to fit on a ship.</String>
+    <String>Vamos desmontar e estudar uma parte dela, deixando o resto intacto, e dimensioná-la para caber em um navio.</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientDefenseSystemEvent_Neutral_Bonus_Dec</Label>
-    <String>+25 Pragmatic, +10% Planetary defense all colonies, Ancient Defense System Component.</String>
+    <String>+25 Pragmático, +10% Defesa planetária de todas as colônias, Componente do Sistema de Defesa Antigo.</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientDefenseSystemEvent_Merciless_Bonus_Name</Label>
-    <String>Let's cram it into a ship. With that we can always conquer more planets.</String>
+    <String>Vamos enfiá-lo em um navio. Com isso, podemos sempre conquistar mais planetas.</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientDefenseSystemEvent_Merciless_Bonus_Dec</Label>
-    <String>+25 Malevolent, More powerful Ancient Defense System Component.</String>
+    <String>+25 Malévolo, Componente mais poderoso do Sistema de Defesa Antigo.</String>
   </StringTable>
  
   <StringTable>
     <Label>AntimatterWeaponCEvent_Name</Label>
-    <String>Antimatter Weapon</String>
+    <String>Arma de Antimatéria</String>
   </StringTable>
  
   <StringTable>
     <Label>AntimatterWeaponCEvent_Dec</Label>
-    <String>A deep core mining operation has found a powerful artifact: a missile weapon that somehow generates its own anti-matter fuel. We think we can adapt it to work with our existing warheads, but we might also try dismantling it to extract the anti-matter system for civilian purposes.</String>
+    <String>Uma operação de mineração de núcleo profundo encontrou um poderoso artefato: uma arma de mísseis que de alguma forma gera seu próprio combustível anti-matéria. Pensamos que podemos adaptá-lo para trabalhar com nossas ogivas existentes, mas também podemos tentar desmontá-lo para extrair o sistema anti-matéria para fins civis.</String>
   </StringTable>
  
   <StringTable>
@@ -430,42 +430,42 @@ It has a strange weapon that appears to function much like a standard beam weapo
  
   <StringTable>
     <Label>AntimatterWeaponCEvent_Benevolent_Bonus_Name</Label>
-    <String>We have enough weapons of war. The anti-matter generator can be used for far more practical purposes.</String>
+    <String>Temos armas de guerra suficientes. O gerador anti-matéria pode ser usado para fins muito mais práticos.</String>
   </StringTable>
  
   <StringTable>
     <Label>AntimatterWeaponCEvent_Benevolent_Bonus_Dec</Label>
-    <String>+25 Benevolent, + 5 Anti-matter, +5% Manufacturing to all colonies.</String>
+    <String>+25 Benevolente, + 5 Anti-matéria, +5% Fabricação para todas as colônias.</String>
   </StringTable>
  
   <StringTable>
     <Label>AntimatterWeaponCEvent_Neutral_Bonus_Name</Label>
-    <String>We have more practical ways to get anti-matter. A weapon like this should not be wasted.</String>
+    <String>Temos maneiras mais práticas de obter anti-matéria. Uma arma como esta não deve ser desperdiçada.</String>
   </StringTable>
  
   <StringTable>
     <Label>AntimatterWeaponCEvent_Neutral_Bonus_Dec</Label>
-    <String>+25 Pragmatic, Antimatter Weapon Component.</String>
+    <String>+25 Pragmático, Componente de Arma de Antimatéria.</String>
   </StringTable>
  
   <StringTable>
     <Label>AntimatterWeaponCEvent_Merciless_Bonus_Name</Label>
-    <String>We don't need one weapon. We need lots of them. Dismantle this thing and use its technology to make all our missiles more powerful.</String>
+    <String>Não precisamos de uma arma. Precisamos de muitas delas. Desmonte esta coisa e use sua tecnologia para tornar todos os nossos mísseis mais poderosos.</String>
   </StringTable>
  
   <StringTable>
     <Label>AntimatterWeaponCEvent_Merciless_Bonus_Dec</Label>
-    <String>+25 Malevolent, +5 Antimatter and 15% Missile Attack to all ships.</String>
+    <String>+25 Malevolentes, +5 Antimatéria e 15% Ataque de Mísseis a todos os navios.</String>
   </StringTable>
  
   <StringTable>
     <Label>DefenceDronePodEvent_Name</Label>
-    <String>Defence Drone Pod</String>
+    <String>Pod Drone de Defesa</String>
   </StringTable>
  
   <StringTable>
     <Label>DefenceDronePodEvent_Dec</Label>
-    <String>In a cavern underneath this world's south pole, we've found a strange device. It seems to contain thousands of tiny drones. We suspect that it once served as a defense system, but there appears to be multiple possible configurations when deploying it. Of course, we could also just try disassembling it to discover its secrets.</String>
+    <String>Em uma caverna embaixo do pólo sul deste mundo, encontramos um dispositivo estranho. Ele parece conter milhares de pequenos zangões. Suspeitamos que ele já serviu como um sistema de defesa, mas parece haver múltiplas configurações possíveis ao implementá-lo. É claro que também podemos tentar desmontá-lo para descobrir seus segredos.</String>
   </StringTable>
  
   <StringTable>
@@ -475,42 +475,42 @@ It has a strange weapon that appears to function much like a standard beam weapo
  
   <StringTable>
     <Label>DefenceDronePodEvent_Benevolent_Bonus_Name</Label>
-    <String>Sounds perfect for a point defense system.</String>
+    <String>Parece perfeito para um sistema de defesa pontual.</String>
   </StringTable>
  
   <StringTable>
     <Label>DefenceDronePodEvent_Benevolent_Bonus_Dec</Label>
-    <String>+25 Benevolent, powerful Point Defense Drone Pod Component.</String>
+    <String>+25 Benevolente, poderoso componente de Pod Drone de Defesa de Ponta.</String>
   </StringTable>
  
   <StringTable>
     <Label>DefenceDronePodEvent_Neutral_Bonus_Name</Label>
-    <String>Let's see if we can find a configuration which provides a varied defense.</String>
+    <String>Vamos ver se conseguimos encontrar uma configuração que proporcione uma defesa variada.</String>
   </StringTable>
  
   <StringTable>
     <Label>DefenceDronePodEvent_Neutral_Bonus_Dec</Label>
-    <String>+25 Pragmatic, Defense Drone Pod, all Defense types.</String>
+    <String>+25 Pragmático, Pod Drone de Defesa, todos os tipos de Defesa.</String>
   </StringTable>
  
   <StringTable>
     <Label>DefenceDronePodEvent_Merciless_Bonus_Name</Label>
-    <String>Better off tearing the little things apart to find out what makes them tick.</String>
+    <String>É melhor rasgar as pequenas coisas para descobrir o que as faz funcionar.</String>
   </StringTable>
  
   <StringTable>
     <Label>DefenceDronePodEvent_Merciless_Bonus_Dec</Label>
-    <String>+25 Malevolent, +15% Missile Attack all ships.</String>
+    <String>+25 Malevolentes, +15% Ataque de mísseis a todos os navios.</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientSingularityCannonEvent_Name</Label>
-    <String>Ancient Singularity Cannon</String>
+    <String>Antigo Canhão de Singularidade</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientSingularityCannonEvent_Dec</Label>
-    <String>Buried in a high mountain peak, we've found a powerful cannon that was most likely used for planetary defense. Or to shoot extremely large birds. It's far more powerful than anything we know how to make, and so massive only one of our largest ships would be able to carry it.</String>
+    <String>Enterrados em um pico de alta montanha, encontramos um poderoso canhão que muito provavelmente foi usado para a defesa planetária. Ou para atirar em pássaros extremamente grandes. É muito mais poderoso do que qualquer coisa que saibamos fazer, e tão maciço que apenas um de nossos maiores navios seria capaz de transportá-lo.</String>
   </StringTable>
  
   <StringTable>
@@ -520,32 +520,32 @@ It has a strange weapon that appears to function much like a standard beam weapo
  
   <StringTable>
     <Label>AncientSingularityCannonEvent_Benevolent_Bonus_Name</Label>
-    <String>Even if we can only put it on a slow ship that's enough to defend our colonies.</String>
+    <String>Mesmo que só possamos colocá-lo em um navio lento, isso é suficiente para defender nossas colônias.</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientSingularityCannonEvent_Benevolent_Bonus_Dec</Label>
-    <String>+25 Benevolent, powerful Ancient Singularity Cannon Component.</String>
+    <String>+25 Benevolente, poderoso Componente do Canhão de Singularidade dos Antigos.</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientSingularityCannonEvent_Neutral_Bonus_Name</Label>
-    <String>Let's try to trim some of the mass from it even if it slightly reduces its effectiveness.</String>
+    <String>Vamos tentar aparar parte da massa, mesmo que isso reduza ligeiramente sua eficácia.</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientSingularityCannonEvent_Neutral_Bonus_Dec</Label>
-    <String>+25 Pragmatic, Lower Mass Ancient Singularity Cannon Component.</String>
+    <String>+25 Pragmático, Componente do Canhão de Singularidade Antigo de Massa Inferior.</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientSingularityCannonEvent_Merciless_Bonus_Name</Label>
-    <String>It more fun to build big ships anyway. I'm sure we can find one big and mean enough for this beast.</String>
+    <String>De qualquer forma, é mais divertido construir grandes navios. Tenho certeza de que podemos encontrar um grande e suficientemente forte para esta besta.</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientSingularityCannonEvent_Merciless_Bonus_Dec</Label>
-    <String>+25 Malevolent, powerful Ancient Singularity Cannon Component.</String>
+    <String>+25 Malévolo, poderoso Componente do Canhão de Singularidade dos Antigos.</String>
   </StringTable>
  
   <StringTable>
