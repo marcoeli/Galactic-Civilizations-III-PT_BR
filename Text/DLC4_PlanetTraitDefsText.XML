@@ -8,27 +8,27 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>ThuliumMoon_Name</Label>
-    <String>[ICON=PrecursorMoonIcon] Thulium Moon</String>
+    <String>[ICON=PrecursorMoonIcon] Lua de Túlio</String>
   </StringTable>
  
   <StringTable>
     <Label>ThuliumMoon_Dec</Label>
-    <String>A Precursor World with an artificial moon created from a Thulium node. Shipyards sponsored by this world gain additional Hit Points.</String>
+    <String>Um Mundo Precursor com uma lua artificial criada a partir de um nó de túlio. Os estaleiros patrocinados por este mundo ganham Hit Points adicionais.</String>
   </StringTable>
  
   <StringTable>
     <Label>DurantiumCloud_Name</Label>
-    <String>[ICON=PrecursorCloudIcon] Durantium Cloud</String>
+    <String>[ICON=PrecursorCloudIcon] Nuvem de Durantium</String>
   </StringTable>
  
   <StringTable>
     <Label>DurantiumCloud_Dec</Label>
-    <String>A Precursor World with a cloud of captured Durantium Asteroids. Shipyards sponsored by this world gain a bonus to any Mass Drivers ships produced.</String>
+    <String>Um Mundo Precursor com uma nuvem de asteróides Durantium capturados. Os estaleiros patrocinados por este mundo ganham um bônus para qualquer nave Aceleradora de Massa produzida.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorAccelerator_Name</Label>
-    <String>[ICON=PrecursorAcceleratorIcon] Precursor Accelerator</String>
+    <String>[ICON=PrecursorAcceleratorIcon] Acelerador Precursor</String>
   </StringTable>
  
   <StringTable>
