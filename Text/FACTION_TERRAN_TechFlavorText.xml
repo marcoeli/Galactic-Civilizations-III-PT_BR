@@ -3061,7 +3061,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Subspace is the 12-dimension space that lies at right angles to and a little bit behind our universe, and it took us a very long time to figure out how to look at it. The upshot is that we can now build a new generation of very powerful sensors.</Text>
+      <Text>O subespaço é o espaço de 12 dimensões que está em ângulo reto e um pouco atrás de nosso universo, e demorou muito tempo para descobrir como olhar para ele. O resultado final é que agora podemos construir uma nova geração de sensores muito poderosos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3071,7 +3071,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Sensor Mastery</Text>
+      <Text>Domínio dos sensores</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3081,7 +3081,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves sensors.</Text>
+      <Text>Melhora os sensores.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3091,7 +3091,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We don't anticipate any further increases in the viewing range of our sensors, not until we leave this universe for another one. But we can certainly make them a little more efficient.</Text>
+      <Text>Não antecipamos nenhum aumento no alcance de visão de nossos sensores, não até deixarmos este universo para outro. Mas certamente podemos torná-los um pouco mais eficientes.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3101,7 +3101,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Sensor Simplification</Text>
+      <Text>Simplificação de sensores</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3111,7 +3111,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces cost of sensors.</Text>
+      <Text>Reduz o custo dos sensores.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3121,7 +3121,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>When a ragtag group of science-accountants teamed up with the goal of identifying cost savings in our most advanced sensor systems, few believed they had a chance. Many openly mocked them. Some people spit on them. But somehow they managed it.</Text>
+      <Text>Quando um grupo de contadores científicos se uniu com o objetivo de identificar economias de custo em nossos sistemas de sensores mais avançados, poucos acreditavam ter uma chance. Muitos os ridicularizaram abertamente. Algumas pessoas cuspiram neles. Mas, de alguma forma, eles conseguiram.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3131,7 +3131,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Sensor Mass Reduction</Text>
+      <Text>Redução de massa do sensor</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3141,7 +3141,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces mass of sensors.</Text>
+      <Text>Reduz a massa dos sensores.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3151,7 +3151,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>A careful analysis of our newest sensor systems has revealed that several of their components don't technically have to exist in this universe. By shifting their workload into another plane, we can reduce the amount of mass we have to lug around in ours.</Text>
+      <Text>Uma análise cuidadosa de nossos mais novos sistemas de sensores revelou que vários de seus componentes não têm que existir tecnicamente neste universo. Ao deslocar sua carga de trabalho para outro plano, podemos reduzir a quantidade de massa que temos de carregar no nosso.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3161,7 +3161,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Targeting Assist</Text>
+      <Text>Assistência na focalização</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3171,7 +3171,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of targeting and stealth modules.</Text>
+      <Text>Permite a construção de módulos de mira e furtividade.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3181,7 +3181,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>A study of how our ships have performed in combat has led to a number of improvements in our tactical targeting systems. At the same time, we've devised a system which should confuse enemy sensors.</Text>
+      <Text>Um estudo de como nossos navios têm se desempenhado em combate levou a uma série de melhorias em nossos sistemas de alvo tático. Ao mesmo tempo, concebemos um sistema que deve confundir os sensores inimigos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3191,7 +3191,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Targeting Support</Text>
+      <Text>Suporte de mira</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3201,7 +3201,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of targeting and jamming modules.</Text>
+      <Text>Permite a construção de módulos de mira e de interferência.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3211,7 +3211,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We've adapted our tactical sensor improvements into support modules, capable of allowing a single ship to provide sensor accuracy and jamming benefits to an entire fleet of vessels.</Text>
+      <Text>Adaptamos nossas melhorias táticas de sensores em módulos de suporte, capazes de permitir que um único navio forneça precisão de sensores e benefícios de interferência a toda uma frota de navios.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3221,7 +3221,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Xeno Archeology</Text>
+      <Text>Xeno Arqueologia</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3231,7 +3231,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases Precursor research, and begins the path towards Ascension.</Text>
+      <Text>Aumenta a pesquisa do Precursor, e inicia o caminho para a Ascensão.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3241,7 +3241,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>For some time we've known of a race, or races, of long dead aliens called the Precursors. It's taken some time to adapt our survey systems to identify their relics, but now that we have, we hope to learn a few of their secrets.</Text>
+      <Text>Há algum tempo sabemos de uma raça, ou raças, de alienígenas mortos há muito tempo chamados Precursores. Levou algum tempo para adaptar nossos sistemas de pesquisa para identificar suas relíquias, mas agora que o fizemos, esperamos aprender alguns de seus segredos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3251,7 +3251,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Precursor Studies</Text>
+      <Text>Estudos de Precursores</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3261,7 +3261,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases Precursor research and Ascension crystal mining.</Text>
+      <Text>Aumenta a pesquisa do Precursor e a mineração de cristais de ascensão.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
