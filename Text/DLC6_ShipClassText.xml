@@ -9,22 +9,22 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>XendarScout_Class_Name</Label>
-    <String>Scout</String>
+    <String>Batedor</String>
   </StringTable>
  
   <StringTable>
     <Label>XendarScout_Dec</Label>
-    <String>Unarmed but quick, with excellent Sensor Range. It will lose every fight it gets into, so try not to get it into any.</String>
+    <String>Desarmado, mas rápido, com excelente alcance de sensor. Perderá cada luta em que se envolver, portanto, tente não entrar em nenhuma.</String>
   </StringTable>
  
   <StringTable>
     <Label>ProtoTypeXendarScout_Class_Name</Label>
-    <String>ProtoType Scout</String>
+    <String>Prototipo Batedor</String>
   </StringTable>
  
   <StringTable>
     <Label>ProtoTypeXendarScout_Dec</Label>
-    <String>With the help of a Promethion augmented Hyper Drive, this scout is faster than anything we have been able to build in the past.</String>
+    <String>Com a ajuda de um Hyper Drive aumentado de Promethion, este batedor é mais rápido do que qualquer coisa que tenhamos sido capazes de construir no passado.</String>
   </StringTable>
  
   <StringTable>
@@ -34,7 +34,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>XendarSniper_Dec</Label>
-    <String>Short range and kitted out for beam combat. A nasty little slicer.</String>
+    <String>Curto alcance e equipado para combate com feixes. Um fatiador desagradável.</String>
   </StringTable>
  
   <StringTable>
@@ -44,7 +44,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>ProtoTypeXendarSniper_Dec</Label>
-    <String>This deadly short range ship uses an Elerium powered Prototype  Weapon, giving it the firepower  of a much larger vessel.</String>
+    <String>Este navio de curto alcance mortal usa uma Arma Protótipo de Elerium, dando-lhe o poder de fogo de uma nave muito maior.</String>
   </StringTable>
  
   <StringTable>
@@ -54,37 +54,37 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>AIDefenseXendarSniper_Dec</Label>
-    <String>Short range and kitted out for beam combat. A nasty little slicer.</String>
+    <String>Curto alcance e equipado para combate com feixes. Um fatiador desagradável.</String>
   </StringTable>
  
   <StringTable>
     <Label>XendarBomber_Class_Name</Label>
-    <String>Bomber</String>
+    <String>Bombardeiro</String>
   </StringTable>
  
   <StringTable>
     <Label>XendarBomber_Dec</Label>
-    <String>Short range and set up for missile combat. A mean little torpedo boat.</String>
+    <String>Curto alcance e preparado para o combate de mísseis. Um pequeno torpedeiro malvado.</String>
   </StringTable>
  
   <StringTable>
     <Label>ProtoTypeXendarBomber_Class_Name</Label>
-    <String>Prototype Bomber</String>
+    <String>Protótipo de bombardeiro</String>
   </StringTable>
  
   <StringTable>
     <Label>ProtoTypeXendarBomber_Dec</Label>
-    <String>Short range but equipped with powerful Prototype antimatter missile.</String>
+    <String>Curto alcance, mas equipado com um poderoso Protótipo de míssil antimatéria.</String>
   </StringTable>
  
   <StringTable>
     <Label>AIDefenseXendarBomber_Class_Name</Label>
-    <String>Bomber</String>
+    <String>Bombardeiro</String>
   </StringTable>
  
   <StringTable>
     <Label>AIDefenseXendarBomber_Dec</Label>
-    <String>Short range and set up for missile combat. A mean little torpedo boat.</String>
+    <String>Curto alcance e preparado para o combate a mísseis. Um pequeno torpedeiro malvado.</String>
   </StringTable>
  
   <StringTable>
@@ -94,7 +94,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>XendarGuardian_Dec</Label>
-    <String>Short-range, optimized for kinetic combat. An ornery little stone thrower.</String>
+    <String>Curto alcance, otimizado para o combate cinético. Um pequeno atirador de pedras ornamentais.</String>
   </StringTable>
  
   <StringTable>
@@ -104,7 +104,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>ProtoTypeXendarGuardian_Dec</Label>
-    <String>Short-range but equipped with a Prototype Durantium Driver.</String>
+    <String>Curto alcance, mas equipado com um Protótipo de Driver Durantium.</String>
   </StringTable>
  
   <StringTable>
@@ -114,7 +114,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>AIDefenseXendarGuardian_Dec</Label>
-    <String>Short-range, optimized for kinetic combat. An ornery little stone thrower.</String>
+    <String>Curto alcance, otimizado para o combate cinético. Um pequeno atirador de pedras ornamentais.</String>
   </StringTable>
  
   <StringTable>
@@ -124,7 +124,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>XendarKnight_Dec</Label>
-    <String>Short-range but versatile. Equipped with Thulium Hull Reinforcement it can really take a beating.</String>
+    <String>De curto alcance, mas versátil. Equipado com o reforço do casco de Thulium pode realmente levar uma surra.</String>
   </StringTable>
  
   <StringTable>
@@ -134,17 +134,17 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>AIDefenseXendarKnight_Dec</Label>
-    <String>Short-range but versatile. Equipped with Thulium Hull Reinforcement it can really take a beating.</String>
+    <String>De curto alcance, mas versátil. Equipado com o reforço do casco de Thulium pode realmente levar uma surra.</String>
   </StringTable>
  
   <StringTable>
     <Label>XendarAssaultFighter_Class_Name</Label>
-    <String>Assault Fighter</String>
+    <String>Caça de assalto</String>
   </StringTable>
  
   <StringTable>
     <Label>XendarAssaultFighter_Dec</Label>
-    <String>Fast and deadly. Designed to get to the enemy fast and take out high value targets.</String>
+    <String>Rápido e mortífero. Projetado para chegar rapidamente ao inimigo e derrubar alvos de alto valor.</String>
   </StringTable>
  
   <StringTable>
@@ -154,7 +154,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>XendarDroneInterceptor_Dec</Label>
-    <String>Remotely piloted and designed for close-range combat. Seeks out and destroys enemy Support ships.</String>
+    <String>Pilotado remotamente e projetado para combate a curta distância. Procura e destrói navios de apoio inimigos.</String>
   </StringTable>
  
   <StringTable>
@@ -164,7 +164,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>XendarGuardianFighter_Dec</Label>
-    <String>Tiny but tough, these drones will defend your Support Ships to the end.</String>
+    <String>Pequenos mas resistentes, estes drones defenderão seus navios de apoio até o fim.</String>
   </StringTable>
  
   <StringTable>
@@ -174,17 +174,17 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>ProtoTypeXendarSurvey_Dec</Label>
-    <String>A small, light ship capable of surveying anomalies thanks to a Prototype Survey module.</String>
+    <String>Um navio pequeno e leve, capaz de inspecionar anomalias graças a um módulo Protótipo de Pesquisa.</String>
   </StringTable>
  
   <StringTable>
     <Label>XendarExplorer_Class_Name</Label>
-    <String>Explorer</String>
+    <String>Explorador</String>
   </StringTable>
  
   <StringTable>
     <Label>XendarExplorer_Dec</Label>
-    <String>Unarmed but quick, dedicated to exploration and not much else. A runner, not a fighter.</String>
+    <String>Desarmado, mas rápido, dedicado à exploração e não muito mais. Um corredor, não um lutador.</String>
   </StringTable>
  
   <StringTable>
@@ -194,7 +194,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>XendarCutter_Dec</Label>
-    <String>Mid range ship set up for Beam Weapons and Shields. It's earned its name.</String>
+    <String>Nave de médio alcance montada para Armas de Feixe e Escudos. Ganhou seu nome.</String>
   </StringTable>
  
   <StringTable>
@@ -204,7 +204,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>ProtoTypeXendarCutter_Dec</Label>
-    <String>Mid range ship set up for Beam Weapons and Shields. It's earned its name.</String>
+    <String>Nave de médio alcance montada para Armas de Feixe e Escudos. Ganhou seu nome.</String>
   </StringTable>
  
   <StringTable>
@@ -214,7 +214,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>XendarCutterL_Dec</Label>
-    <String>Equipped with a Rapid Beam Recharger, for a faster rate of fire.</String>
+    <String>Equipado com um Recarregador de Feixe Rápido, para uma taxa de fogo mais rápida.</String>
   </StringTable>
  
   <StringTable>
@@ -224,7 +224,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>AIDefenseXendarCutter_Dec</Label>
-    <String>Mid range ship set up for Beam Weapons and Shields. It's earned its name.</String>
+    <String>Nave de médio alcance montada para Armas de Feixe e Escudos. Ganhou seu nome.</String>
   </StringTable>
  
   <StringTable>
@@ -234,7 +234,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>XendarDefender_Dec</Label>
-    <String>Mid range missile boat, set up with Point Defenses. Packs a punch.</String>
+    <String>Barco de mísseis de médio alcance, montado com Defesa Pontual. Dá um soco.</String>
   </StringTable>
  
   <StringTable>
@@ -244,7 +244,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>ProtoTypeXendarDefender_Dec</Label>
-    <String>Mid range missile boat, set up with Point Defenses. Packs a punch.</String>
+    <String>Barco de mísseis de médio alcance, montado com Defesa Pontual. Dá um soco.</String>
   </StringTable>
  
   <StringTable>
@@ -254,7 +254,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>AIDefenseXendarDefender_Dec</Label>
-    <String>Mid range missile boat, set up with point defenses. Packs a punch.</String>
+    <String>Barco de mísseis de médio alcance, montado com Defesa Pontual. Dá um soco.</String>
   </StringTable>
  
   <StringTable>

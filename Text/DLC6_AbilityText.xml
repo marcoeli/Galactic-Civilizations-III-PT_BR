@@ -9,17 +9,17 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>ExperiencedAbility_Name</Label>
-    <String>Experienced</String>
+    <String>Experientes</String>
   </StringTable>
  
   <StringTable>
     <Label>ExperiencedAbility_ShortName</Label>
-    <String>Experienced</String>
+    <String>Experientes</String>
   </StringTable>
  
   <StringTable>
     <Label>ExperiencedAbility_Desc</Label>
-    <String>[COLOR=UIDefaultHot]All Ships receive 25% more Experience Points from battles.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]Todos os Navios recebem 25% a mais de Pontos de Experiência de batalhas.[/COLOR]</String>
   </StringTable>
  
 </StringTableList>

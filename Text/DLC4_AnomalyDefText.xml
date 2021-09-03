@@ -44,7 +44,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
     <Label>PrecursorCreditsAnomaly_Dec</Label>
     <String>[COLOR=UIDefaultHot]Depois de estudar este artefato precursor, nossos Pesquisadores estão muito entusiasmados.  Eles encontraram artefatos valiosos que irão aumentar a renda de toda a nossa civilização.[/COLOR]
 
-[ICON=Stat_Credits_Icon] +10% to income of all colonies</String>
+[ICON=Stat_Credits_Icon] +10% no rendimento de todas as colônias</String>
   </StringTable>
  
   <StringTable>
@@ -61,7 +61,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>PrecursorHitPointsAnomaly_Name</Label>
-    <String>Anomalia dos Hit Points precursor</String>
+    <String>Anomalia dos Hit Points precursores</String>
   </StringTable>
  
   <StringTable>
@@ -97,7 +97,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>PrecursorRangeAnomaly_Name</Label>
-    <String>Precursor Range Anomaly</String>
+    <String>Anomalia da Linha de Precursores</String>
   </StringTable>
  
   <StringTable>
