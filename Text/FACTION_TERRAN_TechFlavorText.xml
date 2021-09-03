@@ -21,7 +21,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Todos as Techs</Text>
+      <Text>Todas as Techs</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -2881,7 +2881,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our earliest sensors were crude, jury-rigged things, and if we begin swapping out their parts for dedicated sensor-specific equipment, we should see significant weight savings.</Text>
+      <Text>Nossos sensores mais antigos eram grosseiros, coisas improvisadas, e se começarmos a trocar suas peças por equipamentos específicos para sensores, deveremos ver uma economia significativa de peso.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -2891,7 +2891,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Energy Field Sensors</Text>
+      <Text>Sensores de campo de energia</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -2901,7 +2901,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of advanced sensors.</Text>
+      <Text>Permite a construção de sensores avançados.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -2911,7 +2911,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improvements in our understanding of the effects of space folding have revealed that hyperdrives are detectable at much greater distances than previously believed.</Text>
+      <Text>As melhorias em nosso entendimento dos efeitos da dobra do espaço revelaram que os hiperdrives são detectáveis a distâncias muito maiores do que se acreditava anteriormente.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -2921,7 +2921,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Energy Field Focus</Text>
+      <Text>Foco no campo energético</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -2931,7 +2931,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves sensors.</Text>
+      <Text>Melhora os sensores.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -2941,7 +2941,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>As is usually the case when equipment is sent to the field, the technicians who actually use our sensors soon came up with a number of different ways to improve their efficiency and effectiveness.</Text>
+      <Text>Como geralmente acontece quando o equipamento é enviado para o campo, os técnicos que realmente usam nossos sensores logo descobriram uma série de diferentes maneiras de melhorar sua eficiência e eficácia.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -2951,7 +2951,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Sensor Field Augmentation</Text>
+      <Text>Aumento do campo de sensores</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -2961,7 +2961,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases sensor range.</Text>
+      <Text>Aumenta o alcance do sensor.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -2971,7 +2971,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our technicians have found that by turning one of the knobs up, our sensor systems can see a bit further. We feel kind of dumb for not realizing this before.</Text>
+      <Text>Nossos técnicos descobriram que ao girar um dos botões para cima, nossos sistemas de sensores podem ver um pouco mais longe. Sentimo-nos meio burros por não ter percebido isso antes.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -2981,7 +2981,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Sensor Efficacy Focus</Text>
+      <Text>Foco na Eficácia do Sensor</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -2991,7 +2991,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces cost of sensors.</Text>
+      <Text>Reduz o custo dos sensores.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3001,7 +3001,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our sensor systems had several redundant parts, which when stripped out has led to the production of cheaper, more efficient systems. The accountants are all very excited.</Text>
+      <Text>Nossos sistemas de sensores tinham várias partes redundantes, o que, quando removidos, levou à produção de sistemas mais baratos e mais eficientes. Os contadores estão todos muito entusiasmados.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3011,7 +3011,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>High Density Sensors</Text>
+      <Text>Sensores de Alta Densidade</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3021,7 +3021,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces mass of sensors.</Text>
+      <Text>Reduz a massa dos sensores.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3031,7 +3031,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>The creation of high-density field detection components should lead to more compact sensors, leaving our ship designers more room to install guns. Everyone wins. Except the people the guns are pointed at.</Text>
+      <Text>A criação de componentes de detecção de campo de alta densidade deve levar a sensores mais compactos, deixando aos nossos projetistas de navios mais espaço para instalar armas. Todos ganham. Exceto as pessoas para as quais as armas são apontadas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3041,7 +3041,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Subspace Sensors</Text>
+      <Text>Sensores de subespaço</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3051,7 +3051,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of exotic sensors.</Text>
+      <Text>Permite a construção de sensores exóticos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
