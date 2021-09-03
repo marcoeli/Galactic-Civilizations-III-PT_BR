@@ -33,97 +33,97 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>PrecursorAccelerator_Dec</Label>
-    <String>A Precursor World with immense Promethion Accelerator orbiting it. Shipyards sponsored by this world will build faster ships.</String>
+    <String>Um Mundo Precursor com imenso Promethion Accelerator orbitando-o. Os estaleiros patrocinados por este mundo construirão navios mais rápidos.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorSatellites_Name</Label>
-    <String>[ICON=PrecursorSatellitesIcon] Precursor Satellites</String>
+    <String>[ICON=PrecursorSatellitesIcon] Satélites Precursores</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorSatellites_Dec</Label>
-    <String>A Precursor World with an advanced array of orbiting satellites. These satellites give the planet a larger sensor range and boost the sensor range of any ship built by its shipyard.</String>
+    <String>Um Mundo Precursor com um avançado conjunto de satélites em órbita. Estes satélites dão ao planeta um alcance de sensores maior e aumentam o alcance dos sensores de qualquer nave construída por seu estaleiro.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorElevator_Name</Label>
-    <String>[ICON=PrecursorElevatorIcon] Precursor Elevator</String>
+    <String>[ICON=PrecursorElevatorIcon] Elevador Precursor</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorElevator_Dec</Label>
-    <String>A Precursor World with an intact Space Elevator that greatly increases its efficiency  of a sponsored shipyard.</String>
+    <String>Um Mundo Precursor com um elevador espacial intacto que aumenta muito sua eficiência de um estaleiro naval patrocinado.</String>
   </StringTable>
  
   <StringTable>
     <Label>PromethionRefinery_Name</Label>
-    <String>[ICON=PrecursorRefineryIcon] Promethion Refinery World</String>
+    <String>[ICON=PrecursorRefineryIcon] Mundo de Refinaria Promethion</String>
   </StringTable>
  
   <StringTable>
     <Label>PromethionRefinery_Dec</Label>
-    <String>A Precursor World created by mining out a Promethion Planet, Shipyards sponsored by this world will have greatly increased range.</String>
+    <String>Um Mundo Precursor criado pela mineração de um Planeta Promethion, Estaleiros patrocinados por este mundo terão um alcance muito maior.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorFactoryWorld_Name</Label>
-    <String>[ICON=PrecursorFactoryIcon] Precursor Factory World</String>
+    <String>[ICON=PrecursorFactoryIcon] Mundo fábrica dos Precursores</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorFactoryWorld_Dec</Label>
-    <String>A Precursor World, with a vast orbital factory rings. That greatly increases the manufacturing potential of the world.</String>
+    <String>Um Mundo Precursor, com um vasto anel orbital de fábrica. Isso aumenta muito o potencial de fabricação do mundo.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorResearchWorld_Name</Label>
-    <String>[ICON=PrecursorResearchIcon] Precursor Research World</String>
+    <String>[ICON=PrecursorResearchIcon] Mundo da Pesquisa dos Precursores</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorResearchWorld_Dec</Label>
-    <String>A Precursor world with intact precursor bases in orbit that can greatly increase the Research potential of any colony.</String>
+    <String>Um mundo Precursor com bases precursoras intactas em órbita que pode aumentar muito o potencial de Pesquisa de qualquer colônia.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorTreasury_Name</Label>
-    <String>[ICON=PrecursorWealthIcon] Precursor Treasury</String>
+    <String>[ICON=PrecursorWealthIcon] Tesouro Precursor</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorTreasury_Dec</Label>
-    <String>A Precursor World with a vast orbiting ring that is full of ancient and valuable resources. It will greatly increase the wealth of any colony.</String>
+    <String>Um Mundo Precursor com um vasto anel em órbita que está cheio de recursos antigos e valiosos. Ele aumentará muito a riqueza de qualquer colônia.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorQuarantine_Name</Label>
-    <String>[ICON=PrecursorQuarantineIcon] Precursor Quarantine</String>
+    <String>[ICON=PrecursorQuarantineIcon] Quarentena do Precursor</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorQuarantine_Dec</Label>
-    <String>A once wealthy world quarantined by the Precursors. What remains is so toxic that it is uncolonizable without work.</String>
+    <String>Um mundo outrora rico, colocado em quarentena pelos Precursores. O que resta é tão tóxico que é incolonizável sem trabalho.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorExperimentalWorld_Name</Label>
-    <String>[ICON=PrecursorExperimentalIcon] Precursor Experimental World</String>
+    <String>[ICON=PrecursorExperimentalIcon] Precursor Mundo Experimental</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorExperimentalWorld_Dec</Label>
-    <String>A world thought to have been used by the Precursors for dangerous experimentation. It will take a great deal of work to make it safe to colonize.</String>
+    <String>Um mundo que se pensava ter sido usado pelos Precursores para experiências perigosas. Será necessário muito trabalho para torná-lo seguro para colonizar.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorPrison_Name</Label>
-    <String>[ICON=PrecursorPrisonIcon] Precursor Prison</String>
+    <String>[ICON=PrecursorPrisonIcon] Prisão dos Precursores</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorPrison_Dec</Label>
-    <String>A mysterious world that was once used as a Precursor Prison. Its atmosphere has been poisoned, making it impossible to colonize without a great deal of work</String>
+    <String>Um mundo misterioso que já foi usado como Prisão Precursora. Sua atmosfera foi envenenada, tornando impossível a colonização sem muito trabalho.</String>
   </StringTable>
  
 </StringTableList>
