@@ -3271,7 +3271,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Now that we've had an opportunity to study a few precursor relics, we've been able to detect patterns in them which have allowed us to build a framework which should greatly aid future Precursor research efforts.</Text>
+      <Text>Agora que tivemos a oportunidade de estudar algumas relíquias precursoras, conseguimos detectar padrões nelas que nos permitiram construir uma estrutura que deveria ajudar muito nos futuros esforços de pesquisa dos Precursores.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3281,7 +3281,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Precursor Relic Focus</Text>
+      <Text>Foco das Relíquias Precursoras</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3291,7 +3291,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves Precursor relic benefits.</Text>
+      <Text>Melhora os benefícios das relíquias dos Precursores</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3301,7 +3301,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Having captured a few Precursor relics and observed the impact they have on our research and culture, we can now try adjusting our Precursor studies to benefit specific areas of our civilization.</Text>
+      <Text>Tendo capturado algumas relíquias Precursoras e observado o impacto que elas têm em nossa pesquisa e cultura, podemos agora tentar ajustar nossos estudos de Precursores para beneficiar áreas específicas de nossa civilização.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3311,7 +3311,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Precursor Technologist</Text>
+      <Text>Tecnólogo Precursor</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3321,7 +3321,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases Precursor relic research benefits.</Text>
+      <Text>Aumenta os benefícios da pesquisa de relíquias do Precursor.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3331,7 +3331,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Understanding Precursor artifacts involves throwing out many of our pre-conceived notions about technology. Their interfaces don't just assume we have different anatomy; they assume we have different ways of thinking entirely.</Text>
+      <Text>Compreender os artefatos do Precursor envolve jogar fora muitas de nossas noções pré-concebidas sobre tecnologia. Suas interfaces não assumem apenas que temos anatomia diferente; elas assumem que temos maneiras diferentes de pensar inteiramente.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3341,7 +3341,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Precursor Cultural Studies</Text>
+      <Text>Estudos Culturais Precursores</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3351,7 +3351,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases Precursor relic cultural benefits.</Text>
+      <Text>Aumenta os benefícios culturais das relíquias do Precursor.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3361,7 +3361,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>The public seems fascinated by the Precursors, and the relics we've found have had a surprising effect on our society. We can now try to capitalize on these cultural benefits. Souvenirs. Wacky catchphrases. Things like that.</Text>
+      <Text>O público parece fascinado pelos Precursores, e as relíquias que encontramos tiveram um efeito surpreendente em nossa sociedade. Agora podemos tentar capitalizar estes benefícios culturais. Lembranças. Frases malucas. Coisas assim.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3371,7 +3371,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Precursor Capitalization</Text>
+      <Text>Capitalização do Precursor</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3381,7 +3381,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases Precursor relic economic benefits.</Text>
+      <Text>Aumenta os benefícios econômicos das relíquias do Precursor.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3391,7 +3391,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Most of the Precursor relics we find are  a mystery to us, doing little more than generating patterns of pretty lights. Though it turns out there is a massive consumer market for pretty lights which we might want to capitalize on.</Text>
+      <Text>A maioria das relíquias do Precursor que encontramos são um mistério para nós, fazendo pouco mais do que gerar padrões de luzes bonitas. Embora afinal exista um enorme mercado de consumo de luzes bonitas, que talvez queiramos aproveitar.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3401,7 +3401,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Precursor Exploitation</Text>
+      <Text>Exploração do Precursor</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3411,7 +3411,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases Precursor research and Ascension crystal mining.</Text>
+      <Text>Aumenta a pesquisa do Precursor e a mineração de cristais de ascensão.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3421,7 +3421,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>The study of Precursor relics requires very specialized equipment. The construction of dedicated facilities staffed with Precursor specialists will allow us to make the most of these incredible artifacts.</Text>
+      <Text>O estudo das relíquias do Precursor requer equipamento muito especializado. A construção de instalações dedicadas com especialistas do Precursor nos permitirá aproveitar ao máximo estes artefatos incríveis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3431,7 +3431,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Precursor Engineering</Text>
+      <Text>Engenharia dos Precursores</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3441,7 +3441,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases Precursor research and Ascension crystal mining.</Text>
+      <Text>Aumenta a pesquisa do Precursor e a mineração de cristais de ascensão.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3451,7 +3451,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We're now able to try recreating some of the Precursor's technology. Extremely advanced fabrication equipment will be needed to continue this work, but the benefits to our other research programs could be immeasurable.</Text>
+      <Text>Agora podemos tentar recriar parte da tecnologia do Precursor. Equipamentos de fabricação extremamente avançados serão necessários para continuar este trabalho, mas os benefícios para nossos outros programas de pesquisa podem ser imensuráveis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3461,7 +3461,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Precursor Understanding</Text>
+      <Text>Entendimento do Precursor</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3471,7 +3471,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases Precursor research. Prepares civilization for Ascension.</Text>
+      <Text>Aumenta a pesquisa do Precursor. Prepara a civilização para a Ascensão.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3481,7 +3481,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Precursor relics reveal their secrets to us with ease now, and we're close to building our own relics ourselves. We have almost as full an understanding of Precursor technology as the Precursors did themselves.</Text>
+      <Text>As relíquias precursoras nos revelam seus segredos com facilidade agora, e nós mesmos estamos perto de construir nossas próprias relíquias. Temos um entendimento quase tão completo da tecnologia do Precursor quanto os próprios Precursores.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3491,7 +3491,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Life Support</Text>
+      <Text>Suporte de vida</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3501,7 +3501,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of improved life support systems.</Text>
+      <Text>Permite a construção de sistemas de suporte de vida melhorados.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3511,7 +3511,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>It seems surprising that the factor limiting the travel range for our ships is its life support system, but there you have it. For anything less than a colony ship, keeping the occupants alive is now a bigger challenge than keeping the engines fueled.</Text>
+      <Text>Parece surpreendente que o fator que limita o alcance de viagem de nossos navios seja seu sistema de suporte de vida, mas aí você o tem. Para qualquer coisa menos que um navio colônia, manter os ocupantes vivos é agora um desafio maior do que manter os motores abastecidos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3521,7 +3521,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Life Support Optimization</Text>
+      <Text>Otimização do suporte de vida</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3531,7 +3531,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves life support systems.</Text>
+      <Text>Melhora os sistemas de suporte de vida.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3541,7 +3541,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Everyone in the navy is very excited that we're trying to optimize our life support systems, and would certainly cheer if they weren't conserving their air.</Text>
+      <Text>Todos na marinha estão muito entusiasmados por estarmos tentando otimizar nossos sistemas de suporte de vida, e certamente se animariam se não estivessem conservando seu ar.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3551,7 +3551,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improved Life Support</Text>
+      <Text>Suporte de Vida Melhorado</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3561,7 +3561,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases ship range.</Text>
+      <Text>Aumenta o alcance do navio.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5171,7 +5171,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Warfare</Text>
+      <Text>Militar</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5181,7 +5181,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We can't be naive about who or what we might find in the galaxy. From this point on, our ships must be armed, whether to protect against a yet unseen enemy, or even ourselves.</Text>
+      <Text>Não podemos ser ingênuos sobre quem ou o que podemos encontrar na galáxia. A partir deste ponto, nossas naves devem estar armadas, seja para proteger contra um inimigo ainda invisível, ou mesmo contra nós mesmos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5191,7 +5191,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Weapons Systems</Text>
+      <Text>Sistemas de Armas</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -9701,7 +9701,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Interstellar Governance</Text>
+      <Text>Governança Interstelar</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -9711,7 +9711,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Governing a civilization on this scale parallels our experience exploring our own world hundreds of years ago. A history we'd better refamiliarize ourselves with quickly, before we get any space tea dumped in our harbors.</Text>
+      <Text>Governar uma civilização nesta escala é paralelo à nossa experiência de explorar nosso próprio mundo centenas de anos atrás. Uma história com a qual é melhor nos familiarizarmos rapidamente, antes de recebermos qualquer chá espacial jogado em nossos portos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -9801,7 +9801,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Galactic Governance</Text>
+      <Text>Governança Galáctica</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -9811,7 +9811,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>By granting limited powers of self rule to various elements of society, reserving the most critical functions for our own central government, we expect to see increased public satisfaction and all the benefits which come with it.</Text>
+      <Text>Ao conceder poderes limitados de governo próprio a vários elementos da sociedade, reservando as funções mais críticas para nosso próprio governo central, esperamos ver maior satisfação do público e todos os benefícios que lhe são inerentes.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -9981,7 +9981,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Star Federation</Text>
+      <Text>Federação Estelar</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -9991,7 +9991,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>The ultimate in space based governance, an ideal blend of all the freedoms, responsibilities, and delicious seasonings which make up an ideal civic life.</Text>
+      <Text>A última palavra em governança baseada no espaço, uma mistura ideal de todas as liberdades, responsabilidades e deliciosos temperos que compõem uma vida cívica ideal.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
