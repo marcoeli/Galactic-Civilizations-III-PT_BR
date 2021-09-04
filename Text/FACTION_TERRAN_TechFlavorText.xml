@@ -6591,7 +6591,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Never before have we needed to make electromagnetic coils in such quantity, and the early days of kinetic weapons were plagued by supply problems. But that's finally been addressed, and we should see cost savings across all of our kinetic weapon programs.</Text>
+      <Text>Nunca antes foi necessário fazer bobinas eletromagnéticas em tal quantidade, e os primeiros dias das armas cinéticas foram marcados por problemas de fornecimento. Mas isso foi finalmente resolvido, e devemos ver economias de custos em todos os nossos programas de armas cinéticas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6601,7 +6601,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Kinetic Miniaturization</Text>
+      <Text>Miniaturização cinética</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6611,7 +6611,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces mass of kinetic weapons.</Text>
+      <Text>Reduz a massa de armas cinéticas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6621,7 +6621,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Some experiments with the winding patterns of our electromagnetic coils has revealed a number of subtle synergistic effects which we can take advantage of, leading to tighter, more compact coils, and ultimately, lower mass weapons.</Text>
+      <Text>Algumas experiências com os padrões de enrolamento de nossas bobinas eletromagnéticas revelaram uma série de efeitos sinérgicos sutis dos quais podemos tirar proveito, levando a bobinas mais compactas, mais apertadas e, por fim, armas de menor massa.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6631,7 +6631,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Pulse Cannons</Text>
+      <Text>Canhões de pulso</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6641,7 +6641,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of advanced kinetic weapons.</Text>
+      <Text>Permite a construção de armas cinéticas avançadas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6651,7 +6651,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Tight clusters of particles emitted at high velocity gets around some of the practical limitations of slug based mass drivers. These pulse cannons have similar tactical characteristics as previous kinetic weapons. They're just more powerful.</Text>
+      <Text>Grupos apertados de partículas emitidas em alta velocidade contornam algumas das limitações práticas dos drivers de massa baseados em balas. Estes canhões de pulso têm características táticas similares às armas cinéticas anteriores. Eles são apenas mais poderosos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6661,7 +6661,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Kinetic Acceleration Focus</Text>
+      <Text>Foco na Aceleração Cinética</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6671,7 +6671,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves kinetic weapons.</Text>
+      <Text>Melhora as armas cinéticas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6681,7 +6681,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Recent advances in superconducting technology should lead to improvements in the critical energy delivery systems of our kinetic weapons.</Text>
+      <Text>Os recentes avanços em tecnologia supercondutora devem levar a melhorias nos sistemas críticos de fornecimento de energia de nossas armas cinéticas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6691,7 +6691,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Frictionless Acceleration</Text>
+      <Text>Aceleração sem fricção</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6701,7 +6701,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases range of kinetic weapons.</Text>
+      <Text>Aumenta o alcance das armas cinéticas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6711,7 +6711,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our newest superconductors and the steeper energy delivery curves they enable should lead to higher muzzle velocities, at the trade off of smaller projectiles. These weapons should have a longer effective range with no reduction in damage potential.</Text>
+      <Text>Nossos mais novos supercondutores e as curvas de entrega de energia mais acentuadas que eles permitem devem levar a velocidades mais altas, na troca de projéteis menores. Estas armas devem ter um alcance mais longo e eficaz, sem redução do potencial de dano.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6721,7 +6721,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Low Cost Accelerators</Text>
+      <Text>Aceleradores de Baixo Custo</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6731,7 +6731,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces cost of kinetic weapons.</Text>
+      <Text>Reduz o custo das armas cinéticas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6741,7 +6741,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>The latest generation of superconducting electromagnetic coils and their less-strenuous cooling requirements make them much less fragile to handle. We expect to see significant cost savings now that we won't break as many during production.</Text>
+      <Text>A última geração de bobinas eletromagnéticas supercondutoras e suas exigências de resfriamento menos estressantes as tornam muito menos frágeis de manusear. Esperamos ver uma economia de custos significativa agora que não quebraremos tantas durante a produção.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6751,7 +6751,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Low Mass Accelerators</Text>
+      <Text>Aceleradores de baixa massa</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6761,7 +6761,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces mass of kinetic weapons.</Text>
+      <Text>Reduz a massa de armas cinéticas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6771,7 +6771,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our new ultra-low resistance electromagnets generate a lot more kick per unit weight, leading to lower mass accelerators. We can feel free to cram more of them into whatever we're cramming them in to.</Text>
+      <Text>Nossos novos eletroímãs de ultra baixa resistência geram muito mais coices por unidade de peso, levando a aceleradores de massa mais baixos. Podemos nos sentir à vontade para enfiar mais deles em qualquer coisa em que os estivermos enfiando.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6781,7 +6781,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Graviton Thrower</Text>
+      <Text>Lançador de Graviton</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6791,7 +6791,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of exotic kinetic weapons.</Text>
+      <Text>Permite a construção de armas cinéticas exóticas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6801,7 +6801,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>By launching pulses of gravitons we can induce massive shifts in the local gravity of enemy ships that they strike. This will cause incredible amounts of damage, and probably make anyone standing nearby feel really dizzy right before they die.</Text>
+      <Text>Ao lançar pulsos de gravitões, podemos induzir mudanças maciças na gravidade local das naves inimigas que eles atacam. Isto causará uma quantidade incrível de danos, e provavelmente fará com que qualquer um que esteja por perto se sinta realmente tonto mesmo antes de morrer.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6811,7 +6811,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Kinetic Mastery</Text>
+      <Text>Maestria Cinética</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6821,7 +6821,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves kinetic weapons.</Text>
+      <Text>Melhora as armas cinéticas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6831,7 +6831,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>After several generations of whipping things at other things as fast as possible, our scientists are now really quite good at it. There remain but a few small efficiencies to wring out of the field.</Text>
+      <Text>Depois de várias gerações de ataques a outras coisas o mais rápido possível, nossos cientistas agora são realmente muito bons nisso. Restam apenas algumas pequenas eficiências a serem tiradas do campo.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6841,7 +6841,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Master Accelerator Assembly</Text>
+      <Text>Montagem do Acelerador Mestre</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6851,7 +6851,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces cost of kinetic weapons.</Text>
+      <Text>Reduz o custo das armas cinéticas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6861,7 +6861,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>"We Make Kinetic Weapons Faster," is probably the dumbest slogan ever conceived of, but the factory workers seem really proud of it, so no-one had the heart to tell them. And to be fair, they do make them really quite quickly and cheaply now.</Text>
+      <Text>"Tornamos as armas cinéticas mais rápidas", é provavelmente o slogan mais idiota já concebido, mas os trabalhadores da fábrica parecem realmente orgulhosos disso, portanto ninguém teve coragem de lhes dizer. E, para ser justo, eles os tornam realmente rápidos e baratos agora.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6871,7 +6871,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>High Density Accelerators</Text>
+      <Text>Aceleradores de Alta Densidade</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6881,7 +6881,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces mass of kinetic weapons.</Text>
+      <Text>Reduz a massa de armas cinéticas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6891,7 +6891,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our scientists have all but mastered kinetic weapons, having made them as mass efficient as theoretically possible, allowing even our smallest vessels to pack a hellacious punch.</Text>
+      <Text>Nossos cientistas dominaram praticamente todas as armas cinéticas, tendo-as tornado tão eficientes quanto teoricamente possível, permitindo que até mesmo nossas menores naves tivessem um soco helicoidal.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6901,7 +6901,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Quantum Drivers</Text>
+      <Text>Drivers quânticos</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6911,7 +6911,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of devastating kinetic weapons.</Text>
+      <Text>Permite a construção de armas cinéticas devastadoras.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
