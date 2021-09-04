@@ -8,28 +8,28 @@ xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
   <FlavorTextDef>
     <InternalName>LifeSupport_MegaEvent_Message_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>The engineering crew on one of our freighters has found a way to greatly enhance Life Support systems. Unfortunately, this news has been leaked to other races already. The commander of the vessel would seem likely to share this breakthrough with them unless we intervene.</Text>
+      <Text>A equipe de engenharia de um de nossos cargueiros encontrou uma maneira de melhorar muito os sistemas de suporte de vida. Infelizmente, esta notícia já foi divulgada para outras raças. O comandante do navio provavelmente compartilhará esta descoberta com eles, a menos que intervenhamos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>LifeSupport_MegaEvent_Message_Response1_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Let them share the technology. Perhaps it will buy us some good will.
-[COLOR=BenevolentBlue](Benevolent +25, Diplomacy + 9, +100% Ship Range to everyone's ships) [/COLOR]</Text>
+      <Text>Deixe-os compartilhar a tecnologia. Talvez isso nos compre alguma boa vontade.
+[COLOR=BenevolentBlue](Benevolente +25, Diplomacia + 9, +100% Alcance para todas os navios) [/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>LifeSupport_MegaEvent_Message_Response2_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Since the cat is already out of the bag, insist that the Commander gets a fair price for sharing the knowledge.
-[COLOR=PragmaticGold](Pragmatic +25, Credits +2500, +100% Ship Range to everyone's ships)[/COLOR]</Text>
+      <Text>Como o gato já está fora do saco, insista que o Comandante receba um preço justo por compartilhar o conhecimento.
+[COLOR=PragmaticGold](Pragmatico +25, Creditos +2500, +100% Alcance para todas os navios)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>LifeSupport_MegaEvent_Message_Response3_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Take the crew into custody and make sure that the details of this breakthrough are only shared with our researchers.
-[COLOR=WarRed](Malevolent +25, +100% Ship Range to our ships)[/COLOR]</Text>
+      <Text>Leve a tripulação sob custódia e certifique-se de que os detalhes deste avanço só sejam compartilhados com nossos pesquisadores.
+[COLOR=WarRed](Malevolente +25, +100% Alcance para todas os navios)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
  
