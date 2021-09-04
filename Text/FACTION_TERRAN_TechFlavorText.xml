@@ -6921,7 +6921,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Quantum drivers fire shells that contain small quantum fields which pull in a tremendous amount of mass from a neighboring dimension on impact. We're not sure which dimension. We can only hope that they didn't need that mass.</Text>
+      <Text>Os drivers quânticos disparam conchas que contêm pequenos campos quânticos que puxam uma enorme quantidade de massa de uma dimensão vizinha sobre o impacto. Não temos certeza de qual dimensão. Só podemos esperar que eles não precisem dessa massa.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6931,7 +6931,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Singularity Drivers</Text>
+      <Text>Drivers de Singularidade</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6941,7 +6941,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of the ultimate kinetic weapons.</Text>
+      <Text>Permite a construção de armas cinéticas de última geração.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6951,7 +6951,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>The pinnacle of kinetic weapon technology, these launch micro singularities that collapse into existence shortly after impact. These are bad news, the worst news really, for anyone who can't get out of the way.</Text>
+      <Text>O auge da tecnologia de armas cinéticas, estas lançam micro singularidades que se desmoronam logo após o impacto. Estas são más notícias, as piores notícias realmente, para qualquer um que não consiga sair do caminho.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6961,7 +6961,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Kinetic Augmentation</Text>
+      <Text>Aumento cinético</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6971,7 +6971,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of kinetic support systems.</Text>
+      <Text>Permite a construção de sistemas de apoio cinético.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6981,7 +6981,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Inertial dampening should be impossible in this universe, which is why we were a little surprised we were able to pull it off. We've used this stroke of luck to create systems which can boost the velocity and effective range of our kinetic weapons.</Text>
+      <Text>O amortecimento por inércia deveria ser impossível neste universo, e é por isso que ficamos um pouco surpresos por termos sido capazes de realizá-lo. Usamos este golpe de sorte para criar sistemas que possam aumentar a velocidade e o alcance efetivo de nossas armas cinéticas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6991,7 +6991,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Mass Manipulation</Text>
+      <Text>Manipulação de massa</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7001,7 +7001,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of improved kinetic support systems.</Text>
+      <Text>Permite a construção de sistemas de suporte cinético melhorados.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7011,7 +7011,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We can now embed inertial modification tech inside projectiles, allowing them to generate ultra-dense outer surfaces for a brief period to improve their armor penetrating capabilities. And our kinetic augmentation systems have gotten a bit better.</Text>
+      <Text>Agora podemos incorporar tecnologia de modificação inercial dentro de projéteis, permitindo-lhes gerar superfícies externas ultra-densas por um breve período para melhorar suas capacidades de penetração de blindagem. E nossos sistemas de aumento cinético ficaram um pouco melhores.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7021,7 +7021,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Inertial Magnification</Text>
+      <Text>Magnificação Inercial</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7031,7 +7031,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of advanced kinetic support systems.</Text>
+      <Text>Permite a construção de sistemas avançados de suporte cinético.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7041,7 +7041,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our projectiles are now capable of attacking armor directly, creating low density fissures that can cause the whole structure to splinter. Additionally our kinetic augmentation systems have  increased their range boosting effects yet again.</Text>
+      <Text>Nossos projéteis agora são capazes de atacar diretamente a armadura, criando fissuras de baixa densidade que podem fazer com que toda a estrutura se fragmente. Além disso, nossos sistemas de aumento cinético aumentaram mais uma vez seus efeitos de aumento de alcance.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7051,7 +7051,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Xeno Combat Techniques</Text>
+      <Text>Técnicas de Combate Xeno</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7061,7 +7061,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows training of soldiers to deal with alien environments.</Text>
+      <Text>Permite o treinamento de soldados para lidar com ambientes alienígenas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7071,7 +7071,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Planets come in all shapes and sizes. And smells. This technology will begin the process of teaching our soldiers how to deal with alien environments.</Text>
+      <Text>Os planetas vêm em todas as formas e tamanhos. E cheiros. Esta tecnologia iniciará o processo de ensinar nossos soldados a lidar com ambientes alienígenas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7081,7 +7081,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Military Specialization</Text>
+      <Text>Especialização Militar</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7091,7 +7091,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves military effectiveness.</Text>
+      <Text>Aumenta a eficácia militar.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7101,7 +7101,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Oversight is certainly the least glamorous aspect of keeping a standing army, which is sad considering the benefit it provides. Improving our military administration will result in very real tactical benefits.</Text>
+      <Text>A supervisão é certamente o aspecto menos glamoroso de manter um exército permanente, o que é triste considerando o benefício que ela proporciona. A melhoria de nossa administração militar resultará em benefícios táticos muito reais.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7111,7 +7111,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Enhanced Training</Text>
+      <Text>Treinamento Avançado</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7121,7 +7121,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves soldier effectiveness.</Text>
+      <Text>Melhora a eficácia do soldado.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7131,7 +7131,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our military's regular training exercises are beginning to pay off, and we can now expect our soldiers to be far more effective when conducting ground-based operations.</Text>
+      <Text>cOs exercícios regulares de treinamento de nossos militares estão começando a dar frutos, e agora podemos esperar que nossos soldados sejam muito mais eficazes na condução de operações terrestres.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7141,7 +7141,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Defensive Fortifications</Text>
+      <Text>Fortificações defensivas</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7151,7 +7151,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves Resistance.</Text>
+      <Text>Melhora a resistência.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7161,7 +7161,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We can't assume that our space-based defenses will always be effective. Our worlds will be significantly more secure if we can harden our ground fortifications and prepare plans to rapidly form colonial militias when they're needed.</Text>
+      <Text>Não podemos assumir que nossas defesas espaciais serão sempre eficazes. Nosso mundo será significativamente mais seguro se conseguirmos endurecer nossas fortificações e preparar planos para formar rapidamente milícias coloniais quando elas forem necessárias.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7171,7 +7171,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Resistance Forces</Text>
+      <Text>Forças de Resistência</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7181,7 +7181,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increase our colonies ability to resist invaders.</Text>
+      <Text>Aumentar a capacidade de nossas colônias de resistir aos invasores.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7191,7 +7191,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>By training our population in basic resistance tactics, we can help them be ready for anything. A prepared population can often be the difference between victory and defeat when invaded.</Text>
+      <Text>Treinando nossa população em táticas básicas de resistência, podemos ajudá-la a estar pronta para tudo. Uma população preparada pode muitas vezes ser a diferença entre a vitória e a derrota quando invadida.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7201,7 +7201,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>War College</Text>
+      <Text>Escola Superior de Guerra</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7211,7 +7211,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows training of Commanders</Text>
+      <Text>Permite o treinamento de Comandantes</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7221,7 +7221,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Only the best of the best can go to the war college. The end result are an elite breed of leader, the Commander.</Text>
+      <Text>Somente o melhor dos melhores pode ir para a faculdade de guerra. O resultado final é uma raça de líder de elite, o Comandante.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7231,7 +7231,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Planetary Invasion</Text>
+      <Text>Invasão planetária</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7241,7 +7241,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows transport modules to be constructed.</Text>
+      <Text>Permite a construção de módulos de transporte.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7251,7 +7251,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We've developed the equipment and tactics necessary to land on a world and take it by force. A little hard to imagine it, but we must accept that humans are now the alien invaders.</Text>
+      <Text>Desenvolvemos o equipamento e as táticas necessárias para aterrissar em um mundo e tomá-lo pela força. Um pouco difícil de imaginar, mas devemos aceitar que os humanos são agora os invasores alienígenas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7261,7 +7261,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Invasion Optimization</Text>
+      <Text>Otimização da invasão</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7271,7 +7271,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Unlocks advanced invasion tactics.</Text>
+      <Text>Desbloqueia táticas avançadas de invasão.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7281,7 +7281,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Good news! We've developed some new, possibly amoral, certainly effective techniques for pacifying enemy ground forces.</Text>
+      <Text>Boas notícias! Desenvolvemos algumas técnicas novas, possivelmente amorais, certamente eficazes para pacificar as forças terrestres inimigas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7291,7 +7291,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Planetary Bombardment</Text>
+      <Text>Bombardeio planetário</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7301,7 +7301,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows Planetary Bombardments to be conducted during invasions.</Text>
+      <Text>Permite que os bombardeios planetários sejam conduzidos durante as invasões.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7311,7 +7311,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>So it turns out that thanks to the properties of mass, the easiest way to pacify something is to just drop something on it. It takes a bit of practice to get right, but the practice is fun itself.</Text>
+      <Text>Então acontece que, graças às propriedades da massa, a maneira mais fácil de pacificar algo é simplesmente deixar cair algo sobre ela. É preciso um pouco de prática para se acertar, mas a prática é divertida por si só.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7321,7 +7321,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Information Warfare</Text>
+      <Text>Guerra da Informação</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7331,7 +7331,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows Informational Warfare tactics to be used during invasions.</Text>
+      <Text>Permite que táticas de Guerra Informativa sejam utilizadas durante invasões.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7341,7 +7341,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Information warfare lacks a certain visceral appeal. But EMPs and targeted hacking attacks can cripple an enemy's coordination and limit the effectiveness of their defenses without needing to risk any of our own viscera.</Text>
+      <Text>A guerra da informação carece de um certo apelo visceral. Mas as PEMs e os ataques de hacking direcionados podem prejudicar a coordenação de um inimigo e limitar a eficácia de suas defesas sem precisar arriscar nenhuma de nossas próprias vísceras.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7351,7 +7351,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Biological Warfare</Text>
+      <Text>Guerra Biológica</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7361,7 +7361,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows Biological Warfare tactics to be used during invasions.</Text>
+      <Text>Permite que as táticas de Guerra Biológica sejam utilizadas durante as invasões.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7371,7 +7371,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Let's be honest. If we're now the alien invaders, there's no reason we have to pretend we're the good guys. Yes we'll have to live with the consequences of using biological weapons. But at least we'll be the ones who live.</Text>
+      <Text>Vamos ser honestos. Se agora somos os invasores alienígenas, não há razão para fingirmos que somos os bons da fita. Sim, teremos que viver com as conseqüências do uso de armas biológicas. Mas pelo menos seremos nós que viveremos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7381,7 +7381,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Stellar Marines</Text>
+      <Text>Fuzileiros Estelares</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7391,7 +7391,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves soldier effectiveness and transport capacity.</Text>
+      <Text>Melhora a eficácia dos soldados e a capacidade de transporte.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7401,7 +7401,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>A greater understanding of the tactics and training required for effective ground-based combat has led to a new form of military unit which specializes in establishing beachheads in unfriendly gravity wells.</Text>
+      <Text>Uma maior compreensão das táticas e treinamento necessários para um combate terrestre eficaz levou a uma nova forma de unidade militar especializada no estabelecimento de cabeças de praia em poços de gravidade não amigável.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7411,7 +7411,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Gravitational Focus</Text>
+      <Text>Foco gravitacional</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7421,7 +7421,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Unlocks advanced invasion tactics.</Text>
+      <Text>Desbloqueia táticas avançadas de invasão.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7431,7 +7431,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our ability to manipulate gravitational fields presents several unique tactical possibilities for our ground forces. These are powerful weapons we're giving to guys with pretty thick skulls, so we should definitely remember to keep an eye on them.</Text>
+      <Text>Nossa capacidade de manipular campos gravitacionais apresenta várias possibilidades táticas únicas para nossas forças terrestres. Estas são armas poderosas que estamos dando a homens com cabeças bem duras, por isso devemos definitivamente nos lembrar de ficar de olho nelas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7441,7 +7441,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Tidal Disruption</Text>
+      <Text>Perturbação da Maré</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7451,7 +7451,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows tidal disruption tactics to be used during invasions.</Text>
+      <Text>Permite a utilização de táticas de perturbação das marés durante as invasões.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7461,7 +7461,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>By directing powerful gravitational fields at enemy ground defenses, we can induce flooding and even tectonic activity. The ground shall quake beneath our enemy's feet or feet-analogs.</Text>
+      <Text>Dirigindo poderosos campos gravitacionais nas defesas terrestres inimigas, podemos induzir inundações e até mesmo atividade tectônica. O solo deve tremer sob os pés ou pés-análogos de nosso inimigo.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7471,7 +7471,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Core Detonation</Text>
+      <Text>Detonação do núcleo</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7481,7 +7481,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows core detonation tactics to be used during invasions.</Text>
+      <Text>Permite que as táticas de detonação do núcleo sejam utilizadas durante as invasões.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7491,7 +7491,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Inducing a planet to suddenly experience massive, worldwide volcanic activity is a pretty extreme step. That said, it certainly will pacify any hostiles. Also liquefy them.</Text>
+      <Text>Induzir um planeta a experimentar de repente uma atividade vulcânica maciça e mundial é um passo bastante extremo. Dito isto, certamente vai pacificar qualquer hostil. Também os liquefazerá.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7501,7 +7501,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Drone Soldiers</Text>
+      <Text>Soldados Drone</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7511,7 +7511,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves soldier effectiveness and transport capacity.</Text>
+      <Text>Melhora a eficácia dos soldados e a capacidade de transporte.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7521,7 +7521,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>There are massive benefits in unit reliability and coordination if our troops are programmed to unfailingly do what we tell them to. And we won't have to feel so bad about losing these ones.</Text>
+      <Text>Há enormes benefícios na confiabilidade e coordenação da unidade se nossas tropas forem programadas para fazer infalivelmente o que lhes dissermos. E não teremos que nos sentir tão mal por perder estas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7531,7 +7531,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Advanced Invasion Tactics</Text>
+      <Text>Táticas avançadas de invasão</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7541,7 +7541,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves soldier effectiveness and allows construction of advanced transports.</Text>
+      <Text>Melhora a eficácia do soldado e permite a construção de transportes avançados.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7551,7 +7551,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>A new generation of invasion transports, along with a new generation of soldiers that don't mind being stacked like firewood, allows us to put boots on the ground faster than ever.</Text>
+      <Text>Uma nova geração de transportes de invasão, juntamente com uma nova geração de soldados que não se importam de ser empilhados como lenha, nos permite colocar botas no chão mais rápido do que nunca.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7561,7 +7561,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Fortification</Text>
+      <Text>Fortificação</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7571,7 +7571,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of defensive fortifications, and improves Resistance.</Text>
+      <Text>Permite a construção de fortificações defensivas, e melhora a resistência.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7581,7 +7581,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We mustn't neglect our own defenses, and with the latest generation of defensive fortifications, our planets and starbases will be able to put up a much tougher fight.</Text>
+      <Text>Não podemos negligenciar nossas próprias defesas, e com a última geração de fortificações defensivas, nossos planetas e bases estelares serão capazes de resistir a uma luta muito mais dura.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7591,7 +7591,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Defensive Focus</Text>
+      <Text>Foco defensivo</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7601,7 +7601,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Unlocks advanced invasion defenses.</Text>
+      <Text>Desbloqueia as defesas avançadas contra invasões.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7611,7 +7611,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our military theoreticians have analyzed reports of the latest invasion tactics in use in the galaxy and come up with a number of elegant ways to counter them.</Text>
+      <Text>Nossos teóricos militares analisaram relatórios sobre as últimas táticas de invasão em uso na galáxia e descobriram uma série de elegantes maneiras de combatê-las.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7621,7 +7621,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Bombardment Shelters</Text>
+      <Text>Abrigos de Bombardeio</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7631,7 +7631,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Makes all colonies Immune to Planetary Bombardment.</Text>
+      <Text>Torna todas as colônias Imune ao bombardeio planetário.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7641,7 +7641,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>By moving our most critical structures underground, and providing similar shelters for civilians and troops, we can dramatically limit the effectiveness of most forms of orbital bombardment.</Text>
+      <Text>Movendo nossas estruturas mais críticas para o subsolo e fornecendo abrigos semelhantes para civis e tropas, podemos limitar drasticamente a eficácia da maioria das formas de bombardeio orbital.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7651,7 +7651,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Information Systems Hardening</Text>
+      <Text>Fortalecimento dos sistemas de informação</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7661,7 +7661,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Makes all colonies Immune to Information Warfare.</Text>
+      <Text>Torna todas as colônias Imune à Guerra da Informação.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7671,7 +7671,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our defensive experts have identified a number of vulnerabilities in our ground-based CandC systems, and urgently recommend that we harden them.</Text>
+      <Text>Nossos especialistas em defesa identificaram uma série de vulnerabilidades em nossos sistemas CandC terrestres, e recomendam urgentemente que os fortaleçamos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7681,7 +7681,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Adaptive Vaccinations</Text>
+      <Text>Vacinas adaptáveis</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7691,7 +7691,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Makes all colonies Immune to Biological Warfare.</Text>
+      <Text>Torna todas as colônias imunes à Guerra Biológica.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7701,7 +7701,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>It's impossible to conventionally vaccinate against an unknown biological attack. Adaptive vaccines are engineered lifeforms that lie dormant, ready to rapidly assist a immune system to fight new infections the moment they appear.</Text>
+      <Text>É impossível vacinar convencionalmente contra um ataque biológico desconhecido. As vacinas adaptáveis são formas de vida que permanecem adormecidas, prontas para ajudar rapidamente um sistema imunológico a combater novas infecções no momento em que elas aparecem.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7711,7 +7711,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Orbital Defense Platform</Text>
+      <Text>Plataforma de Defesa Orbital</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7721,7 +7721,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Adds defensive fighters to orbit, improves resistance.</Text>
+      <Text>Adiciona caças defensivos à órbita, melhora a resistência.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7731,7 +7731,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>A dedicated orbital defense platform will provide an additional layer of defense for our planetary systems, and take some of the defensive responsibility off of our starbases.</Text>
+      <Text>Uma plataforma de defesa orbital dedicada fornecerá uma camada adicional de defesa para nossos sistemas planetários, e tirará parte da responsabilidade defensiva de nossas bases estelares.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7741,7 +7741,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Planetary Defense Dome</Text>
+      <Text>Domo de defesa planetária</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7751,7 +7751,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of planetary defense dome, improves resistance.</Text>
+      <Text>Permite a construção de uma cúpula de defesa planetária, melhora a resistência.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7761,7 +7761,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>With the resources and energy available to ground-based structures, we're now able to construct a shielded dome with so many layers of redundancy that it's effectively invulnerable to any orbital bombardment.</Text>
+      <Text>Com os recursos e energia disponíveis para estruturas terrestres, agora somos capazes de construir uma cúpula blindada com tantas camadas de redundância que é efetivamente invulnerável a qualquer bombardeio orbital.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7771,7 +7771,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Defense Systems</Text>
+      <Text>Sistemas de Defesa</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7781,7 +7781,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of basic defensive systems.</Text>
+      <Text>Permite a construção de sistemas defensivos básicos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
