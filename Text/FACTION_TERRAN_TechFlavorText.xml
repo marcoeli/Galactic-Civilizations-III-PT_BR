@@ -4231,7 +4231,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>After donating a few hulls for weapons practice, we were able to see the structural damage inflicted on them, and identify structural reinforcements that should toughen each ship substantially.</Text>
+      <Text>Depois de doar alguns cascos para a prática de armas, pudemos ver os danos estruturais infligidos a eles e identificar reforços estruturais que deveriam endurecer substancialmente cada navio.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4241,7 +4241,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Shipyard Efficiency</Text>
+      <Text>Eficiência do estaleiro</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4251,7 +4251,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces cost of hulls.</Text>
+      <Text>Reduz o custo dos cascos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4261,7 +4261,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Worksite planning in an orbital environment is a seriously complicated business, but now that we've got the hang of it, we should see significant cost savings for every hull we construct.</Text>
+      <Text>O planejamento do local de trabalho em um ambiente orbital é um negócio seriamente complicado, mas agora que temos o jeito, devemos ver uma significativa economia de custos para cada casco que construímos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4271,7 +4271,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>High Capacity Hulls</Text>
+      <Text>Cascos de alta capacidade</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4281,7 +4281,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases hull capacity.</Text>
+      <Text>Aumenta a capacidade do casco.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4291,7 +4291,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We're now able to build hollow structural elements still capable of handling very high compression loads. By maximizing the use of these and routing various ancillary ship systems through the cavities, we can save space for mission critical equipment.</Text>
+      <Text>Agora somos capazes de construir elementos estruturais ocos e ainda capazes de lidar com cargas de compressão muito altas. Ao maximizar o uso destes e rotear vários sistemas auxiliares da nave através das cavidades, podemos economizar espaço para equipamentos de missão crítica.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4301,7 +4301,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Large Scale Construction</Text>
+      <Text>Construção em larga escala</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4311,7 +4311,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of large hulls.</Text>
+      <Text>Permite a construção de grandes cascos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4321,7 +4321,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Building larger hulls is more involved than just adding more stuff to them. Ensuring that they won't collapse under acceleration is a serious challenge. Seating, to ensure our crews doesn't collapse under acceleration is another surprising challenge.</Text>
+      <Text>A construção de cascos maiores está mais envolvida do que apenas adicionar mais coisas a eles. Assegurar que eles não desabem sob aceleração é um sério desafio. Sentar, para garantir que nossas tripulações não desabem sob aceleração é outro desafio surpreendente.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4331,7 +4331,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Orbital Construction Focus</Text>
+      <Text>Foco na construção orbital</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4341,7 +4341,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves hulls.</Text>
+      <Text>Melhora os cascos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4351,7 +4351,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We're getting better and better at large scale construction with every passing day, and a number of more efficient design practices are beginning to show up on our engineers' drawing tables. Along with the offensive doodles which have always been there.</Text>
+      <Text>Estamos ficando cada vez melhores a cada dia que passa, e uma série de práticas de projeto mais eficientes está começando a aparecer nas mesas de desenho de nossos engenheiros. Junto com os esquemas ofensivos que sempre estiveram presentes.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4361,7 +4361,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Hardened Hulls</Text>
+      <Text>Cascos temperados</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4371,7 +4371,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases hull hit points.</Text>
+      <Text>Aumenta os hit points do casco.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4381,7 +4381,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>It seems counter-intuitive, but by introducing very small weaknesses in the molecular structure of our hulls, we can make them deformable in controlled ways, making our hulls quite a bit more resilient.</Text>
+      <Text>Parece contra-intuitivo, mas introduzindo fraquezas muito pequenas na estrutura molecular de nossos cascos, podemos torná-los deformáveis de forma controlada, tornando nossos cascos um pouco mais resistentes.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4391,7 +4391,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Starship Manufacturing Focus</Text>
+      <Text>Foco na fabricação de navios estelares</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4401,7 +4401,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces cost of hulls.</Text>
+      <Text>Reduz o custo dos cascos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4411,7 +4411,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>The latest generation of self-propelled manufacturing equipment will allow our workers to maneuver inside of hulls with much greater ease, reducing the challenge and expense of construction.</Text>
+      <Text>A última geração de equipamentos de fabricação com propulsão própria permitirá que nossos trabalhadores possam manobrar dentro dos cascos com muito mais facilidade, reduzindo o desafio e as despesas de construção.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4421,7 +4421,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Hull Capacity Focus</Text>
+      <Text>Foco na capacidade do casco</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4431,7 +4431,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases hull capacity.</Text>
+      <Text>Aumenta a capacidade do casco.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4441,7 +4441,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>As our hulls grew ever larger, we began to lose some of the art of packing that our predecessors had. But now thanks to the scale of our ships, even very small improvements in packing can lead to more room for everything else.</Text>
+      <Text>À medida que nossos cascos cresceram, começamos a perder um pouco da arte de acondicionar que nossos predecessores tinham. Mas agora, graças à escala de nossos navios, mesmo pequenas melhorias na embalagem podem levar a mais espaço para tudo o mais.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4451,7 +4451,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Massive Scale Construction</Text>
+      <Text>Construção em escala massiva</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4461,7 +4461,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of huge hulls.</Text>
+      <Text>Permite a construção de enormes cascos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4471,7 +4471,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We're building massive ships capable of blotting out the stars. Obviously any ship can blot out the stars if you get close enough to it. You just don't have to get very close to these ones for that to be the case. Nor would you want to.</Text>
+      <Text>Estamos construindo navios enormes capazes de apagar as estrelas. Obviamente, qualquer navio pode apagar as estrelas se você chegar perto o suficiente. Só não é preciso chegar muito perto delas para que isso aconteça. Nem você gostaria de fazê-lo.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4481,7 +4481,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Hull Mastery</Text>
+      <Text>Maestria do casco</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4491,7 +4491,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves hulls.</Text>
+      <Text>Melhora os cascos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4501,7 +4501,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We're still finding ways to improve our shipyards, even though they're already the envy of the civilized galaxy. In the uncivilized galaxy they're a bit less envied, but we've never gotten along with those guys anyways.</Text>
+      <Text>Ainda estamos encontrando maneiras de melhorar nossos estaleiros, embora eles já sejam a inveja da galáxia civilizada. Na galáxia incivilizada eles são um pouco menos invejados, mas nós nunca nos demos bem com esses caras de qualquer forma.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4511,7 +4511,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Master Shipwrights</Text>
+      <Text>Direitos de navegação principais</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4521,7 +4521,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces cost of hulls.</Text>
+      <Text>Reduz o custo dos cascos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4531,7 +4531,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>That we build the best ships in the galaxy is undeniable, but that we do it so economically is what's really impressive. Our enemies have never been menaced so thriftily.</Text>
+      <Text>Que construímos as melhores naves da galáxia é inegável, mas que o fazemos de forma econômica é o que realmente é impressionante. Nossos inimigos nunca foram tão ameaçados.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4541,7 +4541,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Hull Maximization</Text>
+      <Text>Maximização do casco</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4551,7 +4551,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases hull capacity.</Text>
+      <Text>Aumenta a capacidade do casco.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4561,7 +4561,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Thanks to advances in the field of bristling, never before have our ships been so bristling with weapons. They could also bristle with other things we suppose.</Text>
+      <Text>Graças aos avanços no campo do enfrentamento, nunca antes nossos navios haviam sido tão enfrentados com armas. Eles também poderiam ser tão robustos com outras coisas que supomos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4571,7 +4571,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Hull Strengthening</Text>
+      <Text>Reforço do casco</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4581,7 +4581,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of tougher hulls.</Text>
+      <Text>Permite a construção de cascos mais resistentes.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4591,7 +4591,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Using new force field technologies, we've been able to embed strengthening fields within the structures of our vessels, making them substantially more resistant to damage. They also now tingle if you lick them.</Text>
+      <Text>Utilizando novas tecnologias de campo de força, conseguimos incorporar campos de reforço nas estruturas de nossas embarcações, tornando-as substancialmente mais resistentes a danos. Agora eles também formigam se você os lamber.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4601,7 +4601,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Hull Repair Systems</Text>
+      <Text>Sistemas de reparo de casco</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4611,7 +4611,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of hull support and repair modules.</Text>
+      <Text>Permite a construção de módulos de suporte e reparo do casco.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4621,7 +4621,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>The same field technology we use to strengthen our ships can now be used to conduct partial repairs as well, straightening and reinforcing battle-damaged structural elements.</Text>
+      <Text>A mesma tecnologia de campo que usamos para fortalecer nossas embarcações pode agora ser usada para realizar reparos parciais também, endireitando e reforçando elementos estruturais danificados em batalha.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4631,7 +4631,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Self Healing Hulls</Text>
+      <Text>Cascos de Auto Cura</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4641,7 +4641,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of tactical repair modules.</Text>
+      <Text>Permite a construção de módulos de reparo tático.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4651,7 +4651,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Tiny little self-replicating nanobots are capable of almost anything as long as we don't ask too many questions about them. Nanobot repair modules in our ships and starbases will be able to repair damage during battle itself.</Text>
+      <Text>Pequenos nanobots auto-replicantes são capazes de quase tudo, desde que não façamos muitas perguntas sobre eles. Os módulos de reparo de nanobots em nossas naves e bases estelares serão capazes de reparar danos durante a própria batalha.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4661,7 +4661,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Carriers</Text>
+      <Text>Transportadores</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4671,7 +4671,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of carrier modules.</Text>
+      <Text>Permite a construção de módulos de transporte.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4681,7 +4681,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Carrier combat will allow us to project force while keeping our capital ships out of danger. Fighters are a lot more replaceable and there's no shortage of volunteers to fly them. Apparently there's something glamorous about dying in a very small ship.</Text>
+      <Text>O combate com porta-aviões nos permitirá projetar força enquanto mantemos nossos navios capitais fora de perigo. Os caças são muito mais substituíveis e não há falta de voluntários para pilotá-los. Aparentemente, há algo de glamouroso em morrer em um navio muito pequeno.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4691,7 +4691,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Carrier Focus</Text>
+      <Text>Foco do transportador</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4701,7 +4701,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves carriers.</Text>
+      <Text>Melhora os transportadores.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4711,7 +4711,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>There's nothing like doing something a few times to see how terrible you are at it. After a few hilarious mishaps, we've identified a few ways we can improve our carrier operations.</Text>
+      <Text>Não há nada como fazer algo algumas vezes para ver como você é terrível nisso. Após alguns contratempos hilários, identificamos algumas maneiras de melhorar nossas operações de transporte.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4721,7 +4721,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Interceptor Drones</Text>
+      <Text>Drones interceptores</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4731,7 +4731,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows for the construction of cheap and light Interceptor Drones</Text>
+      <Text>Permite a construção de Drones Interceptores baratos e leves</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4741,7 +4741,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>These little drones are fast and deadly, and more importantly cheap. They also have the added advantage of not requiring a crew, which saves lives.</Text>
+      <Text>Estes pequenos zangões são rápidos e mortais e, o que é mais importante, baratos. Eles também têm a vantagem adicional de não exigirem uma tripulação, o que salva vidas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
