@@ -7791,7 +7791,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Naval crews are notoriously squishy, and otherwise difficult to protect in a ship that operates in hard vacuum. But we've got to do something, or they're going to stop getting in the ships.</Text>
+      <Text>As tripulações da Navais são notoriamente moles, e de resto difíceis de proteger em um navio que opera no extremo vácuo. Mas temos que fazer algo, ou eles vão parar de entrar nas naves.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7801,7 +7801,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Defensive Specialization</Text>
+      <Text>Especialização defensiva</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7811,7 +7811,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves defensive systems.</Text>
+      <Text>Melhora os sistemas defensivos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7821,7 +7821,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>After studying the wreckage of a few vessels we've lost in combat, our engineers have come up with a number of possible improvements we can make to our defensive technologies.</Text>
+      <Text>Depois de estudar os destroços de algumas embarcações que perdemos em combate, nossos engenheiros chegaram a uma série de melhorias possíveis que podemos fazer em nossas tecnologias defensivas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7831,7 +7831,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Shield Specialization</Text>
+      <Text>Especialização em Blindagem</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7841,7 +7841,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces cost of shields.</Text>
+      <Text>Reduz o custo dos escudos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7851,7 +7851,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Deflecting or diffusing incoming weapon fire is really, really hard, and we're far from having a really good understanding of it. Our latest round of research has only succeeded in making existing shield systems a bit cheaper to build.</Text>
+      <Text>Defletir ou difundir o fogo das armas que chegam é realmente, realmente difícil, e estamos longe de ter uma boa compreensão disso. Nossa última rodada de pesquisa só conseguiu tornar os sistemas de proteção existentes um pouco mais baratos de se construir.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7861,7 +7861,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Point Defense Specialization</Text>
+      <Text>Especialização em Defesa Pontual</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7871,7 +7871,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces cost of point defenses.</Text>
+      <Text>Reduz o custo das defesas pontuais.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7881,7 +7881,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Making our point defenses fire more crap into the space around the ship is a simple solution to a complicated question. Though still a surprisingly effective one.</Text>
+      <Text>Fazer com que as nossas defesas pontuais disparem mais porcaria para o espaço ao redor da nave é uma solução simples para uma questão complicada. Embora ainda seja uma solução surpreendentemente eficaz.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7891,7 +7891,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Armor Specialization</Text>
+      <Text>Especialização em blindagem</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7901,7 +7901,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces mass of armor.</Text>
+      <Text>Reduz a massa da blindagem.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7911,7 +7911,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>By adjusting the size and positioning of our armor panels, we've been able to minimize overlap and other inefficiencies, and can now provide the same level of protection to our ships for less overall weight.</Text>
+      <Text>Ao ajustar o tamanho e o posicionamento de nossos painéis de blindagem, conseguimos minimizar a sobreposição e outras ineficiências, e agora podemos proporcionar o mesmo nível de proteção aos nossas naves por menos peso total.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7921,7 +7921,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Shield Systems</Text>
+      <Text>Sistemas de escudo</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7931,7 +7931,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of improved shield systems.</Text>
+      <Text>Permite a construção de sistemas de escudos melhorados.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7941,7 +7941,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>No longer must our ships cower behind crude deflector fields. The latest generation of shields, although expensive, are capable of stopping incoming attacks outright, rather than just deflecting or diffusing their impact.</Text>
+      <Text>Nossos navios não devem mais se acovardar atrás de campos defletores brutos. A última geração de escudos, embora caros, são capazes de parar completamente os ataques de entrada, em vez de apenas desviar ou dissipar seu impacto.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7951,7 +7951,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Shield Optimization</Text>
+      <Text>Otimização do escudo</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7961,7 +7961,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves shield systems.</Text>
+      <Text>Melhora os sistemas de proteção.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7971,7 +7971,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We've received quite a bit of useful data on real world performance of our shield systems, and have devised several possible improvements we can begin making to them.</Text>
+      <Text> Recebemos muitos dados úteis sobre o desempenho de nossos sistemas de proteção no mundo real, e concebemos várias melhorias possíveis que podemos começar a fazer neles.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7981,7 +7981,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Shield Enhancement</Text>
+      <Text>Aperfeiçoamento do escudo</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -7991,7 +7991,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases shield strength.</Text>
+      <Text>Aumenta a força do escudo.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -8001,7 +8001,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Of all the suggestions we've received from the field on how to improve our shield systems, "Please make them bigger," seemed to be the most popular. So we've done that.</Text>
+      <Text>De todas as sugestões que recebemos do campo sobre como melhorar nossos sistemas de proteção, "Por favor, faça-os maiores", parecia ser a mais popular. Por isso, fizemos isso.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -8011,7 +8011,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Low Cost Shield Systems</Text>
+      <Text>Sistemas de Blindagem de Baixo Custo</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -8021,7 +8021,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces shield cost.</Text>
+      <Text>Reduz o custo do escudo.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -8031,7 +8031,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We probably shouldn't talk in front of the troops about our efforts to make our shield systems cheaper, even if it means more shields to go around for everyone. Because that's not how they'll see it.</Text>
+      <Text>Provavelmente não deveríamos falar na frente das tropas sobre nossos esforços para tornar nossos sistemas de escudos mais baratos, mesmo que isso signifique mais escudos para todos. Porque não é assim que eles vão ver isso.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -8041,7 +8041,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Shield Miniaturization</Text>
+      <Text>Miniaturização do escudo</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -8051,7 +8051,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces shield mass.</Text>
+      <Text>Reduz a massa do escudo.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -8061,7 +8061,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>The first few generation of field emitters used in our shield systems were incredibly bulky and cumbersome. And they still are, frankly. Just a bit less so now.</Text>
+      <Text>A primeira geração de emissores de campo usados em nossos sistemas de escudo era incrivelmente volumosa e incômoda. E eles ainda são, francamente. Apenas um pouco menos agora.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -8071,7 +8071,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Barrier Field Generation</Text>
+      <Text>Geração de Barreiras de Campo</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -8081,7 +8081,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of advanced shield systems.</Text>
+      <Text>Permite a construção de sistemas de blindagem avançados.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -8091,7 +8091,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>The latest generation of shields, the so-called Barrier Field, is capable of absorbing a portion of the energy which strikes it. This dramatically increases the energy efficiency of the system, allowing for ultimately much more powerful shields.</Text>
+      <Text>A última geração de escudos, o chamado Campo de Barreira, é capaz de absorver uma parte da energia que a atinge. Isto aumenta drasticamente a eficiência energética do sistema, permitindo finalmente escudos muito mais potentes.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
