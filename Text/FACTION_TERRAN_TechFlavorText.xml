@@ -4751,7 +4751,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Guardian Drones</Text>
+      <Text>Drones Guardiões</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4761,7 +4761,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows for the construction of cheap and light Guardian Drones.</Text>
+      <Text>Permite a construção de Drones Guardiões baratos e leves.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4771,7 +4771,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>These tuff little drones will guard our Support and Capital ships to the end, and when they are destroyed, no lives are lost.</Text>
+      <Text>Estes pequenos tufos de drones guardarão nossos navios de Apoio e Capital até o fim, e quando eles forem destruídos, nenhuma vida será perdida.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4781,7 +4781,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>High Capacity Carriers</Text>
+      <Text>Transportadores de alta capacidade</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4791,7 +4791,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of high capacity carrier modules.</Text>
+      <Text>Permite a construção de módulos de transporte de alta capacidade.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4801,7 +4801,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Thanks to our latest generation of fighters, designed to be more compact and packable, and the improved repair, reloading, and recovery facilities that go with them, we're now able to deploy high-capacity carriers.</Text>
+      <Text>Graças à nossa última geração de caças, projetados para serem mais compactos e embaláveis, e às instalações melhoradas de reparo, recarga e recuperação que os acompanham, agora somos capazes de implantar transportadores de alta capacidade.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4811,7 +4811,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Interstellar Logistics</Text>
+      <Text>Logística Interstelar</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4821,7 +4821,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of mining facilities. Increases Logistics.</Text>
+      <Text>Permite a construção de instalações de mineração. Aumenta a logística.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4831,7 +4831,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>It's one thing to build a ship, it's another thing to keep it running. None of this is exciting of course. Logistics officers are some of the most boring people you're ever likely to meet. But a necessary evil.</Text>
+      <Text>Uma coisa é construir um navio, outra é mantê-lo em funcionamento. Nada disto é excitante, é claro. Os oficiais de logística são algumas das pessoas mais entediantes que você já conheceu. Mas um mal necessário.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4841,7 +4841,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Logistical Optimization</Text>
+      <Text>Otimização logística</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4851,7 +4851,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves logistics.</Text>
+      <Text>Melhora a logística.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4861,7 +4861,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>A new generation of space accountants are becoming trained as we speak, capable of improving logistical efficiencies most people would be too bored to ever notice.</Text>
+      <Text>Uma nova geração de contadores espaciais está se tornando treinada enquanto falamos, capaz de melhorar as eficiências logísticas que a maioria das pessoas ficaria entediada demais para jamais notar.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4871,7 +4871,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Advanced Logistics</Text>
+      <Text>Logística Avançada</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4881,7 +4881,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases Logistics.</Text>
+      <Text>Aumenta a logística.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4891,7 +4891,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Now that we've figured out some of the issues relativistic travel creates with our timekeeping and administration, we've been able to significantly improve our logistical capacity.</Text>
+      <Text>Agora que descobrimos algumas das questões que as viagens relativistas criam com nossa gestão de tempo e administração, pudemos melhorar significativamente nossa capacidade logística.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4901,7 +4901,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>High Output Mining</Text>
+      <Text>Mineração de alto rendimento</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4911,7 +4911,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases mining production.</Text>
+      <Text>Aumenta a produção de mineração.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4921,7 +4921,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>An asteroid mining operation is a ballet of activity, as boring machines, ore haulers, and repair drones swarm about an asteroid. Keeping these pieces moving is challenging, and improving the organization is a sure way to improve its output.</Text>
+      <Text>Uma operação de mineração de asteróides é um balé de atividade, como broqueadoras, transportadores de minério e reparadores de drones sobre um asteróide. Manter estas peças em movimento é um desafio, e melhorar a organização é uma maneira segura de melhorar sua produção.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4931,7 +4931,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Sustainable Shipyards</Text>
+      <Text>Estaleiros Sustentáveis</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4941,7 +4941,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces Shipyard decay rate.</Text>
+      <Text>Reduz a taxa de deterioração do estaleiro.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4951,7 +4951,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Shipyards are, by some measures, the most complicated constructs humanity has ever created. Any improvement we can make to the management and operation of these beasts will result in significant cost savings.</Text>
+      <Text>Os estaleiros navais são, por algumas medidas, as construções mais complicadas que a humanidade já criou. Qualquer melhoria que possamos fazer no gerenciamento e operação destas feras resultará em economias significativas de custos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4961,7 +4961,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Fleet Logistics</Text>
+      <Text>Logística de frotas</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4971,7 +4971,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Greatly increases Logistics.</Text>
+      <Text>Aumenta muito a Logística.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4981,7 +4981,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Scaling up our naval operations to include large multi-vessel fleets has created a number of additional logistical challenges which we're only just now coming to grips with. We'll definitely stop sending ships out without oxygen now though.</Text>
+      <Text>A ampliação de nossas operações navais para incluir grandes frotas de navios múltiplos criou uma série de desafios logísticos adicionais que só agora estamos enfrentando. No entanto, vamos definitivamente parar de enviar naves sem oxigênio agora.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4991,7 +4991,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Deep Space Logistics</Text>
+      <Text>Logística do Espaço Profundo</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5001,7 +5001,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Greatly increases Logistics.</Text>
+      <Text>Aumenta muito a Logística.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5011,7 +5011,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Whether it's via unmanned probes, deep space caches, or our network of merchant vessels, keeping our fleets well stocked while our civilization expands has proven to be a tremendous, but still very boring, challenge.</Text>
+      <Text>Seja através de sondas não tripuladas, caches de espaço profundo ou de nossa rede de navios mercantes, manter nossas frotas bem abastecidas enquanto nossa civilização se expande provou ser um tremendo, mas ainda assim muito chato, desafio.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5021,7 +5021,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Galactic Logistics</Text>
+      <Text>Logística Galáctica</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5031,7 +5031,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Greatly increases Logistics.</Text>
+      <Text>Aumenta muito a Logística.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5041,7 +5041,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our mastery of mass-scale logistics is the envy of the galaxy. Well. The part of the galaxy which gets excited about logistics.</Text>
+      <Text>Nosso domínio da logística em grande escala é a inveja da galáxia. Pois bem. A parte da galáxia que se entusiasma com a logística.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5051,7 +5051,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Interstellar Mining</Text>
+      <Text>Mineração interestelar</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5061,7 +5061,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of mining facilities.</Text>
+      <Text>Permite a construção de instalações de mineração.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5071,7 +5071,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We can't have ships without the resources to build them. The same can be said for lots of things actually. Improved mining technologies will benefit every aspect of our civilization. At least the aspects of our civilization which require building things.</Text>
+      <Text>Não podemos ter navios sem os recursos necessários para construí-los. O mesmo pode ser dito de muitas coisas na verdade. As melhores tecnologias de mineração beneficiarão todos os aspectos de nossa civilização. Pelo menos os aspectos de nossa civilização que exigem a construção de coisas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5081,7 +5081,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>High Efficiency Mining</Text>
+      <Text>Mineração de Alta Eficiência</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5091,7 +5091,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of improved mining facilities.</Text>
+      <Text>Permite a construção de instalações de mineração melhoradas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5101,7 +5101,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our mining operations are capable of generating more resources while losing less miners than ever before. The miners rejoice! Well. Not rejoice, exactly. They seem less grumpy than usual. Still, that's something.</Text>
+      <Text>Nossas operações de mineração são capazes de gerar mais recursos e, ao mesmo tempo, perder menos mineiros do que nunca. Os mineiros se regozijam! Pois bem. Não se regozijem, exatamente. Eles parecem menos mal-humorados do que de costume. Ainda assim, isso é alguma coisa.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5111,7 +5111,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Resource Extraction</Text>
+      <Text>Extração de recursos</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5121,7 +5121,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of advanced mining facilities.</Text>
+      <Text>Permite a construção de instalações avançadas de mineração.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5131,7 +5131,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Valuable resources can be found in most asteroids in extremely low concentrations. Extracting these hasn't been practical until the development of probes capable of independently navigating the subsurface to collect the goodies within.</Text>
+      <Text>Recursos valiosos podem ser encontrados na maioria dos asteróides em concentrações extremamente baixas. A extração destes não tem sido prática até o desenvolvimento de sondas capazes de navegar independentemente no subsolo para coletar os bens dentro dele.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5141,7 +5141,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Lossless Mining</Text>
+      <Text>Mineração sem perdas</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5151,7 +5151,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of targeted resource extractor modules.</Text>
+      <Text>Permite a construção de módulos extratores de recursos direcionados.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5161,7 +5161,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Miniaturizing our resource extraction probes to the nano-scale has allowed for almost perfectly lossless resource extraction. Additionally, the rarest of rare resources can now feasibly be targeted for extraction.</Text>
+      <Text>A miniaturização de nossas sondas de extração de recursos à escala nanométrica permitiu uma extração de recursos quase perfeitamente sem perdas. Além disso, o mais raro dos recursos pode agora ser direcionado para a extração.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5201,7 +5201,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of basic weapon systems.</Text>
+      <Text>Permite a construção de sistemas básicos de armamento.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5211,7 +5211,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>The best defense is a good offense. Interestingly, so is the best offense. With that in mind, we've developed weapon systems which should prove very well suited to space-based defense. And, as discussed, offense.</Text>
+      <Text>A melhor defesa é uma boa ofensiva. Curiosamente, o melhor ataque também é o melhor. Com isso em mente, desenvolvemos sistemas de armas que devem se mostrar muito bem adaptados à defesa baseada no espaço. E, como discutido, a ofensiva.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5221,7 +5221,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Weapons Specialization</Text>
+      <Text>Especialização em Armas</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5231,7 +5231,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves weapon systems.</Text>
+      <Text>Melhora os sistemas de armamento.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5241,7 +5241,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>By dedicating their efforts on a specific field of weapons technology, our researchers believe they can deliver a number of more efficient weapon systems.</Text>
+      <Text>Ao dedicar seus esforços a um campo específico da tecnologia de armamento, nossos pesquisadores acreditam que podem fornecer uma série de sistemas de armamento mais eficientes.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5251,7 +5251,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Targeting Specialization</Text>
+      <Text>Especialização em alvos</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5261,7 +5261,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases the Accuracy of all weapon systems.</Text>
+      <Text>Aumenta a Precisão de todos os sistemas de armas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5271,7 +5271,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We have increased the targeting systems of our existing weapons substantially, and what we have learned will apply to future weapons systems.</Text>
+      <Text>Aumentamos substancialmente os sistemas de mira de nossas armas existentes, e o que aprendemos será aplicado a futuros sistemas de armas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5281,7 +5281,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Miniaturization Specialization</Text>
+      <Text>Especialização em miniaturização</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5291,7 +5291,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces the Mass of all weapons systems.</Text>
+      <Text>Reduz a massa de todos os sistemas de armas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5301,7 +5301,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We have reduced the mass of our existing weapons systems, and what we have learned will apply to future weapons as well.</Text>
+      <Text>Reduzimos a massa de nossos sistemas de armas existentes, e o que aprendemos se aplicará também às armas futuras.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5311,7 +5311,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Production Specialization</Text>
+      <Text>Especialização em produção</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5321,7 +5321,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces the Cost of all weapons systems.</Text>
+      <Text>Reduz o custo de todos os sistemas de armas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5331,7 +5331,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We have reduced the cost of our existing weapons systems, and what we have learned will apply to future weapons as well.</Text>
+      <Text>Reduzimos o custo de nossos sistemas de armas existentes, e o que aprendemos se aplicará também às armas futuras.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5341,7 +5341,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Beam Weapons</Text>
+      <Text>Armas de feixe</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5351,7 +5351,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of improved beam weapons.</Text>
+      <Text>Permite a construção de armas de feixe melhoradas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5361,7 +5361,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Whether light, particles, or both at the same time, there's an awful lot of destructive potential in suddenly sending a lot of it all at one place.</Text>
+      <Text>Seja luz, partículas, ou ambos ao mesmo tempo, há um potencial destrutivo muito grande em enviar de repente uma grande quantidade de tudo isso em um só lugar.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5371,7 +5371,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Beam Weapon Optimization</Text>
+      <Text>Otimização de Armas de Feixe</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5381,7 +5381,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves beam weapons.</Text>
+      <Text>Melhora as armas de feixe.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5391,7 +5391,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Weapons researchers have to keep paces with advances in many other fields to get the most out of their inventions. Right now, recent advances in material sciences are opening the door to a new generation of more efficient weapons.</Text>
+      <Text>Os pesquisadores de armas têm que acompanhar os avanços em muitos outros campos para tirar o máximo proveito de suas invenções. Neste momento, os recentes avanços nas ciências materiais estão abrindo as portas para uma nova geração de armas mais eficientes.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5401,7 +5401,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Focused Beam Weapons</Text>
+      <Text>Armas de feixe focalizado</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5411,7 +5411,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases damage of beam weapons.</Text>
+      <Text>Aumenta os danos das armas de feixe.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5421,7 +5421,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>A new generation of the ultra transparent materials we use in our focusing crystals has made it possible to increase the damage output of our beam weapons.</Text>
+      <Text>Uma nova geração de materiais ultra transparentes que usamos em nossos cristais de foco tornou possível aumentar a produção de danos de nossas armas de feixe.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5431,7 +5431,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Low-Cost Beam Weapons</Text>
+      <Text>Armas de feixe de baixo custo</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5441,7 +5441,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces cost of beam weapons.</Text>
+      <Text>Reduz o custo das armas de feixe.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5451,7 +5451,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Beam weapons will never be cheap, but some economies of scale have led to price reductions in the magnification and focusing equipment these weapons rely upon.</Text>
+      <Text>As armas de feixe nunca serão baratas, mas algumas economias de escala levaram a reduções de preços na ampliação e focalização do equipamento em que estas armas dependem.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5461,7 +5461,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Beam Weapons Miniaturization</Text>
+      <Text>Miniaturização de Armas de Feixe</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5471,7 +5471,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces mass of beam weapons.</Text>
+      <Text>Reduz a massa de armas de feixe.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5481,7 +5481,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Lacking the requirements for ammunition storage, beam weapons have always been mass-efficient. And after some hard work by the boys and girls in the lab, now they're a bit more so.</Text>
+      <Text>Sem os requisitos de armazenamento de munição, as armas de feixe sempre foram eficientes em massa. E após algum trabalho árduo dos meninos e meninas no laboratório, agora eles são um pouco mais.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5491,7 +5491,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Matter Disruption</Text>
+      <Text>Disrupção da matéria</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5501,7 +5501,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of advanced beam weapons.</Text>
+      <Text>Permite a construção de armas de feixe avançado.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5511,7 +5511,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our researchers have been able to weaponize a collimated beam of particles capable of disrupting the strong nuclear force, severing the bonds which hold the nucleus together, turning matter into smaller chunks of matter.</Text>
+      <Text>Nossos pesquisadores foram capazes de armar um feixe colimado de partículas capazes de interromper a forte força nuclear, rompendo as ligações que mantêm o núcleo unido, transformando a matéria em pedaços menores de matéria.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5521,7 +5521,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>High Energy Focus</Text>
+      <Text>Foco de alta energia</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5531,7 +5531,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves beam weapons.</Text>
+      <Text>Melhora as armas de feixe.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5541,7 +5541,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>A careful analysis of data returned from the field has revealed a number of inefficiencies which we can begin addressing in the next generation of our beam systems. We may also finally be able to get rid of that funny smell they make.</Text>
+      <Text>Uma análise cuidadosa dos dados retornados do campo revelou uma série de ineficiências que podemos começar a resolver na próxima geração de nossos sistemas de feixe. Também podemos finalmente ser capazes de nos livrar do cheiro engraçado que eles produzem.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5551,7 +5551,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Beam Amplification</Text>
+      <Text>Amplificação de feixes</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5561,7 +5561,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases damage of beam weapons.</Text>
+      <Text>Aumenta os danos das armas de feixe.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5571,7 +5571,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Advances in crystallography have created a new generation of focusing crystals capable of handling much greater quantities of energy without fracturing. All of our beam weapons just got a little bit badder.</Text>
+      <Text>Os avanços na cristalografia criaram uma nova geração de cristais de foco capaz de lidar com quantidades muito maiores de energia sem fraturar. Todas as nossas armas de feixe só ficaram um pouco mais ruins.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5581,7 +5581,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Beam Manufacturing Focus</Text>
+      <Text>Foco na fabricação de feixes</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5591,7 +5591,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces cost of beam weapons.</Text>
+      <Text>Reduz o custo das armas de feixe.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5601,7 +5601,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Manufacturing beam weapons is as much art as science, requiring highly trained technicians to individually tune each weapon. But if we can standardize this a bit, and even automate portions of it, we should be able to reduce the cost of each unit.</Text>
+      <Text>A fabricação de armas de feixe é tanto arte quanto ciência, exigindo técnicos altamente treinados para afinar individualmente cada arma. Mas se pudermos padronizar um pouco isso, e até mesmo automatizar partes dele, devemos ser capazes de reduzir o custo de cada unidade.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5611,7 +5611,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Low Mass Beam Weapons</Text>
+      <Text>Armas de feixe de baixa massa</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5621,7 +5621,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces mass of beam weapons.</Text>
+      <Text>Reduz a massa de armas de feixe.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5631,7 +5631,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>The heaviest parts of beam weapons have always been the charge coils and their associated cooling equipment. But with the latest generation of super-conductors we can now build these smaller and more compact than ever.</Text>
+      <Text>As partes mais pesadas das armas de feixe sempre foram as bobinas de carga e seus equipamentos de resfriamento associados. Mas com a última geração de supercondutores, agora podemos construir estes menores e mais compactos do que nunca.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5641,7 +5641,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Plasma Projection</Text>
+      <Text>Projeção de Plasma</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5651,7 +5651,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of exotic beam weapons.</Text>
+      <Text>Permite a construção de exóticas armas de feixe.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5661,7 +5661,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We're now able to generate collimated plasma containment fields at incredible distances. The upshot to this is that we can now send massive quantities of plasma at relativistic velocities in the direction of anything we don't like very much.</Text>
+      <Text>Agora somos capazes de gerar campos de contenção de plasma colimados a distâncias incríveis. O resultado disso é que agora podemos enviar grandes quantidades de plasma em velocidades relativistas na direção de qualquer coisa que não nos agrade muito.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5671,7 +5671,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Beam Weapon Mastery</Text>
+      <Text>Maestria das armas de feixe</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5681,7 +5681,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves beam weapons.</Text>
+      <Text>Melhora as armas de feixe.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5691,7 +5691,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our beam weapons are now absurdly powerful, a terror for anyone foolish enough to get on humanity's wrong side. And yet still our weapon scientists find ways to do better.</Text>
+      <Text>Nossas armas de feixe são agora absurdamente poderosas, um terror para qualquer tolo o suficiente para ficar do lado errado da humanidade. E ainda assim, nossos cientistas de armas encontram maneiras de fazer melhor.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5701,7 +5701,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Master Beam Assembly</Text>
+      <Text>Montagem de Feixe Mestre</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5711,7 +5711,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces cost of beam weapons.</Text>
+      <Text>Reduz o custo das armas de feixe.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5721,7 +5721,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our supply chain for the creation of plasma containment fields had a couple of kinks that needed to get worked out, but now that we have, we expect to be able to create beam weapons for far cheaper.</Text>
+      <Text>Nossa cadeia de fornecimento para a criação de campos de contenção de plasma tinha algumas falhas que precisavam ser trabalhadas, mas agora que temos, esperamos ser capazes de criar armas de feixe muito mais baratas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5731,7 +5731,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>High Density Beam Weapons</Text>
+      <Text>Armas de Feixe de Alta Densidade</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5741,7 +5741,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces mass of beam weapons.</Text>
+      <Text>Reduz a massa de armas de feixe.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5751,7 +5751,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We're now able to push our beam weapons right up to the energy density limits that physics allow. If we want any more power per unit of mass, we may have to move to a different universe.</Text>
+      <Text>Agora somos capazes de empurrar nossas armas de raios até os limites de densidade de energia que a física permite. Se quisermos mais energia por unidade de massa, talvez tenhamos que nos mover para um universo diferente.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5761,7 +5761,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Energy Phasing</Text>
+      <Text>Faseamento de energia</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5771,7 +5771,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of devastating beam weapons.</Text>
+      <Text>Permite a construção de devastadoras armas de feixe.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5781,7 +5781,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>The phaser particle is almost impossible to understand if you don't have several advanced degrees and possibly an extra brain. In short, these particles can induce a chain reaction that breaks an enemy down into neutrinos, effectively evaporating it.</Text>
+      <Text>A partícula do phaser é quase impossível de entender se você não tiver vários graus avançados e possivelmente um cérebro extra. Em resumo, estas partículas podem induzir uma reação em cadeia que quebra um inimigo em neutrinos, evaporando-o efetivamente.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5791,7 +5791,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Doom Ray</Text>
+      <Text>Raio da Perdição</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5801,7 +5801,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of the ultimate beam weapons.</Text>
+      <Text>Permite a construção das últimas armas de feixe.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5811,7 +5811,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>An adaptation of the phaser particle emitter has resulted in massive improvements in the induced matter-breakdown reaction. Also of note, our scientists are pretty sure the reaction won't consume the entire universe. So that's good news.</Text>
+      <Text>Uma adaptação do emissor de partículas de phaser resultou em enormes melhorias na reação de quebra de matéria induzida. Além disso, nossos cientistas estão bastante seguros de que a reação não consumirá o universo inteiro. Portanto, esta é uma boa notícia.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5821,7 +5821,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Beam Weapon Augmentation</Text>
+      <Text>Aumento de armas de feixe</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5831,7 +5831,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of beam support systems.</Text>
+      <Text>Permite a construção de sistemas de suporte de feixe.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5841,7 +5841,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We've found that the capacity of our beam energy storage systems can be augmented by an external field, which allows for increased beam output. Such fields could be projected at a distance, improving the beam output of an entire fleet.</Text>
+      <Text>Descobrimos que a capacidade de nossos sistemas de armazenamento de energia de feixe pode ser aumentada por um campo externo, o que permite uma maior saída do feixe. Tais campos poderiam ser projetados a uma distância, melhorando a saída do feixe de uma frota inteira.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5851,7 +5851,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>High Energy Transfer</Text>
+      <Text>Transferência de alta energia</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5861,7 +5861,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of improved beam support systems.</Text>
+      <Text>Permite construir sistema de suporte de feixe melhorado.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5871,7 +5871,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>After considerable study in the way that beam weapons interact on a subatomic level with both shield systems and hulls, we've developed systems capable of reducing the effectiveness of enemy shields or absorbing enemy beam attacks on our own vessels.</Text>
+      <Text>Após um estudo considerável da forma como as armas de raios interagem em nível subatômico tanto com sistemas de escudos quanto com cascos, desenvolvemos sistemas capazes de reduzir a eficácia dos escudos inimigos ou absorver ataques de raios inimigos em nossas próprias naves.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5881,7 +5881,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>High Energy Magnification</Text>
+      <Text>Magnificação de alta energia</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5891,7 +5891,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of advanced beam support systems.</Text>
+      <Text>Permite a construção de sistemas avançados de suporte de feixe.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5901,7 +5901,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>An improved understanding of the effects our beam augmentation fields have has resulted in the possibility of even greater beam outputs. Additionally, we can now build beams that can cripple enemy shields.</Text>
+      <Text>Uma melhor compreensão dos efeitos que nossos campos de aumento de feixe resultaram na possibilidade de saídas de feixe ainda maiores. Além disso, agora podemos construir feixes que podem danificar os escudos inimigos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5911,7 +5911,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Missile Weapons</Text>
+      <Text>Armas de Míssil</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5921,7 +5921,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of improved missile weapons.</Text>
+      <Text>Permite a construção de armas de mísseis melhoradas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5931,7 +5931,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Conceptually simple, though there's no shame in that, missile-based weapons provide a tremendous amount of punch for their cost.</Text>
+      <Text>Conceitualmente simples, embora não haja vergonha nisso, as armas baseadas em mísseis fornecem uma tremenda quantidade de socos pelo seu custo.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5941,7 +5941,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Missile Optimization</Text>
+      <Text>Otimização de mísseis</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5951,7 +5951,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves missile weapons.</Text>
+      <Text>Melhora as armas de mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5961,7 +5961,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>After blowing up several thousand target drones and one unfortunate asteroid, our weapons engineers have come up with a number of possible improvements we can implement for our missile platforms.</Text>
+      <Text>Após explodir vários milhares de drones alvo e um infeliz asteróide, nossos engenheiros de armamento conseguiram uma série de melhorias possíveis que podemos implementar para nossas plataformas de mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5971,7 +5971,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Rapid Fire Missiles</Text>
+      <Text>Mísseis de Fogo Rápido</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5981,7 +5981,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases firing speed of missile weapons.</Text>
+      <Text>Aumenta a velocidade de disparo das armas de mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -5991,7 +5991,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our weapons engineers have determined that shooting more missiles at things makes them blow up faster. Which seems obvious in retrospect. Anyways, our missile launchers shoot more now.</Text>
+      <Text>Nossos engenheiros de armamento determinaram que disparar mais mísseis sobre as coisas faz com que elas explodam mais rápido. O que parece óbvio em retrospectiva. De qualquer forma, nossos lançadores de mísseis atiram mais agora.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6001,7 +6001,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Low Cost Missiles</Text>
+      <Text>Mísseis de baixo custo</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6011,7 +6011,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces cost of missile weapons.</Text>
+      <Text>Reduz o custo das armas de mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6021,7 +6021,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Missiles were always going to be the most cost-effective means of making things hurt, and now they're a little bit more so.</Text>
+      <Text>Os mísseis seriam sempre o meio mais econômico de fazer as coisas doerem, e agora eles são um pouco mais.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6031,7 +6031,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Missile Miniaturization</Text>
+      <Text>Miniaturização de mísseis</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6041,7 +6041,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces mass of missile weapons.</Text>
+      <Text>Reduz a massa de armas de mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6051,7 +6051,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reviews of training data and engagement encounters reveals one overriding request from the field. "We want more missiles. Give us more missiles." Well, having reduced the mass of our launchers and ammunition racks, we're now able to do just that.</Text>
+      <Text>Revisões de dados de treinamento e encontros de engajamento revelam um pedido preponderante do campo. "Queremos mais mísseis". Dê-nos mais mísseis". Bem, tendo reduzido a massa de nossos lançadores e racks de munição, agora somos capazes de fazer exatamente isso.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
