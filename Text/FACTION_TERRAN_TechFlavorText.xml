@@ -4061,7 +4061,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Skilled Starship Construction</Text>
+      <Text>Construção de Nave Estelar Qualificada</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4071,7 +4071,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases Shipyard manufacturing.</Text>
+      <Text>Aumenta a fabricação do estaleiro.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4081,7 +4081,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>You can't put just anyone in a space suit and get them to build things in orbit. It turns out that most people don't understand what an orbit is. Some improved training programs should dramatically improve our orbital manufacturing capability.</Text>
+      <Text>Você não pode colocar qualquer um em um terno espacial e fazer com que eles construam coisas em órbita. Acontece que a maioria das pessoas não entende o que é uma órbita. Alguns programas de treinamento melhorados devem aperfeiçoar drasticamente nossa capacidade de fabricação orbital.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4091,7 +4091,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improved Logistics</Text>
+      <Text>Logística melhorada</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4101,7 +4101,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases Logistics.</Text>
+      <Text>Aumenta a logística.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4111,7 +4111,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Getting material to the right orbit at the right time is something we're only just coming to grips with. It turns out that orbital plane change maneuvers are really expensive. But once we scale this up, our logistical ability should greatly improve.</Text>
+      <Text>Colocar o material na órbita certa na hora certa é algo que só agora estamos conseguindo dominar. Acontece que as manobras de mudança de plano orbital são realmente caras. Mas uma vez que aumentamos esta escala, nossa capacidade logística deve melhorar muito.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4121,7 +4121,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Storage Maximization</Text>
+      <Text>Maximização da armazenagem</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4131,7 +4131,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases hull capacity.</Text>
+      <Text>Aumenta a capacidade do casco.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4141,7 +4141,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Ironically enough, space is at a premium in space, inside of our hulls at least. Even small improvements in packing efficiencies are worth the effort of hunting them down.</Text>
+      <Text>Ironicamente, o espaço está a um prêmio no espaço, pelo menos dentro de nossos cascos. Mesmo pequenas melhorias na eficiência da carga valem o esforço de caçá-los.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4151,7 +4151,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Zero Gravity Construction</Text>
+      <Text>Construção com Gravidade Zero</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4161,7 +4161,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of medium hulls.</Text>
+      <Text>Permite a construção de cascos médios.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4171,7 +4171,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Most of our initial attempts at micro-gravity construction used clumsy variations of ground-based techniques, not far removed from banging rocks together. Now that we have a little more experience, we should be able to build on a much larger scale.</Text>
+      <Text>A maioria de nossas tentativas iniciais de construção de micro-gravidade utilizou variações desajeitadas de técnicas baseadas no solo, não muito distantes de bater nas rochas em conjunto. Agora que temos um pouco mais de experiência, devemos ser capazes de construir em uma escala muito maior.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4181,7 +4181,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Zero Gravity Optimization</Text>
+      <Text>Otimização por gravidade zero</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4191,7 +4191,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves hulls.</Text>
+      <Text>Melhora os cascos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4201,7 +4201,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We took a big step forward with our most recent adoption of true zero-gravity construction practices. Now, after a few trial runs and one teensy little accident, our engineers have identified further areas for improvement.</Text>
+      <Text>Demos um grande passo em frente com nossa mais recente adoção de práticas de construção verdadeiramente de gravidade zero. Agora, após alguns testes e um pequeno acidente, nossos engenheiros identificaram outras áreas a serem melhoradas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4211,7 +4211,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Hull Reinforcement</Text>
+      <Text>Reforço do casco</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4221,7 +4221,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases hull hit points.</Text>
+      <Text>Aumenta os pontos de impacto do casco.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
