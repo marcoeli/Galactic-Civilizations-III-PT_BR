@@ -3571,7 +3571,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our experience with the rigors of space travel, and the shrieked radio transmissions of the few who fell to the rigors of space travel, have revealed a number of small improvements we might be able to make to our existing life support systems.</Text>
+      <Text>Nossa experiência com os rigores das viagens espaciais, e as gritantes transmissões de rádio dos poucos que caíram nos rigores das viagens espaciais, revelou uma série de pequenas melhorias que podemos ser capazes de fazer em nossos sistemas de suporte de vida existentes.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3581,7 +3581,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Life Support Manufacturing</Text>
+      <Text>Produção de suporte de vida</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3591,7 +3591,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces life support cost.</Text>
+      <Text>Reduz o custo de suporte de vida.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3601,7 +3601,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reducing the cost of building life support systems is one of those things we often have to do that we don't want to advertise too much. It's hard enough finding naval recruits as it is.</Text>
+      <Text>Reduzir o custo de construção de sistemas de suporte de vida é uma daquelas coisas que muitas vezes temos que fazer e que não queremos anunciar em demasia. Já é bastante difícil encontrar recrutas navais como está.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3611,7 +3611,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Life Support Miniaturization</Text>
+      <Text>Miniaturização de suporte de vida</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3621,7 +3621,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces life support mass.</Text>
+      <Text>Reduz a massa de suporte de vida.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3631,7 +3631,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>By minimizing the amount of weight and space our life support systems take up, we leave more room for our life reduction systems, which is what we're now calling guns.</Text>
+      <Text>Ao minimizar a quantidade de peso e espaço que nossos sistemas de suporte de vida ocupam, deixamos mais espaço para nossos sistemas de redução de vida, que é o que estamos chamando agora de armas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3641,7 +3641,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Support Field Generation</Text>
+      <Text>Apoio à Geração de Campo</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3651,7 +3651,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of advanced life support systems.</Text>
+      <Text>Permite a construção de sistemas avançados de suporte de vida.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3661,7 +3661,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our growing familiarity with force fields has enabled us to replace our mechanical life support systems with more elegant field based processors. Food is now stored in a single block of nutrient-rich sludge, piped directly into the user's mouth.</Text>
+      <Text>Nossa crescente familiaridade com os campos de força nos permitiu substituir nossos sistemas mecânicos de suporte de vida por processadores mais elegantes baseados em campo. Os alimentos agora são armazenados em um único bloco de lodo rico em nutrientes, canalizado diretamente para a boca do usuário.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3671,7 +3671,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Support Field Focus</Text>
+      <Text>Foco no campo de suporte</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3681,7 +3681,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves life support systems.</Text>
+      <Text>Melhora os sistemas de suporte de vida.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3691,7 +3691,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our early attempts at building field-based life support systems left behind many messes and many possible opportunities for improvement, which we're starting to identify now. Cleaning up the messes: that was the obvious one.</Text>
+      <Text>Nossas primeiras tentativas de construir sistemas de suporte de vida baseados em campo deixaram para trás muitas confusões e muitas oportunidades possíveis de melhoria, que estamos começando a identificar agora. Limpando as confusões: esse foi o óbvio.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3701,7 +3701,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Support Range Focus</Text>
+      <Text>Foco no alcance de apoio</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3711,7 +3711,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases ship range.</Text>
+      <Text>Aumenta o alcance da nave.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3721,7 +3721,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>By aerating the nutrient sludge we provide our crews it takes up significantly more volume in their stomachs, making them feel full with less food. There are some associated problems with, uh, gas, but we're coming up with special filters to address that.</Text>
+      <Text>Ao arejarmos o lodo nutriente, fornecemos às nossas tripulações um volume significativamente maior em seus estômagos, fazendo-as sentir-se cheias com menos comida. Há alguns problemas associados com, uh, o gás, mas estamos criando filtros especiais para resolver isso.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3731,7 +3731,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Support Manufacturing Focus</Text>
+      <Text>Foco na fabricação de suporte</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3741,7 +3741,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces life support cost.</Text>
+      <Text>Reduz o custo de suporte de vida.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3751,7 +3751,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our life support systems are now really, really cheap. Still effective though, let's not forget that. Maybe let's not even call them cheap. "Economical," or "Value," maybe.</Text>
+      <Text>Nossos sistemas de suporte de vida são agora realmente, realmente baratos. Mas não esqueçamos que ainda são eficazes. Talvez nem vamos chamá-los de baratos. "Econômico", talvez.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3761,7 +3761,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Low Mass Support Systems</Text>
+      <Text>Sistemas de suporte de baixa massa</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3771,7 +3771,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces life support mass.</Text>
+      <Text>Reduz a massa do suporte de vida.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3781,7 +3781,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>By using the latest generation of efficient field generators, and also putting our crews on a diet, we've been able to reduce the mass of our life support systems even more.</Text>
+      <Text>Utilizando a última geração de geradores de campo eficientes, e também colocando nossas tripulações em dieta, conseguimos reduzir ainda mais a massa de nossos sistemas de suporte de vida.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3791,7 +3791,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Promethion Support Systems</Text>
+      <Text>Sistemas de suporte Promethion</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3801,7 +3801,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of exotic life support systems.</Text>
+      <Text>Permite a construção de sistemas de suporte de vida exóticos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3811,7 +3811,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>The Promethion Support System extends our field life support further, with all the requirements for a living organism - oxygen, water, and food - now piped directly into that organism rather than left to float around and get on the equipment.</Text>
+      <Text>O Sistema de Suporte Promethion estende ainda mais nosso suporte de vida em campo, com todos os requisitos para um organismo vivo - oxigênio, água e alimentos - agora canalizado diretamente para esse organismo em vez de ser deixado a flutuar e entrar no equipamento.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3821,7 +3821,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Life Support Mastery</Text>
+      <Text>Maestria no suporte de vida</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3831,7 +3831,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves life support systems.</Text>
+      <Text>Melhora os sistemas de suporte de vida.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3841,7 +3841,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We have all but mastered direct-nutrient injection technologies, and now have left but a few additional efficiencies to wring out of these systems.</Text>
+      <Text>Todos nós dominamos as tecnologias de injeção direta de nutrientes, e agora temos apenas algumas eficiências adicionais a serem tiradas desses sistemas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3851,7 +3851,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Support System Assembly</Text>
+      <Text>Montagem do sistema de suporte</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3861,7 +3861,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces life support cost.</Text>
+      <Text>Reduz o custo de suporte de vida.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3871,7 +3871,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Some of the crews are finding out how little we're spending on their life support systems. "Do you think we're worthless?" they shout. And we don't, we really don't. They're not worthless at all! Worth less, yes. But that's different.</Text>
+      <Text>Algumas das tripulações estão descobrindo o pouco que estamos gastando em seus sistemas de suporte de vida. "Você acha que somos inúteis?" gritam eles. E nós não, nós realmente não achamos. Eles não são de todo inúteis! Valem menos, sim. Mas isso é diferente.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3881,7 +3881,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Support Mass Reduction</Text>
+      <Text>Redução de massa do suporte</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3891,7 +3891,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces life support mass.</Text>
+      <Text>Reduz a massa de suporte de vida.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3901,7 +3901,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our nutrient sludge now delivers itself to the crew using embedded Promethion field effectors, saving us the weight of carrying around heavy fixed effectors. The embedded effectors come out in the waste stream, ready for reuse. After cleaning, of course.</Text>
+      <Text>Nosso lodo nutriente agora se entrega à tripulação usando os efeitos de campo Promethion embutidos, poupando-nos o peso de carregar em torno de pesados efeitos fixos. Os emissores embutidos saem no fluxo de resíduos, prontos para reutilização. Após a limpeza, é claro.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3911,7 +3911,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Lossless Support Systems</Text>
+      <Text>Sistemas de suporte sem perdas</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3921,7 +3921,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of the ultimate life support systems.</Text>
+      <Text>Permite a construção dos mais modernos sistemas de suporte de vida.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3931,7 +3931,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our life support systems are now close to perfect, wasting no resources whatsoever and recycling essentially all waste products. As an added bonus, the fields have been reduced in size and are now much less humiliating for the crew.</Text>
+      <Text>Nossos sistemas de suporte de vida estão agora próximos da perfeição, não desperdiçando nenhum recurso e reciclando essencialmente todos os produtos residuais. Como um bônus adicional, os setores foram reduzidos em tamanho e agora são muito menos humilhantes para a tripulação.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3941,7 +3941,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Support Field Mastery</Text>
+      <Text>Maestria de Suporte de Campo</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3951,7 +3951,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of fleet life support modules.</Text>
+      <Text>Permite a construção de módulos de suporte de vida da frota.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3961,7 +3961,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our switch to field based life support systems has made it possible to offload some materials to other vessels. Additionally, it should now be possible to supplement fleets via unmanned supply probes launched from an appropriately equipped facility.</Text>
+      <Text>Nossa mudança para sistemas de suporte de vida baseados em campo tornou possível a descarga de alguns materiais para outros navios. Além disso, agora deve ser possível complementar as frotas através de sondas de abastecimento não tripuladas lançadas de uma instalação devidamente equipada.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3971,7 +3971,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Exploration Extension</Text>
+      <Text>Extensão da Exploração</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3981,7 +3981,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of advanced fleet life support modules.</Text>
+      <Text>Permite a construção de módulos avançados de suporte de vida da frota.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -3991,7 +3991,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We've adapted the latest in Promethion support field technology to be used by our fleet-support vessels, thus increasing an entire fleet's travel range. Additionally, we've made significant improvements to our starbase life support extension modules.</Text>
+      <Text>Adaptamos a mais recente tecnologia de suporte de campo Promethion para ser usada por nossas embarcações de apoio à frota, aumentando assim o alcance de viagens de toda uma frota. Além disso, fizemos melhorias significativas em nossos módulos de extensão de suporte de vida da base estelar.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4001,7 +4001,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Orbital Manufacturing</Text>
+      <Text>Fabricação orbital</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4011,7 +4011,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of improved manufacturing buildings, and small hulls.</Text>
+      <Text>Permite a construção de edifícios de fabricação melhorada, e cascos pequenos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4021,7 +4021,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Moving our ship construction operations to micro-gravity environments will eventually allow for the construction of massive structures. We're not quite there yet, but the first step out of the well was always going to be the biggest.</Text>
+      <Text>A mudança de nossas operações de construção de navios para ambientes de microgravidade permitirá eventualmente a construção de estruturas maciças. Ainda não chegamos lá, mas o primeiro passo para sair do poço será sempre o maior.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4031,7 +4031,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Orbital Specialization</Text>
+      <Text>Especialização Orbital</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4041,7 +4041,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves logistics.</Text>
+      <Text>Melhora a logística.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -4051,7 +4051,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Now that we've watched a few construction projects accidentally collapse on themselves, we've identified a number of possible improvements we can make to our orbital construction techniques.</Text>
+      <Text>Agora que vimos alguns projetos de construção se desmoronarem acidentalmente, identificamos uma série de melhorias possíveis que podemos fazer em nossas técnicas de construção orbital.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -10001,7 +10001,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Diplomacy</Text>
+      <Text>Diplomacia</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
