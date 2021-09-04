@@ -6061,7 +6061,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Harpoons</Text>
+      <Text>Arpões</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6071,7 +6071,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of advanced missile weapons.</Text>
+      <Text>Permite a construção de armas de mísseis avançados.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6081,7 +6081,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>The Harpoon class of missiles employ a number of improvements in speed, range, tracking, and warhead yield, resulting in our most powerful conventional missile system yet.</Text>
+      <Text>A classe de mísseis Arpão emprega uma série de melhorias em velocidade, alcance, rastreamento e rendimento de ogivas, resultando em nosso sistema de mísseis convencional mais potente até agora.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6091,7 +6091,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Warhead Focus</Text>
+      <Text>Foco em ogivas</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6101,7 +6101,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves missile weapons.</Text>
+      <Text>Melhora as armas de mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6111,7 +6111,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We've spent comparatively little research time on the warhead components of our missile systems, but now that we've turned our attention to the matter, a number of possible efficiencies should be achievable with a little effort.</Text>
+      <Text>Passamos comparativamente pouco tempo de pesquisa sobre os componentes das ogivas de nossos sistemas de mísseis, mas agora que voltamos nossa atenção para o assunto, uma série de possíveis eficiências deve ser atingida com um pequeno esforço.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6121,7 +6121,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Warhead Acceleration</Text>
+      <Text>Aceleração de ogivas</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6131,7 +6131,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases range of missile weapons.</Text>
+      <Text>Aumenta o alcance das armas de mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6141,7 +6141,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>More target drones have given their lives for our glory, and a careful analysis of their deaths has revealed some exciting possibilities in the field of shaped charges, which should improve the destructive yield of our warheads.</Text>
+      <Text>Mais drones-alvo deram suas vidas pela nossa glória, e uma análise cuidadosa de suas mortes revelou algumas possibilidades interessantes no campo das cargas moldadas, que devem melhorar o rendimento destrutivo de nossas ogivas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6151,7 +6151,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Warhead Manufacturing</Text>
+      <Text>Fabricação de ogivas</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6161,7 +6161,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces cost of missile weapons.</Text>
+      <Text>Reduz o custo das armas de mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6171,7 +6171,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>The most delicate part of missile manufacturing was the warhead, for obvious reasons. But the latest generation of ultra-stable explosives should reduce both manufacturing costs and workplace accidents significantly.</Text>
+      <Text>A parte mais delicada da fabricação de mísseis foi a ogiva, por razões óbvias. Mas a última geração de explosivos ultra-estáveis deveria reduzir significativamente tanto os custos de fabricação quanto os acidentes de trabalho.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6181,7 +6181,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Low Mass Warheads</Text>
+      <Text>Ogivas de baixa massa</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6191,7 +6191,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces mass of missile weapons.</Text>
+      <Text>Reduz a massa de armas de mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6201,7 +6201,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>By using the latest generation of shaped-charge warheads to reduce the weight of each individual missile, with no corresponding loss of destructive power, we can make room for more missile launchers in total.</Text>
+      <Text>Utilizando a última geração de ogivas de carga moldada para reduzir o peso de cada míssil individual, sem perda correspondente de potência destrutiva, podemos abrir espaço para mais lançadores de mísseis no total.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6211,7 +6211,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Photonic Warheads</Text>
+      <Text>Ogivas Fotônicas</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6221,7 +6221,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of exotic missile weapons.</Text>
+      <Text>Permite a construção de exóticas armas de mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6231,7 +6231,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>By embedding a device in our warheads which releases a high energy burst of photons at the moment of impact, we can achieve substantial penetration against both armor and shield systems, greatly increasing the destructive potential of our warheads.</Text>
+      <Text>Ao incorporar um dispositivo em nossas ogivas que libera uma explosão de alta energia de fótons no momento do impacto, podemos conseguir uma penetração substancial contra os sistemas de blindagem e escudos, aumentando grandemente o potencial destrutivo de nossas ogivas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6241,7 +6241,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Payload Mastery</Text>
+      <Text>Maestria da carga útil</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6251,7 +6251,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves missile weapons.</Text>
+      <Text>Melhora as armas de mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6261,7 +6261,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Various physical limits of this particular universe prevent us from wringing more destructive potential out of this generation of warheads. But we can certainly make them cheaper and lighter.</Text>
+      <Text>Vários limites físicos deste universo particular nos impedem de espremer um potencial mais destrutivo para fora desta geração de ogivas. Mas certamente podemos torná-las mais baratas e mais leves.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6271,7 +6271,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Master Missile Assembly</Text>
+      <Text>Montagem de Mísseis Mestres</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6281,7 +6281,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces cost of missile weapons.</Text>
+      <Text>Reduz o custo das armas de mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6291,7 +6291,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our missile manufacturing facilities are now almost perfectly efficient, wasting no material whatsoever. Destruction shouldn't come so cheap, yet here we are.</Text>
+      <Text>Nossas instalações de fabricação de mísseis são agora quase perfeitamente eficientes, não desperdiçando nenhum material. A destruição não deveria vir tão barata, mas aqui estamos nós.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6301,7 +6301,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>High Density Warheads</Text>
+      <Text>Ogivas de Alta Densidade</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6311,7 +6311,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces mass of missile weapons.</Text>
+      <Text>Reduz a massa de armas de mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6321,7 +6321,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>A new field based guidance system which uses forcefields to provide final maneuvering capabilities should cut down on the weight of our missiles systems a bit more.</Text>
+      <Text>Um novo sistema de orientação baseado em campo que usa campos de força para fornecer capacidades de manobra final deve reduzir um pouco mais o peso de nossos sistemas de mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6331,7 +6331,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Photon Torpedoes</Text>
+      <Text>Torpedos de fótons</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6341,7 +6341,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of devastating missile weapons.</Text>
+      <Text>Permite a construção de armas de mísseis devastadoras.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6351,7 +6351,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>By matching a wide-spectrum version of the photon-encasement armor piercing technology with our latest anti-matter warheads, we've created a weapon with truly colossal damage potential. They glow a new color too.</Text>
+      <Text>Combinando uma versão de amplo espectro da tecnologia de armadura de fótons com nossas mais recentes ogivas antimatéria, criamos uma arma com um potencial de danos verdadeiramente colossal. Elas brilham numa nova cor também.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6361,7 +6361,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Nightmare Torpedoes</Text>
+      <Text>Torpedos pesadelos</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6371,7 +6371,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of the ultimate missile weapons.</Text>
+      <Text>Permite a construção das últimas armas de mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6381,7 +6381,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>The Nightmare torpedo contains a tiny singularity trapped in a pocket universe, which upon being released causes horrifying damage to anything foolish enough to be standing by a place we're firing something called Nightmare Torpedoes at.</Text>
+      <Text>O torpedo Pesadelo contém uma pequena singularidade presa em um universo de bolso, que ao ser solto causa danos horríveis a qualquer coisa suficientemente tola para estar ao lado de um lugar onde estamos atirando algo chamado Torpedos Pesadelo.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6391,7 +6391,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Missile Augmentation</Text>
+      <Text>Aumento de mísseis</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6401,7 +6401,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of missile support systems.</Text>
+      <Text>Permite a construção de sistemas de suporte de mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6411,7 +6411,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Our weapons researchers have come up with a number of ship and starbase modules which can improve the tracking and ultimately the range of our missiles.</Text>
+      <Text>Nossos pesquisadores de armas criaram uma série de módulos de navios e bases estelares que podem melhorar o rastreamento e, em última análise, o alcance de nossos mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6421,7 +6421,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Advanced Missile Guidance</Text>
+      <Text>Orientação avançada de mísseis</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6431,7 +6431,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of improved missile support systems.</Text>
+      <Text>Permite a construção de sistemas aperfeiçoados de suporte de mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6441,7 +6441,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improved decoy and camouflage systems will greatly increase the survivability of our missiles when faced with point defenses. And our missile support modules now feature a number of predictive systems which should help missile range even more.</Text>
+      <Text>A melhoria dos sistemas de dissuasão e camuflagem aumentará muito a capacidade de sobrevivência de nossos mísseis quando confrontados com defesas pontuais. E nossos módulos de suporte de mísseis agora apresentam uma série de sistemas preditivos que devem ajudar ainda mais o alcance dos mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6451,7 +6451,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Intelligent Warheads</Text>
+      <Text>Ogivas Inteligentes</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6461,7 +6461,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of advanced missile support systems.</Text>
+      <Text>Permite a construção de sistemas avançados de suporte de mísseis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6471,7 +6471,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Cluster warheads are capable of specifically targeting and neutralizing enemy point defense systems. And our missile support systems can now make use of information-sharing "pilot" missiles, which allow for more efficient guidance and improved range.</Text>
+      <Text>As ogivas de fragmentação são capazes de direcionar e neutralizar especificamente os sistemas de defesa pontual do inimigo. E nossos sistemas de suporte de mísseis podem agora fazer uso de mísseis "piloto" de compartilhamento de informações, que permitem uma orientação mais eficiente e um alcance melhorado.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6481,7 +6481,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Kinetic Weapons</Text>
+      <Text>Armas Cinéticas</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6491,7 +6491,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows construction of improved kinetic weapons.</Text>
+      <Text>Permite a construção de armas cinéticas melhoradas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6501,7 +6501,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>There's just something nice and honest about a projectile, isn't there? And thanks to a little help from teams of massive electromagnets, we've now got some extremely fast projectiles to work with.</Text>
+      <Text>Há algo de bom e honesto em um projétil, não há? E graças a uma pequena ajuda de equipes de eletroímãs maciços, temos agora alguns projéteis extremamente rápidos para trabalhar.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6511,7 +6511,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Kinetic Optimization</Text>
+      <Text>Otimização Cinética</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6521,7 +6521,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves kinetic weapons.</Text>
+      <Text>Melhora as armas cinéticas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6531,7 +6531,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Some modest improvements in the energy delivery systems of our kinetic weapons could result in improvements to the cost, mass, or range of each unit.</Text>
+      <Text>Algumas modestas melhorias nos sistemas de fornecimento de energia de nossas armas cinéticas poderiam resultar em melhorias no custo, na massa ou no alcance de cada unidade.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6541,7 +6541,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Kinetic Range Extension</Text>
+      <Text>Extensão de alcance cinético</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6551,7 +6551,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Increases range of kinetic weapons.</Text>
+      <Text>Aumenta o alcance das armas cinéticas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6561,7 +6561,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>A switch to slightly smaller projectiles, along with improved energy delivery systems, has led to significant improvements in the speed of each projectile, and thus the effective range of each unit.</Text>
+      <Text>Uma mudança para projéteis ligeiramente menores, juntamente com sistemas de fornecimento de energia melhorados, levou a melhorias significativas na velocidade de cada projétil e, portanto, no alcance efetivo de cada unidade.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6571,7 +6571,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Kinetic Weapon Manufacturing</Text>
+      <Text>Fabricação de Armas Cinéticas</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -6581,7 +6581,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Reduces cost of kinetic weapons.</Text>
+      <Text>Reduz o custo das armas cinéticas.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
