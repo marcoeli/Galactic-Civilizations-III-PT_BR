@@ -9,125 +9,125 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Crisis_Primates_Name</Label>
-    <String>Crisis: The Primates</String>
+    <String>Crise: Os primatas</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Dec</Label>
-    <String>One of our Colonies has discovered a thriving race of Intelligent Primates on a newly discovered continent on {PLANETNAME}. While their intelligence is not up to galactic standards, they are capable of simple communication and tool use.</String>
+    <String>Uma de nossas colônias descobriu uma próspera raça de primatas inteligentes em um continente recém-descoberto em {PLANETNAME}. Embora sua inteligência não esteja à altura dos padrões galácticos, eles são capazes de simples comunicação e uso de ferramentas.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice1Dec</Label>
-    <String>We should not interfere with their evolution, abandon the newly discovered continent and leave them be. </String>
+    <String>Não devemos interferir na evolução deles, abandonar o continente recém-descoberto e deixá-los em paz. </String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice1BonusDec</Label>
-    <String>+10 Benevolent</String>
+    <String>+10 Benevolente</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice2Dec</Label>
-    <String>Educate them, and lift up their culture so they can become productive members of our civilization. </String>
+    <String>Educá-los e elevar sua cultura para que eles possam se tornar membros produtivos de nossa civilização. </String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice2BonusDec</Label>
-    <String>+10 Pragmatic</String>
+    <String>+10 Pragmatico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice3Dec</Label>
-    <String>Sounds like a naive labor force ripe for the picking, put them to work.</String>
+    <String>Soa como uma força de trabalho ingênua amadurecida para a colheita, coloque-os para trabalhar.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice3BonusDec</Label>
-    <String>+10 Malevolent</String>
+    <String>+10 Malevolo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_1_Name</Label>
-    <String>Crisis: The Primates (part 2)</String>
+    <String>Crise: Os Primatas (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_1_Dec</Label>
-    <String>Despite our best efforts, our colonists are continuing to impact the culture of the newly discovered primates on {PLANETNAME}. This has resulted in a wide range of negative effects, from fatal accidents to signs that the primates have begun worshiping us as gods.</String>
+    <String>Apesar de nossos melhores esforços, nossos colonos continuam a impactar a cultura dos primatas recém-descobertos no {PLANETNAME}. Isto resultou em uma ampla gama de efeitos negativos, desde acidentes fatais até sinais de que os primatas começaram a nos adorar como deuses.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_1_Choice1Dec</Label>
-    <String>Ask our colonists to leave this planet behind. We will leave the natives to their own destiny. </String>
+    <String>Peça a nossos colonos que deixem este planeta para trás. Deixaremos os nativos ao seu próprio destino. </String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_1_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Benevolent check</String>
+    <String>{STATCHANCE}% Cheque benevolente</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_1_Choice2Dec</Label>
-    <String>We have to keep doing the best we can to protect them. Institute fines on any colonist who interferes with the natives.</String>
+    <String>Temos que continuar fazendo o melhor que podemos para protegê-los. Multas do Instituto a qualquer colonizador que interfira com os nativos.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_1_Choice3Dec</Label>
-    <String>We gave the primates freedom. They chose to become more like us. Let's lean into that.</String>
+    <String>Nós demos liberdade aos primatas. Eles escolheram se tornar mais como nós. Vamos nos inclinar para isso.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_1a_Name</Label>
-    <String>Crisis: The Primates - Success</String>
+    <String>Crise: Os Primatas - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_1a_Dec</Label>
-    <String>Almost all of our colonists have voted to evacuate {PLANETNAME}, leaving it to the gentle primates. This will certainly be a hit to our economy, but this moment will forever be remembered in our history as a time we did something not easy, but right.
+    <String>Quase todos os nossos colonos votaram para evacuar {PLANETNAME}, deixando isso para os primatas gentis. Isto certamente será um sucesso para nossa economia, mas este momento será lembrado para sempre em nossa história como uma época em que fizemos algo não fácil, mas correto.
 
-[COLOR=UIDefaultHighlight]+40 Benevolent, {PLANETNAME} Population reduced by 90%, Free Colony Ship.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+40 Benevolente, {PLANETNAME} A população foi reduzida em 90%, Nave Colônia Grátis.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_1b_Name</Label>
-    <String>Crisis: The Primates - Failure</String>
+    <String>Crise: Os Primatas - O fracasso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_1b_Dec</Label>
-    <String>The colonists of {PLANETNAME} have rejected our plea to abandon their colony. In their anger they've stormed the new continent and virtually wiped out the intelligent primates there. This will certainly be remembered as one of the darkest days in our civilization's history.
+    <String>Os colonos de {PLANETNAME} rejeitaram nosso apelo para abandonar sua colônia. Em sua ira, eles invadiram o novo continente e praticamente exterminaram os primatas inteligentes de lá. Este certamente será lembrado como um dos dias mais sombrios da história de nossa civilização.
 
-[COLOR=UIDefaultHighlight]Adds 1 Tile on {PLANETNAME}, +20 Malevolent[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Acrescenta 1 Ladrilho em {PLANETNAME}, +20 Malevolo[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_1c_Name</Label>
-    <String>Crisis: The Primates - Success</String>
+    <String>Crise: Os Primatas - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_1c_Dec</Label>
-    <String>The situation on {PLANETNAME} with the intelligent primates has stabilized, thanks to our strict enforcement of non interference. Our colonists have become very proud of the flourishing native culture, resulting in a significant boost in the morale of the colony.
+    <String>A situação no {PLANETNAME} com os primatas inteligentes se estabilizou, graças à nossa rigorosa aplicação da não interferência. Nossos colonos se tornaram muito orgulhosos da florescente cultura nativa, resultando em um impulso significativo no moral da colônia.
 
-[COLOR=UIDefaultHighlight]+15 Pragmatic, +10% morale on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+15 Pragmatico, +10% moral em {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_1e_Name</Label>
-    <String>Crisis: The Primates - Success</String>
+    <String>Crise: Os Primatas - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_1e_Dec</Label>
-    <String>In their own time the primitive locals of {PLANETNAME} have begun to appreciate our educational efforts. The most promising of them have fully began to integrate into our society, and proven to be very helpful in our research of the planet's natural resources.
+    <String>Em seu próprio tempo, os primitivos locais de {PLANETNAME} começaram a apreciar nossos esforços educacionais. Os mais promissores deles começaram a se integrar plenamente em nossa sociedade e provaram ser muito úteis em nossas pesquisas sobre os recursos naturais do planeta.
 
-[COLOR=UIDefaultHighlight]+20% Research on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+20% Pesquisa em {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_2_Name</Label>
-    <String>Crisis: The Primates (part 2)</String>
+    <String>Crise: Os Primatas (parte 2)</String>
   </StringTable>
  
   <StringTable>

@@ -8,26 +8,26 @@ xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
   <FlavorTextDef>
     <InternalName>SpaceMonsters_SpaceMonsters_Warning_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Our scouts are reporting sightings of giant star faring creatures coming out of deep space. They seem to be breeding and we fear they will become a very real threat to all civilizations of the galaxy, if not controlled.</Text>
+      <Text>Nossos batedores estão relatando avistamentos de criaturas gigantescas que saem do espaço profundo. Eles parecem estar se reproduzindo e tememos que se tornem uma ameaça muito real para todas as civilizações da galáxia, se não forem controlados.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>SpaceMonsters_SpaceMonsters_Warning_Response1_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>These majestic creatures should be left alone unless they directly threaten our ships or worlds.
-[COLOR=BenevolentBlue](Benevolent +30)[/COLOR]</Text>
+      <Text>Estas majestosas criaturas devem ser deixadas em paz, a menos que ameacem diretamente nossos navios ou mundos.
+[COLOR=BenevolentBlue](Benevolente +30)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>SpaceMonsters_SpaceMonsters_Warning_Response2_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>We will destroy any of these monsters that venture into our space. [COLOR=PragmaticGold](Pragmatic +30)[/COLOR]</Text>
+      <Text>Destruiremos qualquer um desses monstros que se aventuram em nosso espaço. [COLOR=PragmaticGold](Pragmatico +30)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>SpaceMonsters_SpaceMonsters_Warning_Response3_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>These Space Monsters sound like excellent hunting. [COLOR=WarRed](Malevolent +30)[/COLOR]</Text>
+      <Text>Estes monstros do espaço parecem ser excelentes caçadores. [COLOR=WarRed](Malevolo +30)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
  

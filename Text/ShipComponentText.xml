@@ -7,11 +7,11 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>PrototypeHyperDrive_Name</Label>
-    <String>Prototype Hyper Drive</String>
+    <String>Protótipo de Hiper Drive</String>
   </StringTable>
   <StringTable>
     <Label>PrototypeHyperDrive_Dec</Label>
-    <String>Requires Promethion to build</String>
+    <String>Requer Promethion para construir</String>
   </StringTable>
  
   <StringTable>
@@ -20,7 +20,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>HyperDrive_Dec</Label>
-    <String>Increases Ships Moves</String>
+    <String>Aumenta a movimentação de navios</String>
   </StringTable>
  
   <StringTable>
@@ -29,7 +29,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>HyperdrivePlus_Dec</Label>
-    <String>Increases Ships Moves</String>
+    <String>Aumenta a movimentação de navios</String>
   </StringTable>
  
   <StringTable>
@@ -38,7 +38,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>IonDrive_Dec</Label>
-    <String>Increases Ships Moves</String>
+    <String>Aumenta a movimentação de navios</String>
   </StringTable>
  
   <StringTable>
@@ -47,7 +47,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>WarpDrive_Dec</Label>
-    <String>Increases Ships Moves</String>
+    <String>Aumenta a movimentação de navios</String>
   </StringTable>
  
   <StringTable>
@@ -56,7 +56,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>HyperwarpDrive_Dec</Label>
-    <String>Increases Ships Moves</String>
+    <String>Aumenta a movimentação de navios</String>
   </StringTable>
  
   <StringTable>
@@ -65,7 +65,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>StellarFolding_Dec</Label>
-    <String>Increases Ships Moves</String>
+    <String>Aumenta a movimentação de navios</String>
   </StringTable>
  
   <StringTable>
@@ -74,7 +74,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Thrusters_Dec</Label>
-    <String>Makes ship faster and more maneuverable in battles</String>
+    <String>Torna o navio mais rápido e mais manobrável em batalhas</String>
   </StringTable>
  
   <StringTable>
@@ -83,7 +83,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>IonThrusters_Dec</Label>
-    <String>Makes ship faster and more maneuverable in battles</String>
+    <String>Torna o navio mais rápido e mais manobrável em batalhas</String>
   </StringTable>
  
   <StringTable>
@@ -92,7 +92,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>FieldThrusters_Dec</Label>
-    <String>Makes ship faster and more maneuverable in battles</String>
+    <String>Torna o navio mais rápido e mais manobrável em batalhas</String>
   </StringTable>
  
   <StringTable>
@@ -101,7 +101,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>InertialAcceleration_Dec</Label>
-    <String>Makes ship faster and more maneuverable in battles</String>
+    <String>Torna o navio mais rápido e mais manobrável em batalhas</String>
   </StringTable>
  
   <StringTable>
@@ -110,7 +110,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>GravityManipulationField_Dec</Label>
-    <String>Makes ship faster and more maneuverable in battles</String>
+    <String>Torna o navio mais rápido e mais manobrável em batalhas</String>
   </StringTable>
  
   <StringTable>
@@ -119,7 +119,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>PrototypeSurveyModule_Dec</Label>
-    <String>Allows ship to survey anomalies, but requires Thulium to build.</String>
+    <String>Permite o pesquisar anomalias no navio, mas requer Thulium para construir.</String>
   </StringTable>
  
   <StringTable>
@@ -128,7 +128,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>SurveyModule_Dec</Label>
-    <String>Allows ship to survey anomalies</String>
+    <String>Permite o pesquisar anomalias no navio</String>
   </StringTable>
  
   <StringTable>
@@ -137,7 +137,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>NavigationalSensors_Dec</Label>
-    <String>Increases Ships Sensor Range</String>
+    <String>Aumenta a faixa de sensores de navios</String>
   </StringTable>
  
   <StringTable>
@@ -146,7 +146,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>InterstellerSensors_Dec</Label>
-    <String>Increases Ships Sensor Range</String>
+    <String>Aumenta a faixa de sensores de navios</String>
   </StringTable>
  
   <StringTable>
@@ -155,7 +155,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>SensorArray_Dec</Label>
-    <String>Increases Ships Sensor Range</String>
+    <String>Aumenta a faixa de sensores de navios</String>
   </StringTable>
  
   <StringTable>
@@ -164,7 +164,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>FieldDetectors_Dec</Label>
-    <String>Increases Ships Sensor Range</String>
+    <String>Aumenta a faixa de sensores de navios</String>
   </StringTable>
  
   <StringTable>
@@ -173,7 +173,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>SubspaceSensor_Dec</Label>
-    <String>Increases Ships Sensor Range</String>
+    <String>Aumenta a faixa de sensores de navios</String>
   </StringTable>
  
   <StringTable>
@@ -191,7 +191,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>StealthField_Dec</Label>
-    <String>Helps ship dodge enemy fire.</String>
+    <String>Ajuda a evitar o fogo inimigo.</String>
   </StringTable>
  
   <StringTable>
@@ -200,7 +200,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>JammingArray_Dec</Label>
-    <String>Helps ship dodge enemy fire.</String>
+    <String>Ajuda a evitar o fogo inimigo.</String>
   </StringTable>
  
   <StringTable>
@@ -209,7 +209,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>BasicLifeSupport_Dec</Label>
-    <String>Increases Ships Range</String>
+    <String>Aumenta o alcance dos navios</String>
   </StringTable>
  
   <StringTable>
@@ -218,7 +218,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>EnvironmentalSupport_Dec</Label>
-    <String>Increases Ships Range</String>
+    <String>Aumenta o alcance dos navios</String>
   </StringTable>
  
   <StringTable>
@@ -227,7 +227,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>StellarSupport_Dec</Label>
-    <String>Increases Ships Range</String>
+    <String>Aumenta o alcance dos navios</String>
   </StringTable>
  
   <StringTable>
@@ -236,7 +236,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>DeepSpaceSupport_Dec</Label>
-    <String>Increases Ships Range</String>
+    <String>Aumenta o alcance dos navios</String>
   </StringTable>
  
   <StringTable>
@@ -245,7 +245,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>SupportFieldGenerator_Dec</Label>
-    <String>Increases Ships Range</String>
+    <String>Aumenta o alcance dos navios</String>
   </StringTable>
  
   <StringTable>
@@ -254,7 +254,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>StasisFieldGenerator_Dec</Label>
-    <String>Increases Ships Range</String>
+    <String>Aumenta o alcance dos navios</String>
   </StringTable>
  
   <StringTable>
@@ -263,7 +263,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AquaticSupport_Dec</Label>
-    <String>Increases Ships Range</String>
+    <String>Aumenta o alcance dos navios</String>
   </StringTable>
  
   <StringTable>
@@ -272,7 +272,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AquaticSupportSystem_Dec</Label>
-    <String>Increases Ships Range</String>
+    <String>Aumenta o alcance dos navios</String>
   </StringTable>
  
   <StringTable>
@@ -281,7 +281,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>LongRangeAquaticSupport_Dec</Label>
-    <String>Increases Ships Range</String>
+    <String>Aumenta o alcance dos navios</String>
   </StringTable>
  
   <StringTable>
@@ -290,7 +290,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>RecyclingAquaticSupport_Dec</Label>
-    <String>Increases Ships Range</String>
+    <String>Aumenta o alcance dos navios</String>
   </StringTable>
  
   <StringTable>
@@ -299,7 +299,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>LosslessAquaticSupport_Dec</Label>
-    <String>Increases Ships Range</String>
+    <String>Aumenta o alcance dos navios</String>
   </StringTable>
  
   <StringTable>
@@ -317,8 +317,8 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Lasers_Dec</Label>
-    <String>Increase Beam attack, highly accurate with a
-well balanced rate of fire and range</String>
+    <String>Aumente o ataque de feixe, altamente preciso com uma
+taxa de incêndio e alcance bem equilibrados</String>
   </StringTable>
  
   <StringTable>
@@ -327,8 +327,8 @@ well balanced rate of fire and range</String>
   </StringTable>
   <StringTable>
     <Label>ParticalBeam_Dec</Label>
-    <String>Increase Beam attack, highly accurate with a
-well balanced rate of fire and range</String>
+    <String>Aumente o ataque de feixe, altamente preciso com uma
+taxa de incêndio e alcance bem equilibrados</String>
   </StringTable>
  
   <StringTable>
@@ -337,8 +337,8 @@ well balanced rate of fire and range</String>
   </StringTable>
   <StringTable>
     <Label>Disrupters_Dec</Label>
-    <String>Increase Beam attack, highly accurate with a
-well balanced rate of fire and range</String>
+    <String>Aumente o ataque de feixe, altamente preciso com uma
+taxa de incêndio e alcance bem equilibrados</String>
   </StringTable>
  
   <StringTable>
@@ -347,8 +347,8 @@ well balanced rate of fire and range</String>
   </StringTable>
   <StringTable>
     <Label>Plasma_Dec</Label>
-    <String>Increase Beam attack, highly accurate with a
-well balanced rate of fire and range</String>
+    <String>Aumente o ataque de feixe, altamente preciso com uma
+taxa de incêndio e alcance bem equilibrados</String>
   </StringTable>
  
   <StringTable>
@@ -357,8 +357,8 @@ well balanced rate of fire and range</String>
   </StringTable>
   <StringTable>
     <Label>Phasors_Dec</Label>
-    <String>Increase Beam attack, highly accurate with a
-well balanced rate of fire and range</String>
+    <String>Aumente o ataque de feixe, altamente preciso com uma
+taxa de incêndio e alcance bem equilibrados</String>
   </StringTable>
  
   <StringTable>
@@ -367,8 +367,8 @@ well balanced rate of fire and range</String>
   </StringTable>
   <StringTable>
     <Label>DoomRay_Dec</Label>
-    <String>Increase Beam attack, highly accurate with a
-well balanced rate of fire and range</String>
+    <String>Aumente o ataque de feixe, altamente preciso com uma
+taxa de incêndio e alcance bem equilibradose</String>
   </StringTable>
  
   <StringTable>

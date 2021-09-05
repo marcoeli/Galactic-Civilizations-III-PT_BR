@@ -923,23 +923,23 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AwardTerranGunboat_Dec</Label>
-    <String>Mid range shootist, arrayed with kinetic weapons and armor. A mean, mean ship.</String>
+    <String>Atirador de médio alcance, armado com armas cinéticas e armadura. Um navio médio, médio.</String>
   </StringTable>
   <StringTable>
     <Label>AwardTerranSurvey_Name</Label>
-    <String>Survey</String>
+    <String>Pesquisa</String>
   </StringTable>
   <StringTable>
     <Label>AwardTerranSurvey_Dec</Label>
-    <String>A long ranged vessel suited for mapping the stars and running away from things.</String>
+    <String>Um navio de longo alcance adequado para mapear as estrelas e fugir das coisas.</String>
   </StringTable>
   <StringTable>
     <Label>AwardTerranFrigate_Name</Label>
-    <String>Frigate</String>
+    <String>Fragata</String>
   </StringTable>
   <StringTable>
     <Label>AwardTerranFrigate_Dec</Label>
-    <String>Medium size kinetic-warfare ship. The larger the slug-thrower, the larger the slugs.</String>
+    <String>Navio de guerra cinética de tamanho médio. Quanto maior o lança-foguetes, maiores as balas.</String>
   </StringTable>
   <StringTable>
     <Label>AwardTerranOverlord_Name</Label>
@@ -947,31 +947,31 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AwardTerranOverlord_Dec</Label>
-    <String>Large combat vessel, versatile in nature. For the indecisive who still wants a nice big stick.</String>
+    <String>Grande embarcação de combate, versátil na natureza. Para os indecisos que ainda querem um belo pau grande.</String>
   </StringTable>
   <StringTable>
     <Label>AwardTerranColony_Name</Label>
-    <String>Colony Ship</String>
+    <String>Nave Colônia</String>
   </StringTable>
   <StringTable>
     <Label>AwardTerranColony_Dec</Label>
-    <String>Large but fragile ship, equipped to colonize distant planets.</String>
+    <String>Nave grande, mas frágil, equipada para colonizar planetas distantes.</String>
   </StringTable>
   <StringTable>
     <Label>AwardTerranConstructor_Name</Label>
-    <String>Constructor</String>
+    <String>Construtor</String>
   </StringTable>
   <StringTable>
     <Label>AwardTerranConstructor_Dec</Label>
-    <String>Large but fragile ship capable of building starbases.</String>
+    <String>Navio grande, mas frágil, capaz de construir bases estelares.</String>
   </StringTable>
   <StringTable>
     <Label>AwardTerranFreighter_Name</Label>
-    <String>Freighter</String>
+    <String>Cargueiro</String>
   </StringTable>
   <StringTable>
     <Label>AwardTerranFreighter_Dec</Label>
-    <String>Large but fragile ship, Used to establish trade routes with distant worlds.</String>
+    <String>Navio grande, mas frágil, usado para estabelecer rotas comerciais com mundos distantes.</String>
   </StringTable>
   <StringTable>
     <Label>AwardTerranTransport_Name</Label>
@@ -979,7 +979,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AwardTerranTransport_Dec</Label>
-    <String>Large but fragile ship, packed with troops and vehicles, built to invade unfriendly planets.</String>
+    <String>Navio grande, mas frágil, repleto de tropas e veículos, construído para invadir planetas pouco amigáveis.</String>
   </StringTable>
   <StringTable>
     <Label>TutorialTerranStartingScout_Name</Label>
@@ -987,7 +987,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>TutorialTerranStartingScout_Dec</Label>
-    <String>Unarmed but quick, with excellent sensor range. It will lose every fight it gets into, so try not to get it into any.</String>
+    <String>Desarmado, mas rápido, com excelente alcance de sensor. Perderá cada luta em que se envolver, portanto, tente não entrar em nenhuma.</String>
   </StringTable>
   <StringTable>
     <Label>TutorialTerranStartingSurvey_Name</Label>
@@ -1011,7 +1011,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>TutorialTerranStartingCutter_Dec</Label>
-    <String>Mid range ship set up for beam weapons and shields. It's earned its name.</String>
+    <String>Nave de médio alcance configurada para armas de raios e escudos. Mereceu seu nome.</String>
   </StringTable>
   <StringTable>
     <Label>TutorialTerranStartingSniper_Name</Label>
@@ -1019,7 +1019,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>TutorialTerranStartingSniper_Dec</Label>
-    <String>Short range, and kitted out for beam combat. A nasty little slicer.</String>
+    <String>De curto alcance, e equipado para combate com feixes. Um fatiadorzinho desagradável.</String>
   </StringTable>
   <StringTable>
     <Label>TutorialTerranStartingBomber_Name</Label>
@@ -1027,7 +1027,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>TutorialTerranStartingBomber_Dec</Label>
-    <String>Short range, and set up for missile combat. A mean little torpedo boat.</String>
+    <String>Curto alcance, e preparado para o combate a mísseis. Um pequeno torpedeiro malvado.</String>
   </StringTable>
   <StringTable>
     <Label>TutorialTerranStartingGuardian_Name</Label>
@@ -1035,7 +1035,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>TutorialTerranStartingGuardian_Dec</Label>
-    <String>Short range, optimized for kinetic combat. An ornery little stone thrower.</String>
+    <String>Curto alcance, otimizado para o combate cinético. Um pequeno atirador de pedras ornamentais.</String>
   </StringTable>
   <StringTable>
     <Label>TutorialTerranStartingFrigate_Name</Label>
@@ -1043,7 +1043,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>TutorialTerranStartingFrigate_Dec</Label>
-    <String>Shorter range Frigate equipped with long range kinetic weapons. Never be outranged in a fight again.</String>
+    <String>Fragata de menor alcance equipada com armas cinéticas de longo alcance. Nunca mais será ultrapassada em uma luta.</String>
   </StringTable>
   <StringTable>
     <Label>TerranStartingConstructor_Name</Label>
@@ -1051,7 +1051,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>TerranStartingConstructor_Dec</Label>
-    <String>Large but fragile ship capable of building starbases.</String>
+    <String>Navio grande, mas frágil, capaz de construir bases estelares.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignTerranCrusader_Name</Label>
@@ -1059,7 +1059,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignTerranCrusader_Dec</Label>
-    <String>The Flag ship of the Terran 1st Fleet, and the most powerful ship ever created by the Terran Alliance</String>
+    <String>O Navio Bandeira da 1ª Frota Terrestre, e é o navio mais poderoso já criado pela Aliança Terrestre</String>
   </StringTable>
   <StringTable>
     <Label>CampaignTerranOverlord_Name</Label>
@@ -1067,7 +1067,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignTerranOverlord_Dec</Label>
-    <String>Large combat vessel, versatile in nature. For the indecisive who still wants a nice big stick.</String>
+    <String>Grande embarcação de combate, versátil na natureza. Para os indecisos que ainda querem um belo pau grande.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignTerranPaladin_Name</Label>
@@ -1075,7 +1075,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignTerranPaladin_Dec</Label>
-    <String>Medium size combat ship of balanced capabilities. Could form the backbone of any fleet.</String>
+    <String>Navio de combate de tamanho médio com capacidades equilibradas. Poderia formar a espinha dorsal de qualquer frota.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignTerranFury_Name</Label>
@@ -1083,7 +1083,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignTerranFury_Dec</Label>
-    <String>Medium range ship, capable of all forms of combat, though excelling at none. Still pretty tough though.</String>
+    <String>Navio de médio alcance, capaz de todas as formas de combate, embora não se destaque em nenhuma delas. Ainda assim, bastante resistente.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignTerranInterceptor_Name</Label>
@@ -1091,7 +1091,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignTerranInterceptor_Dec</Label>
-    <String>Short range combat vessel. It's versatile, with all the pros and cons that implies.</String>
+    <String>Navio de combate de curto alcance. É versátil, com todos os prós e contras que implica</String>
   </StringTable>
   <StringTable>
     <Label>CampaignTerranGuardian_Name</Label>
@@ -1099,7 +1099,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignTerranGuardian_Dec</Label>
-    <String>Short range, optimized for kinetic combat. An ornery little stone thrower.</String>
+    <String>Curto alcance, otimizado para o combate cinético. Um pequeno atirador de pedras ornamentais.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignTerranTransport_Name</Label>
@@ -1107,7 +1107,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignTerranTransport_Dec</Label>
-    <String>Large but fragile ship, packed with troops and vehicles, built to invade unfriendly planets.</String>
+    <String>Navio grande, mas frágil, repleto de tropas e veículos, construído para invadir planetas pouco amigáveis.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignTerranCruiser_Name</Label>
@@ -1115,7 +1115,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignTerranCruiser_Dec</Label>
-    <String>Large beam-combat platform capable of filling space with deadly, glittering colors.</String>
+    <String>Plataforma de combate de feixe grande capaz de preencher o espaço com cores mortíferas e brilhantes.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignTerranRanger_Name</Label>
@@ -1123,7 +1123,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignTerranRanger_Dec</Label>
-    <String>Medium size missile-warfare ship. Can put a lot of missiles into space very quickly.</String>
+    <String>Navio de guerra com mísseis de médio porte. Pode colocar um monte de mísseis no espaço muito rapidamente.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignTerranCutter_Name</Label>
@@ -1131,7 +1131,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignTerranCutter_Dec</Label>
-    <String>Mid range ship set up for beam weapons and shields. It's earned its name.</String>
+    <String>Nave de médio alcance configurada para armas de raios e escudos. Mereceu seu nome.</String>
   </StringTable>
   <StringTable>
     <Label>XendarCampaignDefenseTerranSniper_Name</Label>
@@ -1139,7 +1139,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>XendarCampaignDefenseTerranSniper_Dec</Label>
-    <String>Short range and kitted out for beam combat. A nasty little slicer.</String>
+    <String>Curto alcance e equipado para combate com feixes. Um fatiadorzinho desagradável.</String>
   </StringTable>
   <StringTable>
     <Label>XendarCampaignCampaignTerranCutter_Name</Label>
@@ -1147,7 +1147,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>XendarCampaignCampaignTerranCutter_Dec</Label>
-    <String>Mid range ship set up for beam weapons and shields. It's earned its name.</String>
+    <String>Nave de médio alcance configurada para armas de raios e escudos. Mereceu seu nome.</String>
   </StringTable>
   <StringTable>
     <Label>XendarCampaignTerranCorvette_Name</Label>
@@ -1155,7 +1155,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>XendarCampaignTerranCorvette_Dec</Label>
-    <String>Medium size beam-warfare ship. If you need a lot of things burnt very quickly, this is your ship.</String>
+    <String>Navio de médio porte para guerra de feixe. Se você precisar de muitas coisas queimadas muito rápido, este é o seu navio.</String>
   </StringTable>
   <StringTable>
     <Label>AF2CampaignTerranSniper_Name</Label>
@@ -1163,7 +1163,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AF2CampaignTerranSniper_Dec</Label>
-    <String>Short range and kitted out for beam combat. A nasty little slicer.</String>
+    <String>Curto alcance e equipado para combate com feixes. Um fatiadorzinho desagradável.</String>
   </StringTable>
   <StringTable>
     <Label>AF2CampaignTerranCutter_Name</Label>
@@ -1171,7 +1171,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AF2CampaignTerranCutter_Dec</Label>
-    <String>Mid range ship set up for beam weapons and shields. It's earned its name.</String>
+    <String>Nave de médio alcance configurada para armas de raios e escudos. Mereceu seu nome.</String>
   </StringTable>
   <StringTable>
     <Label>AF2CampaignTerranCorvette_Name</Label>
@@ -1179,7 +1179,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AF2CampaignTerranCorvette_Dec</Label>
-    <String>Medium size beam-warfare ship. If you need a lot of things burnt very quickly, this is your ship.</String>
+    <String>Navio de médio porte para guerra de feixe. Se você precisar de muitas coisas queimadas muito rápido, este é o seu navio.</String>
   </StringTable>
   <StringTable>
     <Label>DrenginScout_Name</Label>
@@ -1195,7 +1195,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>DrenginSniper_Dec</Label>
-    <String>Short range, and kitted out for beam combat. A nasty little slicer.</String>
+    <String>De curto alcance, e equipado para combate com feixes. Um fatiadorzinho desagradável.</String>
   </StringTable>
   <StringTable>
     <Label>ProtoTypeDrenginSniper_Name</Label>
@@ -1207,7 +1207,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AIDefenseDrenginSniper_Dec</Label>
-    <String>Short range and kitted out for beam combat. A nasty little slicer.</String>
+    <String>Curto alcance e equipado para combate com feixes. Um fatiadorzinho desagradável.</String>
   </StringTable>
   <StringTable>
     <Label>DrenginBomber_Name</Label>
@@ -1215,7 +1215,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>DrenginBomber_Dec</Label>
-    <String>Short range and set up for missile combat. A mean little torpedo boat.</String>
+    <String>Curto alcance e preparado para o combate a mísseis. Um pequeno torpedeiro malvado.</String>
   </StringTable>
   <StringTable>
     <Label>ProtoTypeDrenginBomber_Name</Label>
@@ -1227,7 +1227,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AIDefenseDrenginBomber_Dec</Label>
-    <String>Short range and set up for missile combat. A mean little torpedo boat.</String>
+    <String>Curto alcance e preparado para o combate a mísseis. Um pequeno torpedeiro malvado.</String>
   </StringTable>
   <StringTable>
     <Label>DrenginGuardian_Name</Label>
@@ -1235,7 +1235,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>DrenginGuardian_Dec</Label>
-    <String>Short range, optimized for kinetic combat. An ornery little stone thrower.</String>
+    <String>Curto alcance, otimizado para o combate cinético. Um pequeno atirador de pedras ornamentais.</String>
   </StringTable>
   <StringTable>
     <Label>ProtoTypeDrenginGuardian_Name</Label>
@@ -1251,7 +1251,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AIDefenseDrenginGuardian_Dec</Label>
-    <String>Short range, optimized for kinetic combat. An ornery little stone thrower.</String>
+    <String>Curto alcance, otimizado para o combate cinético. Um pequeno atirador de pedras ornamentais.</String>
   </StringTable>
   <StringTable>
     <Label>DrenginKnight_Name</Label>
@@ -1259,7 +1259,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>DrenginKnight_Dec</Label>
-    <String>Short range but versatile, Equipped with Thulium Hull Reinforcement, can really take a beating.</String>
+    <String>De curto alcance, mas versátil, Equipado com reforço de casco de túlio, pode realmente levar uma surra.</String>
   </StringTable>
   <StringTable>
     <Label>AIDefenseDrenginKnight_Name</Label>
@@ -1267,7 +1267,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AIDefenseDrenginKnight_Dec</Label>
-    <String>Short range but versatile, Equipped with Thulium Hull Reinforcement, can really take a beating.</String>
+    <String>De curto alcance, mas versátil, Equipado com reforço de casco de túlio, pode realmente levar uma surra.</String>
   </StringTable>
   <StringTable>
     <Label>DrenginAssaultFighter_Name</Label>
@@ -1275,7 +1275,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>DrenginAssaultFighter_Dec</Label>
-    <String>Fast and deadly, designed to get to the enemy fast and take out high value targets.</String>
+    <String>Rápido e mortal, projetado para chegar rapidamente ao inimigo e derrubar alvos de alto valor.</String>
   </StringTable>
   <StringTable>
     <Label>DrenginDroneInterceptor_Name</Label>
@@ -1283,7 +1283,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>DrenginDroneInterceptor_Dec</Label>
-    <String>Remotely piloted and designed for close range combat, and seeking out and destroying Enemy Support ships.</String>
+    <String>Pilotado remotamente e projetado para combate a curta distância, procurando e destruindo navios Inimigos de Suporte.</String>
   </StringTable>
   <StringTable>
     <Label>DrenginGuardianFighter_Name</Label>
@@ -1291,7 +1291,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>DrenginGuardianFighter_Dec</Label>
-    <String>Tiny but tuff, these drones will defend your support ships to the end, and not cost any lives.</String>
+    <String>Pequenos mas pesados, esses zangões defenderão seus navios de apoio até o fim, e não custarão nenhuma vida.</String>
   </StringTable>
   <StringTable>
     <Label>ProtoTypeDrenginSurvey_Name</Label>
@@ -1655,7 +1655,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDrenginDreadnought_Dec</Label>
-    <String>Gigantic vessel designed for kinetic warfare. Will lower property values anywhere it shows up.</String>
+    <String>Navio gigantesco projetado para a guerra cinética. Vai baixar os valores de propriedade em qualquer lugar que aparecer.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseDrenginDreadnought_Name</Label>
@@ -1663,7 +1663,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseDrenginDreadnought_Dec</Label>
-    <String>Gigantic vessel designed for kinetic warfare. Will lower property values anywhere it shows up.</String>
+    <String>Navio gigantesco projetado para a guerra cinética. Vai baixar os valores de propriedade em qualquer lugar que aparecer.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDrenginBattleship_Name</Label>
@@ -1671,7 +1671,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDrenginBattleship_Dec</Label>
-    <String>Large kinetic-combat platform, capable of delivering massive amounts of kinetic energy to things it doesn't like.</String>
+    <String>Grande plataforma de combate cinético, capaz de fornecer grandes quantidades de energia cinética para coisas das quais não gosta.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseDrenginBattleship_Name</Label>
@@ -1679,7 +1679,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseDrenginBattleship_Dec</Label>
-    <String>Large kinetic-combat platform, capable of delivering massive amounts of kinetic energy to things it doesn't like.</String>
+    <String>Grande plataforma de combate cinético, capaz de fornecer grandes quantidades de energia cinética para coisas das quais não gosta.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDrenginFrigate_Name</Label>
@@ -1687,7 +1687,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDrenginFrigate_Dec</Label>
-    <String>Medium size kinetic-warfare ship. The larger the slug-thrower, the larger the slugs.</String>
+    <String>Navio de guerra cinética de tamanho médio. Quanto maior o lança-foguetes, maiores as balas.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseDrenginFrigate_Name</Label>
@@ -1695,7 +1695,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseDrenginFrigate_Dec</Label>
-    <String>Medium size kinetic-warfare ship. The larger the slug-thrower, the larger the slugs.</String>
+    <String>Navio de guerra cinética de tamanho médio. Quanto maior o lança-foguetes, maiores as balas.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDrenginGunboat_Name</Label>
@@ -1703,7 +1703,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDrenginGunboat_Dec</Label>
-    <String>Mid range shootist, arrayed with kinetic weapons and armor. A mean, mean ship.</String>
+    <String>Atirador de médio alcance, armado com Armas Cinéticas e Armaduras. Um navio médio, médio.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseDrenginGunboat_Name</Label>
@@ -1711,7 +1711,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseDrenginGunboat_Dec</Label>
-    <String>Mid range shootist, arrayed with kinetic weapons and armor. A mean, mean ship.</String>
+    <String>Atirador de médio alcance, armado com Armas Cinéticas e Armaduras. Um navio médio, médio.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDrenginBomber_Name</Label>
@@ -1719,7 +1719,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDrenginBomber_Dec</Label>
-    <String>Short range, and set up for missile combat. A mean little torpedo boat.</String>
+    <String>Curto alcance, e preparado para o combate a mísseis. Um pequeno torpedeiro malvado.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDrengin_Name</Label>
@@ -1727,7 +1727,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDrengin_Dec</Label>
-    <String>Short range, optimized for kinetic combat. An ornery little stone thrower.</String>
+    <String>Curto alcance, otimizado para o combate cinético. Um pequeno atirador de pedras ornamentais.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseDrenginGuardian_Name</Label>
@@ -1735,7 +1735,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseDrenginGuardian_Dec</Label>
-    <String>Short range, optimized for kinetic combat. An ornery little stone thrower.</String>
+    <String>Curto alcance, otimizado para o combate cinético. Um pequeno atirador de pedras ornamentais.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDrenginConstructor_Name</Label>
@@ -1743,7 +1743,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDrenginConstructor_Dec</Label>
-    <String>Large but fragile ship capable of building starbases.</String>
+    <String>Navio grande, mas frágil, capaz de construir bases estelares.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignAssaultCarrier_Name</Label>
@@ -1751,7 +1751,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignAssaultCarrier_Dec</Label>
-    <String>A fragile ship that carries fast and deadly assault fighters that seek to destroy high value enemy targets.</String>
+    <String>Um navio frágil que transporta caças de assalto rápidos e mortais que procuram destruir alvos inimigos de alto valor.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignEscortCarrier_Name</Label>
@@ -1759,7 +1759,8 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignEscortCarrier_Dec</Label>
-    <String>A fragile ship that carries high defense escort fighters that will try and protect friendly high value targets.</String>
+    <String>Um navio frágil que transporta caças de assalto rápidos e mortais que procuram destruir alvos inimigos de alto valor.
+    </String>
   </StringTable>
   <StringTable>
     <Label>AltarianScout_Name</Label>
@@ -1795,7 +1796,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AIDefenseAltarianBomber_Dec</Label>
-    <String>Short range, and set up for missile combat. A mean little torpedo boat.</String>
+    <String>Curto alcance, e preparado para o combate a mísseis. Um pequeno torpedeiro malvado.</String>
   </StringTable>
   <StringTable>
     <Label>AltarianGuardian_Name</Label>
@@ -2191,7 +2192,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignAltarianSniper_Dec</Label>
-    <String>Short range, and kitted out for beam combat. A nasty little slicer.</String>
+    <String>De curto alcance, e equipado para combate com feixes. Um fatiadorzinho desagradável.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseAltarianSniper_Name</Label>
@@ -2199,7 +2200,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseAltarianSniper_Dec</Label>
-    <String>Short range, and kitted out for beam combat. A nasty little slicer.</String>
+    <String>De curto alcance, e equipado para combate com feixes. Um fatiadorzinho desagradável.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignAltarianCutter_Name</Label>
@@ -2207,7 +2208,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignAltarianCutter_Dec</Label>
-    <String>Mid range ship set up for beam weapons and shields. It's earned its name.</String>
+    <String>Nave de médio alcance configurada para armas de raios e escudos. Mereceu seu nome.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseAltarianCutter_Name</Label>
@@ -2219,7 +2220,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignAltarianCorvette_Dec</Label>
-    <String>Medium size beam-warfare ship. If you need a lot of things burnt very quickly, this is your ship.</String>
+    <String>Navio de médio porte para guerra de feixe. Se você precisar de muitas coisas queimadas muito rápido, este é o seu navio.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseAltarianCorvette_Name</Label>
@@ -2227,7 +2228,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseAltarianCorvette_Dec</Label>
-    <String>Medium size beam-warfare ship. If you need a lot of things burnt very quickly, this is your ship.</String>
+    <String>Navio de médio porte para guerra de feixe. Se você precisar de muitas coisas queimadas muito rápido, este é o seu navio.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignAltarianCruiser_Name</Label>
@@ -2235,7 +2236,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignAltarianCruiser_Dec</Label>
-    <String>Large beam-combat platform capable of filling space with deadly, glittering colors.</String>
+    <String>Plataforma de combate de feixe grande capaz de preencher o espaço com cores mortíferas e brilhantes.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseAltarianCruiser_Name</Label>
@@ -2243,7 +2244,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseAltarianCruiser_Dec</Label>
-    <String>Large beam-combat platform capable of filling space with deadly, glittering colors.</String>
+    <String>Plataforma de combate de feixe grande capaz de preencher o espaço com cores mortíferas e brilhantes.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignAltarianAvatar_Name</Label>
@@ -2251,7 +2252,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignAltarianAvatar_Dec</Label>
-    <String>Enormous vessel designed for beam combat. Doesn't play nice with others.</String>
+    <String>Enorme embarcação projetada para combate com feixes. Não brinca bem com os outros.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseAltarianAvatar_Name</Label>
@@ -2259,7 +2260,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseAltarianAvatar_Dec</Label>
-    <String>Enormous vessel designed for beam combat. Doesn't play nice with others.</String>
+    <String>Enorme embarcação projetada para combate com feixes. Não brinca bem com os outros.</String>
   </StringTable>
   <StringTable>
     <Label>AFStartingAltarianSniper_Name</Label>
@@ -2267,7 +2268,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AFStartingAltarianSniper_Dec</Label>
-    <String>Short range, and kitted out for beam combat. A nasty little slicer.</String>
+    <String>De curto alcance, e equipado para combate com feixes. Um fatiadorzinho desagradável.</String>
   </StringTable>
   <StringTable>
     <Label>AFDefenseAltarianSniper_Name</Label>
@@ -2275,7 +2276,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AFDefenseAltarianSniper_Dec</Label>
-    <String>Short range, and kitted out for beam combat. A nasty little slicer.</String>
+    <String>De curto alcance, e equipado para combate com feixes. Um fatiadorzinho desagradável.</String>
   </StringTable>
   <StringTable>
     <Label>AFStartingAltarianCutter_Name</Label>
@@ -2283,7 +2284,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AFStartingAltarianCutter_Dec</Label>
-    <String>Mid range ship set up for beam weapons and shields. It's earned its name.</String>
+    <String>Nave de médio alcance configurada para armas de raios e escudos. Mereceu seu nome.</String>
   </StringTable>
   <StringTable>
     <Label>AFDefenseAltarianCutter_Name</Label>
@@ -2291,7 +2292,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AFDefenseAltarianCutter_Dec</Label>
-    <String>Mid range ship set up for beam weapons and shields. It's earned its name.</String>
+    <String>Nave de médio alcance configurada para armas de raios e escudos. Mereceu seu nome.</String>
   </StringTable>
   <StringTable>
     <Label>AFStartingAltarianCorvette_Name</Label>
@@ -2299,7 +2300,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AFStartingAltarianCorvette_Dec</Label>
-    <String>Medium size beam-warfare ship. If you need a lot of things burnt very quickly, this is your ship.</String>
+    <String>Navio de médio porte para guerra de feixe. Se você precisar de muitas coisas queimadas muito rápido, este é o seu navio.</String>
   </StringTable>
   <StringTable>
     <Label>AFDefenseAltarianCorvette_Name</Label>
@@ -2307,7 +2308,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AFDefenseAltarianCorvette_Dec</Label>
-    <String>Medium size beam-warfare ship. If you need a lot of things burnt very quickly, this is your ship.</String>
+    <String>Navio de médio porte para guerra de feixe. Se você precisar de muitas coisas queimadas muito rápido, este é o seu navio.</String>
   </StringTable>
   <StringTable>
     <Label>AFStartingAltarianCruiser_Name</Label>
@@ -2319,7 +2320,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AFDefenseAltarianCruiser_Dec</Label>
-    <String>Large beam-combat platform capable of filling space with deadly, glittering colors.</String>
+    <String>Plataforma de combate de feixe grande capaz de preencher o espaço com cores mortíferas e brilhantes.</String>
   </StringTable>
   <StringTable>
     <Label>AFStartingAltarianAvatar_Name</Label>
@@ -2327,7 +2328,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AFStartingAltarianAvatar_Dec</Label>
-    <String>Enormous vessel designed for beam combat. Doesn't play nice with others.</String>
+    <String>Enorme embarcação projetada para combate com feixes. Não brinca bem com os outros.</String>
   </StringTable>
   <StringTable>
     <Label>AFDefenseAltarianAvatar_Name</Label>
@@ -2335,7 +2336,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AFDefenseAltarianAvatar_Dec</Label>
-    <String>Enormous vessel designed for beam combat. Doesn't play nice with others.</String>
+    <String>Enorme embarcação projetada para combate com feixes. Não brinca bem com os outros.</String>
   </StringTable>
   <StringTable>
     <Label>IridiumScout_Name</Label>
@@ -2767,7 +2768,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignIridiumBomber_Dec</Label>
-    <String>Short range, and set up for missile combat. A mean little torpedo boat.</String>
+    <String>Curto alcance, e preparado para o combate a mísseis. Um pequeno torpedeiro malvado.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseIridiumBomber_Name</Label>
@@ -2775,7 +2776,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseIridiumBomber_Dec</Label>
-    <String>Short range, and set up for missile combat. A mean little torpedo boat.</String>
+    <String>Curto alcance, e preparado para o combate a mísseis. Um pequeno torpedeiro malvado.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignIridiumDefender_Name</Label>
@@ -2799,7 +2800,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignIridiumRanger_Dec</Label>
-    <String>Medium size missile-warfare ship. Can put a lot of missiles into space very quickly.</String>
+    <String>Navio de guerra com mísseis de médio porte. Pode colocar um monte de mísseis no espaço muito rapidamente.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseIridiumRanger_Name</Label>
@@ -2807,7 +2808,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseIridiumRanger_Dec</Label>
-    <String>Medium size missile-warfare ship. Can put a lot of missiles into space very quickly.</String>
+    <String>Navio de guerra com mísseis de médio porte. Pode colocar um monte de mísseis no espaço muito rapidamente.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignIridiumDestroyer_Name</Label>
@@ -2815,7 +2816,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignIridiumDestroyer_Dec</Label>
-    <String>Large missile-combat platform capable of spewing forth clouds of deadly missiles.</String>
+    <String>Grande plataforma de combate a mísseis capaz de lançar nuvens de mísseis mortíferos.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseIridiumDestroyer_Name</Label>
@@ -2823,7 +2824,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseIridiumDestroyer_Dec</Label>
-    <String>Large missile-combat platform capable of spewing forth clouds of deadly missiles.</String>
+    <String>Grande plataforma de combate a mísseis capaz de lançar nuvens de mísseis mortíferos.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignIridiumFortress_Name</Label>
@@ -2831,7 +2832,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignIridiumFortress_Dec</Label>
-    <String>Massive vessel designed for missile combat. So, so many missiles.</String>
+    <String>Navio gigantesco projetado para o combate com mísseis. Portanto, tantos mísseis.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseIridiumFortress_Name</Label>
@@ -2839,7 +2840,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseIridiumFortress_Dec</Label>
-    <String>Massive vessel designed for missile combat. So, so many missiles.</String>
+    <String>Navio gigantesco projetado para o combate com mísseis. Portanto, tantos mísseis.</String>
   </StringTable>
   <StringTable>
     <Label>KrynnScout_Name</Label>
@@ -3267,7 +3268,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignKrynnGuardian_Dec</Label>
-    <String>Short range, optimized for kinetic combat. An ornery little stone thrower.</String>
+    <String>Curto alcance, otimizado para o combate cinético. Um pequeno atirador de pedras ornamentais.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseKrynnGuardian_Name</Label>
@@ -3275,7 +3276,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseKrynnGuardian_Dec</Label>
-    <String>Short range, optimized for kinetic combat. An ornery little stone thrower.</String>
+    <String>Curto alcance, otimizado para o combate cinético. Um pequeno atirador de pedras ornamentais.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignKrynnGunboat_Name</Label>
@@ -3283,7 +3284,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignKrynnGunboat_Dec</Label>
-    <String>Mid range shootist, arrayed with kinetic weapons and armor. A mean, mean ship.</String>
+    <String>Atirador de médio alcance, armado com Armas Cinéticas e Armaduras. Um navio médio, médio.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseKrynnGunboat_Name</Label>
@@ -3291,7 +3292,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseKrynnGunboat_Dec</Label>
-    <String>Mid range shootist, arrayed with kinetic weapons and armor. A mean, mean ship.</String>
+    <String>Atirador de médio alcance, armado com Armas Cinéticas e Armaduras. Um navio médio, médio.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignKrynnFrigate_Name</Label>
@@ -3307,7 +3308,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignKrynnBattleship_Dec</Label>
-    <String>Large kinetic-combat platform, capable of delivering massive amounts of kinetic energy to things it doesn't like.</String>
+    <String>Grande plataforma de combate cinético, capaz de fornecer grandes quantidades de energia cinética para coisas das quais não gosta.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseKrynnBattleship_Name</Label>
@@ -3315,7 +3316,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseKrynnBattleship_Dec</Label>
-    <String>Large kinetic-combat platform, capable of delivering massive amounts of kinetic energy to things it doesn't like.</String>
+    <String>Grande plataforma de combate cinético, capaz de fornecer grandes quantidades de energia cinética para coisas das quais não gosta.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignKrynnDreadnought_Name</Label>
@@ -3323,7 +3324,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignKrynnDreadnought_Dec</Label>
-    <String>Gigantic vessel designed for kinetic warfare. Will lower property values anywhere it shows up.</String>
+    <String>Navio gigantesco projetado para a guerra cinética. Vai baixar os valores de propriedade em qualquer lugar em que aparecer.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseKrynnDreadnought_Name</Label>
@@ -3331,7 +3332,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseKrynnDreadnought_Dec</Label>
-    <String>Gigantic vessel designed for kinetic warfare. Will lower property values anywhere it shows up.</String>
+    <String>Navio gigantesco projetado para a guerra cinética. Vai baixar os valores de propriedade em qualquer lugar em que aparecer.</String>
   </StringTable>
   <StringTable>
     <Label>YorScout_Name</Label>
@@ -4211,7 +4212,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>TutorialIconianStartingOverlord_Dec</Label>
-    <String>Large combat vessel, versatile in nature. For the indecisive who still wants a nice big stick.</String>
+    <String>Grande embarcação de combate, versátil na natureza. Para os indecisos que ainda querem um belo pau grande.</String>
   </StringTable>
   <StringTable>
     <Label>TutorialCargoIconianFreighter_Name</Label>
@@ -4219,7 +4220,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>TutorialCargoIconianFreighter_Dec</Label>
-    <String>Large but fragile ship, Used to establish trade routes with distant worlds.</String>
+    <String>Navio grande, mas frágil, usado para estabelecer rotas comerciais com mundos distantes.</String>
   </StringTable>
   <StringTable>
     <Label>ThalanScout_Name</Label>
@@ -4687,7 +4688,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignThalanConstructor_Dec</Label>
-    <String>Large but fragile ship capable of building starbases.</String>
+    <String>Navio grande, mas frágil, capaz de construir bases estelares.</String>
   </StringTable>
   <StringTable>
     <Label>ProtoTypePirateScout_Name</Label>
@@ -4811,7 +4812,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>TutorialPirateStartingFrigate_Dec</Label>
-    <String>Medium size kinetic-warfare ship. The larger the slug-thrower, the larger the slugs.</String>
+    <String>Navio de guerra cinética de tamanho médio. Quanto maior o lança-foguetes, maiores as balas.</String>
   </StringTable>
   <StringTable>
     <Label>PirateStartingSniper_Name</Label>
@@ -4819,7 +4820,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>PirateStartingSniper_Dec</Label>
-    <String>Short range, and kitted out for beam combat. A nasty little slicer.</String>
+    <String>De curto alcance, e equipado para combate com feixes. Um fatiadorzinho desagradável.</String>
   </StringTable>
   <StringTable>
     <Label>PirateStartingBomber_Name</Label>
@@ -4827,7 +4828,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>PirateStartingBomber_Dec</Label>
-    <String>Short range, and set up for missile combat. A mean little torpedo boat.</String>
+    <String>Curto alcance, e preparado para o combate a mísseis. Um pequeno torpedeiro malvado.</String>
   </StringTable>
   <StringTable>
     <Label>MegaPirateFrigate_Name</Label>
@@ -4835,7 +4836,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>MegaPirateFrigate_Dec</Label>
-    <String>Medium size kinetic-warfare ship. The larger the slug-thrower, the larger the slugs.</String>
+    <String>Navio de guerra cinética de tamanho médio. Quanto maior o lança-foguetes, maiores as balas.</String>
   </StringTable>
   <StringTable>
     <Label>MegaPirateOverlord_Name</Label>
@@ -4843,7 +4844,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>MegaPirateOverlord_Dec</Label>
-    <String>Large combat vessel, versatile in nature. For the indecisive who still wants a nice big stick.</String>
+    <String>Grande embarcação de combate, versátil na natureza. Para os indecisos que ainda querem um belo pau grande.</String>
   </StringTable>
   <StringTable>
     <Label>PirateSpaceMonsterDreadnought_Name</Label>
@@ -5275,7 +5276,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>ArceanScout_Dec</Label>
-    <String>Unarmed but quick, with excellent Sensor Range. It will lose every fight it gets into, so try not to get it into any.</String>
+    <String>Desarmado, mas rápido, com excelente alcance de sensor. Perderá cada luta em que se envolver, portanto, tente não entrar em nenhuma.</String>
   </StringTable>
   <StringTable>
     <Label>ProtoTypeArceanScout_Name</Label>
@@ -5287,7 +5288,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>ArceanSniper_Dec</Label>
-    <String>Short range and kitted out for beam combat. A nasty little slicer.</String>
+    <String>Curto alcance e equipado para combate com feixes. Um fatiadorzinho desagradável.</String>
   </StringTable>
   <StringTable>
     <Label>ProtoTypeArceanSniper_Name</Label>
@@ -5315,7 +5316,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>ArceanGuardian_Dec</Label>
-    <String>Short-range, optimized for kinetic combat. An ornery little stone thrower.</String>
+    <String>Curto alcance, otimizado para o combate cinético. Um pequeno atirador de pedras ornamentais.</String>
   </StringTable>
   <StringTable>
     <Label>ProtoTypeArceanGuardian_Name</Label>
@@ -5323,7 +5324,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>ProtoTypeArceanGuardian_Dec</Label>
-    <String>Short-range but equipped with a Prototype Durantium Driver.</String>
+    <String>Curto alcance, mas equipado com um Protótipo de Driver Durantium.</String>
   </StringTable>
   <StringTable>
     <Label>AIDefenseArceanGuardian_Name</Label>
@@ -5331,7 +5332,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AIDefenseArceanGuardian_Dec</Label>
-    <String>Short-range, optimized for kinetic combat. An ornery little stone thrower.</String>
+    <String>Curto alcance, otimizado para o combate cinético. Um pequeno atirador de pedras ornamentais.</String>
   </StringTable>
   <StringTable>
     <Label>ArceanKnight_Name</Label>
@@ -5355,7 +5356,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>ArceanGuardianFighter_Dec</Label>
-    <String>Tiny but tough, these drones will defend your Support Ships to the end.</String>
+    <String>Pequenos mas resistentes, estes drones defenderão seus navios de suporte até o fim.</String>
   </StringTable>
   <StringTable>
     <Label>ProtoTypeArceanSurvey_Name</Label>
@@ -5367,7 +5368,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>ArceanCutter_Dec</Label>
-    <String>Mid range ship set up for Beam Weapons and Shields. It's earned its name.</String>
+    <String>Nave de médio alcance configurada para armas de raios e escudos. Mereceu seu nome.</String>
   </StringTable>
   <StringTable>
     <Label>ProtoTypeArceanCutter_Name</Label>
@@ -5375,7 +5376,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>ProtoTypeArceanCutter_Dec</Label>
-    <String>Mid range ship set up for Beam Weapons and Shields. It's earned its name.</String>
+    <String>Nave de médio alcance configurada para armas de raios e escudos. Mereceu seu nome.</String>
   </StringTable>
   <StringTable>
     <Label>ArceanCutterL_Name</Label>
@@ -5387,7 +5388,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AIDefenseArceanCutter_Dec</Label>
-    <String>Mid range ship set up for Beam Weapons and Shields. It's earned its name.</String>
+    <String>Nave de médio alcance configurada para armas de raios e escudos. Mereceu seu nome.</String>
   </StringTable>
   <StringTable>
     <Label>ArceanDefender_Name</Label>
@@ -5395,7 +5396,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>ArceanDefender_Dec</Label>
-    <String>Mid range missile boat, set up with Point Defenses. Packs a punch.</String>
+    <String>Navio de mísseis de médio alcance, montado com Defesas Pontuais. Dá um soco.</String>
   </StringTable>
   <StringTable>
     <Label>ProtoTypeArceanDefender_Name</Label>
@@ -5403,7 +5404,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>ProtoTypeArceanDefender_Dec</Label>
-    <String>Mid range missile boat, set up with Point Defenses. Packs a punch.</String>
+    <String>Navio de mísseis de médio alcance, montado com Defesas Pontuais. Dá um soco.</String>
   </StringTable>
   <StringTable>
     <Label>AIDefenseArceanDefender_Name</Label>
@@ -5423,7 +5424,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>ArceanGunboat_Dec</Label>
-    <String>Mid range shootist, arrayed with Kinetic Weapons and armor. A mean, mean ship.</String>
+    <String>Atirador de médio alcance, armado com Armas Cinéticas e Armaduras. Um navio médio, médio.</String>
   </StringTable>
   <StringTable>
     <Label>ProtoTypeArceanGunboat_Name</Label>
@@ -5431,7 +5432,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>ProtoTypeArceanGunboat_Dec</Label>
-    <String>Mid range shootist, arrayed with Kinetic Weapons and armor. A mean, mean ship.</String>
+    <String>Atirador de médio alcance, armado com Armas Cinéticas e Armaduras. Um navio médio, médio.</String>
   </StringTable>
   <StringTable>
     <Label>ArceanGunboatL_Name</Label>
@@ -5443,7 +5444,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AIDefenseArceanGunboat_Dec</Label>
-    <String>Mid range shootist, arrayed with Kinetic Weapons and armor. A mean, mean ship.</String>
+    <String>Atirador de médio alcance, armado com Armas Cinéticas e Armaduras. Um navio médio, médio.</String>
   </StringTable>
   <StringTable>
     <Label>ArceanFury_Name</Label>
@@ -5463,7 +5464,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>HeavyArceanSurvey_Dec</Label>
-    <String>A Better armed and armored survey ship, for when discovery gets dangerous. </String>
+    <String>Um navio de inspeção melhor armado e blindado, para quando a descoberta se tornar perigosa. </String>
   </StringTable>
   <StringTable>
     <Label>ArceanCorvette_Name</Label>
@@ -5695,7 +5696,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>ArceanKineticSupport_Dec</Label>
-    <String>Provides fleet-wide  Kinetic Weapons and armor for the boost they need to win against all odds.</String>
+    <String>Fornece armas cinéticas e armaduras para toda a frota proporcionando o impulso de que precisam para vencer contra todas as probabilidades.</String>
   </StringTable>
   <StringTable>
     <Label>ArceanStartingScout_Name</Label>
@@ -5703,7 +5704,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>ArceanStartingScout_Dec</Label>
-    <String>Unarmed but quick, with excellent Sensor Range. It will lose every fight it gets into, so try not to get it into any.</String>
+    <String>Desarmado, mas rápido, com excelente alcance de sensor. Perderá cada luta em que se envolver, portanto, tente não entrar em nenhuma.</String>
   </StringTable>
   <StringTable>
     <Label>ArceanStartingSurvey_Name</Label>
@@ -5719,7 +5720,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AwardArceanScout_Dec</Label>
-    <String>Unarmed but quick, with excellent Sensor Range. It will lose every fight it gets into, so try not to get it into any.</String>
+    <String>Desarmado, mas rápido, com excelente alcance de sensor. Perderá cada luta em que se envolver, portanto, tente não entrar em nenhuma.</String>
   </StringTable>
   <StringTable>
     <Label>AwardArceanCutter_Name</Label>
@@ -5727,7 +5728,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AwardArceanCutter_Dec</Label>
-    <String>Mid range ship set up for Beam Weapons and Shields. It's earned its name.</String>
+    <String>Nave de médio alcance configurada para armas de raios e escudos. Mereceu seu nome.</String>
   </StringTable>
   <StringTable>
     <Label>AwardArceanDefender_Name</Label>
@@ -5739,7 +5740,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AwardArceanGunboat_Dec</Label>
-    <String>Mid range shootist, arrayed with  Kinetic Weapons and armor. A mean, mean ship.</String>
+    <String>Atirador de médio alcance, armado com Armas Cinéticas e Armaduras. Um navio médio, médio.</String>
   </StringTable>
   <StringTable>
     <Label>AwardArceanSurvey_Name</Label>
@@ -5775,7 +5776,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignArceanBomber_Dec</Label>
-    <String>Short range and set up for missile combat. A mean little torpedo boat.</String>
+    <String>Curto alcance e preparado para o combate a mísseis. Um pequeno torpedeiro malvado.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseArceanBomber_Name</Label>
@@ -5783,7 +5784,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseArceanBomber_Dec</Label>
-    <String>Short range and set up for missile combat. A mean little torpedo boat.</String>
+    <String>Curto alcance e preparado para o combate a mísseis. Um pequeno torpedeiro malvado.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignArceanDefender_Name</Label>
@@ -5807,7 +5808,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignArceanDestroyer_Dec</Label>
-    <String>Destroyer designed for long range combat. Very difficult to get close enough to hurt it.</String>
+    <String>Contratorpedeiro projetado para combate a longa distância. Muito difícil de chegar perto o suficiente para machucá-lo.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseArceanDestroyer_Name</Label>
@@ -5815,7 +5816,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseArceanDestroyer_Dec</Label>
-    <String>Destroyer designed for long range combat. Very difficult to get close enough to hurt it.</String>
+    <String>Contratorpedeiro projetado para combate a longa distância. Muito difícil de chegar perto o suficiente para machucá-lo.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignDefenseArceanConstuctor_Name</Label>
@@ -5827,7 +5828,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignArceanCargo_Dec</Label>
-    <String>Large but fragile ship, Used to establish trade routes with distant worlds.</String>
+    <String>Navio grande, mas frágil, usado para estabelecer rotas comerciais com mundos distantes.</String>
   </StringTable>
   <StringTable>
     <Label>TorianScout_Name</Label>
@@ -6255,7 +6256,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignTorianBattleship_Dec</Label>
-    <String>Large kinetic-combat platform, capable of delivering massive amounts of kinetic energy to things it doesn't like.</String>
+    <String>Grande plataforma de combate cinético, capaz de fornecer grandes quantidades de energia cinética para coisas das quais não gosta.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignTorianFrigate_Name</Label>
@@ -6263,7 +6264,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CampaignTorianFrigate_Dec</Label>
-    <String>Medium size kinetic-warfare ship. The larger the slug-thrower, the larger the slugs.</String>
+    <String>Navio de guerra cinética de tamanho médio. Quanto maior o lança-foguetes, maiores as balas.</String>
   </StringTable>
   <StringTable>
     <Label>CampaignTorianGunboat_Name</Label>
@@ -6323,11 +6324,11 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>UnitedEarthTransport_Name</Label>
-    <String>Transport</String>
+    <String>Transporte</String>
   </StringTable>
   <StringTable>
     <Label>UnitedEarthTransport_Dec</Label>
-    <String>Large but fragile ship, packed with troops and vehicles, built to invade unfriendly planets.</String>
+    <String>Navio grande, mas frágil, repleto de tropas e veículos, construído para invadir planetas pouco amigáveis.</String>
   </StringTable>
   <StringTable>
     <Label>UnitedEarthFreighter_Name</Label>
@@ -6335,7 +6336,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>UnitedEarthFreighter_Dec</Label>
-    <String>Large but fragile ship, Used to establish trade routes with distant worlds.</String>
+    <String>Navio grande, mas frágil, usado para estabelecer rotas comerciais com mundos distantes.</String>
   </StringTable>
   <StringTable>
     <Label>UnitedEarthStartingScout_Name</Label>
@@ -6355,7 +6356,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>UnitedEarthCampaignUnitedEarthGuardian_Dec</Label>
-    <String>Short-range, optimized for kinetic combat. An ornery little stone thrower.</String>
+    <String>Curto alcance, otimizado para o combate cinético. Um pequeno atirador de pedras ornamentais.</String>
   </StringTable>
   <StringTable>
     <Label>UnitedEarthCampaignAIDefenseUnitedEarthGuardian_Name</Label>
@@ -6363,7 +6364,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>UnitedEarthCampaignAIDefenseUnitedEarthGuardian_Dec</Label>
-    <String>Short-range, optimized for kinetic combat. An ornery little stone thrower.</String>
+    <String>Curto alcance, otimizado para o combate cinético. Um pequeno atirador de pedras ornamentais.</String>
   </StringTable>
   <StringTable>
     <Label>UnitedEarthCampaignUnitedEarthGunboat_Name</Label>
@@ -6371,7 +6372,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>UnitedEarthCampaignUnitedEarthGunboat_Dec</Label>
-    <String>Mid range shootist, arrayed with Kinetic Weapons and armor. A mean, mean ship.</String>
+    <String>Atirador de médio alcance, armado com Armas Cinéticas e Armaduras. Um navio médio, médio.</String>
   </StringTable>
   <StringTable>
     <Label>UnitedEarthCampaignAIDefenseUnitedEarthGunboat_Name</Label>
@@ -6379,7 +6380,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>UnitedEarthCampaignAIDefenseUnitedEarthGunboat_Dec</Label>
-    <String>Mid range shootist, arrayed with Kinetic Weapons and armor. A mean, mean ship.</String>
+    <String>Atirador de médio alcance, armado com Armas Cinéticas e Armaduras. Um navio médio, médio.</String>
   </StringTable>
   <StringTable>
     <Label>UnitedEarthCampaignUnitedEarthFrigate_Name</Label>
@@ -6387,7 +6388,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>UnitedEarthCampaignAIDefenseUnitedEarthFrigate_Name</Label>
-    <String>Frigate</String>
+    <String>Fragata</String>
   </StringTable>
   <StringTable>
     <Label>UnitedEarthCampaignTransport_Name</Label>
@@ -6395,7 +6396,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>UnitedEarthCampaignTransport_Dec</Label>
-    <String>Large but fragile ship, packed with troops and vehicles, built to invade unfriendly planets.</String>
+    <String>Navio grande, mas frágil, repleto de tropas e veículos, construído para invadir planetas pouco amigáveis.</String>
   </StringTable>
   <StringTable>
     <Label>XendarCampaignDefenseUnitedEarthSniper_Name</Label>
@@ -6403,7 +6404,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>XendarCampaignDefenseUnitedEarthSniper_Dec</Label>
-    <String>Short range and kitted out for beam combat. A nasty little slicer.</String>
+    <String>Curto alcance e equipado para combate com feixes. Um fatiadorzinho desagradável.</String>
   </StringTable>
   <StringTable>
     <Label>XendarCampaignCampaignUnitedEarthCutter_Name</Label>
@@ -6411,7 +6412,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>XendarCampaignCampaignUnitedEarthCutter_Dec</Label>
-    <String>Mid range ship set up for beam weapons and shields. It's earned its name.</String>
+    <String>Nave de médio alcance configurada para armas de raios e escudos. Mereceu seu nome.</String>
   </StringTable>
   <StringTable>
     <Label>XendarCampaignUnitedEarthCorvette_Name</Label>
@@ -6419,7 +6420,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>XendarCampaignUnitedEarthCorvette_Dec</Label>
-    <String>Medium size beam-warfare ship. If you need a lot of things burnt very quickly, this is your ship.</String>
+    <String>Navio de médio porte para guerra de feixe. Se você precisar de muitas coisas queimadas muito rápido, este é o seu navio.</String>
   </StringTable>
   <StringTable>
     <Label>KorxStartingScout_Name</Label>
@@ -6439,7 +6440,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AFStartingKorxSniper_Dec</Label>
-    <String>Short range and kitted out for beam combat. A nasty little slicer.</String>
+    <String>Curto alcance e equipado para combate com feixes. Um fatiadorzinho desagradável.</String>
   </StringTable>
   <StringTable>
     <Label>AFDefenseKorxSniper_Name</Label>
@@ -6447,7 +6448,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AFDefenseKorxSniper_Dec</Label>
-    <String>Short range and kitted out for beam combat. A nasty little slicer.</String>
+    <String>Curto alcance e equipado para combate com feixes. Um fatiadorzinho desagradável.</String>
   </StringTable>
   <StringTable>
     <Label>AFStartingKorxCutter_Name</Label>
@@ -6987,7 +6988,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>PeacekeeperSniper_Dec</Label>
-    <String>Peace must be maintained.</String>
+    <String>A paz deve ser mantida.</String>
   </StringTable>
   <StringTable>
     <Label>PeacekeeperCutter_Name</Label>
@@ -6995,7 +6996,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>PeacekeeperCutter_Dec</Label>
-    <String>Peace must be maintained.</String>
+    <String>A paz deve ser mantida.</String>
   </StringTable>
   <StringTable>
     <Label>PeacekeeperCorvette_Name</Label>
@@ -7003,7 +7004,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>PeacekeeperCorvette_Dec</Label>
-    <String>Peace must be maintained.</String>
+    <String>A paz deve ser mantida.</String>
   </StringTable>
   <StringTable>
     <Label>PeacekeeperCruiser_Name</Label>
@@ -7011,7 +7012,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>PeacekeeperCruiser_Dec</Label>
-    <String>Peace must be maintained.</String>
+    <String>A paz deve ser mantida.</String>
   </StringTable>
   <StringTable>
     <Label>PeacekeeperAvatar_Name</Label>
@@ -7019,7 +7020,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>PeacekeeperAvatar_Dec</Label>
-    <String>Peace must be maintained.</String>
+    <String>A paz deve ser mantida.</String>
   </StringTable>
   <StringTable>
     <Label>WardenSmall_Name</Label>
@@ -7051,7 +7052,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>SnathiCampaignTerranOverlord_Dec</Label>
-    <String>Large combat vessel, versatile in nature. For the indecisive who still wants a nice big stick.</String>
+    <String>Grande embarcação de combate, versátil na natureza. Para os indecisos que ainda querem um belo pau grande.</String>
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip01_Name</Label>
@@ -7059,7 +7060,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip01_Dec</Label>
-    <String>The Survey Ship of the Mercenary Boric the Quick.
+    <String>O Navio de Pesquisa do Mercenary Boric the Quick.
 </String>
   </StringTable>
   <StringTable>
@@ -7068,7 +7069,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip02_Dec</Label>
-    <String>The long range Survey Ship of the Mercenary Adrastos Vanya.
+    <String>O navio de pesquisa de longo alcance do Mercenary Adrastos Vanya.
 </String>
   </StringTable>
   <StringTable>
@@ -7077,7 +7078,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip03_Dec</Label>
-    <String>The armed survey and range-boosting Support Ship of the Mercenary Cain Rhuin.
+    <String>O Navio de Pesquisa Armada e de Apoio ao Ataque do Mercenary Cain Rhuin.
 </String>
   </StringTable>
   <StringTable>
@@ -7086,7 +7087,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip04_Dec</Label>
-    <String>The armed Survey Ship of the Mercenary Mirazu Ysen.
+    <String>O Navio de Pesquisa armado do Mercenário Mirazu Ysen.
 </String>
   </StringTable>
   <StringTable>
@@ -7095,7 +7096,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip05_Dec</Label>
-    <String>The pirate repelling scout ship of the Mercenary LL'anso.
+    <String>O navio batedor repelente de piratas do Mercenario LL'anso.
 </String>
   </StringTable>
   <StringTable>
@@ -7104,7 +7105,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip06_Dec</Label>
-    <String>The fast and far-ranging scout ship of the Mercenary Arratic Ken.
+    <String>O navio batedor rápido e longínquo do Mercenary Arratic Ken.
 </String>
   </StringTable>
   <StringTable>
@@ -7113,7 +7114,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip07_Dec</Label>
-    <String>The far-seeing scout ship of the Mercenary Sizzor Thane.
+    <String>O navio batedor de longo curso do Mercenary Sizzor Thane.
 </String>
   </StringTable>
   <StringTable>
@@ -7122,7 +7123,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip08_Dec</Label>
-    <String>The mining ship of the Mercenary Blandon Xute.</String>
+    <String>O navio mineiro da Mercenary Blandon Xute.</String>
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip09_Name</Label>
@@ -7130,7 +7131,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip09_Dec</Label>
-    <String>The cultural envoy ship of the Mercenary Pizzota of Karn.
+    <String>O navio emissário cultural da Mercenary Pizzota de Karn.
 </String>
   </StringTable>
   <StringTable>
@@ -7139,7 +7140,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip10_Dec</Label>
-    <String>The administrative ship of the Mercenary Retuio III.
+    <String>O navio administrativo do Mercenary Retuio III.
 </String>
   </StringTable>
   <StringTable>
@@ -7148,7 +7149,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip11_Dec</Label>
-    <String>The long range Colony Ship of the Mercenary Dr. Angekio Zi.
+    <String>O navio colônia de longa distância do Mercenário Dr. Angekio Zi.
 </String>
   </StringTable>
   <StringTable>
@@ -7157,7 +7158,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip12_Dec</Label>
-    <String>The well equipped Colony Ship of the Mercenary Bin Beebo.
+    <String>O bem equipado Navio Colônia do Mercenary Bin Beebo.
 </String>
   </StringTable>
   <StringTable>
@@ -7166,7 +7167,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip13_Dec</Label>
-    <String>The oversized Transport Ship of the Mercenary Wassaloo.
+    <String>O navio de transporte superdimensionado do Mercenary Wassaloo.
 </String>
   </StringTable>
   <StringTable>
@@ -7175,7 +7176,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip14_Dec</Label>
-    <String>The Constructor Ship of the Mercenary Draedilik the Builder.
+    <String>O Navio Construtor do Mercenary Draedilik, o Construtor.
 </String>
   </StringTable>
   <StringTable>
@@ -7184,7 +7185,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip15_Dec</Label>
-    <String>The unarmed harvester of the Mercenary Avatar-278.
+    <String>A colheitadeira desarmada do Mercenary Avatar-278.
 </String>
   </StringTable>
   <StringTable>
@@ -7193,7 +7194,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip16_Dec</Label>
-    <String>The refinery ship of the Mercenary T'y't'n'lp.
+    <String>O navio refinaria do Mercenário T'y't'n'lp.
 </String>
   </StringTable>
   <StringTable>
@@ -7202,7 +7203,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip17_Dec</Label>
-    <String>The science ship of the Mercenary Crane.
+    <String>O navio científico do Mercenary Crane.
 </String>
   </StringTable>
   <StringTable>
@@ -7211,7 +7212,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip18_Dec</Label>
-    <String>The raucous party barge of the Mercenary Annjeanette Sil.
+    <String>A barcaça da Mercenary Annjeanette Sil.
 </String>
   </StringTable>
   <StringTable>
@@ -7220,7 +7221,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip19_Dec</Label>
-    <String>The trading barge of the Mercenary Friendly Mike.
+    <String>A barcaça comercial do Mercenary Friendly Mike.
 </String>
   </StringTable>
   <StringTable>
@@ -7229,7 +7230,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip20_Dec</Label>
-    <String>The tiny and elusive warship of the Mercenary Silvainout.
+    <String>O minúsculo e elusivo navio de guerra Mercenary Silvainout.
 </String>
   </StringTable>
   <StringTable>
@@ -7238,7 +7239,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip21_Dec</Label>
-    <String>The small but sturdy warship of the Mercenary Qualen Dohg.
+    <String>O pequeno mas robusto navio de guerra da Mercenario Qualen Dohg.
 </String>
   </StringTable>
   <StringTable>
@@ -7247,7 +7248,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip22_Dec</Label>
-    <String>The small and beam resistant warship of the Mercenary Prince Viturian.
+    <String>O pequeno e resistente navio de guerra do Príncipe Mercenário Vituriano.
 </String>
   </StringTable>
   <StringTable>
@@ -7256,7 +7257,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip23_Dec</Label>
-    <String>The small and remarkably sturdy warship of the Mercenary Zeek the Meek.
+    <String>O pequeno e notavelmente robusto navio de guerra dos Mercenários Zeek, os Mansos.
 </String>
   </StringTable>
   <StringTable>
@@ -7265,16 +7266,16 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip24_Dec</Label>
-    <String>The effective missile warship of the Mercenary Tad Stormbringer.
+    <String>O efetivo navio de guerra antimíssil do Mercenary Tad Stormbringer.
 </String>
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip25_Name</Label>
-    <String>The Fist of the Sun</String>
+    <String>O Primeiro do Sol</String>
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip25_Dec</Label>
-    <String>The warship of the Mercenary Lain.
+    <String>O navio de guerra da Mercenary Lain.
 </String>
   </StringTable>
   <StringTable>
@@ -7283,7 +7284,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier1MercenaryShip26_Dec</Label>
-    <String>The Beam Support Ship of the Mercenary Ser Manx of Kaul.
+    <String>O navio de apoio de feixe do Mercenary Ser Manx de Kaul.
 </String>
   </StringTable>
   <StringTable>
@@ -7292,7 +7293,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip01_Dec</Label>
-    <String>The incredible Survey Ship of the Mercenary Reef Farseer.
+    <String>O incrível Navio de Pesquisa do Mercenary Reef Farseer.
 </String>
   </StringTable>
   <StringTable>
@@ -7301,7 +7302,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip02_Dec</Label>
-    <String>The incredibly resilient Colony Ship of the Mercenary Kootu Erji.
+    <String>O navio colônia incrivelmente resistente do Mercenary Kootu Erji.
 </String>
   </StringTable>
   <StringTable>
@@ -7310,7 +7311,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip03_Dec</Label>
-    <String>The powerful Constructor Ship of the Mercenary Witensa Lamiak.
+    <String>O poderoso Navio Construtor da mercenária Witensa Lamiak.
 </String>
   </StringTable>
   <StringTable>
@@ -7319,7 +7320,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip04_Dec</Label>
-    <String>The Constructor Ship of the influential Mercenary Yshua of Antarzea.
+    <String>O Navio Construtor do influente Mercenário Yshua de Antarzea.
 </String>
   </StringTable>
   <StringTable>
@@ -7328,7 +7329,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip05_Dec</Label>
-    <String>The freighter of the resilient mercenary Fitrios Pompados.
+    <String>O cargueiro do resiliente mercenário Fitrios Pompados.
 </String>
   </StringTable>
   <StringTable>
@@ -7337,7 +7338,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip06_Dec</Label>
-    <String>The Precursor-researching science ship of the Mercenary Dr. Jondi Ians.
+    <String>O navio de ciência Precursor-pesquisador do Mercenário Dr. Jondi Ians.
 </String>
   </StringTable>
   <StringTable>
@@ -7346,7 +7347,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip07_Dec</Label>
-    <String>The approval boosting planetary Support Ship of the Mercenary Inquisitor.
+    <String>O navio de apoio planetário do Mercenary Inquisitor.
 </String>
   </StringTable>
   <StringTable>
@@ -7355,7 +7356,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip08_Dec</Label>
-    <String>The economy boosting planetary Support Ship of the Mercenary Kalli Datun.
+    <String>O navio de apoio planetário da Mercenary Kalli Datun, que impulsiona a economia.
 </String>
   </StringTable>
   <StringTable>
@@ -7364,7 +7365,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip09_Dec</Label>
-    <String>The research boosting planetary Support Ship of the Mercenary Melkiur Savante.
+    <String>O navio de apoio planetário de pesquisa do Mercenary Melkiur Savante.
 </String>
   </StringTable>
   <StringTable>
@@ -7373,7 +7374,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip10_Dec</Label>
-    <String>The influence boosting planetary Support Ship of the Mercenary Ghhhhhhsk.
+    <String>Navio de apoio planetário que aumentam a influência do Mercenary Ghhhhhhsk.
 </String>
   </StringTable>
   <StringTable>
@@ -7382,7 +7383,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip11_Dec</Label>
-    <String>The influence boosting planetary Support Ship of the Mercenary Master of Tongues.
+    <String>Navio de apoio planetário que aumentam a influência do Mercenary Master of Tongues.
 </String>
   </StringTable>
   <StringTable>
@@ -7391,7 +7392,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip12_Dec</Label>
-    <String>The warship of the brutal and malevolent Mercenary LL-88.
+    <String>O navio de guerra do brutal e malévolo Mercenário LL-88.
 </String>
   </StringTable>
   <StringTable>
@@ -7400,7 +7401,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip13_Dec</Label>
-    <String>The elusive beam warship of the Mercenary The Lash of Kypriat.
+    <String>O esquivo navio de guerra de feixe  do Mercenário A Chibatada de Kypriat.
 </String>
   </StringTable>
   <StringTable>
@@ -7409,7 +7410,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip14_Dec</Label>
-    <String>The fast and far-reaching Mass Driver warship of the Mercenary Basilisk.
+    <String>O rápido e abrangente navio de guerra driver de massa do Mercenary Basilisk.
 </String>
   </StringTable>
   <StringTable>
@@ -7418,7 +7419,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip15_Dec</Label>
-    <String>The drone-carrying carrier of the Mercenary Spinn.</String>
+    <String>O transporte de drones do Mercenary Spinn.</String>
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip16_Name</Label>
@@ -7426,7 +7427,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip16_Dec</Label>
-    <String>The powerful missile warship of the Mercenary Admiral Waro.
+    <String>O poderoso navio de guerra de mísseis do Almirante Mercenário Waro.
 </String>
   </StringTable>
   <StringTable>
@@ -7435,7 +7436,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip17_Dec</Label>
-    <String>The powerful beam warship of the Mercenary, The Night Fist.
+    <String>O poderoso navio de guerra de feixe do Mercenário, The Night Fist.
 </String>
   </StringTable>
   <StringTable>
@@ -7444,7 +7445,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip18_Dec</Label>
-    <String>The speed boosting Support Ship of the Mercenary Watterson Bitte.
+    <String>O Navio de apoio de impulso de velocidade do Mercenary Watterson Bitte.
 </String>
   </StringTable>
   <StringTable>
@@ -7453,7 +7454,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip19_Dec</Label>
-    <String>The shield boosting Support Ship of the Mercenary Kreuger von Trant.
+    <String>O navio de apoio de reforço do escudo do Mercenary Kreuger von Trant.
 </String>
   </StringTable>
   <StringTable>
@@ -7462,7 +7463,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip20_Dec</Label>
-    <String>The accuracy boosting Support Ship of the Mercenary Holopai.
+    <String>O navio de apoio de precisão do Mercenary Holopai.
 </String>
   </StringTable>
   <StringTable>
@@ -7471,7 +7472,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip21_Dec</Label>
-    <String>The evasion and accuracy boosting Support Ship of the Mercenary Strafford Leet.
+    <String>O navio de apoio de evasão e precisão do Mercenary Strafford Leet.
 </String>
   </StringTable>
   <StringTable>
@@ -7489,7 +7490,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip23_Dec</Label>
-    <String>The military production boosting planetary Support Ship of the Mercenary Yiyiz Ziyiy.
+    <String>O navio de suporte planetário de apoio à produção militar da Mercenária Yiyiz Ziyiy.
 </String>
   </StringTable>
   <StringTable>
@@ -7498,7 +7499,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier2MercenaryShip24_Dec</Label>
-    <String>The salvage ship of the Mercenary Evelon Masha.
+    <String>O navio de salvamento da Mercenary Evelon Masha.
 </String>
   </StringTable>
   <StringTable>
@@ -7507,7 +7508,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip01_Dec</Label>
-    <String>The Starbase boosting Support Ship of the Mercenary Laqt Reecher.
+    <String>O navio de suporte do Mercenary Laqt Reecher, que impulsiona o Starbase.
 </String>
   </StringTable>
   <StringTable>
@@ -7516,7 +7517,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip02_Dec</Label>
-    <String>The terraforming ship of the Mercenary The Last Boyar.
+    <String>O navio terraformador do Mercenary The Last Boyar.
 </String>
   </StringTable>
   <StringTable>
@@ -7525,7 +7526,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip03_Dec</Label>
-    <String>The mysterious Constructor Ship of the Mercenary ruire podaq nu.
+    <String>O misterioso Navio Construtor da Mercenary ruire podaq nu.
 </String>
   </StringTable>
   <StringTable>
@@ -7534,7 +7535,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip04_Dec</Label>
-    <String>The armed and manufacturing-boosting planetary Support Ship of the Mercenary Dak-Tat-Sum.
+    <String>O navio de suporte planetário armado e de fabricação do Mercenary Dak-Tat-Sum.
 </String>
   </StringTable>
   <StringTable>
@@ -7543,7 +7544,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip05_Dec</Label>
-    <String>The armed and research boosting planetary Support Ship of the Mercenary Mancel Slader.
+    <String>O navio de suporte planetário de apoio armado e de pesquisa do Mercenary Mancel Slader.
 </String>
   </StringTable>
   <StringTable>
@@ -7552,7 +7553,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip06_Dec</Label>
-    <String>The armed and wealth boosting planetary Support Ship of the Mercenary The Elector of Bellum.
+    <String>O navio de suporte planetário de apoio armado e de aumento de riqueza do Mercenário O Eleitor de Bellum.
 </String>
   </StringTable>
   <StringTable>
@@ -7561,7 +7562,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip07_Dec</Label>
-    <String>The armed and production boosting planetary Support Ship of the Mercenary LK Seeth.
+    <String>O navio de apoio planetário armado e impulsionador da produção do Mercenary LK Seeth.
 </String>
   </StringTable>
   <StringTable>
@@ -7570,7 +7571,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip08_Dec</Label>
-    <String>The armed and influence boosting planetary Support Ship of the Mercenary Arch Seinegrave.
+    <String>O navio de suporte planetário armado e influente do Arco Mercenário Seinegrave.
 </String>
   </StringTable>
   <StringTable>
@@ -7579,7 +7580,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip09_Dec</Label>
-    <String>The overstuffed carrier of the Mercenary Flockeader Jat.
+    <String>O transportador de excesso de carga do Mercenary Flockeader Jat.
 </String>
   </StringTable>
   <StringTable>
@@ -7588,7 +7589,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip10_Dec</Label>
-    <String>The powerful battleship of the Mercenary Lisette de Urt.
+    <String>O poderoso navio de guerra da Mercenary Lisette de Urt.
 </String>
   </StringTable>
   <StringTable>
@@ -7597,7 +7598,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip11_Dec</Label>
-    <String>The powerful and self-sufficient beam cruiser of the Mercenary Url Stratego.
+    <String>O poderoso e auto-suficiente cruzador de feixe da Mercenary Url Stratego.
 </String>
   </StringTable>
   <StringTable>
@@ -7606,7 +7607,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip12_Dec</Label>
-    <String>The fast and far-reaching missile destroyer of the Mercenary Raz Pleetson.
+    <String>O destruidor de mísseis rápido e de longo alcance da Mercenary Raz Pleetson.
 </String>
   </StringTable>
   <StringTable>
@@ -7615,7 +7616,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip13_Dec</Label>
-    <String>The powerful and balanced warship of the Mercenary Poelacca.
+    <String>O poderoso e equilibrado navio de guerra da Mercenaria Poelacca.
 </String>
   </StringTable>
   <StringTable>
@@ -7624,7 +7625,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip14_Dec</Label>
-    <String>The massive and jamming-equipped carrier of the Mercenary XRT80-DEF.
+    <String>O transportador pesado e equipado com equipamentos de interferência da Mercenary XRT80-DEF.
 </String>
   </StringTable>
   <StringTable>
@@ -7633,7 +7634,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip15_Dec</Label>
-    <String>The Dreadnought of the Mercenary Enopriumta Xu.
+    <String>O Dreadnought do Mercenary Enopriumta Xu.
 </String>
   </StringTable>
   <StringTable>
@@ -7642,7 +7643,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip16_Dec</Label>
-    <String>The powerful beam cruiser of the Mercenary The Elder Kriat.
+    <String>O poderoso cruzador de feixe do Mercenário The Elder Kriat.
 </String>
   </StringTable>
   <StringTable>
@@ -7651,7 +7652,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip17_Dec</Label>
-    <String>The shield boosting Support Ship of the Mercenary Father Lesman.
+    <String>O navio de suporte de reforço do escudo do Mercenário Padre Lesman.
 </String>
   </StringTable>
   <StringTable>
@@ -7660,7 +7661,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip18_Dec</Label>
-    <String>The powerful Prototype warship of the Mercenary Hon Malteuse.
+    <String>O poderoso Protótipo de guerra do Mercenário Honorário Malteuse.
 </String>
   </StringTable>
   <StringTable>
@@ -7669,7 +7670,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip19_Dec</Label>
-    <String>The speed and range boosting Support Ship of the Mercenary Kelpie Wittque.
+    <String>A velocidade e o alcance do Navio de Suporte da Mercenary Kelpie Wittque.
 </String>
   </StringTable>
   <StringTable>
@@ -7678,7 +7679,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip20_Dec</Label>
-    <String>The defense-boosting Support Ship of the Mercenary Brootus.
+    <String>O navio de suporte de reforço de defesa do Mercenary Brootus.
 </String>
   </StringTable>
   <StringTable>
@@ -7687,7 +7688,7 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip21_Dec</Label>
-    <String>The Prototype warship of the Mercenary Shade.
+    <String>O Protótipo do navio de guerra da Mercenary Shade.
 </String>
   </StringTable>
   <StringTable>
@@ -7696,23 +7697,23 @@ xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Tier3MercenaryShip22_Dec</Label>
-    <String>The well armed and armored assault ship of the Mercenary Slim Tuir.
+    <String>O navio de assalto bem armado e blindado do Mercenary Slim Tuir.
 </String>
   </StringTable>
   <StringTable>
     <Label>UniversalPrivateer_Name</Label>
-    <String>Privateer</String>
+    <String>Corsário</String>
   </StringTable>
   <StringTable>
     <Label>UniversalPrivateer_Dec</Label>
-    <String>Converts ship to the best ship you currently can build. Ship ownership is not known by other players. Go blow up other ships for fun and profit. </String>
+    <String>Converte o navio para o melhor navio que você pode construir atualmente. A propriedade do navio não é conhecida por outros jogadores. Vá explodir outros navios para se divertir e lucrar. </String>
   </StringTable>
   <StringTable>
     <Label>CommandShip_Name</Label>
-    <String>Command Ship</String>
+    <String>Navio de Comando</String>
   </StringTable>
   <StringTable>
     <Label>CommandShip_Dec</Label>
-    <String>Ship Controlled a Commander who gives fleet wide bonus to any fleet the ship is in.</String>
+    <String>Navio Controlado por um Comandante que dá bônus a qualquer frota em que o navio esteja.</String>
   </StringTable>
 </StringTableList>

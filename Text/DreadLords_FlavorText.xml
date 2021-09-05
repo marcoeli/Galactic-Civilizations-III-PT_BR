@@ -8,27 +8,27 @@ xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
   <FlavorTextDef>
     <InternalName>DreadLords_DreadLords_Warning_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Comandante, recebemos um relatório perturbador.  Aparentemente, foi descoberta uma colônia dormente do Dread Lord e os tolos que a encontraram os despertaram! 
+      <Text>Comandante, recebemos um relatório perturbador.  Aparentemente, foi descoberta uma colônia dormente dos Lordes do  Medo e os tolos que a encontraram os despertaram! 
 Nossa única esperança é destruir a nova colônia antes que eles se tornem poderosos demais para que possamos parar.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>DreadLords_DreadLords_Warning_Response1_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Este flagelo não deve voltar! A destruição dos Dread Lords deve ser nossa maior prioridade.
-[COLOR=BenevolentBlue](Benevolent +30)[/COLOR]</Text>
+      <Text>Este flagelo não deve voltar! A destruição dos Lordes do  Medo deve ser nossa maior prioridade.
+[COLOR=BenevolentBlue](Benevolente +30)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>DreadLords_DreadLords_Warning_Response2_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Devemos atacar rapidamente e convencer a galáxia a nos ajudar a destruí-los. [COLOR=PragmaticGold](Pragmatic +30)[/COLOR]</Text>
+      <Text>Devemos atacar rapidamente e convencer a galáxia a nos ajudar a destruí-los. [COLOR=PragmaticGold](Pragmatico +30)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>DreadLords_DreadLords_Warning_Response3_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Finalmente, um oponente digno. Vamos persegui-los e finalizar sua extinção. [COLOR=WarRed](Malevolent +30)[/COLOR]</Text>
+      <Text>Finalmente, um oponente digno. Vamos persegui-los e finalizar sua extinção. [COLOR=WarRed](Malevolo +30)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
  
