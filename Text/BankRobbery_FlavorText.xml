@@ -8,28 +8,28 @@ xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
   <FlavorTextDef>
     <InternalName>BankRobbery_MegaEvent_Message_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>We have just received some alarming news. It seems that one of our ships has stumbled upon a dead ship.  The crew has killed each other over a vast stash of credits found in the ship's hold.  So far no one has mentioned the thefts, so we are not sure what we should do with the Credits.</Text>
+      <Text>Acabamos de receber algumas notícias alarmantes. Parece que um de nossos navios tropeçou em um navio morto.  A tripulação se matou por causa de um vasto estoque de créditos encontrados no porão do navio.  Até agora ninguém mencionou os roubos, por isso não temos certeza do que devemos fazer com os Créditos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>BankRobbery_MegaEvent_Message_Response1_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>We must track down the victims of this crime and return to them what was taken.
-[COLOR=BenevolentBlue](Benevolent +50, +5 Diplomacy)[/COLOR]</Text>
+      <Text>Devemos rastrear as vítimas deste crime e devolver-lhes o que foi levado.
+[COLOR=BenevolentBlue](Benevolente +50, +5 Diplomacia)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>BankRobbery_MegaEvent_Message_Response2_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Let us put some effort into returning the credits to the victims, minus a generous salvage fee of course.
-[COLOR=PragmaticGold](Pragmatic +50, +2500 Credits)[/COLOR]</Text>
+      <Text>Vamos fazer algum esforço para devolver os créditos às vítimas, menos uma generosa taxa de salvamento, é claro.
+[COLOR=PragmaticGold](Pragmatico +50, +2500 Creditos)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>BankRobbery_MegaEvent_Message_Response3_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Let the victims know that the ship was empty when we found it.  What a pity.
-[COLOR=WarRed](Malevolent +50, -5 Diplomacy, +5000 Credits)[/COLOR]</Text>
+      <Text>Avisar as vítimas que o navio estava vazio quando o encontramos.  Que pena.
+[COLOR=WarRed](Malevolo +50, -5 Diplomacia, +5000 Creditos)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
  

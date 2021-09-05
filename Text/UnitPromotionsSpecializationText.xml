@@ -141,7 +141,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Promotion_Worker_Crunch Time_Dec</Label>
-    <String>Your workers tend to burn out when forced to work crunch time, but if you need a project done right now, what choice do you have? Worker finishes planet's current project and becomes a Retiree.</String>
+    <String>Seus trabalhadores tendem a se esgotar quando são forçados a trabalhar com pouco tempo, mas se você precisa de um projeto feito agora mesmo, que escolha você tem? O trabalhador termina o projeto atual do planeta e se torna um aposentado.</String>
   </StringTable>
  
   <StringTable>
@@ -150,80 +150,80 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Promotion_Worker_Recall_Dec</Label>
-    <String>Don't leave a productive worker spinning their wheels somewhere. Reassign them where they'll be more useful. Worker leaves the planet to work for the government or be sent somewhere else.</String>
+    <String>Não deixe um trabalhador produtivo girando suas rodas em algum lugar. Reatribua-os onde eles serão mais úteis. O trabalhador deixa o planeta para trabalhar para o governo ou para ser enviado a outro lugar.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Worker_Recall_ActionTriggerDec_0</Label>
-    <String>[ICON=Stat_Productive_Icon] Worker is recalled to global pool.</String>
+    <String>[ICON=Stat_Productive_Icon] Trabalhador é chamado para o fundo comum global.</String>
   </StringTable>
  
   <StringTable>
     <Label>Promotion_Worker_Forced_labor_Name</Label>
-    <String>Forced labor</String>
+    <String>Trabalho forçado</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Worker_Forced_labor_Dec</Label>
-    <String>Forced labor tends to burn up workers, but there's not arguing with the results. Unless you're the worker.
-Generates a burst of Social Construction on target planet.</String>
+    <String>O trabalho forçado tende a esgotar os trabalhadores, mas não há discussão com os resultados. A menos que você seja o trabalhador.
+Gera um estouro de Construção Social no planeta alvo.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Worker_Forced_labor_TriggerName_0</Label>
-    <String>Forced labor</String>
+    <String>Trabalho forçado</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Worker_Forced_labor_ActionTriggerDec_0</Label>
-    <String>[ICON=Cruel_Trait_Icon] Worker retires.</String>
+    <String>[ICON=Cruel_Trait_Icon] Trabalhador se aposenta.</String>
   </StringTable>
  
   <StringTable>
     <Label>Promotion_Worker_Overtime_Name</Label>
-    <String>Overtime</String>
+    <String>Horas extras</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Worker_Overtime_Dec</Label>
-    <String>It tends to shorten their careers, but overtime can certainly make your workers more productive for a short time. Overtime provides short burst to Social Constuction for all your colonies.</String>
+    <String>Isso tende a encurtar suas carreiras, mas as horas extras certamente podem tornar seus trabalhadores mais produtivos por um curto período de tempo. As horas extras proporcionam um curto período de explosão à Constução Social para todas as suas colônias.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Worker_Overtime_TriggerName_0</Label>
-    <String>Worker Overtime</String>
+    <String>Horas extras do trabalhador</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Worker_Overtime_TriggerDec_0</Label>
-    <String>[ICON=Stat_Productive_Icon] Global Bonus for 10 turns.  </String>
+    <String>[ICON=Stat_Productive_Icon] Bônus Global por 10 turnos.  </String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Worker_Overtime_ActionTriggerDec_0</Label>
-    <String>[ICON=Cruel_Trait_Icon] Worker retires.</String>
+    <String>[ICON=Cruel_Trait_Icon] Trabalhador se aposenta.</String>
   </StringTable>
  
   <StringTable>
     <Label>Promotion_Epiphany_Name</Label>
-    <String>Epiphany</String>
+    <String>Epifania</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Epiphany_Dec</Label>
-    <String>They might not manage anything else in their careers, but few will care if a scientist makes a breakthrough big enough.</String>
+    <String>Eles podem não conseguir nada mais em suas carreiras, mas poucos se importarão se um cientista fizer um avanço suficientemente grande.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Epiphany_ActionTriggerDec_0</Label>
-    <String>[ICON=Total_Research_Stat_Icon] Finishes current research project. </String>
+    <String>[ICON=Total_Research_Stat_Icon] Conclui o projeto de pesquisa atual. </String>
   </StringTable>
  
   <StringTable>
     <Label>Promotion_Coerced_Invention_Name</Label>
-    <String>Coerced Invention</String>
+    <String>Invenção Coerciva</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Coerced_Invention_Dec</Label>
-    <String>Even creative work can be forced, though it does tend to burn out the minds doing it. The sacrifice returns a large amount of research.</String>
+    <String>Até mesmo o trabalho criativo pode ser forçado, embora tenha a tendência de queimar as mentes ao fazê-lo. O sacrifício retorna uma grande quantidade de pesquisas.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Coerced_Invention_ActionTriggerDec_0</Label>
-    <String>[ICON=Total_Research_Stat_Icon] Provides massive one-turn research boost. </String>
+    <String>[ICON=Total_Research_Stat_Icon] Fornece um enorme impulso à pesquisa de um turno. </String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Coerced_Invention_ActionTriggerDec_1</Label>
-    <String>[ICON=Cruel_Trait_Icon] Scientist retires.</String>
+    <String>[ICON=Cruel_Trait_Icon] Cientista se aposenta.</String>
   </StringTable>
  
   <StringTable>
@@ -232,11 +232,11 @@ Generates a burst of Social Construction on target planet.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Scientist_Recall_Dec</Label>
-    <String>Sometimes you need to move a researcher where they can do more good.  To a planet with better microscopes? Sure.</String>
+    <String>Às vezes é preciso mover um pesquisador para onde ele possa fazer mais bem.  Para um planeta com melhores microscópios? Claro que sim.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Scientist_Recall_ActionTriggerDec_0</Label>
-    <String>[ICON=Total_Research_Stat_Icon]  Scientist is recalled to global pool.</String>
+    <String>[ICON=Total_Research_Stat_Icon]  O cientista é chamado ao fundo comum global.</String>
   </StringTable>
  
   <StringTable>
@@ -245,7 +245,7 @@ Generates a burst of Social Construction on target planet.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Bumper_Crop_Dec</Label>
-    <String>If you need food now, your farmers can probably get it for you. They just might reconsider their careers when they're done. Bumper crop increases planetary food production.</String>
+    <String>Se você precisa de alimentos agora, é provável que seus agricultores possam obtê-los para você. Eles podem apenas reconsiderar suas carreiras quando terminarem. O cultivo de batatas aumenta a produção de alimentos planetários.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Bumper_Crop_TriggerName_0</Label>
@@ -257,29 +257,29 @@ Generates a burst of Social Construction on target planet.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Bumper_Crop_ActionTriggerDec_0</Label>
-    <String>[ICON=Cruel_Trait_Icon] Farmer Retires</String>
+    <String>[ICON=Cruel_Trait_Icon] Fazendeiro se aposenta</String>
   </StringTable>
  
   <StringTable>
     <Label>Promotion_Engineer_Forced_Labor_Name</Label>
-    <String>Forced labor</String>
+    <String>Trabalho forçado</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Engineer_Forced_Labor_Dec</Label>
-    <String>Engineers can't lift much themselves, but they can tell people how to lift things better. The resulting unpopularity tends to shorten their careers though. This generates a burst of shipyard Construction.
+    <String>Os engenheiros não conseguem levantar muito por conta própria, mas podem dizer às pessoas como levantar as coisas melhor. A impopularidade resultante tende, no entanto, a encurtar suas carreiras. Isto gera uma explosão na construção de estaleiros navais.
 </String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Engineer_Forced_Labor_TriggerName_0</Label>
-    <String>Forced Labor</String>
+    <String>Trabalho forçado</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Engineer_Forced_Labor_TriggerDec_0</Label>
-    <String>[ICON=Stat_Productive_Icon] 1000 Ship Construction point.</String>
+    <String>[ICON=Stat_Productive_Icon] 1000 Ponto de construção naval.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Engineer_Forced_Labor_ActionTriggerDec_0</Label>
-    <String>[ICON=Cruel_Trait_Icon] Engineer Retires</String>
+    <String>[ICON=Cruel_Trait_Icon] Engenheiro se aposenta</String>
   </StringTable>
  
   <StringTable>
@@ -288,15 +288,15 @@ Generates a burst of Social Construction on target planet.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Engineer_Crunch_Time_Dec</Label>
-    <String>When a ship needs to get done right this very instant, the welfare of your Engineers sometimes takes a backseat. The sacrifice finishes the nearest shipyard's project.</String>
+    <String>Quando um navio precisa ser feito corretamente neste exato instante, o bem-estar de seus Engenheiros, às vezes, toma um assento traseiro. O sacrifício termina o projeto do estaleiro mais próximo.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Engineer_Crunch_Time_ActionTriggerDec_0</Label>
-    <String>[ICON=MilitaryManufacturingStatIcon] Finishes ship construction project.</String>
+    <String>[ICON=MilitaryManufacturingStatIcon] Acaba o projeto de construção de navios.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Engineer_Crunch_Time_ActionTriggerDec_1</Label>
-    <String>[ICON=Cruel_Trait_Icon] Engineer dies.</String>
+    <String>[ICON=Cruel_Trait_Icon] Engenheiro morre.</String>
   </StringTable>
  
   <StringTable>
@@ -305,38 +305,38 @@ Generates a burst of Social Construction on target planet.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Engineer_Recall_Dec</Label>
-    <String>Move an Engineer to where they're needed most. They honestly don't mind.</String>
+    <String>Mover um Engenheiro para onde são mais necessários. Honestamente, eles não se importam.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Engineer_Recall_ActionTriggerDec_0</Label>
-    <String>[ICON=Engineers_Ability_Icon]  Engineer is recalled to global pool.</String>
+    <String>[ICON=Engineers_Ability_Icon]  Engenheiro é chamado ao pool global.</String>
   </StringTable>
  
   <StringTable>
     <Label>Promotion_Scholar_Name</Label>
-    <String>Scholar</String>
+    <String>Acadêmico</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Scholar_Dec</Label>
-    <String>A little bit of theoretical knowledge can improve the productivity of almost any enterprise.</String>
+    <String>Um pouco de conhecimento teórico pode melhorar a produtividade de quase todas as empresas.</String>
   </StringTable>
  
   <StringTable>
     <Label>Promotion_Ambassador_Name</Label>
-    <String>Ambassador</String>
+    <String>Embaixador</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Ambassador_Dec</Label>
-    <String>No-one knows local customs and cool alien handshakes quite like an Ambassador. Ambassadors generate 10 influence points per turn on whatever planet they are on.</String>
+    <String>Ninguém conhece os costumes locais e apertos de mão alienígenas frios, como um embaixador. Os embaixadores geram 10 pontos de influência por vez em qualquer planeta em que estejam.</String>
   </StringTable>
  
   <StringTable>
     <Label>Promotion_Statesmen_Name</Label>
-    <String>Statesmen</String>
+    <String>Estadistas</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Statesmen_Dec</Label>
-    <String>A diplomat can retire to the quiet life of a statesmen. But in the process they can generate 1000 influence for the planet they are currently settled on.</String>
+    <String>Um diplomata pode se aposentar para a vida tranqüila de um estadista. Mas no processo, eles podem gerar 1000 influências para o planeta em que estão atualmente instalados.</String>
   </StringTable>
  
   <StringTable>
@@ -345,7 +345,7 @@ Generates a burst of Social Construction on target planet.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Diplomat_Recall_Dec</Label>
-    <String>Move your Ambassadors where they're needed most. To the people who really like you, maybe. Or the ones who really, really hate you.</String>
+    <String>Leve seus embaixadores para onde eles são mais necessários. Para as pessoas que realmente gostam de você, talvez. Ou às pessoas que realmente, realmente o odeiam você.</String>
   </StringTable>
  
   <StringTable>
@@ -354,50 +354,50 @@ Generates a burst of Social Construction on target planet.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Mogul_Dec</Label>
-    <String>The Entrepreneur takes his company public generation a vast fortune for himself and a capital gains for the government of 5000bc. Retires upon completion.</String>
+    <String>O Empresário leva para sua geração pública uma vasta fortuna para si e um ganho de capital para o governo de 5000bc. Aposenta-se após a conclusão.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Mogul_TriggerName_0</Label>
-    <String>Mogul</String>
+    <String>O magnata</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Mogul_TriggerDec_0</Label>
-    <String>[ICON=Wealthy_Icon] Provides 5,000bc.</String>
+    <String>[ICON=Wealthy_Icon] Fornece 5,000bc.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Mogul_ActionTriggerDec_0</Label>
-    <String>[ICON=Cruel_Trait_Icon] Mogul Retires.</String>
+    <String>[ICON=Cruel_Trait_Icon] Saida do magnata.</String>
   </StringTable>
  
   <StringTable>
     <Label>Promotion_Saboteur_Name</Label>
-    <String>Saboteur</String>
+    <String>Sabotador</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Saboteur_Dec</Label>
-    <String>An expert in explosives, infrastructure, and treachery, the Saboteur will wreck your enemy's whole day, and then some.
-[ICON=Stat_Productive_Icon] Irridiates the planet. Requires Level 5.</String>
+    <String>Especialista em explosivos, infra-estrutura e traição, o Sabotador arruinará o dia inteiro de seu inimigo, e depois alguns.
+[ICON=Stat_Productive_Icon] Irrita o planeta. Requer o Nível 5.</String>
   </StringTable>
  
   <StringTable>
     <Label>Promotion_Galactic_Tour_Name</Label>
-    <String>Galactic Tour</String>
+    <String>Tour Galáctico</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Galactic_Tour_Dec</Label>
-    <String>Sending your Celebrity out on tour will help increase your Influence (and their album sales) tremendously. The tour increases your global Influence by a modest amount. </String>
+    <String>O envio de sua celebridade em turnê ajudará a aumentar tremendamente sua Influência (e as vendas de seus álbuns). A turnê aumenta sua Influência global em uma quantia modesta. </String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Galactic_Tour_TriggerName_0</Label>
-    <String>Galactic Tour</String>
+    <String>Tour Galáctico</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Galactic_Tour_TriggerDec_0</Label>
-    <String>Galactic Tour</String>
+    <String>Tour Galáctico</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Galactic_Tour_ActionTriggerDec_0</Label>
-    <String>[ICON=Cruel_Trait_Icon] Celebrity Retires.</String>
+    <String>[ICON=Cruel_Trait_Icon] Celebridades se aposentam.</String>
   </StringTable>
  
  

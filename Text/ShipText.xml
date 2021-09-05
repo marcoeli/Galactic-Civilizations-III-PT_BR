@@ -44,17 +44,17 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>LostConstructor_Name</Label>
-    <String>Lost Constructor</String>
+    <String>Construtor Perdido</String>
   </StringTable>
  
   <StringTable>
     <Label>LostSurvey_Name</Label>
-    <String>Lost Survey Ship</String>
+    <String>Navio de Pesquisa Perdida</String>
   </StringTable>
  
   <StringTable>
     <Label>CapturedScout_Name</Label>
-    <String>Captured Scout</String>
+    <String>Batedor capturado</String>
   </StringTable>
  
 </StringTableList>

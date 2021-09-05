@@ -8,16 +8,16 @@ xsi:noNamespaceSchemaLocation="../../../data/Schema/FlavorText.xsd">
   <FlavorTextDef>
     <InternalName>Crusade_Mission1_EndingFlavorText_Success</InternalName>
     <FlavorTextOption>
-      <Text>With their victory over the Drengin, humanity has reclaimed what was rightfully theirs, and bloodied the nose of a hated foe.
+      <Text>Com sua vitória sobre o Drengin, a humanidade recuperou o que era seu por direito, e ensangüentou o nariz de um inimigo odiado.
 
-But the Drengin still pose an incredible threat. This news provided by the Altarians, of artifacts capable of ending the Drengin threat once and for all, are worth investigating.</Text>
+Mas a Drengin ainda representa uma ameaça incrível. Esta notícia fornecida pelos Altários, de artefatos capazes de acabar com a ameaça Drengin de uma vez por todas, vale a pena investigar.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
  
   <FlavorTextDef>
     <InternalName>Crusade_Mission1_EndingFlavorText_Failure</InternalName>
     <FlavorTextOption>
-      <Text>Despite its incredible strength, the Terran fleet failed to protect Earth. Dark days for humanity loom...</Text>
+      <Text>Apesar de sua incrível força, a frota terrestre não conseguiu proteger a Terra. Os dias sombrios para a humanidade se aproximam...</Text>
     </FlavorTextOption>
   </FlavorTextDef>
  

@@ -10,31 +10,31 @@ xsi:noNamespaceSchemaLocation="../../../../data/Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>CrusadeMercenary_Name</Label>
-    <String>The Smuggler</String>
+    <String>O contrabandista</String>
   </StringTable>
  
   <StringTable>
     <Label>CrusadeMercenary_Dec</Label>
-    <String>The Smuggler has a curious ability for moving unseen in ports throughout the galaxy. The ability is perhaps better called "bribery" but The Smuggler prefers being mysterious about it, so here we are.</String>
+    <String>O contrabandista tem uma curiosa capacidade de se mover sem ser visto em portos por toda a galáxia. A habilidade é talvez melhor chamada de "suborno", mas o Contrabandista prefere ser misterioso sobre isso, então aqui estamos nós.</String>
   </StringTable>
  
   <StringTable>
     <Label>CrusadeMercenary_ShortDec</Label>
-    <String>[ICON=Shiprange_Icon] Very Fast
-[ICON=Shiprange_Icon] Extremely long ship range.</String>
+    <String>[ICON=Shiprange_Icon] Muito rápido
+[ICON=Shiprange_Icon] Extremamente longo alcance do navio.</String>
   </StringTable>
   
   <StringTable>
     <Label>CrusadeMercenaryShip_Class_Name</Label>
-    <String>The Suspicious Falcon</String>
+    <String>O falcão suspeito</String>
   </StringTable>
  
   <StringTable>
     <Label>CrusadeMercenaryShip_Dec</Label>
-    <String>The Ship of the The Smuggler.
+    <String>Nave do Contrabandista.
 
-[ICON=Shiprange_Icon] Very Fast
-[ICON=Shiprange_Icon] Extremely long ship range.
+[ICON=Shiprange_Icon] Muito rápido
+[ICON=Shiprange_Icon] Extremamente longo alcance do navio.
 </String>
   </StringTable>
  

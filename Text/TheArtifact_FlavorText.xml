@@ -8,26 +8,26 @@ xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
   <FlavorTextDef>
     <InternalName>TheArtifact_TheArtifact_TheArtifact_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>A strange Precursor Artifact has appeared out of a tear in spacetime near the {PLAYERFACTION:3}. It has begun emitting an energy field that seems to be greatly increasing their power. This effect seems to be growing and we fear it will not stop. Others have attempted to destroy the Artifact and failed miserably. We may need to destroy the {PLAYERFACTIONLONG:3} before the Artifact turns them into a race of gods.</Text>
+      <Text>Um estranho artefato precursor surgiu de um rasgo no tempo espacial perto do {PLAYERFACTION:3}. Começou a emitir um campo energético que parece estar aumentando muito sua potência. Este efeito parece estar crescendo e tememos que não vá parar. Outros tentaram destruir o artefato e falharam miseravelmente. Talvez precisemos destruir o {PLAYERFACTIONLONG:3} antes que o Artefato os transforme em uma raça de deuses.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>TheArtifact_TheArtifact_TheArtifact_Response1_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>We must try to befriend them immediately, and make sure they do not consider us a threat.
-[COLOR=BenevolentBlue](Benevolent +30, +5 Diplomacy)[/COLOR]</Text>
+      <Text>Devemos tentar fazer amizade com eles imediatamente e garantir que eles não nos considerem uma ameaça.
+[COLOR=BenevolentBlue](Benevolente +30, +5 Diplomacia)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>TheArtifact_TheArtifact_TheArtifact_Response2_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>We need to be wary but there's no need to start a war. However, we shall prepare for the worse. [COLOR=PragmaticGold](Pragmatic +30, +25% Planetary Defense)[/COLOR]</Text>
+      <Text>Precisamos ser cautelosos, mas não há necessidade de começar uma guerra. Entretanto, devemos nos preparar para o pior. [COLOR=PragmaticGold](Pragmatico +30, +25% Planetario Defense)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>TheArtifact_TheArtifact_TheArtifact_Response3_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>We must crush them before they become too powerful to stop. [COLOR=WarRed](Malevolent +30, +15% Military Manufacturing)[/COLOR]</Text>
+      <Text>Devemos esmagá-los antes que se tornem poderosos demais para parar. [COLOR=WarRed](Malevolo +30, +15% Manufatura Militar)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
  

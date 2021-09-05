@@ -8,25 +8,25 @@ xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
   <FlavorTextDef>
     <InternalName>Breakthrough_MegaEvent_Message_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>It seems some independent researchers have made a breakthrough and discovered the {TECHNAME:2} Technology all on their own. Unfortunately, they also seem to be sharing it with the rest of the galaxy as well as us.</Text>
+      <Text>Parece que alguns pesquisadores independentes fizeram um avanço e descobriram o {TECHNAME:2} Tecnologia por conta própria. Infelizmente, eles também parecem estar compartilhando-a com o resto da galáxia, bem como conosco.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>Breakthrough_MegaEvent_Message_Response1_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>It was noble of them to be so generous. We must use this breakthrough to make the galaxy a better place. [COLOR=BenevolentBlue](Benevolent +15)[/COLOR]</Text>
+      <Text>Foi nobre da parte deles ser tão generoso. Devemos usar este avanço para fazer da galáxia um lugar melhor. [COLOR=BenevolentBlue](Benevolente +15)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>Breakthrough_MegaEvent_Message_Response2_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Let us see if we can make use of this windfall as quickly as possible. [COLOR=PragmaticGold](Pragmatic +15)[/COLOR]</Text>
+      <Text>Vejamos se podemos fazer uso desta sorte o mais rápido possível. [COLOR=PragmaticGold](Pragmatico +15)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>Breakthrough_MegaEvent_Message_Response3_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>If they are foolish enough to give away technology, we will make use of it. [COLOR=WarRed](Malevolent +15)[/COLOR]</Text>
+      <Text>Se eles forem tolos o suficiente para dar a tecnologia, faremos uso dela. [COLOR=WarRed](Malevolo +15)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
  
