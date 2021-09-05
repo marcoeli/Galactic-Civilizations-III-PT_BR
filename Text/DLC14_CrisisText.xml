@@ -281,9 +281,9 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Crisis_Primates_Choice_3e_Dec</Label>
-    <String>By cracking down on the colonists who were wasting the lives of the natives of {PLANETNAME}, we've lowered the accident rate and greatly improved our manufacturing productivity. The natives themselves don't seem that appreciative our efforts, but they're simple that way.
+    <String>Ao quebrar os colonos que estavam desperdiçando a vida dos nativos de {PLANETNAME}, reduzimos a taxa de acidentes e melhoramos muito nossa produtividade de fabricação. Os próprios nativos não parecem apreciar nossos esforços, mas eles são simples assim.
 
-[COLOR=UIDefaultHighlight]+20 Malevolent, +20% Production on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+20 Malevolo, +20% Produção em {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -293,713 +293,713 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Crisis_Primates_Choice_3f_Dec</Label>
-    <String>Cracking down on the colonists that were wasting the lives of the natives on {PLANETNAME} has not proven very effective. The natives have taken matters into their own hands and begun to vocally - and physically - demand rights. A very short rebellion has resulted, and though it did not end well for the natives, it hasn't done much for our manufacturing sector either.
+    <String>A repressão dos colonos que estavam desperdiçando a vida dos nativos em {PLANETNAME} não se mostrou muito eficaz. Os nativos tomaram a questão em suas próprias mãos e começaram a exigir vocalmente - e fisicamente - direitos. O resultado foi uma rebelião muito curta e, embora não tenha terminado bem para os nativos, também não fez muito por nosso setor manufatureiro.
 
-[COLOR=UIDefaultHighlight]+5 Malevolent, -15% Production on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+5 Malevolo, -15% Produção em {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Name</Label>
-    <String>Crisis: New Drug</String>
+    <String>Crise: Nova droga</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Dec</Label>
-    <String>A new plant has been found on {PLANETNAME} with strong narcotic effects. In the short term it makes people extremely content and relaxed and somewhat better musicians. But the long term health effects are thought to be dangerous, and it's already begun to reduce the planet's production.</String>
+    <String>Uma nova planta foi encontrada em {PLANETNAME} com fortes efeitos narcóticos. A curto prazo, ela torna as pessoas extremamente satisfeitas e relaxadas e músicos um pouco melhores. Mas os efeitos à saúde a longo prazo são considerados perigosos, e já começou a reduzir a produção do planeta.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice1Dec</Label>
-    <String>We can't let this keep going. Ban the drug.</String>
+    <String>Não podemos deixar que isto continue. Proibir a droga.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice1BonusDec</Label>
-    <String>+15 Benevolent</String>
+    <String>+15 Benevolente</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice2Dec</Label>
-    <String>Let's not rush into anything. Study the drug to find out all its effects.</String>
+    <String>Não vamos nos precipitar em nada. Estude a droga para descobrir todos os seus efeitos.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice2BonusDec</Label>
-    <String>+15 Pragmatic</String>
+    <String>+15 Pragmatico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice3Dec</Label>
-    <String>There's obvious value here. We should commercialize this new drug.</String>
+    <String>Há aqui um valor óbvio. Devemos comercializar esta nova droga.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice3BonusDec</Label>
-    <String>+15 Malevolent</String>
+    <String>+15 Malevolo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_1_Name</Label>
-    <String>Crisis: New Drug (part 2)</String>
+    <String>Crise: Nova droga (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_1_Dec</Label>
-    <String>Our attempts to ban the new drug on {PLANETNAME} have only drawn wider attention to its potency. Smugglers have begun exporting it offworld. We risk losing control of the situation.</String>
+    <String>Nossas tentativas de proibir o novo medicamento no {PLANETNAME} apenas chamaram mais a atenção para sua potência. Os contrabandistas começaram a exportá-lo para fora do mundo. Corremos o risco de perder o controle da situação.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_1_Choice1Dec</Label>
-    <String>Crack down on the exporters. Also, find and destroy the plants themselves.</String>
+    <String>Derrubar os exportadores. Além disso, encontrar e destruir as próprias plantas.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_1_Choice2Dec</Label>
-    <String>We should focus on treatment and harm reduction, to counteract the worst effects.</String>
+    <String>Devemos nos concentrar no tratamento e na redução de danos, para neutralizar os piores efeitos.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_1_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Pragmatic check</String>
+    <String>{STATCHANCE}% Controle pragmático</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_1_Choice3Dec</Label>
-    <String>Lock down the planet, then hunt down any execute anyone caught dealing the drug. </String>
+    <String>Bloquear o planeta, depois caçar qualquer indivíduo apanhado traficando a droga. </String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_1a_Name</Label>
-    <String>Crisis: New Drug - Success</String>
+    <String>Crise: Nova droga - Successo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_1a_Dec</Label>
-    <String>Our efforts to rid {PLANETNAME} of the dangerously new addictive drug have been successful. No longer will our people fear being trapped in an endless haze of joy and good will towards others. 
-They'll understand eventually.
+    <String>Nossos esforços para livrar {PLANETNAME} da nova droga perigosamente viciante têm sido bem sucedidos. Nosso povo não temerá mais ficar preso em uma névoa interminável de alegria e boa vontade em relação aos outros. 
+Eles entenderão eventualmente.
 
-[COLOR=UIDefaultHighlight]+20 Benevolent, -5% Morale for 10 turns on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+20 Benevolente, -5% Moral por 10 voltas {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_1c_Name</Label>
-    <String>Crisis: New Drug - Success</String>
+    <String>Crise: Nova droga - Successo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_1c_Dec</Label>
-    <String>We've found a treatment for the drug affecting {PLANETNAME}, one that not only counteracts the negative aspects of the drug, but also leaves those recovering from their addiction more productive than ever. They're a bit cranky, mind you.
+    <String>Encontramos um tratamento para a droga que afeta o {PLANETNAME}, um tratamento que não só contraria os aspectos negativos da droga, mas também deixa aqueles que se recuperam de seu vício mais produtivos do que nunca. Eles estão um pouco rabugentos, lembre-se.
 
-[COLOR=UIDefaultHighlight]-5% Morale for 25 turns, and 25% Production for 100 turns on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]-5% Moral por 25 turnos, e 25% Produção por 100 turnos {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_1d_Name</Label>
-    <String>Crisis: New Drug - Failure</String>
+    <String>Crise: Nova droga - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_1d_Dec</Label>
-    <String>Our public health professionals have managed to mitigate the worst effects of the drug, but we've sadly been unsuccessful in our attempts to restrict its usage. It's already made its way off-planet, and is now being sold in black markets across our civilization.
-Perhaps not what the leaders of {PLANETNAME} wanted to be known for, but morale is up at least.
+    <String>Nossos profissionais de saúde pública conseguiram mitigar os piores efeitos da droga, mas infelizmente não fomos bem sucedidos em nossas tentativas de restringir seu uso. Ela já saiu do planeta e agora está sendo vendida nos mercados negros em toda a nossa civilização.
+Talvez não seja pelo que os líderes do {PLANETNAME} queriam ser conhecidos, mas o moral está em alta, pelo menos.
 
-[COLOR=UIDefaultHighlight]Global +5% Morale for 25 turns, and -5% Production for 25 turns.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Global +5% Moral por 25 turnos, e -5% Produção por 25 turnos.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_1e_Name</Label>
-    <String>Crisis: New Drug - Success</String>
+    <String>Crise: Nova droga - Successo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_1e_Dec</Label>
-    <String>We've successfully stopped the distribution of the new drug on {PLANETNAME}, saving the rest of our civilization from its dangerous effects. But the harshness of our enforcement measures has not helped morale on the planet itself. A lesson they'll have to remember.
+    <String>Paramos com sucesso a distribuição do novo medicamento no {PLANETNAME}, salvando o resto de nossa civilização de seus efeitos perigosos. Mas a dureza de nossas medidas de fiscalização não ajudou o moral no próprio planeta. Uma lição que eles terão que lembrar.
 
-[COLOR=UIDefaultHighlight]+20 Malevolent, -5% Morale for 25 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+20 Malévolo, -5% Moral por 25 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_2_Name</Label>
-    <String>Crisis: New Drug (part 2)</String>
+    <String>Crise: Nova droga (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_2_Dec</Label>
-    <String>We've made a breakthrough in our research of the new drug on {PLANETNAME}. The drug is an unusually versatile substance, and is capable of affecting brain chemistry in a variety of ways. How should we direct our further research efforts?</String>
+    <String>Fizemos um grande avanço em nossa pesquisa do novo medicamento sobre o {PLANETNAME}. O medicamento é uma substância excepcionalmente versátil, e é capaz de afetar a química cerebral de diversas maneiras. Como devemos dirigir nossos futuros esforços de pesquisa?</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_2_Choice1Dec</Label>
-    <String>Study it for medical use.</String>
+    <String>Estude-o para uso médico.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_2_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Science check</String>
+    <String>{STATCHANCE}% Controle científico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_2_Choice2Dec</Label>
-    <String>Study the productive aspects of the drug.</String>
+    <String>Estudar os aspectos produtivos da droga.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_2_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Science check</String>
+    <String>{STATCHANCE}% Controle científico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_2_Choice3Dec</Label>
-    <String>Study it for military use.</String>
+    <String>Estude-o para uso militar.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_2a_Name</Label>
-    <String>Crisis: New Drug - Success</String>
+    <String>Crise: Nova droga - Successo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_2a_Dec</Label>
-    <String>Our scientists have isolated the morale boosting properties of the new drug. Obvious morale-boosting applications if left in civilian hands, but this should also prove beneficial in our medical and physiological fields. 
+    <String>Nossos cientistas isolaram as propriedades de estímulo moral do novo medicamento. Aplicações óbvias de estímulo moral se deixadas em mãos civis, mas isto também deve ser benéfico em nossos campos médicos e fisiológicos. 
 
-[COLOR=UIDefaultHighlight]+10% Morale, +25% research on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+10% de moral, +25% de pesquisa sobre {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_2b_Name</Label>
-    <String>Crisis: New Drug - Failure</String>
+    <String>Crise: Nova droga - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_2b_Dec</Label>
-    <String>Our attempt to study the new drug has backfired. Although our researchers found a way to amplify the positive effects of the drug, they were unable to find any way to offset the negative effects. If anything, it is now more addictive than ever, and is now being used widely across the planet. The good news is everyone is too happy and sedate to export it to other worlds.
+    <String>Nossa tentativa de estudar o novo medicamento deu um tiro pela culatra. Embora nossos pesquisadores tenham encontrado uma maneira de ampliar os efeitos positivos do medicamento, eles não conseguiram encontrar nenhuma maneira de compensar os efeitos negativos. Se alguma coisa, ela agora é mais viciante do que nunca, e está sendo usada amplamente em todo o planeta. A boa notícia é que todos estão muito felizes e sedados para exportá-la para outros mundos.
 
-[COLOR=UIDefaultHighlight]+10% Morale and -33% Production for 50 turns on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+10% de moral e -33% de produção por 50 turnos {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_2c_Name</Label>
-    <String>Crisis: New Drug - Success</String>
+    <String>Crise: Nova droga - Successo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_2c_Dec</Label>
-    <String>Unfortunately, our scientists have not been able to isolate the morale boosting aspect of the drug. We have however discovered a way to reverse its effect. People who take the drug now become very unhappy, though interestingly, also very productive. This has obviously resulted in less people wanting to take it, but those still addicted have become economic dynamos. 
+    <String>Infelizmente, nossos cientistas não foram capazes de isolar o aspecto de estímulo moral da droga. No entanto, descobrimos uma maneira de reverter seu efeito. As pessoas que tomam a droga agora se tornam muito infelizes, embora, curiosamente, também muito produtivas. Isto obviamente resultou em menos pessoas querendo tomá-la, mas aqueles que ainda são viciados se tornaram dínamos econômicos. 
 
-[COLOR=UIDefaultHighlight]-5% Morale and +33% Production for 100 turns on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]-5% de moral e +33% de produção por 100 turnos {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_2d_Name</Label>
-    <String>Crisis: New Drug - Failure</String>
+    <String>Crise: Nova droga - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_2d_Dec</Label>
-    <String>Sadly, our attempts to commercialize this new miracle drug have not worked out too well. Most of the team we committed to the effort have become addicted to it themselves, and their feeble efforts have resulted in the drug escaping into the black market, where it's now being distributed across almost all our worlds.
+    <String>Infelizmente, nossas tentativas de comercializar esta nova droga milagrosa não têm funcionado muito bem. A maior parte da equipe que nos comprometemos com o esforço se tornou viciada nela mesma, e seus débeis esforços resultaram na fuga da droga para o mercado negro, onde ela agora está sendo distribuída por quase todos os nossos mundos.
 
-[COLOR=UIDefaultHighlight]Global +5% Morale and -5% Production for 50 turns on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Global +5% Moral e -5% Produção para 50 turnos {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_2e_Name</Label>
-    <String>Crisis: New Drug - Success</String>
+    <String>Crise: Nova droga - Successo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_2e_Dec</Label>
-    <String>Our researchers have found a way to concentrate the drug, safely amplifying its sedative effects. They believe that if it can be introduced to the population of a planet shortly before an invasion, it will effectively debilitate the locals so much that they will welcome our invasion forces with open arms.
+    <String>Nossos pesquisadores encontraram uma maneira de concentrar a droga, amplificando com segurança seus efeitos sedativos. Eles acreditam que se ela puder ser introduzida na população de um planeta pouco antes de uma invasão, ela efetivamente debilitará tanto os habitantes locais que eles acolherão nossas forças invasoras de braços abertos.
 
-[COLOR=UIDefaultHighlight]Global Effect: +10% Soldiering, +10% Resistance[/COLOR]
+[COLOR=UIDefaultHighlight]Efeito Global: +10% soldados, +10% de resistência[/COLOR]
 
 </String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_3_Name</Label>
-    <String>Crisis: New Drug (part 2)</String>
+    <String>Crise: Nova droga (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_3_Dec</Label>
-    <String>We have managed to purify the new drug on {PLANETNAME}, rendering it safer while increasing its more attractive aspects. However there is some concern that it has become too addictive for widespread use. Some of our test subjects claim they can no longer feel any joy without the drug.</String>
+    <String>Conseguimos purificar o novo medicamento no {PLANETNAME}, tornando-o mais seguro e ao mesmo tempo aumentando seus aspectos mais atraentes. Entretanto, existe alguma preocupação de que se tenha tornado viciante demais para o uso generalizado. Alguns de nossos sujeitos de teste afirmam que não podem mais sentir nenhuma alegria sem a droga.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_3_Choice1Dec</Label>
-    <String>Stop any further research, and wipe out the plant before its use becomes too widespread.</String>
+    <String>Pare qualquer pesquisa adicional e acabe com a planta antes que seu uso se torne muito difundido.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_3_Choice2Dec</Label>
-    <String>Restrict the plant from civilian use, retaining it for medical or research purposes only.</String>
+    <String>Restringir a planta ao uso civil, retendo-a apenas para fins médicos ou de pesquisa.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_3_Choice3Dec</Label>
-    <String>Sounds like a gold mine. Let's put it in to full production.</String>
+    <String>Soa como uma mina de ouro. Vamos colocá-la em plena produção.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_3_Choice3BonusDec</Label>
-    <String>{STATCHANCE}% Malevolent check</String>
+    <String>{STATCHANCE}% Controle malévolo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_3a_Name</Label>
-    <String>Crisis: New Drug - Success</String>
+    <String>Crise: Nova droga - Successo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_3a_Dec</Label>
-    <String>We have managed to wipe out the plants that are the source of the new drug discovered on {PLANETNAME}. Not only that, our researchers were able to create a synthetic version of the drug that is not addictive at all, though nowhere near as powerful. We should be able to distribute it for general use without any lasting downsides.
+    <String>Conseguimos acabar com as plantas que são a fonte do novo medicamento descoberto em {PLANETNAME}. Não só isso, nossos pesquisadores conseguiram criar uma versão sintética da droga que não é viciante, embora não seja tão poderosa. Devemos ser capazes de distribuí-la para uso geral sem nenhuma desvantagem duradoura.
 
-[COLOR=UIDefaultHighlight]+5 Benevolent,  +15% Morale on {PLANETNAME}.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+5 Benevolente,  +15% Morale em {PLANETNAME}.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_3c_Name</Label>
-    <String>Crisis: New Drug - Success</String>
+    <String>Crise: Nova droga - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_3c_Dec</Label>
-    <String>Our efforts to restrict usage of the new drug to the medical field on {PLANETNAME} seems to have been successful. Public usage has been reduced to almost nothing, and the drug's obvious use as a painkiller and therapeutic aid have proven to be very successful. 
+    <String>Nossos esforços para restringir o uso do novo medicamento ao campo médico no {PLANETNAME} parece ter sido bem sucedido. O uso público foi reduzido a quase nada, e o uso óbvio do medicamento como analgésico e auxiliar terapêutico provou ser muito bem sucedido. 
 
-[COLOR=UIDefaultHighlight]+25% Research and +25% colony income on {PLANETNAME}.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+25% de pesquisa e +25% de renda das colônias em {PLANETNAME}.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_3e_Name</Label>
-    <String>Crisis: New Drug - Success</String>
+    <String>Crise: Nova droga - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_3e_Dec</Label>
-    <String>This new drug has proven to be a commercial hit, the galaxy having an apparently bottomless appetite for it. The downsides, if there are any, will surely be offset by the sheer amounts of money this new enterprise is bringing in.
+    <String>Esta nova droga provou ser um sucesso comercial, tendo a galáxia um apetite aparentemente sem fundo para ela. As desvantagens, se houver alguma, certamente serão compensadas pela enorme quantidade de dinheiro que este novo empreendimento está trazendo.
 
-[COLOR=UIDefaultHighlight]-1% Global Growth and +50% Income on {PLANETNAME}.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]-1% Crescimento global e +50% de renda sobre {PLANETNAME}.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_3f_Name</Label>
-    <String>Crisis: New Drug - Failure</String>
+    <String>Crise: Nova droga - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Drugs_Choice_3f_Dec</Label>
-    <String>Unfortunately our formula for the newly refined drug was leaked, allowing criminals to refine the plant without us. Now not only do we have all the downsides of a rampantly addictive drug loose on our worlds, we're not even making any money off of it.
+    <String>Infelizmente nossa fórmula para a droga recém refinada foi vazada, permitindo que os criminosos aperfeiçoassem o refino sem nós. Agora não só temos todas as desvantagens de uma droga viciante e desenfreada solta em nosso mundo, como também não estamos nem mesmo ganhando dinheiro com ela.
 
-[COLOR=UIDefaultHighlight]+5% Global Morale, -2% Global Production, -1% Global Growth for 50 turns.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+5% Moral Global, -2% Produção Global, -1% Crescimento Global por 50 turnos.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Name</Label>
-    <String>Crisis: The Fissure</String>
+    <String>Crise: A Fissura</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Dec</Label>
-    <String>A giant fissure has opened up on a remote island on {PLANETNAME}, and enormous monsters have begun to emerge from it. The fissure seems to be a gateway to another universe, but all attempts to observe what's on the other side have thus far failed. The monsters seem to be under control when constrained to the island, but this is obviously a very dangerous situation. If they escaped the island there'd be little stopping them from causing havoc across the planet.</String>
+    <String>Uma fissura gigante se abriu em uma ilha remota em {PLANETNAME}, e enormes monstros começaram a emergir dela. A fissura parece ser uma porta de entrada para outro universo, mas todas as tentativas de observar o que está do outro lado têm falhado até agora. Os monstros parecem estar sob controle quando restritos à ilha, mas esta é obviamente uma situação muito perigosa. Se eles escapassem da ilha, nada os impediriam de causar estragos em todo o planeta.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice1Dec</Label>
-    <String>Let's attempt to study the monsters in place on the island.</String>
+    <String>Vamos tentar estudar os monstros existentes na ilha.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice1BonusDec</Label>
-    <String>+10 Benevolent</String>
+    <String>+10 Benevolente</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice2Dec</Label>
-    <String>Try to capture and domesticate the monsters.</String>
+    <String>Tente capturar e domesticar os monstros.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice2BonusDec</Label>
-    <String>+10 Pragmatic</String>
+    <String>+10 Pragmatico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice3Dec</Label>
-    <String>Create giant robots to fight the monsters, and keep them from escaping the island.</String>
+    <String>Criar robôs gigantes para combater os monstros, e evitar que eles escapem da ilha.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice3BonusDec</Label>
-    <String>+10 Malevolent</String>
+    <String>+10 Malevolo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_1_Name</Label>
-    <String>Crisis: Monster Fissure (part 2)</String>
+    <String>Crise: Monstros da Fissura (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_1_Dec</Label>
-    <String>We've begun our efforts to study the monster fissure and the resulting stream of monsters on {PLANETNAME}. Research is going well, and it looks like we might learn a great deal from these creatures.
-Unfortunately word of this "Monster Island" has leaked out, and unauthorized tourists are beginning to become an issue.</String>
+    <String>Começamos nossos esforços para estudar os monstros e o fluxo resultante de monstros em {PLANETNAME}. A pesquisa está indo bem, e parece que podemos aprender muito com essas criaturas.
+Infelizmente a notícia desta "Ilha dos Monstros" vazou, e turistas não autorizados estão começando a se tornar um problema.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_1_Choice1Dec</Label>
-    <String>Turn the island into a formal tourist attraction, with rigid safety precautions.</String>
+    <String>Transformar a ilha em uma atração turística formal, com rígidas precauções de segurança.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_1_Choice2Dec</Label>
-    <String>Ban all tourism. Make sure only researchers have access to the monsters.</String>
+    <String>Proibir todo o turismo. Certifique-se de que somente pesquisadores tenham acesso aos monstros.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_1_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Science check</String>
+    <String>{STATCHANCE}% Controle científico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_1a_Name</Label>
-    <String>Crisis: Monster Fissure - Success</String>
+    <String>Crise: Monstros da Fissura - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_1a_Dec</Label>
-    <String>Monster Island has become a huge success. Any incidents, of which there have been few, have widely been considered to be the tourists' fault.
+    <String>A Ilha dos Monstros se tornou um enorme sucesso. Quaisquer incidentes, dos quais foram poucos, foram amplamente considerados como sendo culpa dos turistas.
 
-[COLOR=UIDefaultHighlight]+25% colony income on {PLANETNAME}.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+25% de renda das colônias em {PLANETNAME}.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_1c_Name</Label>
-    <String>Crisis: Monster Fissure - Success</String>
+    <String>Crise: Monstros da Fissura - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_1c_Dec</Label>
-    <String>By limiting access to Monster Island to our own scientific teams, they've had unparalleled access to the monsters and rift itself, leading to several breakthroughs.
+    <String>Ao limitar o acesso à Ilha dos Monstros a nossas próprias equipes científicas, eles tiveram um acesso inigualável aos monstros e à própria fenda, levando a vários avanços.
 
-[COLOR=UIDefaultHighlight]+30% Research on {PLANETNAME}.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+30% de pesquisa sobre {PLANETNAME}.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_1d_Name</Label>
-    <String>Crisis: Monster Fissure - Failure</String>
+    <String>Crise: Monstros da Fissura - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_1d_Dec</Label>
-    <String>Sadly our researchers on Monster Island have become careless, allowing several monsters to escape to the mainland. Local authorities responded with a nuclear strike on the island, which, although it collapsed the fissure, did also destroy one of our most valuable research facilities. And, obviously, the researchers inside.
+    <String>Infelizmente nossos pesquisadores na Ilha do Monstro se tornaram descuidados, permitindo que vários monstros escapassem para o continente. As autoridades locais responderam com um ataque nuclear na ilha, que, embora tenha derrubado a fissura, também destruiu uma de nossas mais valiosas instalações de pesquisa. E, obviamente, os pesquisadores dentro da ilha.
 
-[COLOR=UIDefaultHighlight]-10% Population on {PLANETNAME} and -50% Research for 50 turns.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]-10% de população em {PLANETNAME} e -50% de pesquisa por 50 turnos.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_2_Name</Label>
-    <String>Crisis: Monster Fissure (part 2)</String>
+    <String>Crise: Monstros da Fissura (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_2_Dec</Label>
-    <String>We have managed to learn to control some of the monsters on {PLANETNAME}, though others have resisted - often violently - all our efforts. In addition, the monsters continue to come through the rift, and our researchers are concerned they will not have space for them on the island much longer.</String>
+    <String>Conseguimos aprender a controlar alguns dos monstros no {PLANETNAME}, embora outros tenham resistido - muitas vezes de forma violenta - a todos os nossos esforços. Além disso, os monstros continuam passando pela fenda, e nossos pesquisadores estão preocupados em não ter espaço para eles na ilha por muito mais tempo.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_2_Choice1Dec</Label>
-    <String>Try and use these monsters as beasts of burden.</String>
+    <String>Tente usar esses monstros como bestas de carga.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_2_Choice2Dec</Label>
-    <String>Turn the monsters into weapons.</String>
+    <String>Transformar os monstros em armas.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_2_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Military check</String>
+    <String>{STATCHANCE}% Controle militar</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_2a_Name</Label>
-    <String>Crisis: Monster Fissure - Success</String>
+    <String>Crise: Monstros da Fissura - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_2a_Dec</Label>
-    <String>The monsters have proven relatively useful when used in large scale demolition and some of the more dangerous aspects of terraforming. We've even begun to export them to other worlds to assist in their terraforming needs. 
+    <String>Os monstros têm se mostrado relativamente úteis quando usados em demolições em larga escala e alguns dos aspectos mais perigosos da terraformação. Começamos até mesmo a exportá-los para outros mundos para ajudar em suas necessidades de terraformação.
 
-[COLOR=UIDefaultHighlight]+30% colony income and +1 Tile on {PLANETNAME}.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+30% de renda das colônias e +1 Ladrilho sobre {PLANETNAME}.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_2c_Name</Label>
-    <String>Crisis: Monster Fissure - Success</String>
+    <String>Crise: Monstros da Fissura - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_2c_Dec</Label>
-    <String>We've successfully managed to turn the monsters into mobile platforms of destruction. With them we will have a great - and cinematic - advantage in any future invasions.
+    <String>Conseguimos transformar com sucesso os monstros em plataformas móveis de destruição. Com eles, teremos uma grande - e cinematográfica - vantagem em qualquer futura invasão.
 
-[COLOR=UIDefaultHighlight]Global Effect: +10% Soldiering and +10% Resistance for 100 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +10% de soldados e +10% de resistência por 100 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_2d_Name</Label>
-    <String>Crisis: Monster Fissure - Failure</String>
+    <String>Crise: Monstros da Fissura - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_2d_Dec</Label>
-    <String>Unfortunately our efforts to tame the monsters have failed, and if anything, taught them to be far more dangerous. Many monsters took the lessons taught to them to break free of the island, and reigned terror on a large portion of the colony before they could be stopped.
+    <String>Infelizmente, nossos esforços para domar os monstros falharam e, se alguma coisa, os ensinou a serem muito mais perigosos. Muitos monstros tomaram as lições que lhes foram ensinadas para se libertarem da ilha, e reinaram o terror em grande parte da colônia antes que eles pudessem ser detidos.
 
-[COLOR=UIDefaultHighlight]-33% Population on {PLANETNAME}.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]-33% População em {PLANETNAME}.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_3_Name</Label>
-    <String>Crisis: Monster Fissure (part 2)</String>
+    <String>Crise: Monstros da Fissura (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_3_Dec</Label>
-    <String>Not only have our use of giant robots to contain the monsters on {PLANETNAME} been successful, footage of their titanic struggles have been smuggled off world and become a viral sensation. We now have to deal with a stream of tourists - often very well-heeled tourists - coming to the island insisting on watching the fights.</String>
+    <String>Não apenas nosso uso de robôs gigantes para conter os monstros no {PLANETNAME} foi bem sucedido, as imagens de suas lutas titânicas foram contrabandeadas para fora do mundo e se tornaram uma sensação viral. Agora temos que lidar com um fluxo de turistas - muitas vezes turistas muito bem conduzidos - que chegam à ilha insistindo em assistir às lutas.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_3_Choice1Dec</Label>
-    <String>We can't risk this. Seal the rift so we don't endanger any innocent lives.</String>
+    <String>Não podemos arriscar isto. Selem a fenda para não colocarmos em perigo nenhuma vida inocente.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_3_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Science check</String>
+    <String>{STATCHANCE}% Controle científico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_3_Choice2Dec</Label>
-    <String>Let's make monster fighting an official sport then. Turn the island into a virtual stadium for the galaxy.</String>
+    <String>Vamos então fazer da luta contra monstros um esporte oficial. Transformar a ilha em um estádio virtual para a galáxia.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_3_Choice3Dec</Label>
-    <String>Lock down the island, and ban all rebroadcast of our containment efforts.</String>
+    <String>Fechar a ilha e proibir toda a retransmissão de nossos esforços de contenção.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_3a_Name</Label>
-    <String>Crisis: Monster Fissure - Success</String>
+    <String>Crise: Monstros da Fissura - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_3a_Dec</Label>
-    <String>Our researchers were able to seal the fissure, though not without cost, a large energy spike killing the crew that was doing the work. It's not all bad news though, their efforts made us realize this fissure was a type of controlled wormhole. Our researchers think they can use this knowledge to boost our hyperdrive performance.
+    <String>Nossos pesquisadores foram capazes de selar a fissura, embora não sem custo, um grande pico de energia matando a tripulação que estava fazendo o trabalho. Mas nem tudo é uma má notícia, seus esforços nos fizeram perceber que esta fissura era um tipo de fenda espacial controlada. Nossos pesquisadores pensam que podem usar este conhecimento para impulsionar nosso desempenho do hiperpropulsor.
 
-[COLOR=UIDefaultHighlight]+1 Global Ship Speed.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+1 Velocidade Global de Naves.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_3b_Name</Label>
-    <String>Crisis: Monster Fissure - Failure</String>
+    <String>Crise: Monstros da Fissura - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_3b_Dec</Label>
-    <String>We failed, in a sense. While trying to seal the rift on {PLANETNAME}, an explosion sucked the entirety of Monster Island into another universe. No more monsters, and no more rift, though the explosion also decimated a sizable chunk of the colony itself.
+    <String>Falhamos, em certo sentido. Ao tentar selar a fenda no {PLANETNAME}, uma explosão sugou toda a Ilha dos Monstros para outro universo. Sem mais monstros, e sem mais fenda, embora a explosão também tenha dizimado um grande pedaço da própria colônia.
 
-[COLOR=UIDefaultHighlight]-33% Population on {PLANETNAME}.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]-33% População em {PLANETNAME}.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_3c_Name</Label>
-    <String>Crisis: Monster Fissure - Success</String>
+    <String>Crise: Monstros da Fissura - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_3c_Dec</Label>
-    <String>Our Monster League battles, as we're now calling them, have become a huge success. The rift seems to be responding to the challenge, the monsters that emerge from it getting bigger and bigger. Hey that's just more credits, right?
+    <String>Nossas batalhas da Liga dos Monstros, como agora as chamamos, se tornaram um enorme sucesso. A fenda parece estar respondendo ao desafio, os monstros que dela emergem estão ficando cada vez maiores. Isso são apenas mais créditos, certo?
 
-[COLOR=UIDefaultHighlight]+33% colony Income.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+33% de renda das colônias.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_3e_Name</Label>
-    <String>Crisis: Monster Fissure - Success</String>
+    <String>Crise: Monstros da Fissura - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Fissure_Choice_3e_Dec</Label>
-    <String>We seem to have stopped the illegal broadcast of the monster fights, and for the most part the existing videos are now being written off as fake.
-In addition we have discovered many uses for the corpse of the monsters, both for research and commercial purposes.
+    <String>Parece que paramos a transmissão ilegal das lutas de monstros e, na maior parte dos casos, os vídeos existentes estão agora sendo escritos como falsos.
+Além disso, descobrimos muitos usos para o cadáver dos monstros, tanto para pesquisa quanto para fins comerciais.
 
-[COLOR=UIDefaultHighlight]+33% colony Income and +15% Research on {PLANETNAME}.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+33% de renda das colônias e +15% de pesquisa sobre {PLANETNAME}.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Name</Label>
-    <String>Crisis: Mercenary Pirates</String>
+    <String>Crise: Piratas Mercenários</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Dec</Label>
-    <String>Rumor has begun to circulate of a new group of disciplined and deadly pirates that have begun operating around the borders of our civilization. They have not done much harm to us yet, but their growing reputation has the leaders of many of our outlying colonies concerned.</String>
+    <String>Começaram a circular rumores de um novo grupo de piratas disciplinados e mortais que começaram a operar em torno das fronteiras de nossa civilização. Eles ainda não nos fizeram muito mal, mas sua crescente reputação tem os líderes de muitas de nossas colônias periféricas envolvidas.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice1Dec</Label>
-    <String>Find out where they are coming from, so we can stop them at the source.</String>
+    <String>Descubra de onde eles estão vindo, para que possamos detê-los na fonte.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice1BonusDec</Label>
-    <String>+15 Benevolent</String>
+    <String>+15 Benevolente</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice2Dec</Label>
-    <String>If they are effective killers, perhaps we can use them. Try and recruit these pirates.</String>
+    <String>Se eles são assassinos eficazes, talvez possamos usá-los. Tente recrutar esses piratas.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice2BonusDec</Label>
-    <String>+15 Pragmatic</String>
+    <String>+15 Pragmatico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice3Dec</Label>
-    <String>We will never tolerate piracy in any form. Hunt them down and kill them.</String>
+    <String>Nunca toleraremos a pirataria sob qualquer forma. Persigam-nos e matem-nos.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice3BonusDec</Label>
-    <String>+15 Malevolent</String>
+    <String>+15 Malevolo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_1_Name</Label>
-    <String>Crisis: Mercenary Pirates (part 2)</String>
+    <String>Crise: Piratas Mercenários (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_1_Dec</Label>
-    <String>While investigating the mysterious new pirates, we have come to realize they are operating from a hidden planetary base somewhere within our own borders. 
-The planet seems to be of high quality given the resources that the pirates are able to muster.</String>
+    <String>Enquanto investigávamos os misteriosos novos piratas, percebemos que eles estão operando a partir de uma base planetária escondida em algum lugar dentro de nossas próprias fronteiras. 
+O planeta parece ser de alta qualidade, dados os recursos que os piratas são capazes de reunir.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_1_Choice1Dec</Label>
-    <String>Hunt down the pirates, but leave their world alone if they promise to stay on it.</String>
+    <String>Cacem os piratas, mas deixem seu mundo em paz se eles prometerem permanecer nele.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_1_Choice2Dec</Label>
-    <String>Find the pirates and force them to show us where this planet of theirs is.</String>
+    <String>Encontre os piratas e force-os a nos mostrar onde está este planeta deles.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_1_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Pragmatic check</String>
+    <String>{STATCHANCE}% Controle pragmático</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_1_Choice3Dec</Label>
-    <String>Find the pirate world and destroy it, before they can become too powerful.</String>
+    <String>Encontre o mundo pirata e destrua-o, antes que eles possam se tornar poderosos demais.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_1a_Name</Label>
-    <String>Crisis: Mercenary Pirates - Success</String>
+    <String>Crise: Piratas Mercenários - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_1a_Dec</Label>
-    <String>Our commanders report a partial success. We were able to capture the main pirate force, and even salvaged a few of their ships. But we were not able to find out the location of their base.
+    <String>Nossos comandantes relatam um sucesso parcial. Fomos capazes de capturar a principal força pirata, e até mesmo resgatamos alguns de seus navios. Mas não fomos capazes de descobrir a localização de sua base.
 
-[COLOR=UIDefaultHighlight]1 Frigate, 2 Gunboats and 1 Battle Axe.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]1 fragata, 2 canhoneiras e 1 machado de batalha.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_1c_Name</Label>
-    <String>Crisis: Mercenary Pirates - Success</String>
+    <String>Crise: Piratas Mercenários - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_1c_Dec</Label>
-    <String>We were able to track down most of the pirates and trace them back to their secret base. 
-We were able to capture it with little effort. though some of the pirates did manage to flee. They're pretty angry. 
+    <String>Conseguimos rastrear a maioria dos piratas e rastreá-los até sua base secreta. 
+Conseguimos capturá-la com pouco esforço, embora alguns dos piratas tenham conseguido fugir. Eles estão bastante zangados. 
 
-[COLOR=UIDefaultHighlight]New planet discovered. Small group of pirates spawn in your territory.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Descoberto um novo planeta. Pequeno grupo de piratas brotam em seu território.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_1d_Name</Label>
-    <String>Crisis: Mercenary Pirates - Failure</String>
+    <String>Crise: Piratas Mercenários - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_1d_Dec</Label>
-    <String>We were able to track down the pirate base, but unfortunately when we arrived we found they had already fled the planet. The traps they've left behind have left it almost unlivable.
+    <String>Conseguimos rastrear a base pirata, mas infelizmente quando chegamos descobrimos que eles já haviam fugido do planeta. As armadilhas que eles deixaram para trás deixaram-no quase inacessível.
 
-[COLOR=UIDefaultHighlight]Low level planet Discovered, Multiple pirates spawn in your territory.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Planeta de baixo nível Descoberto, Vários piratas surgem em seu território.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_1e_Name</Label>
-    <String>Crisis: Mercenary Pirates - Success</String>
+    <String>Crise: Piratas Mercenários - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_1e_Dec</Label>
-    <String>We were able to track down the pirate secret base, and then drop a few asteroids on it. They won't be using that again. In addition we were able to capture several ships that were still in orbit when we arrived.
+    <String>Fomos capazes de rastrear a base secreta pirata e, em seguida, lançar alguns asteróides sobre ela. Eles não vão usar isso novamente. Além disso, pudemos capturar várias naves que ainda estavam em órbita quando chegamos.
 
-[COLOR=UIDefaultHighlight]Award 2 Frigates[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Prêmio 2 Fragatas[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_2_Name</Label>
-    <String>Crisis: Mercenary Pirates (part 2)</String>
+    <String>Crise: Piratas Mercenários (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_2_Dec</Label>
-    <String>While tracking down the mysterious new pirates we've discovered that most of them are former members of our military. Spies report that many of them are potentially willing to come back into the fold, but others are by now hardened criminals, guilty of far more serious crimes than mutiny.</String>
+    <String>Enquanto rastreávamos os misteriosos novos piratas, descobrimos que a maioria deles são ex-membros de nossas forças armadas. Os espiões relatam que muitos deles estão potencialmente dispostos a voltar ao grupo, mas outros já são criminosos endurecidos, culpados de crimes muito mais graves do que um motim.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_2_Choice1Dec</Label>
-    <String>Offer them blanket immunity, as long as no further crimes are committed.</String>
+    <String>Ofereça-lhes imunidade geral, desde que não tenham sido cometidos mais crimes.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_2_Choice2Dec</Label>
-    <String>If they will give up the worst offenders the honest ones will be welcomed back with open arms.</String>
+    <String>Se eles entregarem os piores infratores, os honestos serão recebidos de volta de braços abertos.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_2_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Pragmatic check</String>
+    <String>{STATCHANCE}% Controle pragmático</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_2_Choice3Dec</Label>
-    <String>Deserters all of them. Who needs them. Kill them all.</String>
+    <String>Todos eles são desertores. Quem precisa deles. Matem todos eles.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_2c_Name</Label>
-    <String>Crisis: Mercenary Pirates - Success</String>
+    <String>Crise: Piratas Mercenários - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_2c_Dec</Label>
-    <String>The pirates have reluctantly surrendered the most wanted members, ending the crisis almost without bloodshed. Only one ship fled, but one more pirate in the galaxy is nothing to be too concerned about.
+    <String>Os piratas relutantemente se renderam aos membros mais procurados, terminando a crise quase sem derramamento de sangue. Apenas uma nave fugiu, mas mais um pirata na galáxia não é motivo de preocupação.
 
-[COLOR=UIDefaultHighlight]Award Battleship and 2 Frigates, 1 pirate spawn in your territory.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Prêmio Encouraçado e 2 Fragatas, 1 pirata surge em seu território.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_2d_Name</Label>
-    <String>Crisis: Mercenary Pirates - Failure</String>
+    <String>Crise: Piratas Mercenários - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -1011,7 +1011,7 @@ We were able to capture it with little effort. though some of the pirates did ma
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_3_Name</Label>
-    <String>Crisis: Mercenary Pirates (part 2)</String>
+    <String>Crise: Piratas Mercenários (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -1041,7 +1041,7 @@ We were able to capture it with little effort. though some of the pirates did ma
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_3a_Name</Label>
-    <String>Crisis: Mercenary Pirates - Success</String>
+    <String>Crise: Piratas Mercenários - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1053,7 +1053,7 @@ We were able to capture it with little effort. though some of the pirates did ma
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_3b_Name</Label>
-    <String>Crisis: Mercenary Pirates - Failure</String>
+    <String>Crise: Piratas Mercenários - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -1065,7 +1065,7 @@ We were able to capture it with little effort. though some of the pirates did ma
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_3c_Name</Label>
-    <String>Crisis: Mercenary Pirates - Success</String>
+    <String>Crise: Piratas Mercenários - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1077,7 +1077,7 @@ We were able to capture it with little effort. though some of the pirates did ma
  
   <StringTable>
     <Label>Crisis_Pirates_Choice_3e_Name</Label>
-    <String>Crisis: Mercenary Pirates - Success</String>
+    <String>Crise: Piratas Mercenários - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1130,7 +1130,7 @@ Strangely, most of these mutations have had net positive effects on the colonist
  
   <StringTable>
     <Label>Crisis_Mutations_Choice_1_Name</Label>
-    <String>Crisis: Mutations (part 2)</String>
+    <String>Crisis: Mutations (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -1161,7 +1161,7 @@ Luckily the nanites are not self-replicating, and their limited supply has restr
  
   <StringTable>
     <Label>Crisis_Mutations_Choice_1a_Name</Label>
-    <String>Crisis: Mutations - Success</String>
+    <String>Crisis: Mutations - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1175,7 +1175,7 @@ More importantly life on {PLANETNAME} has returned to normal.
  
   <StringTable>
     <Label>Crisis_Mutations_Choice_1c_Name</Label>
-    <String>Crisis: Mutations - Success</String>
+    <String>Crisis: Mutations - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1187,7 +1187,7 @@ More importantly life on {PLANETNAME} has returned to normal.
  
   <StringTable>
     <Label>Crisis_Mutations_Choice_1d_Name</Label>
-    <String>Crisis: Mutations - Failure</String>
+    <String>Crisis: Mutations - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -1200,7 +1200,7 @@ While we were able to stop their experiment, there's no saying what the long ter
  
   <StringTable>
     <Label>Crisis_Mutations_Choice_1e_Name</Label>
-    <String>Crisis: Mutations - Success</String>
+    <String>Crisis: Mutations - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1212,7 +1212,7 @@ While we were able to stop their experiment, there's no saying what the long ter
  
   <StringTable>
     <Label>Crisis_Mutations_Choice_2_Name</Label>
-    <String>Crisis: Mutations (part 2)</String>
+    <String>Crisis: Mutations (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -1244,7 +1244,7 @@ Though not all of the modifications are helpful to the victims, the majority are
  
   <StringTable>
     <Label>Crisis_Mutations_Choice_2a_Name</Label>
-    <String>Crisis: Mutations - Success</String>
+    <String>Crisis: Mutations - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1256,7 +1256,7 @@ Though not all of the modifications are helpful to the victims, the majority are
  
   <StringTable>
     <Label>Crisis_Mutations_Choice_2c_Name</Label>
-    <String>Crisis: Mutations - Success</String>
+    <String>Crisis: Mutations - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1269,7 +1269,7 @@ A morally dubious, but highly profitable arrangement.
  
   <StringTable>
     <Label>Crisis_Mutations_Choice_2e_Name</Label>
-    <String>Crisis: Mutations - Success</String>
+    <String>Crisis: Mutations - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1281,7 +1281,7 @@ A morally dubious, but highly profitable arrangement.
  
   <StringTable>
     <Label>Crisis_Mutations_Choice_2f_Name</Label>
-    <String>Crisis: Mutations - Failure</String>
+    <String>Crisis: Mutations - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -1293,7 +1293,7 @@ A morally dubious, but highly profitable arrangement.
  
   <StringTable>
     <Label>Crisis_Mutations_Choice_3_Name</Label>
-    <String>Crisis: Mutations (part 2)</String>
+    <String>Crisis: Mutations (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -1329,7 +1329,7 @@ Despite their clandestine methods they have been greatly successful, and would h
  
   <StringTable>
     <Label>Crisis_Mutations_Choice_3a_Name</Label>
-    <String>Crisis: Mutations - Success</String>
+    <String>Crisis: Mutations - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1341,7 +1341,7 @@ Despite their clandestine methods they have been greatly successful, and would h
  
   <StringTable>
     <Label>Crisis_Mutations_Choice_3c_Name</Label>
-    <String>Crisis: Mutations - Success</String>
+    <String>Crisis: Mutations - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1354,7 +1354,7 @@ The general population was not quite as happy when word of this arrangement leak
  
   <StringTable>
     <Label>Crisis_Mutations_Choice_3d_Name</Label>
-    <String>Crisis: Mutations - Failure</String>
+    <String>Crisis: Mutations - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -1367,7 +1367,7 @@ Needless to say, the general population is also not terribly happy to know we we
  
   <StringTable>
     <Label>Crisis_Mutations_Choice_3e_Name</Label>
-    <String>Crisis: Mutations - Success</String>
+    <String>Crisis: Mutations - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1420,7 +1420,7 @@ One curious side effect of the disease is that the survivors appear to be left w
  
   <StringTable>
     <Label>Crisis_Pandemic_Choice_1_Name</Label>
-    <String>Crisis: Painkiller (part 2)</String>
+    <String>Crisis: Painkiller (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -1450,7 +1450,7 @@ One curious side effect of the disease is that the survivors appear to be left w
  
   <StringTable>
     <Label>Crisis_Pandemic_Choice_1a_Name</Label>
-    <String>Crisis: Painkiller - Success</String>
+    <String>Crisis: Painkiller - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1463,7 +1463,7 @@ In addition, by studying the disease, they have been able to not only find a cur
  
   <StringTable>
     <Label>Crisis_Pandemic_Choice_1b_Name</Label>
-    <String>Crisis: Painkiller - Failure</String>
+    <String>Crisis: Painkiller - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -1475,7 +1475,7 @@ In addition, by studying the disease, they have been able to not only find a cur
  
   <StringTable>
     <Label>Crisis_Pandemic_Choice_1c_Name</Label>
-    <String>Crisis: Painkiller - Success</String>
+    <String>Crisis: Painkiller - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1487,7 +1487,7 @@ In addition, by studying the disease, they have been able to not only find a cur
  
   <StringTable>
     <Label>Crisis_Pandemic_Choice_1e_Name</Label>
-    <String>Crisis: Painkiller - Success</String>
+    <String>Crisis: Painkiller - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1500,7 +1500,7 @@ We will never really know if we could have helped more. But we do know that this
  
   <StringTable>
     <Label>Crisis_Pandemic_Choice_2_Name</Label>
-    <String>Crisis: Painkiller (part 2)</String>
+    <String>Crisis: Painkiller (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -1531,7 +1531,7 @@ However they are concerned that even with these countermeasures, there is still 
  
   <StringTable>
     <Label>Crisis_Pandemic_Choice_3_Name</Label>
-    <String>Crisis: Painkiller (part 2)</String>
+    <String>Crisis: Painkiller (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -1562,7 +1562,7 @@ But they are not at all happy with our decision to lock down their world and tre
  
   <StringTable>
     <Label>Crisis_Pandemic_Choice_3a_Name</Label>
-    <String>Crisis: Painkiller - Success</String>
+    <String>Crisis: Painkiller - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1574,7 +1574,7 @@ But they are not at all happy with our decision to lock down their world and tre
  
   <StringTable>
     <Label>Crisis_Pandemic_Choice_3b_Name</Label>
-    <String>Crisis: Painkiller - Failure</String>
+    <String>Crisis: Painkiller - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -1586,7 +1586,7 @@ But they are not at all happy with our decision to lock down their world and tre
  
   <StringTable>
     <Label>Crisis_Pandemic_Choice_3c_Name</Label>
-    <String>Crisis: Painkiller - Success</String>
+    <String>Crisis: Painkiller - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1599,7 +1599,7 @@ Unfortunately {PLANETNAME}s population has paid a terrible price for this knowle
  
   <StringTable>
     <Label>Crisis_Pandemic_Choice_3e_Name</Label>
-    <String>Crisis: Painkiller - Success</String>
+    <String>Crisis: Painkiller - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1652,7 +1652,7 @@ This has been a boon to our recruiters, as they now have no lack of newly painle
  
   <StringTable>
     <Label>Crisis_Murderer_Choice_1_Name</Label>
-    <String>Crisis: Murderer on the loose (part 2)</String>
+    <String>Crisis: Murderer on the loose (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -1683,7 +1683,7 @@ Their only lead is an anonymous tip suggesting it's not a coincidence that this 
  
   <StringTable>
     <Label>Crisis_Murderer_Choice_1a_Name</Label>
-    <String>Crisis: Murderer on the loose - Success</String>
+    <String>Crisis: Murderer on the loose - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1695,7 +1695,7 @@ Their only lead is an anonymous tip suggesting it's not a coincidence that this 
  
   <StringTable>
     <Label>Crisis_Murderer_Choice_1c_Name</Label>
-    <String>Crisis: Murderer on the loose - Success</String>
+    <String>Crisis: Murderer on the loose - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1707,7 +1707,7 @@ Their only lead is an anonymous tip suggesting it's not a coincidence that this 
  
   <StringTable>
     <Label>Crisis_Murderer_Choice_1e_Name</Label>
-    <String>Crisis: Murderer on the loose - Success</String>
+    <String>Crisis: Murderer on the loose - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1719,7 +1719,7 @@ Their only lead is an anonymous tip suggesting it's not a coincidence that this 
  
   <StringTable>
     <Label>Crisis_Murderer_Choice_1f_Name</Label>
-    <String>Crisis: Murderer on the loose - Failure</String>
+    <String>Crisis: Murderer on the loose - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -1731,7 +1731,7 @@ Their only lead is an anonymous tip suggesting it's not a coincidence that this 
  
   <StringTable>
     <Label>Crisis_Murderer_Choice_2_Name</Label>
-    <String>Crisis: Murderer on the loose (part 2)</String>
+    <String>Crisis: Murderer on the loose (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -1762,7 +1762,7 @@ Someone at or near the top is trying to stop word of these murders from becoming
  
   <StringTable>
     <Label>Crisis_Murderer_Choice_2a_Name</Label>
-    <String>Crisis: Murderer on the loose - Success</String>
+    <String>Crisis: Murderer on the loose - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1774,7 +1774,7 @@ Someone at or near the top is trying to stop word of these murders from becoming
  
   <StringTable>
     <Label>Crisis_Murderer_Choice_2b_Name</Label>
-    <String>Crisis: Murderer on the loose - Failure</String>
+    <String>Crisis: Murderer on the loose - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -1788,7 +1788,7 @@ This probably wasn't a coincidence.
  
   <StringTable>
     <Label>Crisis_Murderer_Choice_2c_Name</Label>
-    <String>Crisis: Murderer on the loose - Success</String>
+    <String>Crisis: Murderer on the loose - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1801,7 +1801,7 @@ Interestingly, a high profile research center on the colony, run by his brother,
  
   <StringTable>
     <Label>Crisis_Murderer_Choice_2e_Name</Label>
-    <String>Crisis: Murderer on the loose - Success</String>
+    <String>Crisis: Murderer on the loose - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1814,7 +1814,7 @@ In somewhat positive, possibly unrelated news, a high profile research center on
  
   <StringTable>
     <Label>Crisis_Murderer_Choice_3_Name</Label>
-    <String>Crisis: Murderer on the loose (part 2)</String>
+    <String>Crisis: Murderer on the loose (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -1850,7 +1850,7 @@ Our current theory is that someone is removing these brains to find out what the
  
   <StringTable>
     <Label>Crisis_Murderer_Choice_3c_Name</Label>
-    <String>Crisis: Murderer on the loose - Success</String>
+    <String>Crisis: Murderer on the loose - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1863,7 +1863,7 @@ It appears that the leader of this team is, if not the murderer himself, at leas
  
   <StringTable>
     <Label>Crisis_Murderer_Choice_3d_Name</Label>
-    <String>Crisis: Murderer on the loose - Failure</String>
+    <String>Crisis: Murderer on the loose - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -1918,7 +1918,7 @@ Strangely, the commander of the deserter ship is reputed to be one of our best. 
  
   <StringTable>
     <Label>Crisis_Deserters_Choice_1_Name</Label>
-    <String>Crisis: Distinguished Commander (part 2)</String>
+    <String>Crisis: Distinguished Commander (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -1949,7 +1949,7 @@ Before he deserted they were considering putting him under psychological review,
  
   <StringTable>
     <Label>Crisis_Deserters_Choice_1a_Name</Label>
-    <String>Crisis: Distinguished Commander - Success</String>
+    <String>Crisis: Distinguished Commander - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1962,7 +1962,7 @@ The overlord was victorious but damaged badly, plunging into the wormhole itself
  
   <StringTable>
     <Label>Crisis_Deserters_Choice_1c_Name</Label>
-    <String>Crisis: Distinguished Commander - Success</String>
+    <String>Crisis: Distinguished Commander - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -1975,7 +1975,7 @@ The overlord engaged the beast and emerged victorious but damaged badly, plungin
  
   <StringTable>
     <Label>Crisis_Deserters_Choice_1d_Name</Label>
-    <String>Crisis: Distinguished Commander - Failure</String>
+    <String>Crisis: Distinguished Commander - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -1988,7 +1988,7 @@ Unfortunately while this was happening several space monsters began emerging fro
  
   <StringTable>
     <Label>Crisis_Deserters_Choice_1e_Name</Label>
-    <String>Crisis: Distinguished Commander - Success</String>
+    <String>Crisis: Distinguished Commander - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2001,7 +2001,7 @@ During the attack, the deserter commander escaped in a shuttle filled with explo
  
   <StringTable>
     <Label>Crisis_Deserters_Choice_2_Name</Label>
-    <String>Crisis: Distinguished Commander (part 2)</String>
+    <String>Crisis: Distinguished Commander (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -2036,7 +2036,7 @@ During the attack, the deserter commander escaped in a shuttle filled with explo
  
   <StringTable>
     <Label>Crisis_Deserters_Choice_2e_Name</Label>
-    <String>Crisis: Distinguished Commander - Success</String>
+    <String>Crisis: Distinguished Commander - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2049,7 +2049,7 @@ At this point, the deserter commander broke off the engagement and launched a sh
  
   <StringTable>
     <Label>Crisis_Deserters_Choice_2f_Name</Label>
-    <String>Crisis: Distinguished Commander - Failure</String>
+    <String>Crisis: Distinguished Commander - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -2062,7 +2062,7 @@ Unfortunately during the battle, several large space monsters emerged from the w
  
   <StringTable>
     <Label>Crisis_Deserters_Choice_3_Name</Label>
-    <String>Crisis: Distinguished Commander (part 2)</String>
+    <String>Crisis: Distinguished Commander (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -2092,7 +2092,7 @@ Unfortunately during the battle, several large space monsters emerged from the w
  
   <StringTable>
     <Label>Crisis_Deserters_Choice_3e_Name</Label>
-    <String>Crisis: Distinguished Commander - Success</String>
+    <String>Crisis: Distinguished Commander - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2147,7 +2147,7 @@ Whatever this mad governor is up to seems to be working though, as {PLANETNAME} 
  
   <StringTable>
     <Label>Crisis_Mad_Governor_Choice_1_Name</Label>
-    <String>Crisis: The Mad Governor (part 2)</String>
+    <String>Crisis: The Mad Governor (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -2181,7 +2181,7 @@ In the meantime, the colony is reporting even higher productivity than before.
  
   <StringTable>
     <Label>Crisis_Mad_Governor_Choice_1a_Name</Label>
-    <String>Crisis: The Mad Governor - Success</String>
+    <String>Crisis: The Mad Governor - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2195,7 +2195,7 @@ We should be able to return things to normal, but the planet's population will b
  
   <StringTable>
     <Label>Crisis_Mad_Governor_Choice_1e_Name</Label>
-    <String>Crisis: The Mad Governor - Success</String>
+    <String>Crisis: The Mad Governor - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2208,7 +2208,7 @@ Still, we can always send them more population.
  
   <StringTable>
     <Label>Crisis_Mad_Governor_Choice_1f_Name</Label>
-    <String>Crisis: The Mad Governor - Failure</String>
+    <String>Crisis: The Mad Governor - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -2222,7 +2222,7 @@ Things seem to have calmed down since then, though we expect production and mora
  
   <StringTable>
     <Label>Crisis_Mad_Governor_Choice_2_Name</Label>
-    <String>Crisis: The Mad Governor (part 2)</String>
+    <String>Crisis: The Mad Governor (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -2255,7 +2255,7 @@ Most of the team seems convinced that the governor's behavior, however erratic, 
  
   <StringTable>
     <Label>Crisis_Mad_Governor_Choice_2a_Name</Label>
-    <String>Crisis: The Mad Governor - Success</String>
+    <String>Crisis: The Mad Governor - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2269,7 +2269,7 @@ We should be able to return things to normal, but the planet's population will b
  
   <StringTable>
     <Label>Crisis_Mad_Governor_Choice_3_Name</Label>
-    <String>Crisis: The Mad Governor (part 2)</String>
+    <String>Crisis: The Mad Governor (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -2302,7 +2302,7 @@ More troubling, the growth rate of the planet has almost completely stalled.
  
   <StringTable>
     <Label>Crisis_Mad_Governor_Choice_3a_Name</Label>
-    <String>Crisis: The Mad Governor - Success</String>
+    <String>Crisis: The Mad Governor - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2315,7 +2315,7 @@ With some help from our researchers, we have been able to make sure this new sti
  
   <StringTable>
     <Label>Crisis_Mad_Governor_Choice_3e_Name</Label>
-    <String>Crisis: The Mad Governor - Success</String>
+    <String>Crisis: The Mad Governor - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2371,7 +2371,7 @@ If we're just noticing this now, it's likely been going for quite some time. Who
  
   <StringTable>
     <Label>Crisis_Dark_Hub_Choice_1_Name</Label>
-    <String>Crisis: The Dark Hub (part 2)</String>
+    <String>Crisis: The Dark Hub (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -2407,7 +2407,7 @@ We are hopeful that this will make it easier to isolate the criminal element and
  
   <StringTable>
     <Label>Crisis_Dark_Hub_Choice_1a_Name</Label>
-    <String>Crisis: The Dark Hub - Success</String>
+    <String>Crisis: The Dark Hub - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2423,7 +2423,7 @@ We are now in possession of a thriving trading base that should only become more
  
   <StringTable>
     <Label>Crisis_Dark_Hub_Choice_1c_Name</Label>
-    <String>Crisis: The Dark Hub - Success</String>
+    <String>Crisis: The Dark Hub - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2438,7 +2438,7 @@ The remaining population of the base is afraid of retaliation from these pirates
  
   <StringTable>
     <Label>Crisis_Dark_Hub_Choice_1d_Name</Label>
-    <String>Crisis: The Dark Hub - Failure</String>
+    <String>Crisis: The Dark Hub - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -2451,7 +2451,7 @@ The criminal syndicate is now firmly in charge of the base and has brought in se
  
   <StringTable>
     <Label>Crisis_Dark_Hub_Choice_1e_Name</Label>
-    <String>Crisis: The Dark Hub - Success</String>
+    <String>Crisis: The Dark Hub - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2464,7 +2464,7 @@ This at least allowed us to capture the base intact, though the people who made 
  
   <StringTable>
     <Label>Crisis_Dark_Hub_Choice_1f_Name</Label>
-    <String>Crisis: The Dark Hub - Failure</String>
+    <String>Crisis: The Dark Hub - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -2476,7 +2476,7 @@ This at least allowed us to capture the base intact, though the people who made 
  
   <StringTable>
     <Label>Crisis_Dark_Hub_Choice_2_Name</Label>
-    <String>Crisis: The Dark Hub (part 2)</String>
+    <String>Crisis: The Dark Hub (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -2512,7 +2512,7 @@ We are hopeful that this will make it easier to isolate the criminal element and
  
   <StringTable>
     <Label>Crisis_Dark_Hub_Choice_2e_Name</Label>
-    <String>Crisis: The  Dark Hub - Success</String>
+    <String>Crisis: The  Dark Hub - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2525,7 +2525,7 @@ The only bad news is that most of the people who made the base such a valuable t
  
   <StringTable>
     <Label>Crisis_Dark_Hub_Choice_3_Name</Label>
-    <String>Crisis: The Dark Hub (part 2)</String>
+    <String>Crisis: The Dark Hub (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -2561,7 +2561,7 @@ Unfortunately, the base seems to have a large civilian population that continues
  
   <StringTable>
     <Label>Crisis_Dark_Hub_Choice_3c_Name</Label>
-    <String>Crisis: The Dark Hub - Success</String>
+    <String>Crisis: The Dark Hub - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2575,7 +2575,7 @@ This arrangement should prove very profitable at least as long as we are able to
  
   <StringTable>
     <Label>Crisis_Dark_Hub_Choice_3d_Name</Label>
-    <String>Crisis: The Dark Hub - Failure</String>
+    <String>Crisis: The Dark Hub - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -2589,7 +2589,7 @@ This has not been good for our reputation in the galaxy.
  
   <StringTable>
     <Label>Crisis_Dark_Hub_Choice_3e_Name</Label>
-    <String>Crisis: The Dark Hub - Success</String>
+    <String>Crisis: The Dark Hub - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2602,7 +2602,7 @@ From the wreckage we were able to seize a large stash of credits, as well as sev
  
   <StringTable>
     <Label>Crisis_Dark_Hub_Choice_3f_Name</Label>
-    <String>Crisis: The Dark Hub - Failure</String>
+    <String>Crisis: The Dark Hub - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -2656,7 +2656,7 @@ One local scientist realized that the creatures and the corpses used to live in 
  
   <StringTable>
     <Label>Crisis_Symbionts_Choice_1_Name</Label>
-    <String>Crisis: Symbiotes (part 2)</String>
+    <String>Crisis: Symbiotes (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -2683,7 +2683,7 @@ Now the scientist claims to contain both his own and the Symbiote's consciousnes
  
   <StringTable>
     <Label>Crisis_Symbionts_Choice_1a_Name</Label>
-    <String>Crisis: Symbiotes - Success</String>
+    <String>Crisis: Symbiotes - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2696,7 +2696,7 @@ The governor of {PLANETNAME} was greatly disturbed by this and has ordered all t
  
   <StringTable>
     <Label>Crisis_Symbionts_Choice_1c_Name</Label>
-    <String>Crisis: Symbiotes - Success</String>
+    <String>Crisis: Symbiotes - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2708,7 +2708,7 @@ The governor of {PLANETNAME} was greatly disturbed by this and has ordered all t
  
   <StringTable>
     <Label>Crisis_Symbionts_Choice_1d_Name</Label>
-    <String>Crisis: Symbiotes - Failure</String>
+    <String>Crisis: Symbiotes - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -2724,7 +2724,7 @@ Few lives were lost in the disaster, but the resulting dust plume will be doing 
  
   <StringTable>
     <Label>Crisis_Symbionts_Choice_2_Name</Label>
-    <String>Crisis: Symbiotes (part 2)</String>
+    <String>Crisis: Symbiotes (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -2755,7 +2755,7 @@ Wild, speculative predictions that are always revealed to be accurate. The colon
  
   <StringTable>
     <Label>Crisis_Symbionts_Choice_2a_Name</Label>
-    <String>Crisis: Symbiotes - Success</String>
+    <String>Crisis: Symbiotes - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2769,7 +2769,7 @@ We have transferred the infected crew to a remote research center, where they ca
  
   <StringTable>
     <Label>Crisis_Symbionts_Choice_2c_Name</Label>
-    <String>Crisis: Symbiotes - Success</String>
+    <String>Crisis: Symbiotes - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2782,7 +2782,7 @@ The local government has agreed to let them continue to study and repair the anc
  
   <StringTable>
     <Label>Crisis_Symbionts_Choice_2d_Name</Label>
-    <String>Crisis: Symbiotes - Failure</String>
+    <String>Crisis: Symbiotes - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -2796,7 +2796,7 @@ The ship and all its knowledge have been lost, and the resulting dust plume will
  
   <StringTable>
     <Label>Crisis_Symbionts_Choice_2e_Name</Label>
-    <String>Crisis: Symbiotes - Success</String>
+    <String>Crisis: Symbiotes - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2809,7 +2809,7 @@ Fearing contamination, the military has since burned all the remaining symbiotes
  
   <StringTable>
     <Label>Crisis_Symbionts_Choice_3_Name</Label>
-    <String>Crisis: Symbiotes (part 2)</String>
+    <String>Crisis: Symbiotes (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -2840,7 +2840,7 @@ Our scientists believe that these Symbiotes greatly augment the talent of their 
  
   <StringTable>
     <Label>Crisis_Symbionts_Choice_3c_Name</Label>
-    <String>Crisis: Symbiotes - Success</String>
+    <String>Crisis: Symbiotes - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2853,7 +2853,7 @@ Apparently the race they were formerly bonded with was obsessed with technology,
  
   <StringTable>
     <Label>Crisis_Symbionts_Choice_3e_Name</Label>
-    <String>Crisis: Symbiotes - Success</String>
+    <String>Crisis: Symbiotes - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2865,7 +2865,7 @@ Apparently the race they were formerly bonded with was obsessed with technology,
  
   <StringTable>
     <Label>Crisis_Symbionts_Choice_3f_Name</Label>
-    <String>Crisis: Symbiotes - Failure</String>
+    <String>Crisis: Symbiotes - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -2922,7 +2922,7 @@ They believe they can recover a great deal of this rare resource, but have not b
  
   <StringTable>
     <Label>Crisis_Strip_Mining_Choice_1_Name</Label>
-    <String>Crisis: Strip Mining (part 2)</String>
+    <String>Crisis: Strip Mining (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -2948,7 +2948,7 @@ These illegal mines are also having an adverse effect on the planet, the amount 
  
   <StringTable>
     <Label>Crisis_Strip_Mining_Choice_1a_Name</Label>
-    <String>Crisis: Strip Mining - Success</String>
+    <String>Crisis: Strip Mining - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2960,7 +2960,7 @@ These illegal mines are also having an adverse effect on the planet, the amount 
  
   <StringTable>
     <Label>Crisis_Strip_Mining_Choice_1c_Name</Label>
-    <String>Crisis: Strip Mining - Success</String>
+    <String>Crisis: Strip Mining - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -2973,7 +2973,7 @@ In fact the now ex-smugglers have become so protective of their monopoly, that t
  
   <StringTable>
     <Label>Crisis_Strip_Mining_Choice_1d_Name</Label>
-    <String>Crisis: Strip Mining - Failure</String>
+    <String>Crisis: Strip Mining - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -2986,7 +2986,7 @@ With some help from the military, we were able to shut these new mines down, but
  
   <StringTable>
     <Label>Crisis_Strip_Mining_Choice_2_Name</Label>
-    <String>Crisis: Strip Mining (part 2)</String>
+    <String>Crisis: Strip Mining (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -3027,7 +3027,7 @@ Option 3. Surround the existing population centers with domes. We protect the ai
  
   <StringTable>
     <Label>Crisis_Strip_Mining_Choice_2a_Name</Label>
-    <String>Crisis: Strip Mining - Success</String>
+    <String>Crisis: Strip Mining - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3040,7 +3040,7 @@ Option 3. Surround the existing population centers with domes. We protect the ai
  
   <StringTable>
     <Label>Crisis_Strip_Mining_Choice_2b_Name</Label>
-    <String>Crisis: Strip Mining - Failure</String>
+    <String>Crisis: Strip Mining - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -3053,7 +3053,7 @@ The end result has been repeated earthquakes and increased volcanic activity, an
  
   <StringTable>
     <Label>Crisis_Strip_Mining_Choice_2c_Name</Label>
-    <String>Crisis: Strip Mining - Success</String>
+    <String>Crisis: Strip Mining - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3066,7 +3066,7 @@ We are having some problems with environmental activists, but for the most part 
  
   <StringTable>
     <Label>Crisis_Strip_Mining_Choice_2e_Name</Label>
-    <String>Crisis: Strip Mining - Success</String>
+    <String>Crisis: Strip Mining - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3078,7 +3078,7 @@ We are having some problems with environmental activists, but for the most part 
  
   <StringTable>
     <Label>Crisis_Strip_Mining_Choice_2f_Name</Label>
-    <String>Crisis: Strip Mining - Failure</String>
+    <String>Crisis: Strip Mining - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -3090,7 +3090,7 @@ We are having some problems with environmental activists, but for the most part 
  
   <StringTable>
     <Label>Crisis_Strip_Mining_Choice_3_Name</Label>
-    <String>Crisis: Strip Mining (part 2)</String>
+    <String>Crisis: Strip Mining (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -3116,7 +3116,7 @@ We think we can limit the environmental impact, but the more we do the less of t
  
   <StringTable>
     <Label>Crisis_Strip_Mining_Choice_3e_Name</Label>
-    <String>Crisis: Strip Mining - Success</String>
+    <String>Crisis: Strip Mining - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3171,7 +3171,7 @@ At the current rate, our miners will have the entire planet at their disposal wi
  
   <StringTable>
     <Label>Crisis_Power_Plant_Choice_1_Name</Label>
-    <String>Crisis: Precursor Power Plant (part 2)</String>
+    <String>Crisis: Precursor Power Plant (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -3208,7 +3208,7 @@ Unfortunately while disassembling the artifact was within our capability, puttin
  
   <StringTable>
     <Label>Crisis_Power_Plant_Choice_1a_Name</Label>
-    <String>Crisis: Precursor Power Plant - Success</String>
+    <String>Crisis: Precursor Power Plant - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3220,7 +3220,7 @@ Unfortunately while disassembling the artifact was within our capability, puttin
  
   <StringTable>
     <Label>Crisis_Power_Plant_Choice_1c_Name</Label>
-    <String>Crisis: Precursor Power Plant - Success</String>
+    <String>Crisis: Precursor Power Plant - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3233,7 +3233,7 @@ Unfortunately, when this happened, it ejected the shield singularity into a near
  
   <StringTable>
     <Label>Crisis_Power_Plant_Choice_1d_Name</Label>
-    <String>Crisis: Precursor Power Plant - Failure</String>
+    <String>Crisis: Precursor Power Plant - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -3246,7 +3246,7 @@ Unfortunately, when this happened, it ejected the shield singularity into a near
  
   <StringTable>
     <Label>Crisis_Power_Plant_Choice_1e_Name</Label>
-    <String>Crisis: Precursor Power Plant - Success</String>
+    <String>Crisis: Precursor Power Plant - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3259,7 +3259,7 @@ Unfortunately, the AI controlling the shield seems to have figured out what we w
  
   <StringTable>
     <Label>Crisis_Power_Plant_Choice_1f_Name</Label>
-    <String>Crisis: Precursor Power Plant - Failure</String>
+    <String>Crisis: Precursor Power Plant - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -3271,7 +3271,7 @@ Unfortunately, the AI controlling the shield seems to have figured out what we w
  
   <StringTable>
     <Label>Crisis_Power_Plant_Choice_2_Name</Label>
-    <String>Crisis: Precursor Power Plant (part 2)</String>
+    <String>Crisis: Precursor Power Plant (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -3307,7 +3307,7 @@ Unfortunately, the bond with the planet seems to be unbreakable, short of destro
  
   <StringTable>
     <Label>Crisis_Power_Plant_Choice_2a_Name</Label>
-    <String>Crisis: Precursor Power Plant - Success</String>
+    <String>Crisis: Precursor Power Plant - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3319,7 +3319,7 @@ Unfortunately, the bond with the planet seems to be unbreakable, short of destro
  
   <StringTable>
     <Label>Crisis_Power_Plant_Choice_2c_Name</Label>
-    <String>Crisis: Precursor Power Plant - Success</String>
+    <String>Crisis: Precursor Power Plant - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3331,7 +3331,7 @@ Unfortunately, the bond with the planet seems to be unbreakable, short of destro
  
   <StringTable>
     <Label>Crisis_Power_Plant_Choice_2d_Name</Label>
-    <String>Crisis: Precursor Power Plant - Failure</String>
+    <String>Crisis: Precursor Power Plant - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -3344,7 +3344,7 @@ We have not been able to enter the system since.
  
   <StringTable>
     <Label>Crisis_Power_Plant_Choice_2e_Name</Label>
-    <String>Crisis: Precursor Power Plant - Success</String>
+    <String>Crisis: Precursor Power Plant - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3356,7 +3356,7 @@ We have not been able to enter the system since.
  
   <StringTable>
     <Label>Crisis_Power_Plant_Choice_3_Name</Label>
-    <String>Crisis: Precursor Power Plant (part 2)</String>
+    <String>Crisis: Precursor Power Plant (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -3384,7 +3384,7 @@ Unfortunately, the bond with the planet seems to be unbreakable by anything shor
  
   <StringTable>
     <Label>Crisis_Power_Plant_Choice_3a_Name</Label>
-    <String>Crisis: Precursor Power Plant - Success</String>
+    <String>Crisis: Precursor Power Plant - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3396,7 +3396,7 @@ Unfortunately, the bond with the planet seems to be unbreakable by anything shor
  
   <StringTable>
     <Label>Crisis_Power_Plant_Choice_3c_Name</Label>
-    <String>Crisis: Precursor Power Plant - Success</String>
+    <String>Crisis: Precursor Power Plant - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3409,7 +3409,7 @@ Unfortunately, the energy field is having some adverse effects on the population
  
   <StringTable>
     <Label>Crisis_Power_Plant_Choice_3d_Name</Label>
-    <String>Crisis: Precursor Power Plant - Failure</String>
+    <String>Crisis: Precursor Power Plant - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -3464,7 +3464,7 @@ Unfortunately, he also has a reputation for being willing to work with anyone, i
  
   <StringTable>
     <Label>Crisis_Smuggler_Choice_1_Name</Label>
-    <String>Crisis: Change of Heart (part 2)</String>
+    <String>Crisis: Change of Heart (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -3500,7 +3500,7 @@ We are not sure if the criminals have just gone into hiding when he flipped on t
  
   <StringTable>
     <Label>Crisis_Smuggler_Choice_1a_Name</Label>
-    <String>Crisis: Change of Heart - Success</String>
+    <String>Crisis: Change of Heart - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3514,7 +3514,7 @@ Apparently, every once in a while, someone can genuinely change their heart.
  
   <StringTable>
     <Label>Crisis_Smuggler_Choice_1b_Name</Label>
-    <String>Crisis: Change of Heart - Failure</String>
+    <String>Crisis: Change of Heart - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -3527,7 +3527,7 @@ Many of his former employees have also gone missing, though whether they were fe
  
   <StringTable>
     <Label>Crisis_Smuggler_Choice_1c_Name</Label>
-    <String>Crisis: Change of Heart - Success</String>
+    <String>Crisis: Change of Heart - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3539,7 +3539,7 @@ Many of his former employees have also gone missing, though whether they were fe
  
   <StringTable>
     <Label>Crisis_Smuggler_Choice_1e_Name</Label>
-    <String>Crisis: Change of Heart - Success</String>
+    <String>Crisis: Change of Heart - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3552,7 +3552,7 @@ With some work our agents were able to find the names and locations of most of t
  
   <StringTable>
     <Label>Crisis_Smuggler_Choice_1f_Name</Label>
-    <String>Crisis: Change of Heart - Failure</String>
+    <String>Crisis: Change of Heart - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -3565,7 +3565,7 @@ Our agents began trying to find the names and locations of these criminals, but 
  
   <StringTable>
     <Label>Crisis_Smuggler_Choice_2_Name</Label>
-    <String>Crisis: Change of Heart (part 2)</String>
+    <String>Crisis: Change of Heart (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -3596,7 +3596,7 @@ However there have been reports that his people are still meeting pirates near t
  
   <StringTable>
     <Label>Crisis_Smuggler_Choice_2e_Name</Label>
-    <String>Crisis: Change of Heart - Success</String>
+    <String>Crisis: Change of Heart - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3609,7 +3609,7 @@ The now ex-smuggler was so pleased by our actions, that he has agreed to provide
  
   <StringTable>
     <Label>Crisis_Smuggler_Choice_3_Name</Label>
-    <String>Crisis: Change of Heart (part 2)</String>
+    <String>Crisis: Change of Heart (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -3645,7 +3645,7 @@ However there have been reports that his people have been meeting pirates near t
  
   <StringTable>
     <Label>Crisis_Smuggler_Choice_3e_Name</Label>
-    <String>Crisis: Change of Heart - Success</String>
+    <String>Crisis: Change of Heart - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3657,7 +3657,7 @@ However there have been reports that his people have been meeting pirates near t
  
   <StringTable>
     <Label>Crisis_Smuggler_Choice_3f_Name</Label>
-    <String>Crisis: Change of Heart - Failure</String>
+    <String>Crisis: Change of Heart - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -3712,7 +3712,7 @@ She was last seen in the local shipyard attempting to hire a ship. We don't know
  
   <StringTable>
     <Label>Crisis_Missing_Scientist_Choice_1_Name</Label>
-    <String>Crisis: Missing Scientist (part 2)</String>
+    <String>Crisis: Missing Scientist (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -3743,7 +3743,7 @@ At the same time, our investigators have found the ship she left on. It is curre
  
   <StringTable>
     <Label>Crisis_Missing_Scientist_Choice_1a_Name</Label>
-    <String>Crisis: Missing Scientist - Success</String>
+    <String>Crisis: Missing Scientist - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3756,7 +3756,7 @@ The scientist has been transferred to our ship, along with the prototype device.
  
   <StringTable>
     <Label>Crisis_Missing_Scientist_Choice_1b_Name</Label>
-    <String>Crisis: Missing Scientist - Failure</String>
+    <String>Crisis: Missing Scientist - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -3769,7 +3769,7 @@ When we sent another vessel to the system to check for survivors, they found a b
  
   <StringTable>
     <Label>Crisis_Missing_Scientist_Choice_1c_Name</Label>
-    <String>Crisis: Missing Scientist - Success</String>
+    <String>Crisis: Missing Scientist - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3783,7 +3783,7 @@ The scientist has been transferred to our ship, along with various prototype dev
  
   <StringTable>
     <Label>Crisis_Missing_Scientist_Choice_1e_Name</Label>
-    <String>Crisis: Missing Scientist - Success</String>
+    <String>Crisis: Missing Scientist - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3796,7 +3796,7 @@ When she was freed, the scientist admitted that she was trying to hire a ship so
  
   <StringTable>
     <Label>Crisis_Missing_Scientist_Choice_2_Name</Label>
-    <String>Crisis: Missing Scientist (part 2)</String>
+    <String>Crisis: Missing Scientist (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -3830,7 +3830,7 @@ As we had heard the device is designed to terraform an entire planet. Our team b
  
   <StringTable>
     <Label>Crisis_Missing_Scientist_Choice_2a_Name</Label>
-    <String>Crisis: Missing Scientist - Success</String>
+    <String>Crisis: Missing Scientist - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3843,7 +3843,7 @@ We were fortunate that a member of our team had worked with the missing scientis
  
   <StringTable>
     <Label>Crisis_Missing_Scientist_Choice_2c_Name</Label>
-    <String>Crisis: Missing Scientist - Success</String>
+    <String>Crisis: Missing Scientist - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3857,7 +3857,7 @@ While they have not been able to reproduce the planet-wide effect, they have bee
  
   <StringTable>
     <Label>Crisis_Missing_Scientist_Choice_2d_Name</Label>
-    <String>Crisis: Missing Scientist - Failure</String>
+    <String>Crisis: Missing Scientist - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -3871,7 +3871,7 @@ If there is a silver lining to this horrible tragedy, the planet itself has been
  
   <StringTable>
     <Label>Crisis_Missing_Scientist_Choice_2e_Name</Label>
-    <String>Crisis: Missing Scientist - Success</String>
+    <String>Crisis: Missing Scientist - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -3884,7 +3884,7 @@ Unfortunately, by using the device we no longer have it to study, and our best s
  
   <StringTable>
     <Label>Crisis_Missing_Scientist_Choice_3_Name</Label>
-    <String>Crisis: Missing Scientist (part 2)</String>
+    <String>Crisis: Missing Scientist (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -3917,7 +3917,7 @@ At the same time, the local authorities have informed us that before the scienti
  
   <StringTable>
     <Label>Crisis_Missing_Scientist_Choice_3b_Name</Label>
-    <String>Crisis: Missing Scientist - Failure</String>
+    <String>Crisis: Missing Scientist - Falha</String>
   </StringTable>
  
   <StringTable>
@@ -3930,7 +3930,7 @@ When we sent another vessel to the system to check for survivors, they found a b
  
   <StringTable>
     <Label>Crisis_Missing_Scientist_Choice_3e_Name</Label>
-    <String>Crisis: Missing Scientist - Success</String>
+    <String>Crisis: Missing Scientist - Successo</String>
   </StringTable>
  
   <StringTable>
