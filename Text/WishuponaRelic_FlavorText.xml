@@ -8,25 +8,25 @@ xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
   <FlavorTextDef>
     <InternalName>WishuponaRelic_MegaEvent_Message_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>One of our ships has found an amazing Precursor Relic, orbiting the star in a local star system. The Relic's strange energies are diminishing, but the crew thinks they can put it to good use while it lasts.</Text>
+      <Text>Um de nossos navios encontrou uma Relíquia Precursora surpreendente, orbitando a estrela em um sistema estelar local. As estranhas energias da Relíquia estão diminuindo, mas a tripulação acha que pode dar bom uso a ela enquanto ela dura.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>WishuponaRelic_MegaEvent_Message_Response1_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Excellent, let us allocate all of the power to Research. [COLOR=BenevolentBlue](Benevolent +30, +100% Research for 25 turns)[/COLOR]</Text>
+      <Text>Excelente, vamos alocar todo o poder à Pesquisa. [COLOR=BenevolentBlue](Benevolente +30, +100% Pesquisa para 25 turnos)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>WishuponaRelic_MegaEvent_Message_Response2_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>I think our best bet would be to divide this power up fairly between our Research and Manufacturing facilities. [COLOR=PragmaticGold](Pragmatic +30, +50% Manufacturing, and Research, for 25 turns)[/COLOR]</Text>
+      <Text>Penso que nossa melhor aposta seria dividir esse poder de forma justa entre nossas instalações de Pesquisa e Produção. [COLOR=PragmaticGold](Pragmatico +30, +50% Fabricação, e Pesquisa, para 25 turnos)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>WishuponaRelic_MegaEvent_Message_Response3_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Let us use this power to build up our Military and infrastructure. [COLOR=WarRed](Malevolent +30, +100% Manufacturing for 25 turns)[/COLOR]</Text>
+      <Text>Usemos este poder para construir nossas Forças Armadas e infra-estrutura. [COLOR=WarRed](Malevolo +30, +100% Fabricação para 25 turnos)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
  

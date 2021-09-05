@@ -8,27 +8,27 @@ xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
   <FlavorTextDef>
     <InternalName>Wormholes_MegaEvent_Message_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Our survey teams are reporting a vast increase in the amount of wormholes that they are encountering. There have even been reports of ships using them to explore far beyond our borders.</Text>
+      <Text>Nossas equipes de pesquisa estão relatando um grande aumento na quantidade de wormholes que estão encontrando. Tem havido até mesmo relatos de navios que os utilizam para explorar muito além de nossas fronteiras.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>Wormholes_MegaEvent_Message_Response1_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Instruct our survey ships to be wary as wormholes are often more trouble than they are worth.
-[COLOR=BenevolentBlue](Benevolent +15)[/COLOR]</Text>
+      <Text>Instrua nossos navios de pesquisa a serem cautelosos, pois os wormholes são muitas vezes mais problemáticos do que valem.
+[COLOR=BenevolentBlue](Benevolente +15)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>Wormholes_MegaEvent_Message_Response2_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>It might be time to pair our survey ships with constructors and see what we can claim on the other side. [COLOR=PragmaticGold](Pragmatic +15)[/COLOR]</Text>
+      <Text>Talvez seja o momento de emparelhar nossos navios de pesquisa com os construtores e ver o que podemos reivindicar do outro lado. [COLOR=PragmaticGold](Pragmatico +15)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>Wormholes_MegaEvent_Message_Response3_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Perhaps we should see what what lies on the other side and find ourselves some fresh worlds to exploit.
-[COLOR=WarRed](Malevolent +15)[/COLOR]</Text>
+      <Text>Talvez devêssemos ver o que está do outro lado e encontrar alguns mundos novos para explorar.
+[COLOR=WarRed](Malevolo +15)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
  
