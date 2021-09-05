@@ -609,12 +609,12 @@ Você recebe sua resposta quase imediatamente. Aparentemente, alguém está ouvi
  
   <StringTable>
     <Label>Crisis_TheRevolution3_Dec</Label>
-    <String>The revolutionaries that show up for your meeting are publicly executed. Your police adopt equally draconian measures and soon friends and family members are reporting on each other in an attempt to avoid your "justice". You are about to launch an inquisition to gather all the suspects when your Police Commissioner comes forward, reveals himself as the leader of the revolutionaries, and offers himself if you will show mercy to the revolutionary members.</String>
+    <String>Os revolucionários que comparecem à sua reunião são executados publicamente. Sua polícia adota medidas igualmente draconianas e logo amigos e familiares se reportam uns aos outros, numa tentativa de evitar sua "justiça". Você está prestes a lançar uma inquisição para reunir todos os suspeitos quando seu Comissário de Polícia se apresentar, se revelar como o líder dos revolucionários e se oferecer se mostrar misericórdia para com os membros revolucionários.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution3_Choice1Dec</Label>
-    <String>Accept the Commissioners deal. The revolution is broken, show leniency to his followers.</String>
+    <String>Aceitar o acordo do comissário. A revolução é quebrada, mostrar clemência para com seus seguidores.</String>
   </StringTable>
  
   <StringTable>
@@ -624,17 +624,17 @@ Você recebe sua resposta quase imediatamente. Aparentemente, alguém está ouvi
  
   <StringTable>
     <Label>Crisis_TheRevolution3_Choice2Dec</Label>
-    <String>No deal. Each man is responsible for his own actions, and will be judged for what they have done.</String>
+    <String>Sem acordo. Cada homem é responsável por suas próprias ações, e será julgado pelo que tiver feito.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution3_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Pragmatic check</String>
+    <String>{STATCHANCE}% Controle pragmático</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution3_Choice3Dec</Label>
-    <String>No deal. Capture and execute the Commissioner, his followers, and a good number of those suspected of following him just to be sure.</String>
+    <String>Sem acordo. Capturar e executar o Comissário, seus seguidores e um bom número daqueles suspeitos de segui-lo apenas para ter certeza.</String>
   </StringTable>
  
   <StringTable>
@@ -644,129 +644,129 @@ Você recebe sua resposta quase imediatamente. Aparentemente, alguém está ouvi
  
   <StringTable>
     <Label>Crisis_TheRevolution3a_Name</Label>
-    <String>Crisis: The Revolution - Success</String>
+    <String>Crise: A Revolução - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution3a_Dec</Label>
-    <String>The revolutionaries attacks end. But the sacrifice of your Commissioner makes him a martyr among radical groups. Graffiti artists paint his image on government buildings and his story reaches other civilizations. In some places it is so popular that it is the only thing they know about us. 
+    <String>Os ataques dos revolucionários terminam. Mas o sacrifício de seu Comissário faz dele um mártir entre os grupos radicais. Os grafiteiros pintam sua imagem nos edifícios do governo e sua história chega a outras civilizações. Em alguns lugares é tão popular que é a única coisa que eles sabem sobre nós. 
 
-[COLOR=UIDefaultHighlight]Global Effect: +25% Influence for 25 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +25% Influência por 25 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution3b_Name</Label>
-    <String>Crisis: The Revolution - Failure</String>
+    <String>Crise: A Revolução - O fracasso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution3b_Dec</Label>
-    <String>The revolutionaries attacks end. But the sacrifice of your Commissioner makes him a martyr among radical groups. His example encourages them to resist, violently if need be. Graffeti of his image is often left after an attack and used as an image to unite those that stand against you.
+    <String>Os ataques dos revolucionários terminam. Mas o sacrifício de seu Comissário faz dele um mártir entre os grupos radicais. Seu exemplo os encoraja a resistir, violentamente se necessário. O grafite de sua imagem é freqüentemente deixado após um ataque e usado como imagem para unir aqueles que se colocam contra você.
 
-[COLOR=UIDefaultHighlight]Global Effect: -10% Approval for 25 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -10% Aprovação para 25 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution3c_Name</Label>
-    <String>Crisis: The Revolution - Success</String>
+    <String>Crise: A Revolução - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution3c_Dec</Label>
-    <String>With the traiterous Commisioner out of the way your police begin to round up revolutionaries. They are quickly rounded up and their assets seized. Providing a nice bonus for the governmental coffers.
+    <String>Com o comissário traidor fora do caminho, sua polícia começa a reunir revolucionários. Eles são rapidamente reunidos e seus bens apreendidos. Proporcionando um bom bônus para os cofres do governo.
 
-[COLOR=UIDefaultHighlight]+600 Credits[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+600 Creditos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution3d_Name</Label>
-    <String>Crisis: The Revolution - Failure</String>
+    <String>Crise: A Revolução - O fracasso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution3d_Dec</Label>
-    <String>With the traitorous Commissioner out of the way your police begin to round up revolutionaries. But the revolutionaries do not give up easily. As a last attempt to strike back they place bombs in our factories, crippling production. But their fight is short lived as your police finally gather up the last of them.
+    <String>Com o comissário traidor fora do caminho, sua polícia começa a reunir os revolucionários. Mas os revolucionários não desistem facilmente. Como última tentativa de contra-atacar, eles colocam bombas em nossas fábricas, paralisando a produção. Mas a luta deles é curta enquanto sua polícia finalmente reúne o último deles.
 
-[COLOR=UIDefaultHighlight]Global Effect: -25% Social Construction for 10 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -25% Construção Social para 10 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution3e_Name</Label>
-    <String>Crisis: The Revolution - Success</String>
+    <String>Crise: A Revolução - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution3e_Dec</Label>
-    <String>The revolution is put down violently. Even those suspected of complicity are jailed or executed. You have heard rumors that your citizens are unhappy with the way this was settled. But none of them will say it to your face.
+    <String>A revolução é lançada de forma violenta. Mesmo aqueles suspeitos de cumplicidade são presos ou executados. Ouvimos rumores de que seus cidadãos estão descontentes com a forma como isto foi resolvido. Mas nenhum deles o dirá na sua cara.
 
-[COLOR=UIDefaultHighlight]+30 Malevolent[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+30 Malevolo[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution3f_Name</Label>
-    <String>Crisis: The Revolution - Failure</String>
+    <String>Crise: A Revolução - O fracasso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution3f_Dec</Label>
-    <String>Capturing and executing so many revolutionaries, and those suspected of being revolutionaries causes more citizens to join their cause. Together they capture a shipyard and declare that they will defend themselves with force if need be. This is now a military action.</String>
+    <String>Capturar e executar tantos revolucionários, e aqueles suspeitos de serem revolucionários, faz com que mais cidadãos se juntem a sua causa. Juntos eles capturam um estaleiro naval e declaram que se defenderão com força, se necessário. Esta é agora uma ação militar.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis_Name</Label>
-    <String>Crisis: Apophis</String>
+    <String>Crise: Apophis</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis_Dec</Label>
-    <String>A 370 meter diameter asteroid is heading toward {PLANETNAME}. Our scientists predict that impact with the asteroid will be an extinction level event for the planet.
+    <String>Um asteróide de 370 metros de diâmetro está se dirigindo para {PLANETNAME}. Nossos cientistas prevêem que o impacto com o asteróide será um evento de nível de extinção para o planeta.
 
-Amateur astronomers have begun tracking the asteroid and the media is causing a panic by reporting on the upcoming apocalypse.</String>
+Astrônomos amadores começaram a rastrear o asteróide e a mídia está causando pânico ao relatar o apocalipse que se aproxima.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis_Choice1Dec</Label>
-    <String>Focus production on building colony ships so that we can help citizens flee the planet.</String>
+    <String>Concentrar a produção na construção de naves colônia para que possamos ajudar os cidadãos a fugir do planeta.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis_Choice1BonusDec</Label>
-    <String>+5 Benevolent, -50% All Construction for 10 turns</String>
+    <String>+5 Benevolente, -50% Toda a construção por 10 turnos</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis_Choice2Dec</Label>
-    <String>Despite the protests of our scientists, attempt to land a team on the asteroid to detonate it.</String>
+    <String>Apesar dos protestos de nossos cientistas, tentativa de pousar uma equipe sobre o asteróide para detoná-lo.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis_Choice2BonusDec</Label>
-    <String>-10 Pragmatic</String>
+    <String>-10 Pragmatico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis_Choice3Dec</Label>
-    <String>Build a prototype ship powerful and fast enough to intercept the asteroid and destroy it.</String>
+    <String>Construir um navio protótipo poderoso e rápido o suficiente para interceptar o asteróide e destruí-lo.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis_Choice3BonusDec</Label>
-    <String>+5 Malevolent, -50% All Construction for 10 turns</String>
+    <String>+5 Malévolo, -50% Toda a construção por 10 voltas</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis1_Name</Label>
-    <String>Crisis: Apophis (part 2)</String>
+    <String>Crise: Apophis (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis1_Dec</Label>
-    <String>We were able to build a colony ship in time. But not nearly enough for everyone to escape. Riots are breaking out as people fight to be included on the ship. How will we determine who will escape, and who will be left behind?</String>
+    <String>Conseguimos construir um navio colônia a tempo. Mas não o suficiente para que todos pudessem escapar. Há tumultos à medida que as pessoas lutam para serem incluídas no navio. Como vamos determinar quem escapará e quem será deixado para trás?</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis1_Choice1Dec</Label>
-    <String>No citizen deserves life more than any other. Hold a random lottery to determine who goes.</String>
+    <String>Nenhum cidadão merece a vida mais do que qualquer outro. Faça uma loteria aleatória para determinar quem vai.</String>
   </StringTable>
  
   <StringTable>
@@ -776,361 +776,361 @@ Amateur astronomers have begun tracking the asteroid and the media is causing a 
  
   <StringTable>
     <Label>Crisis_Apophis1_Choice2Dec</Label>
-    <String>Send in our military to maintain control and evacuate our best citizens.</String>
+    <String>Enviar nossos militares para manter o controle e evacuar nossos melhores cidadãos.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis1_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Military check</String>
+    <String>{STATCHANCE}% Controle militar</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis1_Choice3Dec</Label>
-    <String>Keep the colony ship for ourselves. We might need it to repopulate the planet after the asteroid hits.</String>
+    <String>Manter o navio colônia para nós mesmos. Talvez precisemos dela para repovoar o planeta após a queda do asteróide.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis1a_Name</Label>
-    <String>Crisis: Apophis - Success</String>
+    <String>Crise: Apophis - Successo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis1a_Dec</Label>
-    <String>Each day more lottery winners are announced. Though your citizens understand that most will die they focus on the few that will live and manage to get the lottery winners to their colony ship safely. The memory of their sacrifice and compassion in the face of death is a story that is told across the universe.
+    <String>A cada dia mais ganhadores da loteria são anunciados. Embora seus cidadãos entendam que a maioria morrerá, eles se concentram nos poucos que viverão e conseguem levar os ganhadores da loteria para seu navio colônia com segurança. A memória de seu sacrifício e compaixão em face da morte é uma história que é contada em todo o universo.
 
-[COLOR=UIDefaultHighlight]Global Effect: +25% Influence for 50 turns, free Colony ship, Devastate {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +25% Influência por 50 turnos, navio colônia grátis, devastação {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis1b_Name</Label>
-    <String>Crisis: Apophis - Failure</String>
+    <String>Crise: Apophis - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis1b_Dec</Label>
-    <String>Each day, more lottery winners are announced. As the asteroid grows closer, when everyone can see the glowing tear of the asteroid in the night sky, society begins to crumble. It is all out rioting as the colony ship prepares to lift off. Citizens overwhelm the launch platforms and cling helplessly to the departing ship. They damage the colony ship so badly that it crashes shortly after takeoff, killing everyone on board. In the end, no one escapes {PLANETNAME}.
+    <String>A cada dia, mais ganhadores da loteria são anunciados. À medida que o asteróide se aproxima, quando todos podem ver a lágrima brilhante do asteróide no céu noturno, a sociedade começa a desmoronar. Tudo isso se transforma em tumulto enquanto o navio da colônia se prepara para decolar. Os cidadãos dominam as plataformas de lançamento e se agarram indefesos ao navio que parte. Eles danificam tanto a nave colônia que ela se despenca logo após a decolagem, matando todos a bordo. No final, ninguém escapa {PLANETNAME}.
 
-[COLOR=UIDefaultHighlight]Devastate {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]devastação {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis1c_Name</Label>
-    <String>Crisis: Apophis - Success</String>
+    <String>Crise: Apophis - Successo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis1c_Dec</Label>
-    <String>Violent murders sweep {PLANETNAME} as citizens target those they feel will be given priority in an attempt to improve their own odds of being included. Thousands of scientists, inventors and entrepreneurs are killed before the military steps in to quarantine those selected to escape. When the colony ship takes off it represents our highest potential.
+    <String>Assassinatos violentos varrem {PLANETNAME}, pois os cidadãos têm como alvo aqueles que eles sentem que terão prioridade na tentativa de melhorar suas próprias chances de serem incluídos. Milhares de cientistas, inventores e empresários são mortos antes que os soldados cheguem para colocar em quarentena aqueles selecionados para escapar. Quando o navio colônia decola, ele representa nosso maior potencial.
 
-[COLOR=UIDefaultHighlight]Global Effect: +25% Research for 25 turns, free Colony ship, Devastate {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +25% de pesquisa por 25 turnos, navio Colônia grátis, devastação {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis1d_Name</Label>
-    <String>Crisis: Apophis - Failure</String>
+    <String>Crise: Apophis - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis1d_Dec</Label>
-    <String>Your military fails. Some are corrupt and accept bribes, others weak and overwhelmed by mobs overcome by fear and desperation. By the end, no one escapes {PLANETNAME}.
+    <String>Seu exército falha. Alguns são corruptos e aceitam subornos, outros fracos e sobrecarregados por multidões superadas pelo medo e pelo desespero. No final, ninguém escapa {PLANETNAME}.
 
-[COLOR=UIDefaultHighlight]Devastate {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Devastação {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis1e_Name</Label>
-    <String>Crisis: Apophis - Success</String>
+    <String>Crise: Apophis - Successo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis1e_Dec</Label>
-    <String>Your colony ship watches as the asteroid strikes {PLANETNAME}. The only people more stunned by your decision to have a method of escape standing by and not use it than the now vaporized citizens of {PLANETNAME}, are the poor wretches you have gathered to fill the colony ship to repopulate the still burning and radioactive planet.
+    <String>Seu navio colônia observa enquanto o asteróide cai {PLANETNAME}. As únicas pessoas mais atordoadas com sua decisão de ter um método de fuga a postos e não usá-lo do que os cidadãos agora vaporizados do {PLANETNAME}, são os pobres infelizes que você reuniu para encher a nave colônia para repovoar o planeta ainda em chamas e radioativo.
 
-[COLOR=UIDefaultHighlight]Global Effect: +20 Malevolent, free Colony ship, Devastate {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +20 Malevolo, navio colônia grátis, Devastação {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis2_Name</Label>
-    <String>Crisis: Apophis (part 2)</String>
+    <String>Crise: Apophis (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis2_Dec</Label>
-    <String>Despite considerable risk and almost impossible odds, your rescue team successfully landed on the oncoming asteroid and managed to detonate their explosives. Now we have five smaller asteroids hurtling toward {PLANETNAME}. We are still doomed.</String>
+    <String>Apesar dos riscos consideráveis e das chances quase impossíveis, sua equipe de resgate pousou com sucesso no asteróide que se aproximava e conseguiu detonar seus explosivos. Agora temos cinco asteróides menores caindo em direção ao {PLANETNAME}. Ainda estamos condenados.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis2_Choice1Dec</Label>
-    <String>Start a cult worshipping the asteroid as a religious event. It may help keep people calm.</String>
+    <String>Iniciar um culto de adoração ao asteróide como um evento religioso. Pode ajudar a manter as pessoas calmas.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis2_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Diplomacy check</String>
+    <String>{STATCHANCE}% Controle de diplomacia</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis2_Choice2Dec</Label>
-    <String>That's a great start. Send up five rescue teams, one for each remaining asteroid.</String>
+    <String>Isso é um ótimo começo. Envie cinco equipes de resgate, uma para cada asteróide restante.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis2_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Science check</String>
+    <String>{STATCHANCE}% Controle científico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis2_Choice3Dec</Label>
-    <String>Begin asking other civilizations to provide relief for what is about to occur.</String>
+    <String>Começar a pedir alívio a outras civilizações para o que está prestes a ocorrer.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis2a_Name</Label>
-    <String>Crisis: Apophis - Success</String>
+    <String>Crise: Apophis - Successo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis2a_Dec</Label>
-    <String>Surprisingly, the cult picks up a massive following across many worlds. The galaxy watches as the asteroid strikes {PLANETNAME} as if it was a holy event. Though cataclysmic to life on {PLANETNAME}, many revere the ruined world as sacred, and the story of the asteroid strike becomes legendary across the galaxy.
+    <String>Surpreendentemente, o culto capta um grande número de seguidores em muitos mundos. A galáxia observa enquanto o asteróide cai {PLANETNAME} como se fosse um evento sagrado. Embora cataclísmico à vida em {PLANETNAME}, muitos reverenciam o mundo arruinado como sagrado, e a história deste acidente com o asteróide se torna lendária em toda a galáxia.
 
-[COLOR=UIDefaultHighlight]Unlocked new Crisis Manager (assign on the Government screen), {PLANETNAME} is Devastated[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Desbloqueado novo Gerente de Crise (designado na tela do Governo), {PLANETNAME} está devastado[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis2b_Name</Label>
-    <String>Crisis: Apophis - Failure</String>
+    <String>Crise: Apophis - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis2b_Dec</Label>
-    <String>Surprisingly, the cult picks up a massive following across many worlds. Unfortunately they become a little to zealous about the massive amount of death that the asteroid caused, and they seek to follow its example by killing people on your worlds.
+    <String>Surpreendentemente, o culto capta um grande número de seguidores em muitos mundos. Infelizmente, eles se tornam um pouco zelosos sobre a enorme quantidade de mortes que o asteróide causou, e procuram seguir seu exemplo matando pessoas em seus mundos.
 
-[COLOR=UIDefaultHighlight]Global Effect: -10% Growth for 50 turns, {PLANETNAME} is Devastated.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -10% de crescimento em 50 turnos, {PLANETNAME} é devastado.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis2c_Name</Label>
-    <String>Crisis: Apophis - Success</String>
+    <String>Crise: Apophis - Successo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis2c_Dec</Label>
-    <String>The entire galaxy is stunned when your rescue teams each successfully manage to detonate each of the asteroid chunks into small enough pieces that they won't do signficant damage to {PLANETNAME}. The outcome was so unlikely that other civilizations believe that it is just propaganda you created to support your space program. But the citizens of {PLANETNAME} know it is true, and they will never forget you.
+    <String>A galáxia inteira fica atordoada quando suas equipes de resgate conseguem detonar com sucesso cada um dos pedaços de asteróides em pedaços pequenos o suficiente para que não causem danos significativos ao {PLANETNAME}. O resultado foi tão improvável que outras civilizações acreditam que é apenas propaganda que você criou para apoiar seu programa espacial. Mas os cidadãos do {PLANETNAME} sabem que é verdade, e nunca o esquecerão.
 
-[COLOR=UIDefaultHighlight]Permanent +25% Morale on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+25% de moral permanente sobre {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis2d_Name</Label>
-    <String>Crisis: Apophis - Failure</String>
+    <String>Crise: Apophis - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis2d_Dec</Label>
-    <String>This may have been the worst plan ever attempted. Two of the rescue teams missed their asteroid chunks entirely. One blew itself up with the explosives and the last two were still on the asteroid attempting to set charges when it collided with {PLANETNAME}. But at least everyone was kept so busy with the ludicrous plan that they didn't have much time to worry about their impending doom.
+    <String>Este pode ter sido o pior plano já tentado. Duas das equipes de resgate falharam completamente com seus pedaços de asteróides. Uma explodiu com os explosivos e as duas últimas ainda estavam no asteróide tentando colocar cargas quando este colidiu com o {PLANETNAME}. Mas pelo menos todos estavam tão ocupados com o plano ridículo que não tiveram muito tempo para se preocupar com sua iminente desgraça.
 
-[COLOR=UIDefaultHighlight]{PLANETNAME} is Devastated[/COLOR]</String>
+[COLOR=UIDefaultHighlight]{PLANETNAME} está devastado[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis2e_Name</Label>
-    <String>Crisis: Apophis - Success</String>
+    <String>Crise: Apophis - Successo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis2e_Dec</Label>
-    <String>As the asteroid strikes {PLANETNAME} other civilizations offer their sympathy. Unfortunately they offer little else.
+    <String>Enquanto o asteróide atinge {PLANETNAME}, outras civilizações oferecem sua simpatia. Infelizmente, elas pouco mais oferecem.
 
-[COLOR=UIDefaultHighlight]Global Effect: +2 Diplomacy, {PLANETNAME} is Devastated[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +2 Diplomacia, {PLANETNAME} é devastado[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis3_Name</Label>
-    <String>Crisis: Apophis (part 2)</String>
+    <String>Crise: Apophis (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis3_Dec</Label>
-    <String>Despite our best efforts production of the prototype ship designed to intercept the asteroid has fallen behind schedule. We will need to launch without all of our systems fully tested. What system should we focus on?</String>
+    <String>Apesar de nossos melhores esforços, a produção do protótipo do navio projetado para interceptar o asteróide ficou para trás no tempo. Precisaremos lançar sem todos os nossos sistemas totalmente testados. Em que sistema devemos nos concentrar?</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis3_Choice1Dec</Label>
-    <String>Weapons, we will need to disintigrate the asteroid, not just fracture it into smaller pieces.</String>
+    <String>Armas, precisaremos destruir o asteróide, não apenas fraturá-lo em pedaços menores.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis3_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Military check</String>
+    <String>{STATCHANCE}% Controle militar</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis3_Choice2Dec</Label>
-    <String>Engines, if we can't catch the asteroid, nothing else matters.</String>
+    <String>Motores, se não podemos pegar o asteróide, nada mais importa.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis3_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Science check</String>
+    <String>{STATCHANCE}% Controle científico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis3_Choice3Dec</Label>
-    <String>Shields, let's ram the asteroid at full speed and try to knock it off course.</String>
+    <String>Escudos, vamos bater no asteróide a toda velocidade e tentar desviá-lo do curso.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis3a_Name</Label>
-    <String>Crisis: Apophis - Success</String>
+    <String>Crise: Apophis - Successo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis3a_Dec</Label>
-    <String>Your prototype ship, codenamed Goliath, launches to intercept the oncoming asteroid. Deep in space the galaxy watches as what is little more than a massive laser cannon with an engine strapped to it closes in on the asteroid. Your scientists set Goliath to fly into the asteroid, reasoning that if the weapons aren't enough, maybe the impact with the ship will help. When they finally grow close enough Goliath fires and for a heartbeat the galaxy waits to find out the result. When the sensors update the asteroid is little more than dust and Goliath flies through the debris with little damage. Goliath is ready for its next mission. {PLANETNAME} is saved.
+    <String>Seu protótipo de navio, codinome Golias, lança-se para interceptar o asteróide que se aproxima. No fundo do espaço a galáxia observa enquanto o que é pouco mais que um enorme canhão laser com um motor amarrado a ele se aproxima do asteróide. Seus cientistas colocam Golias para voar no asteróide, raciocinando que se as armas não forem suficientes, talvez o impacto com a nave ajude. Quando eles finalmente chegam perto o suficiente Golias dispara e para um batimento cardíaco a galáxia espera para descobrir o resultado. Quando os sensores atualizam o asteróide é pouco mais do que pó e Golias voa através dos escombros com poucos danos. Golias está pronto para sua próxima missão. O {PLANETNAME} é salvo.
 
-[COLOR=UIDefaultHighlight]Free Goliath Ship[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Navio Golias Goliath grátis[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis3b_Name</Label>
-    <String>Crisis: Apophis - Failure</String>
+    <String>Crise: Apophis - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis3b_Dec</Label>
-    <String>Your prototype ship, codenamed Goliath, launches to intercept the oncoming asteroid. Deep in space the galaxy watches as what is little more than a massive laser cannon with an engine strapped to it closes in on the asteroid. Your scientists set Goliath to fly into the asteroid, reasoning that if the weapons aren't enough, maybe the impact with the ship will help. When they finally grow close enough Goliath fires and for a heartbeat the galaxy waits to find out the result. When the sensors update they show that even though the asteroid won't strike {PLANETNAME} directly, it is still close enough to cause massive damage. As it passes by earthquakes, torandos and volcanos disrupt the planet.
+    <String>Seu protótipo de navio, codinome Golias, lança-se para interceptar o asteróide que se aproxima. No fundo do espaço a galáxia observa enquanto o que é pouco mais que um enorme canhão laser com um motor amarrado a ele se fecha sobre o asteróide. Seus cientistas colocam Golias para voar no asteróide, raciocinando que se as armas não forem suficientes, talvez o impacto com a nave ajude. Quando finalmente chegam perto o suficiente, Golias dispara e, por um batimento cardíaco, a galáxia espera para descobrir o resultado. Quando os sensores são atualizados eles mostram que mesmo que o asteróide não atinja {PLANETNAME} diretamente, ele ainda está perto o suficiente para causar danos maciços. Ao passar por terremotos, tormentos e vulcões perturbam o planeta.
 
-[COLOR=UIDefaultHighlight]Halves the population on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Reduz pela metade a população em {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis3c_Name</Label>
-    <String>Crisis: Apophis - Success</String>
+    <String>Crise: Apophis - Successo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis3c_Dec</Label>
-    <String>Your prototype ship, codenamed Archangel, launches to intercept the oncoming asteroid. The galaxy watches as it closes to weapons range, and the weapons fail to fire. Your scientists panic and then come up with a desperate plan. Archangel lands on the asteroid, and after firmly rooting itself puts its considerable engines on full force. The galaxy waits for long quiet minutes to see any result. Finally the sensors update and show that the asteroids trajectory has been changed and will no longer strike {PLANETNAME}. Your citizens cheer as Archangel detaches and awaits its next mission.
+    <String>Seu protótipo de navio, codinome Arcanjo, lança-se para interceptar o asteróide que se aproxima. A galáxia observa ao se aproximar do alcance das armas, e as armas não disparam. Seus cientistas entram em pânico e então chegam a um plano desesperado. O Arcanjo aterrissa no asteróide e, após enraizar-se firmemente, coloca seus consideráveis motores em força total. A galáxia espera por longos minutos de silêncio para ver qualquer resultado. Finalmente, os sensores atualizam e mostram que a trajetória dos asteróides foi alterada e não atingirá mais {PLANETNAME}. Seus cidadãos aplaudem enquanto o Arcanjo se desprende e aguarda sua próxima missão.
 
-[COLOR=UIDefaultHighlight]Free Archangel Ship[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Navio Arcanjo Grátis[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis3d_Name</Label>
-    <String>Crisis: Apophis - Failure</String>
+    <String>Crise: Apophis - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis3d_Dec</Label>
-    <String>Your prototype ship, codenamed Archangel, launches to intercept the oncoming asteroid. The galaxy watches as it closes to weapons range, and the weapons fail to fire. Your scientists panic and then come up with a desperate plan. Archangel lands on the asteroid, and after firmly rooting itself puts its considerable engines on full force. The galaxy waits for long quiet minutes to see any result. When the sensors update the truth becomes clear. Archangel has changed the asteroids course enough that it won't strike the {PLANETNAME} directly. But it will still pass close enough to make {PLANETNAME} into a hellscape for a brief time.
+    <String>Seu protótipo de navio, codinome Arcanjo, lança-se para interceptar o asteróide que se aproxima. A galáxia observa ao se aproximar do alcance das armas, e as armas não disparam. Seus cientistas entram em pânico e então chegam a um plano desesperado. O Arcanjo aterrissa no asteróide e, após enraizar-se firmemente, coloca seus consideráveis motores em força total. A galáxia espera por longos minutos de silêncio para ver qualquer resultado. Quando os sensores atualizam, a verdade se torna clara. O Arcanjo mudou o curso dos asteróides o suficiente para não atingir o {PLANETNAME} diretamente. Mas ele ainda passará perto o suficiente para transformar o {PLANETNAME} em uma paisagem infernal por um breve tempo.
 
-[COLOR=UIDefaultHighlight]Halves the population of {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Reduz pela metade a população de {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis3e_Name</Label>
-    <String>Crisis: Apophis - Success</String>
+    <String>Crise: Apophis - Successo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Apophis3e_Dec</Label>
-    <String>Your plan is successful and the asteroid is knocked off course when our prototype ship crashes into it. The ships pilots sacrificed their lives to save {PLANETNAME}. Across your worlds citizens cheer your success.
+    <String>Seu plano é bem sucedido e o asteróide é desviado do curso quando nosso protótipo de navio se choca com ele. Os pilotos dos navios sacrificaram suas vidas para salvar {PLANETNAME}. Cidadãos de todo o mundo torcem por seu sucesso.
 
-[COLOR=UIDefaultHighlight]Global Effect: +25% Morale for 25 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +25% de moral por 25 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession_Name</Label>
-    <String>Crisis: Secession</String>
+    <String>Crise: Secessão</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession_Dec</Label>
-    <String>Millions of citizens have joined the Aspire Collective, a group of privately owned starbases designed to be homes to generations of their inhabitants. Now the Aspire Collective is declaring sovereignty, arguing that traditional laws grant sovereignty based on land ownership, and as they exist entirely in space, those laws do not apply to them. Our advisors counter that we control the space their starbases are in, and that siphoning off so many of our best citizens will weaken us and set a dangerous precedent.</String>
+    <String>Milhões de cidadãos aderiram ao Coletivo Aspire, um grupo de bases estelares privadas projetadas para serem casas para gerações de seus habitantes. Agora o Coletivo Aspire está declarando soberania, argumentando que as leis tradicionais concedem soberania baseada na propriedade da terra, e como elas existem inteiramente no espaço, essas leis não se aplicam a elas. Nossos conselheiros contrapõem que controlamos o espaço em que suas bases estelares se encontram, e que desviar tantos de nossos melhores cidadãos nos enfraquecerá e abrirá um precedente perigoso.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession_Choice1Dec</Label>
-    <String>Allow them to have their independence.</String>
+    <String>Permitir que eles tenham sua independência.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession_Choice1BonusDec</Label>
-    <String>+5 Benevolent, -10% Growth for 25 turns</String>
+    <String>+5 Benevolente, -10% de crescimento por 25 turnos</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession_Choice2Dec</Label>
-    <String>They can be independent, but must provide tribute for existing within our borders.</String>
+    <String>Eles podem ser independentes, mas devem prestar tributo aos sistemas existentes dentro de nossas fronteiras.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession_Choice2BonusDec</Label>
-    <String>+5 Pragmatic, +10% Income</String>
+    <String>+5 Pragmático, +10% de renda</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession_Choice3Dec</Label>
-    <String>They belong to the state, send in soldiers to make sure they understand this.</String>
+    <String>Eles pertencem ao Estado, enviem soldados para garantir que eles entendam isso.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession_Choice3BonusDec</Label>
-    <String>+5 Malevolent</String>
+    <String>+5 Malevolo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession1_Name</Label>
-    <String>Crisis: Secession (part 2)</String>
+    <String>Crise: Secessão (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession1_Dec</Label>
-    <String>Reports of violent internal fighting have been coming from the Aspire Collective. Pirates are rumored to be trading at the base, and scarce resources have caused many to question their decision to leave our empire. Some campaign for reunification and have asked us to support their cause, though Aspire treats this as treason.</String>
+    <String>Relatórios de violentas lutas internas têm vindo do Coletivo Aspire. Há rumores de que os piratas estão negociando na base, e os escassos recursos têm levado muitos a questionar sua decisão de deixar nosso império. Algumas campanhas de reunificação nos pediram para apoiar a causa deles, embora a Aspire trate isso como traição.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession1_Choice1Dec</Label>
-    <String>Provide an ambassador and medical aid to those that support us.</String>
+    <String>Fornecer um embaixador e ajuda médica para aqueles que nos apóiam.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession1_Choice1BonusDec</Label>
-    <String>+5 Benevolent, -50 Credits, {STATCHANCE}% Diplomacy check</String>
+    <String>+5 Benevolente, -50 Creditos, {STATCHANCE}% Controle de diplomacia</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession1_Choice2Dec</Label>
-    <String>This situation will not be settled peacfully. Provide weapons to those that support us.</String>
+    <String>Esta situação não será resolvida de forma pacífica. Fornecer armas para aqueles que nos apoiam.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession1_Choice2BonusDec</Label>
-    <String>+5 Malevolent, {STATCHANCE}% Controle malévolo</String>
+    <String>+5 Malevolo, {STATCHANCE}% Controle malévolo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession1_Choice3Dec</Label>
-    <String>Stay out of their internal politics, it is no longer our concern.</String>
+    <String>Fique fora de suas políticas internas, não é mais nossa preocupação.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession1a_Name</Label>
-    <String>Crisis: Secession - Success</String>
+    <String>Crise: Secessão - Successo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession1a_Dec</Label>
-    <String>Our ambassador stands with those protesting for reunification. He is beaten and arrested by Aspire police. When he is released he is warned to return to our worlds or he will be killed. Instead, he remains on the Aspire starbase. He speaks to the media and tells them when Aspire wanted freedom it was given to them. But when their people want to be heard, Aspire responded with violence. His story inspires the citizens of the starbase, and when Aspire leadership orders him killed, Aspire soliders refuse to follow the command.
+    <String>Nosso embaixador está com aqueles que protestam pela reunificação. Ele é espancado e preso pela polícia Aspire. Quando é libertado, ele é avisado para voltar ao nosso mundo ou será morto. Ao invés disso, ele permanece na base dos Aspire. Ele fala aos meios de comunicação e lhes diz quando Aspire quis a liberdade que lhes foi dada. Mas quando seu povo quer ser ouvido, Aspire responde com violência. Sua história inspira os cidadãos da base estelar, e quando a liderança Aspire ordena que ele seja morto, os soldados Aspire se recusam a seguir o comando.
 
-Aspire leadership is overthrown and the starbase asks to rejoin our empire. Our ambassador becomes renown for his compassion and determination.
+A liderança Aspire é derrubada e a base estelar pede para voltar a entrar em nosso império. Nosso embaixador torna-se renomado por sua compaixão e determinação.
 
-[COLOR=UIDefaultHighlight]Free Starbase, Unlocked new Crisis Manager (assign on the Government screen)[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Starbase grátis, desbloqueado novo Gerente de Crise (designado na tela do Governo)[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession1b_Name</Label>
-    <String>Crisis: Secession - Failure</String>
+    <String>Crise: Secessão - Fracasso</String>
   </StringTable>
  
   <StringTable>
