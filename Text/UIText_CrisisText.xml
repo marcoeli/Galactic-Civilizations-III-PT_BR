@@ -49,562 +49,562 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Crisis_TheSimulation1_Name</Label>
-    <String>Crisis: The Simulation (part 2)</String>
+    <String>Crise: A Simulação (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation1_Dec</Label>
-    <String>Your scientists have developed a massive transmitter than attempts to vibrate the universe at a quantum level. They say that the vibration is large enough that it should be noticed by outside observers, and probably won't destroy reality. What do we want our message to be?</String>
+    <String>Seus cientistas desenvolveram um transmissor massivo que tenta vibrar o universo a um nível quântico. Eles dizem que a vibração é suficientemente grande para que seja notada por observadores externos, e provavelmente não destruirá a realidade. O que queremos que nossa mensagem seja?</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation1_Choice1Dec</Label>
-    <String>"Please give us a new world, a paradise to inhabit."</String>
+    <String>"Por favor, dê-nos um novo mundo, um paraíso para habitar."</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation1_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Benevolent check</String>
+    <String>{STATCHANCE}% Controle benevolente</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation1_Choice2Dec</Label>
-    <String>"Why are we here?"</String>
+    <String>"Por que estamos aqui?"</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation1_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Pragmatic check</String>
+    <String>{STATCHANCE}% Controle pragmático</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation1_Choice3Dec</Label>
-    <String>"Prove to us that you exist!"</String>
+    <String>"Prove-nos que você existe!"</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation1_Choice3BonusDec</Label>
-    <String>{STATCHANCE}% Malevolent check</String>
+    <String>{STATCHANCE}% Controle malévolo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation1a_Name</Label>
-    <String>Crisis: The Simulation - Success</String>
+    <String>Crise: A Simulação - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation1a_Dec</Label>
-    <String>Your scientists broadcast your message, "Please give us a new world, a paradise to inhabit."
+    <String>Seus cientistas transmitiram sua mensagem: "Por favor, dê-nos um novo mundo, um paraíso para habitar".
 
-There is no immediate reply and you begin to wonder if anyone heard your message, or if there was anyone to hear it. Then your scientists notice an uninhabited planet in a solar system you control. Though all recording and measurements claim it has always been there, no one recalls having noticed it before. Apparently your message did get through.</String>
+Não há uma resposta imediata e você começa a se perguntar se alguém ouviu sua mensagem, ou se houve alguém para ouvi-la. Então seus cientistas notam um planeta desabitado em um sistema solar que você controla. Embora todos os registros e medições afirmem que ele sempre esteve lá, ninguém se lembra de tê-lo notado antes. Aparentemente, sua mensagem foi transmitida.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation1b_Name</Label>
-    <String>Crisis: The Simulation - Failure</String>
+    <String>Crise: A Simulação - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation1b_Dec</Label>
-    <String>Your scientists turn on the transmitter to beam its message from {PLANETNAME}. For a heartbeat a million dimensions can be seen overlapping each other, most burning or only cold emptiness. The atoms of every mountain, building and citizen of {PLANETNAME}, including those of the transmitter itself are shifted. When it is complete many of your citizens are simply missing. Oddly a few new ones have appeared.
+    <String>Seus cientistas ligam o transmissor para transmitir sua mensagem de {PLANETNAME}. Para um batimento cardíaco, um milhão de dimensões podem ser vistas sobrepondo-se umas às outras, a maioria queimando ou apenas o vazio frio. Os átomos de cada montanha, edifício e cidadão de {PLANETNAME}, incluindo os do próprio transmissor, são deslocados. Quando está completo, muitos de seus cidadãos estão simplesmente desaparecidos. Estranhamente, alguns novos surgiram.
 
-[COLOR=UIDefaultHighlight]Halves the population of {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Reduz pela metade a população de {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation1c_Name</Label>
-    <String>Crisis: The Simulation - Success</String>
+    <String>Crise: A Simulação - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation1c_Dec</Label>
-    <String>Your scientists broadcast your message, "Why are we here?"
+    <String>Seus cientistas transmitiram sua mensagem: "Por que estamos aqui?"
 
-You have your answer almost immediatly as a brief portal opens to another dimension, world or reality. Through it comes a ship unlike anything you have seen before, able to travel to the very edge of the known universe, maybe even beyond. Your citizens take to calling the ship, Messenger.
+Você tem sua resposta quase imediatamente, pois um breve portal se abre para outra dimensão, mundo ou realidade. Através dele vem uma nave diferente de tudo o que você já viu antes, capaz de viajar até o limite do universo conhecido, talvez até mais além. Seus cidadãos passam a chamar a nave, Mensageiro.
 
-[COLOR=UIDefaultHighlight]Free "Messenger" Ship[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Navio "Mensageiro" grátis[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation1d_Name</Label>
-    <String>Crisis: The Simulation - Failure</String>
+    <String>Crise: A Simulação - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation1d_Dec</Label>
-    <String>Your scientists turn on the transmitter to beam its message from {PLANETNAME}. For a heartbeat a million dimensions can be seen overlapping each other, most burning or only cold emptiness. The atoms of every mountain, building and citizen of {PLANETNAME}, including those of the transmitter itself are shifted. When it is complete many of your citizens are simply missing. Oddly a few new ones have appeared.
+    <String>Seus cientistas ligam o transmissor para transmitir sua mensagem de {PLANETNAME}. Para um batimento cardíaco, um milhão de dimensões podem ser vistas sobrepondo-se umas às outras, a maioria queimando ou apenas o vazio frio. Os átomos de cada montanha, edifício e cidadão de {PLANETNAME}, incluindo os do próprio transmissor, são deslocados. Quando está completo, muitos de seus cidadãos estão simplesmente desaparecidos. Estranhamente, alguns novos surgiram.
 
-[COLOR=UIDefaultHighlight]Halves the population of {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Reduz pela metade a população de {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation1e_Name</Label>
-    <String>Crisis: The Simulation - Success</String>
+    <String>Crise: A Simulação - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation1e_Dec</Label>
-    <String>Your scientists broadcast your message, "Prove to us that you exist!"
+    <String>Seus cientistas transmitiram sua mensagem: "Prove-nos que você existe!
 
-You have your answer almost immediatly as a brief portal opens to another dimension, world or reality. Through it comes a ship unlike anything you have seen before, an incredible warship able to conquer civilizations on its own. The answer seems to be clear, whatever answered you from beyond this reality has clear intentions for you: conquest.
+Você tem sua resposta quase imediatamente, pois um breve portal se abre para outra dimensão, mundo ou realidade. Através dele surge uma nave diferente de tudo o que você já viu antes, uma incrível nave de guerra capaz de conquistar civilizações por si só. A resposta parece ser clara, o que quer que lhe tenha respondido de além desta realidade tem intenções claras para você: a conquista.
 
-[COLOR=UIDefaultHighlight]Free "Retribution" Ship[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Nave "Retribuição" grátis[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation1f_Name</Label>
-    <String>Crisis: The Simulation - Failure</String>
+    <String>Crise: A Simulação - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation1f_Dec</Label>
-    <String>Your scientists broadcast your message, "Prove to us that you exist!"
+    <String>Seus cientistas transmitiram sua mensagem: "Prove-nos que você existe!
 
-You receive your answer almost immediately. Apparently someone is listening, and they either hate you or they have a dark sense of humor. Your response is a series of meteors that shower down on {PLANETNAME} killing millions. At least now you have your proof.
+Você recebe sua resposta quase imediatamente. Aparentemente, alguém está ouvindo, e ou o odeiam ou têm um senso de humor sombrio. Sua resposta é uma série de meteoros que chovem sobre {PLANETNAME} matando milhões. Pelo menos agora você tem sua prova.
 
-[COLOR=UIDefaultHighlight]Population halved on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]A população diminuiu pela metade em {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2_Name</Label>
-    <String>Crisis: The Simulation (part 2)</String>
+    <String>Crise: A Simulação (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2_Dec</Label>
-    <String>Your citizens continue to live their lives, oblivious to the simulation they are a part of. Meanwhile your scientists have begun to create a simulation of their own, one that contains its own worlds and virtual citizens.</String>
+    <String>Seus cidadãos continuam a viver suas vidas, alheios à simulação da qual fazem parte. Enquanto isso, seus cientistas começaram a criar uma simulação própria, uma simulação que contém seus próprios mundos e cidadãos virtuais.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2_Choice1Dec</Label>
-    <String>Make this simulation a paradise for the simulated citizens living in it.</String>
+    <String>Faça desta simulação um paraíso para os cidadãos simulados que nela vivem.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Benevolent check</String>
+    <String>{STATCHANCE}% Controle benevolente</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2_Choice2Dec</Label>
-    <String>Release the simulation as a game for your citizens to enjoy.</String>
+    <String>Libere a simulação como um jogo para que seus cidadãos possam desfrutar.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Science check</String>
+    <String>{STATCHANCE}% Controle científico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2_Choice3Dec</Label>
-    <String>Use this simulation to practice military techniques.</String>
+    <String>Use esta simulação para praticar técnicas militares.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2_Choice3BonusDec</Label>
-    <String>{STATCHANCE}% Military check</String>
+    <String>{STATCHANCE}% Controle militar</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2a_Name</Label>
-    <String>Crisis: The Simulation - Success</String>
+    <String>Crise: A Simulação - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2a_Dec</Label>
-    <String>Despite your best efforts you cannot remove suffering entirely from your simulation. Unless every experience is the same, some are always better, and some are worse. There is always to joy and pain. Your philosophers consider this lesson carefully.
+    <String>Apesar de seus melhores esforços, você não pode remover completamente o sofrimento de sua simulação. A menos que cada experiência seja a mesma, algumas são sempre melhores, e outras piores. Há sempre a alegria e a dor. Seus filósofos consideram esta lição cuidadosamente.
 
-[COLOR=UIDefaultHighlight]+20 Benevolent, +20 Pragmatic,+20 Malevolent[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+20 Benevolente, +20 Pragmático,+20 Malévolo[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2b_Name</Label>
-    <String>Crisis: The Simulation - Failure</String>
+    <String>Crise: A Simulação - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2b_Dec</Label>
-    <String>In every simulation, no matter how perfect, the simulated citizens become depressed and depraved. Violence and apathy seem the outcome of every experiment and the only ultimate conclusion of life. Your scientists are deeply disturbed by these results.
+    <String>Em cada simulação, por mais perfeita que seja, os cidadãos simulados se tornam deprimidos e depravados. A violência e a apatia parecem ser o resultado de cada experiência e a única conclusão final da vida. Seus cientistas estão profundamente perturbados com estes resultados.
 
-[COLOR=UIDefaultHighlight]Global Effect: -25% Research for 10 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -25% Pesquisa por 10 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2c_Name</Label>
-    <String>Crisis: The Simulation - Success</String>
+    <String>Crise: A Simulação - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2c_Dec</Label>
-    <String>Your game continues to grow and attract fans throughout the galaxy, becoming so popular that many ignore their daily lives to play. 
+    <String>Seu jogo continua a crescer e atrair fãs por toda a galáxia, tornando-se tão popular que muitos ignoram suas vidas diárias para jogar. 
 
-[COLOR=UIDefaultHighlight]Global Effect: -10% Production, +25% Influence for 50 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -10% Produção, +25% Influência para 50 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2d_Name</Label>
-    <String>Crisis: The Simulation - Failure</String>
+    <String>Crise: A Simulação - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2d_Dec</Label>
-    <String>Despite the long hours and the hard work of your passionate designers, developers and artists your game doesn't become the massive blockbuster you hoped for. Instead you make about as much on the game as you spent developing it. Welcome to the gaming industry.</String>
+    <String>Apesar das longas horas e do trabalho árduo de seus apaixonados designers, desenvolvedores e artistas, seu jogo não se torna o grande sucesso de bilheteria que você esperava. Ao invés disso, você ganha tanto com o jogo quanto com o seu desenvolvimento. Bem-vindo à indústria de jogos.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2e_Name</Label>
-    <String>Crisis: The Simulation - Success</String>
+    <String>Crise: A Simulação - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2e_Dec</Label>
-    <String>The military simulation displays clearly how military models of the last decade, and even those of the past few years are woefully out of date. Military strategy and capability is changing so quickly commanders training is nearly useless by the time they graduate. Fortunately our simulation allows us to adapt our strategy with each new development, and become more effective on the battefield.
+    <String>A simulação militar mostra claramente como os modelos militares da última década, e mesmo os dos últimos anos, estão terrivelmente desatualizados. A estratégia e a capacidade militares estão mudando tão rapidamente que o treinamento dos comandantes é quase inútil quando eles se formam. Felizmente, nossa simulação nos permite adaptar nossa estratégia a cada novo desenvolvimento, e nos tornar mais eficazes no campo de batalha.
 
-[COLOR=UIDefaultHighlight]Global Effect: Permanent +10% Soldiering and Resistence[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: Permanente +10% de Soldado e Resistência[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2f_Name</Label>
-    <String>Crisis: The Simulation - Failure</String>
+    <String>Crise: A Simulação - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation2f_Dec</Label>
-    <String>The military simulation was going well, until containment failed and it took over one of our manufacturing facilities. By the time we stopped it it had already created a fleet of very aggressive warships.</String>
+    <String>A simulação militar estava indo bem, até que a contenção falhou e tomou conta de uma de nossas instalações de fabricação. Quando a paramos, ela já havia criado uma frota de navios de guerra muito agressiva.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation3_Name</Label>
-    <String>Crisis: The Simulation (part 2)</String>
+    <String>Crise: A Simulação (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation3_Dec</Label>
-    <String>Your scientists theorize that time is constant only as we experience it. From the perspective of the simulation it runs in bursts. They speculate that if they can isolate an area in 'real-time' they can cheat the simulation and take advantage of moments where the rest of galaxy is inactive.</String>
+    <String>Seus cientistas teorizam que o tempo é constante apenas quando o experimentamos. Do ponto de vista da simulação, ele é executado em rajadas. Eles especulam que, se puderem isolar uma área em "tempo real", podem enganar a simulação e aproveitar os momentos em que o resto da galáxia está inativa.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation3_Choice1Dec</Label>
-    <String>Isolate our research computers so that they can continue to process outside local time.</String>
+    <String>Isolar nossos computadores de pesquisa para que eles possam continuar a processar fora do horário local.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation3_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Science check</String>
+    <String>{STATCHANCE}% Controle científico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation3_Choice2Dec</Label>
-    <String>Create a field large enough to contain an entire ship, one that is unhindered by time.</String>
+    <String>Criar um campo suficientemente grande para conter um navio inteiro, um campo que não seja impedido pelo tempo.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation3_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Military check</String>
+    <String>{STATCHANCE}% Controle militar</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation3_Choice3Dec</Label>
-    <String>We risk damaging the galaxy itself with these efforts. Put a stop to them.</String>
+    <String>Com estes esforços, corremos o risco de prejudicar a própria galáxia. Acabe com eles.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation3a_Name</Label>
-    <String>Crisis: The Simulation - Success</String>
+    <String>Crise: A Simulação - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation3a_Dec</Label>
-    <String>Isolating the research computers from local time was successful and capable of performing years of research in seconds. Until the day we saw dark shapes moving within the containment field. They were shaped like Thalans. But when we opened the containment field they were gone, as well as our equipment. Though we cannot continue our experiments, at least we have the research we gained while it was running. 
+    <String>Isolar os computadores de pesquisa da época local foi um sucesso e capaz de realizar anos de pesquisa em segundos. Até o dia em que vimos formas escuras se movendo dentro do campo de contenção. Elas tinham a forma de Thalans. Mas quando abrimos o campo de contenção, elas tinham desaparecido, assim como nosso equipamento. Embora não possamos continuar nossas experiências, pelo menos temos a pesquisa que adquirimos enquanto o campo estava funcionando.
 
-[COLOR=UIDefaultHighlight]Finish Current Research[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Concluir a Pesquisa Atual[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation3b_Name</Label>
-    <String>Crisis: The Simulation - Failure</String>
+    <String>Crise: A Simulação - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation3b_Dec</Label>
-    <String>Your scientists prepare a chamber to isolate their computer from local time. But their calculations are incorrect. When the field is switched on the computers and a large part of their lab disappear entirely, lost in some other reality. Perhaps someday in the future they will reappear. Until then a large amount of their research has been lost.
+    <String>Seus cientistas preparam uma câmara para isolar seu computador da hora local. Mas seus cálculos estão incorretos. Quando o campo é ligado os computadores e uma grande parte de seu laboratório desaparece completamente, perdida em alguma outra realidade. Talvez algum dia, no futuro, eles reapareçam. Até então, uma grande parte de suas pesquisas foi perdida.
 
-[COLOR=UIDefaultHighlight]Global Effect: -50% Research for 10 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -50% Pesquisa por 10 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation3c_Name</Label>
-    <String>Crisis: The Simulation - Success</String>
+    <String>Crise: A Simulação - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation3c_Dec</Label>
-    <String>Other civilizations have noticed your new warship. They believe that by ignoring the laws of physics you risk damaging the galaxy itself. 
+    <String>Outras civilizações notaram seu novo navio de guerra. Eles acreditam que, ao ignorar as leis da física, você corre o risco de danificar a própria galáxia. 
 
-[COLOR=UIDefaultHighlight]Global Effect: -2 Diplomacy. Free "Timeless" ship.[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -2 Diplomacia. Nave "Timeless" gratuita.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation3d_Name</Label>
-    <String>Crisis: The Simulation - Failure</String>
+    <String>Crise: A Simulação - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation3d_Dec</Label>
-    <String>You scientists successfully manage to put a time field around a warship, allowing it to move at incredible speed. While they are still toasting their success your military displays its incompetance by underestimating the ships speed and pilot it right into a moon, destroying it in its first flight. Both your miltiary and your scientists fall into screaming matches blaming each other for the tragedy.
+    <String>Vocês cientistas conseguem colocar um campo de tempo em torno de um navio de guerra, permitindo que ele se mova a uma velocidade incrível. Enquanto ainda estão saboreando seu sucesso, seus militares demonstram sua incompetência subestimando a velocidade do navio e pilotando-o até a lua, destruindo-o em seu primeiro vôo. Tanto seus militares quanto seus cientistas entram em conflito aos gritos culpando um ao outro pela tragédia.
 
-[COLOR=UIDefaultHighlight]Global Effect: -25% Research and Military Construction for 10 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -25% Pesquisa e Construção Militar para 10 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation3e_Name</Label>
-    <String>Crisis: The Simulation - Success</String>
+    <String>Crise: A Simulação - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheSimulation3e_Dec</Label>
-    <String>Your ministers are impressed that you put the needs of the galaxy above your own. This inspires them to follow your example in their dealings with other factions.
+    <String>Seus ministros estão impressionados por colocar as necessidades da galáxia acima de suas próprias necessidades. Isto os inspira a seguir seu exemplo em suas relações com outras facções.
 
-[COLOR=UIDefaultHighlight]Global Effect: +2 Diplomacy[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +2 Diplomacia[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution_Name</Label>
-    <String>Crisis: The Revolution</String>
+    <String>Crise: A Revolução</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution_Dec</Label>
-    <String>A small, but growing group of masked revolutionaries has been inciting protests and setting fire to government buildings. In the latest attack, the fire spread to a housing complex where two people were killed. The revolutionaries claim that the deaths were evidence that the state is too incompetent to keep fires from spreading, even though they admit to starting it. 
+    <String>Um pequeno, mas crescente grupo de revolucionários mascarados tem incitado protestos e incendiado edifícios governamentais. No último ataque, o fogo se espalhou para um complexo habitacional onde duas pessoas foram mortas. Os revolucionários afirmam que as mortes foram provas de que o estado é incompetente demais para impedir a propagação do fogo, embora admitam que o tenham iniciado. 
 
-[COLOR=UIDefaultHighlight]Global Effect: -10% Morale for 10 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -10% de moral por 10 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution_Choice1Dec</Label>
-    <String>Invite the revolutionaries to meet and discuss governmental improvements.</String>
+    <String>Convidar os revolucionários para se encontrarem e discutirem as melhorias governamentais.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution_Choice1BonusDec</Label>
-    <String>+5 Benevolent</String>
+    <String>+5 Benevolente</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution_Choice2Dec</Label>
-    <String>Denounce the revolutionaries as criminals and task your police to bring them to trial.</String>
+    <String>Denuncie os revolucionários como criminosos e encarregue sua polícia de levá-los a julgamento.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution_Choice2BonusDec</Label>
-    <String>+5 Pragmatic</String>
+    <String>+5 Pragmatico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution_Choice3Dec</Label>
-    <String>Invite the revolutionaries to meet, and execute anyone who is fool enough to show up.</String>
+    <String>Convidar os revolucionários a se encontrarem e executar qualquer um que seja tolo o suficiente para aparecer.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution_Choice3BonusDec</Label>
-    <String>+10 Malevolent</String>
+    <String>+10 Malevolo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution1_Name</Label>
-    <String>Crisis: The Revolution (part 2)</String>
+    <String>Crise: A Revolução (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution1_Dec</Label>
-    <String>Your meetings with the revolutionaries are productive and some new measures come out of the talks. Unfortunately this has also encouraged other radical groups to begin taking violent actions to attempt to get a seat at the table. And their carelessness leads to even more deaths. 
+    <String>Suas reuniões com os revolucionários são produtivas e algumas novas medidas saem das conversações. Infelizmente, isto também tem encorajado outros grupos radicais a começar a tomar ações violentas para tentar conseguir um lugar à mesa. E o descuido deles leva a ainda mais mortes. 
 
-[COLOR=UIDefaultHighlight]Global Effect: -10% Growth for 10 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -10% de crescimento para 10 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution1_Choice1Dec</Label>
-    <String>Allow everyone to speak directly with leaders so their ideas can be considered.</String>
+    <String>Permitir que todos falem diretamente com os líderes para que suas idéias possam ser consideradas.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution1_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Benevolent check, -5% Social Construction for 25 turns</String>
+    <String>{STATCHANCE}% Controle benevolente, -5% Construção Social para 25 turnos</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution1_Choice2Dec</Label>
-    <String>End this cycle. Come down hard on the radical groups and make it clear this is not the way to get leverage.</String>
+    <String>Fim deste ciclo. Desça com força sobre os grupos radicais e deixe claro que esta não é a maneira de obter vantagem.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution1_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Military check</String>
+    <String>{STATCHANCE}% Controle militar</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution1_Choice3Dec</Label>
-    <String>This was a mistake, jail them all, starting with the revolutionaries you just met with.</String>
+    <String>Isto foi um erro, prendam a todos, começando pelos revolucionários com os quais você acabou de se encontrar.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution1a_Name</Label>
-    <String>Crisis: The Revolution - Success</String>
+    <String>Crise: A Revolução - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution1a_Dec</Label>
-    <String>Your government becomes a model on how to value your citizens. One leader in particular becomes reknown for his compassion, sincerity and insight.
+    <String>Seu governo se torna um modelo de como valorizar seus cidadãos. Um líder em particular torna-se conhecido por sua compaixão, sinceridade e perspicácia.
 
-[COLOR=UIDefaultHighlight]Unlocked new Crisis Manager (assign on the Government screen)[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Desbloqueado novo Gerente de Crise (designado na tela do Governo)[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution1b_Name</Label>
-    <String>Crisis: The Revolution - Failure</String>
+    <String>Crise: A Revolução - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution1b_Dec</Label>
-    <String>Giving in to violent radical groups has caused legitimate groups to be ignored. Many good ideas get lost and some peaceful organizations turn violent in an attempt to get moved to the front of the line. Where citizens used to write petitions, they now light fires.
+    <String>Ceder a grupos radicais violentos tem feito com que grupos legítimos sejam ignorados. Muitas boas idéias se perdem e algumas organizações pacíficas se tornam violentas em uma tentativa de serem movidas para a frente da fila. Onde os cidadãos costumavam escrever petições, eles agora ateiam fogos.
 
-[COLOR=UIDefaultHighlight]Global Effect: -10% Approval for 25 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -10% Aprovação por 25 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution1c_Name</Label>
-    <String>Crisis: The Revolution - Success</String>
+    <String>Crise: A Revolução - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution1c_Dec</Label>
-    <String>Your military comes down hard on the revolutionaries. They are quickly rounded up and their assets seized, providing a nice bonus for governmental coffers.
+    <String>Seus militares são duros com os revolucionários. Eles são rapidamente reunidos e seus bens apreendidos, proporcionando um belo bônus para os cofres do governo.
 
 [COLOR=UIDefaultHighlight]+350 Credits[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution1d_Name</Label>
-    <String>Crisis: The Revolution - Failure</String>
+    <String>Crise: A Revolução - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution1d_Dec</Label>
-    <String>The radical groups aren't easily put down. A raid on a shipyard gains them control of a few military ships which they use to start attacking civilian vessels.</String>
+    <String>Os grupos radicais não são facilmente derrubados. Um ataque a um estaleiro lhes dá o controle de alguns navios militares que eles usam para começar a atacar navios civis.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution1e_Name</Label>
-    <String>Crisis: The Revolution - Failure</String>
+    <String>Crise: A Revolução - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution1e_Dec</Label>
-    <String>The whiplash of supporting the revolutionaries to jailing them causes confusion among your citizens. Riots break out across your empire. But it will pass in time. 
+    <String>O choque de apoiar os revolucionários para prendê-los causa confusão entre seus cidadãos. Os motins irrompem por todo o seu império. Mas isso vai passar com o tempo. 
 
-[COLOR=UIDefaultHighlight]Global Effect: -50% Morale for 5 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -50% de moral por 5 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution2_Name</Label>
-    <String>Crisis: The Revolution (part 2)</String>
+    <String>Crise: A Revolução (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution2_Dec</Label>
-    <String>Despite the efforts of your police, the revolutionaries' attacks become more frequent and more aggressive. The few that are caught have no knowledge of the larger organization, and the leaders remain active and at large. Many claim that your Police Commissioner is either incompetent, or complicit in his dealing with the revolutionaries. 
+    <String>Apesar dos esforços de sua polícia, os ataques dos revolucionários se tornam mais freqüentes e mais agressivos. Os poucos que são pegos não têm conhecimento da organização maior, e os líderes permanecem ativos e em liberdade. Muitos afirmam que seu Comissário de Polícia ou é incompetente ou cúmplice em seu trato com os revolucionários. 
 
-[COLOR=UIDefaultHighlight]Global Effect: -10% Morale for 10 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -10% de moral por 10 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution2_Choice1Dec</Label>
-    <String>Increase the Commissioner's budget. He needs more resources to be successful.</String>
+    <String>Aumentar o orçamento do Comissário. Ele precisa de mais recursos para ser bem sucedido.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution2_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Benevolent check, -10% Income for 10 turns</String>
+    <String>{STATCHANCE}% Controle benevolente, -10% de renda por 10 turnos</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution2_Choice2Dec</Label>
-    <String>Have the Commissioner discreetly tracked to find out if these rumors are true.</String>
+    <String>Peça ao comissário para rastrear discretamente se esses rumores são verdadeiros.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution2_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Pragmatic check</String>
+    <String>{STATCHANCE}% Controle pragmático</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution2_Choice3Dec</Label>
-    <String>The police have failed. Imprison the Commissioner and have the military take over the operation.</String>
+    <String>A polícia falhou. Prenderam o comissário e fizeram os militares assumirem a operação.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution2a_Name</Label>
-    <String>Crisis: The Revolution - Success</String>
+    <String>Crise: A Revolução - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution2a_Dec</Label>
-    <String>The additional resources pay off. Your police put an end to the revolutionaries attacks and use the additional budget to roll out public safety measures across our worlds.
+    <String>Os recursos adicionais compensam. Sua polícia põe um fim aos ataques revolucionários e utiliza o orçamento adicional para implantar medidas de segurança pública em nosso mundo.
 
-[COLOR=UIDefaultHighlight]Global Effect: +10% Reistance[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +10% de resistência[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution2b_Name</Label>
-    <String>Crisis: The Revolution - Failure</String>
+    <String>Crise: A Revolução - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution2b_Dec</Label>
-    <String>Weeks go by, and still no significant progress is made toward stopping the revolutionaries. For your citizens its more evidence for how ineffective your governments has become. 
+    <String>Semanas passam, e ainda não há nenhum progresso significativo para deter os revolucionários. Para seus cidadãos, é mais uma prova de como seus governos se tornaram ineficazes. 
 
-[COLOR=UIDefaultHighlight]Global Effect: -10% Morale for 10 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -10% de moral por 10 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution2c_Name</Label>
-    <String>Crisis: The Revolution - Success</String>
+    <String>Crise: A Revolução - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution2c_Dec</Label>
-    <String>Outside of watching some questionable reality streams, your Police Commissioner seems to be a typical citizen. It isn't until nearly a week later that he buys a transport ticket he doesn't use and heads into the nearby warehouse instead. That is where your agents catch him and all the revolutionary leaders planning their next attack. Your citizens applaud your success as the attacks end. 
+    <String>Fora de observar algumas correntes de realidade questionáveis, seu Comissário de Polícia parece ser um cidadão típico. Só uma semana depois é que ele compra um bilhete de transporte que não usa e se dirige ao armazém próximo. É aí que seus agentes o pegam e todos os líderes revolucionários planejam seu próximo ataque. Seus cidadãos aplaudem seu sucesso à medida que os ataques terminam. 
 
-[COLOR=UIDefaultHighlight]Global Effect: +10% Morale for 25 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +10% de moral por 25 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution2d_Name</Label>
-    <String>Crisis: The Revolution - Failure</String>
+    <String>Crise: A Revolução - O fracasso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution2d_Dec</Label>
-    <String>Your agents follow the Commissioner, but outside of watching some questionable reality streams, he appears to be a typical citizen. But the Commissioner must have noticed he was being followed because he disappears. Meanwhile the revolutionaries attacks intensify. For your citizens it's more evidence for how ineffective your government has become.
+    <String>Seus agentes seguem o Comissário, porém além de observar algumas correntes de realidade questionáveis, ele parece ser um cidadão típico. Mas o Comissário deve ter notado que ele estava sendo seguido porque desaparece. Enquanto isso, os ataques revolucionários se intensificam. Para seus cidadãos, é mais uma prova de quão ineficaz seu governo se tornou.
 
-[COLOR=UIDefaultHighlight]Global Effect: -10% Morale for 25 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -10% de moral por 25 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution2e_Name</Label>
-    <String>Crisis: The Revolution - Failure</String>
+    <String>Crise: A Revolução - O fracasso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution2e_Dec</Label>
-    <String>Military action ends the revolutionaries attacks, but your citizens question the heavy handed response. Either way there is no doubt that pulling the military for police actions steals time form their normal duties and may make our planets less safe against external threats. 
+    <String>A ação militar põe fim aos ataques dos revolucionários, mas seus cidadãos questionam a resposta de mão pesada. De qualquer forma, não há dúvida de que puxar os militares para ações policiais rouba tempo de suas tarefas normais e pode tornar nossos planetas menos seguros contra ameaças externas. 
 
-[COLOR=UIDefaultHighlight]Global Effect: -10% Resistance[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -10% Resistência[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_TheRevolution3_Name</Label>
-    <String>Crisis: The Revolution (part 2)</String>
+    <String>Crise: A Revolução (parte 2)</String>
   </StringTable>
  
   <StringTable>
@@ -619,7 +619,7 @@ You receive your answer almost immediately. Apparently someone is listening, and
  
   <StringTable>
     <Label>Crisis_TheRevolution3_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Benevolent check</String>
+    <String>{STATCHANCE}% Controle benevolente</String>
   </StringTable>
  
   <StringTable>
@@ -639,7 +639,7 @@ You receive your answer almost immediately. Apparently someone is listening, and
  
   <StringTable>
     <Label>Crisis_TheRevolution3_Choice3BonusDec</Label>
-    <String>{STATCHANCE}% Malevolent check</String>
+    <String>{STATCHANCE}% Controle malévolo</String>
   </StringTable>
  
   <StringTable>
@@ -771,7 +771,7 @@ Amateur astronomers have begun tracking the asteroid and the media is causing a 
  
   <StringTable>
     <Label>Crisis_Apophis1_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Benevolent check</String>
+    <String>{STATCHANCE}% Controle benevolente</String>
   </StringTable>
  
   <StringTable>
@@ -1106,7 +1106,7 @@ Amateur astronomers have begun tracking the asteroid and the media is causing a 
  
   <StringTable>
     <Label>Crisis_Secession1_Choice2BonusDec</Label>
-    <String>+5 Malevolent, {STATCHANCE}% Malevolent check</String>
+    <String>+5 Malevolent, {STATCHANCE}% Controle malévolo</String>
   </StringTable>
  
   <StringTable>
@@ -1744,7 +1744,7 @@ Aspire leadership is overthrown and the starbase asks to rejoin our empire. Our 
  
   <StringTable>
     <Label>Crisis_RogueGeneral1_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Benevolent check</String>
+    <String>{STATCHANCE}% Controle benevolente</String>
   </StringTable>
  
   <StringTable>
@@ -1839,7 +1839,7 @@ Aspire leadership is overthrown and the starbase asks to rejoin our empire. Our 
  
   <StringTable>
     <Label>Crisis_RogueGeneral2_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Benevolent check</String>
+    <String>{STATCHANCE}% Controle benevolente</String>
   </StringTable>
  
   <StringTable>
@@ -2273,7 +2273,7 @@ Your citizens applaud your scientist's brillance.
  
   <StringTable>
     <Label>Crisis_BrainParasites3_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Malevolent check</String>
+    <String>{STATCHANCE}% Controle malévolo</String>
   </StringTable>
  
   <StringTable>
