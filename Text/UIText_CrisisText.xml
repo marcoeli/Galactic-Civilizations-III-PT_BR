@@ -1135,611 +1135,611 @@ A liderança Aspire é derrubada e a base estelar pede para voltar a entrar em n
  
   <StringTable>
     <Label>Crisis_Secession1b_Dec</Label>
-    <String>Despite our support, those campaigning to rejoin us are arrested for treason. Many comment that we freely allowed our citizens to join Aspire, but Aspire jailed those same citizens when they spoke about coming back. Despite our benevolence, Aspire is falling into authoritarian control and citizens are still leaving our worlds to join them.
+    <String>Apesar de nosso apoio, aqueles que fazem campanha para se juntarem a nós são presos por traição. Muitos comentam que permitimos que nossos cidadãos aderissem livremente à Aspire, mas a Aspire prendeu esses mesmos cidadãos quando eles falaram em voltar. Apesar de nossa benevolência, a Aspire está caindo no controle autoritário e os cidadãos ainda estão deixando nosso mundo para se juntar a eles.
 
-[COLOR=UIDefaultHighlight]Pirate Starbase spawned[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Base pirata Starbase criada[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession1c_Name</Label>
-    <String>Crisis: Secession - Success</String>
+    <String>Crise: Secessão - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession1c_Dec</Label>
-    <String>The conflict on Aspire's starbases turns violent and citizens are killed on both sides. With your weapons, the supporters of reunification manage to take the starbase. But not before Aspire military captures some star ships to escape in.
+    <String>O conflito nas bases estelares da Aspire torna-se violento e os cidadãos são mortos de ambos os lados. Com suas armas, os apoiadores da reunificação conseguem tomar a base estelar. Mas não antes que os militares do Aspire capturem algumas naves estelares para escapar.
 
-[COLOR=UIDefaultHighlight]Pirate Ships spawned, Free Starbase[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Naves piratas criadas, Starbase Grátis[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession1d_Name</Label>
-    <String>Crisis: Secession - Failure</String>
+    <String>Crise: Secessão - Fracasso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession1d_Dec</Label>
-    <String>The conflict on Aspire's starbases turns violent and citizens are killed on both sides. Though outnumbered, supporters of reunification do manage to capture a star ship and escape. But the starbase remains, and continues to draw citizens from nearby worlds.
+    <String>O conflito nas bases estelares da Aspire torna-se violento e os cidadãos são mortos de ambos os lados. Embora em menor número, os partidários da reunificação conseguem capturar uma nave estelar e escapar. Mas a base estelar permanece, e continua a atrair cidadãos de mundos próximos.
 
-[COLOR=UIDefaultHighlight]Pirate Starbase spawned, Free Frigate ship[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Base Estelar Pirata criada, nave fragata grátis[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession1e_Name</Label>
-    <String>Crisis: Secession - Failure</String>
+    <String>Crise: Secessão - Fracasso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession1e_Dec</Label>
-    <String>Those campaigning to rejoin our empire are violently put down. Though we opted to allow them to go their own way, the pirates were not as ambivalent and now openly trade on Aspire starbases and raid nearby colonies.
+    <String>Aqueles que fazem campanha para voltar ao nosso império são violentamente abatidos. Embora tenhamos optado por deixá-los seguir seu próprio caminho, os piratas não eram tão ambivalentes e agora negociam abertamente nas bases estelares Aspire e invadem colônias próximas.
 
-[COLOR=UIDefaultHighlight]Pirate Starbase spawned, Pirate Ships spawned[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Base de piratas criada, Naves de piratas criadas[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession2_Name</Label>
-    <String>Crisis: Secession (part 2)</String>
+    <String>Crise: Secessão (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession2_Dec</Label>
-    <String>For a time our arrangement with the Aspire Collective went well. They provide a regular stipend and kept to themselves. But now their citizens are complaining about the lack of resources and blaming the stipend for making it impossible for them to provide for their own citizens. Now they have missed payment, and it doesn't look like they will be able to make payments anytime soon.</String>
+    <String>Por um tempo nosso acordo com o Coletivo Aspire correu bem. Eles fornecem um pagamento regular e guardado para si mesmos. Mas agora seus cidadãos estão reclamando da falta de recursos e culpando o pagamento da taxa por torná-lo impossível para eles de prover a seus próprios cidadãos. Agora eles já não pagam, e parece que não poderão fazer pagamentos tão cedo.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession2_Choice1Dec</Label>
-    <String>The stipend is too high. Lower it to what they can afford.</String>
+    <String>O pagamento da taxa é muito alto. Baixem-na para um valor que eles possam pagar.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession2_Choice1BonusDec</Label>
-    <String>+5 Benevolent</String>
+    <String>+5 Benevolente</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession2_Choice2Dec</Label>
-    <String>Remove the stipend and have Aspire take government contracts instead.</String>
+    <String>Retirar o pagamento e fazer com que a Aspire aceite contratos governamentais.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession2_Choice2BonusDec</Label>
-    <String>+5 Pragmatic, {STATCHANCE}% Pragmatic check</String>
+    <String>+5 Pragmático, {STATCHANCE}% Controle pragmático</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession2_Choice3Dec</Label>
-    <String>Claim assets, by force, to make up for their debt.</String>
+    <String>Reivindicar ativos, pela força, para compensar sua dívida.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession2_Choice3BonusDec</Label>
-    <String>+5 Malevolent, {STATCHANCE}% Military check</String>
+    <String>+5 Malevolo, {STATCHANCE}% Controle militar</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession2a_Name</Label>
-    <String>Crisis: Secession - Success</String>
+    <String>Crise: Secessão - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession2a_Dec</Label>
-    <String>Though the complaints of a high stipend continue, the reduction in the amount has allowed Aspire to balance their books and begin providing services to their citizens. For now, they are stable and able to continue paying us. And they continue to recruit citizens from nearby worlds.
+    <String>Embora as reclamações de um alto pagamento continuem, a redução no valor permitiu à Aspire equilibrar seus livros e começar a prestar serviços a seus cidadãos. Por enquanto, eles são estáveis e capazes de continuar nos pagando. E eles continuam a recrutar cidadãos de mundos próximos.
 
-[COLOR=UIDefaultHighlight]Income Starbase spawned[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Renda Starbase gerada[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession2b_Name</Label>
-    <String>Crisis: Secession - Success</String>
+    <String>Crise: Secessão - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession2b_Dec</Label>
-    <String>We begin funneling small manufacturing jobs to Aspire, which they gladly do at cost in return for remaining within our borders. This improves the efficiency and production of all nearby shipyards and worlds.
+    <String>Começamos a canalizar pequenos trabalhos de fabricação para a Aspire, o que eles fazem de bom grado a um custo em troca de permanecerem dentro de nossas fronteiras. Isto melhora a eficiência e a produção de todos os estaleiros e mundos próximos.
 
-[COLOR=UIDefaultHighlight]Manufacturing Starbase spawned[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Produção de Starbase gerada[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession2c_Name</Label>
-    <String>Crisis: Secession - Failure</String>
+    <String>Crise: Secessão - Fracasso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession2c_Dec</Label>
-    <String>We begin funneling small manufacturing jobs to Aspire, which they do at cost in return for remaining in our borders. Though this does improve our manufacturing productivity substantially, many question the inferior parts that Aspire provides and worry that using them on our military ships may lead to issues down the road.
+    <String>Começamos a canalizar pequenos trabalhos de fabricação para a Aspire, o que eles fazem ao custo em troca de permanecerem em nossas fronteiras. Embora isto melhore substancialmente nossa produtividade de fabricação, muitos questionam as peças inferiores que a Aspire fornece e se preocupam que usá-las em nossos navios militares possa levar a problemas no caminho.
 
-[COLOR=UIDefaultHighlight]Manufacturing Starbase spawned, -10% Ship Hit Points for 100 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Produção de Starbase criada, -10% de Hit Points de Naves por 100 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession2d_Name</Label>
-    <String>Crisis: Secession - Success</String>
+    <String>Crise: Secessão - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession2d_Dec</Label>
-    <String>Aspire briefly attempts to stop our military from claiming the debt they owe us, but they are quickly put down. There is little they can do as our soldiers walk out with with enough cargo to repay their debt. Though they are good on their debt for now, they will not forget what we have done and will be problematic in the future.
+    <String>Aspire brevemente tenta impedir nossos militares de reclamar a dívida que nos devem, mas eles são rapidamente abatidos. Há pouco que eles podem fazer enquanto nossos soldados saem com carga suficiente para pagar sua dívida. Embora eles estejam em dia com suas dívidas por enquanto, eles não esquecerão o que fizemos e serão problemáticos no futuro.
 
-[COLOR=UIDefaultHighlight]Pirate Starbase spawned, +300 Credits[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Starbase pirata criada, +300 Créditos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession2e_Name</Label>
-    <String>Crisis: Secession - Failure</String>
+    <String>Crise: Secessão - Fracasso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession2e_Dec</Label>
-    <String>Aspire attempts to defend itself by firing on one of our ships, destroying it. They have delusions of grandeur, and will need to be put down.
+    <String>A Aspire tenta se defender disparando sobre um de nossos navios, destruindo-o. Eles têm ilusões de grandeza, e precisarão ser abatidos.
 
-[COLOR=UIDefaultHighlight]Pirate Starbase spawned[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Starbase pirata criada[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession3_Name</Label>
-    <String>Crisis: Secession (part 2)</String>
+    <String>Crise: Secessão (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession3_Dec</Label>
-    <String>Your soldiers maintain control for a few weeks. But a sudden uprising catches them off guard by newly armed Aspire troops. Before your soldiers can react, they are jailed. Now Aspire threatens that it won't release them until you agree to Aspire's sovereignty.</String>
+    <String>Seus soldados mantêm o controle por algumas semanas. Mas uma revolta repentina os apanha desprevenidos pelas tropas Aspire recém armadas. Antes que seus soldados possam reagir, eles são presos. Agora Aspire ameaça que não os libertará até que você concorde com a soberania de Aspire.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession3_Choice1Dec</Label>
-    <String>Grant them independence in return for releasing the soldiers.</String>
+    <String>Conceder-lhes independência em troca da libertação dos soldados.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession3_Choice1BonusDec</Label>
-    <String>+5 Benevolent</String>
+    <String>+5 Benevolente</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession3_Choice2Dec</Label>
-    <String>Send an ambassador to reason with Aspire leadership.</String>
+    <String>Enviar um embaixador às autoridades da Aspire para conversar</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession3_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Diplomacy check</String>
+    <String>{STATCHANCE}% Controle de diplomacia</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession3_Choice3Dec</Label>
-    <String>Launch a team to board the starbase and recover the imprisoned soldiers by force.</String>
+    <String>Lançar uma equipe para embarcar na base estelar e recuperar os soldados presos à força.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession3_Choice3BonusDec</Label>
-    <String>{STATCHANCE}% Military check</String>
+    <String>{STATCHANCE}% Controle militar</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession3a_Name</Label>
-    <String>Crisis: Secession - Failure</String>
+    <String>Crise: Secessão - Fracasso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession3a_Dec</Label>
-    <String>Aspire releases the soldiers without incident and celebrate their independence. The news media is flooded with interviews with Aspire leaders looking victorious and talking about how they stood up to our empire, and forced us to back down. Cartoons of you grovelling to babies, pigeons and bowls of pudding become popular. This leads to more of our citizens emigrating from our worlds to join Aspire.
+    <String>Aspire libera os soldados sem incidentes e celebra sua independência. A mídia de notícias é inundada de entrevistas com líderes Aspire parecendo vitoriosos e falando sobre como eles enfrentaram nosso império, e nos forçaram a recuar. Os desenhos animados de vocês rastejando com bebês, pombos e tigelas de pudim se tornam populares. Isto leva a que mais de nossos cidadãos emigrem de nosso mundo para se juntarem à Aspire.
 
-[COLOR=UIDefaultHighlight]Pirate Starbase spawned, -10% Morale for 25 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Starbase pirata criada, -10% de moral por 25 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession3b_Name</Label>
-    <String>Crisis: Secession - Success</String>
+    <String>Crise: Secessão - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession3b_Dec</Label>
-    <String>Our ambassador offers only one option to Aspire leadership, release the held soldiers or no further talks will be held. He argues that until that is done, Aspire has declared war and the only response to that action will be military. It takes a few days before Aspire leadership comes around, but they do release our soliders and real talks begin. In working closely with them, our ambassador works out a deal where they may remain as long as they purchase goods from nearby worlds. Aspire agrees and your ambassador is celebrated for his firm stance and negotiation skills.
+    <String>Nosso embaixador oferece apenas uma opção à liderança da Aspire, liberar os soldados detidos ou não haverá mais conversações. Ele argumenta que, até que isso seja feito, a Aspire declarou guerra e a única resposta a essa ação será militar. Leva alguns dias até que a liderança da Aspire se manifeste, mas eles liberam nossos soldados sólidos e as verdadeiras conversações começam. Ao trabalhar em estreita colaboração com eles, nosso embaixador trabalha em um acordo onde eles podem permanecer enquanto comprarem mercadorias de mundos próximos. A Aspire concorda e seu embaixador é celebrado por sua postura firme e capacidade de negociação.
 
-[COLOR=UIDefaultHighlight]Income Starbase spawned, Unlocked new Crisis Manager (assign on the Government screen)[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Renda gerada pela Starbase, desbloqueado novo Gerente de Crise (designado na tela do Governo)[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession3c_Name</Label>
-    <String>Crisis: Secession - Failure</String>
+    <String>Crise: Secessão - Fracasso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession3c_Dec</Label>
-    <String>Days of talks go nowhere. Aspire leadership threatens to send one of our captured soldiers out of an airlock unless we give into their demands. Our ambassador stands firm and they follow through on their threat. We quickly recall our ambassador, one of our soldiers is dead. This is no longer a diplomatic matter.
+    <String>Os dias de conversações não levam a lugar algum. A liderança Aspire ameaça enviar um de nossos soldados capturados para fora de uma câmara de ar, a menos que cedamos às suas exigências. Nosso embaixador se mantém firme e eles seguem sua ameaça. Rapidamente lembramos nosso embaixador, um de nossos soldados está morto. Isto não é mais um assunto diplomático.
 
-[COLOR=UIDefaultHighlight]Pirate Starbase spawned, -25% Morale for 25 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Starbase pirata criada, -25% de moral por 25 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession3d_Name</Label>
-    <String>Crisis: Secession - Success</String>
+    <String>Crise: Secessão - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession3d_Dec</Label>
-    <String>Our general was embarrassed that our soldiers were caught off guard. He makes up for it now. Ships attach to every docking port and heavily armored soldiers begin flooding into the starbase while a heavy warship floats above their shipyard waiting for movement. There are a few shots fired, but no casualties as your soldiers quickly overwhelm and capture the starbase. As our general walks onto the starbase, Aspire leaders are arrested. The starbase is fully under our control.
+    <String>Nosso general ficou envergonhado por nossos soldados terem sido pegos desprevenidos. Ele agora compensa isso. Os navios se prendem a cada porto de atracação e soldados fortemente blindados começam a inundar a base estelar enquanto um navio de guerra pesado flutua acima de seu estaleiro esperando o movimento. Há alguns tiros disparados, mas não há baixas, já que seus soldados rapidamente sobrecarregam e capturam a base estelar. Enquanto nosso general caminha para a base estelar, os líderes Aspire são presos. A base estelar está totalmente sob nosso controle.
 
-[COLOR=UIDefaultHighlight]Free Starbase, Unlocked new Crisis Manager (assign on the Government screen)[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Starbase grátis, desbloqueado novo Gerente de Crise (designado na tela do Governo)[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession3e_Name</Label>
-    <String>Crisis: Secession - Failure</String>
+    <String>Crise: Secessão - Fracasso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Secession3e_Dec</Label>
-    <String>Our military was embarrassed that their soldiers were caught off guard. They make up for it now. Ships attach to a docking port and heavily armored soldiers begin flooding into the starbase. There are a few shots fired, and a few casulties but your soldiers overwhelm and capture the starbase. But not before Aspire leaders escape in ships and flee.
+    <String>Nossos militares tinham vergonha de que seus soldados fossem pegos desprevenidos. Eles compensam agora. Os navios se prendem a um porto de atracação e soldados fortemente blindados começam a inundar a base estelar. Há alguns tiros disparados e algumas casulas, mas seus soldados se sobrepõem e capturam a base estelar. Mas não antes dos líderes do Aspire escaparem em navios e fugirem.
 
-[COLOR=UIDefaultHighlight]Free Starbase, Pirate ships spawned[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Starbase grátis, Naves piratas criadas[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster_Name</Label>
-    <String>Crisis: Space Monster</String>
+    <String>Crise: Monstro do Espaço</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster_Dec</Label>
-    <String>A terrifying space beast, larger than any vessel you've ever seen, appeared on the fringes of known space, heading in our direction. No one knows what, if anything, it wants.</String>
+    <String>Uma besta espacial aterrorizante, maior do que qualquer nave que você já tenha visto, apareceu nas bordas do espaço conhecido, indo na nossa direção. Ninguém sabe o que quer, se é que quer alguma coisa.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster_Choice1Dec</Label>
-    <String>Attempt to contact the creature. See if we can coexist peacefully.</String>
+    <String>Tentativa de contato com a criatura. Veja se podemos coexistir pacificamente.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster_Choice1BonusDec</Label>
-    <String>+5 Benevolent</String>
+    <String>+5 Benevolente</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster_Choice2Dec</Label>
-    <String>Assemble a fleet to scare (or fight) it off.</String>
+    <String>Montar uma frota para assustá-la (ou combatê-la).</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster_Choice2BonusDec</Label>
-    <String>+5 Pragmatic</String>
+    <String>+5 Pragmatico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster_Choice3Dec</Label>
-    <String>Try to capture the beast.</String>
+    <String>Tente capturar a fera.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster_Choice3BonusDec</Label>
-    <String>+5 Malevolent</String>
+    <String>+5 Malevolo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster1_Name</Label>
-    <String>Crisis: Space Monster (part 2)</String>
+    <String>Crise: Monstro do Espaço (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster1_Dec</Label>
-    <String>The beast doesn't respond to any traditional communications protocols, though they do attract his attention. The monster soon changes course, coming straight towards our worlds.</String>
+    <String>A besta não responde a nenhum protocolo de comunicação tradicional, embora eles atraiam sua atenção. O monstro logo muda de rumo, vindo direto para nosso mundo.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster1_Choice1Dec</Label>
-    <String>Redouble our efforts to communicate with it.</String>
+    <String>Redobrar nossos esforços para nos comunicarmos com ela.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster1_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Diplomacy check</String>
+    <String>{STATCHANCE}% Controle de diplomacia</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster1_Choice2Dec</Label>
-    <String>Make plans to fight it.</String>
+    <String>Fazer planos para combatê-lo.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster1_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Military check</String>
+    <String>{STATCHANCE}% Controle militar</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster1_Choice3Dec</Label>
-    <String>Evacuate the colony.</String>
+    <String>Evacuar a colônia.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster1a_Name</Label>
-    <String>Crisis: Space Monster - Success</String>
+    <String>Crise: Space Monster - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster1a_Dec</Label>
-    <String>At the very last moment, one of your scientists discovers the beast responds to neutrino emissions. You use those to lure it away from your colony and back out to deep space. The scientist becomes renown for saving your worlds from the creature.
+    <String>No último momento, um de seus cientistas descobre que a besta responde às emissões de neutrino. Você as utiliza para afastá-la de sua colônia e voltar para o espaço profundo. O cientista torna-se conhecido por salvar seu mundo da criatura.
 
-[COLOR=UIDefaultHighlight]Unlocked new Crisis Manager (assign on the Government screen)[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Desbloqueado novo Gerente de Crise (designado na tela do Governo)[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster1b_Name</Label>
-    <String>Crisis: Space Monster - Failure</String>
+    <String>Crise: Space Monster - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster1b_Dec</Label>
-    <String>All attempts to communicate with the monster fail. When it reaches {PLANETNAME}, it destroys it easily, before returning back to the depths of space.
+    <String>Todas as tentativas de comunicação com o monstro falham. Quando chega ao {PLANETNAME}, ele o destrói facilmente, antes de voltar às profundezas do espaço.
 
-[COLOR=UIDefaultHighlight]{PLANETNAME} is Devastated[/COLOR]</String>
+[COLOR=UIDefaultHighlight]{PLANETNAME} está devastado[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster1c_Name</Label>
-    <String>Crisis: Space Monster - Success</String>
+    <String>Crise: Space Monster - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster1c_Dec</Label>
-    <String>Miraculously, your last minute defense works, not damaging the beast but startling it enough to send it elsewhere, looking for easier prey. All involved in the fight learn some valuable lessons.
+    <String>Milagrosamente, sua defesa de última hora funciona, não danificando a besta, mas surpreendendo-a o suficiente para enviá-la a outro lugar, procurando presas mais fáceis. Todos os envolvidos na luta aprendem algumas lições valiosas.
 
-[COLOR=UIDefaultHighlight]Global Effect: +3 Ship Range[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +3 Alcance do navio[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster1d_Name</Label>
-    <String>Crisis: Space Monster - Failure</String>
+    <String>Crise: Space Monster - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster1d_Dec</Label>
-    <String>With so little time left to prepare a defense, your fleet has no chance. The creature easily destroys the colonial defenses and now its developed a hunger for our ships.</String>
+    <String>Com tão pouco tempo restante para preparar uma defesa, sua frota não tem chance. A criatura destrói facilmente as defesas coloniais e agora desenvolveu uma fome por nossos navios.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster1e_Name</Label>
-    <String>Crisis: Space Monster - Failure</String>
+    <String>Crise: Space Monster - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster1e_Dec</Label>
-    <String>You successfully evacuate all your citizens from {PLANETNAME}. With an unknown energy weapon, the beast quickly and messily destroys the colony. It returns to deep space, never to be seen again.
+    <String>Você evacua com sucesso todos os seus cidadãos de {PLANETNAME}. Com uma arma de energia desconhecida, a besta destrói a colônia de forma rápida e desordenada. Ela retorna ao espaço profundo, para nunca mais ser vista novamente.
 
-[COLOR=UIDefaultHighlight]{PLANETNAME} is Devastated, Two Free Colony Ships[/COLOR]</String>
+[COLOR=UIDefaultHighlight]{PLANETNAME} é devastado, dois navios Colônia Grátis[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster2_Name</Label>
-    <String>Crisis: Space Monster (part 2)</String>
+    <String>Crise: Monstro do Espaço (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster2_Dec</Label>
-    <String>You assemble a fleet to confront the beast, though it continues onward, undeterred. Eventually, you shoot it with the most powerful weapon in your arsenal. This attracts its attention. It diverts course to approach your fleet.</String>
+    <String>Você monta uma frota para enfrentar a besta, embora ela continue em frente, incansável. Eventualmente, você atira nela com a arma mais poderosa de seu arsenal. Isto atrai sua atenção. Desvia o curso para se aproximar de sua frota.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster2_Choice1Dec</Label>
-    <String>Attempt to communicate with the thing.</String>
+    <String>Tentativa de comunicação com a coisa.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster2_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Diplomacy check</String>
+    <String>{STATCHANCE}% Controle de diplomacia</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster2_Choice2Dec</Label>
-    <String>Shoot it again. Harder.</String>
+    <String>Dispare novamente. Com mais força.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster2_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Military check</String>
+    <String>{STATCHANCE}% Controle militar</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster2_Choice3Dec</Label>
-    <String>Run away.</String>
+    <String>Fugir.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster2a_Name</Label>
-    <String>Crisis: Space Monster - Success</String>
+    <String>Crise: Space Monster - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster2a_Dec</Label>
-    <String>As you frantically try to establish communications, the beast approaches and destroys one of your ships, releasing a neutrino burst. This catches the beast's attention. Thinking quickly, on of your generals carefully lures it away from the rest of the fleet using controlled neutrino bursts. This general's quick thinking makes him reknown across your worlds.
+    <String>Enquanto você tenta freneticamente estabelecer comunicações, a besta se aproxima e destrói um de seus navios, liberando um estouro de neutrino. Isto chama a atenção da besta. Pensando rapidamente, em seus generais, cuidadosamente a atrai para longe do resto da frota, usando explosões controladas de neutrinos. O raciocínio rápido deste general o torna conhecido em seus mundos.
 
-[COLOR=UIDefaultHighlight]Unlocked new Crisis Manager (assign on the Government screen)[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Desbloqueado novo Gerente de Crise (designado na tela do Governo)[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster2b_Name</Label>
-    <String>Crisis: Space Monster - Failure</String>
+    <String>Crise: Space Monster - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster2b_Dec</Label>
-    <String>All attempts to communicate fail. The beast overwhelms your defensive fleet before moving off in search of easier prey.</String>
+    <String>Todas as tentativas de comunicação fracassam. A besta ultrapassa sua frota defensiva antes de se deslocar em busca de presas mais fáceis..</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster2c_Name</Label>
-    <String>Crisis: Space Monster - Success</String>
+    <String>Crise: Space Monster - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster2c_Dec</Label>
-    <String>Although your weapons do little damage, they do seem to discourage the beast. It changes course, heading away from your civilization in search of easier prey.
+    <String>Embora suas armas causem poucos danos, elas parecem desencorajar a besta. Ela muda de rumo, afastando-se de sua civilização em busca de presas mais fáceis.
 
-[COLOR=UIDefaultHighlight]Global Effect: +25% Morale 25 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +25% Moral 25 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster2d_Name</Label>
-    <String>Crisis: Space Monster - Failure</String>
+    <String>Crise: Space Monster - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster2d_Dec</Label>
-    <String>All attempts to ward off the beast fail. It overwhelms the colonial fleet and now it has developed a taste for our ships.</String>
+    <String>Todas as tentativas para afastar a besta falham. Ela domina a frota colonial e agora desenvolveu um gosto por nossos navios.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster2e_Name</Label>
-    <String>Crisis: Space Monster - Success</String>
+    <String>Crise: Space Monster - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster2e_Dec</Label>
-    <String>You order all ships to retreat, scattering them. The beast attempts to pursue one of them but soon gets discouraged, and wanders off, away from your civilization.</String>
+    <String>Você ordena que todos os navios se retirem, espalhando-os. A besta tenta perseguir um deles, mas logo se desencoraja e se afasta, afastando-se de sua civilização.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster3_Name</Label>
-    <String>Crisis: Space Monster (part 2)</String>
+    <String>Crise: Monstro do Espaço (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster3_Dec</Label>
-    <String>A research vessel approaches, and after much experimentation with explosives and electrical shocks, discovers the beast is drawn to neutrino emitters. Although it's hardly captured, you can now place bread crumbs to lead it around.</String>
+    <String>Um navio de pesquisa se aproxima, e após muita experimentação com explosivos e choques elétricos, descobre que a besta é atraída por emissores de neutrino. Embora dificilmente seja capturado, agora é possível colocar migalhas de pão para levá-lo.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster3_Choice1Dec</Label>
-    <String>Build a neutrino harness to control the creature.</String>
+    <String>Construir um cinto de neutrinos para controlar a criatura.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster3_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Science check</String>
+    <String>{STATCHANCE}% Controle científico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster3_Choice2Dec</Label>
-    <String>Enslave the creature through pure strength of arms.</String>
+    <String>Escravizar a criatura através da força bruta</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster3_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Military check</String>
+    <String>{STATCHANCE}% Controle militar</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster3_Choice3Dec</Label>
-    <String>This is too dangerous, lead the creature away.</String>
+    <String>Isto é muito perigoso, levar a criatura para longe.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster3a_Name</Label>
-    <String>Crisis: Space Monster - Success</String>
+    <String>Crise: Space Monster - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster3a_Dec</Label>
-    <String>A neutrino trail draws the creature into your newly developed harness. It successfully attaches to the creature and as your entire civilization waches your scientists issue their first command to the creature. As your entire civilization watches the creature follows the commands, happily travelings and attacking anything your scientists point it toward.
+    <String>Uma trilha de neutrinos atrai a criatura para seu novo cinto desenvolvido. Ela se prende com sucesso à criatura e à medida que toda a sua civilização se esforça para que seus cientistas emitam seu primeiro comando para a criatura. Enquanto sua civilização inteira observa a criatura seguindo os comandos, felizmente viaja e ataca qualquer coisa para a qual seus cientistas a apontem.
 
-[COLOR=UIDefaultHighlight]Free Space Monster[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Monstro do Espaço Gratuito[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster3b_Name</Label>
-    <String>Crisis: Space Monster - Failure</String>
+    <String>Crise: Monstro do Espaço - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster3b_Dec</Label>
-    <String>A neutrino trail draws the creature into your newly developed harness. It successfully attaches to the creature and as your entire civilization waches your sceients issue their first command to the creature. Apparently something in the harness malfunctions. Instead of being lead as expected the creature goes on a rampage, attacking everything in sight.</String>
+    <String>Uma trilha de neutrinos atrai a criatura para seu cinto recentemente desenvolvido. Ela se prende com sucesso à criatura e à medida que toda a sua civilização se esforça para emitir seu primeiro comando para a criatura. Aparentemente, algo no cinto não funciona bem. Em vez de ser liderada como se esperava, a criatura vai em um tumulto, atacando tudo à vista.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster3c_Name</Label>
-    <String>Crisis: Space Monster - Success</String>
+    <String>Crise: Monstro do Espaço - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster3c_Dec</Label>
-    <String>You fleets throw everything they have at the creatures. Space becomes a technicolor nightmare full of explosions, lasers and shrapnel. Though the creature resists the bombardment, it eventually succumbs, floating exhausted and injured in space. When you threaten to launch another volley the creature reacts, prodded along by your fleet.
+    <String>As frotas atiram tudo o que têm sobre as criaturas. O espaço se torna um pesadelo tecnicolor cheio de explosões, lasers e estilhaços. Embora a criatura resista ao bombardeio, eventualmente sucumbe, flutuando exausta e ferida no espaço. Quando você ameaça lançar outra salva, a criatura reage, provocada por sua frota.
 
-[COLOR=UIDefaultHighlight]Free Space Monster[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Monstro do Espaço Gratuito[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster3d_Name</Label>
-    <String>Crisis: Space Monster - Failure</String>
+    <String>Crise: Monstro do Espaço - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster3d_Dec</Label>
-    <String>You fleets throw everything they have at the creatures. Space becomes a technicolor nightmare full of explosions, lasers and shrapnel. When the fireworks clear the creature still remains, and it is angry.</String>
+    <String>As frotas atiram tudo o que têm sobre as criaturas. O espaço se torna um pesadelo tecnicolor cheio de explosões, lasers e estilhaços. Quando os fogos de artifício limpam a criatura ainda permanece, e ela fica furiosa.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster3e_Name</Label>
-    <String>Crisis: Space Monster - Success</String>
+    <String>Crise: Monstro do Espaço - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_SpaceMonster3e_Dec</Label>
-    <String>Using your neutrino bread crumbs, you lure the beast to the edge of known space. It wanders off.</String>
+    <String>Usando suas migalhas de pão neutrino, você atrai a besta para o limite do espaço conhecido. Ele vagueia.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral_Name</Label>
-    <String>Crisis: Rogue General</String>
+    <String>Crise: Geral rebelde</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral_Dec</Label>
-    <String>One of your most respected generals has begun a whisper campaign against your rule. He is infuriated that military spending isn't higher considering the threat of alien civilizations. He's gathering support quickly, and a coup is imminent.</String>
+    <String>Um de seus generais mais respeitados iniciou uma campanha de rumores contra seu governo. Ele está furioso com o fato de que os gastos militares não são maiores considerando a ameaça das civilizações alienígenas. Ele está reunindo apoio rapidamente, e um golpe é iminente.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral_Choice1Dec</Label>
-    <String>Reason with the general. Convince him to support your vision of a galactic empire.</String>
+    <String>Motivo com o general. Convença-o a apoiar sua visão de um império galáctico.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral_Choice1BonusDec</Label>
-    <String>+5 Benevolent</String>
+    <String>+5 Benevolente</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral_Choice2Dec</Label>
-    <String>Leave him be. Your subjects will never betray you.</String>
+    <String>Deixe-o em paz. Seus súditos nunca irão traí-lo.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral_Choice2BonusDec</Label>
-    <String>+5 Pragmatic</String>
+    <String>+5 Pragmatico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral_Choice3Dec</Label>
-    <String>Execute the fool.</String>
+    <String>Executar o tolo.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral_Choice3BonusDec</Label>
-    <String>+5 Malevolent</String>
+    <String>+5 Malevolo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral1_Name</Label>
-    <String>Crisis: Rogue General (part 2)</String>
+    <String>Crise: General rebelde (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral1_Dec</Label>
-    <String>You summon the rogue general to your chambers, and make him answer for the rumors against him. He denies nothing, and despite your best efforts it is clear he's not likely to be persuaded.</String>
+    <String>Você convoca o general malfeitor para seus aposentos e o faz responder pelos rumores contra ele. Ele não nega nada e, apesar de seus melhores esforços, é claro que não é provável que ele seja persuadido.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral1_Choice1Dec</Label>
-    <String>Leave him be. Your subjects will never betray you.</String>
+    <String>Deixe-o em paz. Seus súditos nunca irão traí-lo.</String>
   </StringTable>
  
   <StringTable>
@@ -1749,75 +1749,75 @@ A liderança Aspire é derrubada e a base estelar pede para voltar a entrar em n
  
   <StringTable>
     <Label>Crisis_RogueGeneral1_Choice2Dec</Label>
-    <String>Bribe the General.</String>
+    <String>Subornar o General.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral1_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Diplomacy check, -50 Credits</String>
+    <String>{STATCHANCE}% Controle de diplomacia, -50 Créditos</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral1_Choice3Dec</Label>
-    <String>Execute the fool.</String>
+    <String>Executar o tolo.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral1a_Name</Label>
-    <String>Crisis: Rogue General - Success</String>
+    <String>Crise: General rebelde - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral1a_Dec</Label>
-    <String>Indeed, you are correct. Within days the general disappears, no doubt taken care of by one of your loyal subjects. All who know of the matter are quietly impressesed with how you handled it.
+    <String>De fato, você está correto. Dentro de dias, o general desaparece, sem dúvida, cuidado por um de seus leais súditos. Todos os que sabem do assunto ficam tranquilamente impressionados com a forma como você lidou com ele.
 
-[COLOR=UIDefaultHighlight]+10% Morale for 50 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+10% de moral por 50 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral1b_Name</Label>
-    <String>Crisis: Rogue General - Failure</String>
+    <String>Crise: General rebelde - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral1b_Dec</Label>
-    <String>You are only partially correct. Left to his own devices, the general raises many doubts about your rule. Some time later he is murdered by one of his own, as traitors know loyalty to no-one. But the damage is done.
+    <String>Você está apenas parcialmente correto. Deixado à sua própria sorte, o general levanta muitas dúvidas sobre seu governo. Algum tempo depois ele é assassinado por um de seus próprios, pois os traidores não conhecem a lealdade de ninguém. Mas o dano está feito.
 
-[COLOR=UIDefaultHighlight]-10% Morale for 50 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]-10% de moral por 50 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral1c_Name</Label>
-    <String>Crisis: Rogue General - Success</String>
+    <String>Crise: General rebelde - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral1c_Dec</Label>
-    <String>The general is a vain sort, much given to the niceties of modern life. He is easily paid off, and soon becomes one of your strongest advocates.
+    <String>O general é uma espécie de vaidade, muito dada às delicadezas da vida moderna. Ele é facilmente pago, e logo se torna um de seus mais fortes defensores.
 
-[COLOR=UIDefaultHighlight]Unlocked new Crisis Manager (assign on the Government screen)[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Desbloqueado novo Gerente de Crise (designado na tela do Governo)[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral1d_Name</Label>
-    <String>Crisis: Rogue General - Failure</String>
+    <String>Crise: General rebelde - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral1d_Dec</Label>
-    <String>The general takes your money, but taking this as a sign of weakness, only limits his rabbel rousing somewhat. Every day your base of support gets chipped away further.
+    <String>O general toma seu dinheiro, mas tomando isto como um sinal de fraqueza, apenas limita um pouco seu rabisco. A cada dia sua base de apoio fica mais reduzida.
 
-[COLOR=UIDefaultHighlight]-10% Morale for 50 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]-10% de moral por 50 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral1e_Name</Label>
-    <String>Crisis: Rogue General - Success</String>
+    <String>Crise: General rebelde - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral1e_Dec</Label>
-    <String>You order the traitor killed so that all know you are not to be crossed. The lesson is learned. As an added bonus, unraveling his estate results in a small boost to your treasury.
+    <String>Você ordena a morte do traidor para que todos saibam que você não deve ser ultrapassado. A lição é aprendida. Como um bônus adicional, desvendar seu patrimônio resulta em um pequeno impulso para sua tesouraria.
 
 [COLOR=UIDefaultHighlight]+350 Credits[/COLOR]</String>
   </StringTable>
@@ -1829,12 +1829,12 @@ A liderança Aspire é derrubada e a base estelar pede para voltar a entrar em n
  
   <StringTable>
     <Label>Crisis_RogueGeneral2_Dec</Label>
-    <String>The general begins his coup. As you predicted, the vast majority of your servants remain loyal to your cause. But not all. Some are swayed by the general's word and they take control of some military ships to attempt to sieze power.</String>
+    <String>O general começa seu golpe. Como o senhor previu, a grande maioria de seus servos permanece leal à sua causa. Mas não a todos. Alguns são influenciados pela palavra do general e assumem o controle de alguns navios militares para tentarem cercar o poder.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral2_Choice1Dec</Label>
-    <String>Leave them be. My people will soon see reason.</String>
+    <String>Deixe-os em paz. Meu povo logo verá a razão.</String>
   </StringTable>
  
   <StringTable>
@@ -1844,82 +1844,82 @@ A liderança Aspire é derrubada e a base estelar pede para voltar a entrar em n
  
   <StringTable>
     <Label>Crisis_RogueGeneral2_Choice2Dec</Label>
-    <String>Send troops in to stop the rebellion.</String>
+    <String>Enviar tropas para deter a rebelião.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral2_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Military check</String>
+    <String>{STATCHANCE}% Controle militar</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral2_Choice3Dec</Label>
-    <String>Give in to the General's demands and increase military spending.</String>
+    <String>Ceder às exigências do General e aumentar os gastos militares.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral2_Choice3BonusDec</Label>
-    <String>-10% Income, +5% Military</String>
+    <String>-10% Renda, +5% Militar</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral2a_Name</Label>
-    <String>Crisis: Rogue General - Success</String>
+    <String>Crise: General rebelde - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral2a_Dec</Label>
-    <String>Your subjects are as loyal as you'd hoped, and soon exile the general beyond the borders of your empire entirely. If anything, the experience only strengthens their support for you.
+    <String>Seus súditos são tão leais quanto você esperava, e logo exilam o general além das fronteiras de seu império por completo. Se alguma coisa, a experiência só reforça o apoio deles para você.
 
-[COLOR=UIDefaultHighlight]+10% Morale for 25 turns, +20 Benevolent[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+10% de moral por 25 turnos, +20 Benevolentes[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral2b_Name</Label>
-    <String>Crisis: Rogue General - Failure</String>
+    <String>Crise: General rebelde - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral2b_Dec</Label>
-    <String>Your subjects on {PLANETNAME} fall prey to the traitor's silver tongue. Though the colony remains ours, they will forever be poisoned against us.
+    <String>Seus súditos no {PLANETNAME} caem presas à língua prateada do traidor. Embora a colônia continue sendo nossa, eles serão para sempre envenenados contra nós.
 
-[COLOR=UIDefaultHighlight]Permanent -25% Morale on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Permanente -25% de moral em {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral2c_Name</Label>
-    <String>Crisis: Rogue General - Success</String>
+    <String>Crise: General rebelde - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral2c_Dec</Label>
-    <String>Your troops easily quell the rebel forces on {PLANETNAME}, sustaining insignificant casualties in the process. Throughout the Empire, everyone learns the price of crossing you.
+    <String>Suas tropas reprimem facilmente as forças rebeldes no {PLANETNAME}, sofrendo baixas insignificantes no processo. Em todo o Império, todos aprendem o preço de atravessar você.
 
-[COLOR=UIDefaultHighlight]Global Effect: +25% Morale and Influence for 25 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +25% Moral e Influência por 25 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral2d_Name</Label>
-    <String>Crisis: Rogue General - Failure</String>
+    <String>Crise: General rebelde - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral2d_Dec</Label>
-    <String>Your troops quell the rebel forces, though not without significant civilian casulties. The media is flooded with scenes of destroyed schools, hospitasl struggling to handle patients and the dead. Scenes of the destruction do not go over well around the Empire.
+    <String>Suas tropas reprimem as forças rebeldes, embora não sem castigos civis significativos. A mídia está inundada de cenas de escolas destruídas, hospitais lutando para lidar com os pacientes e os mortos. As cenas da destruição não acontecem bem ao redor do Império.
 
-[COLOR=UIDefaultHighlight]Global Effect: -25% Morale and Influence for 25 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -25% Moral e Influência por 25 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral2e_Name</Label>
-    <String>Crisis: Rogue General - Failure</String>
+    <String>Crise: General rebelde - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral2e_Dec</Label>
-    <String>The general agrees to your proposal and toasts his success with his followers. Although any ongoing crisis has been averted, your citizens whisper that the government must be weak to allow a single rogue general to force policy.
+    <String>O general concorda com sua proposta e brinda seu sucesso com seus seguidores. Embora qualquer crise em andamento tenha sido evitada, seus cidadãos sussurram que o governo deve ser fraco para permitir que um único general desonesto force a política.
 
-[COLOR=UIDefaultHighlight]Global Effect: -5% Morale for 25 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -5% de moral por 25 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -1929,346 +1929,346 @@ A liderança Aspire é derrubada e a base estelar pede para voltar a entrar em n
  
   <StringTable>
     <Label>Crisis_RogueGeneral3_Dec</Label>
-    <String>The rogue general goes through weeks of a hotly contested military trial. He claims to be innocent and some witnesses change their testimony, and others simply disappear. The day before the verdict is announced you are told that the military panel doesn't have the evidence they need to find him guilty, even though most believe he was actively plotting a coup.</String>
+    <String>O general desonesto passa por semanas de um julgamento militar muito disputado. Ele afirma ser inocente e algumas testemunhas mudam seus depoimentos, e outras simplesmente desaparecem. Um dia antes do veredicto ser anunciado, é-lhe dito que o painel militar não tem as provas necessárias para considerá-lo culpado, mesmo que a maioria acredite que ele estava planejando ativamente um golpe.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral3_Choice1Dec</Label>
-    <String>Send someone to speak to the military panel. Perhaps they can be convinced.</String>
+    <String>Envie alguém para falar com o painel militar. Talvez eles possam ser convencidos.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral3_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Diplomacy check</String>
+    <String>{STATCHANCE}% Controle de diplomacia</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral3_Choice2Dec</Label>
-    <String>Allow your scientists to examine the general's communication systems.</String>
+    <String>Permita que seus cientistas examinem os sistemas de comunicação do general.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral3_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Science check</String>
+    <String>{STATCHANCE}% Controle científico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral3_Choice3Dec</Label>
-    <String>In an Imperial government I don't need evidence. Have him found guilty and executed anyway.</String>
+    <String>Em um governo Imperial não preciso de provas. Faça com que ele seja considerado culpado e executado de qualquer forma.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral3a_Name</Label>
-    <String>Crisis: Rogue General - Success</String>
+    <String>Crise: General rebelde - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral3a_Dec</Label>
-    <String>Your consultant meets with each of the members of the Military panel and reviews all the evidence with them. He makes the case that even though there is no single piece of damning evidence, the mountain of odd meetings, lost messages, and suspicious trips adds up to compelling arguement.
+    <String>Seu consultor se reúne com cada um dos membros do Painel Militar e analisa todas as provas com eles. Ele defende que mesmo não havendo uma única prova condenatória, a montanha de reuniões estranhas, mensagens perdidas e viagens suspeitas se somam a discussões convincentes.
 
-When the verdict is announced you find that your consultant has done enough to convince the panel to find him guilty. Although the general scream's that this is unjust you rest easy knowing that you did not upset the scales of justice, even if you might have tipped them slightly in your favor.
+Quando o veredicto é anunciado, você considera que seu consultor já fez o suficiente para convencer o painel a declará-lo culpado. Embora o grito geral seja de que isso é injusto, você fica tranquilo sabendo que não perturbou as escalas da justiça, mesmo que possa ter dado uma pequena gorjeta a seu favor.
 
-[COLOR=UIDefaultHighlight]Global Effect: +5 Influence per Colony for 25 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +5 Influência por colônia por 25 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral3b_Name</Label>
-    <String>Crisis: Rogue General - Failure</String>
+    <String>Crise: General rebelde - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral3b_Dec</Label>
-    <String>Your consultant meets with each of the members of the Military panel and reviews all the evidence with them. He makes the case that even though there is no single piece of damning evidence, the mountain of odd meetings, lost messages, and suspicious trips adds up to compelling argument.
+    <String>Seu consultor se reúne com cada um dos membros do Painel Militar e analisa todas as provas com eles. Ele defende que mesmo não havendo uma única prova condenatória, a montanha de reuniões estranhas, mensagens perdidas e viagens suspeitas se somam a argumentos convincentes.
 
-But in the end it isn't enough. The panel still finds the general innocent and he is released. He retires to {PLANETNAME} which immediately becomes poisoned against you, even though none of it can be traced back to him.
+Mas, no final, não é suficiente. O painel ainda encontra o general inocente e ele é liberado. Ele se retira para o {PLANETNAME} que imediatamente se torna envenenado contra você, mesmo que nada disso possa ser rastreado até ele.
 
-[COLOR=UIDefaultHighlight]Permanent -25% Morale on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Permanente -25% de moral em {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral3c_Name</Label>
-    <String>Crisis: Rogue General - Success</String>
+    <String>Crise: General rebelde - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral3c_Dec</Label>
-    <String>One of your scientists discovers that the general met with a conspirator in a manufacturing plant, in a room where a furnace produced metal bars. The equipment is so precise, the voices in the room were enough to leave minute impressions on the hot metal. By measuring those impressions the scientist was able play back the conversation that happened in the room, and hear the evidence of the general planning his coup.
+    <String>Um de seus cientistas descobre que o general se reuniu com um conspirador em uma fábrica, em uma sala onde um forno produzia barras metálicas. O equipamento é tão preciso, que as vozes na sala foram suficientes para deixar impressões minúsculas sobre o metal quente. Ao medir essas impressões, o cientista pôde reproduzir a conversa que aconteceu na sala e ouvir as evidências do planejamento geral de seu golpe.
 
-Based on that evidence, the general is convicted. Your citizens applaud your fairness and the talent of your scientist in discovering the evidence.
+Com base nessa evidência, o general é condenado. Seus cidadãos aplaudem sua justiça e o talento de seu cientista para descobrir as provas.
 
-[COLOR=UIDefaultHighlight]Unlocked new Crisis Manager (assign on the Government screen)[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Desbloqueado novo Gerente de Crise (designado na tela do Governo)[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral3d_Name</Label>
-    <String>Crisis: Rogue General - Failure</String>
+    <String>Crise: General rebelde - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral3d_Dec</Label>
-    <String>Your scientists spend days pouring over all the data that has been collected and end up accidentally deleting some of the transcripts. The court is annoyed by the delay and their incompetence. In the end they still find the General innocent and he is released. He retires to {PLANETNAME} which immediately becomes poisoned against you, even though none of it can be traced back to him.
+    <String>Seus cientistas passam dias debruçados sobre todos os dados que foram coletados e acabam apagando acidentalmente algumas das transcrições. O tribunal se irrita com a demora e sua incompetência. No final, eles ainda consideram o General inocente e ele é liberado. Ele se aposenta ao {PLANETNAME} que imediatamente se torna envenenado contra você, mesmo que nada disso possa ser rastreado até ele.
 
-[COLOR=UIDefaultHighlight]Permanent -25% Morale on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Permanente -25% de moral em {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral3e_Name</Label>
-    <String>Crisis: Rogue General - Success</String>
+    <String>Crise: General rebelde - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_RogueGeneral3e_Dec</Label>
-    <String>The Military panel's verdict is never announced and the testimony is classified. But the execution of the rogue general is widely covered by media as a warning to others that might plot against you. Most of your citizens don't even notice that the trial didn't conclude, but a few do feel like the court is only a puppet for your machinations.</String>
+    <String>O veredicto do Painel Militar nunca é anunciado e o testemunho é classificado. Mas a execução do general malfeitor é amplamente coberta pela mídia como um aviso para outros que possam conspirar contra você. A maioria de seus cidadãos nem sequer percebe que o julgamento não foi concluído, mas alguns sentem que o tribunal é apenas um fantoche para suas maquinações.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites_Name</Label>
-    <String>Crisis: Brain Parasites</String>
+    <String>Crise: Parasitas cerebrais</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites_Dec</Label>
-    <String>Some of your citizens have fallen prey to a native parasite which has taken over their mental functions. These parasites, using your own people as mouthpieces, would like a word with you.</String>
+    <String>Alguns de seus cidadãos caíram presas de um parasita nativo que assumiu suas funções mentais. Estes parasitas, usando seu próprio povo como bocais, gostariam de ter uma palavra com você.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites_Choice1Dec</Label>
-    <String>Communicate with the parasites.</String>
+    <String>Comunique-se com os parasitas.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites_Choice1BonusDec</Label>
-    <String>+5 Benevolent</String>
+    <String>+5 Benevolente</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites_Choice2Dec</Label>
-    <String>Search for a cure.</String>
+    <String>Buscar uma cura.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites_Choice2BonusDec</Label>
-    <String>+5 Pragmatic</String>
+    <String>+5 Pragmatico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites_Choice3Dec</Label>
-    <String>Try to weaponize this creature.</String>
+    <String>Tente armar esta criatura.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites_Choice3BonusDec</Label>
-    <String>+5 Malevolent</String>
+    <String>+5 Malevolo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites1_Name</Label>
-    <String>Crisis: Brain Parasites (part 2)</String>
+    <String>Crise: Parasitas cerebrais (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites1_Dec</Label>
-    <String>The parasites inform you that your people are intruding on their world, where they have dwelled for many millennia. They wish us no harm, but instead desire to peacefully coexist with us. If we agree to this we'll gain an ally, but might lose control of the colony.</String>
+    <String>Os parasitas o informam que seu povo está se intrometendo em seu mundo, onde habita há muitos milênios. Eles não nos desejam nenhum mal, mas, em vez disso, desejam conviver pacificamente conosco. Se concordarmos com isso, ganharemos um aliado, mas poderemos perder o controle da colônia.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites1_Choice1Dec</Label>
-    <String>Accept the parasites' terms. A new ally is always welcome.</String>
+    <String>Aceitar os termos dos parasitas. Um novo aliado é sempre bem-vindo.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites1_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Diplomacy check</String>
+    <String>{STATCHANCE}% Controle de diplomacia</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites1_Choice2Dec</Label>
-    <String>Search for a cure.</String>
+    <String>Buscar uma cura.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites1_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Science check</String>
+    <String>{STATCHANCE}% Verificação científica</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites1_Choice3Dec</Label>
-    <String>Destroy the entire colony.</String>
+    <String>Destruir toda a colônia.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites1_Choice3BonusDec</Label>
-    <String>+10 Malevolent</String>
+    <String>+10 Malevolo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites1a_Name</Label>
-    <String>Crisis: Brain Parasites - Success</String>
+    <String>Crise: Parasitas do Cérebro - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites1a_Dec</Label>
-    <String>The parasites agree to terms with you, and sign a trade agreement. In short order, they have infested {PLANETNAME} and massively increase the research that planet provides.
+    <String>Os parasitas concordam com os termos com você, e assinam um acordo comercial. Em suma, eles infestaram {PLANETNAME} e aumentam maciçamente as pesquisas que o planeta proporciona.
 
-[COLOR=UIDefaultHighlight]Permanent +50% Research on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Permanente +50% Pesquisa em {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites1b_Name</Label>
-    <String>Crisis: Brain Parasites - Failure</String>
+    <String>Crise: Parasitas cerebrais - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites1b_Dec</Label>
-    <String>Negotiations with the parasites proves problematic, and although they remain civil, they refuse to release their hold on the citizens of {PLANETNAME} and won't participate toward the colonies goals.
+    <String>As negociações com os parasitas se revelam problemáticas e, embora permaneçam civis, recusam-se a liberar seu domínio sobre os cidadãos do {PLANETNAME} e não participarão para os objetivos das colônias.
 
-[COLOR=UIDefaultHighlight]Permanent -25% Morale on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Permanente -25% de moral em {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites1c_Name</Label>
-    <String>Crisis: Brain Parasites - Success</String>
+    <String>Crise: Parasitas do Cérebro - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites1c_Dec</Label>
-    <String>After studying epidemiological data on how the parasites spread, one of your sceintists finds a plant on {PLANETNAME} toxic to the brain parasites, and uses it to synthesize a cure, freeing your colonists from the command of the parasites while still retaining some of their unique knowledge.
+    <String>Após estudar dados epidemiológicos sobre como os parasitas se espalham, um de seus cetinistas encontra uma planta sobre {PLANETNAME} tóxica para os parasitas do cérebro, e a utiliza para sintetizar uma cura, libertando seus colonos do comando dos parasitas, enquanto ainda retém alguns de seus conhecimentos únicos.
 
-Your citizens applaud your scientist's brillance.
+Seus cidadãos aplaudem o brilhantismo de seu cientista.
 
-[COLOR=UIDefaultHighlight]Unlocked new Crisis Manager (assign on the Government screen)[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Desbloqueado novo Gerente de Crise (designado na tela do Governo)[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites1d_Name</Label>
-    <String>Crisis: Brain Parasites - Failure</String>
+    <String>Crise: Parasitas cerebrais - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites1d_Dec</Label>
-    <String>The parasites are like nothing your researchers have seen before, and progress is slow. Eventually a chemical cocktail is discovered which cures the parasites, though it kills many colonists on {PLANETNAME} as well.
+    <String>Os parasitas não são como nada que seus pesquisadores já tenham visto antes, e o progresso é lento. Eventualmente é descoberto um coquetel químico que cura os parasitas, embora também mate muitos colonos em {PLANETNAME}.
 
-[COLOR=UIDefaultHighlight]-50% Population on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]-50% População em {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites1e_Name</Label>
-    <String>Crisis: Brain Parasites - Failure</String>
+    <String>Crise: Parasitas cerebrais - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites1e_Dec</Label>
-    <String>Your ships turn their weapons on the colony, wiping it out as well as all known environs where the parasites were found. An extreme measure, but you have a world you can recolonize safely again.
+    <String>Seus navios viram suas armas contra a colônia, eliminando-a, assim como todos os ambientes conhecidos onde os parasitas foram encontrados. Uma medida extrema, mas você tem um mundo que você pode recolonizar com segurança novamente.
 
-[COLOR=UIDefaultHighlight]-50% Population on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]-50% População em {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites2_Name</Label>
-    <String>Crisis: Brain Parasites (part 2)</String>
+    <String>Crise: Parasitas cerebrais (part 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites2_Dec</Label>
-    <String>The parasites are like nothing you've seen on your own world, and progress is slow. But eventually your researchers come up with a possible cure. The only side effect is it will wipe out the brain parasites, a clearly intelligent, sentient form of life, forever.</String>
+    <String>Os parasitas são como nada que você tenha visto em seu próprio mundo, e o progresso é lento. Mas, eventualmente, seus pesquisadores chegam a uma possível cura. O único efeito colateral é que ele eliminará os parasitas do cérebro, uma forma de vida claramente inteligente e senciente, para sempre.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites2_Choice1Dec</Label>
-    <String>Apply the cure to any citizen that shows symptoms.</String>
+    <String>Aplique a cura a qualquer cidadão que apresente sintomas.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites2_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Science check</String>
+    <String>{STATCHANCE}% Controle científico</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites2_Choice2Dec</Label>
-    <String>Threaten the parasites, they will obey you, or you will use the cure.</String>
+    <String>Ameace os parasitas, eles lhe obedecerão, ou você usará a cura.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites2_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Diplomacy check</String>
+    <String>{STATCHANCE}% Controle de diplomacia</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites2_Choice3Dec</Label>
-    <String>Treat everyone, just to be safe.</String>
+    <String>Trate a todos, apenas para ficar seguro.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites2a_Name</Label>
-    <String>Crisis: Brain Parasites - Success</String>
+    <String>Crise: Parasitas do Cérebro - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites2a_Dec</Label>
-    <String>Your scientists believe they have successfully detected all cases of the brain parasite on {PLANETNAME} and cured your citizens. Though some citizens suffer side effects, they are minimal and your citizens cheer your judgement and effectiveness.
+    <String>Seus cientistas acreditam ter detectado com sucesso todos os casos do parasita cerebral no {PLANETNAME} e curaram seus cidadãos. Embora alguns cidadãos sofram efeitos colaterais, eles são mínimos e seus cidadãos animam seu julgamento e sua eficácia.
 
-[COLOR=UIDefaultHighlight]Permanent +25% Morale on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Permanente +25% de moral em {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites2b_Name</Label>
-    <String>Crisis: Brain Parasites - Failure</String>
+    <String>Crise: Parasitas cerebrais - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites2b_Dec</Label>
-    <String>Your scientists thought they detected all cases of the brain parasite. But they were wrong. Some escape and go into hiding, slowly spreading into new hosts and doing whatever they can to hinder your efforts on {PLANETNAME}.
+    <String>Seus cientistas pensaram ter detectado todos os casos do parasita cerebral. Mas eles estavam errados. Alguns escapam e vão se escondendo, espalhando-se lentamente em novos hospedeiros e fazendo o que podem para impedir seus esforços no {PLANETNAME}.
 
-[COLOR=UIDefaultHighlight]Permanent -30% Production on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Permanente -30% Produção em {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites2c_Name</Label>
-    <String>Crisis: Brain Parasites - Success</String>
+    <String>Crise: Parasitas do Cérebro - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites2c_Dec</Label>
-    <String>You can release the cure into the water supply or the air. A small demonstration of that brings the brain parasites immediately into line. Though few will be willing to travel to {PLANETNAME} now, the brain parasites command their hosts to spend long hours working in our research labs, to our benefit.
+    <String>Você pode liberar a cura para o suprimento de água ou para o ar. Uma pequena demonstração disso coloca os parasitas cerebrais imediatamente em linha. Embora poucos estejam dispostos a viajar para {PLANETNAME} agora, os parasitas cerebrais comandam seus hospedeiros para passar longas horas trabalhando em nossos laboratórios de pesquisa, em nosso benefício.
 
-[COLOR=UIDefaultHighlight]Permanent +25% Research on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Permanente +25% de pesquisa sobre {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites2d_Name</Label>
-    <String>Crisis: Brain Parasites - Failure</String>
+    <String>Crise: Parasitas cerebrais - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites2d_Dec</Label>
-    <String>The brain parasites are accustomed to controlling their hosts, not being controlled. They revolt at your threats and begin destroying the colony. Your scientists release the cure in response and they are put down. But not before some manage to hijack some ships to attack you with.</String>
+    <String>Os parasitas cerebrais estão acostumados a controlar seus hospedeiros, não sendo controlados. Eles se revoltam contra suas ameaças e começam a destruir a colônia. Seus cientistas liberam a cura em resposta e eles são abatidos. Mas não antes que alguns consigam seqüestrar algumas naves para atacá-lo.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites2e_Name</Label>
-    <String>Crisis: Brain Parasites - Failure</String>
+    <String>Crise: Parasitas cerebrais - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites2e_Dec</Label>
-    <String>Everyone on {PLANETNAME} is treated, just to be sure. As your scientists predicted some suffer debilitating side effects that will last for generations. But in the end the threat is extinguished.
+    <String>Todos os que estão no {PLANETNAME} são tratados, só para ter certeza. Como seus cientistas previram, alguns sofrem efeitos colaterais debilitantes que durarão gerações. Mas, no final, a ameaça se extingue.
 
-[COLOR=UIDefaultHighlight]Permanent -25% Growth on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Permanente -25% de crescimento em {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites3_Name</Label>
-    <String>Crisis: Brain Parasites (part 2)</String>
+    <String>Crise: Parasitas cerebrais (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites3_Dec</Label>
-    <String>You successfully capture a few specimens of the parasite. A small canister filled with these things could easily contaminate thousands.</String>
+    <String>Você captura com sucesso alguns espécimes do parasita. Uma pequena lata cheia com estas coisas poderia facilmente contaminar milhares.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites3_Choice1Dec</Label>
-    <String>Inform the galaxy of our new weapon.</String>
+    <String>Informar a galáxia de nossa nova arma.</String>
   </StringTable>
  
   <StringTable>
@@ -2278,77 +2278,77 @@ Your citizens applaud your scientist's brillance.
  
   <StringTable>
     <Label>Crisis_BrainParasites3_Choice2Dec</Label>
-    <String>Secretly deploy it against one of our enemies.</String>
+    <String>Aplica em segredo contra um de nossos inimigos.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites3_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Military check</String>
+    <String>{STATCHANCE}% Controle militar</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites3_Choice3Dec</Label>
-    <String>Let's make a less powerful parasite. Just enough to make the infected happy.</String>
+    <String>Vamos fazer um parasita menos poderoso. Apenas o suficiente para fazer os infectados felizes.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites3a_Name</Label>
-    <String>Crisis: Brain Parasites - Success</String>
+    <String>Crise: Parasitas do Cérebro - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites3a_Dec</Label>
-    <String>Civilizations across the galaxy take great alarm at your new weapon. All will think twice about crossing us now.
+    <String>As civilizações de toda a galáxia tomam grande alarme com sua nova arma. Todos pensarão duas vezes em nos cruzar agora.
 
-[COLOR=UIDefaultHighlight]Global Effect: +2 Diplomacy[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +2 Diplomacia[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites3b_Name</Label>
-    <String>Crisis: Brain Parasites - Failure</String>
+    <String>Crise: Parasitas cerebrais - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites3b_Dec</Label>
-    <String>Civilizations across the galaxy take great alarm at your new weapon. Unfortunately, this doesn't inspire fear so much as resolve to stop your villainy.
+    <String>As civilizações de toda a galáxia tomam grande alarme com sua nova arma. Infelizmente, isto não inspira tanto medo quanto a determinação de parar sua vilania.
 
-[COLOR=UIDefaultHighlight]Global Effect: -2 Diplomacy[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -2 Diplomacia[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites3c_Name</Label>
-    <String>Crisis: Brain Parasites - Success</String>
+    <String>Crise: Parasitas do Cérebro - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites3c_Dec</Label>
-    <String>Your military slowly expose members of other civilizations to your captured brain parasites. They continue to live out their lives, pretending to be loyal citizens of their empires while secretly hosting parasites that make them loyal to you. Diplomats, merchants and soldiers all ready to end their facade and serve you when the time comes. This will certainly make it easier to invade enemy worlds.
+    <String>Seus militares expõem lentamente membros de outras civilizações a seus parasitas cerebrais capturados. Eles continuam a viver suas vidas, fingindo ser cidadãos leais de seus impérios enquanto secretamente hospedam parasitas que os tornam leais a você. Diplomatas, comerciantes e soldados, todos prontos para terminar sua fachada e servi-lo quando chegar a hora. Isto certamente tornará mais fácil invadir mundos inimigos.
 
-[COLOR=UIDefaultHighlight]Global Effect: +25% Soldiering[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +25% soldados[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites3d_Name</Label>
-    <String>Crisis: Brain Parasites - Failure</String>
+    <String>Crise: Parasitas cerebrais - Falha</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites3d_Dec</Label>
-    <String>Your scientists hadn't accounted for the difference in alien physiology. After nearly a month the brain parasite loses control of the host putting them in a homicidal rage. Though they are never able to prove your involvement several civilizations note that the effected all came in contact with your agents a few weeks before going mad.
+    <String>Seus cientistas não haviam contabilizado a diferença na fisiologia alienígena. Após quase um mês, o parasita cerebral perde o controle do hospedeiro, colocando-o em uma fúria homicida. Embora eles nunca sejam capazes de provar seu envolvimento, várias civilizações notam que todos os afetados entraram em contato com seus agentes algumas semanas antes de enlouquecerem.
 
-[COLOR=UIDefaultHighlight]Global Effect: -2 Diplomacy[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -2 Diplomacia[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites3e_Name</Label>
-    <String>Crisis: Brain Parasites - Success</String>
+    <String>Crise: Parasitas do Cérebro - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_BrainParasites3e_Dec</Label>
     <String>Seus cientistas são capazes de fabricar uma tensão mais fraca do parasita que não pode controlar o hospedeiro, mas pode moderar seu humor. Você os emprega em locais turísticos para criar uma sensação de euforia. Isso faz de seus locais de férias os melhores do universo. Há ocasionais efeitos colaterais induzidos pela raiva homicida, mas seus cientistas lhe dizem que eles estão bem dentro dos limites normais.
 
-[COLOR=UIDefaultHighlight]Global Effect: +1% Tourism[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +1% Turismo[/COLOR]</String>
   </StringTable>
  
 </StringTableList>
