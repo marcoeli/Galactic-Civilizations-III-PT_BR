@@ -7,97 +7,97 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Promotion_Minister_Name</Label>
-    <String>Minister</String>
+    <String>Ministro</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Minister_Dec</Label>
-    <String>A department is far more effective when it has political support, and nothing communicates that like installing a Minister there.</String>
+    <String>Um departamento é muito mais eficaz quando tem apoio político, e nada comunica isso como instalar um ministro lá.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Minister_ActionTriggerDec_0</Label>
-    <String>[ICON=Stat_Admin_Icon] Provides 5 more administrative resources. </String>
+    <String>[ICON=Stat_Admin_Icon] Fornece mais 5 recursos administrativos. </String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Minister_ActionTriggerDec_1</Label>
-    <String>[ICON=Cruel_Trait_Icon] Minister retires.</String>
+    <String>[ICON=Cruel_Trait_Icon] O Ministro se aposenta.</String>
   </StringTable>
  
   <StringTable>
     <Label>Promotion_Mobster_Name</Label>
-    <String>Mobster</String>
+    <String>Mafioso</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Mobster_Dec</Label>
-    <String>It's amazing how many people are willing to do things for you when you subtly threaten their life. Or explicitly. The Mobster can go both ways.</String>
+    <String>É impressionante quantas pessoas estão dispostas a fazer coisas por você quando você sutilmente ameaça a vida delas. Ou explicitamente. O Mafioso pode ir para os dois lados.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Mobster_ActionTriggerDec_0</Label>
-    <String>[ICON=Stat_Maintenance_Icon] -100% Colony Maintenance</String>
+    <String>[ICON=Stat_Maintenance_Icon] -100% Manutenção de colônias</String>
   </StringTable>
  
   <StringTable>
     <Label>Promotion_Supreme_General_Name</Label>
-    <String>Supreme General</String>
+    <String>Supremo Geral</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Supreme_General_Dec</Label>
-    <String>One of the keenest military minds in our civilization. Looks good in a uniform, too.  A Supreme General increases Legions.</String>
+    <String>Uma das mentes militares mais aguçadas de nossa civilização. Fica bem de uniforme, também.  Um General Supremo aumenta as Legiões.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Supreme_General_ActionTriggerDec_0</Label>
-    <String>[ICON=Stat_Invading_Legion_Icon] Recruits 5 additional Legions</String>
+    <String>[ICON=Stat_Invading_Legion_Icon] Recruta 5 Legiões adicionais</String>
   </StringTable>
  
   <StringTable>
     <Label>Promotion_Admiral_Name</Label>
-    <String>Admiral</String>
+    <String>Almirante</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Admiral_Dec</Label>
-    <String>After spending a lifetime amongst the stars, the Admiral knows more about space combat than anyone alive. And loneliness. Upgrades to a Flagship which gives a powerful fleet wide bonus.</String>
+    <String>Depois de passar uma vida inteira entre as estrelas, o Almirante sabe mais sobre o combate espacial do que qualquer pessoa viva. E a solidão. Atualizações para uma nave de bandeira que dá um poderoso bônus para a frota.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Admiral_ActionTriggerDec_0</Label>
-    <String>[ICON=ProductionSubWnd_Military_Entry] Upgrades Command ship to Flag ship.</String>
+    <String>[ICON=ProductionSubWnd_Military_Entry] Atualiza o comando do navio para o navio de bandeira.</String>
   </StringTable>
  
   <StringTable>
     <Label>Promotion_Navigator_Name</Label>
-    <String>Navigator</String>
+    <String>Navegador</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Navigator_Dec</Label>
-    <String>No-one sees the folds of space better or can cut the corners of reality quite like a Navigator. Upgrades  to Star Surfer, a powerful long-range survey ship.</String>
+    <String>Ninguém vê melhor as dobras de espaço ou pode cortar os cantos da realidade como um Navegador. Atualizações para Star Surfer, uma poderosa nave de pesquisa de longo alcance.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Navigator_ActionTriggerDec_0</Label>
-    <String>[ICON=ProductionSubWnd_Military_Entry] Upgrades Command ship to Navigator ship.</String>
+    <String>[ICON=ProductionSubWnd_Military_Entry] Atualiza o comando do navio para o navio Navegador.</String>
   </StringTable>
  
   <StringTable>
     <Label>Promotion_Invader_Name</Label>
-    <String>Invader</String>
+    <String>Invasor</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Invader_Dec</Label>
-    <String>The survivor of countless battles, and an expert on all forms of combat, the Invader hasn't met an alien yet that he can't subdue. Upgrades to a powerful Transport for invasions.</String>
+    <String>Sobrevivente de inúmeras batalhas e especialista em todas as formas de combate, o Invasor ainda não encontrou um alienígena que ele não possa dominar. Atualizações para um poderoso Transporte para invasões.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Invader_ActionTriggerDec_0</Label>
-    <String>[ICON=ProductionSubWnd_Military_Entry] Upgrades Command ship to Transport.</String>
+    <String>[ICON=ProductionSubWnd_Military_Entry] Atualiza o comando do navio para  transporte.</String>
   </StringTable>
  
   <StringTable>
     <Label>Promotion_Privateer_Name</Label>
-    <String>Privateer</String>
+    <String>Corsário</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Privateer_Dec</Label>
-    <String>A master of tricks and subterfuge, the Privateer can harry the enemy without letting them know who they really work for. Converts ship into a powerful ship that seemingly belongs to no Civilization. </String>
+    <String>Um mestre de truques e subterfúgios, o Corsário pode perseguir o inimigo sem deixá-los saber para quem eles realmente trabalham. Converte o navio em um poderoso navio que aparentemente não pertence a nenhuma Civilização. </String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Privateer_ActionTriggerDec_0</Label>
-    <String>[ICON=ProductionSubWnd_Military_Entry] Upgrades Command ship to Privateer.</String>
+    <String>[ICON=ProductionSubWnd_Military_Entry] Atualiza o comando do navio para Corsário.</String>
   </StringTable>
  
   <StringTable>
@@ -106,11 +106,11 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Promotion_Exterminator_Dec</Label>
-    <String>A heartless genius, but aren't they all, the Exterminator can use their cruel gift to wipe out all the life on a world. Converts ship into a deadly Spore ship capable of eradicating all Biological life on a planet.</String>
+    <String>Um gênio sem coração, mas não são todos eles, o Exterminador pode usar seu dom cruel para acabar com toda a vida em um mundo. Converte a nave em uma nave Esporo mortal, capaz de erradicar toda a vida biológica em um planeta.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Exterminator_ActionTriggerDec_0</Label>
-    <String>[ICON=ProductionSubWnd_Military_Entry] Upgrades Command ship to Spore ship.</String>
+    <String>[ICON=ProductionSubWnd_Military_Entry] Atualiza o comando do navio para o navio de Esporo.</String>
   </StringTable>
  
   <StringTable>
@@ -119,7 +119,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Promotion_Martyr_Dec</Label>
-    <String>No-one loves our people (or hates the enemy) like the Martyr. They'll give everything to see our people prosper. Upgrades to Martyr which destroys itself and any enemy fleet it comes into contact with.</String>
+    <String>Ninguém ama nosso povo (ou odeia o inimigo) como o Mártir. Eles darão tudo para ver nosso povo prosperar. Melhorias para o Mártir que se destrói a si mesmo e a qualquer frota inimiga com a qual entra em contato.</String>
   </StringTable>
  
   <StringTable>
@@ -128,11 +128,11 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Promotion_Infiltrator_Dec</Label>
-    <String>You could stare right at them and not know what they look like, the Infiltrator's only defining feature being their incredibly sticky fingers.</String>
+    <String>Você poderia olhar diretamente para eles e não saber como eles são, a única característica que define o Infiltrator são seus dedos incrivelmente pegajosos.</String>
   </StringTable>
   <StringTable>
     <Label>Promotion_Infiltrator_ActionTriggerDec_0</Label>
-    <String>[ICON=Stat_Research_Icon] Infliltrator steals a random tech before getting caught.</String>
+    <String>[ICON=Stat_Research_Icon] O Infliltrator rouba uma tecnologia aleatória antes de ser pego.</String>
   </StringTable>
  
   <StringTable>

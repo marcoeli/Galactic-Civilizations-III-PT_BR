@@ -8,25 +8,25 @@ xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
   <FlavorTextDef>
     <InternalName>ResourceGlut_MegaEvent_Message_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>There has been a breakthough in mining technologies. Mining bases can now extract resources from previously useless materials and the result is that there is now roughly twice as much Durantium, Thulium and Promethion out there for us to claim. I suggest we do so before others make the same discovery.</Text>
+      <Text>Tem havido uma quebra nas tecnologias de mineração. As bases de mineração agora podem extrair recursos de materiais antes inúteis e o resultado é que agora há aproximadamente o dobro de Durantium, Thulium e Promethion por aí para que possamos reivindicar. Sugiro que o façamos antes que outros façam a mesma descoberta.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>ResourceGlut_MegaEvent_Message_Response1_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Excellent, these resources can be very useful in protecting our people and strengthen our colonies. [COLOR=BenevolentBlue](Benevolent +15)[/COLOR]</Text>
+      <Text>Excelente, estes recursos podem ser muito úteis para proteger nosso povo e fortalecer nossas colônias. [COLOR=BenevolentBlue](Benevolente +15)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>ResourceGlut_MegaEvent_Message_Response2_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>We must claim as many of these new deposits as possible. If we act quickly, we can corner the market. [COLOR=PragmaticGold](Pragmatic +15)[/COLOR]</Text>
+      <Text>Devemos reclamar o maior número possível desses novos depósitos. Se agirmos rapidamente, poderemos encurralar o mercado. [COLOR=PragmaticGold](Pragmatico +15)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>ResourceGlut_MegaEvent_Message_Response3_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>We must claim these deposits quickly and make sure we have the weapon technologies to put them to good use. [COLOR=WarRed](Malevolent +15)[/COLOR]</Text>
+      <Text>Devemos reivindicar esses depósitos rapidamente e nos certificar de que temos as tecnologias de armamento para utilizá-los bem. [COLOR=WarRed](Malevolo +15)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
  

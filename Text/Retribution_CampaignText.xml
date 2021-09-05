@@ -12,21 +12,21 @@ xsi:noNamespaceSchemaLocation="../../../../data/Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Retribution_Mission1_Name</Label>
-    <String>Apocalypse Soon</String>
+    <String>Apocalipse em breve</String>
   </StringTable>
  
   <StringTable>
     <Label>Retribution_Mission1_Dec</Label>
-    <String>The Thalan Ambassador has revealed prophecies that claim humanity will soon cause the destruction of the galaxy. D.L. Bradley, concerned with this information, has dispatched a small fleet to investigate a lost Precursor prison world and find proof of the upcoming Apocalypse.</String>
+    <String>O embaixador Thalan revelou profecias que afirmam que a humanidade logo causará a destruição da galáxia. D.L. Bradley, preocupado com esta informação, enviou uma pequena frota para investigar um mundo prisional perdido do Precursor e encontrar provas do Apocalipse que se aproxima..</String>
   </StringTable>
  
   <StringTable>
     <Label>Retribution_Mission1_ShortDec</Label>
-    <String>The Thalan Ambassador has revealed prophecies that claim humanity will soon cause the destruction of the galaxy. D.L. Bradley, concerned with this information, has dispatched a small fleet to investigate a lost Precursor prison world and find proof of the upcoming Apocalypse.</String>
+    <String>O embaixador Thalan revelou profecias que afirmam que a humanidade logo causará a destruição da galáxia. D.L. Bradley, preocupado com esta informação, enviou uma pequena frota para investigar um mundo prisional perdido do Precursor e encontrar provas do Apocalipse que se aproxima.</String>
   </StringTable>
   <StringTable>
     <Label>Retribution_Mission1_EXP4_M1_Terran_Name</Label>
-    <String>Terran Alliance</String>
+    <String>Aliança Terrana</String>
   </StringTable>
   <StringTable>
     <Label>Retribution_Mission1_EXP4_M1_Drath_Name</Label>
@@ -59,16 +59,16 @@ xsi:noNamespaceSchemaLocation="../../../../data/Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Retribution_Mission2_Dec</Label>
-    <String>D.L. Bradley has dispatched Colonel Casey to Altaria to locate the Last Shard of the Telenanth. Unfortunately, the Yor have already occupied Altaria, and begun fortifying the sector.</String>
+    <String>D.L. Bradley enviou o Coronel Casey para Altaria para localizar a Última Lasca do Telenanto. Infelizmente, o Yor já ocupou Altaria, e começou a fortalecer o setor.</String>
   </StringTable>
  
   <StringTable>
     <Label>Retribution_Mission2_ShortDec</Label>
-    <String>D.L. Bradley has dispatched Colonel Casey to Altaria to locate the Last Shard of the Telenanth. Unfortunately, the Yor have already occupied Altaria, and begun fortifying the sector.</String>
+    <String>D.L. Bradley enviou o Coronel Casey para Altaria para localizar a Última Lasca do Telenanto. Infelizmente, o Yor já ocupou Altaria, e começou a fortalecer o setor.</String>
   </StringTable>
   <StringTable>
     <Label>Retribution_Mission2_EXP4_M2_Terran_Name</Label>
-    <String>Terran Alliance</String>
+    <String>Aliança Terrana</String>
   </StringTable>
   <StringTable>
     <Label>Retribution_Mission2_EXP4_M2_Yor_Name</Label>
@@ -77,32 +77,32 @@ xsi:noNamespaceSchemaLocation="../../../../data/Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Retribution_Mission2_RetrieveShard_Message</Label>
-    <String>Retrieve the Shard of the Mithrilar</String>
+    <String>Recuperar a Lasca do Mithrilar</String>
   </StringTable>
  
   <StringTable>
     <Label>Retribution_Mission2_UncoverYorShipyard_Message</Label>
-    <String>Penetrate Hyperspace Destabilizers.</String>
+    <String>Penetrar desestabilizadores do hiperespaço.</String>
   </StringTable>
  
   <StringTable>
     <Label>Retribution_Mission2_DestroytheYor_Message</Label>
-    <String>Destroy the Yor (Optional)</String>
+    <String>Destruir o Yor (Opcional)</String>
   </StringTable>
  
   <StringTable>
     <Label>Retribution_Mission3_Name</Label>
-    <String>The Contingency</String>
+    <String>A Contingência</String>
   </StringTable>
  
   <StringTable>
     <Label>Retribution_Mission3_Dec</Label>
-    <String>Colonel Jenna Casey has secured the Last Shard of the Telenanth. Now she must reach the First Fleet and convince D.L. Bradley to use the Shard to neutralize the power of the Bane, before it is too late.</String>
+    <String>A Coronel Jenna Casey assegurou a última lasca do telenanto. Agora ela deve chegar à Primeira Frota e convencer D.L. Bradley a usar a Lasca para neutralizar o poder do Bane, antes que seja tarde demais.</String>
   </StringTable>
  
   <StringTable>
     <Label>Retribution_Mission3_ShortDec</Label>
-    <String>Colonel Jenna Casey has secured the Last Shard of the Telenanth. Now she must reach the First Fleet and convince D.L. Bradley to use the Shard to neutralize the power of the Bane, before it is too late.</String>
+    <String>A Coronel Jenna Casey assegurou a última lasca do telenanto. Agora ela deve chegar à Primeira Frota e convencer D.L. Bradley a usar a Lasca para neutralizar o poder do Bane, antes que seja tarde demais.</String>
   </StringTable>
   <StringTable>
     <Label>Retribution_Mission3_EXP4_M3_Terran_Name</Label>

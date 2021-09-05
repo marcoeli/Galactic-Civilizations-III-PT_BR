@@ -12,21 +12,21 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Mercenaries_Rebirth_Name</Label>
-    <String>Mercenaries</String>
+    <String>Mercenarios</String>
   </StringTable>
  
   <StringTable>
     <Label>Mercenaries_Rebirth_Dec</Label>
-    <String>The Terran's return forces the Drengin to pull warships from their occupied worlds. The Torians take advantage of this to gain their freedom. But they are still in Drengin space and will be enslaved unless they claim this sector, even if that means dealing with the Mercenaries of the Galactic Bazaar.</String>
+    <String>O retorno Terrano força os Drengin a retirar navios de guerra de seus mundos ocupados. Os torianos tiram proveito disso para ganhar sua liberdade. Mas eles ainda estão no espaço Drengin e serão escravizados a menos que reclamem este setor, mesmo que isso signifique lidar com os mercenários do Bazar Galáctico.</String>
   </StringTable>
  
   <StringTable>
     <Label>Mercenaries_Rebirth_ShortDec</Label>
-    <String>The Terran's return forces the Drengin to pull warships from their occupied worlds. The Torians take advantage of this to gain their freedom. But they are still in Drengin space and will be enslaved unless they claim this sector, even if that means dealing with the Mercenaries of the Galactic Bazaar.</String>
+    <String>O retorno Terrano obriga o Drengin a retirar os navios de guerra de seus mundos ocupados. Os torianos tiram proveito disso para ganhar sua liberdade. Mas eles ainda estão no espaço Drengin e serão escravizados a menos que reclamem este setor, mesmo que isso signifique lidar com os mercenários do Bazar Galáctico.</String>
   </StringTable>
   <StringTable>
     <Label>Mercenaries_Rebirth_Mercenaries_DLC_Torians_Name</Label>
-    <String>Torian Regime</String>
+    <String>Regime Torian</String>
   </StringTable>
   <StringTable>
     <Label>Mercenaries_Rebirth_Mercenaries_FACTION_DRENGIN_Name</Label>
@@ -38,7 +38,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Mercenaries_Rebirth_Mercenaries_FACTION_TERRAN_Name</Label>
-    <String>Terran Alliance</String>
+    <String>Aliança Terrana</String>
   </StringTable>
  
   <StringTable>
@@ -48,17 +48,17 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Mercenaries_Rebirth_ColonizeBlue_Ocean_Message</Label>
-    <String>Found colony in Drengin Territory</String>
+    <String>Fundada colônia no território de Drengin</String>
   </StringTable>
  
   <StringTable>
     <Label>Mercenaries_Rebirth_DestroytheDrengin_Message</Label>
-    <String>Destroy the Drengin (Optional)</String>
+    <String>Destruir os Drengin (Opcional)</String>
   </StringTable>
  
   <StringTable>
     <Label>Mercenaries_Rebirth_CaptureDarkSky_Message</Label>
-    <String>Capture Dark Sky</String>
+    <String>Capturar o Céu Escuro</String>
   </StringTable>
  
 </StringTableList>

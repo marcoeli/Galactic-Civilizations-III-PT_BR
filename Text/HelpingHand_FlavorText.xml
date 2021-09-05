@@ -8,28 +8,28 @@ xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
   <FlavorTextDef>
     <InternalName>HelpingHand_MegaEvent_Message_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Commander, an unprecedented thing has happened. We have been approached by delegation of scientists, one from each of the other races in the galaxy. They have become concerned with our rise in military power and would like to make a secret agreement with us. They are willing to give us valuable technological tools in exchange for agreeing to slow down our military build up.</Text>
+      <Text>Comandante, uma coisa sem precedentes aconteceu. Fomos abordados por uma delegação de cientistas, um de cada uma das outras raças da galáxia. Eles ficaram preocupados com nossa ascensão no poder militar e gostariam de fazer um acordo secreto conosco. Eles estão dispostos a nos dar valiosas ferramentas tecnológicas em troca de concordarem em desacelerar nosso crescimento militar.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>HelpingHand_MegaEvent_Message_Response1_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>We certainly have no desire to force our views on others. We will gladly work with them.
-[COLOR=BenevolentBlue](Benevolent +60, +1000 Research points, -50% Manufacturing for 30 turns)[/COLOR]</Text>
+      <Text>Certamente não temos nenhum desejo de forçar nossos pontos de vista sobre os outros. Teremos prazer em trabalhar com eles.
+[COLOR=BenevolentBlue](Benevolente +60, +1000 Pontos de pesquisa, -50% Fabricação para 30 turnos)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>HelpingHand_MegaEvent_Message_Response2_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>This seems like an opportunity that we should exploit. Let us see how bad they want a deal.
-[COLOR=PragmaticGold](Pragmatic +50, +700 Research points, -50% Manufacturing for 20 turns)[/COLOR]</Text>
+      <Text>Esta parece ser uma oportunidade que devemos explorar. Vamos ver o quanto eles querem um acordo.
+[COLOR=PragmaticGold](Pragmatico +50, +700 Pontos de pesquisa, -50% Fabricação para 20 turnos)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>HelpingHand_MegaEvent_Message_Response3_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>I see no need to give up our advantage.  Seize the delegation and see what we can squeeze out of them.
-[COLOR=WarRed](Malevolent +60, +250 Tech Points, -3 Diplomacy)[/COLOR]</Text>
+      <Text>Não vejo necessidade de abrir mão de nossa vantagem.  Aproveite a delegação e veja o que podemos espremer deles.
+[COLOR=WarRed](Malevolo +60, +250 Pontos Tecnológicos, -3 Diplomacia)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
  

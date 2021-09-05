@@ -9,25 +9,25 @@ xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
   <FlavorTextDef>
     <InternalName>LandRush_MegaEvent_Message_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Strange news. An independent research facility on the other side of the galaxy has been experimenting with new terraforming technologies. In some sort of accident, their facility was totally destroyed. The resulting shockwave has spread out across the galaxy converting several previously dead worlds into habitable planets.</Text>
+      <Text>Estranhas notícias. Uma instalação de pesquisa independente do outro lado da galáxia tem experimentado novas tecnologias de terraformação. Em algum tipo de acidente, suas instalações foram totalmente destruídas. A onda de choque resultante espalhou-se pela galáxia, convertendo vários mundos anteriormente mortos em planetas habitáveis.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>LandRush_MegaEvent_Message_Response1_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Such great minds will be missed, but we shall make sure these new worlds remember them. [COLOR=BenevolentBlue](Benevolent +10)[/COLOR]</Text>
+      <Text>Tais grandes mentes farão falta, mas faremos com que estes novos mundos se lembrem deles. [COLOR=BenevolentBlue](Benevolente +10)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>LandRush_MegaEvent_Message_Response2_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>New worlds are always welcome. Let us put them to good use. [COLOR=PragmaticGold](Pragmatic +10)[/COLOR]</Text>
+      <Text>New worlds are always welcome. Let us put them to good use. [COLOR=PragmaticGold](Pragmatico +10)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>LandRush_MegaEvent_Message_Response3_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>It was convenient of these fools to die and leave us these worlds. [COLOR=WarRed](Malevolent +10)[/COLOR]</Text>
+      <Text>Era conveniente que esses tolos morressem e nos deixassem esses mundos. [COLOR=WarRed](Malévolo +10)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
  

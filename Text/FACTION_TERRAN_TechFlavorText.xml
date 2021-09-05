@@ -7791,7 +7791,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>As tripulações da Navais são notoriamente moles, e de resto difíceis de proteger em um navio que opera no extremo vácuo. Mas temos que fazer algo, ou eles vão parar de entrar nas naves.</Text>
+      <Text>As tripulações navais são notoriamente moles, e de resto difíceis de proteger em um navio que opera no extremo vácuo. Mas temos que fazer algo, ou eles vão parar de entrar nas naves.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -9111,7 +9111,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>One of the biggest challenges with armor manufacturing was simply the logistics of moving rare and heavy resources and materials around. Now that we've got our supply chain sorted out, we can expect to see some nice cost savings.</Text>
+      <Text>Um dos maiores desafios na fabricação de armaduras foi simplesmente a logística de movimentação de recursos e materiais raros e pesados. Agora que temos nossa cadeia de fornecimento resolvida, podemos esperar ver uma boa economia de custos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -9541,7 +9541,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Culture</Text>
+      <Text>Cultura</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -9551,7 +9551,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Allows research of technologies that involves communicating with other beings.</Text>
+      <Text>Permite a pesquisa de tecnologias que envolvem a comunicação com outros seres.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -9561,7 +9561,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>We've already seen glimpses of evidence that we're not alone in this galaxy. Which presents an incredible danger, but also, perhaps, an opportunity. But also, let's stress again, danger.</Text>
+      <Text>Já vimos vislumbres de provas de que não estamos sozinhos nesta galáxia. O que apresenta um perigo incrível, mas também, talvez, uma oportunidade. Mas também, vamos enfatizar novamente, o perigo.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -9571,7 +9571,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Universal Translator</Text>
+      <Text>Tradutor Universal</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -9581,7 +9581,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Can begin communicating with aliens. Boosts diplomacy.</Text>
+      <Text>Pode começar a se comunicar com alienígenas. Impulsiona a diplomacia.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -9591,7 +9591,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Intense study of the fragments of alien text and speech has allowed us to create a Universal Translator that will let us communicate with any new races we come across.</Text>
+      <Text>O estudo intenso dos fragmentos de texto e discurso alienígenas nos permitiu criar um Tradutor Universal que nos permitirá comunicar com quaisquer novas raças que encontrarmos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -9601,7 +9601,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Diplomatic Specialization</Text>
+      <Text>Especialização Diplomática</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -9611,7 +9611,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>Improves diplomatic effects.</Text>
+      <Text>Melhora os efeitos diplomáticos.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
@@ -9621,7 +9621,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerFaction>FACTION_TERRAN</ListenerFaction>
       </Requirements>
-      <Text>The words we use have a limited ability to affect the way we think, and by studying the vocabulary used by our neighbors, we may unlock valuable insights into their mindsets. And possibly even find out how to manipulate them.</Text>
+      <Text>As palavras que usamos têm uma capacidade limitada de afetar a maneira como pensamos e, estudando o vocabulário usado por nossos vizinhos, podemos desbloquear insights valiosos em suas mentalidades. E possivelmente até mesmo descobrir como manipulá-las.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 

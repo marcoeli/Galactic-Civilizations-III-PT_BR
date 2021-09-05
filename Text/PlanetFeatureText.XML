@@ -8,42 +8,42 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>NaturalWonder_Name</Label>
-    <String>Natural Wonder</String>
+    <String>Maravilha Natural</String>
   </StringTable>
  
   <StringTable>
     <Label>NaturalWonder_Dec</Label>
-    <String>[COLOR=UIDefaultHot]Attractions built here will draw tourists from the furthest reaches of the galaxy.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]Atrações construídas aqui atrairão turistas dos lugares mais distantes da galáxia.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientRuins_Name</Label>
-    <String>Ancient Ruins</String>
+    <String>Ruínas Antigas</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientRuins_Dec</Label>
-    <String>[COLOR=UIDefaultHot]These Precursor ruins are a great site for researching their exotic technologies.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]Estas ruínas do Precursor são um ótimo local para a pesquisa de suas tecnologias exóticas.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>GeothermalSprings_Name</Label>
-    <String>Geothermal Springs</String>
+    <String>Fontes Geotérmicas</String>
   </StringTable>
  
   <StringTable>
     <Label>GeothermalSprings_Dec</Label>
-    <String>[COLOR=UIDefaultHot]These springs power manufacturing plants, and heated pools.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]Estas plantas de fabricação de fontes de energia, e piscinas aquecidas.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Cataract_Name</Label>
-    <String>Cataract</String>
+    <String>Cataratas</String>
   </StringTable>
  
   <StringTable>
     <Label>Cataract_Dec</Label>
-    <String>[COLOR=UIDefaultHot]Massive falls provide almost free energy, for manufacturing or research.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]As Quedas em massa fornecem energia quase gratuita, para fabricação ou pesquisa.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -53,117 +53,117 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Planetfall_Dec</Label>
-    <String>[COLOR=UIDefaultHot]The reported location of the original scouts to set foot on this world.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]A localização relatada dos batedores originais para pôr os pés neste mundo.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientWonder_Name</Label>
-    <String>Ancient Wonder</String>
+    <String>Maravilha Antiga</String>
   </StringTable>
  
   <StringTable>
     <Label>AncientWonder_Dec</Label>
-    <String>[COLOR=UIDefaultHot]The fame of this ancient wonder can spread your influence and attract tourists.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]A fama desta antiga maravilha pode espalhar sua influência e atrair turistas.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>PreciousMetals_Name</Label>
-    <String>Precious Metals</String>
+    <String>Metais Preciosos</String>
   </StringTable>
  
   <StringTable>
     <Label>PreciousMetals_Dec</Label>
-    <String>[COLOR=UIDefaultHot]Veins of precious metals make this an ideal spot to make some profit.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]Veias de metais preciosos fazem deste um local ideal para obter algum lucro.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>RareStones_Name</Label>
-    <String>Rare Stones</String>
+    <String>Pedras Raras</String>
   </StringTable>
  
   <StringTable>
     <Label>RareStones_Dec</Label>
-    <String>[COLOR=UIDefaultHot]Rare gems found in this location are valuable throughout the galaxy.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]Gemas raras encontradas neste local são valiosas em toda a galáxia.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>MineralRich_Name</Label>
-    <String>Mineral Rich</String>
+    <String>Rico em minerais</String>
   </StringTable>
  
   <StringTable>
     <Label>MineralRich_Dec</Label>
-    <String>[COLOR=UIDefaultHot]The minerals found here are extremely useful for starship construction.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]Os minerais aqui encontrados são extremamente úteis para a construção de naves estelares.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>RareEarth_Name</Label>
-    <String>Rare Earth Metals</String>
+    <String>Metais Terrestres Raros</String>
   </StringTable>
  
   <StringTable>
     <Label>RareEarth_Dec</Label>
-    <String>[COLOR=UIDefaultHot]Rare earth metals allow for much more exotic research methods.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]Os metais de terras raras permitem métodos de pesquisa muito mais exóticos.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Floodplain_Name</Label>
-    <String>Floodplain</String>
+    <String>Planície de inundação</String>
   </StringTable>
  
   <StringTable>
     <Label>Floodplain_Dec</Label>
-    <String>[COLOR=UIDefaultHot]Locally available food supports larger city sizes.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]Os alimentos disponíveis localmente suportam as cidades de maiores dimensões.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>WildGrain_Name</Label>
-    <String>Wild Grain</String>
+    <String>Grão selvagem</String>
   </StringTable>
  
   <StringTable>
     <Label>WildGrain_Dec</Label>
-    <String>[COLOR=UIDefaultHot]Locally available food supports larger city sizes.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]Os alimentos disponíveis localmente suportam as cidades de maiores dimensões.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Wasteland_Name</Label>
-    <String>Wasteland</String>
+    <String>Terra de Resíduos</String>
   </StringTable>
  
   <StringTable>
     <Label>Wasteland_Dec</Label>
-    <String>[COLOR=UIDefaultHot]This desolate area is barely usable and perfect for blowing things up.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]Esta área desolada é pouco utilizável e perfeita para explodir coisas.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Caverns_Name</Label>
-    <String>Caverns</String>
+    <String>Cavernas</String>
   </StringTable>
  
   <StringTable>
     <Label>Caverns_Dec</Label>
-    <String>[COLOR=UIDefaultHot]Deep natural caverns, perfect for fortification against just about any type of attack.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]Cavernas naturais profundas, perfeitas para fortificação contra praticamente qualquer tipo de ataque.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Haven_Name</Label>
-    <String>Haven</String>
+    <String>Idílico</String>
   </StringTable>
  
   <StringTable>
     <Label>Haven_Dec</Label>
-    <String>[COLOR=UIDefaultHot]This idyllic region is so beautiful that living here makes people happy.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]Esta região idílica é tão bela que viver aqui faz as pessoas felizes.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Paradise_Name</Label>
-    <String>Paradise</String>
+    <String>Paraíso</String>
   </StringTable>
  
   <StringTable>
     <Label>Paradise_Dec</Label>
-    <String>[COLOR=UIDefaultHot]This slice of paradise is where everyone wants to live, or at least visit once in their life.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]Esta fatia do paraíso é onde todos querem viver, ou pelo menos visitar uma vez em sua vida.[/COLOR]</String>
   </StringTable>
  
 </StringTableList>

@@ -8,25 +8,25 @@ xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
   <FlavorTextDef>
     <InternalName>Relics_MegaEvent_Message_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>While studying a Precursor Relic, one of our researchers seems to have triggered some sort of Beacon. As a result, several new Precursor Relics have appeared across the galaxy. If we can reach them before others, this could be an opportunity to advance our civilization beyond our imagination.</Text>
+      <Text>Ao estudar uma Relíquia Precursora, um de nossos pesquisadores parece ter desencadeado algum tipo de sinal. Como resultado, várias novas Relíquias Precursoras apareceram por toda a galáxia. Se pudermos alcançá-las antes de outras, esta poderia ser uma oportunidade de fazer avançar nossa civilização além de nossa imaginação.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>Relics_MegaEvent_Message_Response1_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>We must find these Relics and claim them for the good of all life in the galaxy. [COLOR=BenevolentBlue](Benevolent +10)[/COLOR]</Text>
+      <Text>Devemos encontrar essas relíquias e reclamá-las para o bem de toda a vida na galáxia.. [COLOR=BenevolentBlue](Benevolente +10)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>Relics_MegaEvent_Message_Response2_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Send out our scouts to find these new Relics and start building constructors to claim them. [COLOR=PragmaticGold](Pragmatic +10)[/COLOR]</Text>
+      <Text>Envie nossos batedores para encontrar essas novas relíquias e começar a construir construtores para reivindicá-las. [COLOR=PragmaticGold](Pragmatico +10)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>Relics_MegaEvent_Message_Response3_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>We will send out our scouts to find these relics.  Our fleets will stop anyone else from claiming them. [COLOR=WarRed](Malevolent +10)[/COLOR]</Text>
+      <Text> Enviaremos nossos batedores para encontrar estas relíquias.  Nossas frotas impedirão qualquer outra pessoa de reclamá-las. [COLOR=WarRed](Malevolo +10)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
  

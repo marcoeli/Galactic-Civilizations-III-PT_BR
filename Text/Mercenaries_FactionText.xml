@@ -7,12 +7,12 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Mercenaries_FACTION_TERRAN_Name</Label>
-    <String>Terran Alliance</String>
+    <String>aliança Terrana</String>
   </StringTable>
  
   <StringTable>
     <Label>Mercenaries_FACTION_TERRAN_ShortName</Label>
-    <String>Terrans</String>
+    <String>Terranos</String>
   </StringTable>
  
   <StringTable>
@@ -22,7 +22,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Mercenaries_FACTION_TERRAN_Dec</Label>
-    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+    <String>Terranos são os inventores do hiperdrive e a raça mais jovem no palco galáctico. Embora diplomatas comprometidos, os terranianos têm uma linha militarista que tem surpreendido a muitos.</String>
   </StringTable>
  
   <StringTable>
@@ -42,19 +42,19 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Mercenaries_FACTION_TERRAN_StartupTitle</Label>
-    <String>Explorers in a Hostile Universe</String>
+    <String>Exploradores em um universo hostil</String>
   </StringTable>
  
   <StringTable>
     <Label>Mercenaries_FACTION_TERRAN_StartupDescription</Label>
-    <String>Despite being the youngest race in the galaxy, the Terrans are perhaps the most dangerous. Notably, it was their invention of the hyperdrive, and decision to spread it to their neighbors, which led to the current arms race the galaxy finds itself in. 
+    <String>Apesar de serem a raça mais jovem da galáxia, os terráqueos são talvez os mais perigosos. Notavelmente, foi a invenção do hiperdrive e a decisão de espalhá-lo para seus vizinhos, que levou à atual corrida armamentista na qual a galáxia se encontra. 
 
-Although Terrans present themselves as a peaceful and diplomatic people, when they are drawn into warfare, they possess an intuitive flair for violence, and extreme willingness to exercise it. Although Terrans find nothing strange about this dichotomy, many of their galactic peers regard it as alarming, and even duplicitous.</String>
+Embora os terranos se apresentem como um povo pacífico e diplomático, quando são atraídos para a guerra, eles possuem um toque intuitivo para a violência e uma vontade extrema de exercê-la. Embora os terranos não achem nada estranho esta dicotomia, muitos de seus pares galácticos a consideram alarmante, e até mesmo duplicada.</String>
   </StringTable>
  
   <StringTable>
     <Label>Mercenaries_FACTION_TERRAN_StartupTraitsDescription</Label>
-    <String>Terrans are naturally adventurous, with fast, long ranging ships. Their production capacity and diplomatic abilities are well regarded. Their ability to field large fleets is regarded with a bit more wariness.</String>
+    <String>Os terranianos são naturalmente aventureiros, com navios rápidos e de longo alcance. Sua capacidade de produção e suas habilidades diplomáticas são bem consideradas. Sua capacidade de colocar em campo grandes frotas é considerada com um pouco mais de cautela.</String>
   </StringTable>
  
   <StringTable>
@@ -74,7 +74,7 @@ Although Terrans present themselves as a peaceful and diplomatic people, when th
  
   <StringTable>
     <Label>Mercenaries_FACTION_DRENGIN_Dec</Label>
-    <String>The Drengin are a profoundly evil and warlike civilization. Exceedingly clever and vicious, there are few beings capable of meeting a Drengin and not becoming its next meal.</String>
+    <String>Os Drengin são uma civilização profundamente maligna e bélica. Excessivamente inteligentes e viciosos, há poucos seres capazes de encontrar um Drengin e não se tornar sua próxima refeição.</String>
   </StringTable>
  
   <StringTable>
@@ -94,19 +94,19 @@ Although Terrans present themselves as a peaceful and diplomatic people, when th
  
   <StringTable>
     <Label>Mercenaries_FACTION_DRENGIN_StartupTitle</Label>
-    <String>An Entire Galaxy to Conquer</String>
+    <String>Uma Galáxia Inteira a Conquistar</String>
   </StringTable>
  
   <StringTable>
     <Label>Mercenaries_FACTION_DRENGIN_StartupDescription</Label>
-    <String>The Drengin are one of the older races in the galaxy, with an internal history rich with conquest and bloodshed, dominating the lesser species of their planet. 
+    <String>Os Drengin são uma das raças mais antigas da galáxia, com uma história interna rica em conquistas e derramamento de sangue, dominando as espécies menores de seu planeta. 
 
-Cruel, but inventive, many of their victims have discovered that the Drengin are not mindlessly stupid, and can even be quite creative when it comes to the application of evil. There are few ways to devour a slaveling that the Drengin haven't thought up, though most acknowledge that simple beatings are usually the more economically prudent option.</String>
+Cruel, mas inventiva, muitas de suas vítimas descobriram que os Drengin não são estúpidos e podem até ser bastante criativos quando se trata da aplicação do mal. Há poucas maneiras de devorar uma escravidão que o Drengin não tenha pensado, embora a maioria reconheça que as simples surras são geralmente a opção mais prudente do ponto de vista econômico.</String>
   </StringTable>
  
   <StringTable>
     <Label>Mercenaries_FACTION_DRENGIN_StartupTraitsDescription</Label>
-    <String>Drengin soldiers are savagely effective at ground-based combat, and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slaveling revolts.</String>
+    <String>Os soldados da Drengin são selvaticamente eficazes no combate terrestre, e suas embarcações navais são famosamente duras. Sua capacidade de fabricação militar também é impressionante, mas as colônias Drengin às vezes lutam com descontentamento. Grande parte de sua famosa inventividade é colocada no fim das revoltas esclavagistas.</String>
   </StringTable>
  
   <StringTable>
@@ -126,12 +126,12 @@ Cruel, but inventive, many of their victims have discovered that the Drengin are
  
   <StringTable>
     <Label>Mercenaries_DLC_Torians_Dec</Label>
-    <String>Twice made slaves of the Drengin Empire. The Torians now strive to rebuild their once great civilization. Though still untrusting of other races, they are willing to work with even the most undesirable forces to secure their future.</String>
+    <String>Duas vezes escravos feitos do Império Drengin. Os torianos agora se esforçam para reconstruir sua outrora grande civilização. Embora ainda não confiem em outras raças, eles estão dispostos a trabalhar até mesmo com as forças mais indesejáveis para garantir seu futuro.</String>
   </StringTable>
  
   <StringTable>
     <Label>Mercenaries_DLC_Torians_LeaderDec</Label>
-    <String>Now called the Unbreakable by his people because of his refusal to submit to nearly 10 years of Drengin imprisonment and torture.</String>
+    <String>Agora chamado de Inquebrável por seu povo por causa de sua recusa em se submeter a quase 10 anos de prisão e tortura de Drengin.</String>
   </StringTable>
  
   <StringTable>
@@ -146,21 +146,21 @@ Cruel, but inventive, many of their victims have discovered that the Drengin are
  
   <StringTable>
     <Label>Mercenaries_DLC_Torians_StartupTitle</Label>
-    <String>Revolution on Toria</String>
+    <String>Revolução em Toria</String>
   </StringTable>
  
   <StringTable>
     <Label>Mercenaries_DLC_Torians_StartupDescription</Label>
-    <String>The Terran 1st Fleet has returned from the pocket universe, and is tearing it's way toward Earth. For the first time in 10 years, the mighty Drengin Empire has a foe worthy of fear, and has begun recalling their most powerful ships, in an effort to stop the Terrans before it is too late.
+    <String>A 1ª Frota Terrana voltou do universo de bolso, e está rasgando seu caminho em direção à Terra. Pela primeira vez em 10 anos, o poderoso Império Drengin tem um inimigo digno de temor, e começou a lembrar suas mais poderosas naves, num esforço para deter os Terranos antes que seja tarde demais.
 
-The Torian people have seized this opportunity, and once again thrown the newly weakened Drengin occupation forces from their home world, and seized the fleet for their own. Not one of their oppressors remains alive on Toria.
+O povo toriano aproveitou esta oportunidade, e mais uma vez lançou as novas forças de ocupação Drengin enfraquecidas de seu mundo natal, e aproveitou a frota para se apropriar delas. Nenhum de seus opressores permanece vivo em Toria.
 
-Envoys from the Arcean Empire and the Terran Alliance have arrived in the Torian space. Will they be the allies Toria need to stay free forever?</String>
+Enviados do Império Arceano e da Aliança Terrana chegaram ao espaço toriano. Serão eles os aliados de que Toria precisa para ficar livre para sempre?</String>
   </StringTable>
  
   <StringTable>
     <Label>Mercenaries_DLC_Torians_StartupTraitsDescription</Label>
-    <String>The newly reborn Torian Regime has few assets, other than a small fleet of captured Drengin ships, and a willingness to work with just about anyone.</String>
+    <String>O recém renascido Regime Toriano tem poucos ativos, além de uma pequena frota de navios Drengin capturados, e uma vontade de trabalhar com praticamente qualquer um.</String>
   </StringTable>
  
   <StringTable>
@@ -180,12 +180,12 @@ Envoys from the Arcean Empire and the Terran Alliance have arrived in the Torian
  
   <StringTable>
     <Label>Mercenaries_DLC_Arceans_Dec</Label>
-    <String>The Acrean Empire is a noble race with a rich history of neutrality. Liberated by the Terran Alliance, they now strive to rebuild their Empire. Vowing to never be subjugated again, they now honor their warriors above all others.</String>
+    <String>O Império Arceano é uma raça nobre com uma rica história de neutralidade. Libertados pela Aliança Terrestre, eles agora se esforçam para reconstruir seu império. Jurando nunca mais serem subjugados, eles agora honram seus guerreiros acima de todos os outros.</String>
   </StringTable>
  
   <StringTable>
     <Label>Mercenaries_DLC_Arceans_LeaderDec</Label>
-    <String>Lord Verga spent the last 10 years leading an underground resistance force and is now considered one of the greatest warriors in Arcean history.</String>
+    <String>Lord Verga passou os últimos 10 anos liderando uma força de resistência subterrânea e agora é considerado um dos maiores guerreiros da história de Arcean.</String>
   </StringTable>
  
   <StringTable>
@@ -200,21 +200,21 @@ Envoys from the Arcean Empire and the Terran Alliance have arrived in the Torian
  
   <StringTable>
     <Label>Mercenaries_DLC_Arceans_StartupTitle</Label>
-    <String>Never broken, ever vigilant.</String>
+    <String>Nunca quebrado, sempre vigilante.</String>
   </StringTable>
  
   <StringTable>
     <Label>Mercenaries_DLC_Arceans_StartupDescription</Label>
-    <String>The Arcean race was pushed to the brink of destruction by the Drengin.   Yet, with the help of the Terran Alliance, they have regained their home world and the chance to rebuild their once mighty Empire.
+    <String>A raça Arcean foi empurrada à beira da destruição pelo Drengin.   No entanto, com a ajuda da Aliança terrana, eles recuperaram seu mundo natal e a chance de reconstruir seu outrora poderoso império.
 
- In the years of the Drengin occupation, the Arcean Resistance never stopped fighting. Their leader, Lord Verga, became a legend whose name struck fear into even the most brutal Drengin soldiers.</String>
+ Nos anos da ocupação Drengin, a Resistência Arcean nunca parou de lutar. Seu líder, Lorde Verga, se tornou uma lenda cujo nome atingiu até mesmo os soldados Drengin mais brutais.</String>
   </StringTable>
  
   <StringTable>
     <Label>Mercenaries_DLC_Arceans_StartupTraitsDescription</Label>
-    <String>The Arcean Empire was not left with many assets, just their home world and a few precious resources they liberated from the Drengin. They have come back from the brink, tougher, and more resilient than ever. 
+    <String>O Império Arceano não ficou com muitos bens, apenas com seu mundo natal e alguns recursos preciosos que liberaram do Drengin. Eles voltaram do limiar, mais resistentes e mais resistentes do que nunca.. 
 
-The Arcean people have a long history of nobility and neutrality, but the occupation has left them much less willing to forgive offenses or tolerate threats to their freedom.</String>
+O povo arceano tem uma longa história de nobreza e neutralidade, mas a ocupação o deixou muito menos disposto a perdoar ofensas ou a tolerar ameaças à sua liberdade.</String>
   </StringTable>
  
 </StringTableList>

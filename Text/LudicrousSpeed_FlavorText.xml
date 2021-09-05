@@ -8,28 +8,28 @@ xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
   <FlavorTextDef>
     <InternalName>LudicrousSpeed_MegaEvent_Message_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>A scientist back on our homeworld has discovered a way to greatly increase the efficacy of Hyperdrive systems of all kinds. Unfortunately, he seems bent on sharing this knowledge with all his peers, regardless of their race of origin.</Text>
+      <Text>Um cientista de volta ao nosso mundo natal descobriu uma maneira de aumentar muito a eficácia dos sistemas Hyperdrive de todos os tipos. Infelizmente, ele parece inclinado a compartilhar este conhecimento com todos os seus pares, independentemente de sua raça de origem.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>LudicrousSpeed_MegaEvent_Message_Response1_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Let him share his work. If all races advance together we need not fear any one of them gaining an advantage.
-[COLOR=BenevolentBlue](Benevolent +50, +100% Base Moves to everyone's ships)[/COLOR]</Text>
+      <Text>Deixe-o compartilhar seu trabalho. Se todas as raças avançarem juntas, não precisamos temer que nenhuma delas ganhe uma vantagem.
+[COLOR=BenevolentBlue](Benevolente +50, +100% Movimentos Base para todos os navios)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>LudicrousSpeed_MegaEvent_Message_Response2_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>I'm sure with a little financial incentive we can make sure this knowledge stays with us alone.
-[COLOR=PragmaticGold](Pragmatic +25, -2500 Credits, +100% Base Moves to our ships)[/COLOR]</Text>
+      <Text>Tenho certeza de que com um pequeno incentivo financeiro podemos garantir que este conhecimento permaneça conosco sozinhos.
+[COLOR=PragmaticGold](Pragmatico +25, -2500 Credits, +100% Movimentos Base para todos os navios)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   <FlavorTextDef>
     <InternalName>LudicrousSpeed_MegaEvent_Message_Response3_FlavorText</InternalName>
     <FlavorTextOption>
-      <Text>Make sure the fool has an accident. I'm sure our researchers can make something of his notes.
-[COLOR=WarRed](Malevolent +25, +50% Base Moves to our ships)[/COLOR]</Text>
+      <Text>Certifique-se de que o tolo tenha um acidente. Tenho certeza de que nossos pesquisadores podem fazer algo com suas anotações.
+[COLOR=WarRed](Malevolo +25, +50% Movimentos Base para nossos navios)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
  

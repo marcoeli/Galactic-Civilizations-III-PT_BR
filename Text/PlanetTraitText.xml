@@ -8,212 +8,212 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>DesertWorld_Name</Label>
-    <String>[ICON=DesertWorldIcon] Desert Planet</String>
+    <String>[ICON=DesertWorldIcon] Planeta Deserto</String>
   </StringTable>
  
   <StringTable>
     <Label>DesertWorld_Dec</Label>
-    <String>Excellent for manufacturing, but difficult to farm.</String>
+    <String>Excelente para a fabricação, mas difícil de cultivar.</String>
   </StringTable>
  
   <StringTable>
     <Label>ActiveCore_Name</Label>
-    <String>[ICON=Active_Core_Icon] Active Core</String>
+    <String>[ICON=Active_Core_Icon] Núcleo ativo</String>
   </StringTable>
  
   <StringTable>
     <Label>ActiveCore_Dec</Label>
-    <String>Abundant Geothermal energy, but dangerous to the population.</String>
+    <String>Abundante energia geotérmica, mas perigosa para a população.</String>
   </StringTable>
  
   <StringTable>
     <Label>GhostWorld_Name</Label>
-    <String>[ICON=GhostWorldIcon] Ghost World</String>
+    <String>[ICON=GhostWorldIcon] Mundo Fantasma</String>
   </StringTable>
  
   <StringTable>
     <Label>GhostWorld_Dec</Label>
-    <String>Abandoned world, full of strange new artifacts to study.</String>
+    <String>Mundo abandonado, cheio de novos artefatos estranhos para estudar.</String>
   </StringTable>
  
   <StringTable>
     <Label>SereneWorld_Name</Label>
-    <String>[ICON=SereneWorldIcon] Serene</String>
+    <String>[ICON=SereneWorldIcon] Sereno</String>
   </StringTable>
  
   <StringTable>
     <Label>SereneWorld_Dec</Label>
-    <String>The type of planet we all want to retire to.</String>
+    <String>O tipo de planeta para o qual todos nós queremos nos aposentar.</String>
   </StringTable>
  
   <StringTable>
     <Label>BountifulWorld_Name</Label>
-    <String>[ICON=BountifulWorldIcon] Bountiful</String>
+    <String>[ICON=BountifulWorldIcon] Generoso</String>
   </StringTable>
  
   <StringTable>
     <Label>BountifulWorld_Dec</Label>
-    <String>A world full of valuable and rare resources.</String>
+    <String>Um mundo cheio de recursos valiosos e raros.</String>
   </StringTable>
  
   <StringTable>
     <Label>BreadBasketWorld_Name</Label>
-    <String>[ICON=BreadBasketWorldIcon] Bread Basket</String>
+    <String>[ICON=BreadBasketWorldIcon] Celeiro</String>
   </StringTable>
  
   <StringTable>
     <Label>BreadBasketWorld_Dec</Label>
-    <String>The perfect world to grow food and population.</String>
+    <String>O mundo perfeito para cultivar alimentos e população.</String>
   </StringTable>
  
   <StringTable>
     <Label>TidallyLockedWorld_Name</Label>
-    <String>[ICON=TidallyLockedWorldIcon] Tidally Locked</String>
+    <String>[ICON=TidallyLockedWorldIcon] Trancado na maré</String>
   </StringTable>
  
   <StringTable>
     <Label>TidallyLockedWorld_Dec</Label>
-    <String>A world with one large moon which is helpful to traders and manufacturing.</String>
+    <String>Um mundo com uma grande lua que é útil para os comerciantes e fabricantes.</String>
   </StringTable>
  
   <StringTable>
     <Label>ShieldedWorld_Name</Label>
-    <String>[ICON=ShieldedWorldIcon] Shielded</String>
+    <String>[ICON=ShieldedWorldIcon] Blindado</String>
   </StringTable>
  
   <StringTable>
     <Label>ShieldedWorld_Dec</Label>
-    <String>Heavily shielded by a dense Magnetic field, very helpful to research and defense.</String>
+    <String>Pesadamente protegido por um denso campo magnético, muito útil para a pesquisa e defesa.</String>
   </StringTable>
  
   <StringTable>
     <Label>ThinAtmosphereWorld_Name</Label>
-    <String>[ICON=ThinAtmosphereWorldIcon] Thin Atmosphere</String>
+    <String>[ICON=ThinAtmosphereWorldIcon] Atmosfera fina</String>
   </StringTable>
  
   <StringTable>
     <Label>ThinAtmosphereWorld_Dec</Label>
-    <String>Great for growing food, but not so great at growing people.</String>
+    <String>Ótimo para cultivar alimentos, mas não tão bom para crescimento de pessoas.</String>
   </StringTable>
  
   <StringTable>
     <Label>ShroudedWorld_Name</Label>
-    <String>[ICON=ShroudedWorldIcon] Shrouded</String>
+    <String>[ICON=ShroudedWorldIcon] Encoberto</String>
   </StringTable>
  
   <StringTable>
     <Label>ShroudedWorld_Dec</Label>
-    <String>A world surround by a dust cloud, helpful in defense but very isolating to the population.</String>
+    <String>Um mundo cercado por uma nuvem de poeira, útil na defesa, mas muito isolante para a população.</String>
   </StringTable>
  
   <StringTable>
     <Label>LowGravityWorld_Name</Label>
-    <String>[ICON=LowGravityWorldIcon] Low Gravity</String>
+    <String>[ICON=LowGravityWorldIcon] Baixa Gravidade</String>
   </StringTable>
  
   <StringTable>
     <Label>LowGravityWorld_Dec</Label>
-    <String>Low Gravity, helpful to manufacturing, and tourists love it.</String>
+    <String>Baixa Gravidade, útil para a fabricação, e os turistas adoram.</String>
   </StringTable>
  
   <StringTable>
     <Label>ScenicWorld_Name</Label>
-    <String>[ICON=ScenicWorldIcon] Scenic World</String>
+    <String>[ICON=ScenicWorldIcon] Mundo Cênico</String>
   </StringTable>
  
   <StringTable>
     <Label>ScenicWorld_Dec</Label>
-    <String>All other planets are ugly by comparison.</String>
+    <String>Todos os outros planetas são feios em comparação.</String>
   </StringTable>
  
   <StringTable>
     <Label>AquaticWorld_Name</Label>
-    <String>[ICON=AquaticWorldIcon] Aquatic World</String>
+    <String>[ICON=AquaticWorldIcon] Mundo aquático</String>
   </StringTable>
  
   <StringTable>
     <Label>AquaticWorld_Dec</Label>
-    <String>A massive ocean doesn't leave enough land for standard colonization.</String>
+    <String>Um oceano colossal não deixa terra suficiente para a colonização padrão.</String>
   </StringTable>
  
   <StringTable>
     <Label>CorrosiveWorld_Name</Label>
-    <String>[ICON=ToxicWorldIcon] Corrosive World</String>
+    <String>[ICON=ToxicWorldIcon] Mundo Corrosivo</String>
   </StringTable>
  
   <StringTable>
     <Label>CorrosiveWorld_Dec</Label>
-    <String>Acidic lakes and storms makes this world unsuitable for colonization by non-carbon lifeforms.</String>
+    <String>Lagos ácidos e tempestades tornam este mundo impróprio para a colonização por formas de vida sem carbono.</String>
   </StringTable>
  
   <StringTable>
     <Label>BacterialWorld_Name</Label>
-    <String>[ICON=FrozenWorldIcon] Bacterial World</String>
+    <String>[ICON=FrozenWorldIcon] Mundo Bacteriano</String>
   </StringTable>
  
   <StringTable>
     <Label>BacterialWorld_Dec</Label>
-    <String>A wide range of agressive and lethal bacteria make this world unsuitable for standard colonization.</String>
+    <String>Uma ampla gama de bactérias agressivas e letais torna este mundo impróprio para a colonização padrão.</String>
   </StringTable>
  
   <StringTable>
     <Label>FrozenWorld_Name</Label>
-    <String>[ICON=FrozenWorldIcon] Frozen World</String>
+    <String>[ICON=FrozenWorldIcon] Mundo Congelado</String>
   </StringTable>
  
   <StringTable>
     <Label>FrozenWorld_Dec</Label>
-    <String>Temperatures are too low for standard colonization .</String>
+    <String>As temperaturas são muito baixas para a colonização padrão.</String>
   </StringTable>
  
   <StringTable>
     <Label>BarrenWorld_Name</Label>
-    <String>[ICON=BarrenWorldIcon] Barren World</String>
+    <String>[ICON=BarrenWorldIcon] Mundo Árido</String>
   </StringTable>
  
   <StringTable>
     <Label>BarrenWorld_Dec</Label>
-    <String>Lack of any biomass makes standard colonization impossible.</String>
+    <String>A falta de qualquer biomassa torna impossível a colonização padrão.</String>
   </StringTable>
  
   <StringTable>
     <Label>ToxicWorld_Name</Label>
-    <String>[ICON=ToxicWorldIcon] Toxic World</String>
+    <String>[ICON=ToxicWorldIcon] Mundo Tóxico</String>
   </StringTable>
  
   <StringTable>
     <Label>ToxicWorld_Dec</Label>
-    <String>Atmosphere is too toxic to support standard colonization.</String>
+    <String>A atmosfera é muito tóxica para suportar a colonização padrão.</String>
   </StringTable>
  
   <StringTable>
     <Label>RadioactiveWorld_Name</Label>
-    <String>[ICON=RadioactiveWorldIcon] Radioactive World</String>
+    <String>[ICON=RadioactiveWorldIcon] Mundo Radioativo</String>
   </StringTable>
  
   <StringTable>
     <Label>RadioactiveWorld_Dec</Label>
-    <String>Radiation Levels are too high for standard colonization.</String>
+    <String>Os níveis de radiação são muito altos para a colonização padrão.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorShielded_Name</Label>
-    <String>Shielded</String>
+    <String>Blindado</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorShielded_Dec</Label>
-    <String>Locked behind an Impenetrable Precursor Shield.</String>
+    <String>Trancado atrás de um Escudo Precursor Impenetrável.</String>
   </StringTable>
  
   <StringTable>
     <Label>CampaignPrecursorPrisonTrait_Name</Label>
-    <String>[ICON=PrecursorPrisonIcon] Precursor Prison</String>
+    <String>[ICON=PrecursorPrisonIcon] Prisão de Precursores</String>
   </StringTable>
  
   <StringTable>
     <Label>CampaignPrecursorPrisonTrait_Dec</Label>
-    <String>Precursor Prison</String>
+    <String>Prisão dos Precursores</String>
   </StringTable>
  
 </StringTableList>

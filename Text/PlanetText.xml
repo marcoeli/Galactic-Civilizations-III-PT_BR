@@ -8,17 +8,17 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   
 	<StringTable>
 		<Label>MERCURY_NAME</Label>
-		<String>Mercury</String>
+		<String>Mercurio</String>
 	</StringTable>
 	
 	<StringTable>
 		<Label>EarthName</Label>
-		<String>Earth</String>
+		<String>Terra</String>
 	</StringTable>
 
 	<StringTable>
 		<Label>MarsName</Label>
-		<String>Mars</String>
+		<String>Marte</String>
 	</StringTable>
 
 	<StringTable>
@@ -28,7 +28,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
 
 	<StringTable>
 		<Label>SaturnName</Label>
-		<String>Saturn</String>
+		<String>Saturno</String>
 	</StringTable>
 
   <StringTable>
