@@ -132,151 +132,151 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Crisis_Primates_Choice_2_Dec</Label>
-    <String>Educating the newly discovered primates has proven to be more complicated than we first hoped. We've had some success, but there have now been multiple incidents where lives on both sides were lost. Worse still, many of the colonists we tasked with educating the locals have decided to begin living like the primates themselves, in an attempt to go "back to nature." Lovely for them but this is hardly helping the colony at large.</String>
+    <String>A educação dos primatas recém-descobertos provou ser mais complicada do que esperávamos inicialmente. Tivemos algum sucesso, mas agora houve múltiplos incidentes em que vidas de ambos os lados se perderam. Pior ainda, muitos dos colonos que encarregamos de educar os locais decidiram começar a viver como os próprios primatas, em uma tentativa de "voltar à natureza". Adorável para eles, mas isto dificilmente está ajudando a colônia em geral.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_2_Choice1Dec</Label>
-    <String>Education can't come at the cost of lives. Establish guidelines to protect the colonists and the primates.</String>
+    <String>A educação não pode vir à custa de vidas. Estabelecer diretrizes para proteger os colonos e os primatas.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_2_Choice2Dec</Label>
-    <String>Redouble our efforts. The sooner we integrate the primates into our culture, the sooner we'll live in peace.  </String>
+    <String>Redobrar nossos esforços. Quanto mais cedo integrarmos os primatas em nossa cultura, mais cedo viveremos em paz.  </String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_2_Choice2BonusDec</Label>
-    <String>{STATCHANCE}% Pragmatic check</String>
+    <String>{STATCHANCE}% Controle pragmático</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_2_Choice3Dec</Label>
-    <String>We can't risk the future of our colony. Forbid all non government interaction with the primates.</String>
+    <String>Não podemos arriscar o futuro de nossa colônia. Proibir toda interação não governamental com os primatas.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_2a_Name</Label>
-    <String>Crisis: The Primates - Success</String>
+    <String>Crise: Os Primatas - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_2a_Dec</Label>
-    <String>Our new guidelines on interaction with the primitive natives of {PLANETNAME} have greatly reduced the tension. Already we have found some primates able to show us many unknown resources on the planet we did not know of. 
+    <String>Nossas novas diretrizes sobre interação com os nativos primitivos do {PLANETNAME} reduziram muito a tensão. Já encontramos alguns primatas capazes de nos mostrar muitos recursos desconhecidos no planeta que desconhecíamos. 
 
-[COLOR=UIDefaultHighlight]+10 Pragmatic, +5 Hyper Silicates, +5 Harmony Crystals[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+10 Pragmáticos, +5 Hiper Silicatos, +5 Cristais de Harmonia[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_2c_Name</Label>
-    <String>Crisis: The Primates - Success</String>
+    <String>Crise: Os Primatas - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_2c_Dec</Label>
-    <String>After a rocky start, the native education program on {PLANETNAME} has started to pay off. The natives have started to integrate into the greater population and proven to be very helpful in teaching us about our new colony. In addition, the introduction of their unique culture and art to has led to a cultural boom across our entire civilization.
+    <String>Depois de um começo difícil, o programa de educação nativa em {PLANETNAME} começou a dar frutos. Os nativos começaram a se integrar na população maior e provaram ser muito úteis para nos ensinar sobre nossa nova colônia. Além disso, a introdução de sua cultura e arte únicas levou a um boom cultural em toda a nossa civilização.
 
-[COLOR=UIDefaultHighlight]+20 Pragmatic, +25% Colony Influence on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+20 Pragmatico, +25% Influência das colônias sobre {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_2d_Name</Label>
-    <String>Crisis: The Primates - Failure</String>
+    <String>Crise: Os Primatas - O fracasso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_2d_Dec</Label>
-    <String>Educating the natives on {PLANETNAME} has proven to be nearly impossible. They greatly resent our interference and have begun to rebel against our very presence on the planet. Ironically the one element of our culture they have quickly adapted to is the use of weapons.
+    <String>Educar os nativos no {PLANETNAME} provou ser quase impossível. Eles se ressentem muito de nossa interferência e começaram a se rebelar contra nossa própria presença no planeta. Ironicamente, o único elemento de nossa cultura ao qual eles rapidamente se adaptaram é o uso de armas.
 
-[COLOR=UIDefaultHighlight]-25% Morale and -10% Production on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]-25% de moral e -10% de produção em {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_2e_Name</Label>
-    <String>Crisis: The Primates - Success</String>
+    <String>Crise: Os Primatas - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_2e_Dec</Label>
-    <String>Freed from civilian meddling, our program to educate the primates on {PLANETNAME} has finally begun to pay dividends. Careful exposure to our culture and technology has allowed the natives to begin taking on many useful tasks like farming and entertainment. Our researchers believe they will be 100% integrated into our civilization within a generation or two.
+    <String>Livre de intromissões civis, nosso programa para educar os primatas no {PLANETNAME} finalmente começou a pagar dividendos. A cuidadosa exposição à nossa cultura e tecnologia permitiu que os nativos começassem a assumir muitas tarefas úteis como agricultura e entretenimento. Nossos pesquisadores acreditam que eles estarão 100% integrados à nossa civilização dentro de uma ou duas gerações.
 
-[COLOR=UIDefaultHighlight]+50% Food income and -10% Morale on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+50% de renda alimentar e -10% de moral sobre {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_3_Name</Label>
-    <String>Crisis: The Primates (part 2)</String>
+    <String>Crisis: Os Primatas (parte 2)</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_3_Dec</Label>
-    <String>Our efforts to put the newly discovered primates to work has not gone as smoothly as we had hoped. The fatality rate in particular is astronomical, and those who have avoided labor are starting to foment revolutionary ideas.</String>
+    <String>Nossos esforços para colocar os primatas recém-descobertos para trabalhar não correram tão bem quanto esperávamos. A taxa de mortalidade, em particular, é astronômica, e aqueles que evitaram o trabalho estão começando a fomentar idéias revolucionárias.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_3_Choice1Dec</Label>
-    <String>We needed to put them to work, not kill them. The natives should be treated like any other colonist.</String>
+    <String>Precisávamos colocá-los para trabalhar, não matá-los. Os nativos deveriam ser tratados como qualquer outro colonizador.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_3_Choice1BonusDec</Label>
-    <String>{STATCHANCE}% Benevolent check</String>
+    <String>{STATCHANCE}% Controle benevolente</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_3_Choice2Dec</Label>
-    <String>Do not kill off our cheap labor. Establish minimum native rights, so they get back to work.</String>
+    <String>Não mate nossa mão-de-obra barata. Estabeleça direitos nativos mínimos, para que eles voltem ao trabalho.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_3_Choice3Dec</Label>
-    <String>Crack down on employers that waste native lives. They are a valuable resource.</String>
+    <String>Cortar a vida dos empregadores que desperdiçam vidas nativas. Eles são um recurso valioso.</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_3_Choice3BonusDec</Label>
-    <String>{STATCHANCE}% Malevolent check</String>
+    <String>{STATCHANCE}% Controle malévolo</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_3a_Name</Label>
-    <String>Crisis: The Primates - Success</String>
+    <String>Crise: Os Primatas - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_3a_Dec</Label>
-    <String>Our efforts to give the natives on {PLANETNAME} the same rights as our citizens have proven mostly successful. Though their natural limitations limit their potential, their quality of life has greatly improved, and thoughts of rebellion seem to have subsided.
+    <String>Nossos esforços para dar aos nativos do {PLANETNAME} os mesmos direitos que nossos cidadãos têm se mostrado, em sua maioria, bem-sucedidos. Embora suas limitações naturais limitem seu potencial, sua qualidade de vida melhorou muito, e os pensamentos de rebelião parecem ter diminuído.
 
-[COLOR=UIDefaultHighlight]+10 Benevolent, +15% Production on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+10 Benevolente, +15% Produção em {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_3b_Name</Label>
-    <String>Crisis: The Primates - Failure</String>
+    <String>Crise: Os Primatas - O fracasso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_3b_Dec</Label>
-    <String>Our colonists on {PLANETNAME} have not reacted well to our efforts to give native workers the same rights as them. If anything, cruelty towards the primitive population has increased. There is a good chance they will not survive another generation of this treatment, though on the bright side that means there will not be many left to rebel.
+    <String>Nossos colonos em {PLANETNAME} não reagiram bem aos nossos esforços para dar aos trabalhadores nativos os mesmos direitos que eles. A crueldade para com a população primitiva tem aumentado. Há uma boa chance de que eles não sobreviverão a outra geração deste tratamento, embora pelo lado positivo isso signifique que não restarão muitos para se rebelar.
 
-[COLOR=UIDefaultHighlight]+10 Malevolent[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+10 Malevolo[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_3c_Name</Label>
-    <String>Crisis: The Primates - Success</String>
+    <String>Crise: Os Primatas - Sucesso</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_3c_Dec</Label>
-    <String>Thanks to the token gestures we've made on their behalf, the natives of {PLANETNAME} have gone back to work. Accident rates have normalized, and a modest but real improvement in their standard of living has resulted. Any talk of revolution has been quelled, at least for now.
+    <String>Graças aos gestos simbólicos que fizemos em seu nome, os nativos de {PLANETNAME} voltaram ao trabalho. As taxas de acidentes se normalizaram, e uma modesta, mas real, melhoria em seu padrão de vida resultou. Qualquer conversa sobre revolução foi reprimida, pelo menos por enquanto.
 
-[COLOR=UIDefaultHighlight]+15% Production on {PLANETNAME}[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+15% Produção em {PLANETNAME}[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Crisis_Primates_Choice_3e_Name</Label>
-    <String>Crisis: The Primates - Success</String>
+    <String>Crise: Os Primatas - Sucesso</String>
   </StringTable>
  
   <StringTable>
@@ -288,7 +288,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Crisis_Primates_Choice_3f_Name</Label>
-    <String>Crisis: The Primates - Failure</String>
+    <String>Crise: Os Primatas - O fracasso</String>
   </StringTable>
  
   <StringTable>
