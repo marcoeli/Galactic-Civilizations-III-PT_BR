@@ -95,7 +95,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
 
   <StringTable>
     <Label>MARKET_NO_RESOURCES_TOOLTIP</Label>
-    <String>The market doesn't have the resources to buy, and you don't have the resources to sell.</String>
+    <String>O mercado não tem os recursos para comprar e você não tem os recursos para vender.</String>
   </StringTable>
 
   <StringTable>
@@ -195,7 +195,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   
   <StringTable>
     <Label>Commonwealth_Planet_Requirements_MinDistanceFromCapital</Label>
-    <String>BR]Deve ser mais do que {AMOUNT} parsecs de seu capital.</String>
+    <String>[BR]Deve ser mais do que {AMOUNT} parsecs de seu capital.</String>
   </StringTable>
 
   <StringTable>
@@ -376,7 +376,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
 
   <StringTable>
     <Label>GOVERNMENT_CHANGE_APPROVAL_NEEDED</Label>
-    <String>Very low approval. It must be at least {AMOUNT} to change to this form of government.</String>
+    <String>Aprovação muito baixa. Deve ser pelo menos {AMOUNT} para mudar para esta forma de governo.</String>
   </StringTable>
   
   <StringTable>
@@ -391,7 +391,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
 
   <StringTable>
     <Label>ERROR_OUT_OF_FACTION_DATA_STORAGE</Label>
-    <String>Insuficiente armazenamento de dados das facções. Não é possível acrescentar nenhuma nova facção.</String>
+    <String>Armazenamento de dados das facções insuficiente. Não é possível acrescentar nenhuma nova facção.</String>
   </StringTable>
   
   <StringTable>

@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<StringTableList
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
-<!-- Created with the Crusade editor -->
-<!-- FactionText.xml -->
- 
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
+  <!-- Created with the Crusade editor -->
+  <!-- FactionText.xml -->
+
   <StringTable>
     <Label>FACTION_TERRAN_Name</Label>
     <String>Terran Alliance</String>
@@ -43,7 +41,7 @@ Although Terrans present themselves as a peaceful and diplomatic people, when th
     <Label>FACTION_TERRAN_StartupTraitsDescription</Label>
     <String>Terrans are naturally adventurous, with fast, long ranging ships. Their production capacity and diplomatic abilities are well regarded. Their ability to field large fleets is regarded with a bit more wariness.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>FACTION_DRENGIN_Name</Label>
     <String>Drengin Empire</String>
@@ -82,7 +80,7 @@ Cruel, but inventive, many of their victims have discovered that the Drengin are
     <Label>FACTION_DRENGIN_StartupTraitsDescription</Label>
     <String>Drengin soldiers are savagely effective at ground-based combat, and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slaveling revolts.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>FACTION_ALTARIAN_Name</Label>
     <String>Altarian Resistance</String>
@@ -121,7 +119,7 @@ For some as yet unexplained reason, Altarians appear almost identical in appeara
     <Label>FACTION_ALTARIAN_StartupTraitsDescription</Label>
     <String>Altarians are careful researchers, generally content, and influential with their neighbors. Their ships are known for being fast but fragile, though they can organize large fleets of them when called upon.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>FACTION_RESISTANCE_Name</Label>
     <String>Terran Resistance</String>
@@ -160,7 +158,7 @@ Os anos de peregrinação ensinaram muito à Resistência, e agora eles são esp
     <Label>FACTION_RESISTANCE_StartupTraitsDescription</Label>
     <String>A Resistência Terrana é excelente em se contentar com recursos limitados e se tornou mestre na reciclagem de navios. Anos de vida em fuga também lhes ensinaram habilidades valiosas para permanecerem escondidos e operando dissimuladamente.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>FACTION_IRIDIUM_Name</Label>
     <String>Iridium Corporation</String>
@@ -199,7 +197,7 @@ The entire Iridium culture is based on a firm, even fanatical belief in the powe
     <Label>FACTION_IRIDIUM_StartupTraitsDescription</Label>
     <String>Iridiums are excellent at Research and Development and quick to maximize the economic potential of any new discovery. Their ships are also far ranging, enhancing their natural inclination to trade. Growth potential is limited somewhat by their species' slower than average population growth.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>FACTION_KRYNN_Name</Label>
     <String>Krynn Syndicate</String>
@@ -238,7 +236,7 @@ In recent years, a secretive criminal organization has seized the reigns of powe
     <Label>FACTION_KRYNN_StartupTraitsDescription</Label>
     <String>The Krynn are well suited for expansion, being rapid breeders with fast, far-ranging ships. Their outspoken nature make them unpopular though, and their limited military manufacturing means they have to consider their most aggressive conversion activities very carefully.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>FACTION_ONXY_HIVE_Name</Label>
     <String>Onyx Hive</String>
@@ -277,7 +275,7 @@ Incredibly skilled at living on and around asteroids, the Onyx are excellent min
     <Label>FACTION_ONXY_HIVE_StartupTraitsDescription</Label>
     <String>The Onyx Hive are excellent at building spaceships, adapting a large number of their designs from the asteroids where they make their home.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>FACTION_YOR_Name</Label>
     <String>Yor Singularity</String>
@@ -316,7 +314,7 @@ Capable of long-term planning and a surprising degree of cunning, the Yor will o
     <Label>FACTION_YOR_StartupTraitsDescription</Label>
     <String>The Yor are highly productive and capable of building large fleets of self-repairing vessels. They're profoundly unpopular, and few races opt to befriend them. Unlike organic races, their growth rate is a function of production capacity.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>FACTION_ICONIAN_Name</Label>
     <String>Iconian Refuge</String>
@@ -355,7 +353,7 @@ Exceedingly cautious, and not without cause, Iconians have a strong sense of fat
     <Label>FACTION_ICONIAN_StartupTraitsDescription</Label>
     <String>Iconians are overcautious and even paranoid as a result of living in hiding for generations. That said, living with limited resources has made them excellent farmers and repairers, and surprisingly accurate shots, their entire culture built around minimizing waste. And the harsh population controls they live under have only enhanced their understanding of fertility.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>FACTION_SYLNE_Name</Label>
     <String>Slyne</String>
@@ -395,7 +393,7 @@ The Slyne possess cybernetic limbs which can be swapped out as needed to suit wh
     <Label>FACTION_SYLNE_StartupTraitsDescription</Label>
     <String>The Slyne have an instinctive understanding of almost all technology and quickly understand any new mechanisms they discover. They are unparalleled at construction and engineering, often building things which require almost no maintenance.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>FACTION_THALAN_Name</Label>
     <String>Thalan Contingency</String>
@@ -434,7 +432,7 @@ Technically advanced, the Thalans are hampered by the fact that they were unable
     <Label>FACTION_THALAN_StartupTraitsDescription</Label>
     <String>The Thalans are excellent researchers, extremely productive, and unfailingly militant. Their fertility is limited however, a possible side effect of living in an unfamiliar universe. And their distant and aloof nature makes them very unlikable.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>FACTION_TORIAN_Name</Label>
     <String>Torian Regime</String>
@@ -473,7 +471,7 @@ Technically advanced, the Thalans are hampered by the fact that they were unable
 
 As a race that first evolved to sentience in the oceans of their home world, they also have the advantage of being able to colonize aquatic worlds and are hospitable to most races.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>FACTION_ARCEAN_Name</Label>
     <String>Arcean Empire</String>
@@ -514,7 +512,7 @@ As a race that first evolved to sentience in the oceans of their home world, the
 
 The Arcean people have a long history of nobility and neutrality, but the occupation has left them much less willing to forgive offenses or tolerate threats to their freedom.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>FACTION_DEFAULT_Name</Label>
     <String>New Race Name</String>
@@ -551,7 +549,7 @@ The Arcean people have a long history of nobility and neutrality, but the occupa
     <Label>FACTION_DEFAULT_StartupTraitsDescription</Label>
     <String>This species has many qualities, some of them no doubt good or bad.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>MINOR_MARAUDER_Name</Label>
     <String>Marauders</String>
@@ -584,7 +582,7 @@ The Arcean people have a long history of nobility and neutrality, but the occupa
     <Label>MINOR_MARAUDER_StartupTraitsDescription</Label>
     <String>Society of anarchical scavengers where the powerful stay in control by pitting their underlings against each other. They idolize the Drengin (mostly from viewing war propaganda and blood sports) but are dismissive toward other races. They aren't a single species but a mix of war survivors, rebels, criminals and pirates from across the universe.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>MINOR_DARK_YOR_Name</Label>
     <String>Dark Yor</String>
@@ -617,7 +615,7 @@ The Arcean people have a long history of nobility and neutrality, but the occupa
     <Label>MINOR_DARK_YOR_StartupTraitsDescription</Label>
     <String>The Yor believe that organic life is inferior to their own. But the Dark Yor are more aggressive to that, they believe that organic life is a plague on the universe and the only cure is eradication.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>MINOR_BURRAN_Name</Label>
     <String>Burran</String>
@@ -650,7 +648,7 @@ The Arcean people have a long history of nobility and neutrality, but the occupa
     <Label>MINOR_BURRAN_StartupTraitsDescription</Label>
     <String>A peaceful species who believes that a series of 7 "rigors" will cause them to be elevated to a godlike existence. Each rigor takes many years to accomplish and only the first 3 of these can be performed on their home planet, afterwards they explore the universe pursuing their tasks.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>MINOR_SNATHI_Name</Label>
     <String>Snathi</String>
@@ -683,7 +681,7 @@ The Arcean people have a long history of nobility and neutrality, but the occupa
     <Label>MINOR_SNATHI_StartupTraitsDescription</Label>
     <String>These guys are E-V-I-L! It's rumored that the Dread Lords, in a last ditch effort to destroy the Arnorans in the epic Battle of Kalis-Yu', focused all their dark energy, malice, and hatred into an army of war-hungry demons... the SNATHI! Now, after billions of years hoarding their proverbial 'Nuts', the Snathi have metaphorically 'climbed out of their tree' and will 'gnaw the galaxy with their big squirrel-like teeth'... so to speak.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>MINOR_GAULOX_Name</Label>
     <String>Gaulox</String>
@@ -716,7 +714,7 @@ The Arcean people have a long history of nobility and neutrality, but the occupa
     <Label>MINOR_GAULOX_StartupTraitsDescription</Label>
     <String>After being sterilized by planetary radiation this species directed all of their research toward life extending technology. Before the radiation storm, an early space exploration vessel left the planet and they now search for that ship in the hopes that it still contains some fertile members of their species, or the descendants of them.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>MINOR_KAXX_Name</Label>
     <String>Kaxx Collective</String>
@@ -749,7 +747,7 @@ The Arcean people have a long history of nobility and neutrality, but the occupa
     <Label>MINOR_KAXX_StartupTraitsDescription</Label>
     <String>They believe their home world is the cocoon for a sleeping creature and they were placed on the planet to guard her. One day they believe the creature will awake and either spread new life across the universe or kill everyone.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>MINOR_ODAIR_Name</Label>
     <String>Odair Conclave</String>
@@ -782,7 +780,7 @@ The Arcean people have a long history of nobility and neutrality, but the occupa
     <Label>MINOR_ODAIR_StartupTraitsDescription</Label>
     <String>Extreme nihilists counting down the moments until the universe succumbs to the eventual pull of entropy. Believe the Krynn in particular are the most foolish (for their faith) but are hard pressed to be enthused about anyone. There is a black hole at the edge of their galaxy, "The Yawning Mouth of God" that they delight in sending elaborate constructions into.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>MINOR_EXIS_Name</Label>
     <String>Exis Empire</String>
@@ -815,7 +813,7 @@ The Arcean people have a long history of nobility and neutrality, but the occupa
     <Label>MINOR_EXIS_StartupTraitsDescription</Label>
     <String>For the Exis all activity is measured against the passing of the "Tear of Heaven" comet, which enters their solar systems once every 17 local years. Children born during this year are thought to be gifted, and those that die are thought to be blessed to the point where births and deaths outside of these years are rare.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>MINOR_KLEPART_Name</Label>
     <String>Klepart</String>
@@ -848,7 +846,7 @@ The Arcean people have a long history of nobility and neutrality, but the occupa
     <Label>MINOR_KLEPART_StartupTraitsDescription</Label>
     <String>The first united technical achievement of their species was the creation of a great beacon tower to send their call out into space. A few days after turning it on an answer was received, a fleet of warships appeared in orbit above their world and raiders were sent down to collect every child on their homeworld. And then the raiders were gone. An entire generation of the Klepart was lost. The next generation has now grown old enough to begin exploring space on their own, but they remain fearful that the raiders will return, and hopeful that they will someday find the children that were stolen from them.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>MINOR_LANTERN_Name</Label>
     <String>Lantern</String>
@@ -881,7 +879,7 @@ The Arcean people have a long history of nobility and neutrality, but the occupa
     <Label>MINOR_LANTERN_StartupTraitsDescription</Label>
     <String>A young but promising race until early galactic traders introduced them to euphoric vapors that were enjoyed by other species but deeply addictive to the Lantern. Now the Lantern society is dominated by the search for additional sources of the drug and all citizens are kept on it at all times.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>MINOR_GOSSAMER_Name</Label>
     <String>Gossamer</String>
@@ -914,7 +912,7 @@ The Arcean people have a long history of nobility and neutrality, but the occupa
     <Label>MINOR_GOSSAMER_StartupTraitsDescription</Label>
     <String>This species is based on the study and rumors of the ascension crystals to the point where they have developed an extreme (and nearly unfathomable) mythology around the crystals and any who would interact with them.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>MINOR_ORPHICA_Name</Label>
     <String>Orphica Enclave</String>
@@ -955,7 +953,7 @@ The Arcean people have a long history of nobility and neutrality, but the occupa
     <Label>MINOR_ORPHICA_StartupTraitsDescription</Label>
     <String>The more computational power the Orphic Prime unit has available, the more power it has over the landscape of Orpheus. Although its power grows slowly, over time, Orpheus can become a galactic powerhouse.</String>
   </StringTable>
- 
+
   <StringTable>
     <Label>FACTION_PIRATES_Name</Label>
     <String>Space Pirates</String>
@@ -972,5 +970,5 @@ The Arcean people have a long history of nobility and neutrality, but the occupa
     <Label>FACTION_PIRATES_StartupTraitsDescription</Label>
     <String>Pirate forces are decentralized and brutal. They do not have the resources of most races, so are slow to build forces, but in time can become a powerful threat if left unchecked.</String>
   </StringTable>
- 
+
 </StringTableList>

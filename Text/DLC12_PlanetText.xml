@@ -1,98 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<StringTableList
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
 
-   <!-- Scryve -->	
-<StringTable>
-<Label>Planet_Scryve_Name</Label>
-<String>Scryveno Seat</String>
-</StringTable>
+  <!-- Scryve -->
+  <StringTable>
+    <Label>Planet_Scryve_Name</Label>
+    <String>Scryveno Seat</String>
+  </StringTable>
 
-<StringTable>
-<Label>Planet_Hork_Name</Label>
-<String>Hork</String>
-</StringTable>
+  <StringTable>
+    <Label>Planet_Hork_Name</Label>
+    <String>Hork</String>
+  </StringTable>
 
-<StringTable>
-<Label>Planet_Yartz_Name</Label>
-<String>Yartz</String>
-</StringTable>
+  <StringTable>
+    <Label>Planet_Yartz_Name</Label>
+    <String>Yartz</String>
+  </StringTable>
 
-<StringTable>
-<Label>Planet_Skrelpt_Name</Label>
-<String>Skrelpt</String>
-</StringTable>
+  <StringTable>
+    <Label>Planet_Skrelpt_Name</Label>
+    <String>Skrelpt</String>
+  </StringTable>
 
-  <!-- Phamysht -->	
-  
-<StringTable>	 
-<Label>Planet_ElaRise_Name</Label>
-<String>Ela Rise</String>
-</StringTable>
+  <!-- Phamysht -->
 
-<StringTable>	 
-<Label>Planet_BetaIshikawaAIV_Name</Label>
-<String>Beta Ishikawa A IV</String>
-</StringTable> 
-	 
-<StringTable>
-<Label>Planet_BetaIshikawaAIII_Name</Label>
-<String>Beta Ishikawa A III</String>
-</StringTable>
+  <StringTable>
+    <Label>Planet_ElaRise_Name</Label>
+    <String>Ela Rise</String>
+  </StringTable>
 
-<StringTable>
-<Label>Planet_BetaIshikawaAII_Name</Label>
-<String>Beta Ishikawa A II</String>
-</StringTable>
+  <StringTable>
+    <Label>Planet_BetaIshikawaAIV_Name</Label>
+    <String>Beta Ishikawa A IV</String>
+  </StringTable>
 
-<StringTable>
-<Label>Planet_BetaIshikawaAI_Name</Label>
-<String>Beta Ishikawa A I</String>
-</StringTable>
+  <StringTable>
+    <Label>Planet_BetaIshikawaAIII_Name</Label>
+    <String>Beta Ishikawa A III</String>
+  </StringTable>
 
-  <!-- Measured -->	
-<StringTable>
-<Label>Planet_DeltaDomosIV_Name</Label>
-<String>Delta Domos IV</String>
-</StringTable>	 
-	 
-<StringTable>
-<Label>Planet_DeltaDomosIII_Name</Label>
-<String>Delta Domos III</String>
-</StringTable>
-	 
-<StringTable>
-<Label>Planet_DeltaDomosII_Name</Label>
-<String>Delta Domos II</String>
-</StringTable>
+  <StringTable>
+    <Label>Planet_BetaIshikawaAII_Name</Label>
+    <String>Beta Ishikawa A II</String>
+  </StringTable>
 
-<StringTable>
-<Label>Planet_DeltaDomosI_Name</Label>
-<String>Delta Domos I</String>
-</StringTable>
+  <StringTable>
+    <Label>Planet_BetaIshikawaAI_Name</Label>
+    <String>Beta Ishikawa A I</String>
+  </StringTable>
 
-  <!-- Xraki -->	
-	 
-<StringTable>
-<Label>Planet_Xalx_Name</Label>
-<String>Alpha Satori A II</String>
-</StringTable>
+  <!-- Measured -->
+  <StringTable>
+    <Label>Planet_DeltaDomosIV_Name</Label>
+    <String>Delta Domos IV</String>
+  </StringTable>
 
-<StringTable>
-<Label>Planet_Alxian_Name</Label>
-<String>Alpha Satori A III</String>
-</StringTable>
+  <StringTable>
+    <Label>Planet_DeltaDomosIII_Name</Label>
+    <String>Delta Domos III</String>
+  </StringTable>
 
-<StringTable>
-<Label>Planet_Iokulan_Name</Label>
-<String>Alpha Satori A IV</String>
-</StringTable>
+  <StringTable>
+    <Label>Planet_DeltaDomosII_Name</Label>
+    <String>Delta Domos II</String>
+  </StringTable>
 
-<StringTable>
-<Label>Planet_Yialkaln_Name</Label>
-<String>Alpha Satori A I</String>
-</StringTable>
+  <StringTable>
+    <Label>Planet_DeltaDomosI_Name</Label>
+    <String>Delta Domos I</String>
+  </StringTable>
+
+  <!-- Xraki -->
+
+  <StringTable>
+    <Label>Planet_Xalx_Name</Label>
+    <String>Alpha Satori A II</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Planet_Alxian_Name</Label>
+    <String>Alpha Satori A III</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Planet_Iokulan_Name</Label>
+    <String>Alpha Satori A IV</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Planet_Yialkaln_Name</Label>
+    <String>Alpha Satori A I</String>
+  </StringTable>
 
 </StringTableList>

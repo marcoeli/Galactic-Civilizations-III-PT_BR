@@ -14,318 +14,318 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>RuthlessVisionEvent_Dec</Label>
-    <String>While on a deep space survey, one of our ships has discovered an ancient artifact that can be used to enhance our targeting systems. Unfortunately, it works by turning a sentient being into a living psionic sensor. The process is agonizing, and the existing personality of the "Volunteer" is completely destroyed. What should we do with the artifact?</String>
+    <String>Durante uma pesquisa espacial profunda, uma de nossas naves descobriu um artefato antigo que pode ser usado para melhorar nossos sistemas de mira. Infelizmente, ele funciona transformando um ser senciente em um sensor psionic vivo. O processo é agonizante, e a personalidade existente do "Voluntário" é completamente destruída. O que devemos fazer com o artefato?</String>
   </StringTable>
  
   <StringTable>
     <Label>RuthlessVisionEvent_Benevolent_Bonus_Name</Label>
-    <String>Study the artifact as much as we can safely, and lock it away in the deepest vault in the empire.</String>
+    <String>Estudar o artefato o máximo que pudermos com segurança, e fechá-lo no cofre mais profundo do império.</String>
   </StringTable>
  
   <StringTable>
     <Label>RuthlessVisionEvent_Benevolent_Bonus_Dec</Label>
-    <String>+30 Benevolent, +10% Research</String>
+    <String>+30 Benevolente, +10% Pesquisa</String>
   </StringTable>
  
   <StringTable>
     <Label>RuthlessVisionEvent_Neutral_Bonus_Name</Label>
-    <String>Use the artifact on convicted capital criminals, saving on expensive prison upkeep, and boosting our ability to defend ourselves in a dangerous galaxy.</String>
+    <String>Usar o artefato em criminosos condenados, economizando na dispendiosa manutenção das prisões e aumentando nossa capacidade de nos defendermos em uma galáxia perigosa.</String>
   </StringTable>
  
   <StringTable>
     <Label>RuthlessVisionEvent_Neutral_Bonus_Dec</Label>
-    <String>+20 Pragmatic, +10% Targeting</String>
+    <String>+20 Pragmatico, +10% Direcionamento</String>
   </StringTable>
  
   <StringTable>
     <Label>RuthlessVisionEvent_Merciless_Bonus_Name</Label>
-    <String>Forcibly volunteer the least popular crew member from each ship to undergo the transformation, giving them a chance to make something valuable of themselves.</String>
+    <String>Forçar o tripulante menos popular de cada navio a se submeter à transformação, dando-lhe a oportunidade de fazer algo valioso de si mesmo.</String>
   </StringTable>
  
   <StringTable>
     <Label>RuthlessVisionEvent_Merciless_Bonus_Dec</Label>
-    <String>+30 Malevolent, +25% Targeting, -5% Approval</String>
+    <String>+30 Malevolo, +25% Direcionamento, -5% Aprovação</String>
   </StringTable>
  
   <StringTable>
     <Label>TradeSecretsEvent_Name</Label>
-    <String>Trade Secrets</String>
+    <String>Segredos comerciais</String>
   </StringTable>
  
   <StringTable>
     <Label>TradeSecretsEvent_Dec</Label>
-    <String>One of our traders has been approached by representatives from an association of black market traders. They're offering us a wealth of insider information on the other civilizations in the galaxy, enough to negotiate incredibly favorable terms, boosting trade income on all our routes. In exchange, they want access to some of our current research projects.</String>
+    <String>Um de nossos comerciantes foi abordado por representantes de uma associação de comerciantes do mercado negro. Eles estão nos oferecendo uma riqueza de informações privilegiadas sobre as outras civilizações da galáxia, o suficiente para negociar termos incrivelmente favoráveis, aumentando a renda comercial em todas as nossas rotas. Em troca, eles querem ter acesso a alguns de nossos projetos de pesquisa atuais.</String>
   </StringTable>
  
   <StringTable>
     <Label>TradeSecretsEvent_Benevolent_Bonus_Name</Label>
-    <String>We're not going to use any unfair advantage in trade negotiations, and we're certainly not going to give away our research. Turn them away and inform our neighbors of their possible security breaches.</String>
+    <String>Não vamos usar nenhuma vantagem injusta nas negociações comerciais, e certamente não vamos ceder nossas pesquisas. Desvie-os e informe nossos vizinhos sobre suas possíveis brechas de segurança.</String>
   </StringTable>
  
   <StringTable>
     <Label>TradeSecretsEvent_Benevolent_Bonus_Dec</Label>
-    <String>+20 Benevolent. +10% Diplomacy</String>
+    <String>+20 Benevolente. +10% Diplomacia</String>
   </StringTable>
  
   <StringTable>
     <Label>TradeSecretsEvent_Neutral_Bonus_Name</Label>
-    <String>Make the deal, but ensure we're giving away no research information critical to our security.</String>
+    <String>Faça o acordo, mas certifique-se de que não estamos dando nenhuma informação de pesquisa crítica para nossa segurança.</String>
   </StringTable>
  
   <StringTable>
     <Label>TradeSecretsEvent_Neutral_Bonus_Dec</Label>
-    <String>+20 Pragmatic, +100% Trade Income, -5% Research</String>
+    <String>+20 Pragmatico, +100% Renda comercial, -5% Pesquisa</String>
   </StringTable>
  
   <StringTable>
     <Label>TradeSecretsEvent_Merciless_Bonus_Name</Label>
-    <String>Offer to make the deal, then use some large weapons to simply take the trade secrets from them. We can afford a war with a shadowy black market.</String>
+    <String>Ofereça-se para fazer o negócio, depois use algumas armas grandes para simplesmente tirar deles os segredos comerciais. Podemos nos permitir uma guerra com um mercado negro sombrio.</String>
   </StringTable>
  
   <StringTable>
     <Label>TradeSecretsEvent_Merciless_Bonus_Dec</Label>
-    <String>+20 Malevolent, +100% Trade Income</String>
+    <String>+20 Malevolo, +100% Renda comercial</String>
   </StringTable>
  
   <StringTable>
     <Label>PublicEducationEvent_Name</Label>
-    <String>Public Education</String>
+    <String>Educação Pública</String>
   </StringTable>
  
   <StringTable>
     <Label>PublicEducationEvent_Dec</Label>
-    <String>The people of our civilization have begun a series of minor protests, demanding increased funding for basic education. Although this will cost us something, it should lead to higher public approval, and the stream of educated workers could help benefit certain specific industries.</String>
+    <String>O povo de nossa civilização começou uma série de pequenos protestos, exigindo um aumento do financiamento para a educação básica. Embora isto nos custe algo, deveria levar a uma maior aprovação pública, e o fluxo de trabalhadores instruídos poderia ajudar a beneficiar certas indústrias específicas.</String>
   </StringTable>
  
   <StringTable>
     <Label>PublicEducationEvent_Benevolent_Bonus_Name</Label>
-    <String>Of course. Weren't we doing that already? Even if we were, let's do it more then. Much more. But we don't have to restrict anyone's career choices; let our people choose what life is best for them.</String>
+    <String>É claro. Não estávamos fazendo isso já? Mesmo que estivéssemos, vamos fazer mais então. Muito mais. Mas não temos que restringir as escolhas de carreira de ninguém; deixemos nosso povo escolher o que é melhor para eles.</String>
   </StringTable>
  
   <StringTable>
     <Label>PublicEducationEvent_Benevolent_Bonus_Dec</Label>
-    <String> +20 Benevolent. -10% Total Income, +15% Approval</String>
+    <String> +20 Benevolente. -10% Rendimento total, +15% Aprovação</String>
   </StringTable>
  
   <StringTable>
     <Label>PublicEducationEvent_Neutral_Bonus_Name</Label>
-    <String>That sounds reasonable. Although our manufacturing and construction sectors require specialized training outside the scope of this, our administration and logistics departments could benefit from recruits with improved basic education.</String>
+    <String>Isso parece razoável. Embora nossos setores de manufatura e construção exijam treinamento especializado fora do escopo disto, nossos departamentos de administração e logística poderiam se beneficiar de recrutas com melhor educação básica.</String>
   </StringTable>
  
   <StringTable>
     <Label>PublicEducationEvent_Neutral_Bonus_Dec</Label>
-    <String>+20 Pragmatic, -5% Total Income, +5% Approval</String>
+    <String>+20 Pragmatico, -5% Rendimento total, +5% Aprovação</String>
   </StringTable>
  
   <StringTable>
     <Label>PublicEducationEvent_Merciless_Bonus_Name</Label>
-    <String>No. Tell them we need that money for literally anything other than that. In fact, tell them that they now have to work harder for daring suggest it.</String>
+    <String>Não. Diga a eles que precisamos desse dinheiro para literalmente qualquer outra coisa que não seja isso. Na verdade, diga-lhes que agora eles têm que trabalhar mais para ousar sugerir isso.</String>
   </StringTable>
  
   <StringTable>
     <Label>PublicEducationEvent_Merciless_Bonus_Dec</Label>
-    <String>+20 Malevolent, -5% Approval, +10% Manufacturing</String>
+    <String>+20 Malevolo, -5% Aprovação, +10% Fabricação</String>
   </StringTable>
  
   <StringTable>
     <Label>DesignRevolutionEvent_Name</Label>
-    <String>Design Revolution</String>
+    <String>Revolução do design</String>
   </StringTable>
  
   <StringTable>
     <Label>DesignRevolutionEvent_Dec</Label>
-    <String>Our culture has developed a bit of an obsession with efficient, well designed products. Domiciles throughout our civilization are filling up with tidy, well organized furniture, and otherwise normal people now get in arguments about typesetting. As a practical benefit, this has instilled a new appreciation for the work of designers, and our colleges now overflow with bright young minds. With the right policy, we can choose where to direct this energy.</String>
+    <String>Nossa cultura desenvolveu um pouco de obsessão por produtos eficientes e bem projetados. Domicílios em toda nossa civilização estão se enchendo de móveis arrumados e bem organizados e, de outra forma, as pessoas normais agora entram em discussões sobre composição tipográfica. Como um benefício prático, isto incutiu uma nova apreciação pelo trabalho dos designers, e nossas faculdades agora transbordam de mentes jovens e brilhantes. Com a política correta, podemos escolher para onde dirigir esta energia.</String>
   </StringTable>
  
   <StringTable>
     <Label>DesignRevolutionEvent_Benevolent_Bonus_Name</Label>
-    <String>Direct our new designers to build the best and most prestigious cultural institutions they can.</String>
+    <String>Orientar nossos novos designers para construir as melhores e mais prestigiadas instituições culturais que puderem.</String>
   </StringTable>
  
   <StringTable>
     <Label>DesignRevolutionEvent_Benevolent_Bonus_Dec</Label>
-    <String>+20 Benevolent. +10% Social Manufacturing</String>
+    <String>+20 Benevolente. +10% de fabricação social</String>
   </StringTable>
  
   <StringTable>
     <Label>DesignRevolutionEvent_Neutral_Bonus_Name</Label>
-    <String>Allow the designers to choose their own path, letting the benefits fall where they may.</String>
+    <String>Permitir que os projetistas escolham seu próprio caminho, deixando os benefícios recaírem onde eles possam.</String>
   </StringTable>
  
   <StringTable>
     <Label>DesignRevolutionEvent_Neutral_Bonus_Dec</Label>
-    <String>+20 Pragmatic, -5% Manufacturing Costs</String>
+    <String>+20 Pragmáticos, -5% Custos de fabricação</String>
   </StringTable>
  
   <StringTable>
     <Label>DesignRevolutionEvent_Merciless_Bonus_Name</Label>
-    <String>Direct these idle minds to help with something actually practical. But don't let them choose what's practical. Tell them ships are practical. Start there.</String>
+    <String>Direcione essas mentes ociosas para ajudar em algo realmente prático. Mas não os deixe escolher o que é prático. Diga-lhes que os navios são práticos. Comece por aí.</String>
   </StringTable>
  
   <StringTable>
     <Label>DesignRevolutionEvent_Merciless_Bonus_Dec</Label>
-    <String>+20 Malevolent, Ships can carry 10% more mass.</String>
+    <String>+20 Malévolo, os navios podem transportar 10% a mais de massa.</String>
   </StringTable>
  
   <StringTable>
     <Label>EavesdroppingEvent_Name</Label>
-    <String>Eavesdropping</String>
+    <String>Espionagem</String>
   </StringTable>
  
   <StringTable>
     <Label>EavesdroppingEvent_Dec</Label>
-    <String>One of our United Planets diplomats reports that a worker from the facilities division of the UP headquarters claims to have placed eavesdropping devices throughout the building, and that he's willing to provide access to them to the highest bidder.</String>
+    <String>Um de nossos diplomatas dos Planetas Unidos relata que um trabalhador da divisão de instalações da sede da UP afirma ter colocado dispositivos de escuta em todo o edifício, e que está disposto a dar acesso a eles a quem fizer a maior oferta.</String>
   </StringTable>
  
   <StringTable>
     <Label>EavesdroppingEvent_Benevolent_Bonus_Name</Label>
-    <String>This is outrageous. Diplomacy cannot be effective when both parties act on such bad faith. Turn this figure into the Council.</String>
+    <String>Isto é um ultraje. A diplomacia não pode ser eficaz quando ambas as partes agem de tão má fé. Transforme esta figura no Conselho.</String>
   </StringTable>
  
   <StringTable>
     <Label>EavesdroppingEvent_Benevolent_Bonus_Dec</Label>
-    <String>+20 Benevolent. +10% Influence all colonies.</String>
+    <String>+20 Benevolente. +10% influencia todas as colônias.</String>
   </StringTable>
  
   <StringTable>
     <Label>EavesdroppingEvent_Neutral_Bonus_Name</Label>
-    <String>This might be a trap, and even if it isn't, when those bugs are discovered, we don't want to be anywhere near them. Expose this fool to the Council, then lobby them for a reward. Either an important chair, or additional influence on key matters.</String>
+    <String>Isto pode ser uma armadilha, e mesmo que não seja, quando esses insetos forem descobertos, não queremos estar em nenhum lugar perto deles. Exponha este tolo ao Conselho, depois faça lobby com eles para obter uma recompensa. Ou uma cadeira importante, ou uma influência adicional em assuntos-chave.</String>
   </StringTable>
  
   <StringTable>
     <Label>EavesdroppingEvent_Neutral_Bonus_Dec</Label>
-    <String>+20 Pragmatic, +10% Approval all Colonies.</String>
+    <String>+20 Pragmático, +10% Aprovação de todas as Colônias.</String>
   </StringTable>
  
   <StringTable>
     <Label>EavesdroppingEvent_Merciless_Bonus_Name</Label>
-    <String>This is an opportunity which cannot be passed up. In exchange for access to the bugs, give the villain whatever he wants, then give him a bit more to keep him quiet, then kill him just to be sure.</String>
+    <String>Esta é uma oportunidade que não pode ser desperdiçada. Em troca do acesso aos insetos, dar ao vilão o que ele quiser, depois dar-lhe um pouco mais para mantê-lo calado, depois matá-lo apenas para ter certeza.</String>
   </StringTable>
  
   <StringTable>
     <Label>EavesdroppingEvent_Merciless_Bonus_Dec</Label>
-    <String>+30 Malevolent </String>
+    <String>+30 Malevolo </String>
   </StringTable>
  
   <StringTable>
     <Label>TheScoutEvent_Name</Label>
-    <String>The Scout</String>
+    <String>O batedor</String>
   </StringTable>
  
   <StringTable>
     <Label>TheScoutEvent_Dec</Label>
-    <String>A mysterious single occupant craft has appeared in orbit around our homeworld. Our ships quickly surrounded the intruder, who explained that she's a scout from a peaceful but secretive race from the far side of the galaxy. In exchange for her release and the provision of supplies to repair her sensor device, she offers you samples of the advanced sensor technology her people have.</String>
+    <String>Uma misteriosa embarcação de ocupante único apareceu em órbita ao redor de nosso mundo natal. Nossas naves rapidamente cercaram o intruso, que explicou que é um batedor de uma raça pacífica, mas secreta, do outro lado da galáxia. Em troca de sua liberação e do fornecimento de suprimentos para reparar seu dispositivo sensor, ela oferece amostras da avançada tecnologia de sensores que seu povo possui.</String>
   </StringTable>
  
   <StringTable>
     <Label>TheScoutEvent_Benevolent_Bonus_Name</Label>
-    <String>We'd have gladly helped her for no reward, but certainly won't turn one down. And making friends with a species talented in the arts of scouting seems like the kind of thing that could be beneficial. Ask if she's willing to share any information about the state of the galaxy.</String>
+    <String>Teríamos de bom grado ajudá-la sem recompensa, mas certamente não recusaremos nenhuma. E fazer amizade com uma espécie talentosa na arte do escotismo parece ser o tipo de coisa que poderia ser benéfica. Pergunte se ela está disposta a compartilhar qualquer informação sobre o estado da galáxia.</String>
   </StringTable>
  
   <StringTable>
     <Label>TheScoutEvent_Benevolent_Bonus_Dec</Label>
-    <String>+20 Benevolent, +10% Sensor Power for All Ships</String>
+    <String>+20 Benevolente, +10% de potência do sensor para todos os navios</String>
   </StringTable>
  
   <StringTable>
     <Label>TheScoutEvent_Neutral_Bonus_Name</Label>
-    <String>Her ship has a lot more than that on it, certainly. Threaten to expose her entire race to the galaxy if she doesn't share something a bit richer. The sensor device, perhaps.</String>
+    <String>Seu navio tem muito mais do que isso nele, certamente. Ameaça expor toda a sua raça à galáxia se ela não compartilhar algo um pouco mais rico. O dispositivo sensor, talvez.</String>
   </StringTable>
  
   <StringTable>
     <Label>TheScoutEvent_Neutral_Bonus_Dec</Label>
-    <String>+20 Pragmatic, +25% Sensor Power for All Ships</String>
+    <String>+20 Pragmático, +25% de potência do sensor para todos os navios</String>
   </StringTable>
  
   <StringTable>
     <Label>TheScoutEvent_Merciless_Bonus_Name</Label>
-    <String>We're not going to take the word of a spy capable of penetrating our defenses. Confiscate the entire ship. Even if she sabotages her systems, the salvage alone will be valuable. And a thorough interrogation will surely teach us more.</String>
+    <String>Não vamos aceitar a palavra de um espião capaz de penetrar em nossas defesas. Confiscar o navio inteiro. Mesmo se ela sabotar seus sistemas, só o salvamento será valioso. E um interrogatório minucioso certamente nos ensinará mais.</String>
   </StringTable>
  
   <StringTable>
     <Label>TheScoutEvent_Merciless_Bonus_Dec</Label>
-    <String>+20 Malevolent, Gain the Scout's Ship</String>
+    <String>+20 Malévolo, Ganhe o Navio Batedor</String>
   </StringTable>
  
   <StringTable>
     <Label>FlagWavingEvent_Name</Label>
-    <String>Flag Waving</String>
+    <String>Acenando a bandeira</String>
   </StringTable>
  
   <StringTable>
     <Label>FlagWavingEvent_Dec</Label>
-    <String>A sudden wave of patriotic fervor has swept across our civilization, all our people caught up celebrating the great things we're doing. Such universal approval is incredibly rare; this seems an ideal opportunity to channel our people's energy into more constructive acts.</String>
+    <String>Uma súbita onda de fervor patriótico varreu nossa civilização, todo o nosso povo se apaixonou pelas grandes coisas que estamos fazendo. Tal aprovação universal é incrivelmente rara; esta parece uma oportunidade ideal para canalizar a energia de nosso povo para atos mais construtivos.</String>
   </StringTable>
  
   <StringTable>
     <Label>FlagWavingEvent_Benevolent_Bonus_Name</Label>
-    <String>This is a gift too great to interfere with. This approval was based on our people's appreciation for what we're already doing. We shall continue doing it.</String>
+    <String>Este é um presente grande demais para interferir. Esta aprovação foi baseada no apreço de nosso povo pelo que já estamos fazendo. Continuaremos fazendo isso.</String>
   </StringTable>
  
   <StringTable>
     <Label>FlagWavingEvent_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent. +20% Approval all colonies</String>
+    <String>+10 Benevolente. +20% Aprovação de todas as colônias</String>
   </StringTable>
  
   <StringTable>
     <Label>FlagWavingEvent_Neutral_Bonus_Name</Label>
-    <String>Eager but unskilled labor has limited uses, but not non-existent ones. Let's start directing our people's new energy to contribute to various volunteer programs and other civic projects.</String>
+    <String>A mão-de-obra ávida, mas não especializada, tem usos limitados, mas não inexistentes. Vamos começar a direcionar a nova energia de nosso povo para contribuir com vários programas voluntários e outros projetos cívicos.</String>
   </StringTable>
  
   <StringTable>
     <Label>FlagWavingEvent_Neutral_Bonus_Dec</Label>
-    <String>+20 Pragmatic, +10% Approval all colonies</String>
+    <String>+20 Pragmatico, +10% Aprovação de todas as colônias</String>
   </StringTable>
  
   <StringTable>
     <Label>FlagWavingEvent_Merciless_Bonus_Name</Label>
-    <String>Send these eager young citizens into the military where their brave talk can be put to some actual use.</String>
+    <String>Enviar estes jovens cidadãos ávidos para as forças armadas, onde sua conversa corajosa possa ser realmente utilizada.</String>
   </StringTable>
  
   <StringTable>
     <Label>FlagWavingEvent_Merciless_Bonus_Dec</Label>
-    <String>+20 Malevolent, +5% Approval,  +10% Planetary Defense</String>
+    <String>+20 Malevolo, +5% Aprovação,  +10% Defesa planetária</String>
   </StringTable>
  
   <StringTable>
     <Label>OutbreakEvent_Name</Label>
-    <String>Outbreak</String>
+    <String>Surto</String>
   </StringTable>
  
   <StringTable>
     <Label>OutbreakEvent_Dec</Label>
-    <String>{PLANETNAME} has been overrun by a strange alien norovirus. It rapidly kills about 5% of those it infects, but has the curious side effect of making those who survive profoundly more intelligent.
-Our scientists have found a means to cure it, but some wonder if we should consider allowing the disease to flourish, to take advantage of its side effects.</String>
+    <String>{PLANETNAME} foi invadido por um estranho norovírus alienígena. Ele mata rapidamente cerca de 5% dos que infecta, mas tem o curioso efeito colateral de tornar aqueles que sobrevivem profundamente mais inteligentes.
+Nossos cientistas encontraram um meio de curá-lo, mas alguns se perguntam se devemos considerar se devemos permitir que a doença floresça, para tirar proveito de seus efeitos colaterais.</String>
   </StringTable>
  
   <StringTable>
     <Label>OutbreakEvent_Benevolent_Bonus_Name</Label>
-    <String>Eradicate the Virus. One life lost is too many, regardless of the gain.</String>
+    <String>Erradicar o Vírus. Uma vida perdida é demasiada, independentemente do ganho.</String>
   </StringTable>
  
   <StringTable>
     <Label>OutbreakEvent_Benevolent_Bonus_Dec</Label>
-    <String>+20 Benevolent, +10% Research to Affected Planet.</String>
+    <String>+20 Benevolente, +10% Pesquisa para o Planeta Afetado.</String>
   </StringTable>
  
   <StringTable>
     <Label>OutbreakEvent_Neutral_Bonus_Name</Label>
-    <String>Quarantine the planet, and immunize anyone who leaves. Allow volunteers to relocate there, knowing the risk.</String>
+    <String>Colocar o planeta em quarentena, e imunizar qualquer um que sair. Permitir que os voluntários se mudem para lá, conhecendo o risco.</String>
   </StringTable>
  
   <StringTable>
     <Label>OutbreakEvent_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, +50% Research affected planet, -20% Growth on Affected Planet</String>
+    <String>+10 Pragmatico, +50% Pesquisa no planeta afetado, -20% Crescimento no Planeta Afetado</String>
   </StringTable>
  
   <StringTable>
     <Label>OutbreakEvent_Merciless_Bonus_Name</Label>
-    <String>Never let a good Norovirus go to waste. Immunize yourself and your friends, then spread the disease throughout your colonies.</String>
+    <String>Nunca desperdice um bom Norovírus. Imunize-se a si mesmo e a seus amigos, depois espalhe a doença por todas as suas colônias.</String>
   </StringTable>
  
   <StringTable>
     <Label>OutbreakEvent_Merciless_Bonus_Dec</Label>
-    <String>+20 Malevolent, +10% Research, -10% Growth.</String>
+    <String>+20 Malevolo, +10% Pesquisa, -10% Crescimento.</String>
   </StringTable>
  
 </StringTableList>

@@ -7,12 +7,12 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Haven_FACTION_TERRAN_Name</Label>
-    <String>United Earth</String>
+    <String>Terra Unida</String>
   </StringTable>
  
   <StringTable>
     <Label>Haven_FACTION_TERRAN_ShortName</Label>
-    <String>United Earth</String>
+    <String>Terra Unida</String>
   </StringTable>
  
   <StringTable>
@@ -22,12 +22,12 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Haven_FACTION_TERRAN_Dec</Label>
-    <String>The United Earth government, the forerunner of the Terran Alliance.  Considered naive by the rest of the galaxy, they will soon prove to be a force to be respected, with their innovative spirit and willingness to do what must be done to survive.</String>
+    <String>O governo da Terra Unida, o precursor da Aliança Terrestre.  Considerados ingênuos pelo resto da galáxia, eles logo provarão ser uma força a ser respeitada, com seu espírito inovador e vontade de fazer o que deve ser feito para sobreviver.</String>
   </StringTable>
  
   <StringTable>
     <Label>Haven_FACTION_TERRAN_LeaderDec</Label>
-    <String>The last great leader of the United Earth, and the father of the Terran Alliance.</String>
+    <String>O último grande líder da Terra Unida, e o pai da Aliança Terrestre.</String>
   </StringTable>
  
   <StringTable>
@@ -37,24 +37,24 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Haven_FACTION_TERRAN_StartupDescription</Label>
-    <String> January 2178: 10 years have passed since the Arcean Empire sent humanity the instructions to build a Stargate, inviting them to join the larger galactic community.
-But humanity returned their gift in a surprising way. They reverse-engineered the Stargate technology and then took it further. Combining it with their own great breakthrough, Cascading Fusion, they were able to create a new drive system that would allow a starship to travel faster than light anywhere in the galaxy, without a Stargate.
-Shortly after these well-meaning engineers shared this new "Hyperdrive" with the Arceans, all contact with them was lost.</String>
+    <String> Janeiro 2178: 10 anos se passaram desde que o Império Arceano enviou à humanidade as instruções para construir um Stargate, convidando-os a se juntarem à comunidade galáctica maior.
+Mas a humanidade devolveu seu presente de uma forma surpreendente. Eles fizeram a engenharia reversa da tecnologia do Stargate e depois a levaram adiante. Combinando-a com seu próprio grande avanço, Cascading Fusion, eles foram capazes de criar um novo sistema de acionamento que permitiria a uma nave espacial viajar mais rápido que a luz em qualquer lugar da galáxia, sem um Stargate.
+Pouco depois que estes bem-intencionados engenheiros compartilharam este novo "Hyperdrive" com os Arceanos, todo o contato com eles se perdeu.</String>
   </StringTable>
  
   <StringTable>
     <Label>Haven_FACTION_TERRAN_StartupTraitsDescription</Label>
-    <String>Humanity has decided to explore the galaxy on its own. They have finished the first two of their colossal new Colony ships, and are ready to take their first steps out of their home system.</String>
+    <String>A humanidade decidiu explorar a galáxia por si mesma. Eles terminaram as duas primeiras de suas colossais novas naves Colônia, e estão prontos para dar seus primeiros passos fora de seu sistema doméstico.</String>
   </StringTable>
  
   <StringTable>
     <Label>Haven_FACTION_GUILD_Name</Label>
-    <String>Stellar Guild</String>
+    <String>Guilda Estelar</String>
   </StringTable>
  
   <StringTable>
     <Label>Haven_FACTION_GUILD_ShortName</Label>
-    <String>Stellar Guild</String>
+    <String>Guilda Estelar</String>
   </StringTable>
  
   <StringTable>
@@ -79,7 +79,7 @@ Shortly after these well-meaning engineers shared this new "Hyperdrive" with the
  
   <StringTable>
     <Label>Haven_FACTION_GUILD_StartupTraitsDescription</Label>
-    <String>Pirate forces are decentralized and brutal. They do not have the resources of most races, so are slow to build forces, but in time can become a powerful threat if left unchecked.</String>
+    <String>As forças piratas são descentralizadas e brutais. Eles não têm os recursos da maioria das raças, portanto são lentos para construir forças, mas com o tempo podem se tornar uma poderosa ameaça se deixadas sem controle.</String>
   </StringTable>
  
   <StringTable>
@@ -201,42 +201,42 @@ Cruel, but inventive, many of their victims have discovered that the Drengin are
  
   <StringTable>
     <Label>Haven_DLC_SPACEMONSTER_StartupTraitsDescription</Label>
-    <String>Pirate forces are decentralized and brutal. They do not have the resources of most races, so are slow to build forces, but in time can become a powerful threat if left unchecked.</String>
+    <String>As forças piratas são descentralizadas e brutais. Eles não têm os recursos da maioria das raças, portanto são lentos para construir forças, mas com o tempo podem se tornar uma poderosa ameaça se deixadas sem controle.</String>
   </StringTable>
  
   <StringTable>
     <Label>Spawned_SPACEMONSTER_Name</Label>
-    <String>Space Monsters</String>
+    <String>Monstros espaciais</String>
   </StringTable>
  
   <StringTable>
     <Label>Spawned_SPACEMONSTER_ShortName</Label>
-    <String>Space Monsters</String>
+    <String>Monstros espaciais</String>
   </StringTable>
  
   <StringTable>
     <Label>Spawned_SPACEMONSTER_LeaderName</Label>
-    <String>All</String>
+    <String>Todos</String>
   </StringTable>
  
   <StringTable>
     <Label>Spawned_SPACEMONSTER_Dec</Label>
-    <String>something</String>
+    <String>algo</String>
   </StringTable>
  
   <StringTable>
     <Label>Spawned_SPACEMONSTER_LeaderDec</Label>
-    <String>something</String>
+    <String>algo</String>
   </StringTable>
  
   <StringTable>
     <Label>Spawned_SPACEMONSTER_Callsign</Label>
-    <String>Space Monster</String>
+    <String>Monstro Espacial</String>
   </StringTable>
  
   <StringTable>
     <Label>Spawned_SPACEMONSTER_StartupTraitsDescription</Label>
-    <String>Pirate forces are decentralized and brutal. They do not have the resources of most races, so are slow to build forces, but in time can become a powerful threat if left unchecked.</String>
+    <String>As forças piratas são descentralizadas e brutais. Eles não têm os recursos da maioria das raças, portanto são lentos para construir forças, mas com o tempo podem se tornar uma poderosa ameaça se deixadas sem controle.</String>
   </StringTable>
  
   <StringTable>
@@ -256,12 +256,12 @@ Cruel, but inventive, many of their victims have discovered that the Drengin are
  
   <StringTable>
     <Label>Xendar_FACTION_TERRAN_Dec</Label>
-    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+    <String>Os Terrestres são os inventores do hiperdrive e a raça mais jovem no palco galáctico. Embora diplomatas comprometidos, os Terrestres têm uma linha militarista que apanhou muitos de surpresa.</String>
   </StringTable>
  
   <StringTable>
     <Label>Xendar_FACTION_TERRAN_LeaderDec</Label>
-    <String>The last great leader of the United Earth, and the father of the Terran Alliance.</String>
+    <String>O último grande líder da Terra Unida, e o pai da Aliança Terrestre.</String>
   </StringTable>
  
   <StringTable>
@@ -276,14 +276,14 @@ Cruel, but inventive, many of their victims have discovered that the Drengin are
  
   <StringTable>
     <Label>Xendar_FACTION_TERRAN_StartupDescription</Label>
-    <String>September 2214: Decades have passed since humanity founded its first colonies. Now these worlds have grown to be rivals of Earth itself. Together they have formed a new government, and an alliance that binds all humanity together: the Terran Alliance. 
-During this time they have encountered new races, including the mysterious, and all too human Altarian Republic, and the hostile Dominion of the Korx, but Earth and its core colonies have remained unthreatened, until now.
-All contact with Haven was lost. A lone scout has returned to human space, with news of the greatest loss of human life in history. Haven has been captured by an unknown race called the Xendar, and all the colonists killed.</String>
+    <String>Setembro 2214: Décadas se passaram desde que a humanidade fundou suas primeiras colônias. Agora esses mundos cresceram e se tornaram rivais da própria Terra. Juntos eles formaram um novo governo e uma aliança que une toda a humanidade: a Aliança Terrestre. 
+Durante este tempo, eles encontraram novas raças, incluindo a misteriosa e tão humana República Altariana, e o domínio hostil dos Korx, mas a Terra e suas colônias centrais permaneceram sem ameaças, até agora.
+Todo contato com Haven foi perdido. Um batedor solitário voltou ao espaço humano, com a notícia da maior perda de vidas humanas da história. Haven foi capturado por uma raça desconhecida chamada Xendar, e todos os colonos foram mortos.</String>
   </StringTable>
  
   <StringTable>
     <Label>Xendar_FACTION_TERRAN_StartupTraitsDescription</Label>
-    <String>Earth and its remaining colonies have vowed revenge and begun the construction of a powerful interstellar fleet. Their goal; to take back Haven, and eliminate the Xendar menace.</String>
+    <String>A Terra e suas colônias remanescentes juraram vingança e iniciaram a construção de uma poderosa frota interestelar. Seu objetivo: retomar Haven e eliminar a ameaça de Xendar.</String>
   </StringTable>
  
   <StringTable>
@@ -323,7 +323,7 @@ All contact with Haven was lost. A lone scout has returned to human space, with 
  
   <StringTable>
     <Label>Xendar_Xendar_Faction_StartupTraitsDescription</Label>
-    <String>The Xendar are a mysterious race, that we have not been able to communicate with. They attacked the planet haven without warning, They seem to be a valiant warrior race from the little that we have been able to observe.</String>
+    <String>Os Xendar são uma raça misteriosa, com a qual não temos sido capazes de nos comunicar. Eles atacaram o planeta haven sem aviso, parecem ser uma raça guerreira valente do pouco que temos sido capazes de observar.</String>
   </StringTable>
  
 </StringTableList>
