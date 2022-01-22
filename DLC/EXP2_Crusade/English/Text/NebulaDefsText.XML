@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Created with the Gal Civ 3 Editor -->
+  <!-- NebulaDefsText.XML -->
+
+
+  <StringTable>
+    <Label>NormalNebula_Name</Label>
+    <String>Nebula -75% moves</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>NormalStorm_Name</Label>
+    <String>
+      Dust Cloud
+      -100% Defense Systems
+    </String>
+  </StringTable>
+
+  <StringTable>
+    <Label>GasStorm_Name</Label>
+    <String>
+      Gas Cloud
+      -25% Tactical Movement
+      -50% Moves - Sensors
+    </String>
+  </StringTable>
+
+  <StringTable>
+    <Label>RadiationStorm_Name</Label>
+    <String>
+      Radiation Storm
+      -25% Hitpoints
+      -50% Moves - Sensors
+    </String>
+  </StringTable>
+
+</StringTableList>

@@ -1,0 +1,1744 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- IridiumTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>IridiumTechTree_Name</Label>
+    <String>Iridium Tech Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumTechTree_ShortDec</Label>
+    <String>Árvore tecnológica voltada para o comércio.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumTechTree_Dec</Label>
+    <String>Árvore tecnológica voltada para o comércio.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumColonizationTech_Name</Label>
+    <String>Expansão</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumColonizationTech_Dec</Label>
+    <String>O crescimento é o requisito mais fundamental tanto de uma empresa quanto de uma civilização. Não podemos nos permitir estagnar, limitando nossos negócios a um só planeta. A Corporação Iridium deve se expandir ou perecer. </String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumXenoIndustrializationTech_Name</Label>
+    <String>Investimento de capital</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumXenoIndustrializationTech_Dec</Label>
+    <String>Nosso império corporativo deve ser construído sobre uma base sólida. Devemos assegurar que nossos edifícios coloniais iniciais sejam tão capazes e duráveis quanto possível.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumIndustrialSpecialization1_Dec</Label>
+    <String>A racionalização e o aperfeiçoamento de algumas de nossas ineficientes técnicas de gestão pré-colonial devem ajudar a modernizar nosso setor industrial e resultar tanto no aumento da qualidade quanto da capacidade de fabricação.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumIndustrialSpecialization2_Dec</Label>
+    <String>Os recursos direcionados à nossa divisão R &amp; D quase sempre compensam em novas oportunidades de negócios lucrativos. Mas isso não é desculpa para pesquisar com desperdício, e com as auditorias certas podemos assegurar que a R &amp; D está gastando nosso capital com sensatez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumIndustrialSpecialization3_Dec</Label>
+    <String>A manutenção é um dreno inevitável, mas ainda assim angustiante em nosso resultado final. Qualquer coisa que possamos fazer para controlar os custos aqui irá beneficiar quase todos os aspectos de nosso negócio.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAdvancedConstruction_Name</Label>
+    <String>Investimento industrial</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAdvancedConstruction_Dec</Label>
+    <String>Qualquer vantagem que uma empresa tenha sobre outra em capacidade de produção, por menor que seja no início, só se amplia com o tempo. Devemos assegurar que a Iridium Corporation e sua rede de subempreiteiros estabeleçam a liderança inicial e, em última instância, permanente.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumConstructionOptimization1_Dec</Label>
+    <String>O aumento da capacidade é sempre bem-vindo, desde que haja demanda pelo que está sendo produzido. E considerando a velocidade que estamos expandindo, prevê-se que a demanda por nossos produtos seja muito forte por muito tempo.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumConstructionOptimization2_Dec</Label>
+    <String>Processos de fabricação mais eficientes reduzirão o desperdício de materiais e diminuirão os custos de fabricação. Um desenvolvimento sempre bem-vindo, desde que estas etapas não impeçam a capacidade de produção.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumConstructionOptimization3_Dec</Label>
+    <String>Em nossa pressa de fazer centros de fabricação, alguns de nossos projetos iniciais não eram tão manuteníveis quanto poderiam ter sido. Corrigir isso agora levará a uma redução significativa dos custos de manutenção ao longo da vida útil de nossas fábricas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumXenoManufacturingMethods_Dec</Label>
+    <String>Uma nova geração de equipamentos de fabricação ultra-precisos e de alto volume deve nos permitir expandir mais uma vez a capacidade de nosso setor de fabricação. </String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumManufacturingFocus1_Dec</Label>
+    <String>Ajustar nossas fábricas para começar a se especializar na produção militar permitirá que nossa divisão de segurança se equipe mais rapidamente, para lidar melhor com as várias ameaças de alto risco que esta galáxia pode nos lançar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumManufacturingFocus2_Dec</Label>
+    <String>O crescimento contínuo e implacável continua sendo o objetivo número um de nossa corporação, e melhorar a velocidade com que os equipamentos e estruturas civis podem ser construídos deve ajudar a aumentar substancialmente essa taxa de crescimento.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumManufacturingFocus3_Dec</Label>
+    <String>Qualquer coisa que pudermos fazer para tornar nossos equipamentos e estruturas mais baratos de construir será amplamente apreciada pela diretoria. Todas essas iniciativas de economia realmente se somam.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumIndustrialExpertise_Dec</Label>
+    <String>A tecnologia de produção de Iridium já é a inveja da galáxia, nossas mais novas fábricas capazes de forjar materiais a partir do nível atômico. Agora somos capazes de construir coisas em uma escala que poucos jamais imaginaram ser possível.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumIndustrialMastery1_Dec</Label>
+    <String>A postura agressiva tomada por nossos concorrentes tem sido tema de muita discussão na imprensa empresarial. Um impulso à nossa capacidade de produção militar garantirá que a divisão de segurança Iridium esteja equipada para enfrentar os desafios que este mercado apresenta.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumIndustrialMastery2_Dec</Label>
+    <String>Mesmo nesta fase avançada de nossos planos de expansão, ainda há espaço para melhorar nossa taxa de crescimento. O progresso não espera por ninguém, e se pudermos melhorar a velocidade com que construímos estruturas sociais e econômicas, todos os nossos negócios serão beneficiados.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPracticalFusion_Dec</Label>
+    <String>A venda de reatores de fusão em cascata para o mercado aberto resultará em certas preocupações de segurança que devem ser abordadas. Mas o impacto benéfico que esperamos que eles tenham em nosso setor de fabricação é grande demais para ignorar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumQuantumPower_Dec</Label>
+    <String>Usinas de energia que extraem energia do ponto zero quântico de um vácuo fornecerão uma fonte de energia quase ilimitada para nossos centros de fabricação. Há poucos problemas que não seremos capazes de produzir nossa saída de agora.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInstitutionalResearch_Name</Label>
+    <String>Pesquisa &amp; Desenvolvimento</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInstitutionalResearch_Dec</Label>
+    <String>À medida que nossos negócios se expandem para fora de nosso sistema doméstico, vamos sendo presenteados com oportunidades que não podemos prever. Uma divisão R &amp; D dedicada garantirá que tenhamos os produtos necessários para lucrar, não importa o que venha a nosso encontro.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumResearchOptimization1_Dec</Label>
+    <String>Ao renunciar a alguns dos requisitos de relatórios mais onerosos para nossa divisão de R &amp; D, e dando-lhes assistentes para lidar com o resto, devemos liberar mais do tempo de nossos pesquisadores para fazer pesquisas reais.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumResearchOptimization2_Dec</Label>
+    <String>Nossos gerentes de qualidade que trabalham em R &amp; D identificaram alguns processos de requisição que podemos agilizar, o que deve fazer com que o equipamento que nossos pesquisadores precisam seja mais barato para passar por eles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumResearchOptimization3_Dec</Label>
+    <String>Fazer com que os pesquisadores considerem os custos de manutenção a longo prazo, quando estão montando seus laboratórios, é quase impossível. Inserimos um novo processo de supervisão que deve garantir que tudo o que compramos seja primeiramente revisado para facilitar a manutenção.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumResearchCenters_Name</Label>
+    <String>Think Tanks</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumResearchCenters_Dec</Label>
+    <String>Os tanques de pesquisa devem se tornar muito mais do que simples instalações de pesquisa básica. Eles servirão como paraísos, lugares seguros para nossos mais talentosos pensadores trabalharem com pessoas cujas habilidades complementam seus próprios dons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumIntegratedResearch_Dec</Label>
+    <String>A fim de manter o ritmo dos avanços R &amp; D Espera-se que uma nova geração de instalações de pesquisa integradas e multi-disciplinares seja necessária. </String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumResearchMatrixTech_Dec</Label>
+    <String>Um centro de pesquisa do tamanho de uma cidade repleto das melhores mentes que nosso negócio pode produzir, deve ser capaz de gerar avanços a uma velocidade nunca vista antes. Às vezes a resposta é tão simples quanto atirar mais pessoas a um problema.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDeeperKnowledge_Dec</Label>
+    <String>Um novo tipo de metodologia de pesquisa, caracterizado por pequenas equipes de polimatos que perseguem incansavelmente os aspectos mais profundos do universo, está aparecendo algumas descobertas interessantes e muito lucrativas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumQuantumUnderstanding_Dec</Label>
+    <String>Nossas profundas equipes de pesquisa começaram a penetrar nos mistérios presentes no próprio tecido do espaço. Suas descobertas estão nos mostrando que uma nova maneira de fazer negócios pode estar ao virar da esquina.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBeyondMortality_Dec</Label>
+    <String>A ascensão levará a Iridium Corporation a uma nova realidade, permitindo que o ciclo de crescimento e expansão comece novamente.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumResearchCoordination_Name</Label>
+    <String>Compartilhamento de informações</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumResearchCoordination_Dec</Label>
+    <String>Somos mestres no processo e na coordenação, e o desafio de organizar esforços de pesquisa espalhados por vários mundos não é nada para nós. Nossos novos Centros de Coordenação de Pesquisa ajudarão a impulsionar os esforços de pesquisa em todos os lugares.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumNeroLinking_Dec</Label>
+    <String>A comunicação cérebro a cérebro representa uma oportunidade incrível para nossos esforços de pesquisa. O impacto ético desta tecnologia é, naturalmente, substancial e se esta tecnologia se revelar não lucrativa, servirá como uma excelente desculpa para matar o programa.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPlanetaryImprovement_Name</Label>
+    <String>Melhoria planetária</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPlanetaryImprovement_Dec</Label>
+    <String>Identificar e realizar o potencial de um recurso bruto é uma das habilidades mais cruciais em todos os negócios, e o desenvolvimento colonial não é diferente. Mas precisaremos das ferramentas corretas se esperamos ser capazes de fazê-lo de forma consistente.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPlanetarySpecialization1_Dec</Label>
+    <String>Sem alimentos suficientes, nossas taxas de crescimento colonial se elevarão rapidamente, prejudicando o potencial de longo prazo de nossa corporação. O aumento da produção de alimentos deve garantir que algo tão trivial como os alimentos não se torne o fator limitador de nosso negócio.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPlanetarySpecialization2_Dec</Label>
+    <String>Se estamos tentando maximizar o crescimento de nossos negócios, não sejamos tímidos quanto ao que será o requisito fundamental para isso. O aumento do crescimento populacional significará mais trabalhadores, mais consumidores e mais de tudo o mais.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPlanetarySpecialization3_Dec</Label>
+    <String>Não faz sentido ter uma força de trabalho mais elevada se eles vão trabalhar de forma ineficiente. Um programa de melhorias ambientais projetado para incentivar a produção garantirá que a produtividade do local de trabalho seja tão alta quanto possível.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumXenoAgriculturalAdaptation_Dec</Label>
+    <String>Os alimentos são uma das nossas commodities mais críticas, e cada vez mais valiosas, considerando os desafios de produzí-los em ambientes alienígenas. As fazendas melhoradas devem ajudar a garantir que nossas colônias sejam tão bem alimentadas quanto possível.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAgriculturalOptimization1_Dec</Label>
+    <String>As fazendas ocupam um espaço valioso, que poderia ser utilizado para outras estruturas mais úteis. Devemos preferencialmente adjudicar contratos de fornecimento de alimentos a fornecedores que possam gerar a maior quantidade possível de alimentos por unidade de área.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAgriculturalOptimization2_Dec</Label>
+    <String>Exigir que nossos fornecedores de alimentos comecem a utilizar equipamentos padronizados e estruturas pré-fabricadas deve garantir que novas fazendas sejam construídas com a melhor relação custo-benefício possível.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAgriculturalOptimization3_Dec</Label>
+    <String>Gerar fertilizantes e nutrientes em um planeta estrangeiro é uma tarefa particularmente desafiadora, mas se pudermos forçar nossos fornecedores a fazê-lo por nós, conseguiremos reduzir significativamente os custos associados à importação de fertilizantes de fora do mundo.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumIntensiveFarming_Name</Label>
+    <String>Culturas de Alto Rendimento</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumIntensiveFarming_Dec</Label>
+    <String>Se esperamos maximizar nossos PopCap/Razões de terra - e nossos gerentes de colonização nos asseguram que o fazemos definitivamente - então precisaremos desenvolver as fazendas mais eficientes e de alto rendimento possível.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumFarmingFocus1_Dec</Label>
+    <String>Os campos inteligentes de dispersão de fertilização, embutidos diretamente no solo, são capazes de monitorar as taxas de saúde e crescimento das culturas e direcionar nutrientes para elas no ritmo ideal, aumentando grandemente o rendimento das culturas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumFarmingFocus2_Dec</Label>
+    <String>Nosso fornecedor já automatizou grande parte do trabalho em nossas fazendas, mas ao mudar de máquinas de uso único para dispositivos adaptáveis e multiuso, eles devem ser capazes de reduzir ainda mais os custos de partida.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumFarmingFocus3_Dec</Label>
+    <String>Ao limitar nossa seleção de culturas às mais simples e menos intensivas em mão-de-obra, nosso fornecedor tem sido capaz de reduzir os custos de repasse operacional para todas as nossas fazendas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumLosslessFarming_Dec</Label>
+    <String>Assim que começamos a tratar o fertilizante com o mesmo escrutínio com que tratamos nosso outro capital, pudemos começar a construir fazendas quase perfeitamente eficientes, cada nutriente rastreado individualmente em um nível molecular.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAgriculturalMastery1_Dec</Label>
+    <String>Nossos fornecedores de alimentos nos asseguram que não há espaço para melhorias, que atingimos os limites da ciência agrícola, nossas colheitas agora geram tanto alimento quanto a química permite. O que nos parece que está na hora de encontrar novos fornecedores.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAgriculturalMastery2_Dec</Label>
+    <String>Ao fazer com que nossas culturas aumentem a fertilidade, nosso fornecedor de alimentos encontrou uma maneira de transformar a abundância de alimentos de nossa empresa em uma abundância de novos trabalhadores. Quem disse que a agricultura não poderia ser sexy?</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumFoodDistributionTech_Dec</Label>
+    <String>Estruturas dedicadas de distribuição de alimentos garantirão que os alimentos não mais se estraguem no armazenamento ou trânsito, o que acabará por aumentar a produção de alimentos de todo um planeta.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumXenoIrrigation_Dec</Label>
+    <String>A centralização de nossos esforços de irrigação nos ajudará a compartilhar melhor e fazer um uso mais eficiente do investimento significativo que estes sistemas representam. Como resultado, a produção de alimentos em todo um planeta deve ser aumentada.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBiomassResequencing_Dec</Label>
+    <String>O seqüenciamento direto da biomassa em produtos alimentícios é possível há muito tempo, mas nunca resultou em um produto final muito palatável. Mas como fonte suplementar de fertilizante, é bem adequada para aumentar a eficiência de todas as fazendas em um planeta.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumXenoBiology_Dec</Label>
+    <String>Temos que garantir que nossos trabalhadores sejam capazes de sobreviver em mundos alienígenas. Por razões morais, morais, e sim, é claro, por razões de produtividade.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBioReplication_Dec</Label>
+    <String>A reprodução é muito crítica para o sucesso de nossa empresa para deixar nas mãos de nossos trabalhadores, e agora que finalmente temos a tecnologia para fazer algo a respeito, esperamos que nossas curvas de crescimento populacional acelerem drasticamente.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumEnvironmentalEngineering_Name</Label>
+    <String>Gestão de propriedades</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumEnvironmentalEngineering_Dec</Label>
+    <String>O terreno de um planeta pode ser administrado como qualquer outro recurso e, quando feito corretamente, leva a instalações mais suaves e mais eficientes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumExtremeWorldColonization_Dec</Label>
+    <String>Não podemos ignorar a oportunidade que os mundos extremos nos apresentam. A terra vazia para construir e crescer é incrivelmente valiosa, mesmo que a vida possa ser dura para os trabalhadores ali estacionados.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumColonizationFocus1_Dec</Label>
+    <String>Melhores estruturas flutuantes e submersíveis devem ajudar a aumentar o potencial de produção dos planetas aquáticos, tornando-os quase tão produtivos quanto em qualquer outro lugar em nossos negócios.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumColonizationFocus2_Dec</Label>
+    <String>Foram necessárias algumas iterações e alguns dedos perdidos para finalmente aperfeiçoar nossas práticas de construção do mundo congelado. Mas agora que o fizemos, esperamos que a produção deles aumente substancialmente.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumColonizationFocus3_Dec</Label>
+    <String>Graças a alguns produtos de reciclagem de água que atingiram recentemente o mercado, a capacidade de produção em mundos áridos deve agora ser grandemente aumentada.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAtmosphericCleansing_Dec</Label>
+    <String>Os planetas radioativos e tóxicos representam um desafio para nossas atividades comerciais, mas não um desafio intransponível. E proporcionam uma via de crescimento que simplesmente não podemos mais ignorar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBiospherePerfection1_Dec</Label>
+    <String>Nossos trabalhadores e gerentes em mundos radioativos não terão mais que sofrer através das mutações aleatórias que atormentaram suas carreiras. Além do óbvio impulso à moral, isto deve tornar todos mais produtivos também.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBiospherePerfection2_Dec</Label>
+    <String>Todos os funcionários e subcontratados ainda são fortemente aconselhados a não sair, mas dentro dos limites de nossas estruturas coloniais, a vida em mundos tóxicos é agora muito mais agradável e produtiva.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumTerraformingTech_Dec</Label>
+    <String>Tornar a terra em si mais produtiva é um objetivo admirável e nos permitirá começar a utilizar alguns dos terrenos mais marginais dos planetas que estabelecemos nosso negócio.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHabitatImprovement_Dec</Label>
+    <String>Ecossistemas naturais podem ser bonitos, mas muitas vezes são terrivelmente inutilizáveis para fins comerciais modernos. Nossos últimos equipamentos de terraplanagem devem ajudar a corrigir isso, o que, de certa forma, os tornará ainda mais bonitos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumSoilReclamation_Dec</Label>
+    <String>Agora podemos administrar as massas terrestres de um planeta com muito mais eficiência do que a própria natureza jamais poderia. Praticamente qualquer terreno de um planeta é agora potencialmente utilizável por nós.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumEnvironmentalResequencing_Dec</Label>
+    <String>O Resequenciamento Ambiental aumentará as terras utilizáveis em cada planeta de nossa corporação, aumentando drasticamente o potencial de produção ao custo de nada mais que alguns trilhões de plantas improdutivas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumEngineeringTech_Dec</Label>
+    <String>Esta nova invenção do hiperdrive é a própria definição de uma tecnologia disruptiva. O povo Iridium nunca possuiu algo com um potencial inerente tão ilimitado. Ou arriscar. </String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarTravel_Dec</Label>
+    <String>Devemos implementar em nossas frotas espaciais as mesmas melhores práticas de gestão que temos em todos os outros lugares. Se desejamos que nosso negócio seja bem sucedido, melhorias em todos os nossos sistemas de espaço-arranjo devem ser encontradas imediatamente.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarSpecialization1_Dec</Label>
+    <String>Hiperdrives mais rápidos irão acelerar nossos navios e a velocidade que nossos negócios são capazes de expandir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarSpecialization3_Dec</Label>
+    <String>Melhores sistemas de recirculação de suporte de vida não apenas garantirão a segurança de nossas valiosas tripulações, mas também ampliarão o alcance de nossos navios, e assim ampliarão a lista de oportunidades de crescimento potencial.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumIonDriveTech_Dec</Label>
+    <String>Os Ion Drives usam campos magnéticos para capturar íons durante o vôo em hiperdrive, que são então usados como massa reagente adicional, tornando nossas naves significativamente mais rápidas e melhorando nossas pontuações de alcançabilidade de metas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumIonOptimization1_Dec</Label>
+    <String>An adjusted magnetic envelope should improve the ion capture technology of our Ion Drives, Um envelope magnético ajustado deve melhorar a tecnologia de captura de íons de nossos Ion Drives, permitindo uma maior captura de massa e, conseqüentemente, maiores velocidades.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumIonOptimization2_Dec</Label>
+    <String>Muitos de nossos gerentes de motores, buscando maneiras de aumentar o ROI de seus grupos, identificaram várias medidas de economia de custos ao instalar novos ions drives. Devemos implementar estas práticas em toda a frota o mais rápido possível.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumIonOptimization3_Dec</Label>
+    <String>A utilização de um novo tipo de bobina de geração de campo que entrou recentemente no mercado ajudará a tornar nossos hiperdrives mais eficientes em massa. Uma busca digna, visto que isto deixará mais espaço em nossos navios para equipamentos de geração de receita.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumWarpFieldTheory_Dec</Label>
+    <String>A R &amp; D encontrou uma maneira de multiplicar as propriedades de dobra de espaço dos hiper-campos, levando ao desenvolvimento dos chamados "Campos de Warp". Nossas naves serão agora mais rápidas e mais produtivas do que nunca.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumWarpFieldFocus1_Dec</Label>
+    <String>As experiências de R &amp; D com diferentes arranjos de hiper-campos empilhados levaram a uma nova configuração de Warp Drive que é marginalmente mais eficaz do que as versões anteriores.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumWarpFieldFocus2_Dec</Label>
+    <String>Os cortes de orçamento podem vir a qualquer momento e, como nossos sistemas de acionamento se tornam mais caros, eles serão sempre um alvo para a redução de custos. Vamos instruir a R &amp; D para chegar à frente da curva e encontrar algumas medidas de redução de custos antes que elas se tornem necessárias.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumWarpFieldFocus3_Dec</Label>
+    <String>R &amp; D encontrou uma maneira de modificar um produto fora da prateleira para resultar em uma nova forma, mais compacta, de gerador de hiper-campo. Alcançando os mesmos resultados dos modelos anteriores, mais pesados, isto deve tornar todos os nossos drives um pouco mais leves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHyperwarpWaves_Dec</Label>
+    <String>Um acionador Hyperwarp permite que nossas naves viajem pelo espaço que foi efetivamente pré-comprimido, movendo-se a velocidades nunca antes vistas. Isto dará a cada linha de nosso negócio uma vantagem imensurável em seu trabalho.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHyperwarpMastery1_Dec</Label>
+    <String>Nossos motores são agora incrivelmente econômicos de construir, a dedicação de nossos engenheiros ao seu ofício servindo como um exemplo brilhante para o resto de nossa empresa.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHyperwarpMastery2_Dec</Label>
+    <String>Poucos pensaram ser possível, mas a R &amp; D encontrou mais algumas maneiras de miniaturizar nossos motores. Nosso incansável esforço de melhoria zomba até mesmo das leis da física.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumStellarFoldingTech_Dec</Label>
+    <String>As unidades dobráveis Stellar tornarão nossas naves mais rápidas do que nunca, capazes de levar a Iridium Corporation aos mercados mais distantes da galáxia.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHyperfieldProjection_Dec</Label>
+    <String>Os módulos de aumento de velocidade permitirão que uma frota inteira seja acelerada por um navio devidamente equipado. As oportunidades que tal sistema permite serão de grande utilidade para nossos gerentes de frota.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumGravityFieldManipulation_Dec</Label>
+    <String>R &amp; D's recentes avanços na pesquisa de gravitons nos permitirão gerar campos de gravidade artificiais em grande escala, aumentando a capacidade de manobra de nossas embarcações quando confrontadas com operações de segurança de alto risco.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHyperfieldDisruption_Dec</Label>
+    <String>Agora podemos utilizar a tecnologia hyperfield em nossos módulos de aumento de velocidade da frota, aumentando sua eficácia. Além disso, um novo tipo de produto relacionado nos permitirá limitar a velocidade dos navios que representam um risco de segurança.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumStellarFieldProjection_Dec</Label>
+    <String>Os projetores de campo Stellar permitirão que nossos melhores navios aumentem a velocidade de todos os outros que viajam em sua frota. Esta incrível tecnologia dará aos nossos gerentes de frota um enorme grau de flexibilidade ao compor as frotas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarSurvey_Dec</Label>
+    <String>Nossos gerentes de navios têm que ter as informações corretas para operar seus navios de forma eficaz, e isso começa com o conhecimento do que está ao seu redor. Devemos dirigir a R &amp; D para começar a construir melhores sistemas de sensores e vistorias.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumSensorOptimization1_Dec</Label>
+    <String>Melhorar o poder de processamento de nossos sistemas de sensores lhes permitirá peneirar as informações que lhes são devolvidas de forma mais eficaz, melhorando seu desempenho geral.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumSensorOptimization2_Dec</Label>
+    <String>Com nossa rede de fornecedores a aguardar ansiosamente, a terceirização da produção de alguns de nossos componentes de sensores deverá resultar em economia de custos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumSensorOptimization3_Dec</Label>
+    <String>As gerações anteriores de nossos sensores eram desnecessariamente grosseiros, dificilmente se adequando a algo que ostentasse um selo oficial do povo Iridium. Nossos últimos modelos utilizam os componentes mais recentes e mais leves, e são muito mais eficientes em termos de peso.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumEnergyFieldSensors_Dec</Label>
+    <String>Os campos emitidos pelos hiperdrives são detectáveis a distâncias muito além dos cones de luz normais de seus navios. E a última geração de sensores a entrar no mercado promete ser capaz de detectar esses campos a distâncias ainda maiores do que antes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumEnergyFieldFocus1_Dec</Label>
+    <String>Ao instalar um novo modelo de blindagem em torno de nosso equipamento de sensores, podemos reduzir a interferência gerada por nossos próprios motores, permitindo que nossos sensores operem com um pouco mais de eficácia.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumEnergyFieldFocus2_Dec</Label>
+    <String>Ajustando o layout de nossos compartimentos de sensores, padronizando-os com sistemas de sensores de última geração no mercado, devemos ser capazes de reduzir muito os custos de instalação para todos os novos pacotes de sensores.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumEnergyFieldFocus3_Dec</Label>
+    <String>A troca de nossas matrizes de sensores de campo com modelos de maior densidade deve levar a sensores mais compactos. Por mais importantes que sejam, os sensores raramente são o equipamento mais crítico de um navio, e a economia de peso encontrada aqui será bem utilizada em outros lugares.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumSubspaceSensors_Dec</Label>
+    <String>R &amp; D tinha desenvolvido recentemente um novo tipo de sensor capaz de detectar naves através de uma região de 12 dimensões do espaço que o marketing quer chamar de "Subespaço". O que quer que chamemos, nossa próxima geração de sensores será extremamente eficaz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumSensorMastery1_Dec</Label>
+    <String>Nossos sistemas de sensores são agora tão complicados que somente nossos auditores internos mais talentosos são capazes de rever seu processo de fabricação. Mas agora que eles fizeram isso, encontramos mais algumas economias de custo a serem tiradas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumSensorMastery2_Dec</Label>
+    <String>Durante um evento de formação de equipe, um de nossos gerentes de sensores apontou que algumas partes de nossos sensores não têm mais que existir tecnicamente neste universo. Ao transferi-las para um outro plano, podemos reduzir o peso de toda a nossa matriz de sensores.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumTargetingAssistTech_Dec</Label>
+    <String>Em situações de segurança de alto risco, sistemas de mira tática melhorados e sistemas que dissuadam os sensores inimigos darão a nossas forças de segurança uma importante vantagem competitiva. </String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumTargetingSupport_Dec</Label>
+    <String>Nossos sensores táticos e módulos evasivos serão agora capazes de suportar uma frota inteira, dando aos nossos gerentes de frota um importante grau de segurança ao gerenciar situações de alto risco de segurança.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumXenoArcheology_Dec</Label>
+    <String>Um grupo de alienígenas conhecidos como os Precursores uma vez chamou este espaço de lar. Suas relíquias oferecem dicas da incrível tecnologia que tinham, e nós estaríamos prestando um mau serviço ao nosso negócio para não tentar capitalizar em cada uma dessas descobertas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPrecursorStudies_Dec</Label>
+    <String>Nossos primeiros estudos das relíquias do Precursor revelaram as diretrizes básicas com as quais devemos enquadrar nossos esforços de pesquisa. Todos os futuros esforços de pesquisa do Precursor devem se beneficiar muito deste trabalho.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPrecursorRelicFocus1_Dec</Label>
+    <String>Ao transferir nossos melhores pesquisadores para nosso departamento de estudos de Precursores, esperamos aumentar a produtividade desse departamento e o ritmo de suas pesquisas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPrecursorRelicFocus2_Dec</Label>
+    <String>Nosso pessoal parece incrivelmente entusiasmado com a idéia dos Precursores, e especulou muito sobre a natureza de sua civilização e mercados. Com algum esforço, poderíamos ajudar a aumentar este impacto que as novas relíquias têm sobre nossa cultura.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPrecursorRelicFocus3_Dec</Label>
+    <String>Qualquer coisa que tenha a ver com os Precursores está se mostrando incrivelmente lucrativo nos mercados, inspirando rapidamente desenhos e motivos de imitação. Com o planejamento correto do produto, devemos ser capazes de capitalizar isso de forma mais completa.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPrecursorExploitation_Dec</Label>
+    <String>Nosso departamento de Estudos de Precursores requer equipamentos únicos e caros para realizar seu trabalho. Mas com ele, eles prevêem que logo poderão começar a recriar a tecnologia Precursor. O marketing já está salivando no prospecto.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPrecursorEngineering_Dec</Label>
+    <String>Fabricar tecnologia do tipo Precursor exigirá equipamento especializado e medidas de segurança maciçamente aumentadas para proteger nossos segredos comerciais. Mas o apetite do mercado por este equipamento certamente fará com que todos os custos valham a pena.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPrecursorUnderstanding_Dec</Label>
+    <String>Agora somos capazes de construir equipamentos quase tão bem quanto os próprios Precursores, e estamos tão perto de compreendê-los e seus mercados como nunca estivemos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumLifeSupport_Name</Label>
+    <String>Ampliação de alcance</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumLifeSupport_Dec</Label>
+    <String>O suporte de vida é o fator limitante que restringe as faixas efetivas de nossos navios. E, dados os rigorosos requisitos exigidos pelos comitês de saúde no local de trabalho, algo que não podemos escamotear. Um suporte de vida melhorado será necessário para garantir nossa taxa de crescimento.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumLifeSupportOptimization1_Name</Label>
+    <String>Alcance melhorado</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumLifeSupportOptimization1_Dec</Label>
+    <String>Outro fator a considerar ao melhorar o suporte de vida: as despesas que vamos para treinar as tripulações de nossos navios. A melhoria de seus sistemas de suporte de vida não é apenas ética; ela também protege nosso investimento.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumLifeSupportOptimization2_Dec</Label>
+    <String>Não há desculpa para gastar de forma esbanjadora, não importa o ramo de atividade. Mesmo algo tão vital como o suporte de vida precisa ser construído da maneira mais econômica possível.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumLifeSupportOptimization3_Dec</Label>
+    <String>A redução do peso de nossos sistemas de suporte de vida deixará mais espaço para equipamentos que realmente ganham receita.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumSupportFieldGeneration_Name</Label>
+    <String>Extensão de mercado</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumSupportFieldGeneration_Dec</Label>
+    <String>O vencedor de nosso mais recente contrato de Projeto de Sistemas de Suporte de Vida/Sistema de Suporte de Vida baseado em campo de força que utiliza campos para transportar nutrientes para a tripulação. Esta solução inovadora deve ajudar a ampliar ainda mais o alcance de nossos navios.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumSupportFieldFocus1_Dec</Label>
+    <String>Uma versão ainda mais densa de lodo, aerada para aumentar o volume entregue à tripulação, permite que nossos navios viajem mais longe, ao mesmo tempo em que minimiza alguns dos problemas com os quais temos lidado.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumSupportFieldFocus2_Dec</Label>
+    <String>Junto com a limpeza dos problemas que tivemos com os globos flutuantes de lodo nutriente, R &amp; D encontrou uma série de maneiras de fabricar nossos sistemas de suporte de vida baseados em campo de forma mais econômica também.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumSupportFieldFocus3_Dec</Label>
+    <String>Uma estrela em ascensão em nosso departamento de logística observou que poderíamos minimizar nossas exigências de suporte de vida em massa, contratando preferencialmente tripulantes menores. Nossas tripulações agora encolhem a cada dia.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPromethionSupportSystems_Dec</Label>
+    <String>Um Sistema de Suporte Promethion melhora nossos sistemas existentes, inserindo nutrientes e oxigênio diretamente no organismo que está sendo sustentado. Isto reduz drasticamente o desperdício, embora à custa de uma certa redução do moral no local de trabalho.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumLifeSupportMastery1_Dec</Label>
+    <String>Reduzir o custo de nossos sistemas de suporte de vida enquanto mantemos o moral no local de trabalho está se mostrando um desafio complicado. Descobrimos que a inclusão de alguns estimulantes leves nos nutrientes ajuda um pouco.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumLifeSupportMastery2_Dec</Label>
+    <String>A incorporação de pequenos emissores de campo Promethion nos próprios nutrientes nos poupa o peso do pesado equipamento fixo. Os emissores usados são coletados no fluxo de resíduos e limpos para reutilização, embora nós meio que glossámos sobre essa parte do folheto.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumLosslessSupportSystems_Dec</Label>
+    <String>A melhoria final de nossos sistemas de suporte de vida os tornou quase perfeitamente eficientes, e para deleite de nossas tripulações, muito menos humilhantes de usar. Nenhuma outra melhoria parece ser necessária, ou mesmo possível.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumSupportFieldMastery_Name</Label>
+    <String>Comboios de longa distância</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumSupportFieldMastery_Dec</Label>
+    <String>Os blocos de nutrientes padronizados permitirão que as responsabilidades de suporte de vida sejam descarregadas para outros navios de uma frota, ou mesmo complementadas por um porto estelar devidamente equipado, permitindo composições de frota muito mais flexíveis.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumExplorationExtention_Dec</Label>
+    <String>A tecnologia Promethion tornará nossas embarcações de apoio à frota ainda mais capazes, como o fará para nossos módulos de apoio à base estelar. A flexibilidade que isto confere não pode ser exagerada; nossos gerentes de frota serão capazes de construir frotas mais úteis do que nunca.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumOrbitalManufacturing_Dec</Label>
+    <String>Os ambientes orbitais apresentam certas vantagens e desafios únicos para nossas divisões de construção. O potencial para a construção de estruturas maciças é o principal atrativo, mas haverá muito trabalho para chegar lá.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumOrbitalSpecialization1_Dec</Label>
+    <String>O maior problema com a construção orbital é a incrível necessidade de treinamento para os trabalhadores. Qualquer coisa que possamos fazer para melhorar ou agilizar esse processo deve resultar em uma construção mais rápida.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumOrbitalSpecialization3_Dec</Label>
+    <String>As órbitas são muito mais complicadas do que a maioria dos leigos entende, e adaptar nossas práticas logísticas para acomodar suas peculiaridades tem se mostrado difícil. Mas se o manejarmos, nossa capacidade de apoiar nossas frotas deverá melhorar significativamente.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumOrbitalSpecialization2_Dec</Label>
+    <String>Quanto mais equipamentos pudermos carregar nos cascos de nossos navios, mais receitas eles serão capazes de gerar. Ou, para nossas forças de segurança, quanto mais equipamento de proteção de receita eles forem capazes de carregar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumZeroGravityConstruction_Dec</Label>
+    <String>Uma nova rodada de concursos públicos nos encontrou um conjunto de empreiteiros com o equipamento e pessoal para ampliar nossa construção orbital, abrindo a porta para uma nova classe de embarcações.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumZeroGravityOptimization1_Dec</Label>
+    <String>Exigir que nossos empreiteiros minimizem o uso de materiais de reposição durante a construção deve resultar em nossos cascos um pouco mais resistentes, o que será útil em qualquer situação de segurança de alto risco.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumZeroGravityOptimization3_Dec</Label>
+    <String>Forçar nossos empreiteiros a melhorar o planejamento de seus canteiros de obras baseado no espaço garantirá que eles tenham os materiais de que precisam nos locais onde precisam antes da construção, minimizando atrasos e baixando os custos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumZeroGravityOptimization2_Dec</Label>
+    <String>Nossos empreiteiros encontraram uma forma inteligente de embutir sistemas de navios terciários em elementos estruturais ocos, economizando espaço que pode ser usado para gerar receita ou equipamento de proteção.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumLargeScaleConstruction_Dec</Label>
+    <String>Vários empreiteiros se apresentaram prometendo a capacidade de construir embarcações ainda maiores. O excesso e a falta de entrega é um problema com esses caras, portanto, teremos que garantir cláusulas fortes de desempenho em seus contratos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumOrbitalConstructionFocus1_Dec</Label>
+    <String>Nossos cascos serão mais resistentes se puderem deformar-se sob estresse de forma previsível, e nossos últimos esforços para construir zonas amassadas neles deverão resultar em cascos significativamente mais resistentes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumOrbitalConstructionFocus3_Dec</Label>
+    <String>Uma nova variedade de drones de construção é capaz de executar sem supervisão por longos períodos, permitindo a construção 24 horas por dia com tripulações significativamente reduzidas. Isto economizará tanto tempo quanto custos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumOrbitalConstructionFocus2_Dec</Label>
+    <String>Uma nave com um interior bem projetado pode proporcionar mais espaço utilizável do que uma nave do mesmo tamanho. Qualquer coisa que possamos fazer para aumentar a flexibilidade e a capacidade de embalagem de um navio acabará resultando em navios mais úteis.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMassiveScaleConstruction_Dec</Label>
+    <String>Nossas naves são agora as maiores que a galáxia já viu, um poderoso símbolo de nossa força de mercado. Com estes gigantes em nossas frotas, o negócio Iridium nunca esteve tão seguro.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHullMastery2_Dec</Label>
+    <String>A construção de navios na escala que fazemos agora pode ser horrivelmente cara. Mas nessa escala, novas eficiências são fáceis de encontrar, e rapidamente se ampliam em economias significativas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHullMastery1_Dec</Label>
+    <String>O trabalho experimental com dimensões de bolso nos permite armazenar equipamentos necessários mas raramente usados em um lugar que tecnicamente não existe, economizando mais espaço para os equipamentos que precisamos existir o tempo todo.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHullStrengthening_Dec</Label>
+    <String>O fortalecimento dos campos embutidos na estrutura de nossas embarcações os tornará mais resilientes, protegendo assim o investimento significativo que essas embarcações representam. Além disso, as tripulações estarão mais seguras.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHullRepairSystems_Dec</Label>
+    <String>Nossa última iteração de reforço da tecnologia de campo nos permitirá agora reparar parcialmente os cascos danificados pela batalha em situações em que o tempo o permita.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumSelfHealingHulls_Dec</Label>
+    <String>Sistemas de reparo compostos de pequenos autômatos menores do que os olhos podem ver serão capazes de reparar nossos navios e bases estelares durante situações de combate, oferecendo benefícios óbvios para nosso departamento de segurança.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumCarrierTech_Dec</Label>
+    <String>Em situações de segurança, a força avassaladora muitas vezes leva a menos perdas sofridas. Os combatentes de segurança com base em porta-aviões nos permitirão trazer muitas armas para suportar ameaças de alto risco, superando sua capacidade de nos atacar efetivamente.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHighCapacityCarriers_Dec</Label>
+    <String>Porta-aviões de alta capacidade que utilizam a última geração de caças compactos que chegam ao mercado permitirão que nossas forças de segurança tenham mais capacidade de proteção de receita do que nunca.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarLogistics_Dec</Label>
+    <String>A gerência média ganha má reputação, mas são esses homens e mulheres que fazem o trabalho duro de manter nossas frotas abastecidas com combustível, munições e pessoas necessárias para fazer seu trabalho. A melhoria da capacidade logística beneficia toda a nossa empresa.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumLogisticalOptimization1_Dec</Label>
+    <String>As viagens relativistas causaram estragos com nossos sistemas de manutenção de registros, mas agora que encontramos maneiras de acomodar isso, todas as nossas métricas internas de eficiência operacional estão muito acima. Como resultado, devemos ver um melhor suporte logístico da frota.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumLogisticalOptimization2_Dec</Label>
+    <String>Operações complicadas como a mineração de asteróides são uma mina de ouro figurativa para nossos gerentes de qualidade, o mar de atividades complexas um lugar perfeito para caçar para melhorar a eficiência. Seu trabalho deve levar a um aumento da produção de mineração.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumLogisticalOptimization3_Dec</Label>
+    <String>Os custos para manter nossos estaleiros navais é um dos aspectos mais problemáticos do crescimento de nossos negócios nesta escala. A redução de seus custos de manutenção deve ajudar a aumentar substancialmente nossa receita líquida.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumFleetLogisticsTech_Dec</Label>
+    <String>Para nossa consternação, descobrimos que nossas operações logísticas não eram tão escaláveis como tínhamos concebido originalmente. Foi necessária muita revisão dos processos internos, além de deixar algumas pessoas irem embora, mas agora devemos finalmente ser capazes de suportar frotas maiores.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDeepSpaceLogistics_Dec</Label>
+    <String>À medida que nossos negócios crescem cada vez mais, a complexidade de nossas operações logísticas aumenta exponencialmente. Uma nova geração de drones de abastecimento e caches de abastecimento camuflados será necessária para manter todos os cantos de nosso negócio bem abastecidos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumGalacticLogistics_Dec</Label>
+    <String>Dominamos a logística em massa como nenhuma outra empresa, nossa capacidade de entregar suprimentos onde eles são necessários quando são necessários a inveja de todos os nossos concorrentes. Isto é realmente emocionante e todos nós podemos ter muito orgulho disso.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarMining_Name</Label>
+    <String>Aquisição de recursos</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarMining_Dec</Label>
+    <String>A extração de recursos é a base sobre a qual nosso negócio está baseado. Nunca devemos descansar em nossos esforços para melhorar a velocidade e a eficiência com que extraímos asteróides.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHighEfficiencyMining_Dec</Label>
+    <String>O incansável escrutínio que fizemos em nossas operações de mineração resultou em uma série de avanços, resultando em minas de alta eficiência capazes de produzir mais recursos do que antes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumResourceExtraction_Dec</Label>
+    <String>Os drones de extração subterrâneos nos permitirão quebrar asteróides de dentro para fora, acelerando drasticamente nossos esforços de coleta de recursos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumLosslessMining_Dec</Label>
+    <String>As sondas de extração de recursos miniaturizados nos permitirão extrair recursos sem nenhuma perda. Além disso, estes novos drones são inteligentes o suficiente para procurar e extrair os recursos mais raros.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumWarfareTech_Dec</Label>
+    <String>Embora a Corporação Iridium possa ver o potencial de lucro de uma paz duradoura, não podemos assumir que o resto da galáxia o fará. Devemos começar a montar uma força de segurança para proteger nossos investimentos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumWeaponsSystemsTech_Dec</Label>
+    <String>Mesmo uma força de segurança puramente defensiva terá necessidade de armas. Iniciamos o desenvolvimento de sistemas de armas que devemos começar imediatamente a avaliar para suas aplicações atuais e futuras.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBeamWeapons_Dec</Label>
+    <String>Somente pelo poder de intimidação, há poucas armas mais eficazes do que as armas de feixe. Ideais como dissuasoras, elas também têm um enorme potencial destrutivo se nossas forças de segurança finalmente precisarem delas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBeamWeaponOptimization1_Dec</Label>
+    <String>Nossos gerentes de compras encontraram um fornecedor que pode fornecer um novo tipo de cristal de foco ultra transparente, que deve ajudar a melhorar a resolução e o potencial de danos de nossas armas de feixe.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBeamWeaponOptimization2_Dec</Label>
+    <String>Agora que estamos comprando em volume, os preços começam a cair para os equipamentos de armazenamento e transmissão de energia dos quais nossas armas de feixe dependem.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBeamWeaponOptimization3_Dec</Label>
+    <String>Tornar nossas armas de feixe mais eficientes permitirá que nossas forças de segurança carreguem mais delas, ou mesmo que nossos navios geradores de receita carreguem algumas, proporcionando-lhes um modesto potencial de segurança.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMatterDisruption_Dec</Label>
+    <String>R &amp; D encontrou uma partícula capaz de interromper a forte força nuclear, que uma vez armada, resultará em uma arma de feixe de potencial destrutivo inigualável. Armadas com isto, nossas forças de segurança estarão mais seguras do que nunca.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHighEnergyFocus1_Dec</Label>
+    <String>As gerações anteriores de cristais de foco eram incapazes de lidar com as quantidades de energia que nossas armas requerem sem fraturar. Um ajuste ao processo de crescimento deveria resultar em cristais mais resistentes e, portanto, em armas mais poderosas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHighEnergyFocus2_Dec</Label>
+    <String>Grande parte do equipamento usado em nossas armas de feixe foi super-especificado, construído com tolerâncias desnecessariamente altas a um custo muito alto. Revendo adequadamente nossas normas de aquisição, esperamos reduzir os custos de fabricação de todas as nossas armas de feixe.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHighEnergyFocus3_Dec</Label>
+    <String>Ao realocar os sistemas de refrigeração de nossas armas de feixe para onde são mais necessárias, podemos reduzir o excesso de encanamento para o qual estas armas são notórias. Nossas armas de feixe devem agora ser mais leves do que nunca.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPlasmaProjection_Dec</Label>
+    <String>Fomos ao mercado para nossa próxima geração de arma de feixe, o vencedor da RFP propondo uma nova forma de arma de plasma colimada que promete ser capaz de gerar muito mais poder destrutivo do que os sistemas anteriores.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBeamWeaponMastery1_Dec</Label>
+    <String>Levou um pouco de tempo para que nosso fornecedor trabalhasse algumas das falhas do processo usado para fazer geradores de campo de contenção de plasma, mas agora que o fizeram, esperamos ver a economia de custos passar para nós.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBeamWeaponMastery2_Dec</Label>
+    <String>Após nossos mais recentes esforços de redução de massa, nossos empreiteiros afirmam que agora estamos nos limites difíceis do que este universo permitirá em termos de densidade energética. Nenhuma quantidade de idéias do quadro branco vai contornar isso agora.</String>
+  </StringTable>
+    <StringTable>
+    <Label>IridiumEnergyPhasing_Dec</Label>
+    <String>Uma competição interna inspirou uma equipe dentro de nosso R &amp; D para sintetizar algo chamado partícula de phaser, que pode ser usado em uma arma enormemente destrutiva. Com isto, nossas forças de segurança estarão realmente muito seguras.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDoomRayTech_Dec</Label>
+    <String>Infelizmente existem poucos mercados para o Raio da Perdição, porque realmente, a quem nos atreveríamos a vendê-lo? Uma melhoria de nossos phasers, com o aumento maciço das taxas de reação de quebra de matéria, os Raios da Perdição serão eficazes até mesmo contra a armadura mais dura.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBeamWeaponAugmentation_Dec</Label>
+    <String>Os sistemas de ampliação de feixes utilizam um campo externo para melhorar a capacidade de armazenamento de energia e danificar a saída de nossas armas de feixe. Uma frota de segurança equipada com tal dispositivo deve se mostrar muito mais capaz de lidar com ameaças.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHighEnergyTransfer_Dec</Label>
+    <String>Um de nossos fornecedores desenvolveu um novo sistema que permite que uma arma de feixe seja muito mais eficaz na penetração de escudos. Ainda mais impressionante, uma variação do mesmo sistema permitirá que nossos próprios escudos absorvam parcialmente os ataques de feixe de nossos concorrentes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHighEnergyMagnification_Dec</Label>
+    <String>Com nossos mais recentes sistemas de aumento, nossas armas de feixe podem desativar completamente os escudos. Poucos de nossos concorrentes representarão agora uma séria ameaça para nossas forças de segurança.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMissileWeapons_Dec</Label>
+    <String>Os sistemas de mísseis oferecem os meios mais econômicos de autodefesa para nossas frotas de segurança, tornando-os um dos métodos mais atraentes de proteção de receita.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMissileOptimization1_Dec</Label>
+    <String>Fazer nossos lançadores de mísseis dispararem mais rápido é uma idéia simples, quase infantilmente óbvia. É por isso que agora cerca de doze gerentes reivindicam crédito por ela. Na verdade, a implementação foi muito mais difícil, mas não é sempre assim?</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMissileOptimization2_Dec</Label>
+    <String>Tudo o que pudermos fazer para melhorar a já excelente relação custo-benefício de nossos sistemas de mísseis tornará um pouco mais fácil vender orçamentos de alocação de segurança para a diretoria.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMissileOptimization3_Dec</Label>
+    <String>Se dedicarmos algum esforço de pesquisa para reduzir a massa de nossos sistemas de armas mísseis, teremos espaço para colocar mais deles em nossos navios de segurança, aumentando seu potencial de dissuasão.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHarpoonTech_Dec</Label>
+    <String>Nosso último vetor de dissuasão autoguiado, o Míssil Arpão, melhora muito em relação às gerações anteriores em termos de velocidade, alcance e potencial destrutivo.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumWarheadFocus1_Dec</Label>
+    <String>As ogivas de carga leves e com forma de carga oferecem o mesmo potencial destrutivo a uma massa reduzida. Isto deixa espaço para um propulsor adicional, permitindo que nossos mísseis percorram distâncias muito maiores.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumWarheadFocus2_Dec</Label>
+    <String>Um esforço conjunto para desenvolver novas formas mais estáveis de explosivos deve resultar em armas muito mais seguras e, conseqüentemente, mais baratas de se fabricar. Os acidentes no local de trabalho são uma drenagem incrível de nossos recursos financeiros.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumWarheadFocus3_Dec</Label>
+    <String>As ogivas com forma de carga pesam menos do que as ogivas convencionais com potencial de dano equivalente. Essa economia de peso pode permitir que nossos navios de segurança transportem mais lançadores de mísseis ou outros equipamentos de proteção de receita.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPhotonicWarheads_Dec</Label>
+    <String>Um novo sistema entrou no mercado que utiliza uma alta explosão de energia de fótons no momento do impacto para perfurar tanto os escudos como os sistemas de blindagem e de proteção. Chamadas ogivas fotônicas, estas representam o estado da arte em tecnologia auto-defensiva.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPayloadMastery1_Dec</Label>
+    <String>Se nos apoiarmos em nosso fornecedor para pagar menos a seus trabalhadores, provavelmente podemos conseguir mísseis feitos por preços mais baratos. Eles são a única empresa que fabrica mísseis, por isso não é como se esses trabalhadores pudessem ir a qualquer outro lugar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPayloadMastery2_Dec</Label>
+    <String>Graças a uma nova forma de invólucro ultra leve, nossa próxima geração de sistemas de mísseis será mais leve do que nunca. Eles também vêm agora em uma ampla seleção de cores agradáveis.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPhotonTorpedos_Dec</Label>
+    <String>A folha de especificações soa promissora: sistema de perfuração baseado em fótons de alta definição de amplo alcance, juntamente com as mais recentes ogivas AM de próxima geração. Seja o que for que isso signifique, estes novos mísseis fotônicos prometem satisfazer as necessidades de dissuasão de nossas forças de segurança.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumNightmareTorpedoTech_Dec</Label>
+    <String>O torpedo Nightmare foi um pouco de marketing inteligente, o nome do dispositivo que antecedeu por vários anos a invenção do torpedo. Ainda assim, estas são armas horríveis de imenso potencial. Só as etiquetas de advertência são bastante assustadoras.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMissileAugmentation_Dec</Label>
+    <String>R &amp; D desenvolveu um novo sistema que complementa nossas plataformas de mísseis existentes, melhorando sua capacidade de rastreamento e alcance. Isto não só tornará nossas frotas de segurança mais seguras, mas também abrirá um novo mercado de acessórios para nós.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAdvancedMissileGuidance_Dec</Label>
+    <String>Perder mísseis para apontar sistemas de defesa não tem mais que ser um custo de fazer negócios defensivos. Nossos mais recentes sistemas de suporte a mísseis fornecem as medidas de contra-ataque para derrotar a DP inimiga, reduzir o desperdício de mísseis e aumentar nosso resultado final.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumIntelligentWarheads_Dec</Label>
+    <String>As mais recentes ogivas inteligentes de agrupamento podem alvejar o sistema de defesa pontual inimigo, permitindo que salvos mais tarde passem por ele sem serem molestados. E a R &amp; D encontrou uma maneira de melhorar ainda mais nossos acessórios de suporte de mísseis, permitindo maior precisão e alcance.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumKineticWeapons_Dec</Label>
+    <String>As armas cinéticas fornecem um meio simples de autodefesa para nossas forças de segurança, utilizando poderosos eletroímãs para acelerar os projéteis a velocidades incríveis.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumKineticOptimization1_Dec</Label>
+    <String>Os cilindros menores e os projéteis menores que os acompanham nos permitirão aumentar a velocidade do cano de nossas armas cinéticas enquanto utilizamos as mesmas bobinas de carga. Isto não aumentará os danos do sistema, mas aumentará seu alcance efetivo.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumKineticOptimization2_Dec</Label>
+    <String>Um novo fornecedor de bobinas eletromagnéticas começou a oferecê-las a um preço excepcionalmente bom, o que deve levar a preços mais baixos para todas as nossas armas cinéticas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumKineticOptimization3_Dec</Label>
+    <String>Nosso fornecedor existente conseguiu tornar os capacitores e os sistemas de carregamento associados de nossas armas cinéticas significativamente mais leves. </String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPulseCannonTech_Dec</Label>
+    <String>Em uma conferência recente, pesquisadores revelaram seu trabalho sobre o uso de aglomerados de partículas para substituir as balas utilizadas pelas armas cinéticas tradicionais. Chamados de canhões de pulso, R &amp; D acredita que estes serão muito mais poderosos do que as gerações anteriores de armas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumKineticAccelerationFocus1_Dec</Label>
+    <String>Os mais novos supercondutores nos permitem transmitir energia a nossos projéteis muito mais rapidamente. A energia total transmitida não aumenta tanto, mas devemos ser capazes de acelerar massas menores a velocidades maiores, levando a faixas mais longas e eficazes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumKineticAccelerationFocus2_Dec</Label>
+    <String>Devido ao incrível volume que a Iridium Corporation está encomendando agora, nosso fornecedor é capaz de nos oferecer supercondutores a preços muito bons, o que deve reduzir substancialmente o custo unitário de nossas armas cinéticas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumKineticAccelerationFocus3_Dec</Label>
+    <String>Os mais novos supercondutores do mercado têm requisitos de resfriamento muito menos exigentes, o que tornará nossas armas cinéticas muito mais leves para carregar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumGravitonThrower_Dec</Label>
+    <String>R &amp; D encontrou uma maneira de sintetizar os gravitons, que quando usados por nossos canhões de partículas, podem danificar maciçamente os cascos das ameaças de segurança de alto risco. </String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumKineticMastery1_Dec</Label>
+    <String>O uso crescente da automação não só reduziu nossos custos de mão-de-obra, mas também diminuiu a taxa de falhas de nossos sistemas de armas cinéticas. Os preços caíram significativamente, e nos dizem que os trabalhadores provavelmente estão todos aterrissando em outro lugar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumKineticMastery2_Dec</Label>
+    <String>Nossas armas cinéticas são agora notavelmente eficientes em massa, permitindo que nossas forças de segurança carreguem mais delas e projetem um potencial de dissuasão muito maior do que podiam até mesmo há alguns anos atrás.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumQuantumDrivers_Dec</Label>
+    <String>Nossa última arma é capaz de atirar pequenas partículas, que ao serem impactadas, puxam uma enorme quantidade de massa de uma dimensão vizinha. Embora incrivelmente devastador, o impacto legal do uso da massa de outra dimensão ainda está sendo explorado.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumSingularityDrivers_Dec</Label>
+    <String>Os drivers de singularidade são o ápice da tecnologia cinética, micro-singularidades capazes de devastar os navios de qualquer ameaça de segurança de alto risco que ousa ameaçar o potencial de crescimento do Iridium.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumKineticAugmentation_Dec</Label>
+    <String>Os sistemas de amortecimento inercial permitem que projéteis sejam disparados a velocidades muito mais altas do que este universo deveria permitir. Uma frota de segurança equipada com tal sistema verá o alcance de todas as armas cinéticas ser substancialmente aumentado.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMassManipulation_Dec</Label>
+    <String>A miniaturização de nossos campos de amortecimento de inércia para caber dentro de projéteis permite que eles gerem superfícies externas densas que proporcionam maior capacidade de penetração da blindagem. E nossos sistemas de aumento cinético foram incrementalmente melhorados mais uma vez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInertialMagnification_Dec</Label>
+    <String>Nossos projéteis são agora capazes de atacar diretamente a blindagem inimiga, fraturando-a após o impacto. E a última versão de nossa frota de sistemas de modificação inercial promete agora uma capacidade de neutralização de ameaças ainda mais rápida do que os modelos anteriores.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAcquisitionTech_Name</Label>
+    <String>Aquisições</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAcquisitionTech_ShortDec</Label>
+    <String>Melhora a eficiência militar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAcquisitionTech_Dec</Label>
+    <String>Nosso negócio deve crescer. E quando a galáxia não nos proporciona mundos vazios para crescer, talvez tenhamos que adquiri-los de outras partes. Desenvolver as ferramentas e técnicas para fazer isso agora é mais do que prudente.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAcquisitionSpecialization1_Name</Label>
+    <String>Qualidade das Armas</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAcquisitionSpecialization1_ShortDec</Label>
+    <String>Melhora a qualidade de nossos sistemas de armas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAcquisitionSpecialization1_Dec</Label>
+    <String>Dedicar recursos internos de R &amp; D para melhorar a eficácia de nossos sistemas de armas garantirá que quando nossas forças de segurança precisarem usá-los, não precisarão usá-los duas vezes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAcquisitionSpecialization2_Name</Label>
+    <String>Qualidade de Defesa</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAcquisitionSpecialization2_ShortDec</Label>
+    <String>Melhora a qualidade de nossos sistemas defensivos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAcquisitionSpecialization2_Dec</Label>
+    <String>Um foco concentrado para melhorar as tecnologias defensivas que protegem nossas frotas de segurança garantirá que esses ativos valiosos não sejam desperdiçados ao conduzir operações de segurança ou aquisição.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAcquisitionSpecialization3_Name</Label>
+    <String>Qualidade dos navios</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAcquisitionSpecialization3_ShortDec</Label>
+    <String>Melhora os pontos de impacto de nossos navios.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAcquisitionSpecialization3_Dec</Label>
+    <String>Tornar os navios utilizados por nossas frotas de segurança mais duráveis aumentará sua eficácia e manterá seu poder em operações de segurança ou aquisição de alto risco.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMilitarizationTech_Dec</Label>
+    <String>O bom do equipamento militar é o quanto tudo é caro. O impacto econômico geral que esperamos ver da militarização de nosso terreno e das estruturas orbitais será substancial.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPlanetaryInvasion_Dec</Label>
+    <String>Serão necessários desembarques planetários para que nossas forças de segurança sejam capazes de adquirir um mundo. Esta é sempre uma decisão difícil de ser tomada, mas em ambientes onde nosso crescimento é limitado, pode não haver outra escolha.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInvasionOptimization1_Dec</Label>
+    <String>Os bombardeios planetários são inegavelmente uma forma eficaz de diminuir o risco para nossas forças de segurança durante uma aquisição de alto risco. Mas dados os danos potenciais à infra-estrutura, isto não deve ser considerado de ânimo leve.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInvasionOptimization2_Dec</Label>
+    <String>A guerra da informação dificultará a capacidade das contrapartes hostis de se defenderem contra nossas forças de segurança durante as aquisições.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInvasionOptimization3_Dec</Label>
+    <String>As implementações de Melhorias de Aquisição Viral enfraquecerão seriamente qualquer contraparte hostil que possa desejar opor-se a nossas forças de segurança durante uma aquisição. </String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumStallerMarines_Dec</Label>
+    <String>Se fornecemos treinamento aprimorado para nossas forças de segurança em situações de segurança em terra, incluindo aquisições hostis, devemos melhorar muito sua eficácia.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumGravitationalFocus1_Dec</Label>
+    <String>Campos gravitacionais poderosos podem induzir inundações e até mesmo atividade tectônica sob os pés de contrapartes hostis, reduzindo sua capacidade de impedir nosso processo de aquisição.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumGravitationalFocus2_Dec</Label>
+    <String>Usar poderosos feixes de gravitons para induzir uma atividade vulcânica maciça é certamente uma maneira eficaz de enfraquecer a moral de uma contraparte hostil, se não removê-los da equação.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDroneSoldiers_Dec</Label>
+    <String>Os drones têm um potencial de segurança muito maior que os soldados convencionais da geração anterior, tornando nossas operações de segurança terrestres muito mais eficazes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDefenseSystemTech_Dec</Label>
+    <String>Nossas embarcações, sejam geradoras de receita ou de segurança, são muito valiosas para ficarem desprotegidas. Considerando os perigos desconhecidos que esta galáxia representa, devemos equipá-las com alguma forma de tecnologia defensiva o mais rápido possível.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDefensiveSpecialization1_Dec</Label>
+    <String>Os emissores utilizados em nossos sistemas defletores são uma tecnologia inteiramente nova e, conseqüentemente, foram muito caros de construir. Versões mais recentes no mercado parecem ter reduzido um pouco os custos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDefensiveSpecialization2_Dec</Label>
+    <String>O fornecedor que constrói os mecanismos de alimentação para nossos sistemas de defesa pontual entregou uma nova versão capaz de aumentar a produtividade. O aumento da taxa de disparo deve tornar nossas defesas pontuais ligeiramente mais eficazes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDefensiveSpecialization3_Dec</Label>
+    <String>Sendo um sistema tão simples, a armadura é um pouco difícil de ser aperfeiçoada, não importa os incentivos que incorporemos em nossos contratos. O melhor que nossos fornecedores têm sido capazes de fazer é cortar algum peso das ferragens de montagem..</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumShieldSystems_Dec</Label>
+    <String>De acordo com a literatura do produto, ao aumentar a densidade de nossas matrizes defletoras e rearranjar seu layout, acabamos com uma nova geração de sistemas " Blindagem ", capazes de proporcionar uma proteção muito maior.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumShieldOptimization1_Dec</Label>
+    <String>Uma nova versão do emissor de campo com maior capacidade de produção tornará nossos escudos um pouco mais eficazes, sem custo adicional para nós.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumShieldOptimization2_Dec</Label>
+    <String>Os escudos são bastante caros, e pelo menos algumas planilhas sugeriram que deveríamos considerar aceitar uma taxa mais alta de perda de navios. A redução dos custos dos escudos deveria anular esse argumento. E manter o moral de nossos departamentos de defesa em alta.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumShieldOptimization3_Dec</Label>
+    <String>Nossos fornecedores encontraram uma maneira de reduzir a massa dos emissores de campo dos nossos sistemas de proteção. O que deixa espaço para mais deles, ou outros proteção da receita/equipamento de geração.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBarrierFieldGeneration_Dec</Label>
+    <String>Os campos de barreira são capazes de absorver uma parte da energia ofensiva recebida, carregando assim os próprios escudos que a repelirão. Esta é uma perspectiva incrivelmente atraente, quanto mais não seja do ponto de vista do balanço energético.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBarrierSystemFocus1_Dec</Label>
+    <String>Nosso novo fornecedor de escudos recomendou que comecemos a instalar modelos mais novos e mais robustos de amortecedores de energia para tornar nossos Barreiras de Campo um pouco mais fortes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBarrierSystemFocus2_Dec</Label>
+    <String>Nosso novo fornecedor promete a capacidade de fornecer geradores de escudo a custos mais baixos do que antes, desde que prometemos não fazer muitas perguntas sobre como eles são feitos. Não há problema, dissemos nós.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBarrierSystemFocus3_Dec</Label>
+    <String>Aparentemente, nossas gerações de escudos foram projetadas de forma ineficiente pelo último empreiteiro para que eles pudessem facilmente apará-los mais tarde para atingir seus objetivos de desempenho. Estes erros foram corrigidos desde então, reduzindo a massa de todos os nossos sistemas de escudo.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumForceFieldTech_Dec</Label>
+    <String>A última geração de escudos no mercado promete ser capaz de direcionar grandes quantidades de energia na direção específica da energia hostil recebida. Nossas forças de segurança devem ser muito mais seguras e mais eficazes por trás de tal tecnologia.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumShieldMastery1_Dec</Label>
+    <String>Um fornecedor pode sempre ser subcotado; há sempre alguém disposto a apresentar uma proposta suicidalmente baixa. Esperamos que não se saiba que estamos fazendo isso com nossos escudos. Nossos funcionários gostam de pensar que estamos gastando muito dinheiro com essas coisas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumShieldMastery2_Dec</Label>
+    <String>As últimas metas de desempenho para incentivar o desenvolvimento de emissores de proteção mais leves foram finalmente atingidas, nosso fornecedor conseguiu reduzir um pouco mais o peso de seus sistemas de carga.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInvulnerabilityTech_Dec</Label>
+    <String>Embora incrivelmente poderoso, "Invulnerável" é mais um termo de marketing do que qualquer outra coisa. Mas é um bom termo, por isso, é grudento.  Independentemente de quão realmente invulneráveis estes escudos são, isso ajudará nossas forças de segurança se todos pensarem que são.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumShieldSupportSystems_Dec</Label>
+    <String>Uma nova forma de acessório de escudo permitirá que as naves apoiem os sistemas de escudo de outras naves de uma frota. Além de aumentar a capacidade de sobrevivência de uma frota inteira, isto cria uma nova categoria de produtos para que nosso mercado de fornecedores comece a competir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumShieldAugmentation_Dec</Label>
+    <String>Nossos fornecedores encontraram uma nova maneira de reverter a tecnologia proprietária Barreira de Campo e usá-la para melhorar nossos sistemas de aumento de escudo, tornando-os mais fortes do que nunca.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumEnergyFieldManipulation_Dec</Label>
+    <String>O mais recente acessório de escudo no mercado é capaz de interferir com os escudos dos hostis, enfraquecendo-os substancialmente. Além disso, os sistemas padrão de aumento de escudos foram novamente melhorados.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPointDefenses_Dec</Label>
+    <String>Os sistemas de defesa pontual são um excelente meio de defender nossas forças de segurança contra ameaças baseadas em mísseis. Eles não são tão bons contra outras ameaças, mas estamos otimistas de que o mercado encontrará uma solução para isso em breve.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPointDefenseOptimization1_Dec</Label>
+    <String>Uma recente atualização de firmware para nossos controladores de disparo de defesa pontual os tornou um pouco mais precisos, levando a uma capacidade defensiva geral mais forte.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPointDefenseOptimization2_Dec</Label>
+    <String>A mudança para uma fonte mais barata de sub-componentes permitiu que nosso fornecedor de defesa pontual nos transmitisse algumas das economias. Nem todas as economias, é claro, mas essa é uma prerrogativa deles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPointDefenseOptimization3_Dec</Label>
+    <String>As munições usadas por nossos sistemas de defesa pontual não são delicadas, e tinham sido superlotadas nos primeiros modelos desses sistemas. Usando módulos de armazenamento de munições mais finos e mais compactos, o sistema deveria economizar peso em geral.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumCounterMeasures_Dec</Label>
+    <String>Em uma feira recente, nossos gerentes de compras visitaram um estande com um sistema eletrônico de contra-medidas que promete confundir os ataques de mísseis recebidos. Tão logo resolvamos os preços, os teremos disponíveis para nossa frota.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumCounterMeasureFocus1_Dec</Label>
+    <String>Uma simples correção de firmware é tudo o que será necessário para tornar nossas suítes ECM mais capazes de confundir os mísseis inimigos. As atualizações automáticas também devem garantir que esta borda nunca se desvanecerá como resultado de melhorias no setor de mísseis.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumCounterMeasureFocus2_Dec</Label>
+    <String>Agora que somos o maior, e de fato único cliente de nosso fornecedor de ECM, podemos alavancar essa posição para obter melhores preços em suas suítes de ECM. Diga isso discretamente agora, mas as ineficiências do mercado são grandes quando elas funcionam a nosso favor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumCounterMeasureFocus3_Dec</Label>
+    <String>A última atualização de nossas suítes ECM consolida alguns dos equipamentos em um único módulo, o que faz com que o sistema geral tenha um peso muito menor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDroneSentrySystems_Dec</Label>
+    <String>O último modelo de sistema de defesa pontual utiliza plataformas de drones para estender o envelope de proteção ao redor de nossas embarcações de segurança. Muitos dos zangões agora também recebem nomes bonitos, para ajudar com a marca.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDroneSystemMastery1_Dec</Label>
+    <String>Nosso fornecedor de zangões encontrou uma nova técnica de fabricação - parece um pouco como uma esteira transportadora com um grande selo - que é capaz de produzir zangões a custos muito menores do que antes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDroneSystemMastery2_Dec</Label>
+    <String>A mais nova versão do drone de defesa pontual vem em uma forma mais cúbica que os torna muito mais empilháveis, economizando peso em vários sistemas de armazenamento e lançamento de drones.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumArreonMissileDefenseTech_Dec</Label>
+    <String>O folheto para os Drones Aereon os faz soar incrível. Nano drones. Carris inteligentes. ECM adaptável. Alto Padrão de Defesa. Algo com tantos adjetivos legais deve ser bom.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPointDefenseSupportSystem_Dec</Label>
+    <String>Os módulos sensores que melhoram a capacidade de rastreamento de longo alcance de nossas defesas pontuais permitirão que um único navio aumente a capacidade de defesa pontual de toda uma frota de segurança.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPointDefenseAugmentation_Dec</Label>
+    <String>A mais nova iteração do módulo acessório de defesa pontual acrescenta melhores disruptores de mísseis que aumentam a eficácia das contra medidas de uma frota inteira, dando às nossas forças de segurança uma camada extra de segurança muito necessária.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPointDefenseManipulation_Dec</Label>
+    <String>Os sistemas de drones de toda a frota expandem ainda mais o perímetro de nossas defesas. E os mais recentes disruptores de defesa pontual permitirão que nossos próprios ataques com mísseis penetrem mais facilmente as defesas pontual de ameaças de alto risco.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumArmorSystems_Dec</Label>
+    <String>Há algo de encantadoramente retrô na armadura, e o mercado está cheio de marcas adornadas com rebites decorativos e coisas assim. Ainda assim, mesmo nesta época, a armadura é surpreendentemente eficaz, então vamos em frente e a utilizemos se ela atender às necessidades de nossas forças de segurança.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumArmorOptimization1_Dec</Label>
+    <String>Um fornecedor com um novo processo de fabricação promete a capacidade de nos fornecer painéis de blindagem mais densos e resilientes, o que deve tornar nossos navios de segurança um pouco mais capazes de resistir a ameaças de segurança de alto risco.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumArmorOptimization2_Dec</Label>
+    <String>Um novo fornecedor promete que será capaz de nos fornecer painéis de armaduras a preços reduzidos. Aparentemente, o último tipo estava gastando muito com saúde eampus desnecessários; protocolos de segurança para seus trabalhadores. Uma vergonha quando isso é passado ao consumidor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumArmorOptimization3_Dec</Label>
+    <String>Assim, acontece que esses rebites decorativos e outros adornos estavam adicionando peso desnecessário a nossos já volumosos sistemas de armaduras. Descartá-los até o essencial deveria resultar em uma carga mais leve para transportar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDurantiumCompositeTech_Dec</Label>
+    <String>Durantium foi desenvolvido por um consórcio em nossa indústria de polímeros. Um composto de diferentes substâncias, o Durantium tem um tremendo potencial de absorção de danos, muito superior à blindagem convencional.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumArmorFocus1_Dec</Label>
+    <String>Os compósitos Durantium têm um problema incomum com rachaduras completamente ao meio sob tensões típicas de fim de vida. Um novo processo de laminação pós-mercado promete resolver isso, tornando nossos navios um pouco mais resistentes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumArmorFocus2_Dec</Label>
+    <String>Manter nossos navios de segurança operacionais vale muito para nosso negócio, e nós os blindamos de bom grado por causa disso. Mas se isso pudesse ser feito por menos, bem, provavelmente os blindaríamos um pouco mais de bom grado.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumArmorFocus3_Dec</Label>
+    <String>A última versão do Durantium tem uma configuração de camadas ligeiramente diferente que resulta em um produto mais leve com a mesma capacidade de evitar a destruição.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumKanviumLaminateTech_Dec</Label>
+    <String>Um novo produto chamado Kanvium alega ser um produto de blindagem laminada que fluidifica parcialmente o impacto para dispersar a força de entrada. Seja isso um disparate de marketing ou não, certamente parece mais eficaz para parar as coisas em movimento rápido.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumArmorMastery1_Dec</Label>
+    <String>Ao considerar nossas necessidades de blindagem mais cedo no processo de projeto do navio, nossos gerentes de produto podem projetar navios que permaneçam igualmente duráveis enquanto usam muito menos blindagem. Azar para nossos fornecedores de armaduras, mas esse é o negócio.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumArmorMastery2_Dec</Label>
+    <String>Se envolvermos nosso fornecedor de armaduras no processo de projeto, eles poderão nos ajudar a encontrar maneiras de minimizar a sobreposição e, de outra forma, maximizar a eficiência da colocação de nossas armaduras, levando à redução da massa total da armadura.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumZeroPointArmorTech_Dec</Label>
+    <String>O fabricante da Armadura de Ponto Zero explica que ela pode aproveitar a energia de ponto zero do vácuo quântico, utilizando essa energia para enfrentar a energia que chega. Não temos como determinar se isso é verdade, mas certamente parece muito mais difícil.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumArmorSupportSystems_Dec</Label>
+    <String>Um novo tipo de acessório de armadura entrou no mercado, utilizando campos de endurecimento de longo alcance para permitir que um navio torne cada peça de armadura de uma frota substancialmente mais durável. Nossos gerentes de frota estão alegadamente extasiados com as notícias.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumArmorEnhancement_Dec</Label>
+    <String>Graças a algum tipo de dispositivo "polar", ou possivelmente apenas uma peça de marketing, nossos acessórios de blindagem para toda a frota se tornaram ainda mais eficazes. </String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumIntegrityFieldProjection_Dec</Label>
+    <String>O mais recente modelo de acessório de blindagem é capaz de induzir a fluidização do material e a recuperação da forma na blindagem impactada dentro de uma frota. O fabricante promete que um único navio com uma destas armaduras pode tornar uma frota quase invulnerável.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumEconomicsTech_Name</Label>
+    <String>Economia</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumEconomicsTech_Dec</Label>
+    <String>A presença de outra vida senciente nesta galáxia representa a oportunidade mais importante para o crescimento do mercado com que nossos negócios já foram apresentados. Devemos fazer tudo o que pudermos para nos comunicar melhor com nossos clientes potenciais.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumTranslatorTech_Dec</Label>
+    <String>Um esforço de crowdsourcing para analisar os fragmentos do discurso alienígena que recebemos resultou em uma compreensão completa de seus idiomas. O Tradutor Universal desenvolvido junto com este esforço nos permitirá comunicar com nossos futuros clientes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDiplomaticSpecialization1_Dec</Label>
+    <String>Agora que identificamos o que eles são, nossos diplomatas devem ser capazes de usar os gestos das mãos e os tiques guturais que várias espécies também respondem bem.  </String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarGovernance_Dec</Label>
+    <String>Como administrar um negócio que literalmente atravessa as estrelas é um desafio interessante. Adicionar mais camadas ao nosso organograma poderia levar a ineficiências grosseiras. Mas dada a escala do nosso negócio, que outras opções temos?</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPoliticalSpecialization1_Dec</Label>
+    <String>Dar mais controle à administração local pode reduzir a coesão corporativa geral, mas as decisões informadas que somente os gerentes locais podem tomar devem ajudar a impulsionar as economias locais.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPoliticalSpecialization2_Dec</Label>
+    <String>As políticas que aumentam a satisfação no trabalho obviamente beneficiarão a imagem corporativa que estamos tentando construir. Junto com o aumento da aprovação interna, esta imagem também deve impulsionar muito nossos esforços diplomáticos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPoliticalSpecialization3_Dec</Label>
+    <String>Não é vergonha nenhuma escolher uma abordagem de governança no meio do caminho. Considerando a diversidade dos mercados que nos são apresentados, um enorme lucro poderia ser obtido ao tentar ser tudo para todas as pessoas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumGalacticGovernance_Dec</Label>
+    <String>Aumentar a participação de nossos trabalhadores na determinação de nossa direção corporativa geral é uma idéia nova. Mas o aumento da satisfação dos trabalhadores e os ganhos de produtividade que esperamos ver devem fazer valer a pena o risco.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPoliticalFocus1_Dec</Label>
+    <String>Um foco no aumento de nossa capacidade industrial significará mais seminários motivacionais, prêmios de produtividade e medidas rigorosas de controle de qualidade interno. Produtividade será a palavra de ordem pela qual a Iridium Corporation vive.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPoliticalFocus2_Dec</Label>
+    <String>Uma filosofia de gestão baseada na maximização da receita comercial é talvez o ajuste mais natural para nosso pessoal, dado seu impacto óbvio em nosso resultado final. Nossos esforços "agressivos" de pesquisa de mercado também devem se beneficiar desta abordagem.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPoliticalFocus3_Dec</Label>
+    <String>O compromisso com a R &amp; D envolverá competições internas, promoção rápida a partir de dentro, e a compra rápida de subempreiteiros com produtos avançados. Seremos conhecidos como líderes no setor. Toda indústria.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarDemocracyTech_Dec</Label>
+    <String>Um plano de participação acionária dos funcionários não somente permitirá que nossos trabalhadores participem de nossos lucros, mas também que tenham uma palavra direta na liderança de nossa organização. Espera-se que o aumento da aprovação e da produtividade seja enorme.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPoliticalMastery1_Dec</Label>
+    <String>Colocar toda a Iridium Corporation e sua rede de fornecedores em pé de guerra não é algo que deva ser feito de ânimo leve. Mas quando a aquisição agressiva é nosso único caminho viável para o crescimento, talvez não tenhamos outra escolha.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPoliticalMastery2_Dec</Label>
+    <String>Em um ambiente com mercados abertos, onde nossas perspectivas de crescimento são ilimitadas por mentes fechadas, uma filosofia de gestão pacífica garantirá que nossa imagem corporativa seja tão amplamente admirada quanto possível.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumStarFederationTech_Dec</Label>
+    <String>Décadas de melhorias incansáveis em nossos processos internos levaram a isso, o auge da governança corporativa. Todos os outros modelos organizacionais estão pálidos em comparação com os nossos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDiplomacyTech_Name</Label>
+    <String>Contratos</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDiplomacyTech_Dec</Label>
+    <String>Fazer tratados formais com nossos vizinhos garantirá que tanto as fronteiras quanto os mercados permaneçam abertos para nós, facilitando o caminho para um crescimento sem dor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDiplomaticOptimization1_Name</Label>
+    <String>Contrato econômico</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDiplomaticOptimization1_Dec</Label>
+    <String>Um tratado econômico eliminará as tarifas e proibições de importação que sufocam o crescimento. Estas devem beneficiar ambas as partes, embora se isso não for possível garantiremos que pelo menos nos beneficie.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDiplomaticOptimization2_Name</Label>
+    <String>Contrato Cultural</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDiplomaticOptimization2_Dec</Label>
+    <String>Um tratado cultural aumentará a influência que temos junto a nossos vizinhos. Nossos comerciantes e outros embaixadores corporativos os ajudarão a ver a luz de uma civilização dedicada ao acesso irrestrito aos mercados.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDiplomaticOptimization3_Name</Label>
+    <String>Contrato de pesquisa</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDiplomaticOptimization3_Dec</Label>
+    <String>Os acordos de compartilhamento de informações com nossos vizinhos poderiam beneficiar muito nossa divisão interna de R &amp; D e permitir que ambas as partes acelerem seus esforços de pesquisa.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarAlliances_Name</Label>
+    <String>Parceria Interstelar</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarAlliances_Dec</Label>
+    <String>Uma aliança formal é uma idéia curiosa. Amarrar nossas fortunas à de um negócio alienígena parece ser uma jogada de risco incomum. Mas em uma galáxia cheia de ameaças de segurança de alto risco, solidificar nossas relações com um amigo pode ter algum valor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAllianceFocus1_Name</Label>
+    <String>Parceria Militar</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAllianceFocus1_Dec</Label>
+    <String>Uma aliança militar formal fornecerá às nossas forças de segurança um valioso apoio adicional em tempos de crise. No entanto, também corremos o risco de ser arrastados para conflitos que terão pouco benefício para nossos negócios.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAllianceFocus2_Name</Label>
+    <String>Parceria tecnológica</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAllianceFocus2_Dec</Label>
+    <String>Aumentar o escopo de nossos programas de compartilhamento de informações com nossos aliados deve levar a ganhos dramáticos de pesquisa em ambos os lados. Desde que não estejamos dando nenhuma vantagem competitiva, os benefícios disso devem ser óbvios.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAllianceFocus3_Name</Label>
+    <String>Parceria Cultural</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAllianceFocus3_Dec</Label>
+    <String>A livre circulação de pessoas e idéias através das fronteiras com nosso aliado garantirá que seus mercados permaneçam abertos para nós e proporcionará uma tremenda oportunidade para influenciar seu pensamento.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumEminenceTech_Name</Label>
+    <String>Destaque</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumEminenceTech_Dec</Label>
+    <String>Nosso domínio da arte do negócio é tão respeitado que muitas partes agora nos procuram para ajudar a resolver seus problemas para eles. Nossas vozes carregam agora, e nossos negócios lucram com isso.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMajestyTech_Name</Label>
+    <String>Superioridade</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMajestyTech_Dec</Label>
+    <String>A superioridade do estilo de vida baseado no mercado Iridium é tão óbvia que muitas culturas se aproximam agora de forma preventiva e nos imploram para adquirir seus bens em condições extremamente generosas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumUnitedPlanetsLobbyist_Dec</Label>
+    <String>As sessões dos Planetas Unidos são notavelmente rudes, cheias de seres que têm pouca compreensão das sutilezas das negociações. Nossos diplomatas tiram proveito de sua simplicidade com incrível facilidade.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumUnitedPlanetsClout_Dec</Label>
+    <String>Convencer nossos aliados a votar conosco nas medidas da U.P. não foi difícil. Os efeitos mutuamente benéficos de nossos planos de crescimento a longo prazo são óbvios, mesmo para eles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMarketingTech_Name</Label>
+    <String>Marketing</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMarketingTech_ShortDec</Label>
+    <String>Permite a construção da Loja Iridium.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMarketingTech_Dec</Label>
+    <String>Nossas vitrines e mercados são mais do que apenas um lugar para se obter lucro, embora certamente o façam. Elas também servem como a face pública de nossa empresa, a mais verdadeira representação do que somos, e ajudam a espalhar nossa influência no mercado.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMarketingSpecialization1_Name</Label>
+    <String>Conscientização da marca</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMarketingSpecialization1_ShortDec</Label>
+    <String>Aumenta a Influência da Loja.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMarketingSpecialization1_Dec</Label>
+    <String>Os esforços de marketing focados na qualidade de nossos produtos ajudarão a aumentar a aceitação de nossa marca, assegurando que nossa base de clientes potenciais continue a crescer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMarketingSpecialization2_Name</Label>
+    <String>Qualidade da Marca</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMarketingSpecialization2_ShortDec</Label>
+    <String>Aumenta os lucros da loja.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMarketingSpecialization2_Dec</Label>
+    <String>Com o impulso certo de marketing, podemos garantir que nossos consumidores acreditem que os produtos Iridium são da mais alta qualidade e dignos dos preços premium que em breve começaremos a cobrar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumStellarEmigration_Dec</Label>
+    <String>Os benefícios do mercado de Iridium são evidentes, e nossos comerciantes são admirados onde quer que eles vão. Se pudermos facilitar o processo de emigração, a influência do Iridium deve se espalhar mais rapidamente por toda a galáxia.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumCulturalAssimilation_Dec</Label>
+    <String>Os recém-chegados à nossa cultura muitas vezes se agarram às expectativas retrógradas sobre serviços e instalações públicas. Assimilá-los rapidamente ao estilo de vida Iridium deve ajudar a facilitar esta transição e tornar nossa cultura mais influente.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumCulturalDomination_Dec</Label>
+    <String>A superioridade de uma cultura forjada em um mercado aberto de idéias era totalmente previsível. A vida sentimental em toda a galáxia agora tem pouca escolha, mas vendo as vantagens de nosso modo de vida.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumCulturalAffinity_Dec</Label>
+    <String>O crescimento nunca pode parar, e a fronteira entre as realidades não é nada antes desse simples fato. Nossos gerentes de produto já estão elaborando planos para uma dimensão literalmente nova dos produtos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumXenoCommerce_Name</Label>
+    <String>Relações com o cliente</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumXenoCommerce_Dec</Label>
+    <String>Para que a Iridium Corporation, sua rede de fornecedores e todos os nossos clientes possam tirar proveito da nova economia que se abre para eles, precisaremos construir algumas instalações comerciais dedicadas e especializadas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumCommerceSpecialization2_Name</Label>
+    <String>Aprovação do cliente</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumCommerceSpecialization2_Dec</Label>
+    <String>Uma base de clientes feliz e satisfeita serve como base de todo o nosso modo de vida. Notavelmente, clientes felizes estão quase sempre dispostos a comprar o modelo do próximo ano.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumCommerceSpecialization3_Name</Label>
+    <String>Atendimento ao cliente</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumCommerceSpecialization3_Dec</Label>
+    <String>Aumentar nossas atividades comerciais garantirá que nossos produtos sejam vendidos aos clientes que mais necessitam deles. E, não por acaso, os clientes que estão dispostos a pagar mais por elas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarCommerce_Name</Label>
+    <String>Comércio Interstelar</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarCommerce_ShortDec</Label>
+    <String>Permite a construção do Centro de Melhoramento do Iridium</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarCommerce_Dec</Label>
+    <String>Será necessária uma nova geração de centros de varejo para mostrar nossos mais recentes produtos e serviços sob a melhor luz possível. Os Centros Iridium aumentarão a produção econômica de cada mundo em que forem construídos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarBanking_Name</Label>
+    <String>Finanças interestelares</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarBanking_ShortDec</Label>
+    <String>Permite a construção de Centros de Investimento</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarBanking_Dec</Label>
+    <String>Melhorar o acesso de nossos trabalhadores aos centros de orientação de investimentos de varejo garantirá que o capital não fique apenas sentado, mas que seja rapidamente reinvestido nos lugares onde possa crescer mais rapidamente.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumEconomicFocus1_Dec</Label>
+    <String>Se nossas atividades comerciais externas são excepcionalmente lucrativas, é apenas racional aumentar essas atividades, seja aumentando o volume de mercadorias comercializadas, seja fazendo a transição de nosso mix de produtos para incluir mercadorias com margens mais altas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumEconomicFocus2_Dec</Label>
+    <String>Se quisermos re-designar alguns de nossos negociadores mais astutos para nossa divisão de tratados externos, podemos esperar ver um pouco mais de renda proveniente desses tratados.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumEconomicFocus3_Dec</Label>
+    <String>O turismo é um negócio incrivelmente atraente, trazendo receita externa para nossa economia. Se tivermos a infra-estrutura para lidar com isso, incentivar mais turistas a viajar para cá é praticamente imprimir dinheiro grátis.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMarketingMasters_Name</Label>
+    <String>Mestres de Marketing</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMarketingMasters_ShortDec</Label>
+    <String>Permite a construção do The Iridium World Improvement</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMarketingMasters_Dec</Label>
+    <String>Por toda a galáxia, a vida senciente fala das maravilhas presentes em um complexo Iridium World. Proporcionando a experiência de consumo final, os Mundos Iridium impulsionam a economia de seus mundos anfitriões como poucas outras estruturas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumFinancialSectorsTech_Dec</Label>
+    <String>Os setores financeiros dedicados, com os rápidos dados e ligações de transporte que os negócios modernos exigem, devem fornecer às nossas mentes mais brilhantes de finanças e administração todas as ferramentas de que necessitam para fazer o melhor trabalho possível.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumGalacticStockMarket_Dec</Label>
+    <String>Foi preciso fazer alguns esforços para convencer o resto da galáxia do benefício de permitir que as ações de seus próprios negócios sejam negociadas nas bolsas de Iridium. Mas agora que temos, o benefício que essas trocas terão para nossa própria economia será substancial.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarTrade_Dec</Label>
+    <String>Quando o fornecimento de um bem é limitado, como quando vem de uma grande distância, os preços para esse bem ficam distorcidos. O aumento de nossa atividade comercial ajudará a minimizar essas distorções, levando a um mercado mais perfeito.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumGalacticTrade_Dec</Label>
+    <String>Os centros comerciais permanentes incentivarão mais comerciantes privados a basear suas atividades em lugares benéficos para nós. Devido aos efeitos de rede, seu trabalho ajudará a aumentar a rentabilidade de nossas próprias negociações, e vice versa.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumGalacticFacilitation_Dec</Label>
+    <String>Serão necessários melhores equipamentos de manuseio de material e capacidade logística just-in-time para maximizar nossa receita comercial, e isso exigirá novas instalações para fazê-lo.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumTradeMasters_Dec</Label>
+    <String>A Iridium Corporation é vista em todo o mercado como o melhor e mais honesto revendedor da galáxia. Nossos bazares são mais do que apenas mercados; eles são a prova viva e respiratória da superioridade de nosso modo de vida.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumXenoEntertainment_Dec</Label>
+    <String>Não devemos permitir que nossos trabalhadores se tornem cínicos ou insatisfeitos com suas carreiras. O impacto em nossa cultura pode minar a produtividade por anos. A instalação de instalações para mantê-los entretidos é realmente apenas um primeiro passo.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarTourism_Dec</Label>
+    <String>Considerando a população da galáxia, a indústria do turismo representa um enorme potencial inexplorado. Melhores instalações para atrair e entreter instalações fora do mundo deveriam nos ajudar a começar a extrair parte dessa riqueza oferecida.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPopulationDiversion_Dec</Label>
+    <String>Os trabalhadores da Iridium adoram consumir a próxima grande coisa, e nossa pesquisa de mercado mostrou que nossos complexos de entretenimento existentes precisam ser atualizados. Diversões maiores e melhores devem contribuir muito para manter o moral e a produtividade em alta.</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+  <StringTable>
+    <Label>IridiumIndustrialSpecialization_Dec</Label>
+    <String>A adaptação de nossos processos industriais a ambientes fora do mundo provou ser mais desafiadora do que o esperado. Mas com um compromisso com a gestão da qualidade e a melhoria contínua, as coisas melhorarão, mais cedo do que podemos imaginar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumConstructionOptimization_Dec</Label>
+    <String>Nossos gerentes de qualidade tiveram grande sucesso adaptando suas metodologias a ambientes de fabricação fora do mundo, e começaram a identificar oportunidades de melhoria em nosso setor de construção.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumManufacturingFocus_Dec</Label>
+    <String>Por mais refinadas que possam parecer, há sempre espaço para melhorar nossas técnicas de fabricação. Mesmo os ganhos de eficiência mais pequenos são dignos de serem superados.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumIndustrialMastery_Dec</Label>
+    <String>Nosso setor de manufatura é agora quase perfeitamente eficiente, mesmo nossos melhores gerentes lutando para encontrar espaço para melhorias. Não que eles tenham desistido, é claro. Certamente ainda há alguns pequenos refinamentos a serem encontrados.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumResearchOptimization_Dec</Label>
+    <String>Sempre temos que manter uma mão firme R &amp; D, para assegurar que nossos brilhantes, mas ausentes, pesquisadores não apenas permaneçam no caminho certo e cumpram seus objetivos de pesquisa, mas também mantenham os custos baixos enquanto estiverem fazendo isso.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumTechnologicalFocus_Dec</Label>
+    <String>A especialização de nossos esforços de pesquisa deve ser sempre feita com cautela, pois pode ser difícil prever o que nossos negócios exigirão no futuro. Devemos assegurar que qualquer especialização que buscamos não impeça nossa capacidade de pesquisa em outros campos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPlanetarySpecialization_Dec</Label>
+    <String>Nossos gerentes de colonização fizeram um excelente trabalho nos últimos anos e estão começando a refinar alguns de seus processos iniciais, o que nos permite melhorar aspectos específicos de nossas colônias.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAgriculturalOptimization_Dec</Label>
+    <String>Descarregar grande parte de nosso trabalho agrícola para prestadores de serviços externos garantirá que nossos trabalhadores sejam alimentados da maneira mais eficiente possível. </String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumFarmingFocus_Dec</Label>
+    <String>Algo sobre trabalhar com a sujeira o tempo todo parece fazer com que uma pessoa se torne complacente e se estabeleça em seus caminhos. Temos que pressionar continuamente nossos fornecedores de alimentos para que se mantenham no topo de suas metas de melhoria contínua.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAgriculturalMastery_Dec</Label>
+    <String>Nossos fornecedores quase dominaram a tecnologia agrícola, as fazendas Iridium ganharam muitos prêmios comerciais em toda a galáxia por sua eficiência. Mas isso não é motivo para descansar; até mesmo os melhores podem ser melhorados.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumColonizationFocus_Dec</Label>
+    <String>O maior problema com nossas colônias em mundos extremos, além da horrível qualidade de vida, é claro, o baixo potencial de produção. Se pudermos dedicar recursos de R &amp; D para melhorar a produção nesses planetas, podemos fazer com que mais deles valha a pena.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBiospherePerfection_Dec</Label>
+    <String>Nossos postos avançados em mundos tóxicos e radioativos ainda são chocantemente limitados em termos de capacidade de produção. Devemos fazer tudo que pudermos para corrigir isso.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInterstellarSpecialization_Dec</Label>
+    <String>Uma revisão de projeto orientada de um sistema escolhido deve ser capaz de apresentar algumas melhorias que a administração havia perdido anteriormente.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumIonOptimization_Dec</Label>
+    <String>Teleconferências regulares entre nossos gerentes de motor permitiram que eles compartilhassem dicas e truques de manutenção, revelando uma série de melhorias que possivelmente poderíamos implementar em nossos sistemas Ion Drive em toda a frota.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumWarpFieldFocus_Dec</Label>
+    <String>Nossa implementação inicial de motores de dobra aparentemente deixou muito espaço para melhorias. R &amp; D acredita que uma série de eficiências diferentes ainda não foram encontradas nestes sistemas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHyperwarpMastery_Dec</Label>
+    <String>Iridium R &amp; D lidera a galáxia em seu trabalho sobre tecnologias de acionamento, dando-nos uma incrível vantagem competitiva em todas as nossas negociações. E graças aos incentivos adequados aos trabalhadores, eles ainda buscam incansavelmente mais maneiras de melhorar em nossa vantagem.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumSensorOptimization_Dec</Label>
+    <String>Parece provável que nossa rede de fornecedores possa ajudar a melhorar nossos sistemas de sensores. Com as atualizações e acessórios corretos para o mercado de reposição, nossos sistemas de sensores poderiam se tornar mais eficazes, ou no mínimo mais eficientes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumEnergyFieldFocus_Dec</Label>
+    <String>Os gerentes de sensores podem ganhar bônus por identificar maneiras de fazer seu trabalho de forma mais eficaz, e uma série de grandes idéias percolaram a cadeia de comando recentemente devido a esta prática.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumSensorMastery_Dec</Label>
+    <String>R &amp; D Parece bastante certo que não vamos encontrar mais nenhum aumento em nossa faixa de sensores, devido a algumas restrições inevitáveis deste universo. Mas não há nenhuma razão para não podermos ainda tentar torná-los mais leves ou mais baratos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPrecursorRelicFocus_Dec</Label>
+    <String>As relíquias precursoras não nos oferecem apenas restos de tecnologia; elas também podem transmitir efeitos culturais e econômicos significativos. Se assim o escolhermos, podemos adaptar nossos esforços de pesquisa do Precursor para maximizar esses efeitos associados.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumLifeSupportOptimization_Dec</Label>
+    <String>Há uma variedade de maneiras em que nossos gerentes de produto podem melhorar nossos sistemas de suporte de vida. Eles podem tornar esses sistemas mais leves, mais eficazes ou simplesmente mais econômicos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumSupportFieldFocus_Dec</Label>
+    <String>O empreiteiro que entregou nossos sistemas de suporte de vida baseados em campo foi demitido, devido aos muitos problemas que os primeiros sistemas deixaram para trás. A R &amp; D está procurando maneiras de melhorar estes sistemas agora.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumLifeSupportMastery_Dec</Label>
+    <String>Nossa tecnologia de injeção direta de nutrientes lidera o mercado de suporte de vida galáctico, todos os nossos concorrentes tentam febrilmente construir suas próprias versões. Mas mesmo com o chumbo, isso não é motivo para parar de melhorar de nossa parte.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumOrbitalSpecialization_Dec</Label>
+    <String>Enquanto reunidos para uma de suas conferências regulares, nossos gerentes de construção orbital chegaram a uma série de métodos com os quais pudemos começar a melhorar nossas práticas de construção orbital.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumZeroGravityOptimization_Dec</Label>
+    <String>Nossos gerentes de contrato têm monitorado o desempenho de nossos empreiteiros de construção e identificado uma série de lapsos em seu desempenho. As cláusulas apropriadas que os forçaram a melhorar foram acionadas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumOrbitalConstructionFocus_Dec</Label>
+    <String>Após um período de transição ligeiramente acidentado, nossos novos empreiteiros de construção estão se instalando e já estão encontrando maneiras de melhorar seu trabalho.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHullMastery_Dec</Label>
+    <String>Nossos empreiteiros afirmam que dominaram a construção naval. Mas são sempre possíveis outras melhorias; todo nosso aparato de gestão de qualidade repousa sobre esse fato.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumCarrierFocus_Dec</Label>
+    <String>O feedback dos usuários de nossos primeiros módulos de transporte revelou uma série de caminhos de melhoria que podemos começar a buscar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumLogisticalOptimization_Dec</Label>
+    <String>Uma nova versão de nosso processo de gestão de qualidade está sendo instalada em toda nossa corporação e subempreiteiras. As primeiras áreas que provavelmente verão melhorias são nossas principais operações logísticas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumWeaponsSpecialization_Dec</Label>
+    <String>Instruir nosso departamento de R &amp; D a especializar suas pesquisas sobre armas acabará levando a mais avanços para nossa classe de armas escolhida e, a curto prazo, a armas mais eficientes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBeamWeaponOptimization_Dec</Label>
+    <String>Muitos de nossos subcontratados estão dando grandes passos no desenvolvimento de materiais utilizados em armas de raios. Estes novos materiais podem levar a uma série de novas melhorias para nosso arsenal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumHighEnergyFocus_Dec</Label>
+    <String>Uma revisão de nossos sistemas de armas de raios revelou uma série de decisões não ideais que foram tomadas durante seu projeto. Aparentemente ninguém é culpado por isso, embora muitos sejam demitidos por isso. Enquanto isso, a R &amp; D começou a trabalhar para melhorar estas armas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBeamWeaponMastery_Dec</Label>
+    <String>O mercado de Iridium tem poucos pares no campo do armamento de feixe, nossas armas são tão poderosas quanto qualquer outra na galáxia. Mas ainda há algumas pequenas eficiências a serem obtidas com nossa geração atual.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMissileOptimization_Dec</Label>
+    <String>Não deve ser preciso muito esforço para R &amp; D para encontrar maneiras de melhorar nossos sistemas de mísseis, visto que a tecnologia é fundamentalmente simples.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumWarheadFocus_Dec</Label>
+    <String>O desenvolvimento de ogivas é uma indústria especializada com muito poucos fornecedores qualificados, resultando em uma variedade de ineficiências de mercado. Será necessário algum esforço concentrado para forçar nossos fornecedores a fazer melhor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPayloadMastery_Dec</Label>
+    <String>Nosso fornecedor de sistemas de ogivas fotônicas tem vários incentivos de desempenho incorporados em seu contrato para fornecer sistemas melhorados dentro de prazos acordados que estão se aproximando rapidamente.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumKineticOptimization_Dec</Label>
+    <String>Um vasto número de componentes é necessário para nossas armas cinéticas. É apenas uma questão de tempo até que nossos fornecedores apresentem versões melhoradas desses componentes, levando a armas melhoradas para nós.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumKineticAccelerationFocus_Dec</Label>
+    <String>Um avanço recente no setor de supercondutores promete levar a uma série de melhorias para nossos sistemas de armas cinéticas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumKineticMastery_Dec</Label>
+    <String>A Iridium Corporation e seus fornecedores associados são agora amplamente considerados como mestres da tecnologia de armas cinéticas, com poucos pares na galáxia. Restam apenas algumas eficiências remanescentes no campo.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAcquisitionSpecialization_Name</Label>
+    <String>Especialização em aquisições</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAcquisitionSpecialization_ShortDec</Label>
+    <String>Melhora nossos sistemas militares.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAcquisitionSpecialization_Dec</Label>
+    <String>Nossas forças de segurança terão muito mais facilidade em adquirir outros ativos se as ferramentas que utilizam para fazê-lo forem as melhores que podem ser.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumInvasionOptimization_Dec</Label>
+    <String>Certas aquisições planetárias podem ser mais desafiadoras do que outras e, nesses casos, devemos ter certeza de que nossas forças de segurança têm as táticas e equipamentos avançados de que precisam para fazer seu trabalho.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumGravitationalFocus_Dec</Label>
+    <String>Nosso recente domínio sobre o gravitão permitirá a nossas forças de segurança maior flexibilidade ao lidar com contrapartes particularmente recalcitrantes durante as etapas iniciais do processo de aquisição.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDefensiveSpecialization_Dec</Label>
+    <String>Não deve ser preciso muito trabalho para melhorar as capacidades de nossos sistemas defensivos. A primeira geração de qualquer tecnologia sempre tem espaço para melhorias substanciais.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumShieldOptimization_Dec</Label>
+    <String>Nosso contrato de fornecimento de escudo tem várias cláusulas de incentivo de desempenho para convencer nosso fornecedor a melhorar seus sistemas de escudo. Esperamos ver os frutos disso a qualquer momento.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumBarrierSystemFocus_Dec</Label>
+    <String>Um concorrente de nosso atual fornecedor de sistemas de proteção promete a capacidade de fornecer escudos melhorados se pudermos adjudicar o contrato a eles. Quebrar o contrato existente pode incorrer em penalidades, mas às vezes é esse o custo do progresso.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumShieldMastery_Dec</Label>
+    <String>Não deve ser uma surpresa que tenhamos dominado tão completamente a tecnologia de proteção, dadas as vantagens que nosso compromisso com mercados abertos e competitivos proporciona. E esse processo não termina; certamente mais melhorias estão por vir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPointDefenseOptimization_Dec</Label>
+    <String>Entre as principais gerações de sistemas, nossos fornecedores muitas vezes apresentam pequenas atualizações em seus equipamentos que apresentam pequenos ganhos de desempenho. Não temos motivos para suspeitar que nossos sistemas de defesa pontual serão diferentes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumCounterMeasureFocus_Dec</Label>
+    <String>Asseguramos que os protocolos de atualização fossem incluídos em nosso contrato de suite ECM, como fazemos com todas as novas tecnologias. E nosso fornecedor já sugeriu uma série de possibilidades promissoras que a próxima rodada de atualizações poderia ter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDroneSystemMastery_Dec</Label>
+    <String>Os sistemas Drone adicionaram tanto equipamento extra às nossas defesas pontuais, que qualquer pequena economia de custo ou peso que pudermos encontrar com eles será ampliada significativamente.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumArmorOptimization_Dec</Label>
+    <String>A armadura é tão simples que temos uma seleção bastante ampla de fornecedores dispostos a fabricá-la para nós, todos os quais prometem melhorar o que já temos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumArmorFocus_Dec</Label>
+    <String>Nenhum sistema é perfeito e nossos fabricantes de armaduras sabem que têm que buscar incessantemente inovações se quiserem manter a fatia de mercado que têm.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumArmorMastery_Dec</Label>
+    <String>As embarcações de segurança Iridium já são algumas das mais duráveis da galáxia. Mas as ameaças de alto risco que elas são chamadas a enfrentar estão sempre aumentando seus próprios perfis de risco. Devemos inovar continuamente nossos sistemas de blindagem para nos mantermos à frente da curva.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDiplomaticSpecialization_Dec</Label>
+    <String>Um estudo cuidadoso dos idiomas usados por nossos vizinhos pode desvendar valiosos insights sobre a maneira como pensam. Isso facilitará nossos esforços diplomáticos, para não falar da vantagem que isso trará para nossa indústria publicitária.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPoliticalSpecialization_Dec</Label>
+    <String>Há várias filosofias concorrentes sobre como a governança corporativa deve ser conduzida em um negócio de galáxia. Devemos escolher entre estas opções com muito cuidado.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPoliticalFocus_Dec</Label>
+    <String>Mesmo nossas principais políticas de gestão devem se submeter a um processo de melhoria contínua. Uma série de novas filosofias de gestão foram desenvolvidas nos últimos anos, as quais seria prudente considerar cuidadosamente.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumPoliticalMastery_Dec</Label>
+    <String>Algumas das técnicas de gestão mais avançadas exigirão a adesão total de nossos funcionários. Foi necessário a implantação de uma nova geração de ondas cerebrais subconscientes motivacionais para que pudéssemos até mesmo considerar algumas dessas técnicas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDiplomaticOptimization_Name</Label>
+    <String>Negociação de contratos</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumDiplomaticOptimization_Dec</Label>
+    <String>Dependendo de nossas necessidades comerciais, podemos desejar perseguir tipos específicos de tratados diplomáticos com nossos concorrentes mais amigáveis.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAllianceFocus_Name</Label>
+    <String>Parcerias</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumAllianceFocus_Dec</Label>
+    <String>Nossos negociadores não têm par nesta galáxia, e podem inclinar alianças em qualquer direção que escolham. Devemos considerar cuidadosamente nossas necessidades comerciais antes de entrar em tais negociações.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMarketingSpecialization_Name</Label>
+    <String>Especialização em Marketing</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMarketingSpecialization_ShortDec</Label>
+    <String>Melhora o Potencial de Marketing</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumMarketingSpecialization_Dec</Label>
+    <String>O marketing é um dos aspectos mais importantes de nosso negócio. O potencial para aumentar os lucros ou melhorar nossa imagem corporativa é imenso, e quaisquer recursos gastos aqui são certamente gastos de forma sensata.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumCommerceSpecialization_Dec</Label>
+    <String>Uma pesquisa de mercado de rotina mostrou que nossos clientes têm uma variedade de necessidades únicas que nossa economia em rápido crescimento poderia satisfazer para eles. A focalização de algumas dessas necessidades especificamente poderia ser justificada.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumEconomicFocus_Dec</Label>
+    <String>A Iridium Corporation está envolvida em múltiplas linhas de negócios, garantindo uma boa combinação saudável de fontes de receita. Mas quando as condições comerciais o ditam, também podemos optar por nos especializar em um campo específico, para tentar maximizar a renda que lá recebemos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumTradeOptimization_Dec</Label>
+    <String>Entender o que o cliente precisa é fundamental em qualquer negócio, e o comércio externo não é diferente. Se focarmos nossas negociações em tipos específicos de clientes, devemos ser capazes de lucrar mais com nossos esforços.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumTradeFocus_Dec</Label>
+    <String>Todas as nossas atividades comerciais devem se complementar e, se nosso departamento comercial puder ajudar a impulsionar setores específicos de nossos negócios, seríamos tolos se não o prosseguíssemos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumApprovalFocus_Dec</Label>
+    <String>A pesquisa de mercado identificou uma série de públicos dentro de nossos negócios que poderiam ser mais receptivos a certos tipos de produtos de enterainment.</String>
+  </StringTable>
+ 
+</StringTableList>

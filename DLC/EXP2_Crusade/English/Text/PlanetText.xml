@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+
+  <!--Sol System-->
+  
+	<StringTable>
+		<Label>MERCURY_NAME</Label>
+		<String>Mercurio</String>
+	</StringTable>
+	
+	<StringTable>
+		<Label>EarthName</Label>
+		<String>Terra</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>MarsName</Label>
+		<String>Marte</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>JupiterName</Label>
+		<String>Jupiter</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>SaturnName</Label>
+		<String>Saturno</String>
+	</StringTable>
+  
+  <!--Drengia System-->
+
+  <StringTable>
+    <Label>Drengia_Name</Label>
+    <String>Drengia</String>
+  </StringTable>
+  
+	<StringTable>
+		<Label>DrengiName</Label>
+		<String>Drengi</String>
+	</StringTable>
+
+  <StringTable>
+    <Label>Kona_Name</Label>
+    <String>Kona</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Rathor_Name</Label>
+    <String>Rathor</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Grathis_Name</Label>
+    <String>Grathis</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Mawhar_Name</Label>
+    <String>Mawhar</String>
+  </StringTable>
+  
+<!--Altaris System-->
+  
+  <StringTable>
+		<Label>Altaris_Name</Label>
+		<String>Altaris</String>
+	</StringTable>
+  
+	<StringTable>
+		<Label>AltariaName</Label>
+		<String>Altaria</String>
+	</StringTable>
+
+  <StringTable>
+    <Label>Wisp_Name</Label>
+    <String>Wisp</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Epas_Name</Label>
+    <String>Po</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Imoth_Name</Label>
+    <String>Imoth</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Po_Name</Label>
+    <String>Po</String>
+  </StringTable>
+  
+  
+  <!--Icos System-->
+
+	<StringTable>
+		<Label>IcosName</Label>
+		<String>Icos</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>IconiaName</Label>
+		<String>Iconia</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>Iconia2Name</Label>
+		<String>Iconia II</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>Iconia3Name</Label>
+		<String>Iconia III</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>Iconia4Name</Label>
+		<String>Iconia IV</String>
+	</StringTable>
+
+  <!--Iridii System-->
+
+  <StringTable>
+    <Label>Iridii_Name</Label>
+    <String>Iridii</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>IridiaName</Label>
+    <String>Iridia</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Vallus_Name</Label>
+    <String>Vallus</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Silver_Name</Label>
+    <String>Silver</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Gold_Name</Label>
+    <String>Gold</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>KrysethName</Label>
+    <String>Kryseth</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>PlanetKrysethAlphaName</Label>
+    <String>Kryseth Beta</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>PlanetKrysethBetaName</Label>
+    <String>Kryseth Gamma</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>PlanetEiddenName</Label>
+    <String>Eidden</String>
+  </StringTable>
+	
+	  <StringTable>
+    <Label>PlanetArbName</Label>
+    <String>Arb</String>
+  </StringTable>
+	
+
+	<!--New Iconis System-->
+	<StringTable>
+		<Label>IconisName</Label>
+		<String>Iconis</String>
+	</StringTable>
+	
+	<StringTable>
+		<Label>NewIconiaName</Label>
+		<String>New Iconia</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>NewIconiaName2</Label>
+		<String>Sanctum</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>NewIconiaName3</Label>
+		<String>Shine</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>NewIconiaName4</Label>
+		<String>Shadow</String>
+	</StringTable>
+
+	<!--New Thala System-->
+	<StringTable>
+		<Label>ThalisName</Label>
+		<String>Thalis</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>SnathosName</Label>
+		<String>Snathos</String>
+	</StringTable>
+	
+		<StringTable>
+		<Label>AcornName</Label>
+		<String>Acorn</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>PebbleName</Label>
+		<String>Pebble</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>ThalaName</Label>
+		<String>Thala</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>RemorseName</Label>
+		<String>Remorse</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>SarrowName</Label>
+		<String>Sarrow</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>RegretName</Label>
+		<String>Regret</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>SnathiPrime_Name</Label>
+		<String>Snathi Prime</String>
+	</StringTable>
+
+  <!-- Crusades Faction starter planets -->
+
+  <StringTable>
+    <Label>Onyx_Name</Label>
+    <String>Onyx Prime</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Stone_Name</Label>
+    <String>Stone</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Sardonyx_Name</Label>
+    <String>Sardonyx</String>
+  </StringTable>
+
+
+  <StringTable>
+    <Label>Slyne_Name</Label>
+    <String>Slyne Omega</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Ita_Name</Label>
+    <String>Ita</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Raz_Name</Label>
+    <String>Raz</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Refuge_Name</Label>
+    <String>Refúgio</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Shade_Name</Label>
+    <String>Shade</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Shield_Name</Label>
+    <String>Shield</String>
+  </StringTable>
+
+	<!-- Custom faction starter planets -->
+  <StringTable>
+    <Label>StarterPlanetSereneName</Label>
+    <String>Serene Homeworld</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>PlanetDustName</Label>
+    <String>Dust</String>
+  </StringTable>
+	
+  <StringTable>
+    <Label>TutorialPlanet_Refuge_Name</Label>
+    <String>Refuge</String>
+  </StringTable>
+
+	<StringTable>
+		<Label>CampaignPlanet_Arcea_Name</Label>
+		<String>Arcea</String>
+	</StringTable>
+
+  <StringTable>
+    <Label>Planet_Athol_Name</Label>
+    <String>Athol</String>
+  </StringTable>
+
+
+  <StringTable>
+    <Label>Planet_Arcea_Name</Label>
+    <String>Arcea</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Planet_Hammer_Name</Label>
+    <String>Hammer</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Planet_Anvil_Name</Label>
+    <String>Anvil</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Planet_Spark_Name</Label>
+    <String>Spark</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Planet_Torus_Name</Label>
+    <String>Torus</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>Planet_Toria_Name</Label>
+    <String>Toria</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Planet_Pearl_Name</Label>
+    <String>Pearl</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Planet_Reef_Name</Label>
+    <String>Reef</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Planet_Deep_Name</Label>
+    <String>Deep</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Planet_AlphaCentauri_Name</Label>
+    <String>Alpha Centauri</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Planet_Proxima_Name</Label>
+    <String>Proxima Ursae</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Planet_Haven_Name</Label>
+    <String>Haven</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>Planet_Aven_Name</Label>
+    <String>Aven Prime</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>YivenIIIName</Label>
+    <String>Yiven III</String>
+  </StringTable>
+
+</StringTableList>

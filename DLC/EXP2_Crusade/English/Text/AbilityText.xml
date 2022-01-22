@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- AbilityText.xml -->
+ 
+  <StringTable>
+    <Label>ColonizersAbility_Name</Label>
+    <String>Colonizadores</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonizersAbility_ShortName</Label>
+    <String>Colonizadores</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonizersAbility_Dec</Label>
+    <String>Seus navios colônia reembolsam seu Administrador ao colonizar um novo mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DevoutAbility_Name</Label>
+    <String>Devoto</String>
+  </StringTable>
+  <StringTable>
+    <Label>DevoutAbility_ShortName</Label>
+    <String>Devoto</String>
+  </StringTable>
+  <StringTable>
+    <Label>DevoutAbility_Dec</Label>
+    <String>Começa com um Clérigo, acesso às tecnologias Jihad e Caminho. A cultura cresce cada vez que eles aumentam a sua ideologia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EngineersAbility_Name</Label>
+    <String>Engenheiros</String>
+  </StringTable>
+  <StringTable>
+    <Label>EngineersAbility_ShortName</Label>
+    <String>Engenheiros</String>
+  </StringTable>
+  <StringTable>
+    <Label>EngineersAbility_Dec</Label>
+    <String>A produção de navios e asteróides decai pela metade da taxa normal.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XenophobicAbility_Name</Label>
+    <String>Xenofóbico</String>
+  </StringTable>
+  <StringTable>
+    <Label>XenophobicAbility_ShortName</Label>
+    <String>Xenofóbico</String>
+  </StringTable>
+  <StringTable>
+    <Label>XenophobicAbility_Dec</Label>
+    <String>A pesquisa e a construção social triplicaram, a construção militar caiu pela metade e a capacidade de construir a realização do Conclave dos Sonhos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TimeTravelersAbility_Name</Label>
+    <String>Viajantes no tempo</String>
+  </StringTable>
+  <StringTable>
+    <Label>TimeTravelersAbility_ShortName</Label>
+    <String>Viajantes no tempo</String>
+  </StringTable>
+  <StringTable>
+    <Label>TimeTravelersAbility_Dec</Label>
+    <String>Viajou de volta a esta época do futuro, Grande tecnologia, sem infra-estrutura. Acesso às tecnologias Dimensional Fazing.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HeroicAbility_Name</Label>
+    <String>Heroico</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeroicAbility_ShortName</Label>
+    <String>Heroico</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeroicAbility_Dec</Label>
+    <String>Começa com a tecnologia da Escola Superior de Guerra, bônus para as legiões que defendem os planetas.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ZealotsAbility_Name</Label>
+    <String>Escravos</String>
+  </StringTable>
+  <StringTable>
+    <Label>ZealotsAbility_ShortName</Label>
+    <String>Escravos</String>
+  </StringTable>
+  <StringTable>
+    <Label>ZealotsAbility_Dec</Label>
+    <String>Ganhe acesso às Tecnologias Esclavagistas e ganhe pontos adicionais de Ideologia cada vez que você Conquista um mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnrelentingAbility_Name</Label>
+    <String>Incansável</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnrelentingAbility_ShortName</Label>
+    <String>Incansável</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnrelentingAbility_Dec</Label>
+    <String>As invasões nunca custam créditos. Os planetas geram +1 mais influência por turno.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientAbility_Name</Label>
+    <String>Antigo</String>
+  </StringTable>
+  <StringTable>
+    <Label>AncientAbility_ShortName</Label>
+    <String>Antigo</String>
+  </StringTable>
+  <StringTable>
+    <Label>AncientAbility_Dec</Label>
+    <String>Obtém pesquisas a partir de artefatos precursores e anomalias. Recebe acesso à Tecnologia Xeno Mysticism. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnwaveringAbility_Name</Label>
+    <String>Inabalável</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnwaveringAbility_ShortName</Label>
+    <String>Inabalável</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnwaveringAbility_Dec</Label>
+    <String>As colônias são muito mais difíceis de serem viradas para a Cultura e o acesso às tecnologias do Espírito Inquebrável.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EntrepreneursAbility_Name</Label>
+    <String>Comerciantes</String>
+  </StringTable>
+  <StringTable>
+    <Label>EntrepreneursAbility_ShortName</Label>
+    <String>Comerciantes</String>
+  </StringTable>
+  <StringTable>
+    <Label>EntrepreneursAbility_Dec</Label>
+    <String>Starts with freighter, access to special trade related improvements, access to Acquisition and Marketing technologies receives 5 additional trade licenses.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WealthyAbility_Name</Label>
+    <String>Wealthy</String>
+  </StringTable>
+  <StringTable>
+    <Label>WealthyAbility_ShortName</Label>
+    <String>Wealthy</String>
+  </StringTable>
+  <StringTable>
+    <Label>WealthyAbility_Dec</Label>
+    <String>Starts with 1000 more credits. Planets start with an extra production point.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PatrioticAbility_Name</Label>
+    <String>Bureaucrats</String>
+  </StringTable>
+  <StringTable>
+    <Label>PatrioticAbility_ShortName</Label>
+    <String>Bureaucrats</String>
+  </StringTable>
+  <StringTable>
+    <Label>PatrioticAbility_Dec</Label>
+    <String>Starts game with 10 extra Administrator points and access to coordination technologies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProlificAbility_Name</Label>
+    <String>Prolific</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProlificAbility_ShortName</Label>
+    <String>Prolific</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProlificAbility_Dec</Label>
+    <String>Planets start with 50% more population than is brought on the Colony ship. Population grows much faster.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AdaptableAbility_Name</Label>
+    <String>Adaptable</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdaptableAbility_ShortName</Label>
+    <String>Adaptable</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdaptableAbility_Dec</Label>
+    <String>Starts with Extreme World Colonization technology and access to the Precursor Archive achievement.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DeterminedAbility_Name</Label>
+    <String>Determined</String>
+  </StringTable>
+  <StringTable>
+    <Label>DeterminedAbility_ShortName</Label>
+    <String>Determined</String>
+  </StringTable>
+  <StringTable>
+    <Label>DeterminedAbility_Dec</Label>
+    <String>Ships get +5 tiles of range.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AngryAbility_Name</Label>
+    <String>Angry</String>
+  </StringTable>
+  <StringTable>
+    <Label>AngryAbility_ShortName</Label>
+    <String>Angry</String>
+  </StringTable>
+  <StringTable>
+    <Label>AngryAbility_Dec</Label>
+    <String>They're just very angry. Start with a military vessel.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DiplomaticAbility_Name</Label>
+    <String>Diplomatic</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomaticAbility_ShortName</Label>
+    <String>Diplomatic</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomaticAbility_Dec</Label>
+    <String>Can build the Galactic Council and starts with diplomatic bonus with all races.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ConquerorAbility_Name</Label>
+    <String>Conquerors</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConquerorAbility_ShortName</Label>
+    <String>Conquerors</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConquerorAbility_Dec</Label>
+    <String>Legions start at twice as good as anyone else's. Receives 2,500bc upon conquering a planet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HopefulAbility_Name</Label>
+    <String>Hopeful</String>
+  </StringTable>
+  <StringTable>
+    <Label>HopefulAbility_ShortName</Label>
+    <String>Hopeful</String>
+  </StringTable>
+  <StringTable>
+    <Label>HopefulAbility_Dec</Label>
+    <String>Believes any civilization capable of space travel must be a potential friend. Higher morale on planets.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CertainAbility_Name</Label>
+    <String>Certain</String>
+  </StringTable>
+  <StringTable>
+    <Label>CertainAbility_ShortName</Label>
+    <String>Certain</String>
+  </StringTable>
+  <StringTable>
+    <Label>CertainAbility_Dec</Label>
+    <String>Believes their philosophy should be universal, increased (+2) influence, special planet improvements. Planets receive 100 research every time an ideological trait is unlocked.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>StarfaringAbility_Name</Label>
+    <String>Starfaring</String>
+  </StringTable>
+  <StringTable>
+    <Label>StarfaringAbility_ShortName</Label>
+    <String>Starfaring</String>
+  </StringTable>
+  <StringTable>
+    <Label>StarfaringAbility_Dec</Label>
+    <String>Ships immune to nebula and has access to special Hyperion improvements.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ParanoidAbility_Name</Label>
+    <String>Paranoid</String>
+  </StringTable>
+  <StringTable>
+    <Label>ParanoidAbility_ShortName</Label>
+    <String>Paranoid</String>
+  </StringTable>
+  <StringTable>
+    <Label>ParanoidAbility_Dec</Label>
+    <String>Free drones defend planets, shipyards and Starbases, and access to the Molecular Fabrication technologies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IntuitiveAbility_Name</Label>
+    <String>Intuitive</String>
+  </StringTable>
+  <StringTable>
+    <Label>IntuitiveAbility_ShortName</Label>
+    <String>Intuitive</String>
+  </StringTable>
+  <StringTable>
+    <Label>IntuitiveAbility_Dec</Label>
+    <String>Starts with free Research, and access to Xeno Anthropology technologies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KnowledgeableAbility_Name</Label>
+    <String>Knowledgeable</String>
+  </StringTable>
+  <StringTable>
+    <Label>KnowledgeableAbility_ShortName</Label>
+    <String>Knowledgeable</String>
+  </StringTable>
+  <StringTable>
+    <Label>KnowledgeableAbility_Dec</Label>
+    <String>Starts knowing the location of other homeworlds, and access to the Gravitonic tree.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CyberneticAbility_Name</Label>
+    <String>Cybernetic</String>
+  </StringTable>
+  <StringTable>
+    <Label>CyberneticAbility_ShortName</Label>
+    <String>Cybernetic</String>
+  </StringTable>
+  <StringTable>
+    <Label>CyberneticAbility_Dec</Label>
+    <String>Gives Access to more powerful technologies and Improvements for races who are not afraid to interface with superior technologies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SneakyAbility_Name</Label>
+    <String>Sneaky</String>
+  </StringTable>
+  <StringTable>
+    <Label>SneakyAbility_ShortName</Label>
+    <String>Sneaky</String>
+  </StringTable>
+  <StringTable>
+    <Label>SneakyAbility_Dec</Label>
+    <String>Starts Espionage technology.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InventiveAbility_Name</Label>
+    <String>Inventive</String>
+  </StringTable>
+  <StringTable>
+    <Label>InventiveAbility_ShortName</Label>
+    <String>Inventive</String>
+  </StringTable>
+  <StringTable>
+    <Label>InventiveAbility_Dec</Label>
+    <String>Starts with an Engineering citizen type, Constructor ship.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResourcefulAbility_Name</Label>
+    <String>Resourceful</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResourcefulAbility_ShortName</Label>
+    <String>Resourceful</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResourcefulAbility_Dec</Label>
+    <String>Starts with some useful Resources.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WarriorsAbility_Name</Label>
+    <String>Warriors</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarriorsAbility_ShortName</Label>
+    <String>Warriors</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarriorsAbility_Dec</Label>
+    <String>Ignore 10% of all damage done to their ships. All weapons have 10% longer range.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VigilantAbility_Name</Label>
+    <String>Vigilant</String>
+  </StringTable>
+  <StringTable>
+    <Label>VigilantAbility_ShortName</Label>
+    <String>Vigilant</String>
+  </StringTable>
+  <StringTable>
+    <Label>VigilantAbility_Dec</Label>
+    <String>Starbases have larger Areas of Effect. Enemy ships are slowed, and player ships gain an attack bonus, while in the area of any starbase.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AeroponicsAbility_Name</Label>
+    <String>Aeroponics</String>
+  </StringTable>
+  <StringTable>
+    <Label>AeroponicsAbility_ShortName</Label>
+    <String>Aeroponics</String>
+  </StringTable>
+  <StringTable>
+    <Label>AeroponicsAbility_Dec</Label>
+    <String>A tradition of growing plants without soil enables Aeroponic Farms on any terrain with the Xeno Adaptation Technology.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SurveyStartingShip_Name</Label>
+    <String>[ICON=SurveyShip_Icon] Survey Ship</String>
+  </StringTable>
+  <StringTable>
+    <Label>SurveyStartingShip_ShortName</Label>
+    <String>Survey Ship</String>
+  </StringTable>
+  <StringTable>
+    <Label>SurveyStartingShip_Dec</Label>
+    <String>Begin with a Survey Ship that explores the galaxy and investigates valuable Anomalies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ColonyStartingShip_Name</Label>
+    <String>[ICON=ColonyShip_Icon] Colony Ship</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyStartingShip_ShortName</Label>
+    <String>Colony Ship</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyStartingShip_Dec</Label>
+    <String>Begin with a Colony Ship that  quickly begins the search for new worlds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ConstructorsStartingShip_Name</Label>
+    <String>[ICON=Constructor_Icon] Constructors</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConstructorsStartingShip_ShortName</Label>
+    <String>Constructors</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConstructorsStartingShip_Dec</Label>
+    <String>Start with two Constructors that start to quickly tap the galactic resources.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ScoutsStartingShip_Name</Label>
+    <String>[ICON=Scout_Icon] Scouts</String>
+  </StringTable>
+  <StringTable>
+    <Label>ScoutsStartingShip_ShortName</Label>
+    <String>Scouts</String>
+  </StringTable>
+  <StringTable>
+    <Label>ScoutsStartingShip_Dec</Label>
+    <String>Start with three tiny Scout Ships that quickly explore the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FuryStartingShip_Name</Label>
+    <String>[ICON=Fury_Icon] Furies</String>
+  </StringTable>
+  <StringTable>
+    <Label>FuryStartingShip_ShortName</Label>
+    <String>Furies</String>
+  </StringTable>
+  <StringTable>
+    <Label>FuryStartingShip_Dec</Label>
+    <String>Starts with two Small Warships armed with experimental weapons and defense systems.</String>
+  </StringTable>
+ 
+</StringTableList>

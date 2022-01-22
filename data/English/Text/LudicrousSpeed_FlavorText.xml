@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- LudicrousSpeed_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>LudicrousSpeed_MegaEvent_Message_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Um cientista de volta ao nosso mundo natal descobriu uma maneira de aumentar muito a eficácia dos sistemas Hyperdrive de todos os tipos. Infelizmente, ele parece inclinado a compartilhar este conhecimento com todos os seus pares, independentemente de sua raça de origem.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>LudicrousSpeed_MegaEvent_Message_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Deixe-o compartilhar seu trabalho. Se todas as raças avançarem juntas, não precisamos temer que nenhuma delas ganhe uma vantagem.
+[COLOR=BenevolentBlue](Benevolente +50, +100% Movimentos Base para todos os navios)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>LudicrousSpeed_MegaEvent_Message_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tenho certeza de que com um pequeno incentivo financeiro podemos garantir que este conhecimento permaneça conosco sozinhos.
+[COLOR=PragmaticGold](Pragmatico +25, -2500 Creditos, +100% Movimentos Base para todos os navios)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>LudicrousSpeed_MegaEvent_Message_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Certifique-se de que o tolo tenha um acidente. Tenho certeza de que nossos pesquisadores podem fazer algo com suas anotações.
+[COLOR=WarRed](Malevolo +25, +50% Movimentos Base para nossos navios)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- DLC3_FactionText.xml -->
+ 
+  <StringTable>
+    <Label>FACTION_DLC_SNATHI_Name</Label>
+    <String>Snathi Revenge</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_SNATHI_ShortName</Label>
+    <String>Snathi</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_SNATHI_LeaderName</Label>
+    <String>Lord Snarky</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_SNATHI_Dec</Label>
+    <String>A seita mais maligna de uma raça já maligna, a Vingança Snathi, passou os últimos milênios aprisionada pelos precursores em um mundo distante.  Livre por fim, eles mostrarão à galáxia a verdadeira face do Mal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_SNATHI_LeaderDec</Label>
+    <String>O líder do Snathi, Lord Snarky, é conhecido por ter uma mente tão afiada quanto seus dentes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_SNATHI_Callsign</Label>
+    <String>S.S.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_SNATHI_StartupTitle</Label>
+    <String>A vingança será nossa!</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_SNATHI_StartupDescription</Label>
+    <String>A seita mais E-V-I-L de uma raça já maligna, a Vingança Snathi, passou os últimos milênios aprisionada pelos Precursores em um mundo distante. Com a queda dos Senhores do Temido, os Snathi são finalmente livres para devastar uma galáxia de seres e inimigos menores. 
+
+Em nome de seus criadores, os Dread Lords, o Snathi mostrará à galáxia a verdadeira face do medo.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DLC_SNATHI_StartupTraitsDescription</Label>
+    <String>Tsnathi são a última raça de necrófagos. Eles aprendem rapidamente a juntar as tecnologias que encontram e podem reparar as embarcações mais danificadas a um ritmo nunca antes ouvido por outras raças. Os Snathi também são conhecidos por escolherem as tecnologias de outras raças e utilizá-las para seus próprios fins nefastos.</String>
+  </StringTable>
+ 
+</StringTableList>

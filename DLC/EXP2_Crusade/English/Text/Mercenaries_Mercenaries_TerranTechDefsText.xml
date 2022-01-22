@@ -1,0 +1,2792 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Mercenaries_TerranTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>Mercenaries_TerranTechTree_Name</Label>
+    <String>Mercenaries Terran Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranColonizationTech_Name</Label>
+    <String>Colonization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranColonizationTech_ShortDec</Label>
+    <String>Allows construction of colony modules and basic colony buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranXenoIndustrializationTech_Name</Label>
+    <String>Xeno Industrialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranXenoIndustrializationTech_ShortDec</Label>
+    <String>Allows construction of improved colony buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIndustrialSpecialization1_Name</Label>
+    <String>Manufacturing Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIndustrialSpecialization1_ShortDec</Label>
+    <String>Improves manufacturing capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIndustrialSpecialization2_Name</Label>
+    <String>Research Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIndustrialSpecialization2_ShortDec</Label>
+    <String>Improves research capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIndustrialSpecialization3_Name</Label>
+    <String>Industrial Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIndustrialSpecialization3_ShortDec</Label>
+    <String>Reduces the cost of building manufacturing and research centers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAdvancedConstruction_Name</Label>
+    <String>Advanced Construction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAdvancedConstruction_ShortDec</Label>
+    <String>Allows construction of advanced manufacturing facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranConstructionOptimization1_Name</Label>
+    <String>Optimized Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranConstructionOptimization1_ShortDec</Label>
+    <String>Improves manufacturing capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranConstructionOptimization2_Name</Label>
+    <String>Efficient Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranConstructionOptimization2_ShortDec</Label>
+    <String>Reduces manufacturing cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranConstructionOptimization3_Name</Label>
+    <String>Sustainable Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranConstructionOptimization3_ShortDec</Label>
+    <String>Reduces maintenance costs of manufacturing plants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranXenoManufacturingMethods_Name</Label>
+    <String>Precision Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranXenoManufacturingMethods_ShortDec</Label>
+    <String>Allows construction of exotic manufacturing facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranManufacturingFocus1_Name</Label>
+    <String>Military Industry</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranManufacturingFocus1_ShortDec</Label>
+    <String>Improves military manufacturing capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranManufacturingFocus2_Name</Label>
+    <String>Social Industry</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranManufacturingFocus2_ShortDec</Label>
+    <String>Improves civilian manufacturing capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranManufacturingFocus3_Name</Label>
+    <String>Competitive Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranManufacturingFocus3_ShortDec</Label>
+    <String>Reduces manufacturing costs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIndustrialExpertise_Name</Label>
+    <String>Industrial Expertise</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIndustrialExpertise_ShortDec</Label>
+    <String>Allows construction of the ultimate manufacturing facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIndustrialMastery1_Name</Label>
+    <String>Master Military Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIndustrialMastery1_ShortDec</Label>
+    <String>Improves military manufacturing capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIndustrialMastery2_Name</Label>
+    <String>Social Construction Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIndustrialMastery2_ShortDec</Label>
+    <String>Improves social manufacturing capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPracticalFusion_Name</Label>
+    <String>Practical Fusion</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPracticalFusion_ShortDec</Label>
+    <String>Allows construction of improved power plants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranQuantumPower_Name</Label>
+    <String>Quantum Power</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranQuantumPower_ShortDec</Label>
+    <String>Allows construction of exotic power plants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInstitutionalResearch_Name</Label>
+    <String>Institutional Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInstitutionalResearch_ShortDec</Label>
+    <String>Allows construction of improved research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranResearchOptimization1_Name</Label>
+    <String>Optimized Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranResearchOptimization1_ShortDec</Label>
+    <String>Increases research capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranResearchOptimization2_Name</Label>
+    <String>Research Cost Reduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranResearchOptimization2_ShortDec</Label>
+    <String>Reduces the manufacturing cost of research improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranResearchOptimization3_Name</Label>
+    <String>Sustainable Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranResearchOptimization3_ShortDec</Label>
+    <String>Reduces maintenance costs of research improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranResearchCenters_Name</Label>
+    <String>Research Centers</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranResearchCenters_ShortDec</Label>
+    <String>Allows construction of advanced research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTechnologicalFocus1_Name</Label>
+    <String>Focused Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTechnologicalFocus1_ShortDec</Label>
+    <String>Increases Research capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTechnologicalFocus2_Name</Label>
+    <String>Research Production Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTechnologicalFocus2_ShortDec</Label>
+    <String>Reduces the Cost of Research improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTechnologicalFocus3_Name</Label>
+    <String>Research Economics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTechnologicalFocus3_ShortDec</Label>
+    <String>Reduces Maintenance of Research improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIntegratedResearch_Name</Label>
+    <String>Integrated Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIntegratedResearch_ShortDec</Label>
+    <String>Allows construction of exotic research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranResearchMatrixTech_Name</Label>
+    <String>Research Matrix</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranResearchMatrixTech_ShortDec</Label>
+    <String>Allows construction of the ultimate research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDeeperKnowledge_Name</Label>
+    <String>Deeper Knowledge</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDeeperKnowledge_ShortDec</Label>
+    <String>Allows construction of deep research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranQuantumUnderstanding_Name</Label>
+    <String>Quantum Understanding</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranQuantumUnderstanding_ShortDec</Label>
+    <String>Allows construction of improved deep research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBeyondMortality_Name</Label>
+    <String>Beyond Mortality</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBeyondMortality_ShortDec</Label>
+    <String>Allows construction of advanced deep research facilities. Prepares civilization for Ascension.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranResearchCoordination_Name</Label>
+    <String>Research Coordination</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranResearchCoordination_ShortDec</Label>
+    <String>Allows construction of research support facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranNeroLinking_Name</Label>
+    <String>Neuro Linking</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranNeroLinking_ShortDec</Label>
+    <String>Allows construction of improved research support facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPlanetaryImprovement_Name</Label>
+    <String>Planetary Improvement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPlanetaryImprovement_ShortDec</Label>
+    <String>Allows construction of civilian buildings. Increases population growth.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPlanetarySpecialization1_Name</Label>
+    <String>Soil Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPlanetarySpecialization1_ShortDec</Label>
+    <String>Increases food production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPlanetarySpecialization2_Name</Label>
+    <String>Accelerated Growth</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPlanetarySpecialization2_ShortDec</Label>
+    <String>Increases population growth.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPlanetarySpecialization3_Name</Label>
+    <String>Enhanced Production</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPlanetarySpecialization3_ShortDec</Label>
+    <String>Increases production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranXenoAgriculturalAdaptation_Name</Label>
+    <String>Agricultural Adaptation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranXenoAgriculturalAdaptation_ShortDec</Label>
+    <String>Allows construction of improved farms. Increases food production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAgriculturalOptimization1_Name</Label>
+    <String>Accelerated Agriculture</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAgriculturalOptimization1_ShortDec</Label>
+    <String>Increases food production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAgriculturalOptimization2_Name</Label>
+    <String>Efficient Agriculture</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAgriculturalOptimization2_ShortDec</Label>
+    <String>Reduces cost of farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAgriculturalOptimization3_Name</Label>
+    <String>Sustainable Agriculture</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAgriculturalOptimization3_ShortDec</Label>
+    <String>Reduces maintenance cost of farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIntensiveFarming_Name</Label>
+    <String>Intensive Farming</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIntensiveFarming_ShortDec</Label>
+    <String>Allows construction of advanced farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranFarmingFocus1_Name</Label>
+    <String>Nutritional Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranFarmingFocus1_ShortDec</Label>
+    <String>Increases food production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranFarmingFocus2_Name</Label>
+    <String>Farm Adaptability Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranFarmingFocus2_ShortDec</Label>
+    <String>Reduces cost of farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranFarmingFocus3_Name</Label>
+    <String>Farm Management Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranFarmingFocus3_ShortDec</Label>
+    <String>Reduces maintenance costs of farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLosslessFarming_Name</Label>
+    <String>Lossless Farming</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLosslessFarming_ShortDec</Label>
+    <String>Allows construction of exotic farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAgriculturalMastery1_Name</Label>
+    <String>Master Farmers</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAgriculturalMastery1_ShortDec</Label>
+    <String>Increases food production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAgriculturalMastery2_Name</Label>
+    <String>Abundance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAgriculturalMastery2_ShortDec</Label>
+    <String>Farms increase population growth.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranFoodDistributionTech_Name</Label>
+    <String>Food Distribution</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranFoodDistributionTech_ShortDec</Label>
+    <String>Allows construction of farming support buildings. Increases food production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranXenoIrrigation_Name</Label>
+    <String>Xeno Irrigation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranXenoIrrigation_ShortDec</Label>
+    <String>Allows construction of improved farming support buildings. Increases food production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBiomassResequencing_Name</Label>
+    <String>Biomass Resequencing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBiomassResequencing_ShortDec</Label>
+    <String>Allows construction of advanced farming support buildings. Increases food production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranXenoBiology_Name</Label>
+    <String>Xeno Biology</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranXenoBiology_ShortDec</Label>
+    <String>Allows construction of improved medical facilities. Increases population growth.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPopulationEnhancement_Name</Label>
+    <String>Population Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPopulationEnhancement_ShortDec</Label>
+    <String>Allows construction of advanced medical facilities. Increases population growth.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBioReplication_Name</Label>
+    <String>Bio Replication</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBioReplication_ShortDec</Label>
+    <String>Allows construction of exotic medical facilities. Increases population growth.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEnvironmentalEngineering_Name</Label>
+    <String>Environmental Engineering</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEnvironmentalEngineering_ShortDec</Label>
+    <String>Allows soil enhancement and improves adjacency terrain effects.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranExtremeWorldColonization_Name</Label>
+    <String>Extreme Colonization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranExtremeWorldColonization_ShortDec</Label>
+    <String>Allows settlement on extreme worlds, at reduced production potential.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranColonizationFocus1_Name</Label>
+    <String>Aquatic World Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranColonizationFocus1_ShortDec</Label>
+    <String>Normalizes Production of Aquatic Worlds, and boost their wealth and Tourism.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranColonizationFocus2_Name</Label>
+    <String>Frozen World Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranColonizationFocus2_ShortDec</Label>
+    <String>Normalizes Production of Frozen Worlds, and boost their Research and Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranColonizationFocus3_Name</Label>
+    <String>Barren World Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranColonizationFocus3_ShortDec</Label>
+    <String>Normalizes Production of Barren Worlds, and boost their Manufacturing and Military.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAtmosphericCleansing_Name</Label>
+    <String>Atmospheric Cleansing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAtmosphericCleansing_ShortDec</Label>
+    <String>Allows settlement on radioactive and toxic worlds, at reduced production potential.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBiospherePerfection1_Name</Label>
+    <String>Radioactive World Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBiospherePerfection1_ShortDec</Label>
+    <String>Normalizes Production of Radioactive Worlds, and boost their Manufacturing output.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBiospherePerfection2_Name</Label>
+    <String>Toxic World Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBiospherePerfection2_ShortDec</Label>
+    <String>Normalizes Production of Toxic Worlds, and boost their Research output.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTerraformingTech_Name</Label>
+    <String>Terraforming</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTerraformingTech_ShortDec</Label>
+    <String>Allows construction of terraforming plants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHabitatImprovement_Name</Label>
+    <String>Habitat Improvement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHabitatImprovement_ShortDec</Label>
+    <String>Allows construction of advanced terraforming plants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSoilReclamation_Name</Label>
+    <String>Soil Reclamation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSoilReclamation_ShortDec</Label>
+    <String>Allows the use of almost useless terrain.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEnvironmentalResequencing_Name</Label>
+    <String>Environmental Resequencing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEnvironmentalResequencing_ShortDec</Label>
+    <String>Increases the amount of usable land on all colonized planets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEngineeringTech_Name</Label>
+    <String>Engineering</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEngineeringTech_ShortDec</Label>
+    <String>Allows construction of hyperdrives and tiny hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarTravel_Name</Label>
+    <String>Interstellar Travel</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarTravel_ShortDec</Label>
+    <String>Improves sensor, life support, and speed of all ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarSpecialization1_Name</Label>
+    <String>Hyperdrive Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarSpecialization1_ShortDec</Label>
+    <String>Increases the speed of all ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarSpecialization2_Name</Label>
+    <String>Transportation Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarSpecialization2_ShortDec</Label>
+    <String>Reduces the Mass of Colony &amp; Constuctor modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarSpecialization3_Name</Label>
+    <String>Advanced Recirculation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarSpecialization3_ShortDec</Label>
+    <String>Increases the range of all ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIonDriveTech_Name</Label>
+    <String>Ion Drive</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIonDriveTech_ShortDec</Label>
+    <String>Allows the construction of improved hyperdrives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIonOptimization1_Name</Label>
+    <String>High Output Drives</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIonOptimization1_ShortDec</Label>
+    <String>Increases the speed of all ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIonOptimization2_Name</Label>
+    <String>Drive Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIonOptimization2_ShortDec</Label>
+    <String>Reduces the cost of drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIonOptimization3_Name</Label>
+    <String>Drive Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIonOptimization3_ShortDec</Label>
+    <String>Reduces the mass of drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWarpFieldTheory_Name</Label>
+    <String>Warp Field Theory</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWarpFieldTheory_ShortDec</Label>
+    <String>Allows the construction of advanced hyperdrives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWarpFieldFocus1_Name</Label>
+    <String>Warp Field Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWarpFieldFocus1_ShortDec</Label>
+    <String>Increases the speed of all ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWarpFieldFocus2_Name</Label>
+    <String>Field Generator Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWarpFieldFocus2_ShortDec</Label>
+    <String>Reduces the cost of drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWarpFieldFocus3_Name</Label>
+    <String>Field Generator Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWarpFieldFocus3_ShortDec</Label>
+    <String>Reduces the mass of drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHyperwarpWaves_Name</Label>
+    <String>Hyperwarp Waves</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHyperwarpWaves_ShortDec</Label>
+    <String>Allows the construction of exotic hyperdrives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHyperwarpMastery1_Name</Label>
+    <String>Master Drive Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHyperwarpMastery1_ShortDec</Label>
+    <String>Reduces the cost of drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHyperwarpMastery2_Name</Label>
+    <String>Drive Mass Reduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHyperwarpMastery2_ShortDec</Label>
+    <String>Reduces the mass of drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranStellarFoldingTech_Name</Label>
+    <String>Stellar Folding</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranStellarFoldingTech_ShortDec</Label>
+    <String>Allows construction of the ultimate hyperdrives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHyperfieldProjection_Name</Label>
+    <String>Hyperfield Projection</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHyperfieldProjection_ShortDec</Label>
+    <String>Allows construction of speed boosting support modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGravityFieldManipulation_Name</Label>
+    <String>Gravity Field Manipulation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGravityFieldManipulation_ShortDec</Label>
+    <String>Allows construction of advanced speed boosting support modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHyperfieldDisruption_Name</Label>
+    <String>Hyperfield Disruption</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHyperfieldDisruption_ShortDec</Label>
+    <String>Allows construction of enemy speed reduction modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranStellarFieldProjection_Name</Label>
+    <String>Stellar Field Projection</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranStellarFieldProjection_ShortDec</Label>
+    <String>Allows construction of advanced speed boosting support modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarSurvey_Name</Label>
+    <String>Interstellar Survey</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarSurvey_ShortDec</Label>
+    <String>Allows construction of improved sensors and survey modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSensorOptimization1_Name</Label>
+    <String>Sensor Amplification</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSensorOptimization1_ShortDec</Label>
+    <String>Increases sensor range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSensorOptimization2_Name</Label>
+    <String>Sensors Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSensorOptimization2_ShortDec</Label>
+    <String>Reduces cost of sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSensorOptimization3_Name</Label>
+    <String>Sensor Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSensorOptimization3_ShortDec</Label>
+    <String>Reduces mass of sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEnergyFieldSensors_Name</Label>
+    <String>Energy Field Sensors</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEnergyFieldSensors_ShortDec</Label>
+    <String>Allows construction of advanced sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEnergyFieldFocus1_Name</Label>
+    <String>Sensor Field Augmentation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEnergyFieldFocus1_ShortDec</Label>
+    <String>Increases sensor range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEnergyFieldFocus2_Name</Label>
+    <String>Sensor Efficacy Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEnergyFieldFocus2_ShortDec</Label>
+    <String>Reduces cost of sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEnergyFieldFocus3_Name</Label>
+    <String>High Density Sensors</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEnergyFieldFocus3_ShortDec</Label>
+    <String>Reduces mass of sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSubspaceSensors_Name</Label>
+    <String>Subspace Sensors</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSubspaceSensors_ShortDec</Label>
+    <String>Allows construction of exotic sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSensorMastery1_Name</Label>
+    <String>Sensor Simplification</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSensorMastery1_ShortDec</Label>
+    <String>Reduces cost of sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSensorMastery2_Name</Label>
+    <String>Sensor Mass Reduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSensorMastery2_ShortDec</Label>
+    <String>Reduces mass of sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTargetingAssistTech_Name</Label>
+    <String>Targeting Assist</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTargetingAssistTech_ShortDec</Label>
+    <String>Allows construction of targeting and stealth modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTargetingSupport_Name</Label>
+    <String>Targeting Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTargetingSupport_ShortDec</Label>
+    <String>Allows construction of targeting and jamming modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranXenoArcheology_Name</Label>
+    <String>Xeno Archeology</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranXenoArcheology_ShortDec</Label>
+    <String>Increases Precursor research, and begins the path towards Ascension.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPrecursorStudies_Name</Label>
+    <String>Precursor Studies</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPrecursorStudies_ShortDec</Label>
+    <String>Increases Precursor research and Ascension crystal mining.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPrecursorRelicFocus1_Name</Label>
+    <String>Precursor Technologist</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPrecursorRelicFocus1_ShortDec</Label>
+    <String>Increases Precursor relic research benefits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPrecursorRelicFocus2_Name</Label>
+    <String>Precursor Cultural Studies</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPrecursorRelicFocus2_ShortDec</Label>
+    <String>Increases Precursor relic cultural benefits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPrecursorRelicFocus3_Name</Label>
+    <String>Precursor Capitalization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPrecursorRelicFocus3_ShortDec</Label>
+    <String>Increases Precursor relic economic benefits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPrecursorExploitation_Name</Label>
+    <String>Precursor Exploitation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPrecursorExploitation_ShortDec</Label>
+    <String>Increases Precursor research and Ascension crystal mining.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPrecursorEngineering_Name</Label>
+    <String>Precursor Engineering</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPrecursorEngineering_ShortDec</Label>
+    <String>Increases Precursor research and Ascension crystal mining.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPrecursorUnderstanding_Name</Label>
+    <String>Precursor Understanding</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPrecursorUnderstanding_ShortDec</Label>
+    <String>Increases Precursor research. Prepares civilization for Ascension.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLifeSupport_Name</Label>
+    <String>Life Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLifeSupport_ShortDec</Label>
+    <String>Allows construction of improved life support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLifeSupportOptimization1_Name</Label>
+    <String>Improved Life Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLifeSupportOptimization1_ShortDec</Label>
+    <String>Increases ship range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLifeSupportOptimization2_Name</Label>
+    <String>Life Support Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLifeSupportOptimization2_ShortDec</Label>
+    <String>Reduces life support cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLifeSupportOptimization3_Name</Label>
+    <String>Life Support Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLifeSupportOptimization3_ShortDec</Label>
+    <String>Reduces life support mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSupportFieldGeneration_Name</Label>
+    <String>Support Field Generation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSupportFieldGeneration_ShortDec</Label>
+    <String>Allows construction of advanced life support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSupportFieldFocus1_Name</Label>
+    <String>Support Range Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSupportFieldFocus1_ShortDec</Label>
+    <String>Increases ship range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSupportFieldFocus2_Name</Label>
+    <String>Support Manufacturing Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSupportFieldFocus2_ShortDec</Label>
+    <String>Reduces life support cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSupportFieldFocus3_Name</Label>
+    <String>Low Mass Support Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSupportFieldFocus3_ShortDec</Label>
+    <String>Reduces life support mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPromethionSupportSystems_Name</Label>
+    <String>Promethion Support Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPromethionSupportSystems_ShortDec</Label>
+    <String>Allows construction of exotic life support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLifeSupportMastery1_Name</Label>
+    <String>Support System Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLifeSupportMastery1_ShortDec</Label>
+    <String>Reduces life support cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLifeSupportMastery2_Name</Label>
+    <String>Support Mass Reduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLifeSupportMastery2_ShortDec</Label>
+    <String>Reduces life support mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLosslessSupportSystems_Name</Label>
+    <String>Lossless Support Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLosslessSupportSystems_ShortDec</Label>
+    <String>Allows construction of the ultimate life support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSupportFieldMastery_Name</Label>
+    <String>Support Field Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSupportFieldMastery_ShortDec</Label>
+    <String>Allows construction of fleet life support modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranExplorationExtention_Name</Label>
+    <String>Exploration Extension</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranExplorationExtention_ShortDec</Label>
+    <String>Allows construction of advanced fleet life support modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranOrbitalManufacturing_Name</Label>
+    <String>Orbital Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranOrbitalManufacturing_ShortDec</Label>
+    <String>Allows construction of improved manufacturing buildings, and small hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranOrbitalSpecialization1_Name</Label>
+    <String>Skilled Starship Construction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranOrbitalSpecialization1_ShortDec</Label>
+    <String>Increases Shipyard manufacturing.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranOrbitalSpecialization3_Name</Label>
+    <String>Improved Logistics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranOrbitalSpecialization3_ShortDec</Label>
+    <String>Increases Logistics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranOrbitalSpecialization2_Name</Label>
+    <String>Storage Maximization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranOrbitalSpecialization2_ShortDec</Label>
+    <String>Increases hull capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranZeroGravityConstruction_Name</Label>
+    <String>Zero Gravity Construction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranZeroGravityConstruction_ShortDec</Label>
+    <String>Allows construction of medium hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranZeroGravityOptimization1_Name</Label>
+    <String>Hull Reinforcement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranZeroGravityOptimization1_ShortDec</Label>
+    <String>Increases hull hit points.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranZeroGravityOptimization3_Name</Label>
+    <String>Shipyard Efficiency</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranZeroGravityOptimization3_ShortDec</Label>
+    <String>Reduces cost of hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranZeroGravityOptimization2_Name</Label>
+    <String>High Capacity Hulls</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranZeroGravityOptimization2_ShortDec</Label>
+    <String>Increases hull capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLargeScaleConstruction_Name</Label>
+    <String>Large Scale Construction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLargeScaleConstruction_ShortDec</Label>
+    <String>Allows construction of large hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranOrbitalConstructionFocus1_Name</Label>
+    <String>Hardened Hulls</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranOrbitalConstructionFocus1_ShortDec</Label>
+    <String>Increases hull hit points.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranOrbitalConstructionFocus3_Name</Label>
+    <String>Starship Manufacturing Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranOrbitalConstructionFocus3_ShortDec</Label>
+    <String>Reduces cost of hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranOrbitalConstructionFocus2_Name</Label>
+    <String>Hull Capacity Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranOrbitalConstructionFocus2_ShortDec</Label>
+    <String>Increases hull capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMassiveScaleConstruction_Name</Label>
+    <String>Massive Scale Construction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMassiveScaleConstruction_ShortDec</Label>
+    <String>Allows construction of huge hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHullMastery2_Name</Label>
+    <String>Master Shipwrights</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHullMastery2_ShortDec</Label>
+    <String>Reduces cost of hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHullMastery1_Name</Label>
+    <String>Hull Maximization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHullMastery1_ShortDec</Label>
+    <String>Increases hull capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHullStrengthening_Name</Label>
+    <String>Hull Strengthening</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHullStrengthening_ShortDec</Label>
+    <String>Allows construction of tougher hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHullRepairSystems_Name</Label>
+    <String>Hull Repair Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHullRepairSystems_ShortDec</Label>
+    <String>Allows construction of hull support and repair modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSelfHealingHulls_Name</Label>
+    <String>Self Healing Hulls</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSelfHealingHulls_ShortDec</Label>
+    <String>Allows construction of tactical repair modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCarrierTech_Name</Label>
+    <String>Carriers</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCarrierTech_ShortDec</Label>
+    <String>Allows construction of carrier modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCarrierFocus1_Name</Label>
+    <String>Interceptor Drones</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCarrierFocus1_ShortDec</Label>
+    <String>Allows for the construction of cheap and light Interceptor Drones</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCarrierFocus2_Name</Label>
+    <String>Guardian Drones</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCarrierFocus2_ShortDec</Label>
+    <String> Allows for the construction of cheap and light Guardian Drones.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHighCapacityCarriers_Name</Label>
+    <String>High Capacity Carriers</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHighCapacityCarriers_ShortDec</Label>
+    <String>Allows construction of high capacity carrier modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarLogistics_Name</Label>
+    <String>Interstellar Logistics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarLogistics_ShortDec</Label>
+    <String>Allows construction of mining facilities. Increases Logistics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLogisticalOptimization1_Name</Label>
+    <String>Advanced Logistics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLogisticalOptimization1_ShortDec</Label>
+    <String>Increases Logistics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLogisticalOptimization2_Name</Label>
+    <String>High Output Mining</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLogisticalOptimization2_ShortDec</Label>
+    <String>Increases mining production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLogisticalOptimization3_Name</Label>
+    <String>Sustainable Shipyards</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLogisticalOptimization3_ShortDec</Label>
+    <String>Reduces Shipyard decay rate.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranFleetLogisticsTech_Name</Label>
+    <String>Fleet Logistics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranFleetLogisticsTech_ShortDec</Label>
+    <String>Greatly increases Logistics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDeepSpaceLogistics_Name</Label>
+    <String>Deep Space Logistics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDeepSpaceLogistics_ShortDec</Label>
+    <String>Greatly increases Logistics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGalacticLogistics_Name</Label>
+    <String>Galactic Logistics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGalacticLogistics_ShortDec</Label>
+    <String>Greatly increases Logistics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarMining_Name</Label>
+    <String>Interstellar Mining</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarMining_ShortDec</Label>
+    <String>Allows construction of mining facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHighEfficiencyMining_Name</Label>
+    <String>High Efficiency Mining</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHighEfficiencyMining_ShortDec</Label>
+    <String>Allows construction of improved mining facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranResourceExtraction_Name</Label>
+    <String>Resource Extraction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranResourceExtraction_ShortDec</Label>
+    <String>Allows construction of advanced mining facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLosslessMining_Name</Label>
+    <String>Lossless Mining</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranLosslessMining_ShortDec</Label>
+    <String>Allows construction of targeted resource extractor modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWarfareTech_Name</Label>
+    <String>Warfare</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWarfareTech_ShortDec</Label>
+    <String>Allows research of weapons technologies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWeaponsSystemsTech_Name</Label>
+    <String>Weapons Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWeaponsSystemsTech_ShortDec</Label>
+    <String>Allows construction of basic weapon systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWeaponsSpecializationTech1_Name</Label>
+    <String>Targeting Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWeaponsSpecializationTech1_ShortDec</Label>
+    <String>Increases the Accuracy of all weapon systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWeaponsSpecializationTech2_Name</Label>
+    <String>Miniaturization Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWeaponsSpecializationTech2_ShortDec</Label>
+    <String>Reduces the Mass of all weapons systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWeaponsSpecializationTech3_Name</Label>
+    <String>Production Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWeaponsSpecializationTech3_ShortDec</Label>
+    <String>Reduces the Cost of all weapons systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBeamWeapons_Name</Label>
+    <String>Beam Weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBeamWeapons_ShortDec</Label>
+    <String>Allows construction of improved beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBeamWeaponOptimization1_Name</Label>
+    <String>Focused Beam Weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBeamWeaponOptimization1_ShortDec</Label>
+    <String>Increases damage of beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBeamWeaponOptimization2_Name</Label>
+    <String>Low-Cost Beam Weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBeamWeaponOptimization2_ShortDec</Label>
+    <String>Reduces cost of beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBeamWeaponOptimization3_Name</Label>
+    <String>Beam Weapons Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBeamWeaponOptimization3_ShortDec</Label>
+    <String>Reduces mass of beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMatterDisruption_Name</Label>
+    <String>Matter Disruption</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMatterDisruption_ShortDec</Label>
+    <String>Allows construction of advanced beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHighEnergyFocus1_Name</Label>
+    <String>Beam Amplification</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHighEnergyFocus1_ShortDec</Label>
+    <String>Increases damage of beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHighEnergyFocus2_Name</Label>
+    <String>Beam Manufacturing Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHighEnergyFocus2_ShortDec</Label>
+    <String>Reduces cost of beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHighEnergyFocus3_Name</Label>
+    <String>Low Mass Beam Weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHighEnergyFocus3_ShortDec</Label>
+    <String>Reduces mass of beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPlasmaProjection_Name</Label>
+    <String>Plasma Projection</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPlasmaProjection_ShortDec</Label>
+    <String>Allows construction of exotic beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBeamWeaponMastery1_Name</Label>
+    <String>Master Beam Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBeamWeaponMastery1_ShortDec</Label>
+    <String>Reduces cost of beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBeamWeaponMastery2_Name</Label>
+    <String>High Density Beam Weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBeamWeaponMastery2_ShortDec</Label>
+    <String>Reduces mass of beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEnergyPhasing_Name</Label>
+    <String>Energy Phasing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEnergyPhasing_ShortDec</Label>
+    <String>Allows construction of devastating beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDoomRayTech_Name</Label>
+    <String>Doom Ray</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDoomRayTech_ShortDec</Label>
+    <String>Allows construction of the ultimate beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBeamWeaponAugmentation_Name</Label>
+    <String>Beam Weapon Augmentation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBeamWeaponAugmentation_ShortDec</Label>
+    <String>Allows construction of beam support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHighEnergyTransfer_Name</Label>
+    <String>High Energy Transfer</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHighEnergyTransfer_ShortDec</Label>
+    <String>Allows construction of improved beam support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHighEnergyMagnification_Name</Label>
+    <String>High Energy Magnification</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHighEnergyMagnification_ShortDec</Label>
+    <String>Allows construction of advanced beam support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMissileWeapons_Name</Label>
+    <String>Missile Weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMissileWeapons_ShortDec</Label>
+    <String>Allows construction of improved missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMissileOptimization1_Name</Label>
+    <String>Rapid Fire Missiles</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMissileOptimization1_ShortDec</Label>
+    <String>Increases firing speed of missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMissileOptimization2_Name</Label>
+    <String>Low Cost Missiles</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMissileOptimization2_ShortDec</Label>
+    <String>Reduces cost of missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMissileOptimization3_Name</Label>
+    <String>Missile Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMissileOptimization3_ShortDec</Label>
+    <String>Reduces mass of missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHarpoonTech_Name</Label>
+    <String>Harpoons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranHarpoonTech_ShortDec</Label>
+    <String>Allows construction of advanced missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWarheadFocus1_Name</Label>
+    <String>Warhead Acceleration</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWarheadFocus1_ShortDec</Label>
+    <String>Increases range of missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWarheadFocus2_Name</Label>
+    <String>Warhead Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWarheadFocus2_ShortDec</Label>
+    <String>Reduces cost of missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWarheadFocus3_Name</Label>
+    <String>Low Mass Warheads</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWarheadFocus3_ShortDec</Label>
+    <String>Reduces mass of missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPhotonicWarheads_Name</Label>
+    <String>Photonic Warheads</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPhotonicWarheads_ShortDec</Label>
+    <String>Allows construction of exotic missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPayloadMastery1_Name</Label>
+    <String>Master Missile Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPayloadMastery1_ShortDec</Label>
+    <String>Reduces cost of missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPayloadMastery2_Name</Label>
+    <String>High Density Warheads</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPayloadMastery2_ShortDec</Label>
+    <String>Reduces mass of missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPhotonTorpedos_Name</Label>
+    <String>Photon Torpedoes</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPhotonTorpedos_ShortDec</Label>
+    <String>Allows construction of devastating missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranNightmareTorpedoTech_Name</Label>
+    <String>Nightmare Torpedoes</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranNightmareTorpedoTech_ShortDec</Label>
+    <String>Allows construction of the ultimate missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMissileAugmentation_Name</Label>
+    <String>Missile Augmentation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMissileAugmentation_ShortDec</Label>
+    <String>Allows construction of missile support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAdvancedMissileGuidance_Name</Label>
+    <String>Advanced Missile Guidance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAdvancedMissileGuidance_ShortDec</Label>
+    <String>Allows construction of improved missile support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIntelligentWarheads_Name</Label>
+    <String>Intelligent Warheads</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIntelligentWarheads_ShortDec</Label>
+    <String>Allows construction of advanced missile support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticWeapons_Name</Label>
+    <String>Kinetic Weapons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticWeapons_ShortDec</Label>
+    <String>Allows construction of improved kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticOptimization1_Name</Label>
+    <String>Kinetic Range Extension</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticOptimization1_ShortDec</Label>
+    <String>Increases range of kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticOptimization2_Name</Label>
+    <String>Kinetic Weapon Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticOptimization2_ShortDec</Label>
+    <String>Reduces cost of kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticOptimization3_Name</Label>
+    <String>Kinetic Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticOptimization3_ShortDec</Label>
+    <String>Reduces mass of kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPulseCannonTech_Name</Label>
+    <String>Pulse Cannons</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPulseCannonTech_ShortDec</Label>
+    <String>Allows construction of advanced kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticAccelerationFocus1_Name</Label>
+    <String>Frictionless Acceleration</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticAccelerationFocus1_ShortDec</Label>
+    <String>Increases range of kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticAccelerationFocus2_Name</Label>
+    <String>Low Cost Accelerators</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticAccelerationFocus2_ShortDec</Label>
+    <String>Reduces cost of kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticAccelerationFocus3_Name</Label>
+    <String>Low Mass Accelerators</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticAccelerationFocus3_ShortDec</Label>
+    <String>Reduces mass of kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGravitonThrower_Name</Label>
+    <String>Graviton Thrower</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGravitonThrower_ShortDec</Label>
+    <String>Allows construction of exotic kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticMastery1_Name</Label>
+    <String>Master Accelerator Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticMastery1_ShortDec</Label>
+    <String>Reduces cost of kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticMastery2_Name</Label>
+    <String>High Density Accelerators</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticMastery2_ShortDec</Label>
+    <String>Reduces mass of kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranQuantumDrivers_Name</Label>
+    <String>Quantum Drivers</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranQuantumDrivers_ShortDec</Label>
+    <String>Allows construction of devastating kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSingularityDrivers_Name</Label>
+    <String>Singularity Drivers</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSingularityDrivers_ShortDec</Label>
+    <String>Allows construction of the ultimate kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticAugmentation_Name</Label>
+    <String>Kinetic Augmentation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKineticAugmentation_ShortDec</Label>
+    <String>Allows construction of kinetic support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMassManipulation_Name</Label>
+    <String>Mass Manipulation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMassManipulation_ShortDec</Label>
+    <String>Allows construction of improved kinetic support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInertialMagnification_Name</Label>
+    <String>Inertial Magnification</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInertialMagnification_ShortDec</Label>
+    <String>Allows construction of advanced kinetic support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMilitarizationTech_Name</Label>
+    <String>Militarization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMilitarizationTech_ShortDec</Label>
+    <String>Allows the construction of military shipyards and defense platforms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMilitarySpecialization1_Name</Label>
+    <String>Enhanced Training</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMilitarySpecialization1_ShortDec</Label>
+    <String>Improves soldier effectiveness.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMilitarySpecialization2_Name</Label>
+    <String>Defensive Fortifications</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMilitarySpecialization2_ShortDec</Label>
+    <String>Improves planetary defense.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMilitarySpecialization3_Name</Label>
+    <String>Resistance Forces</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMilitarySpecialization3_ShortDec</Label>
+    <String>Increase our colonies ability to resist invaders.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPlanetaryInvasion_Name</Label>
+    <String>Planetary Invasion</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPlanetaryInvasion_ShortDec</Label>
+    <String>Allows transport modules to be constructed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInvasionOptimization1_Name</Label>
+    <String>Planetary Bombardment</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInvasionOptimization1_ShortDec</Label>
+    <String>Allows Planetary Bombardments to be conducted during invasions.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInvasionOptimization2_Name</Label>
+    <String>Information Warfare</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInvasionOptimization2_ShortDec</Label>
+    <String>Allows Informational Warfare tactics to be used during invasions.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInvasionOptimization3_Name</Label>
+    <String>Biological Warfare</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInvasionOptimization3_ShortDec</Label>
+    <String>Allows Biological Warfare tactics to be used during invasions.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranStallerMarines_Name</Label>
+    <String>Stellar Marines</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranStallerMarines_ShortDec</Label>
+    <String>Improves soldier effectiveness and transport capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGravitationalFocus1_Name</Label>
+    <String>Tidal Disruption</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGravitationalFocus1_ShortDec</Label>
+    <String>Allows tidal disruption tactics to be used during invasions.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGravitationalFocus2_Name</Label>
+    <String>Core Detonation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGravitationalFocus2_ShortDec</Label>
+    <String>Allows core detonation tactics to be used during invasions.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDroneSoldiers_Name</Label>
+    <String>Drone Soldiers</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDroneSoldiers_ShortDec</Label>
+    <String>Improves soldier effectiveness and transport capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAdvancedInvasionTactics_Name</Label>
+    <String>Advanced Invasion Tactics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAdvancedInvasionTactics_ShortDec</Label>
+    <String>Improves soldier effectiveness and allows construction of advanced transports.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranFortification_Name</Label>
+    <String>Planetary Fortification</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranFortification_ShortDec</Label>
+    <String>Allows construction of defensive fortifications, and improves planetary defense.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDefensiveFocus1_Name</Label>
+    <String>Bombardment Shelters</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDefensiveFocus1_ShortDec</Label>
+    <String>Makes all colonies Immune to Planetary Bombardment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDefensiveFocus2_Name</Label>
+    <String>Information Systems Hardening</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDefensiveFocus2_ShortDec</Label>
+    <String>Makes all colonies Immune to Information Warfare.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDefensiveFocus3_Name</Label>
+    <String>Adaptive Vaccinations</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDefensiveFocus3_ShortDec</Label>
+    <String>Makes all colonies Immune to Biological Warfare.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranOrbitalDefencePlatform_Name</Label>
+    <String>Orbital Defense Platform </String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranOrbitalDefencePlatform_ShortDec</Label>
+    <String>Adds defensive fighters to orbit, improves planetary defense.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPlanetaryDefenseDome_Name</Label>
+    <String>Planetary Defense Dome</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPlanetaryDefenseDome_ShortDec</Label>
+    <String>Allows construction of planetary defense dome, improves planetary defense.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDefenseSystemTech_Name</Label>
+    <String>Defense Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDefenseSystemTech_ShortDec</Label>
+    <String>Allows construction of basic defensive systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDefensiveSpecialization1_Name</Label>
+    <String>Shield Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDefensiveSpecialization1_ShortDec</Label>
+    <String>Reduces cost of shields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDefensiveSpecialization2_Name</Label>
+    <String>Point Defense Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDefensiveSpecialization2_ShortDec</Label>
+    <String>Reduces cost of point defenses.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDefensiveSpecialization3_Name</Label>
+    <String>Armor Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDefensiveSpecialization3_ShortDec</Label>
+    <String>Reduces mass of armor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranShieldSystems_Name</Label>
+    <String>Shield Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranShieldSystems_ShortDec</Label>
+    <String>Allows construction of improved shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranShieldOptimization1_Name</Label>
+    <String>Shield Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranShieldOptimization1_ShortDec</Label>
+    <String>Increases shield strength.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranShieldOptimization2_Name</Label>
+    <String>Low Cost Shield Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranShieldOptimization2_ShortDec</Label>
+    <String>Reduces shield cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranShieldOptimization3_Name</Label>
+    <String>Shield Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranShieldOptimization3_ShortDec</Label>
+    <String>Reduces shield mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBarrierFieldGeneration_Name</Label>
+    <String>Barrier Field Generation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBarrierFieldGeneration_ShortDec</Label>
+    <String>Allows construction of advanced shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBarrierSystemFocus1_Name</Label>
+    <String>High Output Shield Generators</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBarrierSystemFocus1_ShortDec</Label>
+    <String>Increases shield strength.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBarrierSystemFocus2_Name</Label>
+    <String>Low Cost Shield Generators</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBarrierSystemFocus2_ShortDec</Label>
+    <String>Reduces shield cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBarrierSystemFocus3_Name</Label>
+    <String>Low Mass Shield Generators</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranBarrierSystemFocus3_ShortDec</Label>
+    <String>Reduces shield mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranForceFieldTech_Name</Label>
+    <String>Force Fields</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranForceFieldTech_ShortDec</Label>
+    <String>Allows construction of exotic shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranShieldMastery1_Name</Label>
+    <String>Master Shield Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranShieldMastery1_ShortDec</Label>
+    <String>Reduces shield cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranShieldMastery2_Name</Label>
+    <String>High Density Shield Generators</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranShieldMastery2_ShortDec</Label>
+    <String>Reduces shield mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInvulnerabilityTech_Name</Label>
+    <String>Invulnerability</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInvulnerabilityTech_ShortDec</Label>
+    <String>Allows construction of the ultimate shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranShieldSupportSystems_Name</Label>
+    <String>Shield Support Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranShieldSupportSystems_ShortDec</Label>
+    <String>Allows construction of shield support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranShieldAugmentation_Name</Label>
+    <String>Shield Augmentation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranShieldAugmentation_ShortDec</Label>
+    <String>Allows construction of improved shield support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEnergyFieldManipulation_Name</Label>
+    <String>Energy Field Manipulation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEnergyFieldManipulation_ShortDec</Label>
+    <String>Allows construction of advanced shield support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPointDefenses_Name</Label>
+    <String>Point Defenses</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPointDefenses_ShortDec</Label>
+    <String>Allows construction of point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPointDefenseOptimization1_Name</Label>
+    <String>Smart Point Defenses</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPointDefenseOptimization1_ShortDec</Label>
+    <String>Increases point defense strength.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPointDefenseOptimization2_Name</Label>
+    <String>Low Cost Point Defenses</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPointDefenseOptimization2_ShortDec</Label>
+    <String>Reduces point defense cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPointDefenseOptimization3_Name</Label>
+    <String>Point Defense Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPointDefenseOptimization3_ShortDec</Label>
+    <String>Reduces point defense mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCounterMeasures_Name</Label>
+    <String>Counter Measures</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCounterMeasures_ShortDec</Label>
+    <String>Allows construction of advanced point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCounterMeasureFocus1_Name</Label>
+    <String>Adaptive Counter Measures</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCounterMeasureFocus1_ShortDec</Label>
+    <String>Increases point defense strength.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCounterMeasureFocus2_Name</Label>
+    <String>Counter Measure Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCounterMeasureFocus2_ShortDec</Label>
+    <String>Reduces point defense cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCounterMeasureFocus3_Name</Label>
+    <String>Low Mass Counter Measures</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCounterMeasureFocus3_ShortDec</Label>
+    <String>Reduces point defense mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDroneSentrySystems_Name</Label>
+    <String>Drone Sentry Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDroneSentrySystems_ShortDec</Label>
+    <String>Allows construction of exotic point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDroneSystemMastery1_Name</Label>
+    <String>Master Point Defense Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDroneSystemMastery1_ShortDec</Label>
+    <String>Reduces point defense cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDroneSystemMastery2_Name</Label>
+    <String>High Density Point Defenses</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDroneSystemMastery2_ShortDec</Label>
+    <String>Reduces point defense mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArreonMissileDefenseTech_Name</Label>
+    <String>Aereon Missile Defense</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArreonMissileDefenseTech_ShortDec</Label>
+    <String>Allows construction of the ultimate point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPointDefenseSupportSystem_Name</Label>
+    <String>Point Defense Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPointDefenseSupportSystem_ShortDec</Label>
+    <String>Allows construction of point defense support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPointDefenseAugmentation_Name</Label>
+    <String>Point Defense Augmentation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPointDefenseAugmentation_ShortDec</Label>
+    <String>Allows construction of improved point defense support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPointDefenseManipulation_Name</Label>
+    <String>Point Defense Manipulation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPointDefenseManipulation_ShortDec</Label>
+    <String>Allows construction of advanced point defense support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorSystems_Name</Label>
+    <String>Armor Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorSystems_ShortDec</Label>
+    <String>Allows construction of improved armor systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorOptimization1_Name</Label>
+    <String>Reinforced Armor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorOptimization1_ShortDec</Label>
+    <String>Increases armor strength.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorOptimization2_Name</Label>
+    <String>Low-Cost Armor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorOptimization2_ShortDec</Label>
+    <String>Reduces armor cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorOptimization3_Name</Label>
+    <String>Armor Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorOptimization3_ShortDec</Label>
+    <String>Reduces armor mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDurantiumCompositeTech_Name</Label>
+    <String>Durantium Composite</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDurantiumCompositeTech_ShortDec</Label>
+    <String>Allows construction of advanced armor systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorFocus1_Name</Label>
+    <String>Armor Lamination</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorFocus1_ShortDec</Label>
+    <String>Increases armor strength.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorFocus2_Name</Label>
+    <String>Armor Manufacturing Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorFocus2_ShortDec</Label>
+    <String>Reduces armor cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorFocus3_Name</Label>
+    <String>Armor Mass Reduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorFocus3_ShortDec</Label>
+    <String>Reduces armor mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKanviumLaminateTech_Name</Label>
+    <String>Kanvium Laminate</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranKanviumLaminateTech_ShortDec</Label>
+    <String>Allows construction of exotic armor systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorMastery1_Name</Label>
+    <String>Master Armorers</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorMastery1_ShortDec</Label>
+    <String>Reduces armor cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorMastery2_Name</Label>
+    <String>High Density Armor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorMastery2_ShortDec</Label>
+    <String>Reduces armor mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranZeroPointArmorTech_Name</Label>
+    <String>Zero Point Armor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranZeroPointArmorTech_ShortDec</Label>
+    <String>Allows construction of the ultimate armor systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorSupportSystems_Name</Label>
+    <String>Armor Support Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorSupportSystems_ShortDec</Label>
+    <String>Allows construction of armor support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorEnhancement_Name</Label>
+    <String>Armor Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranArmorEnhancement_ShortDec</Label>
+    <String>Allows construction of improved armor support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIntegrityFieldProjection_Name</Label>
+    <String>Integrity Field Projection</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranIntegrityFieldProjection_ShortDec</Label>
+    <String>Allows construction of advanced armor support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCommunicationsTech_Name</Label>
+    <String>Governance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCommunicationsTech_ShortDec</Label>
+    <String>Allows research of communications technologies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTranslatorTech_Name</Label>
+    <String>Universal Translator</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTranslatorTech_ShortDec</Label>
+    <String>Can begin communicating with aliens. Boosts diplomacy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDiplomaticSpecialization1_Name</Label>
+    <String>Diplomatic Reasoning</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDiplomaticSpecialization1_ShortDec</Label>
+    <String>Increases Diplomacy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDiplomaticSpecialization2_Name</Label>
+    <String>Influential Voice</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDiplomaticSpecialization2_ShortDec</Label>
+    <String>Increases Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDiplomaticSpecialization3_Name</Label>
+    <String>Passionate Communicator</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDiplomaticSpecialization3_ShortDec</Label>
+    <String>Get better deals when trading with other races.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarGovernance_Name</Label>
+    <String>Interstellar Governance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarGovernance_ShortDec</Label>
+    <String>Allows use of Stellar Empire form of government.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPoliticalSpecialization1_Name</Label>
+    <String>Federalist Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPoliticalSpecialization1_ShortDec</Label>
+    <String>Allows use of Federalist Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPoliticalSpecialization2_Name</Label>
+    <String>Populist Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPoliticalSpecialization2_ShortDec</Label>
+    <String>Allows use of Populist Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPoliticalSpecialization3_Name</Label>
+    <String>Universalist Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPoliticalSpecialization3_ShortDec</Label>
+    <String>Allows use of Universalist Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGalacticGovernance_Name</Label>
+    <String>Galactic Governance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGalacticGovernance_ShortDec</Label>
+    <String>Allows use of Galactic Republic form of government.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPoliticalFocus1_Name</Label>
+    <String>Industrialist Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPoliticalFocus1_ShortDec</Label>
+    <String>Allows use of Industrialist Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPoliticalFocus2_Name</Label>
+    <String>Mercantile Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPoliticalFocus2_ShortDec</Label>
+    <String>Allows use of Mercantile Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPoliticalFocus3_Name</Label>
+    <String>Technologist Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPoliticalFocus3_ShortDec</Label>
+    <String>Allows use of Technologist Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarDemocracyTech_Name</Label>
+    <String>Interstellar Democracy</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarDemocracyTech_ShortDec</Label>
+    <String>Allows use of Interstellar Democracy form of government.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPoliticalMastery1_Name</Label>
+    <String>War Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPoliticalMastery1_ShortDec</Label>
+    <String>Allows use of War Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPoliticalMastery2_Name</Label>
+    <String>Pacifist Party</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPoliticalMastery2_ShortDec</Label>
+    <String>Allows use of Pacifist Party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranStarFederationTech_Name</Label>
+    <String>Star Federation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranStarFederationTech_ShortDec</Label>
+    <String>Allows use of Star Federation form of government.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDiplomacyTech_Name</Label>
+    <String>Diplomacy</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDiplomacyTech_ShortDec</Label>
+    <String>Allows construction of embassies and the formation of basic treaties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDiplomaticOptimization1_Name</Label>
+    <String>Economic Treaty</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDiplomaticOptimization1_ShortDec</Label>
+    <String>Allows formation of economic treaties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDiplomaticOptimization2_Name</Label>
+    <String>Cultural Treaty</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDiplomaticOptimization2_ShortDec</Label>
+    <String>Allows formation of cultural treaties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDiplomaticOptimization3_Name</Label>
+    <String>Research Treaty</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranDiplomaticOptimization3_ShortDec</Label>
+    <String>Allows formation of research treaties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarAlliances_Name</Label>
+    <String>Interstellar Alliances</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarAlliances_ShortDec</Label>
+    <String>Allows construction of improved diplomatic buildings. Increases Diplomacy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAllianceFocus1_Name</Label>
+    <String>Military Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAllianceFocus1_ShortDec</Label>
+    <String>Allows formation of military alliances.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAllianceFocus2_Name</Label>
+    <String>Technological Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAllianceFocus2_ShortDec</Label>
+    <String>Allows formation of technological alliances.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAllianceFocus3_Name</Label>
+    <String>Cultural Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranAllianceFocus3_ShortDec</Label>
+    <String>Allows formation of cultural alliances.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEminenceTech_Name</Label>
+    <String>Eminence</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEminenceTech_ShortDec</Label>
+    <String>Allows construction of advanced diplomatic buildings. Increases Diplomacy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMajestyTech_Name</Label>
+    <String>Majesty</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranMajestyTech_ShortDec</Label>
+    <String>Allows formation of assimilation treaties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranUnitedPlanetsLobbyist_Name</Label>
+    <String>United Planets Lobbyist</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranUnitedPlanetsLobbyist_ShortDec</Label>
+    <String>Unlocks additional Resolutions to be proposed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranUnitedPlanetsClout_Name</Label>
+    <String>United Planets Clout</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranUnitedPlanetsClout_ShortDec</Label>
+    <String>Unlocks more powerful Resolutions to be proposed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalInfluence_Name</Label>
+    <String>Cultural Influence</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalInfluence_ShortDec</Label>
+    <String>Allows construction of basic cultural buildings. Increases Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalOptimization1_Name</Label>
+    <String>Passionate Representation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalOptimization1_ShortDec</Label>
+    <String>Increases Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalOptimization2_Name</Label>
+    <String>Efficient Representation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalOptimization2_ShortDec</Label>
+    <String>Reduces cost of cultural buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalOptimization3_Name</Label>
+    <String>Self Sufficient Representation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalOptimization3_ShortDec</Label>
+    <String>Reduces maintenance costs of cultural buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalOutreach_Name</Label>
+    <String>Cultural Outreach</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalOutreach_ShortDec</Label>
+    <String>Allows construction of improved cultural buildings. Increases Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalFocus1_Name</Label>
+    <String>Research-Focused Culture</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalFocus1_ShortDec</Label>
+    <String>Increases Influence on research planets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalFocus2_Name</Label>
+    <String>Approval-Focused Culture</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalFocus2_ShortDec</Label>
+    <String>Increases Influence on planets with high approval.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalFocus3_Name</Label>
+    <String>Wealth-Focused Culture</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalFocus3_ShortDec</Label>
+    <String>Increases Influence on wealthy planets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranStellarEmigration_Name</Label>
+    <String>Stellar Emigration</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranStellarEmigration_ShortDec</Label>
+    <String>Allows construction of advanced cultural buildings. Increases Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalAssimilation_Name</Label>
+    <String>Cultural Assimilation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalAssimilation_ShortDec</Label>
+    <String>Allows construction of exotic cultural buildings. Increases Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalDomination_Name</Label>
+    <String>Cultural Domination</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalDomination_ShortDec</Label>
+    <String>Allows construction of the ultimate cultural buildings. Increases Influence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalAffinity_Name</Label>
+    <String>Cultural Affinity</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCulturalAffinity_ShortDec</Label>
+    <String>Prepares civilization for Ascension.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranXenoCommerce_Name</Label>
+    <String>Xeno Commerce</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranXenoCommerce_ShortDec</Label>
+    <String>Allows construction of basic economic buildings and freighters.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCommerceSpecialization1_Name</Label>
+    <String>Wealthy Population</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCommerceSpecialization1_ShortDec</Label>
+    <String>Increases wealth.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCommerceSpecialization2_Name</Label>
+    <String>Supportive Population</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCommerceSpecialization2_ShortDec</Label>
+    <String>Increases approval.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCommerceSpecialization3_Name</Label>
+    <String>Designated Trading Partner</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranCommerceSpecialization3_ShortDec</Label>
+    <String>Adds trade route.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranXenoEconomics_Name</Label>
+    <String>Xeno Economics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranXenoEconomics_ShortDec</Label>
+    <String>Allows construction of improved economic buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarBanking_Name</Label>
+    <String>Interstellar Banking</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarBanking_ShortDec</Label>
+    <String>Allows construction of advanced economic buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEconomicFocus1_Name</Label>
+    <String>Trade Economy</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEconomicFocus1_ShortDec</Label>
+    <String>Increases trade route income.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEconomicFocus2_Name</Label>
+    <String>Well Crafted Treaties</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEconomicFocus2_ShortDec</Label>
+    <String>Increases Diplomatic trade income</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEconomicFocus3_Name</Label>
+    <String>Tourism Board</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranEconomicFocus3_ShortDec</Label>
+    <String>Increases tourism income.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranFinancialSectorsTech_Name</Label>
+    <String>Financial Sectors</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranFinancialSectorsTech_ShortDec</Label>
+    <String>Allows construction of exotic economic buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGalacticStockMarket_Name</Label>
+    <String>Galactic Stock Market</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGalacticStockMarket_ShortDec</Label>
+    <String>Allows construction of the ultimate economic buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarTrade_Name</Label>
+    <String>Interstellar Trade</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarTrade_ShortDec</Label>
+    <String>Allows construction of basic trading buildings. Adds two trade routes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTradeOptimization1_Name</Label>
+    <String>Trade Route  Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTradeOptimization1_ShortDec</Label>
+    <String>Increases overall value of trade routes</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTradeOptimization2_Name</Label>
+    <String>Expanded Trade</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTradeOptimization2_ShortDec</Label>
+    <String>Allows the establishment of one additional trade route.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGalacticTrade_Name</Label>
+    <String>Galactic Trade</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGalacticTrade_ShortDec</Label>
+    <String>Allows construction of improved trading buildings. Adds two trade routes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTradeFocus1_Name</Label>
+    <String>Tariff Stations</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTradeFocus1_ShortDec</Label>
+    <String>All starbases now give a significant boost to the trade income of colonies with their Area of Effect.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTradeFocus2_Name</Label>
+    <String>Trade Route Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTradeFocus2_ShortDec</Label>
+    <String>Allows the establishment of one additional trade route</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGalacticFacilitation_Name</Label>
+    <String>Galactic Facilitation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGalacticFacilitation_ShortDec</Label>
+    <String>Allows construction of advanced trading buildings. Adds two trade routes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTradeMasters_Name</Label>
+    <String>Trade Masters</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranTradeMasters_ShortDec</Label>
+    <String>Allows construction of exotic trading buildings. Adds two trade routes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranXenoEntertainment_Name</Label>
+    <String>Xeno Entertainment</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranXenoEntertainment_ShortDec</Label>
+    <String>Allows construction of basic entertainment buildings. Increases Approval.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarTourism_Name</Label>
+    <String>Interstellar Tourism</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranInterstellarTourism_ShortDec</Label>
+    <String>Allows construction of improved entertainment buildings. Begin collecting tourism income.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPopulationDiversion_Name</Label>
+    <String>Population Diversion</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPopulationDiversion_ShortDec</Label>
+    <String>Allows construction of advanced entertainment buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranApprovalFocus1_Name</Label>
+    <String>Easy to Please</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranApprovalFocus1_ShortDec</Label>
+    <String>Increase the morale of your colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranApprovalFocus2_Name</Label>
+    <String>Easily Distracted</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranApprovalFocus2_ShortDec</Label>
+    <String>Makes building Entertainment Improvements much cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranApprovalFocus3_Name</Label>
+    <String>Eager to Please</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranApprovalFocus3_ShortDec</Label>
+    <String>Greatly reduces the Maintenance required by Entertainment Improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSuperiorRecreation_Name</Label>
+    <String>Superior Recreation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranSuperiorRecreation_ShortDec</Label>
+    <String>Allows construction of exotic entertainment buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranContentmentTech_Name</Label>
+    <String>Contentment</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranContentmentTech_ShortDec</Label>
+    <String>Allows construction of the ultimate entertainment buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGalacticCruseLines_Name</Label>
+    <String>Galactic Cruise Lines</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranGalacticCruseLines_ShortDec</Label>
+    <String>Allows construction of tourism structures. Increases tourism income.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWondersoftheGalaxy_Name</Label>
+    <String>Wonders of the Galaxy</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranWondersoftheGalaxy_ShortDec</Label>
+    <String>Allows construction of advanced tourism structures. Increases tourism income.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPilgrimageTech_Name</Label>
+    <String>Pilgrimage</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TerranPilgrimageTech_ShortDec</Label>
+    <String>Allows construction of exotic tourism structures. Increases tourism income.</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+ 
+</StringTableList>

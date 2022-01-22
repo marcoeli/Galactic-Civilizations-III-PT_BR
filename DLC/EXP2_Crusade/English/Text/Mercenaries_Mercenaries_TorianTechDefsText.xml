@@ -1,0 +1,2472 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Mercenaries_TorianTechDefsText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+  <StringTable>
+    <Label>Mercenaries_TorianTechTree_Name</Label>
+    <String>Torian Tech Tree</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTechTree_ShortDec</Label>
+    <String>A Tech Tree specialized for aquatic Races.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTorianColonizationTech_Dec</Label>
+    <String>For generations Torians have dreamed of setting foot and flipper on other worlds. That dream is now a reality. Feet are being set on other worlds, and flippers are being dipped.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInfrastructureTech_Name</Label>
+    <String>Amphibious Infrastructure</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInfrastructureTech_Dec</Label>
+    <String>Everything is harder on the surface of an alien world, every machine we own having to be adjusted for the differences in gravity or atmosphere, all our old constants and empirical shortcuts having to be thrown out and re-written.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIndustrialSpecialization1_Dec</Label>
+    <String>There's no sense stopping at "basic competence" when it comes to making things in alien environments. We should probably learn from the many mistakes we're still making, for example, if only to improve our manufacturing capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIndustrialSpecialization2_Dec</Label>
+    <String>Our rapidly expanding frontiers have made available thousands and thousands of new things to look at under a microscope. Expanding our research capabilities will allow our scientists to keep up.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIndustrialSpecialization3_Dec</Label>
+    <String>Having found out what works and doesn't work on alien planets, we've been able to standardize and modularize our building construction practices a bit, which should reduce building costs across our civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAdvancedConstruction_Name</Label>
+    <String>Amphibious Construction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAdvancedConstruction_Dec</Label>
+    <String>Advances in material sciences has given us the tools to build bigger and bolder, to finally catch up with some of the wilder imaginings our architects have come up with.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianConstructionOptimization1_Dec</Label>
+    <String>Every time we ramp up the scale of our manufacturing, we also ramp up the scale of our mistakes. It takes time and effort to weed those out, but it needs to be done if we want to reach our true manufacturing potential.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianConstructionOptimization2_Dec</Label>
+    <String>We resisted letting the accountants into the manufacturing centers for a long time, because the work is dangerous and also because no-one likes them. But once they found a way to sneak in, they did admittedly find several ways to cut manufacturing costs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianConstructionOptimization3_Dec</Label>
+    <String>Factories and manufacturing plants generate a lot of toxic byproducts which are expensive to dispose of. By making our manufacturing processes even a bit less wasteful, we expect to see broad cost savings over the life of a plant.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianXenoManufacturingMethods_Name</Label>
+    <String>Amphibious Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianXenoManufacturingMethods_Dec</Label>
+    <String>Some of our more precise manufacturing processes have resisted the move off-world, struggling with the broad range of environments they're now exposed to. We think we've got it now, but nevertheless still recommend you invest in extended warranties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianManufacturingFocus1_Dec</Label>
+    <String>Tooling our manufacturing centers to specialize in military production sends a pretty unfriendly message to anyone paying close attention to us. However, it should make the boys and girls in adaptive camo fatigues happy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianManufacturingFocus2_Dec</Label>
+    <String>One of the unforeseen side-effects of managing a civilization on this scale is finding things to do with all these people. Keeping them happy is as important as keeping them safe, and they can sometimes be pretty difficult about it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianManufacturingFocus3_Dec</Label>
+    <String>We thought we cleared them out after the last time, but some more accountants managed to slip in to our manufacturing centers. Or they're living in the walls now. Regardless, they've found some more ways for us to reduce our manufacturing overhead.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIndustrialExpertise_Dec</Label>
+    <String>By manipulating materials at the atomic level, we can now construct things of unparalleled precision. This has massively expanded our industrial capacity, along with creating an entirely new class of pretty terrifying workplace safety issues.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIndustrialMastery1_Dec</Label>
+    <String>We're slowly eking out the last possible efficiencies in our military manufacturing processes, our civilization slowly turning into a war machine itself.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIndustrialMastery2_Dec</Label>
+    <String>Few of our civilians seem to realize the challenge of constructing the farms, hospitals, and entertainment complexes that they rely on to survive. And yet every time we try to tell them how good we're doing it now, they just yawn and walk away.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHydromechanicalMining_Name</Label>
+    <String>Hydromechanical Mining</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHydromechanicalMining_ShortDec</Label>
+    <String>Allows the constuction of one Central Mine per colony.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHydromechanicalMining_Dec</Label>
+    <String>Having the ability to mine below the water table without all the messy pumping, allows mines to be deeper, and larger than most atmosphere breathing races can manage.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPracticalFusion_Name</Label>
+    <String>Practical Fusion</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPracticalFusion_ShortDec</Label>
+    <String>Allows construction of improved power plants.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPracticalFusion_Dec</Label>
+    <String>Making cascading fusion reactors robust, tamper-resistant, and generally catastrophe-proof has taken a lot of work. But now that we have, we expect to see improved manufacturing capacity and only the bare minimum of catastrophes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianQuantumPower_Dec</Label>
+    <String>By tapping into the quantum zero point energy of a vacuum, our physicists claim that we now have access to a massive source of power. It's not infinite, but boy is there ever a lot of it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEducationalResearch_Name</Label>
+    <String>Amphibious Education</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEducationalResearch_ShortDec</Label>
+    <String>Allows construction of advanced Universities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEducationalResearch_Dec</Label>
+    <String>The best and brightest need a place to continue their education, and more importantly their research. Universities should provide the best, dampest environment for encouraging this valuable research.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianResearchOptimization1_Name</Label>
+    <String>Optimized Schooling</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianResearchOptimization1_Dec</Label>
+    <String>We've modified Torian educational practices to encourage the swiftest thinking Torians to begin schooling together. This should lead to the more rapid development of new technologies, and less of our swift thinking Torians being bullied.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianResearchOptimization2_Name</Label>
+    <String>Cost Effective Schooling</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianResearchOptimization2_Dec</Label>
+    <String>Torians have always been willing to spend whatever it takes on our educational pools. Which hasn't led to very cost-effective spending. By putting our wisest, wettest-behind-the-ears Torians in charge of the budgets, we should make our research schools more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianResearchOptimization3_Name</Label>
+    <String>Sustainable Schooling</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianResearchOptimization3_Dec</Label>
+    <String>Our schools are full of costly lab equipment necessary for turning Torians into smarter Torians. By reusing some of this equipment instead of throwing it out after every class, we expect to see significant maintenance cost savings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianResearchCities_Name</Label>
+    <String>Cities of Learning</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianResearchCities_ShortDec</Label>
+    <String>Allows construction of dedicated Cities of learning.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianResearchCities_Dec</Label>
+    <String>The education of our population continues to pay off. We now have large groups of independent scholars, who which wish to live work together in specialized communities. Encouraging this trend should assure the our continued technological advancement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTechnologicalFocus1_Name</Label>
+    <String>Focused Universities</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTechnologicalFocus1_Dec</Label>
+    <String>The broad scope of the Torian education system is a cherished part of our culture, allowing Torians to float where their intellectual interests take them. But by focusing our efforts just a little more on pure research we can increase the rate we discover new technologies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTechnologicalFocus2_Name</Label>
+    <String>Universities Production Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTechnologicalFocus2_Dec</Label>
+    <String>A new paradigm in Torian education, requiring Torian scholars to build their facilities themselves, should help reduce the construction cost when building new research improvements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTechnologicalFocus3_Name</Label>
+    <String>Economical Universities</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTechnologicalFocus3_Dec</Label>
+    <String>It seems that the wiser a Torian scholar gets, the more wasteful they become, bless their little flippers. By forcing them to justify their learning activities just a little more, we can reduce the maintenance costs of our research facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianResearchCommunes_Name</Label>
+    <String>Research Communes</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianResearchCommunes_ShortDec</Label>
+    <String>Allows for the constuction of Reseach Communes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianResearchCommunes_Dec</Label>
+    <String>Our greatest scholars have now formed a unique culture based on the sharing of their knowledge. These communities have grown into thriving Communes full of like minded scholars, all dedicated to the advancement of knowledge of all kinds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDeeperKnowledge_Dec</Label>
+    <String>Our understanding of the universe has grown by leaps and bounds. Teams who have made an effort to slow down and consider some of the implications of these discoveries are now revealing deeper patterns in the fabric of reality.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianQuantumUnderstanding_Dec</Label>
+    <String>Our latest facilities are no longer groping blindly at the edge of the sub-atomic world. For one thing there are twenty edges, and they're less edges than toroids, and there are actually now zero of them. It turns out reality is super complicated.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBeyondMortality_Dec</Label>
+    <String>Ascension will make us immortal, and usher us into a reality that is beyond this one. What lies there remains a mystery, but we've never backed away from those before.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTorianPlanetaryImprovement_Name</Label>
+    <String>Planetary Settlement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTorianPlanetaryImprovement_ShortDec</Label>
+    <String>Allows construction of civilian buildings, and increases the quality of our colonies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTorianPlanetaryImprovement_Dec</Label>
+    <String>Half the fun of settling into a new pool is setting it up to suit your needs. That's harder when the pool is on an alien planet, and the water is a smidge too acidic, but we've finally developed the tools and techniques to get around those issues.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPlanetarySpecialization1_Name</Label>
+    <String>Aquacultural Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPlanetarySpecialization1_Dec</Label>
+    <String>Our farming technology has improved dramatically, and we're beginning to see enhanced crop yields as a result. The anemones still have that weird taste, but we're working on it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPlanetarySpecialization2_Dec</Label>
+    <String>Now that we're able to use diet to modulate the effects an alien world has on fertility, our population growth rates are beginning to trend upwards. More babies for now, but more workers soon enough.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPlanetarySpecialization3_Dec</Label>
+    <String>We're no longer just surviving on new worlds, but thriving there. Thanks to improved nutrient yields and preservation techniques, our workers can work longer and harder, improving the production capacity of our entire civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHydroponicFarming_Name</Label>
+    <String>Hydroponic Farming</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHydroponicFarming_Dec</Label>
+    <String>Adapting our agricultural expertise to fit a variety of alien environments has proven challenging, and taken many simultaneous advances in our understanding of water, aquacultural science, and algae. By moving these efforts into controlled facilities, our food production should go way up.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAgriculturalOptimization1_Name</Label>
+    <String>Accelerated Hydroponics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAgriculturalOptimization1_Dec</Label>
+    <String>Adapting the kelp, algae and other foodsToughs of our homeworld to account for differences in the water quality of alien worlds takes a lot of effort. But now that we have, we expect to see greater yields from our hydroponics facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAgriculturalOptimization2_Name</Label>
+    <String>Efficient Hydroponics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAgriculturalOptimization2_Dec</Label>
+    <String>Our aquacultural engineers are now able to predict in advance what water balancing equipment a colony requires before it's formed, leading to lower startup costs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAgriculturalOptimization3_Name</Label>
+    <String>Sustainable Hydroponics</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAgriculturalOptimization3_Dec</Label>
+    <String>A new generation of crops, bred for adaptability, will allow us to reduce the costs of running our hydroponic facilities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAdvancedHydroponicFarming_Name</Label>
+    <String>Advanced Hydroponic Farming</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAdvancedHydroponicFarming_Dec</Label>
+    <String>Growing food on dry land is a distasteful notion, but thanks to our latest advanced hydroponics facilities, the average Torian diner should never know the difference.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianFarmingFocus1_Name</Label>
+    <String>Hydroponic Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianFarmingFocus1_Dec</Label>
+    <String>The microbes present in alien water react in unpredictable ways to Torian crops. We've only now learned how to protect our precious food from being consumed by these tiny beasts, which should lead to greater food production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianFarmingFocus2_Name</Label>
+    <String>Hydroponic Adaptability Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianFarmingFocus2_Dec</Label>
+    <String>Torian scholars have finally selected the strains of plants which will adapt to the widest range of alien aquatic climates. By forcing Torian colonists to eat these crops, instead of what they actually want, we'll lower our hydroponic farm startup costs. We never told them colonization was going to be easy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianFarmingFocus3_Name</Label>
+    <String>Hydroponic Management Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianFarmingFocus3_Dec</Label>
+    <String>aquacultural Torians have always tended towards secrecy, preferring to share their experience to their brood rather than their neighbors. If we can make them co-operate at least a little more - especially with Torians on other worlds - we can spread our best practices, reducing farm operational costs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAutomatedHydroponicFarming_Name</Label>
+    <String>Automated Hydroponic Farming</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAutomatedHydroponicFarming_Dec</Label>
+    <String>Improvements in our recycling and nutrient delivery systems have led to almost perfectly efficient farms. Our farmers don't even need to get their hands damp now, and are actually getting a bit precious about it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAgriculturalMastery1_Name</Label>
+    <String>Master Aquaculturists</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAgriculturalMastery1_Dec</Label>
+    <String>Finally our aquaculturists have gotten that weird taste out of anemones. We'd been wasting a lot of capacity trying to grow those, and now that Torians will start eating them again, our effective food production has gone way up.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAgriculturalMastery2_Name</Label>
+    <String>Aquatic Abundance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAgriculturalMastery2_Dec</Label>
+    <String>Our hydroponics farms are now so perfectly efficient, so perfectly Torian, that many colonists now want to live on them. Our farm-to-table metrics are off the charts, and our population growth rate has never been higher.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianXenoBiology_Dec</Label>
+    <String>Understanding how our bodies adapt to the microbiological environment of alien waters will be critical to our chances of survival when colonizing the stars. Losing a colony to catastrophic diarrhea simply isn't an option.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPopulationEnhancement_Name</Label>
+    <String>Spawning Pool Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPopulationEnhancement_Dec</Label>
+    <String>It takes a lot of the romance out of it, but for our colonies to succeed, they need baby Torians, and they need them quickly. Dedicating more resources towards fertility enhancement and mood music should help.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBioReplication_Dec</Label>
+    <String>Once we took all of the fun parts out of reproduction, we were able to dramatically increase our growth rates. Sure, bio-replication might be ushering us into a nightmarish world, but we're sure we'll manage somehow.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEnvironmentalEngineering_Name</Label>
+    <String>Hydrological Engineering</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEnvironmentalEngineering_Dec</Label>
+    <String>Our ability to improve and enhance the environment we work in will provide benefits to almost every aspect of colonization, and make walks in the outdoors a little less deadly.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianExtremeWorldColonization_Dec</Label>
+    <String>No longer are we limited to the low-hanging fruit of the galaxy's stock of planets. It won't be an easy life for anyone living on these new worlds, but it will be a life.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianColonizationFocus2_Dec</Label>
+    <String>We're now so good at living on snowball worlds that many colonists go days at a time without using mittens, something which would have been considered wildly reckless even a few years ago.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianColonizationFocus3_Dec</Label>
+    <String>Barren world were a nightmare for our kind, but thanks to expensive, massively wasteful water-genesis technology, life on barren worlds is now tolerable to Torians, and more or less as productive as anywhere else.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAtmosphericCleansing_Dec</Label>
+    <String>Even the foulest and most toxic planetary environments can now be colonized by us. Good luck to the poor bastards who go for it, but at least they'll now have a fighting chance.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBiospherePerfection1_Dec</Label>
+    <String>The mutations and genetic defects which were a fact of life for the early colonists of radioactive worlds are now a thing of the past. Any further mutations will be left in place for cosmetic purposes only.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBiospherePerfection2_Dec</Label>
+    <String>We have mastered the challenges of living on even the most poisonous of planets. You still won't want to go outside without your helmet, but we've moved most of the places worth going inside anyways.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTerraformingTech_Dec</Label>
+    <String>Terraforming is a tricky business, delicately poised between making a world more habitable for us without destroying its entire biosphere to do so. And there aren't any do-overs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHabitatImprovement_Dec</Label>
+    <String>Our ability to manipulate the biosphere has improved to the point that we can treat entire continents as a canvas, lacing them with canals and ponds as we best see fit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSoilReclamation_Name</Label>
+    <String>Planet Moistening</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSoilReclamation_Dec</Label>
+    <String>Many planets do a very poor job of making terrain usable for colonial purposes. Where nature has dropped the ball, we've stepped in, and are now capable of developing what were once very marginal locations.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEnvironmentalResequencing_Dec</Label>
+    <String>We're playing with powerful forces now, capable of manipulating planetary terrain on a scale never seen before. We must be sure to use this power wisely, or at least not actively for evil.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTorianEngineeringTech_Dec</Label>
+    <String>For generations, we've looked up at the stars and wondered, "What if?" Well buckle up, because "if" has happened. By bending space around our ships we can use conventional propulsion in a pocket of normal space while accelerating at incredible speeds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTorianInterstellarTravel_Dec</Label>
+    <String>Even at the incredible speeds we can travel at now, if we want to journey anywhere beyond the closest stars we'll need to make significant improvements to our navigational and life support systems. More refined hyperdrives wouldn't hurt either.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInterstellarSpecialization1_Dec</Label>
+    <String>After analyzing how our first generation of hyperdrives have (and haven't) worked, we've come up with a number of ways to improve our ships' speeds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInterstellarSpecialization2_Dec</Label>
+    <String>Pushing large Support Modules through space is inherently wasteful, by miniaturizing and optimizing the larger components, we can fit more on a ship, allowing them to go farther and faster than ever.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInterstellarSpecialization3_Dec</Label>
+    <String>After listening to the complaints and coughs of our returning crews, we've improved the life support recirculation systems of our ships, which should marginally increase their effective range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIonDriveTech_Dec</Label>
+    <String>By using magnetic fields to capture ions from the interstellar medium during hyperdrive flight, we can funnel this additional mass into the exhaust of our engines, increasing our overall speed. Called Ion Drives, they make us go faster, basically.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIonOptimization1_Dec</Label>
+    <String>The ion capture technology of our Ion Drives requires a fiendish amount of tuning that our ship's engineers are only just learning to automate. Once this work is done, we should see slightly higher speeds across our fleet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIonOptimization2_Dec</Label>
+    <String>Hyperfield generators are no longer the rare pieces of equipment they once were, and we're beginning to see efficiencies of scale that have reduced the unit-cost for each one.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIonOptimization3_Dec</Label>
+    <String>Every year our hyperdrives get more efficient and smaller. Less room for the engines means more room for everything else, benefiting every type of ship we could conceive of.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWarpFieldTheory_Dec</Label>
+    <String>Our scholars are now able to "stack" up the space-bending fields of our hyperdrives, magnifying their acceleration effect. They call these stacked arrangements "Warp Fields" and are now using them to create vastly more powerful engines.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWarpFieldFocus1_Dec</Label>
+    <String>By tuning the arrangement of stacked hyperfields in a variety of dimensions, we've found some surprisingly cheap ways to improve the speed of our Warp Drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWarpFieldFocus2_Dec</Label>
+    <String>Now that we're using stacked fields and multi-field generators, even the most minuscule improvement in cost-efficiency can lead to significant savings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWarpFieldFocus3_Dec</Label>
+    <String>With a bit of experience working with the effects of stacked hyperfields, we've determined that we were stacking them inefficiently. Smaller field generators can achieve the same effects as their fatter predecessors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHyperwarpWaves_Dec</Label>
+    <String>Hyperwarp Waves consist of warp fields cascading in front of the vessel, allowing a warp drive to effectively compress already compressed space. That glosses over a number of complicated mathematical issues, but the end result is even faster drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHyperwarpMastery1_Dec</Label>
+    <String>No other civilization in the galaxy can match ours for the ease and efficiency with which we build our drives. And still Torian ingenuity can find ways to make them cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHyperwarpMastery2_Dec</Label>
+    <String>We have all but mastered hyperfield technology, and are now capable of wringing the most possible speed from even the smallest engines.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianStellarFoldingTech_Dec</Label>
+    <String>Stellar folding bends space on a scale never seen before, hyperfields approaching the diameter of a star. Our ships are now the fastest in the galaxy, and perhaps the fastest the galaxy has ever seen.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHyperfieldProjection_Dec</Label>
+    <String>Careful analysis of the way hyperfield waves interact when ships are travelling in formation has revealed the possibility of building larger field generators capable of increasing the drive efficiency of an entire fleet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianGravityFieldManipulation_Dec</Label>
+    <String>It took a long time to finally find the graviton. It turned out to be inside us the whole time. But now we can use it to generate massive artificial gravity fields, which should improve the maneuverability and tactical options of our ships in combat.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHyperfieldDisruption_Dec</Label>
+    <String>By analyzing the interference effects of multiple hyperwave fields from different ships travelling in close proximity, we can now limit the speed of enemy ships within the range of a properly equipped starbase.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianStellarFieldProjection_Dec</Label>
+    <String>The Stellar Field Projector allows properly equipped ships to effectively "tow" ships with less capable drives. The same technology will help us improve the hyperfield enhancing capabilities of our support modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInterstellarSurvey_Dec</Label>
+    <String>"Look before you leap," is excellent advice in all sorts of aspects of life and galactic civilization building. Now we finally have the sensor and survey tools for our ships to do just that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSensorOptimization1_Dec</Label>
+    <String>The latest generation of nano-processors allow us to more rapidly process the massive volumes of information our sensors return, improving the overall effectiveness of our sensor systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSensorOptimization2_Dec</Label>
+    <String>The hyperfield detectors which our sensors use were originally cobbled together from left over drives. Now that we have dedicated sensor manufacturing equipment, we can expect to see some significant cost savings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSensorOptimization3_Dec</Label>
+    <String>Our earliest sensors were crude, jury-rigged things, and if we begin swapping out their parts for dedicated sensor-specific equipment, we should see significant weight savings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEnergyFieldSensors_Dec</Label>
+    <String>Improvements in our understanding of the effects of space folding have revealed that hyperdrives are detectable at much greater distances than previously believed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEnergyFieldFocus1_Dec</Label>
+    <String>Our technicians have found that by turning one of the knobs up, our sensor systems can see a bit further. We feel kind of dumb for not realizing this before.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEnergyFieldFocus2_Dec</Label>
+    <String>Our sensor systems had several redundant parts, which when stripped out has led to the production of cheaper, more efficient systems. The accountants are all very excited.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEnergyFieldFocus3_Dec</Label>
+    <String>The creation of high-density field detection components should lead to more compact sensors, leaving our ship designers more room to install guns. Everyone wins. Except the people the guns are pointed at.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSubspaceSensors_Dec</Label>
+    <String>Subspace is the 12-dimension space that lies at right angles to and a little bit behind our universe, and it took us a very long time to figure out how to look at it. The upshot is that we can now build a new generation of very powerful sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSensorMastery1_Dec</Label>
+    <String>When a ragtag group of science-accountants teamed up with the goal of identifying cost savings in our most advanced sensor systems, few believed they had a chance. Many openly mocked them. Some people spit on them. But somehow they managed it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSensorMastery2_Dec</Label>
+    <String>A careful analysis of our newest sensor systems has revealed that several of their components don't technically have to exist in this universe. By shifting their workload into another plane, we can reduce the amount of mass we have to lug around in ours.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTargetingAssistTech_Dec</Label>
+    <String>A study of how our ships have performed in combat has led to a number of improvements in our tactical targeting systems. At the same time, we've devised a system which should confuse enemy sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTargetingSupport_Dec</Label>
+    <String>We've adapted our tactical sensor improvements into support modules, capable of allowing a single ship to provide sensor accuracy and jamming benefits to an entire fleet of vessels.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianXenoArcheology_Dec</Label>
+    <String>For some time we've known of a race, or races, of long dead aliens called the Precursors. It's taken some time to adapt our survey systems to identify their relics, but now that we have, we hope to learn a few of their secrets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPrecursorStudies_Dec</Label>
+    <String>Now that we've had an opportunity to study a few precursor relics, we've been able to detect patterns in them which have allowed us to build a framework which should greatly aid future Precursor research efforts.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPrecursorRelicFocus1_Dec</Label>
+    <String>Understanding Precursor artifacts involves throwing out many of our pre-conceived notions about technology. Their interfaces don't just assume we have different anatomy; they assume we have different ways of thinking entirely.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPrecursorRelicFocus2_Dec</Label>
+    <String>The public seems fascinated by the Precursors, and the relics we've found have had a surprising effect on our society. We can now try to capitalize on these cultural benefits. Souvenirs. Wacky catchphrases. Things like that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPrecursorRelicFocus3_Dec</Label>
+    <String>Most of the Precursor relics we find are a mystery to us, doing little more than generating patterns of pretty lights. Though it turns out there is a massive consumer market for pretty lights which we might want to capitalize on.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPrecursorExploitation_Dec</Label>
+    <String>The study of Precursor relics requires very specialized equipment. The construction of dedicated facilities staffed with Precursor specialists will allow us to make the most of these incredible artifacts.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPrecursorEngineering_Dec</Label>
+    <String>We're now able to try recreating some of the Precursor's technology. Extremely advanced fabrication equipment will be needed to continue this work, but the benefits to our other research programs could be immeasurable.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPrecursorUnderstanding_Dec</Label>
+    <String>Precursor relics reveal their secrets to us with ease now, and we're close to building our own relics ourselves. We have almost as full an understanding of Precursor technology as the Precursors did themselves.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAquaticSupportSystems_Name</Label>
+    <String>Aquatic Support Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAquaticSupportSystems_ShortDec</Label>
+    <String>Allows construction of improved aquatic support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAquaticSupportSystems_Dec</Label>
+    <String>Aquatic Support systems efficiently provide Torian crew members with the water, air, and food they need to survive in space by making use of advanced filtration and recycling technology, allowing us to travel further than purely atmosphere breathing races.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLifeSupportOptimization1_Name</Label>
+    <String>Improved Aquatic Support</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLifeSupportOptimization1_Dec</Label>
+    <String>A new generation of filtration systems and little bubbling pumps has improved the effectiveness of our aquatic support systems, extending our ship's range even further.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLifeSupportOptimization2_Name</Label>
+    <String>Aquatic Support Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLifeSupportOptimization2_Dec</Label>
+    <String>The water in our life support systems is cheap, but all the little chemicals we need to maintain its quality can get kind of expensive. By using more efficient drip feeders, we've reduced the overall cost of our life support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLifeSupportOptimization3_Name</Label>
+    <String>Aquatic Support Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLifeSupportOptimization3_Dec</Label>
+    <String>Water is heavy. Accelerating it costs energy and stopping it does too. We've had to change the way we use and live within water, convincing Torian crew members to make do with less.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianRecyclingAquaticSupportSystems_Name</Label>
+    <String>Recycling Aquatic Support Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianRecyclingAquaticSupportSystems_ShortDec</Label>
+    <String>Allows construction of advanced Aquatic support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianRecyclingAquaticSupportSystems_Dec</Label>
+    <String>We have been able to optimize our Aquatic Support systems to the point that they're nearly self sufficient. We can now travel further into the galaxy than ever, with even our smaller ships able to cross large portions of the galaxy before they need to refresh their systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSupportFieldFocus1_Dec</Label>
+    <String>The biggest current bottleneck in our aquatic life support systems is waste handling. Put simply, Torians are "going" wherever. By making them do their number 1's and 2's and 3's in special bins, we make our ship's life support systems more effective and longer-reaching.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSupportFieldFocus2_Dec</Label>
+    <String>A new generation of foodsToughs, composed of little tiny flakes, are incredibly efficient. These delightful new flakes have increased the cost effectiveness of our life support systems dramatically while only tasting 70% worse than earlier varieties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSupportFieldFocus3_Dec</Label>
+    <String>Simple aeration and water-simulating field generators can mimic most of the practical and cultural uses Torians have for water, allowing our ships to travel with a fraction of the water mass than they previously carried.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLosslessAquaticSupportSystems_Name</Label>
+    <String>Lossless Aquatic Support Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLosslessAquaticSupportSystems_ShortDec</Label>
+    <String>Allows construction of Losslesss Aquatic support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLosslessAquaticSupportSystems_Dec</Label>
+    <String>We have perfected our Aquatic Support Systems, using the latest Promethean Field effectors to simulate water, reducing the need for actual water to zero. Our ships no longer have to refresh their water increasing their range almost infinitely.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLifeSupportMastery1_Name</Label>
+    <String>Aquatic Support System Assembly</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLifeSupportMastery1_Dec</Label>
+    <String>The Torians who assemble our ultra-efficient, super-dry life support systems feel so sorry for the crews who have to use them, that they've begun working harder out of sympathy. This won't help out ship's crews any, but it does make the things cheaper to build.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLifeSupportMastery2_Name</Label>
+    <String>Aquatic Support Mass Reduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLifeSupportMastery2_Dec</Label>
+    <String>A new generation of Promethion field effectors are slightly less heavy, though still of course a cultural abomination. But such is the cost of war. On the plus side, many of our Torian crew members now carry their own families water in special bags around their thoraxes, which is kind of touching.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSupportFieldMastery_Dec</Label>
+    <String>Our switch to field based life support systems has made it possible to offload some materials to other vessels. Additionally, it should now be possible to supplement fleets via unmanned supply probes launched from an appropriately equipped facility.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianExplorationExtention_Dec</Label>
+    <String>We've adapted the latest in Promethion support field technology to be used by our fleet-support vessels, thus increasing an entire fleet's travel range. Additionally, we've made significant improvements to our starbase life support extension modules.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianOrbitalManufacturing_Dec</Label>
+    <String>Moving our ship construction operations to micro-gravity environments will eventually allow for the construction of massive structures. We're not quite there yet, but the first step out of the well was always going to be the biggest.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianOrbitalSpecialization1_Dec</Label>
+    <String>You can't put just anyone in a space suit and get them to build things in orbit. It turns out that most people don't understand what an orbit is. Some improved training programs should dramatically improve our orbital manufacturing capability.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianOrbitalSpecialization3_Dec</Label>
+    <String>Getting material to the right orbit at the right time is something we're only just coming to grips with. It turns out that orbital plane change maneuvers are really expensive. But once we scale this up, our logistical ability should greatly improve.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianOrbitalSpecialization2_Dec</Label>
+    <String>Ironically enough, space is at a premium in space, inside of our hulls at least. Even small improvements in packing efficiencies are worth the effort of hunting them down.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianZeroGravityConstruction_Dec</Label>
+    <String>Most of our initial attempts at micro-gravity construction used clumsy variations of ground-based techniques, not far removed from banging rocks together. Now that we have a little more experience, we should be able to build on a much larger scale.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianZeroGravityOptimization1_Dec</Label>
+    <String>After donating a few hulls for weapons practice, we were able to see the structural damage inflicted on them, and identify structural reinforcements that should toughen each ship substantially.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianZeroGravityOptimization3_Dec</Label>
+    <String>Worksite planning in an orbital environment is a seriously complicated business, but now that we've got the hang of it, we should see significant cost savings for every hull we construct.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianZeroGravityOptimization2_Dec</Label>
+    <String>We're now able us to build hollow structural elements still capable of handling very high compression loads. By maximizing the use of these and routing various ancillary ship systems through the cavities, we can save space for mission critical equipment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLargeScaleConstruction_Dec</Label>
+    <String>Building larger hulls is more involved than just adding more sTough to them. Ensuring that they won't collapse under acceleration is a serious challenge. Seating, to ensure our crews doesn't collapse under acceleration is another surprising challenge.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianOrbitalConstructionFocus1_Dec</Label>
+    <String>It seems counter-intuitive, but by introducing very small weaknesses in the molecular structure of our hulls, we can make them deformable in controlled ways, making our hulls quite a bit more resilient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianOrbitalConstructionFocus3_Dec</Label>
+    <String>The latest generation of self-propelled manufacturing equipment will allow our workers to maneuver inside of hulls with much greater ease, reducing the challenge and expense of construction.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianOrbitalConstructionFocus2_Dec</Label>
+    <String>As our hulls grew ever larger, we began to lose some of the art of packing that our predecessors had. But now thanks to the scale of our ships, even very small improvements in packing can lead to more room for everything else.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMassiveScaleConstruction_Dec</Label>
+    <String>We're building massive ships capable of blotting out the stars. Obviously any ship can blot out the stars if you get close enough to it. You just don't have to get very close to these ones for that to be the case. Nor would you want to.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHullMastery2_Dec</Label>
+    <String>That we build the best ships in the galaxy is undeniable, but that we do it so economically is what's really impressive. Our enemies have never been menaced so thriftily.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHullMastery1_Dec</Label>
+    <String>Thanks to advances in the field of bristling, never before have our ships been so bristling with weapons. They could also bristle with other things we suppose.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHullStrengthening_Dec</Label>
+    <String>Using new force field technologies, we've been able to embed strengthening fields within the structures of our vessels, making them substantially more resistant to damage. They also now tingle if you lick them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHullRepairSystems_Dec</Label>
+    <String>The same field technology we use to strengthen our ships can now be used to conduct partial repairs as well, straightening and reinforcing battle-damaged structural elements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSelfHealingHulls_Dec</Label>
+    <String>Tiny little self-replicating nanobots are capable of almost anything as long as we don't ask too many questions about them. Nanobot repair modules in our ships and starbases will be able to repair damage during battle itself.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCarrierTech_Dec</Label>
+    <String>Carrier combat will allow us to project force while keeping our capital ships out of danger. Fighters are a lot more replaceable and there's no shortage of volunteers to fly them. Apparently there's something glamorous about dying in a very small ship.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCarrierFocus1_Dec</Label>
+    <String>These little drones are fast and deadly, and more importantly cheap. They also have the added advantage of not requiring a crew, which saves lives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCarrierFocus2_Dec</Label>
+    <String>These tough little drones will guard our Support and Capital ships to the end, and when they are destroyed, no lives are lost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHighCapacityCarriers_Dec</Label>
+    <String>Thanks to our latest generation of fighters, designed to be more compact and packable, and the improved repair, reloading, and recovery facilities that go with them, we're now able to deploy high-capacity carriers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInterstellarLogistics_Dec</Label>
+    <String>It's one thing to build a ship, it's another thing to keep it running. None of this is exciting of course. Logistics officers are some of the most boring people you're ever likely to meet. But a necessary evil.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLogisticalOptimization1_Dec</Label>
+    <String>Now that we've figured out some of the issues relativistic travel creates with our timekeeping and administration, we've been able to significantly improve our logistical capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLogisticalOptimization2_Dec</Label>
+    <String>An asteroid mining operation is a ballet of activity, as boring machines, ore haulers, and repair drones swarm about an asteroid. Keeping these pieces moving is challenging, and improving the organization is a sure way to improve its output.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLogisticalOptimization3_Dec</Label>
+    <String>Shipyards are, by some measures, the most complicated constructs Torians have ever created. Any improvement we can make to the management and operation of these beasts will result in significant cost savings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianFleetLogisticsTech_Dec</Label>
+    <String>Scaling up our naval operations to include large multi-vessel fleets has created a number of additional logistical challenges which we're only just now coming to grips with. We'll definitely stop sending ships out without oxygen now though.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDeepSpaceLogistics_Dec</Label>
+    <String>Whether it's via unmanned probes, deep space caches, or our network of merchant vessels, keeping our fleets well stocked while our civilization expands has proven to be a tremendous, but still very boring, challenge.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianGalacticLogistics_Dec</Label>
+    <String>Our mastery of mass-scale logistics is the envy of the galaxy. Well. The part of the galaxy which gets excited about logistics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInterstellarMining_Dec</Label>
+    <String>We can't have ships without the resources to build them. The same can be said for lots of things actually. Improved mining technologies will benefit every aspect of our civilization. At least the aspects of our civilization which require building things.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHighEfficiencyMining_Dec</Label>
+    <String>Our mining operations are capable of generating more resources while losing less miners than ever before. The miners rejoice! Well. Not rejoice, exactly. They seem less grumpy than usual. Still, that's something.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianResourceExtraction_Name</Label>
+    <String>Resource Siphoning</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianResourceExtraction_Dec</Label>
+    <String>Valuable resources can be found in most asteroids in extremely low concentrations. Extracting these hasn't been practical until the development of probes capable of independently navigating the subsurface to collect the goodies within.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLosslessMining_Dec</Label>
+    <String>Miniaturizing our resource extraction probes to the nano-scale has allowed for almost perfectly lossless resource extraction. Additionally, the rarest of rare resources can now feasibly be targeted for extraction.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWarfareTech_Name</Label>
+    <String>Protection</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWarfareTech_Dec</Label>
+    <String>The Drengin are still out there. And possibly even worse aliens still. From this point on, our ships must be armed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWeaponsSystemsTech_Dec</Label>
+    <String>The best defense is a good offense. Interestingly, so is the best offense. With that in mind, we've developed weapon systems which should prove very well suited to space-based defense. And, as discussed, offense.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWeaponsSpecializationTech1_Dec</Label>
+    <String>We have increased the targeting systems of our existing weapons substantially, and what we have learned will apply to future weapons systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWeaponsSpecializationTech2_Dec</Label>
+    <String>We have reduced the mass of our existing weapons systems, and what we have learned will apply to future weapons as well.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWeaponsSpecializationTech3_Dec</Label>
+    <String>We have reduced the cost of our existing weapons systems, and what we have learned will apply to future weapons as well.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBeamWeapons_Dec</Label>
+    <String>Whether light, particles, or both at the same time, there's an awful lot of destructive potential in suddenly sending a lot of it all at one place.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBeamWeaponOptimization1_Dec</Label>
+    <String>A new generation of the ultra transparent materials we use in our focusing crystals has made it possible to increase the damage output of our beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBeamWeaponOptimization2_Dec</Label>
+    <String>Beam weapons will never be cheap, but some economies of scale have led to price reductions in the magnification and focusing equipment these weapons rely upon.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBeamWeaponOptimization3_Dec</Label>
+    <String>Lacking the requirements for ammunition storage, beam weapons have always been mass-efficient. And after some hard work by the boys and girls in the lab, now they're a bit more so.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMatterDisruption_Dec</Label>
+    <String>Our scholars have been able to weaponize a collimated beam of particles capable of disrupting the strong nuclear force, severing the bonds which hold the nucleus together, turning matter into smaller chunks of matter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHighEnergyFocus1_Dec</Label>
+    <String>Advances in crystallography have created a new generation of focusing crystals capable of handling much greater quantities of energy without fracturing. All of our beam weapons just got a little bit badder.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHighEnergyFocus2_Dec</Label>
+    <String>Manufacturing beam weapons is as much art as science, requiring highly trained technicians to individually tune each weapon. But if we can standardize this a bit, and even automate portions of it, we should be able to reduce the cost of each unit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHighEnergyFocus3_Dec</Label>
+    <String>The heaviest parts of beam weapons have always been the charge coils and their associated cooling equipment. But with the latest generation of super-conductors we can now build these smaller and more compact than ever.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPlasmaProjection_Dec</Label>
+    <String>We're now able to generate collimated plasma containment fields at incredible distances. The upshot to this is that we can now send massive quantities of plasma at relativistic velocities in the direction of anything we don't like very much.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBeamWeaponMastery1_Dec</Label>
+    <String>Our supply chain for the creation of plasma containment fields had a couple of kinks that needed to get worked out, but now that we have, we expect to be able to create beam weapons for far cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBeamWeaponMastery2_Dec</Label>
+    <String>We're now able to push our beam weapons right up to the energy density limits that physics allow. If we want any more power per unit of mass, we may have to move to a different universe.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEnergyPhasing_Dec</Label>
+    <String>The phaser particle is almost impossible to understand if you don't have several advanced degrees and possibly an extra brain. In short, these particles can induce a chain reaction that breaks an enemy down into neutrinos, effectively evaporating it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDoomRayTech_Dec</Label>
+    <String>An adaptation of the phaser particle emitter has resulted in massive improvements in the induced matter-breakdown reaction. Also of note, our scientists are pretty sure the reaction won't consume the entire universe. So that's good news.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBeamWeaponAugmentation_Dec</Label>
+    <String>We've found that the capacity of our beam energy storage systems can be augmented by an external field, which allows for increased beam output. Such fields could be projected at a distance, improving the beam output of an entire fleet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHighEnergyTransfer_Dec</Label>
+    <String>After considerable study in the way that beam weapons interact on a subatomic level with both shield systems and hulls, we've developed systems capable of reducing the effectiveness of enemy shields or absorbing enemy beam attacks on our own vessels.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHighEnergyMagnification_Dec</Label>
+    <String>An improved understanding of the effects our beam augmentation fields have has resulted in the possibility of even greater beam outputs. Additionally, we can now build beams that can cripple enemy shields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMissileWeapons_Dec</Label>
+    <String>Conceptually simple, though there's no shame in that, missile-based weapons provide a tremendous amount of punch for their cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMissileOptimization1_Dec</Label>
+    <String>Our weapons engineers have determined that shooting more missiles at things makes them blow up faster. Which seems obvious in retrospect. Anyways, our missile launchers shoot more now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMissileOptimization2_Dec</Label>
+    <String>Missiles were always going to be the most cost-effective means of making things hurt, and now they're a little bit more so.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMissileOptimization3_Dec</Label>
+    <String>Reviews of training data and engagement encounters reveals one overriding request from the field. "We want more missiles. Give us more missiles." Well, having reduced the mass of our launchers and ammunition racks, we're now able to do just that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHarpoonTech_Dec</Label>
+    <String>The Harpoon class of missiles employ a number of improvements in speed, range, tracking, and warhead yield, resulting in our most powerful conventional missile system yet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWarheadFocus1_Dec</Label>
+    <String>More target drones have given their lives for our glory, and a careful analysis of their deaths has revealed some exciting possibilities in the field of shaped charges, which should improve the destructive yield of our warheads.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWarheadFocus2_Dec</Label>
+    <String>The most delicate part of missile manufacturing was the warhead, for obvious reasons. But the latest generation of ultra-stable explosives should reduce both manufacturing costs and workplace accidents significantly.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWarheadFocus3_Dec</Label>
+    <String>By using the latest generation of shaped-charge warheads to reduce the weight of each individual missile, with no corresponding loss of destructive power, we can make room for more missile launchers in total.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPhotonicWarheads_Dec</Label>
+    <String>By embedding a device in our warheads which releases a high energy burst of photons at the moment of impact, we can achieve substantial penetration against both armor and shield systems, greatly increasing the destructive potential of our warheads.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPayloadMastery1_Dec</Label>
+    <String>Our missile manufacturing facilities are now almost perfectly efficient, wasting no material whatsoever. Destruction shouldn't come so cheap, yet here we are.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPayloadMastery2_Dec</Label>
+    <String>A new field based guidance system which uses forcefields to provide final maneuvering capabilities should cut down on the weight of our missiles systems a bit more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPhotonTorpedos_Dec</Label>
+    <String>By matching a wide-spectrum version of the photon-encasement armor piercing technology with our latest anti-matter warheads, we've created a weapon with truly colossal damage potential. They glow a new color too.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianNightmareTorpedoTech_Dec</Label>
+    <String>The Nightmare torpedo contains a tiny singularity trapped in a pocket universe, which upon being released causes horrifying damage to anything foolish enough to be standing by a place we're firing something called Nightmare Torpedoes at.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMissileAugmentation_Dec</Label>
+    <String>Our weapons scholars have come up with a number of ship and starbase modules which can improve the tracking and ultimately the range of our missiles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAdvancedMissileGuidance_Dec</Label>
+    <String>Improved decoy and camouflage systems will greatly increase the survivability of our missiles when faced with point defenses. And our missile support modules now feature a number of predictive systems which should help missile range even more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIntelligentWarheads_Dec</Label>
+    <String>Cluster warheads are capable of specifically targeting and neutralizing enemy point defense systems. And our missile support systems can now make use of information-sharing "pilot" missiles, which allow for more efficient guidance and improved range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKineticWeapons_Dec</Label>
+    <String>There's just something nice and honest about a projectile, isn't there? And thanks to a little help from teams of massive electromagnets, we've now got some extremely fast projectiles to work with.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKineticOptimization1_Dec</Label>
+    <String>A switch to slightly smaller projectiles, along with improved energy delivery systems, has led to significant improvements in the speed of each projectile, and thus the effective range of each unit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKineticOptimization2_Dec</Label>
+    <String>Never before have we needed to make electromagnetic coils in such quantity, and the early days of kinetic weapons were plagued by supply problems. But that's finally been addressed, and we should see cost savings across all of our kinetic weapon programs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKineticOptimization3_Dec</Label>
+    <String>Some experiments with the winding patterns of our electromagnetic coils has revealed a number of subtle synergistic effects which we can take advantage of, leading to tighter, more compact coils, and ultimately, lower mass weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPulseCannonTech_Dec</Label>
+    <String>Tight clusters of particles emitted at high velocity gets around some of the practical limitations of slug based mass drivers. These pulse cannons have similar tactical characteristics as previous kinetic weapons. They're just more powerful.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKineticAccelerationFocus1_Dec</Label>
+    <String>Our newest superconductors and the steeper energy delivery curves they enable should lead to higher muzzle velocities, at the trade off of smaller projectiles. These weapons should have a longer effective range with no reduction in damage potential.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKineticAccelerationFocus2_Dec</Label>
+    <String>The latest generation of superconducting electromagnetic coils and their less-strenuous cooling requirements make them much less fragile to handle. We expect to see significant cost savings now that we won't break as many during production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKineticAccelerationFocus3_Dec</Label>
+    <String>Our new ultra-low resistance electromagnets generate a lot more kick per unit weight, leading to lower mass accelerators. We can feel free to cram more of them into whatever we're cramming them in to.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianGravitonThrower_Dec</Label>
+    <String>By launching pulses of gravitons we can induce massive shifts in the local gravity of enemy ships that they strike. This will cause incredible amounts of damage, and probably make anyone standing nearby feel really dizzy right before they die.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKineticMastery1_Dec</Label>
+    <String>"We Make Kinetic Weapons Faster," is probably the dumbest slogan ever conceived of, but the Torians who thought of it seem really proud of it, so no-one had the heart to tell them. And to be fair, they do make them really quite quickly and cheaply now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKineticMastery2_Dec</Label>
+    <String>Our scientists have all but mastered kinetic weapons, having made them as mass efficient as theoretically possible, allowing even our smallest vessels to pack a hellacious punch.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianQuantumDrivers_Dec</Label>
+    <String>Quantum drivers fire shells that contain small quantum fields which pull in a tremendous amount of mass from a neighboring dimension on impact. We're not sure which dimension. We can only hope that they didn't need that mass.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSingularityDrivers_Dec</Label>
+    <String>The pinnacle of kinetic weapon technology, these launch micro singularities that collapse into existence shortly after impact. These are bad news, the worst news really, for anyone who can't get out of the way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKineticAugmentation_Dec</Label>
+    <String>Inertial dampening should be impossible in this universe, which is why we were a little surprised we were able to pull it off. We've used this stroke of luck to create systems which can boost the velocity and effective range of our kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMassManipulation_Dec</Label>
+    <String>We can now embed inertial modification tech inside projectiles, allowing them to generate ultra-dense outer surfaces for a brief period to improve their armor penetrating capabilities. And our kinetic augmentation systems have gotten a bit better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInertialMagnification_Dec</Label>
+    <String>Our projectiles are now capable of attacking armor directly, creating low density fissures that can cause the whole structure to splinter. Additionally our kinetic augmentation systems have increased their range boosting effects yet again.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMilitarizationTech_Name</Label>
+    <String>Defensive Preparation</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMilitarizationTech_Dec</Label>
+    <String>We already have a significant amount of structures in orbit and on the ground, all of which can be militarized with modest extra investment and some new uniforms. As sad as it is to see Torians go into space armed, we must never be slaves again.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMilitarySpecialization1_Dec</Label>
+    <String>Our military's regular training exercises are beginning to pay off, and we can now expect our soldiers to be far more effective when conducting ground-based operations.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMilitarySpecialization2_Dec</Label>
+    <String>We can't assume that our space-based defenses will always be effective. Our worlds will be significantly more secure if we can harden our ground fortifications and prepare plans to rapidly form colonial militias when they're needed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMilitarySpecialization3_Name</Label>
+    <String>Amphibious Resistance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMilitarySpecialization3_Dec</Label>
+    <String>By training our population in basic resistance tactics, we can help them be ready for anything. A prepared population can often be the difference between victory and defeat when invaded.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPlanetaryInvasion_Dec</Label>
+    <String>We've developed the equipment and tactics necessary to land on a world and take it by force. It's a little hard to imagine that Torians are now the alien invaders, but we must accept the way this galaxy has made us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInvasionOptimization1_Dec</Label>
+    <String>So it turns out that thanks to the properties of mass, the easiest way to pacify something is to just drop something on it. It takes a bit of practice to get right, but the practice is fun itself.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInvasionOptimization2_Dec</Label>
+    <String>Information warfare lacks a certain visceral appeal. But EMPs and targeted hacking attacks can cripple an enemy's coordination and limit the effectiveness of their defenses without needing to risk any of our own viscera.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInvasionOptimization3_Dec</Label>
+    <String>Let's be honest. If we're now the alien invaders, there's no reason we have to pretend we're the good guys. Yes we'll have to live with the consequences of using biological weapons. But at least we'll be the ones who live.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianStallerMarines_Dec</Label>
+    <String>A greater understanding of the tactics and training required for effective ground-based combat has led to a new form of military unit which specializes in establishing beachheads in unfriendly gravity wells.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianGravitationalFocus1_Dec</Label>
+    <String>By directing powerful gravitational fields at enemy ground defenses, we can induce flooding and even tectonic activity. The waves shall crash down on our enemy's heads.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianGravitationalFocus2_Dec</Label>
+    <String>Inducing a planet to suddenly experience massive, worldwide volcanic activity is a pretty extreme step. That said, it certainly will pacify any hostiles. Also liquefy them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDroneSoldiers_Dec</Label>
+    <String>There are massive benefits in unit reliability and coordination if our troops are programmed to unfailingly do what we tell them to. And we won't have to feel so bad about losing these ones.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAdvancedInvasionTactics_Dec</Label>
+    <String>A new generation of invasion transports, along with a new generation of soldiers that don't mind being stacked like clamshells, allows us to put boots on the ground faster than ever.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianFortification_Dec</Label>
+    <String>We mustn't neglect our own defenses, and with the latest generation of defensive fortifications, our planets and starbases will be able to put up a much tougher fight.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDefensiveFocus1_Dec</Label>
+    <String>By moving our most critical structures under the ocean floor, and providing similar shelters for civilians and troops, we can dramatically limit the effectiveness of most forms of orbital bombardment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDefensiveFocus2_Dec</Label>
+    <String>Our defensive experts have identified a number of vulnerabilities in our ground-based C&amp;C systems, and urgently recommend that we harden them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDefensiveFocus3_Dec</Label>
+    <String>It's impossible to conventionally vaccinate against an unknown biological attack. Adaptive vaccines are engineered lifeforms that lie dormant, ready to rapidly assist a immune system to fight new infections the moment they appear.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianOrbitalDefencePlatform_Dec</Label>
+    <String>A dedicated orbital defense platform will provide an additional layer of defense for our planetary systems, and take some of the defensive responsibility off of our starbases.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPlanetaryDefenseDome_Dec</Label>
+    <String>With the resources and energy available to ground-based structures, we're now able to construct a shielded dome with so many layers of redundancy that it's effectively invulnerable to any orbital bombardment.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianUnbrokenSpirt_Name</Label>
+    <String>Unbroken Spirt</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianUnbrokenSpirt_ShortDec</Label>
+    <String>Boost the Hitpoints of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianUnbrokenSpirt_Dec</Label>
+    <String>Our crews have tasted the lash of slavery, but they have not broken. Now they and their ships have the ability to withstand even the harshest onslaughts.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDefensiveDiscipline_Name</Label>
+    <String>Defensive Discipline</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDefensiveDiscipline_ShortDec</Label>
+    <String>Makes our ship crews more effective when in defensive maneuvers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDefensiveDiscipline_Dec</Label>
+    <String>Our pilots have learned to link with their ships, and though disciplined thoughts, they can now maneuver their ships, with a nimbleness far beyond normal manual control.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDefensiveTrance_Name</Label>
+    <String>Defensive Trance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDefensiveTrance_ShortDec</Label>
+    <String>Greatly increase the abilities of our ships to withstand damage.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDefensiveTrance_Dec</Label>
+    <String>Some of our more gifted pilots have taken the Defensive Discipline to a new level. They can go into a trance, becoming one with their ships. Allowing them to control their ships like their own bodies. The end result is they are able to move through intensive fire without faltering.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDefenseSystemTech_Dec</Label>
+    <String>Torians are notoriously squishy, and otherwise difficult to protect in a ship that operates in hard vacuum. But we've got to do something, or they're going to stop getting in the ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDefensiveSpecialization1_Dec</Label>
+    <String>Deflecting or diffusing incoming weapon fire is really, really hard, and we're far from having a really good understanding of it. Our latest round of research has only succeeded in making existing shield systems a bit cheaper to build.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDefensiveSpecialization2_Dec</Label>
+    <String>Making our point defenses fire more crap into the space around the ship is a simple solution to a complicated question. Though still a surprisingly effective one.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDefensiveSpecialization3_Dec</Label>
+    <String>By adjusting the size and positioning of our armor panels, we've been able to minimize overlap and other inefficiencies, and can now provide the same level of protection to our ships for less overall weight.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianShieldSystems_Dec</Label>
+    <String>No longer must our ships cower behind crude deflector fields. The latest generation of shields, although expensive, are capable of stopping incoming attacks outright, rather than just deflecting or diffusing their impact.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianShieldOptimization1_Dec</Label>
+    <String>Of all the suggestions we've received from the field on how to improve our shield systems, "Please make them bigger," seemed to be the most popular. So we've done that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianShieldOptimization2_Dec</Label>
+    <String>We probably shouldn't talk in front of the troops about our efforts to make our shield systems cheaper, even if it means more shields to go around for everyone. Because that's not how they'll see it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianShieldOptimization3_Dec</Label>
+    <String>The first few generation of field emitters used in our shield systems were incredibly bulky and cumbersome. And they still are, frankly. Just a bit less so now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBarrierFieldGeneration_Dec</Label>
+    <String>The latest generation of shields, the so-called Barrier Field, is capable of absorbing a portion of the energy which strikes it. This dramatically increases the energy efficiency of the system, allowing for ultimately much more powerful shields.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBarrierSystemFocus1_Dec</Label>
+    <String>The first generation of energy absorbers in our Barrier Field systems used a model of capacitor which occasionally exploded violently. Crews had decidedly mixed feelings about this, so we replaced those capacitors with a slightly more robust model.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBarrierSystemFocus2_Dec</Label>
+    <String>Since the first few shield emitters went out the door, we've slowly been able to achieve some economies of scale in the manufacture of these systems, reducing the cost of all future installations.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBarrierSystemFocus3_Dec</Label>
+    <String>We've recently been able to shave a ton of weight off of our shield generators thanks to the latest generation of superconductors and their less extensive cooling requirements.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianForceFieldTech_Dec</Label>
+    <String>The latest generation of shields are capable of directing vast amounts of additional energy to a specific section of shields within nanoseconds of the moment of impact, allowing for shields which are much stronger relative to their respective weight.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianShieldMastery1_Dec</Label>
+    <String>Cheaper shields never meant less effective shields, and it's only taken a few decades for our crews to finally understand that. Which is good, because our shields are spectacularly cheap now.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianShieldMastery2_Dec</Label>
+    <String>It's impossible to make the energy emitters of our shields any denser our engineers claim. They claim that kind of thing a lot and always take it back later, but they seem pretty sure this time.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInvulnerabilityTech_Dec</Label>
+    <String>"Invulnerable" may be a bit of an exaggeration. Our scholars allow that some theoretical weapons could penetrate these shields. But those would be some pretty terrifying weapons, and even then you'd rather be behind this shield than not.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianShieldSupportSystems_Dec</Label>
+    <String>Advances in the focusing capabilities of our shield generators has given us the ability to generate and augment the shields of friendly ships. This should provide massive tactical and strategic options for fleet operations.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianShieldAugmentation_Dec</Label>
+    <String>The same technology we've used to generate shields at a distance can now be done with our Barrier Field systems, allowing for even greater improvements in fleet survivability.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEnergyFieldManipulation_Dec</Label>
+    <String>Our mastery of the energy fields needed to create and maintain shields has resulted in a couple interesting new technologies, capable of interfering with enemy shield systems, or massively shielding friendly units within range.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPointDefenses_Dec</Label>
+    <String>Arrays of tiny computer controlled railguns that track and destroy incoming missiles are unparalleled at protecting ships and starbases from missile attacks, though they still aren't terribly helpful at defending against other classes of weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPointDefenseOptimization1_Dec</Label>
+    <String>A careful analysis of various missile performance envelopes has led us to adjust the firing patterns of our point defense systems, making them a bit more effective.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPointDefenseOptimization2_Dec</Label>
+    <String>The sensor equipment our point defense systems use is fairly specialized equipment that was initially quite rare and costly. Now that we're building a lot of point defenses, the price of those systems is starting to come down.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPointDefenseOptimization3_Dec</Label>
+    <String>The slugs fired by point defenses don't need to be large, and were limited by the fact that we couldn't build railguns any smaller. But now that we can build more compact units, we should see significant weight savings for all our point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCounterMeasures_Dec</Label>
+    <String>By deploying electronic counter measures which interfere with and confuse incoming missile attacks, we've greatly increased the survivability of our ships and starbases. Against missiles at least. Still hard to confuse a laser.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCounterMeasureFocus1_Dec</Label>
+    <String>There's always a generational game of leap frog being played between missile designers and ECM designers, but we believe our latest algorithms have given us the leg up on the bad guys this time.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCounterMeasureFocus2_Dec</Label>
+    <String>Our earliest attempts at ECM suites were heavily customizable, requiring a great deal of hand tuning to make them perform at their best. Now that we know what works, we can automate much more of the manufacturing and installation process.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCounterMeasureFocus3_Dec</Label>
+    <String>Our first ECM suites were cobbled together from a half dozen different processors and transmitters. We've since streamlined those into a single unit which weighs much less.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDroneSentrySystems_Dec</Label>
+    <String>By installing our point defense systems on drone platforms that orbit our ships at a distance, we can add a valuable extra layer of protection against missile attacks.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDroneSystemMastery1_Dec</Label>
+    <String>To be fair, only a few of our drone systems have ever actually shot each other in combat situations. But by minimizing that just a little bit more, we should be able to make our point defenses a little more cost-effective, if a bit less funny.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDroneSystemMastery2_Dec</Label>
+    <String>Once we realized point defense drones don't need much personal space, we were able to start packing them in a lot tighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArreonMissileDefenseTech_Dec</Label>
+    <String>The ultimate in point defense technology, featuring the latest generation of micro-drones armed with railguns, ECM and smart chafe. Aereon systems fill the space around a ship with a cloud of debris so thick no enemy missiles are likely to survive.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPointDefenseSupportSystem_Dec</Label>
+    <String>Our experience working with small scale point defenses has led to a type of long range missile tracking system which should enhance the point defense capabilities of an entire fleet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPointDefenseAugmentation_Dec</Label>
+    <String>Wide area missile disruptors enhance the effectiveness of our existing counter measures, adding a much needed layer of extra missile security to our fleets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPointDefenseManipulation_Dec</Label>
+    <String>Fleet-wide drone systems will provide massive missile security to an entire fleet. Additionally we can now equip point defense disruptors, essentially a type of counter-counter-measure, which should boost the effectiveness of our own missile attacks.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorSystems_Name</Label>
+    <String>Carapace Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorSystems_Dec</Label>
+    <String>A big lump of ultra-dense material remains an effective, if unsubtle, method of protection from modern space-based weaponry. Subtlety is overrated though.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorOptimization1_Name</Label>
+    <String>Reinforced Carapace</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorOptimization1_Dec</Label>
+    <String>A simple mistake by one of our fabricators resulted in a set of armor panels marginally denser and more resilient than we'd seen before. It took us a long time to replicate that mistake, but now that we have, our ships should be a little tougher to kill.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorOptimization2_Name</Label>
+    <String>Low-Cost Carapace</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorOptimization2_Dec</Label>
+    <String>One of the biggest challenges with armor manufacturing was simply the logistics of moving rare and heavy resources and materials around. Now that we've got our supply chain sorted out, we can expect to see some nice cost savings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorOptimization3_Name</Label>
+    <String>Carapace Miniaturization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorOptimization3_Dec</Label>
+    <String>By its very nature, armor is always going to be a fairly mass-intensive means of protection. That said, we can do a few things to improve the precision and fit of armor plating, which should cut down on weight a bit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDurantiumCompositeTech_Dec</Label>
+    <String>Certain materials, when stacked in specific arrangements have a synergistic effect on the strength of their neighbors under compressive forces. We call these new composites Durantium, and they should tremendously increase the survivability of our ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorFocus1_Name</Label>
+    <String>Carapace Lamination</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorFocus1_Dec</Label>
+    <String>A careful study of battle-damaged ships has revealed previously unknown weaknesses in our armor systems. Basically, we know why some of them were cracking in half now. We'll do something about that right away.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorFocus2_Name</Label>
+    <String>Carapace Manufacturing Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorFocus2_Dec</Label>
+    <String>If our crews ask, it's not that our armor is cheap. It's that we've found a more efficient way of manufacturing it. But yes, it is pretty cheap.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorFocus3_Name</Label>
+    <String>Carapace Mass Reduction</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorFocus3_Dec</Label>
+    <String>Some experiments with the arrangement of our Durantium composites has revealed that we can get away with slightly less dense materials at certain layers with no impact to the armor's effectiveness.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKanviumLaminateTech_Dec</Label>
+    <String>Kanvium armor uses a new type of lamination which causes surrounding materials to partially fluidize on impact, deforming in a recoverable way. Impacts are spread out over a much larger area, then flow back into its original shape.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorMastery1_Dec</Label>
+    <String>With modern armoring systems, the design of the armor informs the shape of the ship as much as the other way around. Properly armoring a ship involves a complicated series of trade offs, which when we get right, mean ships protected for much cheaper.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorMastery2_Name</Label>
+    <String>High Density Crapace</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorMastery2_Dec</Label>
+    <String>On a weight basis, our armor systems are now as efficient as they can possibly be, 99.3% of all total installed mass dedicated to offensive energy absorption or dispersion. That's really, really good the scholars promise.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianZeroPointArmorTech_Name</Label>
+    <String>Zero Point Carapace</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianZeroPointArmorTech_Dec</Label>
+    <String>We have a hard time proving zero point armor even exists, only knowing of it by the effect it has. It appears to tap into the zero-point energy of the quantum vacuum to repulse incoming energy. It's almost impossibly tough, we can prove that much.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorSupportSystems_Name</Label>
+    <String>Carapace Support Systems</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorSupportSystems_Dec</Label>
+    <String>In the factory, we've begun producing armor plating with a variety of force field based technologies. By adapting these fields into ship modules, we can create a hardening effect at a distance, making every ship in a fleet substantially more durable.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorEnhancement_Name</Label>
+    <String>Carapace Enhancement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorEnhancement_Dec</Label>
+    <String>The fields that we use to generate hardening effects have twenty seven different "poles" which can be cycled through, changing the alignment of the hardening effects in the affected material, generating substantially stronger, more resilient materials.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIntegrityFieldProjection_Dec</Label>
+    <String>Our latest generation of armoring fields no longer just generate hardening effects at a distance, but can induce material fluidization and shape recovery. These new Integrity Fields can make our fleets invulnerable to all but the most powerful attacks.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCommunicationsTech_Dec</Label>
+    <String>We already know we're not alone in this galaxy. In fact we've already been enslaved by other people in this galaxy. Let's develop the technologies to turn potential enemies into friends before that happens again.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTranslatorTech_Dec</Label>
+    <String>Our experience with the despicable Drengin tongue, and analysis of other alien speech has allowed us to create a Universal Translator that will let us communicate with any new races we come across.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDiplomaticSpecialization1_Dec</Label>
+    <String>We've begun simulating different rhetorical and diplomatic approaches when dealing with aliens, revealing several ways we might improve their attitudes towards us. Our role-playing has enabled us to talk prettier, essentially.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDiplomaticSpecialization2_Dec</Label>
+    <String>Our culture has a way of communicating what our diplomats cannot. By increasing the ease with which other civilizations can access our culture we can win hearts and minds before we even get to the negotiating table.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDiplomaticSpecialization3_Dec</Label>
+    <String>The way we see the universe doesn't have to be unique to us. By clearly communicating our thinking to outside parties, they may begin seeing the same way as us, boosting whatever effects we hoped our ideology might cause.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInterstellarGovernance_Dec</Label>
+    <String>Governing a civilization on this scale parallels our experience exploring our own oceans hundreds of years ago. A history we'd better refamiliarize ourselves with quickly.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPoliticalSpecialization1_Dec</Label>
+    <String>Federalist parties advocate a relatively weak central government that offloads much of its responsibility to lower, more local governmental groups. This bias towards local regulation seems to encourage economic development.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPoliticalSpecialization2_Dec</Label>
+    <String>Populist forms of government are designed to make people happy, even at the cost of economic strength. As a side-effect of this relentless interest in pleasing others, Populist governments are often very good at diplomacy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPoliticalSpecialization3_Dec</Label>
+    <String>Universalist governments attempt to be all things to all people. That can be a lot of people, none of whom ever seem to agree on anything, but a balanced approach like this at least ensures a government has no weak spots.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianGalacticGovernance_Dec</Label>
+    <String>By granting limited powers of self rule to various elements of society, reserving the most critical functions for our own central government, we expect to see increased public satisfaction and all the benefits which come with it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPoliticalFocus1_Dec</Label>
+    <String>Industrialist governments seek to maximize industrial capacity by rewarding citizens based entirely on their productivity. From top to bottom, society is organized to encourage hard work and not having fun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPoliticalFocus2_Dec</Label>
+    <String>Mercantilists seek to ensure their civilization's prosperity through trade, via careful negotiations, brutally unfair tariff, and outright espionage.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPoliticalFocus3_Dec</Label>
+    <String>Any time two civilizations have met the less technologically advanced one has come out worse from the encounter. Technologists dedicate all governmental resources to ensure that they never become that dumber civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInterstellarDemocracyTech_Dec</Label>
+    <String>A system which lets people pick their own rulers, or at least think they're picking their own rulers, has obvious merits in terms of approval and productivity, although adapting it to a civilization this big has proven challenging.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPoliticalMastery1_Dec</Label>
+    <String>Whether it's because they consider all other civilizations to be inferior, or simply terrifying, members of the War Party are willing to put their entire civilization on a military footing to do something about it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPoliticalMastery2_Dec</Label>
+    <String>Pacifist governments forego the language of aggression and militarization and focus all their efforts on promoting culture and social welfare. This makes them well liked in the galactic community, and their words travel far.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianStarFederationTech_Dec</Label>
+    <String>The ultimate in space based governance, an ideal blend of all the freedoms, responsibilities, and delicious seasonings which make up an ideal civic life.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDiplomacyTech_Dec</Label>
+    <String>The profit potential an alliance with our neighbors offers is something we should always consider. And failing that, the cost of talking with them will be a fraction of the cost of going to war with them and a fraction of the cost of avoiding slavery.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDiplomaticOptimization1_Dec</Label>
+    <String>Economic treaties will lower tariffs and other obstacles that discourage business activities. When well designed, these treaties should result in increased wealth for both parties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDiplomaticOptimization2_Dec</Label>
+    <String>By increasing the interchange of cultural products and making it easier for civilians to cross borders, we can hope to increase the influence we have on our neighbors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDiplomaticOptimization3_Dec</Label>
+    <String>By entering into formal information sharing agreements with other civilizations, our scholars can more easily accumulate the masses of data which modern research often requires.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInterstellarAlliances_Dec</Label>
+    <String>Turning a friendly species into a formal ally is a supremely delicate process. There's only one way these talks can go right, and a thousand ways they can go wrong. The etiquette of alien handshakes alone is fraught with peril.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAllianceFocus1_Dec</Label>
+    <String>Formal military alliances will make a war with our people that much more imposing to our foes. The trade-off is that we risk being drawn into wars not of our choosing. Friends are cheap to have, but allies can be very expensive indeed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAllianceFocus2_Dec</Label>
+    <String>A technological alliance will dramatically ramp up the research sharing programs we have with our ally. This is valuable information, so we must be sure of their friendship before entering such an agreement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAllianceFocus3_Dec</Label>
+    <String>A formal cultural alliance will lower almost all barriers to the movement of people and ideas across borders with our neighbor. Not only will this bring us closer, we can hope to have a bigger influence on our neighbor's culture.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEminenceTech_Dec</Label>
+    <String>A civilization which takes diplomacy seriously and has a long record of fair-minded dealing will always carry a greater voice at the bargaining table. Our people are building that reputation now, and are stronger for it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMajestyTech_Dec</Label>
+    <String>The galaxy wants to believe every word we say. So sterling is our reputation, that our diplomats often find whole worlds begging to join our culture. The pen hasn't just beaten the sword; it's humiliated it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianUnitedPlanetsLobbyist_Dec</Label>
+    <String>There's a shocking amount of backroom dealing which goes on behind the surface of the United Planets. But that's how the sausage is made, and we'll do well if we're better at it than our enemies. And our allies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianUnitedPlanetsClout_Dec</Label>
+    <String>Our allies have long been convinced of the benefits of our friendship. Now they see the benefit of our wisdom and leadership. We can no longer rely on their unwavering support on all United Planets matters.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCulturalInfluence_Name</Label>
+    <String>Moistening Influence</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCulturalInfluence_Dec</Label>
+    <String>A strong cultural presence on our worlds and our neighbors' has tremendous long term potential. It lacks some of the visceral appeal of a new type of mass driver, but may in the long run be far more effective at securing the Torian Regime's future.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCulturalOptimization1_Dec</Label>
+    <String>Now that our culture has made inroads on the planets of our neighbors, we can help cement this influence by encouraging our biggest stars to regularly visit and vacation there, serving as ambassadors for our way of life.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCulturalOptimization2_Dec</Label>
+    <String>Although artists and designers aren't naturally inclined towards thinking about money, after we locked a few of them in a room with an accountant for a bit, they managed to find a number of ways they could do their work more efficiently.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCulturalOptimization3_Dec</Label>
+    <String>Our cultural facilities cost real money to maintain. By encouraging our artists and directors to reuse materials, props, and punch lines whenever possible, we can reduce the ongoing costs of running these enterprises.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCulturalOutreach_Dec</Label>
+    <String>By building facilities that focus on spreading our cultural accomplishments amongst our civilians and neighbors, we expect to see even more influence in this region of space, or at the very least, more awards from the artistic community.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCulturalFocus1_Dec</Label>
+    <String>By adapting our cultural products to cast scientists and scholars in a more favorable light, we might find appreciative audiences among research communities.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCulturalFocus2_Dec</Label>
+    <String>A culture which focuses on its leaders is a fine thing to have when those leaders are doing a good job. When the leaders aren't doing a good job, it's filled with harsh satire and unflattering impressions, so watch out for that.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCulturalFocus3_Dec</Label>
+    <String>If people have money, let's not make them ashamed of it. By encouraging displays of conspicuous consumption and a culture which celebrates wealth, we can gain a great deal of influence with people living the good life.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianStellarEmigration_Dec</Label>
+    <String>Torians are admired throughout the galaxy, reflecting the success of our civilization. If we can make the process of emigration easier, we can spread our influence wider still.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCulturalAssimilation_Dec</Label>
+    <String>Foreign cultures have such backwards ideas that we'll find great value in quickly assimilating and removing the cultural trappings of new arrivals. By doing so can increase the penetration and acceptance of our culture more still.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCulturalDomination_Dec</Label>
+    <String>There is no other culture in the galaxy but ours, and anyone who claims otherwise is a heretic. Or just dumb. All sane beings will soon bow down before our celebrities and thinkers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCulturalAffinity_Dec</Label>
+    <String>Other universes deserve the benefit of Torians wisdom and culture. Indeed, it's a bit offensive that they don't see it already. Our thinkers are now beginning to prepare plans for shining our light on the next world, and beyond.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTorianXenoCommerce_Dec</Label>
+    <String>An economy which spans the stars is a pretty complicated beast. We don't need to understand it all of course, just supply the facilities and light regulations for the free market to get to work doing what it does best.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCommerceSpecialization1_Dec</Label>
+    <String>With targeted tax rates, we can encourage a number of different areas of our economy. A tax policy which favors business and investment should ultimately lead to a wealthier economy for example. Unless the businesses and investors were lying to us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCommerceSpecialization2_Dec</Label>
+    <String>By targeting economic policy to support workers and the civilian population in general, we can ensure we have a much broader base of approval to build our civilization on.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCommerceSpecialization3_Dec</Label>
+    <String>Encouraging and supporting trade is a great way to both bring in extra income and forge closer ties with our neighbors. Everyone's happy when they're making money.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianXenoEconomics_Dec</Label>
+    <String>The sheer distance between buyers and sellers in this economy has resulted in us having to rewrite a number of different theories of economics. At minimum, some new banking and economic structures will be required to deal with all the complications.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInterstellarBanking_Dec</Label>
+    <String>Capital can now be transferred instantaneously. This has allowed a variety of creative arbitrage opportunities, which will require new regulations and banking theory to contain.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEconomicFocus1_Dec</Label>
+    <String>An economy which prioritizes external trading will be well suited to exploit the wealth of the greater galactic community, or just exploit the greater galactic community in general.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEconomicFocus2_Dec</Label>
+    <String>There is a certain art in the framing of a treaty, and even in an agreement between equals, one party can be more equal than the other. Let's be that more equal party.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEconomicFocus3_Dec</Label>
+    <String>By reducing the obstacles that foreign tourists might face when trying to visit us, we can encourage more of them to travel here and more of their money to stay here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianFinancialSectorsTech_Dec</Label>
+    <String>Dedicated financial sectors should help facilitate the flow of capital across our civilization, which will result in more things being built in the places they need to. Wealth creation, in other words, which we can tap for a variety of purposes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianGalacticStockMarket_Dec</Label>
+    <String>Stock exchanges have proven remarkably elusive to establish in this galaxy, and only the most recent advances in communications technology and regulatory capability have made them possible.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInterstellarTrade_Dec</Label>
+    <String>Exchanging goods with our neighbors will theoretically enrich us both, and is worth pursuing for that reason alone. Also, if we play it smart, it can enrich us a lot more than the other guy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTradeOptimization1_Dec</Label>
+    <String>By optimizing both the outgoing and receiving ends of our trade routes we have been able to achieve a modest overall profit for everyone involved.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTradeOptimization2_Dec</Label>
+    <String>We believe the best way to increase trade income is the establish more trade routes. With a bit of effort we have been able to stretch our resources enough to establish one more.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianGalacticTrade_Dec</Label>
+    <String>By establishing fixed trading hubs and encouraging the markets which develop around them, the wealth of the entire galactic community will flow through our hands. Our ever so slightly sticky hands.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTradeFocus1_Dec</Label>
+    <String>By establishing a tariff stations on our starbases we have been able to increase our cut of trade route profits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTradeFocus2_Dec</Label>
+    <String>More trade routes, more trade income, with no need for Tariffs or 'Luxury items.' Sometimes it's best to stick to the basics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianGalacticFacilitation_Dec</Label>
+    <String>The sheer volume of goods that pass through a trading port is staggering, and we'll need new facilities to manage the flow of goods smoothly. And safely. We've had a few too many large masses make dock workers very, very flat.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTradeMasters_Dec</Label>
+    <String>Our civilization is synonymous with wealth and trading, and all intelligent beings know our markets are the only viable place to show their goods. And of course certain advantages accrue to the owners of such a monopoly.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHealingWatersTech_Name</Label>
+    <String>Healing Waters</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHealingWatersTech_ShortDec</Label>
+    <String>Allows for the constuction of the Healing Waters Improvement</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHealingWatersTech_Dec</Label>
+    <String>Despite our ability to live on air breathing worlds, we still forever yearn for the healing waters of our ancestors. We now have the ability to bring these waters to new worlds, for our people to bathe in and be refreshed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInterstellarTourism_Dec</Label>
+    <String>Not only can we distract our own citizens with amusements, we can begin luring friendly visitors from our galactic neighbors. This will not only help improve relations, it should result in extra income for us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWellnessFallsTech_Name</Label>
+    <String>Wellness Falls</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWellnessFallsTech_ShortDec</Label>
+    <String>Allows for the construction of the Wellness Falls Improvement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWellnessFallsTech_Dec</Label>
+    <String>The presence of the Wellness Falls will not only refresh and revitalize the morale of our people, it will increase their productivity when they return to their everyday lives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianApprovalFocus1_Dec</Label>
+    <String>We have discovered that with little more than the sound of running water, we can make people feel more confident and happy without all the costly infrastructure that normally requires.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianApprovalFocus2_Dec</Label>
+    <String>We have discovered that our efforts in keeping our people distracted have paid off. We can now build anything they want and they'll think it's fun and terrific.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianApprovalFocus3_Dec</Label>
+    <String>Not only are our people easier to please, they will now do most of the work it takes to distract themselves, for free.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCleansingTideTech_Name</Label>
+    <String>Cleansing Tide</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCleansingTideTech_ShortDec</Label>
+    <String>Allows the construction of a Cleansing Tide Improvement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCleansingTideTech_Dec</Label>
+    <String>We have learned how to reproduce the waters of our home world on any planet. With this technology our citizens, no matter how far from their home world, will be able to replenish themselves in the Cleansing Tides of Toria.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianGalacticCruseLines_Dec</Label>
+    <String>Space is, for people not involved with day to day civilization building, incredibly boring. And it's still a bit deadly. But if we were to spruce it up a bit, there might be some profit in sending tourists there.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWondersoftheGalaxy_Dec</Label>
+    <String>The galactic community is beginning to realize just how awesome Torians are, and if they aren't, we'll soon be airing targeted advertisements which tell them to. The increased tourism revenue is anticipated to be a nice bonus.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPilgrimageTech_Dec</Label>
+    <String>There's not a single being in this galaxy that doesn't want to make a visit to Torian space. For many of them, it's a religious requirement. Our home has become the most important destination that intelligent life has ever known.</String>
+  </StringTable>
+ 
+<!-- Specialization Names and Descriptions -->
+  <StringTable>
+    <Label>Mercenaries_TorianIndustrialSpecialization_Name</Label>
+    <String>Industrial Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIndustrialSpecialization_ShortDec</Label>
+    <String>Improves colonial buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIndustrialSpecialization_Dec</Label>
+    <String>It only took a few horrific accidents for us to finally come to grips with the challenges of off-world industry, and now that we have, we've identified a number of ways we can begin improving and specializing our industrial capacity.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianConstructionOptimization_Name</Label>
+    <String>Construction Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianConstructionOptimization_ShortDec</Label>
+    <String>Improves manufacturing buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianConstructionOptimization_Dec</Label>
+    <String>Seemingly small improvements can have a big effect when applied to large projects, and we're working on some very large projects now indeed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianManufacturingFocus_Name</Label>
+    <String>Manufacturing Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianManufacturingFocus_ShortDec</Label>
+    <String>Improves manufacturing buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianManufacturingFocus_Dec</Label>
+    <String>There's no getting around it: "Incremental improvements in manufacturing techniques" isn't much of a headline. Which is a shame, considering the benefit we expect to see from them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIndustrialMastery_Name</Label>
+    <String>Industrial Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIndustrialMastery_ShortDec</Label>
+    <String>Improves manufacturing buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIndustrialMastery_Dec</Label>
+    <String>If it can be dreamed up, we can build it. Indeed, many of our economists now believe that the limiting factor of our industrial capacity is our own imaginations.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianResearchOptimization_Name</Label>
+    <String>Educational Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianResearchOptimization_ShortDec</Label>
+    <String>Improves research buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianResearchOptimization_Dec</Label>
+    <String>Our academic administrators are requesting we direct them as to where they should focus their energies when improving our education system.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTechnologicalFocus_Name</Label>
+    <String>Educational Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTechnologicalFocus_ShortDec</Label>
+    <String>Improves research buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTechnologicalFocus_Dec</Label>
+    <String>Although wise, Torian scholars sometimes have a habit of going adrift with their studies. We should refocus their efforts in a specific direction.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPlanetarySpecialization_Name</Label>
+    <String>Planetary Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPlanetarySpecialization_ShortDec</Label>
+    <String>Improves farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPlanetarySpecialization_Dec</Label>
+    <String>Our hydroponic operations have made great strides since we reached the stars. We can now begin considering specific areas we'd like to improve upon.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAgriculturalOptimization_Name</Label>
+    <String>Agricultural Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAgriculturalOptimization_ShortDec</Label>
+    <String>Improves farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAgriculturalOptimization_Dec</Label>
+    <String>Optimizing our aquacultural processes will lead to a number of benefits which will help our civilization for a very long time. Until Torians stop needing food, really.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianFarmingFocus_Name</Label>
+    <String>Farming Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianFarmingFocus_ShortDec</Label>
+    <String>Improves farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianFarmingFocus_Dec</Label>
+    <String>New aquicultural processes often angers Torian traditionalists. But so did setting foot on land, and into space, and look what that has done for us. We will move forward, and mark our hydroponic farms even more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAgriculturalMastery_Name</Label>
+    <String>Agricultural Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAgriculturalMastery_ShortDec</Label>
+    <String>Improves farms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAgriculturalMastery_Dec</Label>
+    <String>Our hydroponic facilities now provide an almost unlimited bounty, the Super Kelp doing almost all of the harvesting itself. But still our aquiculturalists insist that more can be done.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianColonizationFocus_Name</Label>
+    <String>Colonization Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianColonizationFocus_Dec</Label>
+    <String>Mastering living on an extreme world will make life there a lot more tolerable for the poor fools who volunteered for it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBiospherePerfection_Name</Label>
+    <String>Biosphere Perfection</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBiospherePerfection_Dec</Label>
+    <String>No longer must our colonists die without cause. Even the deadliest of planets are now perfectly surviable to us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInterstellarSpecialization_Name</Label>
+    <String>Interstellar Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInterstellarSpecialization_ShortDec</Label>
+    <String>Improves ship systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInterstellarSpecialization_Dec</Label>
+    <String>Now that we have a bit of experience sending ships out into the darkness and having most of them come back, we've come up with a number of ways to improve our equipment and navigational techniques.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIonOptimization_Name</Label>
+    <String>Ion Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIonOptimization_ShortDec</Label>
+    <String>Improves drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianIonOptimization_Dec</Label>
+    <String>Now that we've seen them in wide-scale use, we've identified a number of ways we can make our new Ion Drive systems more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWarpFieldFocus_Name</Label>
+    <String>Warp Field Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWarpFieldFocus_ShortDec</Label>
+    <String>Improves drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWarpFieldFocus_Dec</Label>
+    <String>Warp field technology is incredibly complicated, and has in more than a few cases, caused a scholar's brains to melt a little bit. But now that we have some experience working with them, we've identified a number of ways to improve their design.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHyperwarpMastery_Name</Label>
+    <String>Hyperwarp Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHyperwarpMastery_ShortDec</Label>
+    <String>Improves drives.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHyperwarpMastery_Dec</Label>
+    <String>Our ships are already the fastest in the galaxy, our engineers heralded as heroes wherever they go. Fortunately for us, they don't like going out much, instead preferring to keep looking for more improvements to make to their precious engines.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSensorOptimization_Name</Label>
+    <String>Sensor Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSensorOptimization_ShortDec</Label>
+    <String>Improves sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSensorOptimization_Dec</Label>
+    <String>A concentrated effort to optimize our sensor systems could lead to a number of different improvements or efficiencies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEnergyFieldFocus_Name</Label>
+    <String>Energy Field Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEnergyFieldFocus_ShortDec</Label>
+    <String>Improves sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEnergyFieldFocus_Dec</Label>
+    <String>As is usually the case when equipment is sent to the field, the technicians who actually use our sensors soon came up with a number of different ways to improve their efficiency and effectiveness.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSensorMastery_Name</Label>
+    <String>Sensor Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSensorMastery_ShortDec</Label>
+    <String>Improves sensors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSensorMastery_Dec</Label>
+    <String>We don't anticipate any further increases in the viewing range of our sensors, not until we leave this universe for another one. But we can certainly make them a little more efficient.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPrecursorRelicFocus_Name</Label>
+    <String>Precursor Relic Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPrecursorRelicFocus_ShortDec</Label>
+    <String>Improves Precursor relic benefits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPrecursorRelicFocus_Dec</Label>
+    <String>Having captured a few Precursor relics and observed the impact they have on our research and culture, we can now try adjusting our Precursor studies to benefit specific areas of our civilization.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLifeSupportOptimization_Name</Label>
+    <String>Aquatic Support Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLifeSupportOptimization_ShortDec</Label>
+    <String>Improves life support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLifeSupportOptimization_Dec</Label>
+    <String>Everyone in the navy is very excited that we're trying to optimize our life support systems. Apparently their water is developing a bit of an odor to it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSupportFieldFocus_Name</Label>
+    <String>Aquatic Support System Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSupportFieldFocus_ShortDec</Label>
+    <String>Improves life support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianSupportFieldFocus_Dec</Label>
+    <String>Experiments with field-based life support systems offer huge potential advantages, though whether our crews enjoy the water-simulating effects of these systems remains to be seen. Still, they're not the ones paying the bills.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLifeSupportMastery_Name</Label>
+    <String>Aquatic Support Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLifeSupportMastery_ShortDec</Label>
+    <String>Improves life support systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLifeSupportMastery_Dec</Label>
+    <String>Torian Life Support systems are peerless throughout the galaxy, keeping our crews moist and happy at a fraction of the cost. We have but a few additional efficiencies to wring out of these systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianOrbitalSpecialization_Name</Label>
+    <String>Orbital Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianOrbitalSpecialization_ShortDec</Label>
+    <String>Improves logistics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianOrbitalSpecialization_Dec</Label>
+    <String>Now that we've watched a few construction projects accidentally collapse on themselves, we've identified a number of possible improvements we can make to our orbital construction techniques.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianZeroGravityOptimization_Name</Label>
+    <String>Zero Gravity Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianZeroGravityOptimization_ShortDec</Label>
+    <String>Improves hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianZeroGravityOptimization_Dec</Label>
+    <String>We took a big step forward with our most recent adoption of true zero-gravity construction practices. Now, after a few trial runs and one teensy little accident, our engineers have identified further areas for improvement.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianOrbitalConstructionFocus_Name</Label>
+    <String>Orbital Construction Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianOrbitalConstructionFocus_ShortDec</Label>
+    <String>Improves hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianOrbitalConstructionFocus_Dec</Label>
+    <String>We're getting better and better at large scale construction with every passing day, and a number of more efficient design practices are beginning to show up on our engineers' drawing tables. Along with the offensive doodles which have always been there.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHullMastery_Name</Label>
+    <String>Hull Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHullMastery_ShortDec</Label>
+    <String>Improves hulls.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHullMastery_Dec</Label>
+    <String>We're still finding ways to improve our shipyards, even though they're already the envy of the civilized galaxy. In the uncivilized galaxy they're a bit less envied, but we've never gotten along with those guys anyways.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCarrierFocus_Name</Label>
+    <String>Carrier Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCarrierFocus_ShortDec</Label>
+    <String>Improves carriers.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCarrierFocus_Dec</Label>
+    <String>There's nothing like doing something a few times to see how terrible you are at it. After a few hilarious mishaps, we've identified a few ways we can improve our carrier operations.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLogisticalOptimization_Name</Label>
+    <String>Logistical Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLogisticalOptimization_ShortDec</Label>
+    <String>Improves logistics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianLogisticalOptimization_Dec</Label>
+    <String>A new generation of space accountants are becoming trained as we speak, capable of improving logistical efficiencies most people would be too bored to ever notice.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWeaponsSpecialization_Name</Label>
+    <String>Weapons Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWeaponsSpecialization_ShortDec</Label>
+    <String>Improves weapon systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWeaponsSpecialization_Dec</Label>
+    <String>By dedicating their efforts on a specific field of weapons technology, our scholars believe they can deliver a number of more efficient weapon systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBeamWeaponOptimization_Name</Label>
+    <String>Beam Weapon Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBeamWeaponOptimization_ShortDec</Label>
+    <String>Improves beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBeamWeaponOptimization_Dec</Label>
+    <String>Weapons scholars have to keep paces with advances in many other fields to get the most out of their inventions. Right now, recent advances in material sciences are opening the door to a new generation of more efficient weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHighEnergyFocus_Name</Label>
+    <String>High Energy Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHighEnergyFocus_ShortDec</Label>
+    <String>Improves beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianHighEnergyFocus_Dec</Label>
+    <String>A careful analysis of data returned from the field has revealed a number of inefficiencies which we can begin addressing in the next generation of our beam systems. We may also finally be able to get rid of that funny smell they make.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBeamWeaponMastery_Name</Label>
+    <String>Beam Weapon Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBeamWeaponMastery_ShortDec</Label>
+    <String>Improves beam weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBeamWeaponMastery_Dec</Label>
+    <String>Our beam weapons are now absurdly powerful, a terror for anyone foolish enough to get on a Torian warship's wrong side. And yet still our weapon scientists find ways to do better.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMissileOptimization_Name</Label>
+    <String>Missile Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMissileOptimization_ShortDec</Label>
+    <String>Improves missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMissileOptimization_Dec</Label>
+    <String>After blowing up several thousand target drones and one unfortunate asteroid, our weapons engineers have come up with a number of possible improvements we can implement for our missile platforms.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWarheadFocus_Name</Label>
+    <String>Warhead Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWarheadFocus_ShortDec</Label>
+    <String>Improves missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianWarheadFocus_Dec</Label>
+    <String>We've spent comparatively little research time on the warhead components of our missile systems, but now that we've turned our attention to the matter, a number of possible efficiencies should be achievable with a little effort.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPayloadMastery_Name</Label>
+    <String>Payload Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPayloadMastery_ShortDec</Label>
+    <String>Improves missile weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPayloadMastery_Dec</Label>
+    <String>Various physical limits of this particular universe prevent us from wringing more destructive potential out of this generation of warheads. But we can certainly make them cheaper and lighter.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKineticOptimization_Name</Label>
+    <String>Kinetic Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKineticOptimization_ShortDec</Label>
+    <String>Improves kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKineticOptimization_Dec</Label>
+    <String>Some modest improvements in the energy delivery systems of our kinetic weapons could result in improvements to the cost, mass, or range of each unit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKineticAccelerationFocus_Name</Label>
+    <String>Kinetic Acceleration Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKineticAccelerationFocus_ShortDec</Label>
+    <String>Improves kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKineticAccelerationFocus_Dec</Label>
+    <String>Recent advances in superconducting technology should lead to improvements in the critical energy delivery systems of our kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKineticMastery_Name</Label>
+    <String>Kinetic Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKineticMastery_ShortDec</Label>
+    <String>Improves kinetic weapons.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianKineticMastery_Dec</Label>
+    <String>After several generations of whipping things at other things as fast as possible, our scientists are now really quite good at it. There remain but a few small efficiencies to wring out of the field.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMilitarySpecialization_Name</Label>
+    <String>Military Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMilitarySpecialization_ShortDec</Label>
+    <String>Improves military effectiveness.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianMilitarySpecialization_Dec</Label>
+    <String>Oversight is certainly the least glamorous aspect of keeping a standing army, which is sad considering the benefit it provides. Improving our military administration will result in very real tactical benefits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInvasionOptimization_Name</Label>
+    <String>Invasion Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInvasionOptimization_ShortDec</Label>
+    <String>Unlocks advanced invasion tactics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianInvasionOptimization_Dec</Label>
+    <String>Good news! We've developed some new, possibly amoral, certainly effective techniques for pacifying enemy ground forces.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianGravitationalFocus_Name</Label>
+    <String>Gravitational Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianGravitationalFocus_ShortDec</Label>
+    <String>Unlocks advanced invasion tactics.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianGravitationalFocus_Dec</Label>
+    <String>Our ability to manipulate gravitational fields presents several unique tactical possibilities for our ground forces. These are powerful weapons we're giving to guys with pretty thick skulls, so we should definitely remember to keep an eye on them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDefensiveFocus_Name</Label>
+    <String>Defensive Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDefensiveFocus_ShortDec</Label>
+    <String>Unlocks advanced invasion defenses.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDefensiveFocus_Dec</Label>
+    <String>Our military theoreticians have analyzed reports of the latest invasion tactics in use in the galaxy and come up with a number of elegant ways to counter them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDefensiveSpecialization_Name</Label>
+    <String>Defensive Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDefensiveSpecialization_ShortDec</Label>
+    <String>Improves defensive systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDefensiveSpecialization_Dec</Label>
+    <String>After studying the wreckage of a few vessels we've lost in combat, our engineers have come up with a number of possible improvements we can make to our defensive technologies.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianShieldOptimization_Name</Label>
+    <String>Shield Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianShieldOptimization_ShortDec</Label>
+    <String>Improves shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianShieldOptimization_Dec</Label>
+    <String>We've received quite a bit of useful data on real world performance of our shield systems, and have devised several possible improvements we can begin making to them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBarrierSystemFocus_Name</Label>
+    <String>Barrier System Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBarrierSystemFocus_ShortDec</Label>
+    <String>Improves shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianBarrierSystemFocus_Dec</Label>
+    <String>A careful design review of our initial implementation of the Barrier Field system has revealed a number of possible avenues for further improvements. Who says design reviews are unexciting?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianShieldMastery_Name</Label>
+    <String>Shield Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianShieldMastery_ShortDec</Label>
+    <String>Improves shield systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianShieldMastery_Dec</Label>
+    <String>Our shielding technology approaches perfection, our engineers pushing the capabilities of our shield systems right to their theoretical limits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPointDefenseOptimization_Name</Label>
+    <String>Point Defense Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPointDefenseOptimization_ShortDec</Label>
+    <String>Improves point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPointDefenseOptimization_Dec</Label>
+    <String>Optimizing our point defense systems should lead to a number of different performance gains. Like possibly less exploded ships.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCounterMeasureFocus_Name</Label>
+    <String>Counter Measure Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCounterMeasureFocus_ShortDec</Label>
+    <String>Improves point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCounterMeasureFocus_Dec</Label>
+    <String>Now that we have some field data on ECM suite performance, we've identified a number of different ways we can improve upon the design and construction of those systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDroneSystemMastery_Name</Label>
+    <String>Drone System Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDroneSystemMastery_ShortDec</Label>
+    <String>Improves point defense systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDroneSystemMastery_Dec</Label>
+    <String>Drone systems dramatically increased the sheer volume of our point defense capabilities, so any small improvement in their design should lead to significant cost or weight savings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorOptimization_Name</Label>
+    <String>Armor Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorOptimization_ShortDec</Label>
+    <String>Improves armor systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorOptimization_Dec</Label>
+    <String>We've blown up lots and lots of slabs of armor on the test range, and have come up with a few possible improvements we could make to our armor systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorFocus_Name</Label>
+    <String>Armor Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorFocus_ShortDec</Label>
+    <String>Improves armor systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorFocus_Dec</Label>
+    <String>Our armor systems have increased significantly in complexity, and our efforts to model their behavior under impact is only now catching up. This research should help lead to more effective or efficient designs.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorMastery_Name</Label>
+    <String>Armor Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorMastery_ShortDec</Label>
+    <String>Improves armor systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianArmorMastery_Dec</Label>
+    <String>Our mastery of hardening techniques is almost complete, and the galaxy trembles at the girth of our vessels. But even perfection can be improved upon it seems. Some more effort should lead to cheaper or more efficient armor systems.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDiplomaticSpecialization_Name</Label>
+    <String>Diplomatic Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDiplomaticSpecialization_ShortDec</Label>
+    <String>Improves diplomatic effects.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDiplomaticSpecialization_Dec</Label>
+    <String>The words we use have a limited ability to affect the way we think, and by studying the vocabulary used by our neighbors, we may unlock valuable insights into their mindsets. And possibly even find out how to manipulate them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPoliticalSpecialization_Name</Label>
+    <String>Political Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPoliticalSpecialization_ShortDec</Label>
+    <String>Unlocks political parties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPoliticalSpecialization_Dec</Label>
+    <String>There are several broad ways to organize the government of a space faring civilization, all of which pose distinct advantages and disadvantages. Rest assured, there's no right choice here; regardless of what we pick, everyone will tell us that we made the wrong choice.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPoliticalFocus_Name</Label>
+    <String>Political Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPoliticalFocus_ShortDec</Label>
+    <String>Unlocks political parties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPoliticalFocus_Dec</Label>
+    <String>As we continue to manage, and often mis-manage, our affairs, it's become clear that a number of political theories we'd never previously considered viable might actually be very practical when practiced on a galactic scale.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPoliticalMastery_Name</Label>
+    <String>Political Mastery</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPoliticalMastery_ShortDec</Label>
+    <String>Unlocks political parties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianPoliticalMastery_Dec</Label>
+    <String>Coordinating the direction of an entire galactic civilization is tremendously difficult. But thanks to advances in deceit and brain injection technology, we can now put this whole show entirely on a war footing, or, if we choose, the exact opposite.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDiplomaticOptimization_Name</Label>
+    <String>Diplomatic Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDiplomaticOptimization_ShortDec</Label>
+    <String>Unlocks advanced treaties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianDiplomaticOptimization_Dec</Label>
+    <String>Depending on the current state of our civilization, we profit more from some types of treaties than others, and should begin slanting our diplomatic posture in those directions right away.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAllianceFocus_Name</Label>
+    <String>Alliance Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAllianceFocus_ShortDec</Label>
+    <String>Unlocks advanced alliances.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianAllianceFocus_Dec</Label>
+    <String>Alliances come in a variety of flavors, some of which may be more advantageous to us than others. We should consider our civilization's priorities - and what our new ally is actually good for - before entering such talks.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCulturalOptimization_Name</Label>
+    <String>Cultural Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCulturalOptimization_ShortDec</Label>
+    <String>Improves cultural buildings.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCulturalOptimization_Dec</Label>
+    <String>Although the artists responsible for our cultural delivery vehicles like the extra funding we shovel in their direction, few appreciate the suggestion that they could possibly do things more efficiently. They can though. A lot.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCulturalFocus_Name</Label>
+    <String>Cultural Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCulturalFocus_ShortDec</Label>
+    <String>Increases influence on specific worlds.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCulturalFocus_Dec</Label>
+    <String>Few works of art and cultural artifacts have broad appeal, and it's often necessary to target one's audience to some extent. By fine tuning the tone and content of our cultural products, we might appeal to demographics which are particularly valuable to us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCommerceSpecialization_Name</Label>
+    <String>Commerce Specialization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCommerceSpecialization_ShortDec</Label>
+    <String>Increases economic benefits.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianCommerceSpecialization_Dec</Label>
+    <String>With a bit of experience managing and regulating markets on a massive scale, we're now able to target specific economic improvements we might like to see.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEconomicFocus_Name</Label>
+    <String>Economic Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEconomicFocus_ShortDec</Label>
+    <String>Increases income.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianEconomicFocus_Dec</Label>
+    <String>Now that we have a better understanding of the quirks of galactic scale economies, we can begin trimming back the regulations and policies that seem to be causing inefficiencies in specific industries and areas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTradeOptimization_Name</Label>
+    <String>Trade Optimization</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTradeOptimization_ShortDec</Label>
+    <String>Increases trade income.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTradeOptimization_Dec</Label>
+    <String>Trading is as much an art as a science, but by inducing our traders to use just a smidge more science, they might be able to maximize their profits when dealing with certain counterparties.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTradeFocus_Name</Label>
+    <String>Trade Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTradeFocus_ShortDec</Label>
+    <String>Unlocks advanced trade routes.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianTradeFocus_Dec</Label>
+    <String>Now that we have a reputation as fair dealers and market makers, it should be possible to target our trading activities to encourage specific economic sectors.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianApprovalFocus_Name</Label>
+    <String>Approval Focus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianApprovalFocus_ShortDec</Label>
+    <String>Increases approval on specific planets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_TorianApprovalFocus_Dec</Label>
+    <String>Our cultural engineers inform us that some well planned manipulations of our cultural materials could make our people happier with what they already have. Which seems too good of an opportunity to pass up.</String>
+  </StringTable>
+ 
+</StringTableList>

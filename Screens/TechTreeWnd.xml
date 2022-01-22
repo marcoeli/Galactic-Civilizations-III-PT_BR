@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ScreenFile
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Data/Schema/Lib/Screen.xsd">
+	<Screen>
+		<InternalName>TechTreeWnd</InternalName>
+
+		<UIControl>
+			<InternalName>TechTreeWndBG</InternalName>
+			<ControlType>Frame</ControlType>
+
+			<!--Tech Window needs to be full screen. With center offset-->
+
+			<UIControl>
+				<InternalName>TechTreeModeWindow</InternalName>
+				<ControlType>ModeWnd</ControlType>
+
+				<UIControl>
+					<InternalName>TechTreeFrame0</InternalName>
+					<ControlType>Frame</ControlType>
+					<ArtDefine>TechTreeBackground1</ArtDefine>
+					<ModeOptions>
+						<Mode>1</Mode>
+						<CustomData>EngineeringTech</CustomData>
+					</ModeOptions>
+					<FrameOptions>
+						<AssignGivenID>true</AssignGivenID>
+					</FrameOptions>
+
+					<UIControl>
+						<InternalName>TechTreeViewWnd0</InternalName>
+						<ControlType>Custom</ControlType>
+						<CustomType>TechTreeViewWnd</CustomType>
+						<!--<OffsetX>126</OffsetX>-->
+					</UIControl>
+
+					<UIControl>
+						<InternalName>TechTreeDeviderBack0</InternalName>
+            <ControlType>GelUIFrame</ControlType>
+            <OffsetY>32</OffsetY>
+            <ArtDefine>BlackBG</ArtDefine>
+            <Width>130</Width>
+            <DynamicSizeDef>
+              <RelativeHeightMinusConstant>74</RelativeHeightMinusConstant>
+            </DynamicSizeDef>
+
+            <UIControl>
+              <InternalName>TechTreeDeviderBackLine0</InternalName>
+              <ControlType>Frame</ControlType>
+              <MyAnchorPoint>MiddleRight</MyAnchorPoint>
+              <RelativeAnchorPoint>MiddleRight</RelativeAnchorPoint>
+              <ArtDefine>CrusadeFadeLineVertLong</ArtDefine>
+              <Width>1</Width>
+            </UIControl>
+            
+					</UIControl>
+
+					<UIControl>
+						<InternalName>TechTreeDeviderRightBack0</InternalName>
+            <ControlType>GelUIFrame</ControlType>
+            <MyAnchorPoint>TopRight</MyAnchorPoint>
+            <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+            <OffsetY>32</OffsetY>
+            <ArtDefine>SemiTransparentBG</ArtDefine>
+            <Width>256</Width>
+            <DynamicSizeDef>
+              <RelativeHeightMinusConstant>74</RelativeHeightMinusConstant>
+            </DynamicSizeDef>
+
+            <UIControl>
+              <InternalName>TechTreeDeviderRightBackLine0</InternalName>
+              <ControlType>Frame</ControlType>
+              <MyAnchorPoint>MiddleLeft</MyAnchorPoint>
+              <RelativeAnchorPoint>MiddleLeft</RelativeAnchorPoint>
+              <ArtDefine>CrusadeFadeLineVertLong</ArtDefine>
+              <Width>1</Width>
+            </UIControl>
+            
+					</UIControl>
+
+				</UIControl>
+
+				<UIControl>
+					<InternalName>TechTreeFrame2</InternalName>
+					<ControlType>Frame</ControlType>
+					<ArtDefine>TechTreeBackground3</ArtDefine>
+					<ModeOptions>
+						<Mode>2</Mode>
+						<CustomData>WarfareTech</CustomData>
+					</ModeOptions>
+					<FrameOptions>
+						<AssignGivenID>true</AssignGivenID>
+					</FrameOptions>
+
+					<UIControl>
+						<InternalName>TechTreeViewWnd2</InternalName>
+						<ControlType>Custom</ControlType>
+						<CustomType>TechTreeViewWnd</CustomType>
+						<!--<OffsetX>126</OffsetX>-->
+					</UIControl>
+
+					<UIControl>
+						<InternalName>TechTreeDeviderBack2</InternalName>
+						<ControlType>GelUIFrame</ControlType>
+            <OffsetY>32</OffsetY>
+						<ArtDefine>BlackBG</ArtDefine>
+						<Width>130</Width>
+            <DynamicSizeDef>
+              <RelativeHeightMinusConstant>74</RelativeHeightMinusConstant>
+            </DynamicSizeDef>
+
+            <UIControl>
+              <InternalName>TechTreeDeviderBackLine2</InternalName>
+              <ControlType>Frame</ControlType>
+              <MyAnchorPoint>MiddleRight</MyAnchorPoint>
+              <RelativeAnchorPoint>MiddleRight</RelativeAnchorPoint>
+              <ArtDefine>CrusadeFadeLineVertLong</ArtDefine>
+              <Width>1</Width>
+            </UIControl>
+            
+					</UIControl>
+
+					<UIControl>
+						<InternalName>TechTreeDeviderRightBack2</InternalName>
+						<ControlType>GelUIFrame</ControlType>
+						<MyAnchorPoint>TopRight</MyAnchorPoint>
+						<RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+            <OffsetY>32</OffsetY>
+						<ArtDefine>SemiTransparentBG</ArtDefine>
+						<Width>256</Width>
+            <DynamicSizeDef>
+              <RelativeHeightMinusConstant>74</RelativeHeightMinusConstant>
+            </DynamicSizeDef>
+
+            <UIControl>
+              <InternalName>TechTreeDeviderRightBackLine2</InternalName>
+              <ControlType>Frame</ControlType>
+              <MyAnchorPoint>MiddleLeft</MyAnchorPoint>
+              <RelativeAnchorPoint>MiddleLeft</RelativeAnchorPoint>
+              <ArtDefine>CrusadeFadeLineVertLong</ArtDefine>
+              <Width>1</Width>
+            </UIControl>
+            
+					</UIControl>
+
+				</UIControl>
+
+				<UIControl>
+					<InternalName>TechTreeFrame1</InternalName>
+					<ControlType>Frame</ControlType>
+					<ArtDefine>TechTreeBackground2</ArtDefine>
+					<ModeOptions>
+						<Mode>0</Mode>
+						<CustomData>ColonizationTech</CustomData>
+					</ModeOptions>
+					<FrameOptions>
+						<AssignGivenID>true</AssignGivenID>
+					</FrameOptions>
+
+					<UIControl>
+						<InternalName>TechTreeViewWnd1</InternalName>
+						<ControlType>Custom</ControlType>
+						<CustomType>TechTreeViewWnd</CustomType>
+						<!--<OffsetX>126</OffsetX>-->
+					</UIControl>
+
+					<UIControl>
+						<InternalName>TechTreeDeviderBack1</InternalName>
+						<ControlType>GelUIFrame</ControlType>
+            <OffsetY>32</OffsetY>
+						<ArtDefine>BlackBG</ArtDefine>
+						<Width>130</Width>
+            <DynamicSizeDef>
+              <RelativeHeightMinusConstant>74</RelativeHeightMinusConstant>
+            </DynamicSizeDef>
+
+            <UIControl>
+              <InternalName>TechTreeDeviderRight1</InternalName>
+              <ControlType>Frame</ControlType>
+              <MyAnchorPoint>MiddleRight</MyAnchorPoint>
+              <RelativeAnchorPoint>MiddleRight</RelativeAnchorPoint>
+              <ArtDefine>CrusadeFadeLineVertLong</ArtDefine>
+              <Width>1</Width>
+            </UIControl>
+            
+					</UIControl>
+
+          <UIControl>
+            <InternalName>TechTreeDeviderRightBack1</InternalName>
+            <ControlType>GelUIFrame</ControlType>
+            <MyAnchorPoint>TopRight</MyAnchorPoint>
+            <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+            <OffsetY>32</OffsetY>
+            <ArtDefine>BlackBG</ArtDefine>
+            <Width>256</Width>
+            <DynamicSizeDef>
+              <RelativeHeightMinusConstant>74</RelativeHeightMinusConstant>
+            </DynamicSizeDef>
+
+            <UIControl>
+              <InternalName>TechTreeDevider1</InternalName>
+              <ControlType>Frame</ControlType>
+              <MyAnchorPoint>MiddleLeft</MyAnchorPoint>
+              <RelativeAnchorPoint>MiddleLeft</RelativeAnchorPoint>
+              <ArtDefine>CrusadeFadeLineVertLong</ArtDefine>
+              <Width>1</Width>
+            </UIControl>
+
+          </UIControl>
+
+				</UIControl>
+
+				<UIControl>
+					<InternalName>TechTreeFrame3</InternalName>
+					<ControlType>Frame</ControlType>
+					<ArtDefine>TechTreeBackground4</ArtDefine>
+					<ModeOptions>
+						<Mode>3</Mode>
+						<CustomData>CommunicationsTech</CustomData>
+					</ModeOptions>
+					<FrameOptions>
+						<AssignGivenID>true</AssignGivenID>
+					</FrameOptions>
+
+					<UIControl>
+						<InternalName>TechTreeViewWnd3</InternalName>
+						<ControlType>Custom</ControlType>
+						<CustomType>TechTreeViewWnd</CustomType>
+						<!--<OffsetX>126</OffsetX>-->
+					</UIControl>
+
+					<UIControl>
+						<InternalName>TechTreeDeviderBack3</InternalName>
+						<ControlType>GelUIFrame</ControlType>
+            <OffsetY>32</OffsetY>
+						<ArtDefine>BlackBG</ArtDefine>
+						<Width>130</Width>
+            <DynamicSizeDef>
+              <RelativeHeightMinusConstant>74</RelativeHeightMinusConstant>
+            </DynamicSizeDef>
+
+            <UIControl>
+              <InternalName>TechTreeDeviderBackLine3</InternalName>
+              <ControlType>Frame</ControlType>
+              <MyAnchorPoint>MiddleRight</MyAnchorPoint>
+              <RelativeAnchorPoint>MiddleRight</RelativeAnchorPoint>
+              <ArtDefine>CrusadeFadeLineVertLong</ArtDefine>
+              <Width>1</Width>
+            </UIControl>
+          
+					</UIControl>
+
+					<UIControl>
+						<InternalName>TechTreeDeviderRightBack3</InternalName>
+            <ControlType>GelUIFrame</ControlType>
+            <MyAnchorPoint>TopRight</MyAnchorPoint>
+            <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+            <OffsetY>32</OffsetY>
+            <ArtDefine>BlackBG</ArtDefine>
+            <Width>256</Width>
+            <DynamicSizeDef>
+              <RelativeHeightMinusConstant>74</RelativeHeightMinusConstant>
+            </DynamicSizeDef>
+
+            <UIControl>
+              <InternalName>TechTreeDeviderRightBackLine3</InternalName>
+              <ControlType>Frame</ControlType>
+              <MyAnchorPoint>MiddleLeft</MyAnchorPoint>
+              <RelativeAnchorPoint>MiddleLeft</RelativeAnchorPoint>
+              <ArtDefine>CrusadeFadeLineVertLong</ArtDefine>
+              <Width>1</Width>
+            </UIControl>
+          
+					</UIControl>
+
+				</UIControl>
+
+				<UIControl>
+					<InternalName>TechTreesButtonsFrame</InternalName>
+					<ControlType>OptionButtonGroup</ControlType>
+					<OffsetY>42</OffsetY>
+					<Width>128</Width>
+
+					<UIControl>
+						<InternalName>TechTree0Button</InternalName>
+						<ControlType>Button</ControlType>
+						<OffsetY>126</OffsetY>
+						<ArtDefine>ResearchEngineeringButton</ArtDefine>
+						<Width>128</Width>
+						<Height>128</Height>
+						<ButtonOptions>
+							<Value>1</Value>
+						</ButtonOptions>
+
+						<UIControl>
+							<InternalName>TechTree0Icon</InternalName>
+							<ControlType>Frame</ControlType>
+							<ArtDefine>ReseachTabIcon</ArtDefine>
+						</UIControl>
+
+						<UIControl>
+							<InternalName>TechTreeButtonTitle0</InternalName>
+							<ControlType>StaticText</ControlType>
+							<OffsetY>114</OffsetY>
+							<ArtDefine>NormalHeaderLabel</ArtDefine>
+							<Width>128</Width>
+							<Height>36</Height>
+							<FontData>
+								<AlignmentHorizontal>Center</AlignmentHorizontal>
+                <AlignmentVertical>Top</AlignmentVertical>
+							</FontData>
+						</UIControl>
+
+					</UIControl>
+
+					<UIControl>
+						<InternalName>TechTree1Button</InternalName>
+						<ControlType>Button</ControlType>
+						<ArtDefine>ResearchEconomicsButton</ArtDefine>
+						<Width>128</Width>
+						<Height>128</Height>
+						<ButtonOptions>
+							<Value>0</Value>
+						</ButtonOptions>
+
+						<UIControl>
+							<InternalName>TechTree1Icon</InternalName>
+							<ControlType>Frame</ControlType>
+							<ArtDefine>CivilTabIcon</ArtDefine>
+							<Width>128</Width>
+							<Height>128</Height>
+						</UIControl>
+
+						<UIControl>
+							<InternalName>TechTreeButtonTitle1</InternalName>
+							<ControlType>StaticText</ControlType>
+							<OffsetY>114</OffsetY>
+							<ArtDefine>NormalHeaderLabel</ArtDefine>
+              <Width>128</Width>
+              <Height>36</Height>
+              <FontData>
+                <AlignmentHorizontal>Center</AlignmentHorizontal>
+                <AlignmentVertical>Top</AlignmentVertical>
+              </FontData>
+						</UIControl>
+
+					</UIControl>
+
+					<UIControl>
+						<InternalName>TechTree2Button</InternalName>
+						<ControlType>Button</ControlType>
+						<OffsetY>252</OffsetY>
+						<ArtDefine>ResearchWeaponsButton</ArtDefine>
+						<Width>128</Width>
+						<Height>128</Height>
+						<ButtonOptions>
+							<Value>2</Value>
+						</ButtonOptions>
+
+						<UIControl>
+							<InternalName>TechTree2Icon</InternalName>
+							<ControlType>Frame</ControlType>
+							<ArtDefine>WeaponsTabIcon</ArtDefine>
+							<Width>128</Width>
+							<Height>128</Height>
+						</UIControl>
+
+						<UIControl>
+							<InternalName>TechTreeButtonTitle2</InternalName>
+							<ControlType>StaticText</ControlType>
+							<OffsetY>114</OffsetY>
+							<ArtDefine>NormalHeaderLabel</ArtDefine>
+              <Width>128</Width>
+              <Height>36</Height>
+              <FontData>
+                <AlignmentHorizontal>Center</AlignmentHorizontal>
+                <AlignmentVertical>Top</AlignmentVertical>
+              </FontData>
+						</UIControl>
+
+					</UIControl>
+
+					<UIControl>
+						<InternalName>TechTree3Button</InternalName>
+						<ControlType>Button</ControlType>
+						<OffsetY>378</OffsetY>
+						<ArtDefine>ResearchDefensesButton</ArtDefine>
+						<Width>128</Width>
+						<Height>128</Height>
+						<ButtonOptions>
+							<Value>3</Value>
+						</ButtonOptions>
+
+						<UIControl>
+							<InternalName>>TechTree3Icon</InternalName>
+							<ControlType>Frame</ControlType>
+							<ArtDefine>DefencesTabIcon</ArtDefine>
+							<Width>128</Width>
+							<Height>128</Height>
+						</UIControl>
+
+						<UIControl>
+							<InternalName>TechTreeButtonTitle3</InternalName>
+							<ControlType>StaticText</ControlType>
+							<OffsetY>114</OffsetY>
+							<ArtDefine>NormalHeaderLabel</ArtDefine>
+              <Width>128</Width>
+              <Height>36</Height>
+              <FontData>
+                <AlignmentHorizontal>Center</AlignmentHorizontal>
+                <AlignmentVertical>Top</AlignmentVertical>
+              </FontData>
+						</UIControl>
+
+					</UIControl>
+
+					<UIControl>
+						<InternalName>TechTreeResearchPointsLine</InternalName>
+						<ControlType>Frame</ControlType>
+						<MyAnchorPoint>BottomCenter</MyAnchorPoint>
+						<RelativeAnchorPoint>BottomCenter</RelativeAnchorPoint>
+						<OffsetX>-5</OffsetX>
+						<OffsetY>-75</OffsetY>
+						<ArtDefine>HorizontalFadeLine</ArtDefine>
+						<Width>128</Width>
+						<Height>1</Height>
+					</UIControl>
+
+					<UIControl>
+						<InternalName>ResearchSpendingFrame</InternalName>
+						<ControlType>Frame</ControlType>
+						<MyAnchorPoint>BottomCenter</MyAnchorPoint>
+						<RelativeAnchorPoint>BottomCenter</RelativeAnchorPoint>
+						<OffsetX>-5</OffsetX>
+						<OffsetY>-48</OffsetY>
+						<!--<ArtDefine>MockupFrame</ArtDefine>-->
+						<Width>102</Width>
+						<Height>26</Height>
+						<ForceOpaqueToMouse>1</ForceOpaqueToMouse>
+						<Tooltip>POINTS_PER_TURN_LABEL</Tooltip>
+
+						<UIControl>
+							<InternalName>TechTreeWndResearchSpendingIcon</InternalName>
+							<ControlType>Frame</ControlType>
+							<MyAnchorPoint>MiddleLeft</MyAnchorPoint>
+							<RelativeAnchorPoint>MiddleLeft</RelativeAnchorPoint>
+							<ArtDefine>SmallResearchIcon</ArtDefine>
+							<Width>16</Width>
+							<Height>16</Height>
+						</UIControl>
+
+						<UIControl>
+							<InternalName>TechTreeWndResearchSpendingTitle</InternalName>
+							<ControlType>StaticText</ControlType>
+							<MyAnchorPoint>MiddleLeft</MyAnchorPoint>
+							<RelativeAnchorPoint>MiddleLeft</RelativeAnchorPoint>
+							<OffsetX>20</OffsetX>
+							<OffsetY>1</OffsetY>
+							<ArtDefine>NormalValueLabel</ArtDefine>
+							<Height>16</Height>
+							<FontData>
+								<AlignmentHorizontal>Left</AlignmentHorizontal>
+							</FontData>
+							<Text>RESEARCHLABEL2</Text>
+						</UIControl>
+
+						<UIControl>
+							<InternalName>ResearchTotalSpendingValue</InternalName>
+							<ControlType>StaticText</ControlType>
+							<MyAnchorPoint>MiddleRight</MyAnchorPoint>
+							<RelativeAnchorPoint>MiddleRight</RelativeAnchorPoint>
+							<OffsetY>1</OffsetY>
+							<ArtDefine>NormalValueLabel</ArtDefine>
+							<FontData>
+								<AlignmentHorizontal>Right</AlignmentHorizontal>
+								<ColorDefine>UIDefaultHighlight</ColorDefine>
+							</FontData>
+						</UIControl>
+
+					</UIControl>
+
+				</UIControl>
+
+			</UIControl>
+
+			<UIControl>
+				<InternalName>TechTreeTitleFrame</InternalName>
+        <ControlType>GelUIFrame</ControlType>
+        <ArtDefine>CrusadeHeaderOverlayTop</ArtDefine>
+        <Height>32</Height>
+
+				<UIControl>
+					<InternalName>TechTreewndTitle</InternalName>
+          <ControlType>StaticText</ControlType>
+          <OffsetY>4</OffsetY>
+          <ArtDefine>ExtraLargeHeaderLabel</ArtDefine>
+          <Height>22</Height>
+          <FontData>
+            <AlignmentHorizontal>Center</AlignmentHorizontal>
+            <ColorDefine>UIDefaultHighlight</ColorDefine>
+          </FontData>
+					<Text>TECHTREEWNDTITLE</Text>
+				</UIControl>
+
+			</UIControl>
+
+
+			<!--Now Reseaching-->
+
+			<UIControl>
+				<InternalName>TechTreeSelectedFrame</InternalName>
+				<ControlType>Frame</ControlType>
+				<MyAnchorPoint>TopRight</MyAnchorPoint>
+				<RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+				<OffsetY>38</OffsetY>
+				<SnapToGridOptions>
+					<AnchorPoint>TopCenter</AnchorPoint>
+					<Direction>Vertical</Direction>
+					<AllowWrapping>false</AllowWrapping>
+				</SnapToGridOptions>
+				<!--<ArtDefine>MockupFrame</ArtDefine>-->
+				<Width>256</Width>
+				<Height>255</Height>
+				<ForceTransparentToMouse>true</ForceTransparentToMouse>
+
+				<UIControl>
+					<InternalName>TechTreeSelectedSpacer</InternalName>
+					<ControlType>Frame</ControlType>
+					<!--<ArtDefine>MockupFrame</ArtDefine>-->
+					<DynamicSizeDef>
+						<RelativeHeightMinusAllSiblings>true</RelativeHeightMinusAllSiblings>
+					</DynamicSizeDef>
+					<ForceTransparentToMouse>true</ForceTransparentToMouse>
+				</UIControl>
+
+				<UIControl>
+					<InternalName>TechTreeSelectedTechFrame</InternalName>
+					<ControlType>Frame</ControlType>
+					<MyAnchorPoint>BottomRight</MyAnchorPoint>
+					<RelativeAnchorPoint>BottomRight</RelativeAnchorPoint>
+					<SnapToGridOptions>
+						<AnchorPoint>TopCenter</AnchorPoint>
+						<Direction>Vertical</Direction>
+						<AllowWrapping>false</AllowWrapping>
+					</SnapToGridOptions>
+					<!--<ArtDefine>SimpleDesplayFrame</ArtDefine>-->
+					<Height>255</Height>
+					<DoNotOverwriteSizeChanges>true</DoNotOverwriteSizeChanges>
+
+					<UIControl>
+						<InternalName>DetailsNowResearchingLabel</InternalName>
+						<ControlType>StaticText</ControlType>
+						<!--<OffsetY>2</OffsetY>-->
+						<ArtDefine>NormalHeaderLabel</ArtDefine>
+						<!--<Width>250</Width>-->
+						<Height>12</Height>
+						<FontData>
+							<AlignmentHorizontal>Center</AlignmentHorizontal>
+						</FontData>
+						<Text>NOWRESEARCHINGLABEL</Text>
+					</UIControl>
+
+					<UIControl>
+						<InternalName>TechTreeResearchingLine</InternalName>
+						<ControlType>Frame</ControlType>
+						<OffsetY>4</OffsetY>
+						<ArtDefine>HorizontalFadeLine</ArtDefine>
+						<!--<Width>250</Width>-->
+						<Height>1</Height>
+					</UIControl>
+
+					<UIControl>
+						<InternalName>SelectedTechProgressFrame</InternalName>
+						<ControlType>Frame</ControlType>
+						<!--<ArtDefine>MockupFrame</ArtDefine>-->
+						<Height>50</Height>
+
+						<UIControl>
+							<InternalName>SelectedTechImage</InternalName>
+							<ControlType>PictureFrame</ControlType>
+							<MyAnchorPoint>MiddleLeft</MyAnchorPoint>
+							<RelativeAnchorPoint>MiddleLeft</RelativeAnchorPoint>
+							<OffsetX>13</OffsetX>
+							<Tintable>false</Tintable>
+							<Width>48</Width>
+							<Height>48</Height>
+						</UIControl>
+
+						<UIControl>
+							<InternalName>SelectedTechName</InternalName>
+							<ControlType>StaticText</ControlType>
+							<OffsetX>62</OffsetX>
+							<ArtDefine>LargeValueLabel</ArtDefine>
+							<Height>23</Height>
+							<FontData>
+								<AlignmentHorizontal>Left</AlignmentHorizontal>
+							</FontData>
+							<TextControlOptions>
+								<SingleLine>true</SingleLine>
+							</TextControlOptions>
+						</UIControl>
+
+						<UIControl>
+							<InternalName>TimeToCompleteStatusBar</InternalName>
+							<ControlType>StatusBar</ControlType>
+							<OffsetX>60</OffsetX>
+							<OffsetY>27</OffsetY>
+							<ArtDefine>StatusBar</ArtDefine>
+							<Width>187</Width>
+							<Height>18</Height>
+
+							<UIControl>
+								<InternalName>TimeToCompleteText</InternalName>
+								<ControlType>StaticText</ControlType>
+								<MyAnchorPoint>MiddleCenter</MyAnchorPoint>
+								<RelativeAnchorPoint>MiddleCenter</RelativeAnchorPoint>
+								<ArtDefine>SmallValueLabel</ArtDefine>
+								<FontData>
+									<AlignmentHorizontal>Center</AlignmentHorizontal>
+								</FontData>
+							</UIControl>
+
+						</UIControl>
+
+					</UIControl>
+
+					<UIControl>
+						<InternalName>TechTreeResearchingLine2</InternalName>
+						<ControlType>Frame</ControlType>
+						<OffsetY>1</OffsetY>
+						<ArtDefine>HorizontalFadeLine</ArtDefine>
+						<Height>1</Height>
+					</UIControl>
+
+					<UIControl>
+						<InternalName>SelectedTechDescription</InternalName>
+						<ControlType>FormattedText</ControlType>
+						<OffsetX>4</OffsetX>
+						<OffsetY>3</OffsetY>
+						<ArtDefine>NormalValueLabel</ArtDefine>
+						<Height>50</Height>
+						<DoNotOverwriteSizeChanges>true</DoNotOverwriteSizeChanges>
+						<DynamicSizeDef>
+							<RelativeWidthMinusConstant>32</RelativeWidthMinusConstant>
+						</DynamicSizeDef>
+						<DoNotSnapToGridWhenHidden>true</DoNotSnapToGridWhenHidden>
+					</UIControl>
+
+					<UIControl>
+						<InternalName>SelectedTechUnlocksListBox</InternalName>
+						<ControlType>ListBox</ControlType>
+						<OffsetY>3</OffsetY>
+						<!--<ArtDefine>MockupFrame</ArtDefine>-->
+						<Height>55</Height>
+						<DoNotOverwriteSizeChanges>true</DoNotOverwriteSizeChanges>
+						<DynamicSizeDef>
+							<RelativeWidthMinusConstant>24</RelativeWidthMinusConstant>
+						</DynamicSizeDef>
+						<DoNotSnapToGridWhenHidden>true</DoNotSnapToGridWhenHidden>
+					</UIControl>
+
+				</UIControl>
+
+			</UIControl>
+
+			<UIControl>
+				<InternalName>TechTreeSearchFrame</InternalName>
+				<ControlType>Frame</ControlType>
+				<MyAnchorPoint>BottomRight</MyAnchorPoint>
+				<RelativeAnchorPoint>BottomRight</RelativeAnchorPoint>
+				<OffsetY>-41</OffsetY>
+				<!--<ArtDefine>MockupFrame</ArtDefine>-->
+				<Width>256</Width>
+				<Height>340</Height>
+				<ForceTransparentToMouse>true</ForceTransparentToMouse>
+				
+				<UIControl>
+					<InternalName>TechTreeSearchIcon</InternalName>
+					<ControlType>Frame</ControlType>
+					<MyAnchorPoint>BottomRight</MyAnchorPoint>
+					<RelativeAnchorPoint>BottomRight</RelativeAnchorPoint>
+					<OffsetX>-216</OffsetX>
+					<OffsetY>-5</OffsetY>
+					<ArtDefine>ResearchSearchIcon</ArtDefine>
+					<Width>32</Width>
+					<Height>32</Height>	
+				</UIControl>
+
+				<UIControl>
+					<InternalName>TechTreeSearchEntryField</InternalName>
+					<ControlType>EntryField</ControlType>
+					<MyAnchorPoint>BottomRight</MyAnchorPoint>
+					<RelativeAnchorPoint>BottomRight</RelativeAnchorPoint>
+					<OffsetX>-9</OffsetX>
+					<OffsetY>-8</OffsetY>
+					<ArtDefine>ComboBoxFadeFrame</ArtDefine>
+					<Width>205</Width>
+					<Height>28</Height>
+					<FontData>
+						<OffsetX>10</OffsetX>
+					</FontData>
+					<TextControlOptions>
+						<SingleLine>true</SingleLine>
+						<AllowHighlight>false</AllowHighlight>
+					</TextControlOptions>
+				</UIControl>
+
+				<UIControl>
+					<InternalName>TechTreeSearchLine2</InternalName>
+					<ControlType>Frame</ControlType>
+					<MyAnchorPoint>BottomRight</MyAnchorPoint>
+					<RelativeAnchorPoint>BottomRight</RelativeAnchorPoint>
+					<OffsetY>-43</OffsetY>
+					<ArtDefine>HorizontalFadeLine</ArtDefine>
+					<Height>1</Height>
+				</UIControl>
+
+				<UIControl>
+					<InternalName>TechTreeSearchListBox</InternalName>
+					<ControlType>ListBox</ControlType>
+					<MyAnchorPoint>BottomRight</MyAnchorPoint>
+					<RelativeAnchorPoint>BottomRight</RelativeAnchorPoint>
+					<OffsetY>-44</OffsetY>
+					<!--<ArtDefine>MockupFrame</ArtDefine>-->
+					<Width>238</Width>
+					<Height>300</Height>
+					<ListBoxOptions>
+						<FillFromBottom>true</FillFromBottom>
+					</ListBoxOptions>
+
+					<UIControl>
+						<InternalName>TechTreeSearchListScrollBar</InternalName>
+						<ControlType>ScrollBar</ControlType>
+						<ControlTemplate>VerticalScrollbarTemplate</ControlTemplate>
+						<MyAnchorPoint>MiddleRight</MyAnchorPoint>
+						<RelativeAnchorPoint>MiddleRight</RelativeAnchorPoint>
+						<Width>16</Width>
+					</UIControl>
+
+				</UIControl>
+
+			</UIControl>
+
+			<UIControl>
+				<InternalName>TechTreeBottomFrame</InternalName>
+        <ControlType>GelUIFrame</ControlType>
+        <MyAnchorPoint>BottomCenter</MyAnchorPoint>
+        <RelativeAnchorPoint>BottomCenter</RelativeAnchorPoint>
+        <ArtDefine>CrusadeHeaderOverlayBottom</ArtDefine>
+        <Height>42</Height>
+
+				<UIControl>
+					<InternalName>TechTreeAgeContainer</InternalName>
+					<ControlType>Frame</ControlType>
+					<MyAnchorPoint>BottomCenter</MyAnchorPoint>
+					<RelativeAnchorPoint>BottomCenter</RelativeAnchorPoint>
+					<OffsetY>-2</OffsetY>
+					<!--<ArtDefine>MockupFrame</ArtDefine>-->
+					<Width>842</Width>
+					<Height>39</Height>
+
+					<UIControl>
+						<InternalName>TechTreeAgeDeviderLeft</InternalName>
+						<ControlType>Frame</ControlType>
+						<OffsetY>3</OffsetY>
+						<ArtDefine>ToolbarDeviderFadeLine</ArtDefine>
+						<Width>8</Width>
+						<Height>36</Height>
+					</UIControl>
+
+					<UIControl>
+						<InternalName>TechTreeAgeDeviderRight</InternalName>
+						<ControlType>Frame</ControlType>
+						<MyAnchorPoint>MiddleRight</MyAnchorPoint>
+						<RelativeAnchorPoint>MiddleRight</RelativeAnchorPoint>
+						<OffsetX>4</OffsetX>
+						<OffsetY>3</OffsetY>
+						<ArtDefine>ToolbarDeviderFadeLine</ArtDefine>
+						<Width>8</Width>
+						<Height>36</Height>
+					</UIControl>
+
+					<UIControl>
+						<InternalName>TechTreeAgeTitle</InternalName>
+						<ControlType>StaticText</ControlType>
+						<MyAnchorPoint>MiddleLeft</MyAnchorPoint>
+						<RelativeAnchorPoint>MiddleLeft</RelativeAnchorPoint>
+						<OffsetX>88</OffsetX>
+						<ArtDefine>NormalHeaderLabel</ArtDefine>
+						<Height>16</Height>
+						<FontData>
+							<AlignmentHorizontal>Left</AlignmentHorizontal>
+						</FontData>
+						<Text>TECHNOLOGICAL_AGE_LABEL</Text>
+					</UIControl>
+
+					<UIControl>
+						<InternalName>TechTreeAgeStatusBackground</InternalName>
+						<ControlType>Frame</ControlType>
+						<MyAnchorPoint>MiddleRight</MyAnchorPoint>
+						<RelativeAnchorPoint>MiddleRight</RelativeAnchorPoint>
+						<OffsetX>-88</OffsetX>
+						<OffsetY>1</OffsetY>
+						<Width>512</Width>
+						<Height>26</Height>
+
+						<UIControl>
+							<InternalName>TechTreeAgeStatusBar</InternalName>
+							<ControlType>StatusBar</ControlType>
+							<ArtDefine>TechAgeStatusBar</ArtDefine>
+
+              <UIControl>
+                <InternalName>TechTreeAgeOfExpansionTextFrame</InternalName>
+                <ControlType>Frame</ControlType>
+                <MyAnchorPoint>MiddleLeft</MyAnchorPoint>
+                <RelativeAnchorPoint>MiddleLeft</RelativeAnchorPoint>
+                <OffsetY>-1</OffsetY>
+                <Height>24</Height>
+                <DynamicSizeDef>
+                  <PercentRelativeWidth>.33</PercentRelativeWidth>
+                </DynamicSizeDef>
+
+                <UIControl>
+                  <InternalName>TechTreeAgeOfExpansionTextEnabled</InternalName>
+                  <ControlType>StaticText</ControlType>
+                  <ArtDefine>NormalHeaderLabel</ArtDefine>
+                  <FontData>
+                    <AlignmentHorizontal>Center</AlignmentHorizontal>
+                    <ColorDefine>White</ColorDefine>
+                  </FontData>
+                  <Text>AGE_OF_EXPANSION</Text>
+                </UIControl>
+
+                <UIControl>
+                  <InternalName>TechTreeAgeOfExpansionTextDisabled</InternalName>
+                  <ControlType>StaticText</ControlType>
+                  <ArtDefine>NormalHeaderLabel</ArtDefine>
+                  <FontData>
+                    <AlignmentHorizontal>Center</AlignmentHorizontal>
+                    <ColorDefine>Black</ColorDefine>
+                  </FontData>
+                  <Text>AGE_OF_EXPANSION</Text>
+                </UIControl>
+
+              </UIControl>
+
+              <UIControl>
+                <InternalName>TechTreeAgeOfWarTextFrame</InternalName>
+                <ControlType>Frame</ControlType>
+                <MyAnchorPoint>MiddleCenter</MyAnchorPoint>
+                <RelativeAnchorPoint>MiddleCenter</RelativeAnchorPoint>
+                <OffsetY>-1</OffsetY>
+                <Height>24</Height>
+                <DynamicSizeDef>
+                  <PercentRelativeWidth>.33</PercentRelativeWidth>
+                </DynamicSizeDef>
+
+                <UIControl>
+                  <InternalName>TechTreeAgeOfWarTextEnabled</InternalName>
+                  <ControlType>StaticText</ControlType>
+                  <ArtDefine>NormalHeaderLabel</ArtDefine>
+                  <FontData>
+                    <AlignmentHorizontal>Center</AlignmentHorizontal>
+                    <ColorDefine>White</ColorDefine>
+                  </FontData>
+                  <Text>AGE_OF_WAR</Text>
+                </UIControl>
+
+                <UIControl>
+                  <InternalName>TechTreeAgeOfWarTextDisabled</InternalName>
+                  <ControlType>StaticText</ControlType>
+                  <ArtDefine>NormalHeaderLabel</ArtDefine>
+                  <FontData>
+                    <AlignmentHorizontal>Center</AlignmentHorizontal>
+                    <ColorDefine>Black</ColorDefine>
+                  </FontData>
+                  <Text>AGE_OF_WAR</Text>
+                </UIControl>
+
+              </UIControl>
+
+              <UIControl>
+                <InternalName>TechTreeAgeOfAscensionTextFrame</InternalName>
+                <ControlType>Frame</ControlType>
+                <MyAnchorPoint>MiddleRight</MyAnchorPoint>
+                <RelativeAnchorPoint>MiddleRight</RelativeAnchorPoint>
+                <OffsetY>-1</OffsetY>
+                <Height>24</Height>
+                <DynamicSizeDef>
+                  <PercentRelativeWidth>.33</PercentRelativeWidth>
+                </DynamicSizeDef>
+
+                <UIControl>
+                  <InternalName>TechTreeAgeOfAscensionTextEnabled</InternalName>
+                  <ControlType>StaticText</ControlType>
+                  <ArtDefine>NormalHeaderLabel</ArtDefine>
+                  <FontData>
+                    <AlignmentHorizontal>Center</AlignmentHorizontal>
+                    <ColorDefine>White</ColorDefine>
+                  </FontData>
+                  <Text>AGE_OF_ASCENSION</Text>
+                </UIControl>
+
+                <UIControl>
+                  <InternalName>TechTreeAgeOfAscensionTextDisabled</InternalName>
+                  <ControlType>StaticText</ControlType>
+                  <ArtDefine>NormalHeaderLabel</ArtDefine>
+                  <FontData>
+                    <AlignmentHorizontal>Center</AlignmentHorizontal>
+                    <ColorDefine>Black</ColorDefine>
+                  </FontData>
+                  <Text>AGE_OF_ASCENSION</Text>
+                </UIControl>
+
+              </UIControl>
+
+						</UIControl>
+
+					</UIControl>
+
+				</UIControl>
+
+				<UIControl>
+					<InternalName>TechTreeBackButton</InternalName>
+          <ControlType>Button</ControlType>
+          <MyAnchorPoint>BottomLeft</MyAnchorPoint>
+          <RelativeAnchorPoint>BottomLeft</RelativeAnchorPoint>
+          <OffsetX>13</OffsetX>
+          <OffsetY>-5</OffsetY>
+          <ArtDefine>CrusadeButtomLarge</ArtDefine>
+          <Width>180</Width>
+          <Height>32</Height>
+          <FontData>
+            <FontDefine>LargeHeader</FontDefine>
+            <AlignmentHorizontal>Center</AlignmentHorizontal>
+          </FontData>
+					<Text>BACKBTNLABEL</Text>
+				</UIControl>
+
+				<UIControl>
+					<InternalName>TechTreeWndDoneButton</InternalName>
+          <ControlType>Button</ControlType>
+          <MyAnchorPoint>BottomRight</MyAnchorPoint>
+          <RelativeAnchorPoint>BottomRight</RelativeAnchorPoint>
+          <OffsetX>-13</OffsetX>
+          <OffsetY>-5</OffsetY>
+          <ArtDefine>CrusadeButtomLarge</ArtDefine>
+          <Width>180</Width>
+          <Height>32</Height>
+          <FontData>
+            <FontDefine>LargeHeader</FontDefine>
+            <AlignmentHorizontal>Center</AlignmentHorizontal>
+          </FontData>
+					<Text>DONEBUTTON</Text>
+				</UIControl>
+
+			</UIControl>
+
+		</UIControl>
+
+	</Screen>
+
+</ScreenFile>

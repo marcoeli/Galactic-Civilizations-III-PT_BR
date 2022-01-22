@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- PlanetFeatureText.XML -->
+
+ 
+  <StringTable>
+    <Label>NaturalWonder_Name</Label>
+    <String>Maravilha Natural</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NaturalWonder_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Atrações construídas aqui atrairão turistas dos lugares mais distantes da galáxia.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientRuins_Name</Label>
+    <String>Ruínas Antigas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientRuins_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Estas ruínas do Precursor são um ótimo local para a pesquisa de suas tecnologias exóticas.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GeothermalSprings_Name</Label>
+    <String>Fontes Geotérmicas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GeothermalSprings_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Estas plantas de fabricação de fontes de energia, e piscinas aquecidas.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Cataract_Name</Label>
+    <String>Cataratas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Cataract_Dec</Label>
+    <String>[COLOR=UIDefaultHot]As Quedas em massa fornecem energia quase gratuita, para fabricação ou pesquisa.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Planetfall_Name</Label>
+    <String>Planetfall</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Planetfall_Dec</Label>
+    <String>[COLOR=UIDefaultHot]A localização relatada dos batedores originais para pôr os pés neste mundo.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientWonder_Name</Label>
+    <String>Maravilha Antiga</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AncientWonder_Dec</Label>
+    <String>[COLOR=UIDefaultHot]A fama desta antiga maravilha pode espalhar sua influência e atrair turistas.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PreciousMetals_Name</Label>
+    <String>Metais Preciosos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PreciousMetals_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Veias de metais preciosos fazem deste um local ideal para obter algum lucro.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RareStones_Name</Label>
+    <String>Pedras Raras</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RareStones_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Gemas raras encontradas neste local são valiosas em toda a galáxia.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MineralRich_Name</Label>
+    <String>Rico em minerais</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MineralRich_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Os minerais aqui encontrados são extremamente úteis para a construção de naves estelares.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RareEarth_Name</Label>
+    <String>Metais Terrestres Raros</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RareEarth_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Os metais de terras raras permitem métodos de pesquisa muito mais exóticos.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Floodplain_Name</Label>
+    <String>Planície de inundação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Floodplain_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Os alimentos disponíveis localmente suportam as cidades de maiores dimensões.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WildGrain_Name</Label>
+    <String>Grão selvagem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WildGrain_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Os alimentos disponíveis localmente suportam as cidades de maiores dimensões.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Wasteland_Name</Label>
+    <String>Terra de Resíduos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Wasteland_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Esta área desolada é pouco utilizável e perfeita para explodir coisas.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Caverns_Name</Label>
+    <String>Cavernas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Caverns_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Cavernas naturais profundas, perfeitas para fortificação contra praticamente qualquer tipo de ataque.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Haven_Name</Label>
+    <String>Idílico</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Haven_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Esta região idílica é tão bela que viver aqui faz as pessoas felizes.[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Paradise_Name</Label>
+    <String>Paraíso</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Paradise_Dec</Label>
+    <String>[COLOR=UIDefaultHot]Esta fatia do paraíso é onde todos querem viver, ou pelo menos visitar uma vez em sua vida.[/COLOR]</String>
+  </StringTable>
+ 
+</StringTableList>

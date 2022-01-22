@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Renaissance_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Renaissance_MegaEvent_Message_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Um consórcio de pesquisadores de diferentes raças surgiu com uma nova tecnologia, que aumentará muito a eficiência da Pesquisa. Entretanto, o preço que eles querem é muito alto. Se não estivermos dispostos a comprá-la diretamente, eles dizem que a alugarão a qualquer um que pedir. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Renaissance_MegaEvent_Message_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Devemos incentivar a partilha de conhecimentos.  Deixá-los alugar a nova tecnologia junto com nossos vizinhos.
+[COLOR=BenevolentBlue](Benevolente +50, +100% Pesquisa de base para todas as raças, -500 Creditos)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Renaissance_MegaEvent_Message_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tenho certeza de que, se oferecermos o incentivo certo, podemos garantir que o contrato de arrendamento seja vantajoso para nós.
+[COLOR=PragmaticGold](Pragmatico +50, +50% Pesquisa de base para todas as raças, -1000 Creditos,  +500 Pontos Tecnológicos)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Renaissance_MegaEvent_Message_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Eu não gosto de ser extorquido. Persiga-os e leve suas pesquisas para nossas próprias mãos.
+[COLOR=WarRed](Malevolo +50, +1000 Pontos Tecnológicos)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

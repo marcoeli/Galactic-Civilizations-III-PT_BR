@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Mercenaries_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Rebirth_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>Com a ajuda de alguns novos amigos, o regime de Torian renasceu. Eles empurraram o Império Drengin para fora de seu setor e construíram uma base forte sobre a qual se reconstruiram.
+A única questão agora é saber quando, e não como, será que o Império Drengin vai contra-atacar?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Rebirth_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>O Regime Torian deixou escapar de suas mãos sua última chance de liberdade. O vitorioso Drengin vai agora se vingar do que vê como insolência toriana. Não faltará muito para que o antigo povo toriano não seja mais que uma memória.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_Envoys_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Meu Senhor, nossos embaixadores concluíram as conversações com os enviados Arceano e Terrano. Ambos concordaram em nos ajudar em nossa revolução contra o Drengin.
+No entanto, o representante dos Terranos nos informou que as prioridades de seu comandante Bradley exigem a maior parte de sua frota em outros lugares. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_Envoys_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Eles nos ofereceram ajuda material ou apenas apoio moral?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_Envoys_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Enquanto eles continuarem a hostilizar o Drengin, consideraremos esse apoio suficiente.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_EnvoysR1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Bem senhor, eles tomaram duas colônias Drengin perto da sede do setor Drengin. Infelizmente eles não parecem dispostos a ir mais longe em seu espaço.
+Sua frota principal, assim como todos os Cruzadores T.A.S., ainda estão envolvidos em pesadas lutas perto de seu planeta natal, a Terra.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_EnvoysR1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Bem, teremos que pegar o que podemos conseguir. E os Arceanos?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_EnvoysR2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Eles tomaram duas colônias Drengin perto da sede do setor Drengin, mas a maior parte de sua frota foi puxada de volta para seu mundo natal. 
+Eles parecem estar planejando algo grande. Pelo que percebi, pode ser um ataque direto ao Drengi.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_EnvoysR2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excelente, se eles se mudarem para Drengi, o Drengin ficará muito distraído. Alguma novidade sobre os Arceanos?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_EnvoysR1-R1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Lord Verga dos Arceanos foi muito mais encorajador. Eles agora têm uma nova perspectiva do que é ser escravizado pelo Drengin. 
+Ele nos ofereceu uma aliança oficial e promete nos apoiar no futuro. No entanto, quanto apoio ainda está em questão, já que eles estão atualmente colocando seus esforços em fortificar seu território.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_EnvoysR1-R1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Muito bem. Com alguma sorte, o Drengin permanecerá distraído o tempo suficiente para que possamos fazer o mesmo.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_EnvoysR2-R1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Lord Verga dos Arceanos foi muito mais encorajador. Eles agora têm uma nova perspectiva do que é ser escravizado pelo Drengin. 
+Ele ofereceu uma aliança oficial e promete nos apoiar no futuro. No entanto, quanto apoio ainda está em questão, já que eles estão atualmente colocando seus esforços em fortificar seu território.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_EnvoysR2-R1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Muito bem. Com alguma sorte, o Drengin permanecerá distraído o tempo suficiente para que possamos fazer o mesmo.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_Warning_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Senhor, nossos batedores fizeram um relatório. A maioria das forças da Drengin que permanecem na área estão recuando para um território mais seguro.
+Eles descobriram que o sistema vizinho de Blight ainda contém uma colônia mineira Drengin. Se conseguirmos capturá-la rapidamente, a Drengin não terá mais nenhum meio de apoio dentro de anos-luz de Toria.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_Warning_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excelente, despacharemos a Frota de Libertação de Torian para assegurar o sistema Blight.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_Warning_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Sim senhor, mas não conseguiremos remover verdadeiramente a presença da Drengin até que tenhamos alguns transportes para tomar o planeta..</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_Warning_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Infelizmente, não temos nenhum navio de transporte para assegurar o sistema Blight. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_Warning_Counter2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Nossos Almirantes nos dizem que a Frota de Libertação é pelo menos capaz de limpar o sistema de ameaças enquanto nós adquirimos as ferramentas.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_HelpIsOffered_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Saudações, Tlas Kzientha. Ficamos muito felizes em ver que você foi liberado do jugo Drengin mais uma vez. Infelizmente, meu povo não tem tido tanta sorte.
+Como você pode ver, fomos forçados a encontrar novas maneiras de sobreviver. No entanto, isto nos coloca na posição de sermos úteis para você.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_HelpIsOffered_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Não é surpreendente que o Korx tenha encontrado uma maneira de sobreviver. Presumo que você também tenha encontrado uma maneira de obter lucro?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_HelpIsOffered2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Você nos conhece bem. Mesmo nestes tempos sombrios, encontramos uma maneira de fazer alguns créditos.
+Reunimos alguns dos Mercenários mais talentosos da galáxia. Convencemo-los de que com a representação correta eles podem fazer uma vida melhor para si mesmos, ao invés de serem piratas glorificados.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_HelpIsOffered2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Isto é fascinante, mas só recentemente retomamos nosso mundo natal e nossos recursos são escassos para dizer o mínimo.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_HelpIsOffered3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>É claro, é claro. Mas ainda assim não pudemos deixar de notar sua necessidade de um transporte. 
+Como vítimas do Drengin, gostaríamos de ajudar. Qualquer coisa que faça o Drengin pagar é lucro suficiente para nós. Pelo menos por enquanto.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_HelpIsOffered3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Se você puder nos fornecer um transporte rapidamente, nós ficaremos em dívida para com você!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_HelpIsOffered3_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>É com isso que estamos contando.
+
+Basta lembrar de nós quando você precisar de algum músculo adicional em suas frotas. Temos uma grande variedade de especializações. Se você precisar, provavelmente nós o teremos. Pelo menos por um preço.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_CaptureBlight_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tomamos Blight II, mas parece que nosso amigo Mercenário era um pouco ambicioso demais. A maior parte da infra-estrutura do planeta foi perdida.
+
+O que devemos fazer com os mineiros sobreviventes da Drengin?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_CaptureBlight_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Devemos ser melhores do que nossos inimigos. Levem-nos sob custódia, mas não deixem que nenhum mal lhes aconteça. [COLOR=BenevolentBlue](Benevolente)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_CaptureBlight_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Coloque-os no balde mais barato que pudermos encontrar, e aponte-os para Drengi. [COLOR=PragmaticGold](Pragmatico)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_CaptureBlight_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Executá-los. Se eles não atormentaram diretamente nosso povo, eles o encorajaram. [COLOR=WarRed](Malevolo)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ArceanMessage1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Parabéns por sua vitória em Blight II! Soubemos que você foi obrigado a recorrer à contratação de um transporte Mercenário para completar seu objetivo. Tenha cuidado, os Korx ainda são tão astutos como sempre. 
+No futuro, gostaríamos de garantir que você possa construir seus próprios transportes, por isso estamos lhe enviando nosso [COLOR=UIDefaultHot]Invasão planetária[/COLOR] Tecnologia.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ArceanMessage1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Muito obrigado. Faremos nosso melhor para provar que somos dignos de sua gentileza.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ArceanMessage1_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Qualquer inimigo da Drengin é digno de nosso apoio. 
+
+Não se esqueça de apontar seu novo transporte para Drengi e nós ficaremos satisfeitos.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ArceanMessage2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tlas Kzientha, eu apresentei nosso acordo à Assembléia Arcean e eles assinaram nossa Aliança.
+Conseguimos voltar ao nosso território com pouco assédio por parte da Drengin, mas fizemos um scan a uma grande frota que ainda se encontra na área. Tenha cuidado, essa frota sozinha é mais do que uma partida para nossas forças atuais.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ArceanMessage2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Obrigado pelo aviso. Seremos cautelosos.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ArceanMessage3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Enquanto isso, gostaríamos de estabelecer um [COLOR=UIDefaultHot]Fronteiras abertas[/COLOR] tratado com você.
+Devemos tirar proveito da relativa segurança do território entre nossos mundos. De fato, talvez seja um bom momento para estabelecermos algumas rotas comerciais entre nós. 
+Nós lhe enviaremos as coordenadas de nossa capital, para quando você estiver pronto.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ArceanMessage3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excelente, enviaremos um cargueiro assim que sentirmos que é seguro.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_Reminder_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tlas Kzientha.
+Queremos apenas avisar que temos recebido ofertas para contratar vários de nossos mercenários mais destrutivos. Alguns deles vieram de seu aliado, os Arceanos. Outros vieram do Drengin.
+Vamos atrasá-los o máximo possível, mas não ousamos desafiar abertamente o Império Drengin neste momento. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_Reminder_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Nós entendemos. Você deve fazer o que precisa para sobreviver. Obrigado pelo aviso. [COLOR=BenevolentBlue](Benevolo)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_Reminder_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Atrase-os o máximo de tempo possível.  Faremos o que pudermos para aliviá-lo de seu problema de inventário o mais rápido possível. [COLOR=PragmaticGold](Pragmatico)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_Reminder_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Você trabalharia com a raça que quase dizimou sua espécie?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ReminderR3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Não desejamos fazê-lo. No entanto, os Korx são apenas uma sombra do que já fomos. Se irritarmos nossos Comandantes Mercenários e perdermos o controle do Bazar Galáctico, não teremos nada.
+E se os Drengin voltarem toda sua atenção para nós mais uma vez, certamente seremos totalmente destruídos.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ReminderR3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Façam o que quiserem. Destruiremos qualquer Mercenário que eles usarem contra nós. [COLOR=WarRed](Malevolo)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ReminderR3_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Não esperaríamos menos.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_DestoyFlagShip1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Parabéns mais uma vez por sua vitória sobre o Drengin Flagship. Perdemos muitos guerreiros nobres para esse maldito dreadnought. Isto prova que nossa fé no povo toriano não foi mal colocada. 
+Gostaríamos também de lhe agradecer de uma forma mais prática. Esperamos que isto o ajude a incomodar ainda mais o Drengin. [COLOR=UIDefaultHot]2500 Creditos.[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_DestoyFlagShip1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Só estamos fazendo o que é necessário para sobreviver. Mas sua ajuda é sempre apreciada.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_DestoyFlagShip2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tlas Kzientha, enquanto você protegia seu território, o navio almirante Drengin começou a atacar nossas forças. Aparentemente, eles não apreciam nossa nova aliança. 
+Fomos capazes de derrotar o maldito Encouraçado, mas perdemos muitos guerreiros corajosos.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_DestoyFlagShip2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Sentimos muito por suas perdas. Você fez um grande favor à galáxia ao eliminar aquela besta.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_DestoyFlagShip3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tlas Kzientha, boas notícias! Derrotamos o  navio almirante Drengin. Eles tiveram a coragem de pensar que poderiam nos empurrar para fora do setor.
+Esperamos que a derrota deles seja útil para seu esforço de guerra.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_DestoyFlagShip3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Obrigado pela assistência. Você fez um grande favor à galáxia, eliminando aquela besta.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ColonizeBlessing_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Este planeta é de fato uma bênção. Não só tivemos muita sorte de encontrar outro Mundo Aquático tão perto de nosso sistema doméstico, como também é um mundo de classe muito alta.
+Blessing II, também é promissor, mas precisaremos pesquisar [COLOR=UIDefaultHot] Colonização Mundial Extrema[/COLOR] para torná-lo habitável. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ColonizeBlessing_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Uma excelente sugestão, será muito útil ter um lugar seguro para se refugiar em uma emergência.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_MercNeedsHelp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tlas Kzientha, recebemos um pedido de socorro de um de nossos Comandantes Mercenários. Eles parecem ter encontrado dificuldades e ficaram presos em um mundo desabitado do outro lado do buraco negro. 
+Se você fosse capaz de conseguir um navio colônia lá fora e dar-lhes alguma ajuda, estou certo de que eles estariam dispostos a trabalhar para você como pagamento.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_MercNeedsHelp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Veremos o que podemos fazer.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ColonizeRoyena_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Meu Senhor, localizamos um navio Mercenário que está abandonado neste mundo há algum tempo. Eles parecem muito felizes em nos ver.
+A má notícia é que nosso comandante da colônia é da opinião de que eles estavam explorando a área para o Drengin antes de se despenharem.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ColonizeRoyena_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tenho certeza de que eles já foram punidos o suficiente. Ajudá-los em reparos e vê-los fora de nosso planeta. [COLOR=BenevolentBlue](Benevolente)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ColonizeRoyena_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Diga-lhes que se eles quiserem sair deste planeta, eles agora servem ao Regime Toriano.[COLOR=PragmaticGold](Pragmatico)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ColonizeRoyena_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Não toleraremos ninguém que trabalhe para a Drengin. Execute-os e desmantele seu navio. [COLOR=WarRed](Malevolo)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_HelpedoutMercR1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Meu Senhor, permita-me que me apresente, sou Farseer do Recife, Comandante do Zindellit.
+Entendo que temos que lhe agradecer pelo nosso resgate. Asseguro-lhe que nos arrependemos muito de alguma vez termos aceitado esse contrato com o Drengin. Asseguro-lhe que não seremos nenhuma ameaça ao Regime Torian no futuro.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_HelpedoutMercR1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Uma lição valiosa para se ter aprendido de fato. Para seu bem, espero que não o vejamos novamente no espaço toriano.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_HelpedoutMercR2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Meu Senhor, permita-me que me apresente, sou Farseer do Recife, Comandante do Zindellit.
+Agradecemos o resgate e ficaríamos felizes em pagar nossa dívida, trabalhando para você. O Zindellit é um navio de pesquisa bem armado e rápido, com um alcance extremamente longo.
+Levaremos algumas semanas para concluir os reparos. Dentro de algumas semanas, faremos um relatório em seu mundo natal.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_HelpedoutMercR2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Seus serviços serão de grande ajuda. Se você se sair bem, podemos esquecer que você já trabalhou para a Drengin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_HelpedoutMercR3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Meu senhor. Executamos o canalha do Mercenário Reed Farseer. Isto deve enviar uma mensagem ao Bazar sobre o que acontece com qualquer um que aceite um contrato contra nós.
+Seu navio, o Zindellit, foi muito danificado. No entanto, fomos capazes de recuperar algum equipamento valioso.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_HelpedoutMercR3_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excelente, talvez usaremos os créditos para contratar um mercenário mais sábio.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_GetMerc_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tlas Kzientha, Farseer do Recife está se apresentando. O Zindellit está reparado e pronto para a partida. Chegamos no sistema Torian e aguardamos suas ordens.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_GetMerc_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excelente, tenho certeza de que podemos encontrar um bom uso tanto para você quanto para seu navio.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ColonizeRoyce_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Estamos felizes em ver o crescimento do regime de Torian. Agora que você tem uma colônia tão próxima de nossas fronteiras, é mais importante do que nunca que mantenhamos boas relações. 
+Nossos cientistas me pediram para lhe oferecer um [COLOR=UIDefaultHot] Tratado de Pesquisa Tecnológica[/COLOR], na esperança de que, compartilhando nosso conhecimento, possamos resistir mais eficientemente ao Império Drengin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ColonizeRoyce_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excelente idéia! Juntos, vamos aumentar muito nossa capacidade de pesquisa. [COLOR=BenevolentBlue]Aceitar o Tratado de Pesquisa (Benevolente)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ColonizeRoyce_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>O que seria mais útil se você pudesse nos dar algumas de suas tecnologias existentes. [COLOR=PragmaticGold]Pergunte por técnicos (Pragmatico)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ColonizeRoyceR1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excelente! se conseguirmos alcançar o nível tecnológico do Drengin, nossas chances de derrotá-los de uma vez por todas serão muito maiores.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ColonizeRoyceR1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>De acordo! </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ColonizeRoyceR2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Entendemos que você está em uma situação difícil. Esperamos poder encontrar algo que o ajude.
+[COLOR=UIDefaultHot]2000 Pontos de Pesquisa[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ColonizeRoyceR2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Qualquer coisa que você possa fornecer será útil.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_TerranMessage_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tlas Kzientha, recebemos um relatório de nossas forças remanescentes em sua área que pode ser de grande ajuda para seu povo.
+Eles encontraram um Mundo Aquático não-colonizado no limite do território de Drengin. Eles acham que seria uma praia perfeita para lançar uma invasão em sua sede do Céu Escuro.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_TerranMessage_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Obrigado pela assistência. Reuniremos nossas forças imediatamente e protegeremos o planeta.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_TerranMessage_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Obrigado pela informação, infelizmente não estamos prontos para ir tão longe no espaço Drengin. Ainda assim.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ColonizeBlueOcean_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Estamos felizes em ver sua guerra com o Drengin indo bem. Embora ainda não tenhamos nenhum navio para dispensar, pedimos voluntários de nosso pessoal de pesquisa local. Eles foram despachados para o Oceano Azul com ordens para ajudá-los em qualquer pesquisa que precisem. [COLOR=UIDefaultHot]3000 Pontos de Pesquisa[/COLOR] Tecnologia.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_ColonizeBlueOcean_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Muito obrigado, Comandante Bradley. Vamos usá-los sabiamente.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_TerranMessage2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tlas Kzientha, acabamos de receber graves notícias de nossas forças em seu setor. 
+Pensando em surpreender o Drengin enquanto suas forças os distraíam, eles tentaram um ataque surpresa a sua capital local no Céu Escuro.
+Eles foram totalmente derrotados. Aparentemente, os Drengin têm uma frota poderosa protegendo o planeta.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_TerranMessage2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Grandes notícias, de fato. Obrigado pelo aviso. Seus soldados caídos serão vingados.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_TakeDarkSkyTorian_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Escumalha toriana. Vocês podem ter se libertado e do patético remanso da galáxia em que vivem. Mas ouçam isto; quando terminarmos de lidar com os terráqueos, estaremos de volta. Tudo o que vocês fizeram foi provar que não vale a pena ficar por perto, por mais saborosos que sejam. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_TakeDarkSkyTorian_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Se você voltar, estaremos prontos com nossos novos amigos poderosos.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_TakeDarkSkyArcean_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Escumalha toriana. Talvez vocês tenham convencido os Arceanos a ajudá-los a se libertarem e a patética retaguarda da galáxia em que vivem. Mas ouçam isto; quando terminarmos de lidar com os fleshlings terrestres, estaremos de volta. Tudo o que vocês fizeram foi provar que não vale a pena ficar por perto, por mais saborosos que sejam. </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_TakeDarkSkyArcean_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Se você voltar, nós estaremos prontos. Os Arceanos não são nossos únicos amigos.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_TakeDarkSkyTerran_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Escória de Torian. Vocês podem ter convencido os terranianos a ajudá-los a se libertarem e ao patético remanso da galáxia em que vivem. Mas ouçam isto; quando terminarmos de limpar os Terranos da existência, estaremos de volta. Tudo o que vocês fizeram é provar que não vale a pena ficar por perto, por mais saborosos que sejam.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_TakeDarkSkyTerran_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Se você voltar, nós estaremos prontos. Os terranos não são nossos únicos amigos.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_DestroytheDrengin_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tlas Kzientha, para um bando de sapos, você provou ser bastante animado. Lamento não ter você para um lanche quando tive a oportunidade.
+Aproveite sua liberdade. Não vai durar. Na próxima vez que nos encontrarmos, não seremos tão gentis.
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Mercenaries_Rebirth_DestroytheDrengin_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Estaremos prontos. Ou seja, se você sobreviver à Cruzada Terrana.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

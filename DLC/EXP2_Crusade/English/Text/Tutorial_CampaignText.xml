@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- CampaignText.XML -->
+ 
+  <StringTable>
+    <Label>Tutorial_Name</Label>
+    <String>Backup Plan (Tutorial)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_Refuge_Name</Label>
+    <String>Backup Plan (Tutorial)</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_Refuge_Dec</Label>
+    <String>You have been sent to a remote world with the goal to build up the colony and be ready to take on enemy forces.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_Refuge_ShortDec</Label>
+    <String>You have been sent to a remote world with the goal to build up the colony and be ready to take on enemy forces.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_Refuge_EXP2_TUTORIAL_FACTION_RESISTANCE_Name</Label>
+    <String>Terran Resistance</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_Refuge_EXP2_TUTORIAL_FACTION_SYLNE_Name</Label>
+    <String>Slyne Swarm</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_Refuge_EXP2_TUTORIAL_FACTION_DRENGIN_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_Refuge_EXP2_TUTORIAL_FACTION_PIRATES_Name</Label>
+    <String>Pirates</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_Refuge_BuildOutColony_Message</Label>
+    <String>Build New Improvements</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_Refuge_ReseachNewTechs_Message</Label>
+    <String>Research New Technologies</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_Refuge_SurveyAnomolies_Message</Label>
+    <String>Survey Local Space</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_Refuge_TrainCitizen_Message</Label>
+    <String>Train Citizens</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_Refuge_IncounterNewRace_Message</Label>
+    <String>Encounter New Races</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Tutorial_Refuge_KillDrengin_Message</Label>
+    <String>Eliminate Drengin Colony</String>
+  </StringTable>
+ 
+</StringTableList>

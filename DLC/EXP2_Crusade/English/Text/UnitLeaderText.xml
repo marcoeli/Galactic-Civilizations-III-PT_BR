@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- UnitLeaderText.xml -->
+ 
+  <StringTable>
+    <Label>ApprovalLeader_Name</Label>
+    <String>Aprovação</String>
+  </StringTable>
+  <StringTable>
+    <Label>ApprovalLeader_Dec</Label>
+    <String>Aumenta o moral em seus planetas. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SocialManufacturingLeader_Name</Label>
+    <String>Construção social</String>
+  </StringTable>
+  <StringTable>
+    <Label>SocialManufacturingLeader_Dec</Label>
+    <String>Aumenta a produção planetária.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchLeader_Name</Label>
+    <String>Pesquisa</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResearchLeader_Dec</Label>
+    <String>Aumenta a pesquisa.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MilitaryManufacturingLeader_Name</Label>
+    <String>Construção naval</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilitaryManufacturingLeader_Dec</Label>
+    <String>Aumenta a produção de navios.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EconomicLeader_Name</Label>
+    <String>Riqueza</String>
+  </StringTable>
+  <StringTable>
+    <Label>EconomicLeader_Dec</Label>
+    <String>Aumenta a renda da riqueza planetária.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InfluenceLeader_Name</Label>
+    <String>Influência</String>
+  </StringTable>
+  <StringTable>
+    <Label>InfluenceLeader_Dec</Label>
+    <String>Aumenta a geração de influência planetária.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FarmingLeader_Name</Label>
+    <String>Agricultura</String>
+  </StringTable>
+  <StringTable>
+    <Label>FarmingLeader_Dec</Label>
+    <String>Aumenta a produção de alimentos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AdministrationLeader_Name</Label>
+    <String>Administração</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdministrationLeader_Dec</Label>
+    <String>Fornece pontos administrativos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MilitaryLeader_Name</Label>
+    <String>Resistência</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilitaryLeader_Dec</Label>
+    <String>Aumenta a resistência planetária.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FleetLeader_Name</Label>
+    <String>Frotas</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetLeader_Dec</Label>
+    <String>Aumenta os hit points da frota.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EspionageLeader_Name</Label>
+    <String>Contra-Espionagem</String>
+  </StringTable>
+  <StringTable>
+    <Label>EspionageLeader_Dec</Label>
+    <String>Torna mais difícil para os inimigos roubar sua tecnologia.</String>
+  </StringTable>
+ 
+ 
+ 
+</StringTableList>

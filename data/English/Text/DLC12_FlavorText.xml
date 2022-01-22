@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+
+	<FlavorTextDef>
+		<InternalName>FIRST_CONTACT_MAIN</InternalName>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Scryve</SpeakerFaction>
+			</Requirements>
+			<Text>Você não tem permissão para existir, alienígena. Fale rapidamente antes de abordarmos isso.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Measured</SpeakerFaction>
+			</Requirements>
+			<Text>Por favor, forneça a saudação padronizada para iniciar o protocolo de aperto de mão conversacional.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Phamysht</SpeakerFaction>
+			</Requirements>
+			<Text>Oh, que delícia! Um extraterrestre fresco! Delicioso!</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Xraki</SpeakerFaction>
+			</Requirements>
+			<Text>Doente, doente, caos olá! Você será devorado EM BREVE, alienígena. Olhos famintos estão VINDO.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+
+</FlavorTextDef>
+
+	<FlavorTextDef>		
+	<InternalName>FIRST_CONTACT_RESPONSE_PEACEFUL</InternalName>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Scryve</SpeakerFaction>
+			</Requirements>
+			<Text>Relaxe. Não lhe queremos fazer mal.</Text>
+			<PreferenceWeight>1</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Measured</SpeakerFaction>
+			</Requirements>
+			<Text>Saudamo-lo em paz, estranho estrangeiro.</Text>
+			<PreferenceWeight>1</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Phamysht</SpeakerFaction>
+			</Requirements>
+			<Text>Somos ao mesmo tempo deliciosos e pacíficos, amáveis extraterrestres.</Text>
+			<PreferenceWeight>1</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Xraki</SpeakerFaction>
+			</Requirements>
+			<Text>Ok. Viemos em paz, estranho extraterrestre.</Text>
+			<PreferenceWeight>1</PreferenceWeight>
+		</FlavorTextOption>
+
+
+	</FlavorTextDef>
+	
+	<FlavorTextDef>
+		<InternalName>FIRST_CONTACT_RESPONSE_NEUTRAL</InternalName>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Scryve</SpeakerFaction>
+			</Requirements>
+			<Text>Não precisamos de sua permissão para existir.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Measured</SpeakerFaction>
+			</Requirements>
+			<Text>Que tal cumprimentá-lo regularmente, estranho extraterrestre.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Phamysht</SpeakerFaction>
+			</Requirements>
+			<Text>Cuidado com a língua, alienígena. E o resto de sua boca também.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Xraki</SpeakerFaction>
+			</Requirements>
+			<Text>Cuidado, alienígena. Ou talvez sejamos nós a devorá-lo..</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+	</FlavorTextDef>
+
+	<FlavorTextDef>
+		<InternalName>GENERIC_GREETING</InternalName>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Scryve</SpeakerFaction>
+			</Requirements>
+			<Text>Outro alienígena deplorável atravessa minha tela. Para quê, eu me pergunto?</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Measured</SpeakerFaction>
+			</Requirements>
+			<Text>Antecedendo a saudação padronizada para um protocolo de bate-papo otimizado: como você está indo?</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Phamysht</SpeakerFaction>
+			</Requirements>
+			<Text>Maravilhoso! São aqueles alienígenas deliciosos de novo. O que podemos fazer por você, cupcake?</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Xraki</SpeakerFaction>
+			</Requirements>
+			<Text>Saudações perturbadoras! Olá, olá, por favor. Desculpas. O tempo flui.... de forma diferente aqui.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+	</FlavorTextDef>
+
+	<FlavorTextDef>
+		<InternalName>DECLARE_WAR_MAIN</InternalName>
+
+		<FlavorTextOption>
+			<ResponseTag>Scryve_DECLARE_WAR_ON_PLAYER</ResponseTag>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Scryve</SpeakerFaction>
+			</Requirements>
+			<Text>Você chegou ao fim de sua trela, bárbaro. Vamos limpar agora a mancha de sua civilização da galáxia.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Measured</SpeakerFaction>
+			</Requirements>
+			<Text>Todos os formulários foram arquivados e continuarão a ser arquivados para permitir a sua destruição por nós através de um protocolo de guerra padrão.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Phamysht</SpeakerFaction>
+			</Requirements>
+			<Text>Pudding, a Ordem dos Phamysht Lords teve um pequeno abanão de queixo, e tenho medo de informá-lo que eles decidiram fazer guerra com você. As mais profundas condolências, não vamos arrastar isto para fora, etc., etc.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Xraki</SpeakerFaction>
+			</Requirements>
+			<Text>Você, ordenado a ser, logo será desordenado. A GUERRA É AFOTA. O caos reina o caos reina o caos reina o caos.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+
+
+	</FlavorTextDef>
+
+	<FlavorTextDef>
+		<InternalName>ASK_FOR_PEACE_MAIN</InternalName>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Scryve</SpeakerFaction>
+			</Requirements>
+			<Text>Você já provou seu valor, alienígena, como nós mesmos o fizemos uma vez. Decidimos acabar com esta guerra e deixá-lo viver. Você aceita?</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Measured</SpeakerFaction>
+			</Requirements>
+			<Text>Esta guerra é destrutiva e tem levado à perda de muitos registros. Ela deve terminar.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Phamysht</SpeakerFaction>
+			</Requirements>
+			<Text>Boas notícias, querida! Esta guerra horrível pode ficar para trás, se você estiver tão disposto quanto nós a acabar com ela, o que nós estamos, muito.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Xraki</SpeakerFaction>
+			</Requirements>
+			<Text>A ordem permanecerá por mais tempo, DRAT. Desejamos a paz.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+
+	</FlavorTextDef>
+
+	<FlavorTextDef>
+		<InternalName>AI_CREATED_TRADE_OFFER</InternalName>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Scryve</SpeakerFaction>
+			</Requirements>
+			<Text>Parece quase impossível, mas você tem algo de que precisamos. E nós, por nossa vez, lhe daremos algo para isso.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Measured</SpeakerFaction>
+			</Requirements>
+			<Text>Uma Interação para Intercâmbio Mútuo foi aprovada por todas as autoridades necessárias do nosso lado. E o seu?</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Phamysht</SpeakerFaction>
+			</Requirements>
+			<Text>Nós lhe trazemos uma oferta, deliciosos alienígenas, uma que você seria sábio em aceitar.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Xraki</SpeakerFaction>
+			</Requirements>
+			<Text>Dê o take, dê o take, TAKE TAKE. Nós vamos dar. Você vai dar. Todos TOMAMBÉM.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+
+	</FlavorTextDef>
+
+	<FlavorTextDef>
+		<InternalName>TRADE_OFFER_ACCEPT</InternalName>
+
+		<FlavorTextOption>
+			<ResponseTag>Scryve_DECLARE_WAR_ON_PLAYER</ResponseTag>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Scryve</SpeakerFaction>
+			</Requirements>
+			<Text>Aceitamos sua oferta, bárbaro.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Measured</SpeakerFaction>
+			</Requirements>
+			<Text>Nós aceitamos. Será necessário criar um arquivo de intercâmbio mútuo Impromptu, mas isso é uma alegria em si.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Phamysht</SpeakerFaction>
+			</Requirements>
+			<Text>Que surpresa inesperada! Aceitamos de bom grado seus termos.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Xraki</SpeakerFaction>
+			</Requirements>
+			<Text>Sim, sim. O consumo de todas as civilizações ordenadas ocorrerá mais rapidamente se aceitarmos. ACEITAMOS.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+	</FlavorTextDef>
+
+	<FlavorTextDef>
+		<InternalName>GENERAL_CONVERSATION_MAIN</InternalName>
+
+		<FlavorTextOption>
+			<ResponseTag>TALK_Scryve_GENERAL</ResponseTag>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Scryve</SpeakerFaction>
+			</Requirements>
+			<Text>Não temos tempo para conversa fiada, selvagem. Não com sua espécie.</Text>
+			<Text>O negócio de subjugar alienígenas insolentes é um negócio atarefado, selvagem. Faça isso rápido.</Text>
+			<Text>Governamos esta região há milhares de anos, alienígena. Vamos governá-la por milhares de anos mais, depois que você se for.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Measured</SpeakerFaction>
+			</Requirements>
+			<Text>Início do protocolo de bate-papo intercivilização. Todo o registro de dados está definido ao máximo.</Text>
+			<Text>Prazer em vê-lo! A menos que não seja. Você está aqui para nos destruir hoje?</Text>
+			<Text>Implantada a saudação padrão de baixa sinceridade.</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Phamysht</SpeakerFaction>
+			</Requirements>
+			<Text>Olá, precioso! Que bom vê-lo novamente!</Text>
+			<Text>Querida, é sempre um prazer ver você cruzar nossas telas. É sempre um prazer ver você cruzar nossas telas.</Text>
+			<Text>Se não são os nossos amigos mais queridos e saborosos. Oh, dia feliz!</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+
+		<FlavorTextOption>
+			<Requirements>
+				<SpeakerFaction>DLC12_FACTION_Xraki</SpeakerFaction>
+			</Requirements>
+			<Text>Conversa fiada agradável? Desprezível! Mas se for preciso.</Text>
+			<Text>Fúria de raiva! Olá, como você está? RAIVA RAIVA RAIVA.</Text>
+			<Text>Os pensamentos nesta região ordenada são terríveis. Demasiado organizado! As palavras são muito parecidas, mas sim, vamos compartilhá-las também..</Text>
+			<PreferenceWeight>100</PreferenceWeight>
+		</FlavorTextOption>
+	</FlavorTextDef>
+	<FlavorTextDef>
+    <InternalName>GENERAL_CONVERSATION_ACCEPT</InternalName>
+	
+	<FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>DLC12_FACTION_Phamysht</SpeakerFaction>
+      </Requirements>
+      <Text>É bom vê-lo também, Phamysht.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+	
+	<FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>DLC12_FACTION_Phamysht</SpeakerFaction>
+      </Requirements>
+      <Text>Vamos ao ponto, Phamysht.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+	
+	<FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>DLC12_FACTION_Scryve</SpeakerFaction>
+      </Requirements>
+      <Text>Então, vamos ao ponto.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+	
+	<FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>DLC12_FACTION_Scryve</SpeakerFaction>
+      </Requirements>
+      <Text>Já terminamos a conversa fiada com você também, Scryve.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+	
+
+		<FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>DLC12_FACTION_Xraki</SpeakerFaction>
+      </Requirements>
+      <Text>Ohhhhh kay. Prazer em ver você também.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+	
+	<FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>DLC12_FACTION_Xraki</SpeakerFaction>
+      </Requirements>
+      <Text>Acalme-se lá, Xraki.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+	
+			<FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>DLC12_FACTION_Measured</SpeakerFaction>
+      </Requirements>
+      <Text>Também aguardamos com expectativa uma conversa agradável.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+	
+	<FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>DLC12_FACTION_Measured</SpeakerFaction>
+      </Requirements>
+      <Text>Falar com você vai ser uma tarefa difícil, não é?</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+	</FlavorTextDef>
+
+
+
+
+</FlavorTextDefs>

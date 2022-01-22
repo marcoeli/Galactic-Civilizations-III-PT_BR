@@ -1,0 +1,2070 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- ImprovementText.xml -->
+ 
+<!-- Tech Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>ColonyCapital_Name</Label>
+    <String>Capital da Colônia</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ColonyCapital_ShortDec</Label>
+    <String>Fornece as necessidades básicas de uma colônia. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CivilizationCapital_Name</Label>
+    <String>Cidade Capital</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CivilizationCapital_ShortDec</Label>
+    <String>O coração de nossa civilização.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SpaceElevator_Name</Label>
+    <String>Elevador Espacial</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SpaceElevator_ShortDec</Label>
+    <String>Aumenta a produção planetária, facilitando a entrada de ativos no espaço</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Starport_Name</Label>
+    <String>Porto estelar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Starport_ShortDec</Label>
+    <String>Incrementam como as taxas das naves são construidas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlanetaryComputerCore_Name</Label>
+    <String>Núcleo de computador planetário</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlanetaryComputerCore_ShortDec</Label>
+    <String>Gera pesquisa.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BasicFactory_Name</Label>
+    <String>Fábrica básica</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BasicFactory_ShortDec</Label>
+    <String>Incrementa a fabricação de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XenoFactory_Name</Label>
+    <String>Fábrica Xeno</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XenoFactory_ShortDec</Label>
+    <String>Incrementa a fabricação de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MegaFactory_Name</Label>
+    <String>Mega Fábrica</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MegaFactory_ShortDec</Label>
+    <String>Incrementa a fabricação de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ManufacturingCenter_Name</Label>
+    <String>Centro de fabricação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ManufacturingCenter_ShortDec</Label>
+    <String>Incrementa a fabricação de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IndustrialSector_Name</Label>
+    <String>Setor Industrial</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IndustrialSector_ShortDec</Label>
+    <String>Incrementa a fabricação de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SolarPowerPlant_Name</Label>
+    <String>Usina de energia solar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SolarPowerPlant_ShortDec</Label>
+    <String>Torna as fábricas mais eficientes e impulsiona a produção.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FusionPowerPlant_Name</Label>
+    <String>Usina de Fusão</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FusionPowerPlant_ShortDec</Label>
+    <String>Torna as fábricas mais eficientes e impulsiona a produção.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>QuantumPowerPlant_Name</Label>
+    <String>Usina Quantum</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>QuantumPowerPlant_ShortDec</Label>
+    <String>Torna as fábricas mais eficientes e impulsiona a produção.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SingularityPowerPlant_Name</Label>
+    <String>Usina de Singularidade</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SingularityPowerPlant_ShortDec</Label>
+    <String>Dê um bônus de produção a todos os planetas de sua civilização.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ManufacturingCapital_Name</Label>
+    <String>Capital da manufatura</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ManufacturingCapital_ShortDec</Label>
+    <String>Uma melhoria única que impulsiona muito a Produção.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BasicLab_Name</Label>
+    <String>Laboratório básico</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BasicLab_ShortDec</Label>
+    <String>Melhora a Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XenoResearchLaboratory_Name</Label>
+    <String>Laboratório de Pesquisa Xeno</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XenoResearchLaboratory_ShortDec</Label>
+    <String>Aumenta a Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchInstitute_Name</Label>
+    <String>Instituto de Pesquisa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchInstitute_ShortDec</Label>
+    <String>Aumenta a Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchCenter_Name</Label>
+    <String>Centro de Pesquisa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchCenter_ShortDec</Label>
+    <String>Aumenta a Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchAcademy_Name</Label>
+    <String>Academia de Pesquisa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchAcademy_ShortDec</Label>
+    <String>Aumenta a Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DiscoverySphere_Name</Label>
+    <String>Esfera de Descoberta</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DiscoverySphere_ShortDec</Label>
+    <String>Permite ao jogador treinar cientistas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchCoordinationCenter_Name</Label>
+    <String>Centro de Coordenação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchCoordinationCenter_ShortDec</Label>
+    <String>Melhora a Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InnovationComplex_Name</Label>
+    <String>Complexo de inovação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InnovationComplex_ShortDec</Label>
+    <String>Melhora a Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OmegaResearchCenter_Name</Label>
+    <String>Centro de Pesquisa Omega</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OmegaResearchCenter_ShortDec</Label>
+    <String>Melhora a Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TechnologicalCapital_Name</Label>
+    <String>Capital tecnológico</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TechnologicalCapital_ShortDec</Label>
+    <String>Gerador de pesquisa único da civilização.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchCloisters_Name</Label>
+    <String>Núcleos de Pesquisa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchCloisters_ShortDec</Label>
+    <String>Impulsionar a pesquisa e a fundação de um portão de ascensão terrestre.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>QuantumResearchFoundation_Name</Label>
+    <String>Fundação de pesquisa Quantum</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>QuantumResearchFoundation_ShortDec</Label>
+    <String>Impulsiona a pesquisa e torna possível a construção de um portão de ascensão terrestre.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AscensionGate_Name</Label>
+    <String>Porta de Ascensão</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AscensionGate_ShortDec</Label>
+    <String>Quando concluída, permite que uma raça alcance o próximo plano de existência.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XenoFarm_Name</Label>
+    <String>Fazenda Xeno</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XenoFarm_ShortDec</Label>
+    <String>Provê alimento para a sua civilização.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AdaptiveFarm_Name</Label>
+    <String>Fazenda adaptável</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AdaptiveFarm_ShortDec</Label>
+    <String>Provê alimento para a sua civilização.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IntensiveFarm_Name</Label>
+    <String>Fazenda Intensiva</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IntensiveFarm_ShortDec</Label>
+    <String>Provê alimento para a sua civilização.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LosslessFarm_Name</Label>
+    <String>Fazenda sem perdas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LosslessFarm_ShortDec</Label>
+    <String>Provê alimento para a sua civilização.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>City_Name</Label>
+    <String>Cidade</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>City_ShortDec</Label>
+    <String>Use alimentos para construir uma cidade que aumente a população que sua colônia pode suportar.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SiliconCity_Name</Label>
+    <String>Cidade</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SiliconCity_ShortDec</Label>
+    <String>Incremente a população que sua colônia pode suportar.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FoodDistribution_Name</Label>
+    <String>Distribuição de alimentos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FoodDistribution_ShortDec</Label>
+    <String>Torna as fazendas mais eficientes, e aumenta o limite da população.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XenoIrrigation_Name</Label>
+    <String>Xeno Irrigação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XenoIrrigation_ShortDec</Label>
+    <String>Torna as fazendas mais eficientes, e aumenta o limite da população.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BiomassResequencer_Name</Label>
+    <String>Resequenciador de Biomassa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BiomassResequencer_ShortDec</Label>
+    <String>Torna as fazendas mais eficientes, e aumenta o limite da população.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlanetaryUpgrade_Name</Label>
+    <String>Upgrade do solo planetário</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlanetaryUpgrade_ShortDec</Label>
+    <String>Terraformar um ladrilho recuperável.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SoilEngineering_Name</Label>
+    <String>Engenharia do solo</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SoilEngineering_ShortDec</Label>
+    <String>Terraformar um ladrilho recuperável.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TerraformingPlant_Name</Label>
+    <String>Planta de terraformação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TerraformingPlant_ShortDec</Label>
+    <String>Terraformar um ladrilho de qualidade decente.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HabitatImprovementPlant_Name</Label>
+    <String>Melhoria do habitat</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HabitatImprovementPlant_ShortDec</Label>
+    <String>Terraformar um ladrilho de menor qualidade.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResequencingStation_Name</Label>
+    <String>Estação de re-sequenciamento</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResequencingStation_ShortDec</Label>
+    <String>Terraformar um ladrilho quase inútil.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Biospheres_Name</Label>
+    <String>Biosferas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Biospheres_ShortDec</Label>
+    <String>Terraformar qualquer ladrilho restante salvável.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperionSensorSystem_Name</Label>
+    <String>Sistema de sensores Hyperion</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperionSensorSystem_ShortDec</Label>
+    <String>Aumenta o alcance dos sensores das naves construídas no estaleiro deste planeta.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperionLogisticsSystem_Name</Label>
+    <String>Sistema de Logística Hyperion</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperionLogisticsSystem_ShortDec</Label>
+    <String>Reduz o custo logístico das naves construídas no estaleiro deste planeta.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperionShrinker_Name</Label>
+    <String>Retractor de Hyperion</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperionShrinker_ShortDec</Label>
+    <String>Aumenta a capacidade do casco dos navios.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperionSupplySystem_Name</Label>
+    <String>Sistema de fornecimento Hyperion</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperionSupplySystem_ShortDec</Label>
+    <String>Aumenta o alcance das naves construídas no estaleiro deste planeta.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperionShipyard_Name</Label>
+    <String>Estaleiro Hyperion</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperionShipyard_ShortDec</Label>
+    <String>Aumentar os hitpoints das naves construídas no estaleiro deste planeta.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlanetaryDome_Name</Label>
+    <String>Domo de defesa planetária</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlanetaryDome_ShortDec</Label>
+    <String>Torna nosso planeta quase invulnerável à invasão tradicional.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MilitaryAcadamyTech_Name</Label>
+    <String>Academia Militar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MilitaryAcadamyTech_ShortDec</Label>
+    <String>Ajuda na defesa contra as invasões planetárias.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OrbitalDefensePlatform_Name</Label>
+    <String>Plataforma de Defesa Orbital</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OrbitalDefensePlatform_ShortDec</Label>
+    <String>Fornece uma força defensiva de combatentes de assalto.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OmegaDefenseSystem_Name</Label>
+    <String>Sistema de Defesa Omega</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OmegaDefenseSystem_ShortDec</Label>
+    <String>Impulsionar os hitpoints de todas as naves que defendem o planeta.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AdminCenter_Name</Label>
+    <String>Centro Administrativo</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AdminCenter_ShortDec</Label>
+    <String>Aumenta o número de Administradores</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BureauofLabor_Name</Label>
+    <String>Bureau do Trabalho</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BureauofLabor_ShortDec</Label>
+    <String>Permite que a produção das colônias seja ajustada manualmente.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Embassy_Name</Label>
+    <String>Embaixada</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Embassy_ShortDec</Label>
+    <String>Facilita as relações com outras raças e ajuda a disseminar a Influência.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DiplomaticDistrict_Name</Label>
+    <String>Distrito Diplomático</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DiplomaticDistrict_ShortDec</Label>
+    <String>Facilita as relações com outras raças e ajuda a disseminar a Influência.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DiplomaticMinistry_Name</Label>
+    <String>Ministério Diplomático</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DiplomaticMinistry_ShortDec</Label>
+    <String>Facilita as relações com outras raças e ajuda a disseminar a Influência.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Consulate_Name</Label>
+    <String>Consulado</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Consulate_ShortDec</Label>
+    <String>Aumenta a Influência de um planeta.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CulturalCenter_Name</Label>
+    <String>Centro Cultural</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CulturalCenter_ShortDec</Label>
+    <String>Aumenta a Influência de um planeta.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachCenter_Name</Label>
+    <String>Centro de Divulgação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OutreachCenter_ShortDec</Label>
+    <String>Aumenta a Influência de um planeta.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EmigrationCenter_Name</Label>
+    <String>Centro de Emigração</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EmigrationCenter_ShortDec</Label>
+    <String>Aumenta a Influência de um planeta.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AssimilationFoundation_Name</Label>
+    <String>Fundação de Assimilação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AssimilationFoundation_ShortDec</Label>
+    <String>Aumenta a Influência de todos os mundos em nossa civilização.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CulturalBeacon_Name</Label>
+    <String>Farol Cultural</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CulturalBeacon_ShortDec</Label>
+    <String>Aumenta a influência deste planeta, permite o treinamento de celebridades e não pode ser destruído.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MarketCenter_Name</Label>
+    <String>Mercado</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MarketCenter_ShortDec</Label>
+    <String>Aumenta a renda bruta de um mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShoppingCenter_Name</Label>
+    <String>Shopping Center</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShoppingCenter_ShortDec</Label>
+    <String>Aumenta a renda bruta de um mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Bank_Name</Label>
+    <String>Banco Colonial</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Bank_ShortDec</Label>
+    <String>Torna os edifícios econômicos mais eficientes, e aumenta a renda bruta.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BankingSector_Name</Label>
+    <String>Setor Bancário</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BankingSector_ShortDec</Label>
+    <String>Torna os edifícios econômicos mais eficientes, e aumenta a renda bruta.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FinancialSector_Name</Label>
+    <String>Setor Financeiro</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FinancialSector_ShortDec</Label>
+    <String>Torna os edifícios econômicos mais eficientes, e aumenta a renda bruta.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalacticStockExchange_Name</Label>
+    <String>Bolsa de Valores Galáctica</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalacticStockExchange_ShortDec</Label>
+    <String>Aumenta a renda bruta de todos os nossos mundos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FinancialCapital_Name</Label>
+    <String>Capital financeira</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FinancialCapital_ShortDec</Label>
+    <String>Uma melhoria única que aumenta muito a renda e a influência.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradePost_Name</Label>
+    <String>Posto Comercial</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradePost_ShortDec</Label>
+    <String>Aumenta a renda das rotas comerciais.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradeCenter_Name</Label>
+    <String>Centro de Comércio</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradeCenter_ShortDec</Label>
+    <String>Aumenta a renda das rotas comerciais.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CustomsOffice_Name</Label>
+    <String>Alfândega</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CustomsOffice_ShortDec</Label>
+    <String>Aumenta a renda das rotas comerciais.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalacticBazar_Name</Label>
+    <String>Bazar Galáctico</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalacticBazar_ShortDec</Label>
+    <String>Aumenta a renda comercial das rotas comerciais através de nossa civilização.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradeCapital_Name</Label>
+    <String>Capital de comércio</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TradeCapital_ShortDec</Label>
+    <String>Uma melhoria única que aumenta muito a renda e a influência do comércio.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EntertainmentCenter_Name</Label>
+    <String>Centro de entretenimento</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EntertainmentCenter_ShortDec</Label>
+    <String>Aumenta a aprovação mundial.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EntertainmentNetwork_Name</Label>
+    <String>Rede de Entretenimento</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EntertainmentNetwork_ShortDec</Label>
+    <String>Aumenta a aprovação mundial.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Stadium_Name</Label>
+    <String>Estádio</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Stadium_ShortDec</Label>
+    <String>Aumenta a aprovação mundial.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AmusementPark_Name</Label>
+    <String>Parque de diversões</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AmusementPark_ShortDec</Label>
+    <String>Aumenta a aprovação mundial.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MegaResort_Name</Label>
+    <String>Mega Resort</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MegaResort_ShortDec</Label>
+    <String>Aumenta a aprovação mundial.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VirtualWorld_Name</Label>
+    <String>Mundo Virtual</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>VirtualWorld_ShortDec</Label>
+    <String>Aumenta a aprovação em todos os nossos mundos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EntertainmentCapital_Name</Label>
+    <String>Capital do entretenimento</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EntertainmentCapital_ShortDec</Label>
+    <String>Uma melhoria única que impulsiona muito a Aprovação e Influência.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PortofCall_Name</Label>
+    <String>Porto de escala</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PortofCall_ShortDec</Label>
+    <String>Aumenta a renda turística de um planeta.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TouristHaven_Name</Label>
+    <String>Paraíso Turístico</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TouristHaven_ShortDec</Label>
+    <String>Aumenta a renda turística de um planeta</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TouristDestination_Name</Label>
+    <String>Destino Turístico</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TouristDestination_ShortDec</Label>
+    <String>Aumenta a renda turística de um planeta.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RestaurantEternity_Name</Label>
+    <String>Restaurante da Eternidade</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RestaurantEternity_ShortDec</Label>
+    <String>Aumentar a renda do turismo para toda a nossa civilização.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WorkCamp_Name</Label>
+    <String>Campo de trabalho</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WorkCamp_ShortDec</Label>
+    <String>Aumenta a fabricação de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ForcedLaborCamp_Name</Label>
+    <String>Campo de Trabalho Forçado</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ForcedLaborCamp_ShortDec</Label>
+    <String>Aumenta a fabricação de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SlaveCamp_Name</Label>
+    <String>Acampamento de Escravos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SlaveCamp_ShortDec</Label>
+    <String>Aumenta a fabricação de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SlaveWorks_Name</Label>
+    <String>Trabalho escravo</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SlaveWorks_ShortDec</Label>
+    <String>Aumenta a fabricação de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DevilsForge_Name</Label>
+    <String>A Forja do Diabo</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DevilsForge_ShortDec</Label>
+    <String>Aumenta a fabricação de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SlavePit_Name</Label>
+    <String>Poço de escravos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SlavePit_ShortDec</Label>
+    <String>Impulsionar a fabricação e a pesquisa, assim como o fornecimento de alimentos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SlaveMill_Name</Label>
+    <String>Moinho de escravos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SlaveMill_ShortDec</Label>
+    <String>Impulsionar a fabricação e a pesquisa, assim como o fornecimento de alimentos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SlaveFactory_Name</Label>
+    <String>Fábrica de Escravos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SlaveFactory_ShortDec</Label>
+    <String>Impulsionar a fabricação e a pesquisa, assim como o fornecimento de alimentos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchChamber_Name</Label>
+    <String>Câmara de Pesquisa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchChamber_ShortDec</Label>
+    <String>Aumenta a Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchStockade_Name</Label>
+    <String>Armazém de Pesquisa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchStockade_ShortDec</Label>
+    <String>Aumenta a Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchMotivator_Name</Label>
+    <String>Motivador de pesquisa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchMotivator_ShortDec</Label>
+    <String>Aumenta a Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchExtractor_Name</Label>
+    <String>Extrator de pesquisa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchExtractor_ShortDec</Label>
+    <String>Aumenta a Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchAmplifier_Name</Label>
+    <String>Amplificador de pesquisa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchAmplifier_ShortDec</Label>
+    <String>Aumenta a Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SlaveRecycler_Name</Label>
+    <String>Reciclador de Escravos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SlaveRecycler_ShortDec</Label>
+    <String>Torna as fazendas mais eficientes e fornece mais alimentos. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProteinResequencer_Name</Label>
+    <String>Resequenciador de Proteína</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ProteinResequencer_ShortDec</Label>
+    <String>Torna as fazendas mais eficientes e aproveita mais os alimentos. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Garrison_Name</Label>
+    <String>Guarnição</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Garrison_ShortDec</Label>
+    <String>Impulsionar a produção militar e auxiliar a defesa planetária.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BlackMarket_Name</Label>
+    <String>Mercado Negro</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BlackMarket_ShortDec</Label>
+    <String>Aumenta a renda bruta de um mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FightingPit_Name</Label>
+    <String>Campo de luta</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FightingPit_ShortDec</Label>
+    <String>Aumenta a aprovação mundial</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Arena_Name</Label>
+    <String>Arena</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Arena_ShortDec</Label>
+    <String>Aumenta a aprovação mundial</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Slaughtertorium_Name</Label>
+    <String>Matadouro</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Slaughtertorium_ShortDec</Label>
+    <String>Increses uma aprovação mundial.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HuntingGrounds_Name</Label>
+    <String>Áreas de caça</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HuntingGrounds_ShortDec</Label>
+    <String>Increses uma aprovação mundial.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SocialMatrix_Name</Label>
+    <String>Matriz Social</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SocialMatrix_ShortDec</Label>
+    <String>Aumenta a fabricação e a pesquisa de um mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DarkEnergyLab_Name</Label>
+    <String>Laboratório de Energia Escura</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DarkEnergyLab_ShortDec</Label>
+    <String>Aumenta a fabricação e a pesquisa de um mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BiosphereManipulator_Name</Label>
+    <String>Manipulador da Biosfera</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BiosphereManipulator_ShortDec</Label>
+    <String>Terraforma qualquer ladrilho de baixa qualidade.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ChampionsTemple_Name</Label>
+    <String>Templo do Campeão</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ChampionsTemple_ShortDec</Label>
+    <String>Aumenta a prontidão militar de um mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HealingPools_Name</Label>
+    <String>Piscinas de Cura</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HealingPools_ShortDec</Label>
+    <String>Increses uma aprovação mundial.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MeditationCenter_Name</Label>
+    <String>Centro de Meditação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MeditationCenter_ShortDec</Label>
+    <String>Increses uma aprovação mundial.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CommunionShrine_Name</Label>
+    <String>Santuário da Comunhão</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CommunionShrine_ShortDec</Label>
+    <String>Increses uma aprovação mundial.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DrathianTemple_Name</Label>
+    <String>Templo Drathian</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DrathianTemple_ShortDec</Label>
+    <String>Increses uma aprovação mundial.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShrineoftheMithrilar_Name</Label>
+    <String>Santuário do Mithrilar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShrineoftheMithrilar_ShortDec</Label>
+    <String>Increases the Approval and Influence of a world.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShrineofTandis_Name</Label>
+    <String>Santuário de Tandis</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShrineofTandis_ShortDec</Label>
+    <String>Increases Approval and Influence on all of your worlds.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSouvenirs_Name</Label>
+    <String>Loja de lembranças do precursor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorSouvenirs_ShortDec</Label>
+    <String>Aumentar a renda mundial.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FreeMarket_Name</Label>
+    <String>Mercado Livre</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FreeMarket_ShortDec</Label>
+    <String>Aumenta a riqueza e a influência do mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IridiumStore_Name</Label>
+    <String>Loja de Iridium</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IridiumStore_ShortDec</Label>
+    <String>Aumenta a riqueza e a influência do mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IridiumCenter_Name</Label>
+    <String>Centro de Iridium</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IridiumCenter_ShortDec</Label>
+    <String>Aumenta a riqueza e a influência do mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IridiumWorld_Name</Label>
+    <String>Mundo do Iridium</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IridiumWorld_ShortDec</Label>
+    <String>Aumenta a riqueza e a influência do mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalacticShowcase_Name</Label>
+    <String>Vitrine Galáctica</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalacticShowcase_ShortDec</Label>
+    <String>Aumenta a renda bruta de um mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CoordinationTemple_Name</Label>
+    <String>Templo de Coordenação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CoordinationTemple_ShortDec</Label>
+    <String>Dá Bônus de Adjacência a todas as melhorias adjacentes.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LaborMission_Name</Label>
+    <String>Missão Trabalhista</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LaborMission_ShortDec</Label>
+    <String>Dá Bônus de Adjacência a todas as melhorias adjacentes.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LaborOracle_Name</Label>
+    <String>Oráculo do Trabalho</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LaborOracle_ShortDec</Label>
+    <String>Dá Bônus de Adjacência a todas as melhorias adjacentes.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnforcementTemple_Name</Label>
+    <String>Templo de aplicação da lei</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EnforcementTemple_ShortDec</Label>
+    <String>Aumenta a riqueza mundial.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShadowTemple_Name</Label>
+    <String>Templo das Sombras</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ShadowTemple_ShortDec</Label>
+    <String>Aumenta a Relação Diplomática com outros mundos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrynnConsulate_Name</Label>
+    <String>Consulado de Krynn</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrynnConsulate_ShortDec</Label>
+    <String>Aumenta a Influência Mundial &amp; Aprovação.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrynniacTemple_Name</Label>
+    <String>Templo de Krynniac</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrynniacTemple_ShortDec</Label>
+    <String>Aumenta a Influência Mundial &amp; Aprovação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrynniacMission_Name</Label>
+    <String>Missão Krynniac</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrynniacMission_ShortDec</Label>
+    <String>Aumenta a Influência Mundial &amp; Aprovação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrynniacOrder_Name</Label>
+    <String>Ordem Krynniac</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrynniacOrder_ShortDec</Label>
+    <String>Aumenta a Influência Mundial &amp; Aprovação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrynniacOracle_Name</Label>
+    <String>Oráculo de Krynniac</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrynniacOracle_ShortDec</Label>
+    <String>Aumenta uma Aprovação de Influência Mundial,  &amp; Pesquisa.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrynniacMinistry_Name</Label>
+    <String>Ministério Krynniac</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrynniacMinistry_ShortDec</Label>
+    <String>Aumenta uma Aprovação de Influência Mundial,  &amp; Turismo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrynniacSanctuary_Name</Label>
+    <String>Santuário de Krynniac</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KrynniacSanctuary_ShortDec</Label>
+    <String>Aumenta uma Aprovação de Influência Mundial,  &amp; turismo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ManufacturingYor_Name</Label>
+    <String>Centro de Produção</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ManufacturingYor_ShortDec</Label>
+    <String>Aumenta a produção</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ManufacturingCollective_Name</Label>
+    <String>Fabricação Coletiva</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ManufacturingCollective_ShortDec</Label>
+    <String>Aumenta a fabricação de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IndustrialCollective_Name</Label>
+    <String>Coletivo Industrial</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IndustrialCollective_ShortDec</Label>
+    <String>Aumenta a fabricação de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MechanizedCollective_Name</Label>
+    <String>Coletivo Mecanizado</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MechanizedCollective_ShortDec</Label>
+    <String>Aumenta a fabricação de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ManufacturingMatrix_Name</Label>
+    <String>Matriz de fabricação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ManufacturingMatrix_ShortDec</Label>
+    <String>Aumenta a fabricação de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PowerMatrix_Name</Label>
+    <String>Matriz de energia</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PowerMatrix_ShortDec</Label>
+    <String>Permite a montagem de mais Yor, impulsionando toda a Produção.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FusionMatrix_Name</Label>
+    <String>Matriz de Fusão</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FusionMatrix_ShortDec</Label>
+    <String>Permite a montagem de mais Yor, impulsionando toda a Produção.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AntimatterMatrix_Name</Label>
+    <String>Matriz de Antimatéria</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AntimatterMatrix_ShortDec</Label>
+    <String>Permite a montagem de mais Yor, impulsionando toda a Produção.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>QuantumMatrix_Name</Label>
+    <String>Matriz Quântica</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>QuantumMatrix_ShortDec</Label>
+    <String>Permite a montagem de mais Yor, impulsionando toda a Produção.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchYor_Name</Label>
+    <String>Motor de pesquisa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchYor_ShortDec</Label>
+    <String>Aumenta a Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchCollective_Name</Label>
+    <String>Pesquisa Coletiva</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchCollective_ShortDec</Label>
+    <String>Aumenta a Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchArray_Name</Label>
+    <String>Matriz de Pesquisa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchArray_ShortDec</Label>
+    <String>Aumenta a Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchMind_Name</Label>
+    <String>Mente de Pesquisa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchMind_ShortDec</Label>
+    <String>Aumenta a Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchMatrix_Name</Label>
+    <String>Matriz de Pesquisa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchMatrix_ShortDec</Label>
+    <String>Aumenta a Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Assembly_Name</Label>
+    <String>Montagem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Assembly_ShortDec</Label>
+    <String>Aumentar a população em 1.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FastAssembly_Name</Label>
+    <String>Montagem rápida</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FastAssembly_ShortDec</Label>
+    <String>Aumentar a população em 1.5.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HighCapacityAssembly_Name</Label>
+    <String>Montagem de alta capacidade</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HighCapacityAssembly_ShortDec</Label>
+    <String>Aumentar a população em  2.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UltimateAssembly_Name</Label>
+    <String>Montagem final</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UltimateAssembly_ShortDec</Label>
+    <String>Aumentar a população em 3.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Hive_Name</Label>
+    <String>Colmeia</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Hive_ShortDec</Label>
+    <String>Aumenta a produção geral do seu mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotherHive_Name</Label>
+    <String>Colméia Mãe</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MotherHive_ShortDec</Label>
+    <String>Aumenta muito a produção global de seu mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GaiaVortex_Name</Label>
+    <String>Vórtice Gaia</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GaiaVortex_ShortDec</Label>
+    <String>Aumenta a produção geral de Todos os nossos mundos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperionMatrix_Name</Label>
+    <String>Matriz Hyperion</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperionMatrix_ShortDec</Label>
+    <String>Impulsione a pesquisa de todas as suas colônias.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UniversalSoilAdapter_Name</Label>
+    <String>Adaptador Universal de Solo</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UniversalSoilAdapter_ShortDec</Label>
+    <String>Terraformar um ladrilho de qualquer qualidade.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XenoAnthropology_Name</Label>
+    <String>Centro de Antropologia Xeno</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XenoAnthropology_ShortDec</Label>
+    <String>Potencializa as relações com outras raças, e ajuda a espalhar nossa influência.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UniversalOutreach_Name</Label>
+    <String>Centro de Divulgação Universal</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UniversalOutreach_ShortDec</Label>
+    <String>Potencializa as relações com outras raças, e ajuda a espalhar a influência.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FutureStudies_Name</Label>
+    <String>Centro de Estudos Futuros</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FutureStudies_ShortDec</Label>
+    <String>Potencializa as relações com outras raças, e ajudar a espalhar nossa influência.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MolecularFabricatorc_Name</Label>
+    <String>Fabricante Molecular</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MolecularFabricatorc_ShortDec</Label>
+    <String>Aumenta a fabricação de uma colônia e Pesquisa.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IndustrialReplicator_Name</Label>
+    <String>Replicador Industrial</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IndustrialReplicator_ShortDec</Label>
+    <String>Aumenta a fabricação de uma colônia e Pesquisa.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorArchive_Name</Label>
+    <String>Arquivo do precursor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorArchive_ShortDec</Label>
+    <String>Aumenta consideravelmente a pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DreamConclave_Name</Label>
+    <String>Conclave dos sonhos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DreamConclave_ShortDec</Label>
+    <String>Aumenta a moral de todas as colônias, bem como a taxa de Influência e Pesquisa de seu planeta-sede.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CentralMine_Name</Label>
+    <String>Mina Central</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CentralMine_ShortDec</Label>
+    <String>Aumenta a Produtividade de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LearningCenter_Name</Label>
+    <String>Centro de aprendizagem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LearningCenter_ShortDec</Label>
+    <String>Aumenta a capacidade de Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>School_Name</Label>
+    <String>Escola</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>School_ShortDec</Label>
+    <String>Aumenta a capacidade de Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>University_Name</Label>
+    <String>Universidade</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>University_ShortDec</Label>
+    <String>Aumenta a capacidade de Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CityofLearning_Name</Label>
+    <String>Cidade do Conhecimento</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CityofLearning_ShortDec</Label>
+    <String>Aumenta a capacidade de Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchCommune_Name</Label>
+    <String>Comuna de Pesquisa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResearchCommune_ShortDec</Label>
+    <String>Aumenta a capacidade de Pesquisa de uma colônia.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HydroponicFarm_Name</Label>
+    <String>Fazenda hidropônica</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HydroponicFarm_ShortDec</Label>
+    <String>Aumenta a alimentação mundial.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HydroponicAccelerator_Name</Label>
+    <String>Acelerador Hidropônico</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HydroponicAccelerator_ShortDec</Label>
+    <String>Aumenta a alimentação mundial.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TiredHydroponicFarm_Name</Label>
+    <String>Fazenda hidropônica em níveis</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TiredHydroponicFarm_ShortDec</Label>
+    <String>Aumenta a alimentação mundial.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AutomatedHydroponicFarm_Name</Label>
+    <String>Fazenda Hidropônica Automatizada</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AutomatedHydroponicFarm_ShortDec</Label>
+    <String>Aumenta a alimentação mundial.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BirthingPools_Name</Label>
+    <String>Piscinas de Parto</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BirthingPools_ShortDec</Label>
+    <String>Aumenta a taxa de crescimento populacional de um planeta.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Hotsprings_Name</Label>
+    <String>Fontes termais</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Hotsprings_ShortDec</Label>
+    <String>Aumenta o moral do mundo</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HealingWater_Name</Label>
+    <String>Água de cura</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HealingWater_ShortDec</Label>
+    <String>Aumenta o moral mundial</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WealnessFalls_Name</Label>
+    <String>Cascatas do Bem-estar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WealnessFalls_ShortDec</Label>
+    <String>Aumenta o moral mundial</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CleansingTide_Name</Label>
+    <String>Maré de Limpeza</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CleansingTide_ShortDec</Label>
+    <String>Aumenta o moral mundial</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NavigationCenter_Name</Label>
+    <String>Centro de navegação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>NavigationCenter_ShortDec</Label>
+    <String>Aumentar os movimentos de todos os navios.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalacticNavigationNetwork_Name</Label>
+    <String>Rede Galáctica de Navegação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalacticNavigationNetwork_ShortDec</Label>
+    <String>Aumenta os movimentos de todos os navios.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalacticNavigatorsGuild_Name</Label>
+    <String>Guilda Galáctica de Navegadores</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>GalacticNavigatorsGuild_ShortDec</Label>
+    <String>Aumenta os movimentos de todos os navios.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WeatherControlCenter_Name</Label>
+    <String>Centro de Controle Climático</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WeatherControlCenter_ShortDec</Label>
+    <String>Aumenta um Planeta em geral, aumentando o moral, diminuindo a Manutenção e aumentando a Produção.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WeatherControlZenith_Name</Label>
+    <String>Controle Climático Zenith</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WeatherControlZenith_ShortDec</Label>
+    <String>Aumenta um Planeta em geral, aumentando o moral, diminuindo a Manutenção e aumentando a Produção.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TempleofValor_Name</Label>
+    <String>Templo de Valor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TempleofValor_ShortDec</Label>
+    <String>Aumenta a capacidade das colônias de resistir à invasão.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>StellarForge_Name</Label>
+    <String>Forja Estelar</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>StellarForge_ShortDec</Label>
+    <String>Aumenta os Hitpoints, e diminui a manutenção de todos os estaleiros navais patrocinados construídos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumRefinery_Name</Label>
+    <String>Refinaria de Durantium</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DurantiumRefinery_ShortDec</Label>
+    <String>Gera pontos de fabricação por turno, mas requer Durantium para construir.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumDataArchive_Name</Label>
+    <String>Arquivo de Dados Thulium</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumDataArchive_ShortDec</Label>
+    <String>Gera Pontos de Pesquisa por turno, mas requer Thulium para construir.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionReserve_Name</Label>
+    <String>Reserva de Promethion</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionReserve_ShortDec</Label>
+    <String>Gera Créditos por turno, mas requer a Promethion para construir.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AntimatterPowerPlant_Name</Label>
+    <String>Usina de Antimatéria</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AntimatterPowerPlant_ShortDec</Label>
+    <String>Aumenta muito as habilidades de todas as Melhorias Adjacentes a ela, mas requer Antimatéria para construir.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionPleasurePark_Name</Label>
+    <String>Parque do Prazer Promethion</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PromethionPleasurePark_ShortDec</Label>
+    <String>Aumenta muito a moral de uma colônia, mas requer Promethion para construir.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MissionaryCenter_Name</Label>
+    <String>Centro Missionário</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MissionaryCenter_ShortDec</Label>
+    <String>Impulsiona a influência de um planeta e gera pontos de Ideologia Benevolente.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ElevationFoundation_Name</Label>
+    <String>Fundação de Elevação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ElevationFoundation_ShortDec</Label>
+    <String>Impulsionar o moral da colônia enquanto gera um ponto de ideologia benevolente a cada 10 turnos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TempleofEnlightenment_Name</Label>
+    <String>Templo do Iluminismo</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TempleofEnlightenment_ShortDec</Label>
+    <String>Aumenta a pesquisa da colônia enquanto gera um ponto de ideologia benevolente a cada 5 turnos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PreparednessCenter_Name</Label>
+    <String>Centro de preparação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PreparednessCenter_ShortDec</Label>
+    <String>Impulsiona a Defesa Planetária e gera 1 ponto de Ideologia Pragmática a cada 10 turnos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ArbitrationCenter_Name</Label>
+    <String>Centro de Arbitragem</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ArbitrationCenter_ShortDec</Label>
+    <String>Aumenta o turismo e a influência no mundo.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IntimidationCenter_Name</Label>
+    <String>Centro de Intimidação</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IntimidationCenter_ShortDec</Label>
+    <String>Suprime os descontentes e gera pontos de Ideologia Malévola.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CitadelofRevenue_Name</Label>
+    <String>Cidadela da Receita</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CitadelofRevenue_ShortDec</Label>
+    <String>Aumenta muito a renda de um planeta e gera pontos de Ideologia Malévola.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DeathFurnace_Name</Label>
+    <String>Fornos de Morte</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DeathFurnace_ShortDec</Label>
+    <String>Aumenta a produção global de um mundo e gera pontos de Ideologia Malévola a cada 5 turnos.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AquaticBiospheres1_Name</Label>
+    <String>Biosferas aquáticas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AquaticBiospheres1_ShortDec</Label>
+    <String>Terraformar qualquer ladrilho único restante salvável.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AquaticBiospheres2_Name</Label>
+    <String>Biosferas aquáticas avançadas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AquaticBiospheres2_ShortDec</Label>
+    <String>Terraformar qualquer ladrilho único restante salvável.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AquaticBiospheres3_Name</Label>
+    <String>Biosferas Ultra Aquáticas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AquaticBiospheres3_ShortDec</Label>
+    <String>Terraformar qualquer ladrilho único restante salvável, em cada uma de suas colônias.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AidEconomy_Name</Label>
+    <String>Ajuda Econômica</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AidEconomy_ShortDec</Label>
+    <String>Fornece 50 créditos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AidEconomy_Dec</Label>
+    <String>Fornece 50 créditos</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AidResearch_Name</Label>
+    <String>Ajuda à Pesquisa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AidResearch_ShortDec</Label>
+    <String>Fornece 25 pesquisas</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AidResearch_Dec</Label>
+    <String>Fornece 25 pesquisas</String>
+  </StringTable>
+ 
+</StringTableList>

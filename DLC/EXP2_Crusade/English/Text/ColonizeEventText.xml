@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- ColonizeEventText.xml -->
+ 
+  <StringTable>
+    <Label>PodsEvent_Name</Label>
+    <String>Pods</String>
+  </StringTable>
+  <StringTable>
+    <Label>PodsEvent_Dec</Label>
+    <String>Nossos batedores relatam que porções significativas do planeta são habitadas por uma criatura senciente como uma vagem. Estas cápsulas se unem a outras vidas sencientes. Aqueles que estão ligados por estas cápsulas experimentam dores físicas significativas em todos os momentos, mas têm uma inteligência maior. Quais são suas ordens?</String>
+  </StringTable>
+  <StringTable>
+    <Label>PodsEvent_Title</Label>
+    <String>Evento de colonização</String>
+  </StringTable>
+  <StringTable>
+    <Label>PodsEvent_Benevolent_Bonus_Name</Label>
+    <String>Manter nosso povo afastado dessas coisas. Ninguém deveria ter que viver em agonia.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PodsEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolente</String>
+  </StringTable>
+  <StringTable>
+    <Label>PodsEvent_Neutral_Bonus_Name</Label>
+    <String>Incentivar nosso povo a fazer uso das cápsulas, mas não forçar ninguém.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PodsEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmática, +10% Pesquisa</String>
+  </StringTable>
+  <StringTable>
+    <Label>PodsEvent_Merciless_Bonus_Name</Label>
+    <String>Excelente! Exige que todos os colonos sejam 'introduzidos' a estas cápsulas!</String>
+  </StringTable>
+  <StringTable>
+    <Label>PodsEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolo, +10% Pesquisa</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SentientPlanetEvent_Name</Label>
+    <String>Planeta Senciente</String>
+  </StringTable>
+  <StringTable>
+    <Label>SentientPlanetEvent_Dec</Label>
+    <String>Seus cientistas lhe dizem que há algo de estranho neste planeta. "Ele fala conosco", explicam eles. "Isso é estranho". Os planetas não deveriam fazer isso". Embora o planeta pareça desinteressado em seus assuntos do dia-a-dia, talvez seja possível comunicar-se com ele ainda mais. Quais são suas ordens?</String>
+  </StringTable>
+  <StringTable>
+    <Label>SentientPlanetEvent_Title</Label>
+    <String>Evento de colonização</String>
+  </StringTable>
+  <StringTable>
+    <Label>SentientPlanetEvent_Benevolent_Bonus_Name</Label>
+    <String>Você começa a se comunicar com o planeta. Acontece que o planeta é realmente tedioso, e todas as suas histórias são sobre sujeira e levam uma eternidade para serem contadas. No entanto, seus pesquisadores conseguem aprender muito sobre a sujeira.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SentientPlanetEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +10% Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>SentientPlanetEvent_Neutral_Bonus_Name</Label>
+    <String>Desde que o planeta não esteja incomodando ninguém, ele pode fazer o que quiser. Na verdade, vamos ver se conseguimos encontrar alguma forma de transformar isto em uma atração turística.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SentientPlanetEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +25% Tourist Income</String>
+  </StringTable>
+  <StringTable>
+    <Label>SentientPlanetEvent_Merciless_Bonus_Name</Label>
+    <String>Se esta coisa existe há bilhões de anos, ela deve saber muito. Ameace o planeta com mineração de núcleo profundo, a menos que revele seus preciosos segredos planetários.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SentientPlanetEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +20% Research</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EarthquakesEvent_Name</Label>
+    <String>Terremotos</String>
+  </StringTable>
+  <StringTable>
+    <Label>EarthquakesEvent_Dec</Label>
+    <String>No último ano, este planeta tornou-se muito mais tectonicamente ativo, com terremotos regulares e erupções vulcânicas. Por outro lado, isto está trazendo muitos minerais valiosos para a superfície, onde será muito mais fácil extraí-los. No lado negativo, muitas pessoas estão sendo mortas pela lava. Seus engenheiros pensam que podem estabilizar a crosta para deter os terremotos, mas a decisão sobre a sua implementação ainda não foi tomada. Quais são suas ordens?</String>
+  </StringTable>
+  <StringTable>
+    <Label>EarthquakesEvent_Title</Label>
+    <String>Evento de colonização</String>
+  </StringTable>
+  <StringTable>
+    <Label>EarthquakesEvent_Benevolent_Bonus_Name</Label>
+    <String>Não podemos fazer nada que afete a segurança de nosso povo. Estabilizar a crosta. Fazer com que este lugar volte ao normal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EarthquakesEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolentes, -100 Créditos para reparos</String>
+  </StringTable>
+  <StringTable>
+    <Label>EarthquakesEvent_Neutral_Bonus_Name</Label>
+    <String>Não estabilize nada. Comece a mover as pessoas para as estruturas mais seguras. Uma vez feito isso, comece a intensificar nossos esforços de mineração.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EarthquakesEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, -10% Population Growth, +10% Economy, +10% Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>EarthquakesEvent_Merciless_Bonus_Name</Label>
+    <String>Por que mesmo perguntar? Os edifícios podem ser reconstruídos. As pessoas podem ser criadas. Esta colônia é agora um campo de mineração e todos podem simplesmente lidar com ela.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EarthquakesEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, -10% Population Growth, +10% Economy, +10% Manufacturing</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SwampedEvent_Name</Label>
+    <String>Aterrorizado</String>
+  </StringTable>
+  <StringTable>
+    <Label>SwampedEvent_Dec</Label>
+    <String>Ao aterrissar neste mundo, você rapidamente percebe que ele já foi habitado antes. Sob o gelo do norte, os exploradores encontraram uma antiga nave estelar. Eles acreditam que podem libertar a nave do gelo, mas o derretimento resultante inundará grande parte da terra cultivável do planeta, e a mudança climática matará a maioria das espécies nativas únicas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SwampedEvent_Title</Label>
+    <String>Evento de colonização</String>
+  </StringTable>
+  <StringTable>
+    <Label>SwampedEvent_Benevolent_Bonus_Name</Label>
+    <String>Deixar o navio enterrado, ganhando um ladrilho extra para usar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SwampedEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, Gain a Planetary Tile.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SwampedEvent_Neutral_Bonus_Name</Label>
+    <String>Reservar terra interior para criar refúgios para as espécies nativas. Deixar o navio enterrado, mas estudar sua tecnologia.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SwampedEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +10% Research.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SwampedEvent_Merciless_Bonus_Name</Label>
+    <String>Há demasiada vida no universo como ele é, e as naves livres são difíceis de encontrar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SwampedEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, -10% Population Cap, Free Precursor Ship, much of the planet is flooded.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RuinsEvent_Name</Label>
+    <String>Ruínas</String>
+  </StringTable>
+  <StringTable>
+    <Label>RuinsEvent_Dec</Label>
+    <String>As espécies primitivas que ocupam este planeta foram mais uma vez muito mais avançadas tecnologicamente e acidentalmente arruinaram sua civilização em algum tipo de guerra nuclear várias centenas de anos atrás. As cidades arruinadas pontilham o planeta e provavelmente conterão recursos valiosos que poderíamos facilmente reciclar. Mas os nativos consideram estas ruínas como sagradas, e insistem que nos mantenhamos afastados delas. Quais são suas ordens?</String>
+  </StringTable>
+  <StringTable>
+    <Label>RuinsEvent_Title</Label>
+    <String>Evento de colonização</String>
+  </StringTable>
+  <StringTable>
+    <Label>RuinsEvent_Benevolent_Bonus_Name</Label>
+    <String>Não vamos pisar o cemitério de alguém. É claro que respeitaremos os mortos dessas pessoas. Declarar as cidades fora dos limites para o desenvolvimento, e reservar um ou dois para museus ao ar livre para que possamos aprender com os erros dessas pessoas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RuinsEvent_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +10% Influence</String>
+  </StringTable>
+  <StringTable>
+    <Label>RuinsEvent_Neutral_Bonus_Name</Label>
+    <String>Trabalharemos com os habitantes locais para determinar os limites dos locais mais sagrados, mas escavaremos e reciclaremos o resto.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RuinsEvent_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +10% Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>RuinsEvent_Merciless_Bonus_Name</Label>
+    <String>É uma verdadeira vergonha, e prometemos nos sentir mal quando estivermos jogando tudo através dos recicladores.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RuinsEvent_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +10% Manufacturing</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SmartPlants_Name</Label>
+    <String>Plantas inteligentes</String>
+  </StringTable>
+  <StringTable>
+    <Label>SmartPlants_Dec</Label>
+    <String>Há evidências substanciais de que grande parte da vida vegetal neste planeta está se comunicando via feromônios e que pode, de fato, ser senciente. Infelizmente para nós, as plantas mais inteligentes parecem preferir o solo mais fértil, que tínhamos destinado à agricultura. Quais são suas ordens?</String>
+  </StringTable>
+  <StringTable>
+    <Label>SmartPlants_Title</Label>
+    <String>Evento de colonização</String>
+  </StringTable>
+  <StringTable>
+    <Label>SmartPlants_Benevolent_Bonus_Name</Label>
+    <String>Se houver até mesmo uma dica de inteligência senciente, não a mataremos para o nosso bem. Trabalhar em torno das plantas e começar a tentar se comunicar com elas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SmartPlants_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, -10% Food Production, +10% Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>SmartPlants_Neutral_Bonus_Name</Label>
+    <String>As necessidades de nossos colonos têm que vir primeiro. As plantas certamente não cuidarão delas. Ainda assim, tente limitar os danos e estabelecer reservas onde as plantas possam viver sem serem perturbadas por nós.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SmartPlants_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic</String>
+  </StringTable>
+  <StringTable>
+    <Label>SmartPlants_Merciless_Bonus_Name</Label>
+    <String>Se o solo é bom para as plantas, é bom para nós. Arranque-as pelas raízes, ou queime-as se necessário. Vamos ver se eles são espertos o suficiente para impedir isso.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SmartPlants_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +20% Food Production</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Worms_Name</Label>
+    <String>Minhocas</String>
+  </StringTable>
+  <StringTable>
+    <Label>Worms_Dec</Label>
+    <String>A localização de nossa colônia neste planeta é aparentemente a principal área de caça para uma espécie de vermes de tamanho gigantesco, de construção. Esta é de longe a terra mais fértil do planeta, portanto, não queremos nos mover se não for necessário. Mas, por outro lado, os vermes de tamanho gigantesco de construção. Quais são suas ordens?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Worms_Title</Label>
+    <String>Evento de colonização</String>
+  </StringTable>
+  <StringTable>
+    <Label>Worms_Benevolent_Bonus_Name</Label>
+    <String>Os vermes estiveram aqui primeiro. Vamos mudar a colônia para um lugar um pouco mais acomodado. A rocha grossa soa bem. Enquanto isso, estude as minhocas. Mega-Fauna nesta escala são raras, e pode haver algo que possamos aprender com elas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Worms_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, -10% Food Production, +10% Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>Worms_Neutral_Bonus_Name</Label>
+    <String>Os vermes podem ter estado aqui primeiro, mas nós temos armas maiores. Tire nossas estruturas do solo mais exposto e comece a estabelecer defesas contra minhocas e sistemas de alarme para nos proteger de seus ataques.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Worms_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +10% Food Production</String>
+  </StringTable>
+  <StringTable>
+    <Label>Worms_Merciless_Bonus_Name</Label>
+    <String>Vamos encontrar coisas na galáxia muito mais aterrorizantes do que vermes, então não vamos ser tímidos aqui. Declarem guerra aos vermes e levem qualquer de seus tesouros de vermes. Se eles não tiverem nenhum tesouro, vendam sua pele ou algo assim.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Worms_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +20% Food Production, +10% Economy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Disease_Name</Label>
+    <String>Doença</String>
+  </StringTable>
+  <StringTable>
+    <Label>Disease_Dec</Label>
+    <String>Um estranho fungo neste planeta começou a infectar nossos colonos com uma misteriosa doença que parece ser impossível de ser vacinada contra. Embora nossos médicos possam tratar os sintomas com facilidade, eles não têm esperança de encontrar uma cura, e o risco de contágio é alto. Com esta doença nos afligindo, nossa colônia nunca verá seu pleno potencial de crescimento. Quais são suas ordens?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Disease_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+  <StringTable>
+    <Label>Disease_Benevolent_Bonus_Name</Label>
+    <String>Certamente não vamos abater ninguém. Continue tratando os sintomas e estudando a doença. Mesmo que nunca encontremos uma cura, nós mesmos não nos tornaremos monstros.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Disease_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, -10% Population Growth, +10% Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>Disease_Neutral_Bonus_Name</Label>
+    <String>We'll have to quarantine the people who have the disease, and, sadly, prevent them from reproducing. The rest of the colony can continue on as is. We'll set up a room with a nice thick glass wall for families to briefly reunite.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Disease_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, -5% Population Growth</String>
+  </StringTable>
+  <StringTable>
+    <Label>Disease_Merciless_Bonus_Name</Label>
+    <String>Decisões difíceis sempre ficam mais fáceis depois que você as toma. Nossos descendentes nos agradecerão por termos tido a coragem de fazer isto. Se isso ajudar, embebede todos primeiro.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Disease_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>High-GAnimalRacing_Name</Label>
+    <String>Corrida de Animais de Alto G</String>
+  </StringTable>
+  <StringTable>
+    <Label>High-GAnimalRacing_Dec</Label>
+    <String>Os colonos deste planeta levaram à criação e à corrida uma espécie local de animais de quatro patas. No entanto, a dura gravidade do mundo torna as corridas particularmente cansativas, e as filmagens de animais feridos fizeram com que os ativistas dos direitos dos animais ao redor da galáxia exigissem que esta prática bárbara fosse interrompida. Mas se tornou uma grande parte da cultura local, e os colonos não ficarão felizes se acabarmos com as corridas. Quais são suas ordens?</String>
+  </StringTable>
+  <StringTable>
+    <Label>High-GAnimalRacing_Title</Label>
+    <String>Evento de colonização</String>
+  </StringTable>
+  <StringTable>
+    <Label>High-GAnimalRacing_Benevolent_Bonus_Name</Label>
+    <String>É claro que devemos parar qualquer coisa que até mesmo sugira crueldade a outras formas de vida. Parar imediatamente com as corridas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>High-GAnimalRacing_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, -10% Approval</String>
+  </StringTable>
+  <StringTable>
+    <Label>High-GAnimalRacing_Neutral_Bonus_Name</Label>
+    <String>Podemos certamente encontrar algumas maneiras de minimizar os riscos do esporte, o suficiente para parar de cancelá-lo imediatamente. Pistas almofadadas e momentos de silêncio e coisas do gênero.</String>
+  </StringTable>
+  <StringTable>
+    <Label>High-GAnimalRacing_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic</String>
+  </StringTable>
+  <StringTable>
+    <Label>High-GAnimalRacing_Merciless_Bonus_Name</Label>
+    <String>As pessoas deste planeta podem estar a par de algo. Vamos exportar filmagens desta corrida através de nossa civilização para que todos possam desfrutar da excitação. Isso pode até dar um impulso ao setor turístico local.</String>
+  </StringTable>
+  <StringTable>
+    <Label>High-GAnimalRacing_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +30% Tourism</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AlienCulturalTrash_Name</Label>
+    <String>Alien Cultural Trash</String>
+  </StringTable>
+  <StringTable>
+    <Label>AlienCulturalTrash_Dec</Label>
+    <String>Este planeta já foi o lar de uma civilização alienígena que desapareceu mil anos antes. Embora nenhuma de suas tecnologias seja nova para você, muitos de seus produtos de entretenimento permanecem intactos, e são de grande interesse para os colonos. Infelizmente quase todos esses espetáculos e programas são incrivelmente infantis e pueris, apresentando uma infeliz quantidade de piadas sobre orifícios, e os locais de trabalho da colônia estão agora repletos de piadas práticas que se esvaem de produtividade. Quais são suas ordens?</String>
+  </StringTable>
+  <StringTable>
+    <Label>AlienCulturalTrash_Title</Label>
+    <String>Evento de colonização</String>
+  </StringTable>
+  <StringTable>
+    <Label>AlienCulturalTrash_Benevolent_Bonus_Name</Label>
+    <String>Deixe-os em paz. Eles são adultos que podem tomar suas próprias decisões e, pelo menos, isso aumenta o moral.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AlienCulturalTrash_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +10% Approval, -10% Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>AlienCulturalTrash_Neutral_Bonus_Name</Label>
+    <String>Se for popular aqui, pode ser popular em outro lugar. Vamos ao menos tentar distribuir este lixo no mercado aberto.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AlienCulturalTrash_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +10% Approval, -10% Manufacturing, +10% Economy</String>
+  </StringTable>
+  <StringTable>
+    <Label>AlienCulturalTrash_Merciless_Bonus_Name</Label>
+    <String>Não pode haver nada que interfira com a produtividade. Banir o lixo de nossas telas, depois banir todas as telas por completo. Banir o riso por um curto período de tempo para dar uma lição a todos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AlienCulturalTrash_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, -10% Approval, +10% Manufacturing</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AggressiveNatives_Name</Label>
+    <String>Nativos agressivos</String>
+  </StringTable>
+  <StringTable>
+    <Label>AggressiveNatives_Dec</Label>
+    <String>Uma espécie agressiva de quadrúpedes sencientes vive nas florestas e colinas deste planeta. Eles resistiram a todas as tentativas de comunicação com eles, e atacaram incansavelmente sua colônia desde que chegaram. Embora não representem uma ameaça real a você militarmente, eles podem assediar e abater facilmente civis sem guarda, e como acontece tantas vezes quando o risco de abate é não zero, o moral entre os colonos é baixo. Quais são suas ordens?</String>
+  </StringTable>
+  <StringTable>
+    <Label>AggressiveNatives_Title</Label>
+    <String>Evento de colonização</String>
+  </StringTable>
+  <StringTable>
+    <Label>AggressiveNatives_Benevolent_Bonus_Name</Label>
+    <String>Intensificar nossos esforços de alcance nativo. Mesmo que percamos algumas pessoas fazendo isso, este esforço fará de nossa colônia um anúncio para a galáxia do tipo e natureza simpática de nossa cultura.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AggressiveNatives_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, -10% Population Growth, +20% Influence</String>
+  </StringTable>
+  <StringTable>
+    <Label>AggressiveNatives_Neutral_Bonus_Name</Label>
+    <String>Manter nossos colonos sempre atrás de nossas fortificações defensivas. Eles podem não gostar, mas, sem grandes espaços ao ar livre para desfrutar, eles podem pelo menos fazer mais.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AggressiveNatives_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, -10% Approval, +10% Productivity</String>
+  </StringTable>
+  <StringTable>
+    <Label>AggressiveNatives_Merciless_Bonus_Name</Label>
+    <String>O planeta vem com escravos? Excelente!</String>
+  </StringTable>
+  <StringTable>
+    <Label>AggressiveNatives_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, 20% Productivity</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Haunted_Name</Label>
+    <String>Assombrado</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haunted_Dec</Label>
+    <String>Seus colonos relatam uma variedade de estranhos distúrbios. Portas que se abrem e fecham por conta própria. Estranhas luzes durante a noite. Um misterioso buraco no chão que grita. Seus cientistas parecem pensar que a colônia pode estar assombrada. "Construir sobre as ruínas de uma colônia anteriormente fracassada pode ter sido uma má idéia", dizem eles. "Além disso, por baixo dessa colônia havia outra colônia fracassada". Que foi construída sobre um cemitério". Quais são suas ordens?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haunted_Title</Label>
+    <String>Evento de colonização</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haunted_Benevolent_Bonus_Name</Label>
+    <String>Comece a mover a colônia para um lugar menos assombrado. Isto vai custar muito e dificultar a produção por muitos anos, mas o que mais pode ser feito?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haunted_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, -10% Manufacturing, +10% Approval</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haunted_Neutral_Bonus_Name</Label>
+    <String>Os fantasmas não existem. Conserte as portas, conserte as luzes, e coloque algumas tábuas sobre o buraco que grita. Diga a todos para voltarem ao trabalho.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haunted_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +5% Approval</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haunted_Merciless_Bonus_Name</Label>
+    <String>Vamos ao menos usar os fantasmas para alguma coisa. Utilizemo-los para treinar nossos soldados na arte de administrar o medo. Ou simplesmente trancar trabalhadores desobedientes em uma sala com eles para assustá-los a trabalhar mais duro.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Haunted_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +10% Manufacturing, -10% Approval</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PowerfulDrug_Name</Label>
+    <String>Droga poderosa</String>
+  </StringTable>
+  <StringTable>
+    <Label>PowerfulDrug_Dec</Label>
+    <String>As flores de uma planta específica deste planeta são um poderoso intoxicante quando moídas ou fumadas ou inseridas em vários lugares. A droga proporciona uma intensa sensação de contentamento a todos aqueles que a consomem, embora em alguns casos as pessoas tenham se contentado em caminhar diretamente em máquinas poderosas. Quais são suas ordens?</String>
+  </StringTable>
+  <StringTable>
+    <Label>PowerfulDrug_Title</Label>
+    <String>Evento de colonização</String>
+  </StringTable>
+  <StringTable>
+    <Label>PowerfulDrug_Benevolent_Bonus_Name</Label>
+    <String>Não queremos pisar na felicidade das pessoas, mas entrar em máquinas não é bom. Estabelecer programas de tratamento para qualquer um que os queira. E colocar balaustradas em todos os lugares.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PowerfulDrug_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +10% Approval</String>
+  </StringTable>
+  <StringTable>
+    <Label>PowerfulDrug_Neutral_Bonus_Name</Label>
+    <String>Não faz sentido deixar esta oportunidade nas mãos de amadores. Tornar a droga ilegal, mas iniciar esforços de pesquisa para aproveitar seus efeitos farmacêuticos e encontrar usos de mercado para ela.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PowerfulDrug_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, -5% Approval, +10% Economy, +10% Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>PowerfulDrug_Merciless_Bonus_Name</Label>
+    <String>Você diz que eles estão satisfeitos com tudo? Gostam de mais trabalho? Dê a eles a droga para que trabalhem mais duro. As plantas são abundantes? Elas são? Fantásticas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PowerfulDrug_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +10% Productivity</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Comet_Name</Label>
+    <String>Cometa</String>
+  </StringTable>
+  <StringTable>
+    <Label>Comet_Dec</Label>
+    <String>Um cometa reentrou no sistema solar após uma ausência de cinqüenta anos, lançando uma espécie local primitiva em um frenesi. Eles aparentemente adoram este visitante que retorna regularmente como um deus. Entretanto, seus cientistas relatam que este cometa é pelo menos parcialmente artificial, uma relíquia aparentemente deixada na nuvem de Oort por uma espécie avançada. Pode haver algum potencial de resgate nele, desde que, é claro, estejamos dispostos a matar um deus para obtê-lo. Quais são suas ordens?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Comet_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+  <StringTable>
+    <Label>Comet_Benevolent_Bonus_Name</Label>
+    <String>Não vamos lançar estas pobres pessoas em mais confusão do que nossa presença já causou. Estude o cometa remotamente, mas não faça nada para perturbar o objeto.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Comet_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +10% Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>Comet_Neutral_Bonus_Name</Label>
+    <String>Deixaremos o cometa passar pelo sistema sem ser molestado desta vez, mas uma vez que ele não seja mais visível do chão, vá em frente e salvá-lo. Depois, arraste outro para fora da nuvem de Oort e coloque-o na mesma órbita.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Comet_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +10% Research, -100 Credits</String>
+  </StringTable>
+  <StringTable>
+    <Label>Comet_Merciless_Bonus_Name</Label>
+    <String>Matem o deus, depois digam a eles que nós o fizemos. Monte também parte do cometa em um espigão fora de nossa colônia.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Comet_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +10% Research, -20% Approval</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Thunderstorms_Name</Label>
+    <String>Tempestades</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thunderstorms_Dec</Label>
+    <String>Este planeta está passando por um período de intensa atividade trovejante. Isto está afetando algumas ruínas antigas perto de sua colônia, energizando o que se pensava ser pedra inerte, revelando-o como um poderoso artefato alienígena capaz de canalizar a tremenda energia. Às vezes esta energia é canalizada para os corpos de qualquer pessoa que esteja por perto, com consequências previsivelmente confusas. Estudar estas ruínas poderia ser incrivelmente valioso, embora também perigoso para qualquer um que tenha que fazer isso. Quais são suas ordens?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thunderstorms_Title</Label>
+    <String>Evento de colonização</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thunderstorms_Benevolent_Bonus_Name</Label>
+    <String>Não enviaremos ninguém perto daquela coisa. Estas ruínas serão colocadas fora dos limites a todos os exploradores, exceto aos exploradores automatizados.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thunderstorms_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +10% Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thunderstorms_Neutral_Bonus_Name</Label>
+    <String>Desde que os pesquisadores sejam voluntários, não deve haver nenhum problema. Assegurar que todos que se aproximam da coisa entendam o perigo, e fornecer todo o equipamento de segurança necessário, a qualquer custo.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thunderstorms_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +30% Research, -5% Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thunderstorms_Merciless_Bonus_Name</Label>
+    <String>They knew what they were getting into when they were born into this society. Send the science nerds in. Give them all gloves or something.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thunderstorms_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +10% Research, -10% Approval</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SolarFlare_Name</Label>
+    <String>Solar Flare</String>
+  </StringTable>
+  <StringTable>
+    <Label>SolarFlare_Dec</Label>
+    <String>An increased period of solar activity has caused a species of previously dormant insects to suddenly begin swarming, greatly limiting activity in your colony. Your scientists have developed a sonic screen which can kill the insects, but believe there may also be a way to expand the technology to rid the world of the swarm forever. What effects that will have on the ecosystem are as yet unknown. What are your orders?</String>
+  </StringTable>
+  <StringTable>
+    <Label>SolarFlare_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+  <StringTable>
+    <Label>SolarFlare_Benevolent_Bonus_Name</Label>
+    <String>If this technology kills en masse, then we simply won't use it. Put everything behind shutters for awhile. This is simply a part of living on alien planets. In fact, consider advertising this strange event to stir up some increased tourism.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SolarFlare_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, -10% Manufacturing, -10% Approval, +10% Tourism</String>
+  </StringTable>
+  <StringTable>
+    <Label>SolarFlare_Neutral_Bonus_Name</Label>
+    <String>Apply the technology, but only enough for us to continue colony operations unabated.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SolarFlare_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic</String>
+  </StringTable>
+  <StringTable>
+    <Label>SolarFlare_Merciless_Bonus_Name</Label>
+    <String>Murder all the bugs. Murder the big ones and the little ones and especially the medium sized ones. Murder them all and then see how they taste.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SolarFlare_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +20% Food Production</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LeftoverRobots_Name</Label>
+    <String>Leftover Robots</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeftoverRobots_Dec</Label>
+    <String>This planet was once the home of a fairly advanced alien species that created some extremely long lasting sub-sentient AI systems. Something you've done has triggered these systems defensive protocols, and now anyone who ventures outside of the colony is at risk of attack from primitive robotic creatures. What are your orders?</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeftoverRobots_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeftoverRobots_Benevolent_Bonus_Name</Label>
+    <String>So long as we're sure they're subsentient, there's no harm in taking defensive measures to thin out the robots around the colony. Let's just make sure to feel a little guilty about it, and maybe set up a museum to study them.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeftoverRobots_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +10% Research, +10% Influence</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeftoverRobots_Neutral_Bonus_Name</Label>
+    <String>Let's not be bashful here; they're pests and can be treated as such. Kill all the robots and feast on their innards.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeftoverRobots_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +10% Research, +10% Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeftoverRobots_Merciless_Bonus_Name</Label>
+    <String>Yes. Yes! Let's not just kill all the robots. Let's make it a sport. Let's make this planet the galaxy's premier destination for trophy robot hunting.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeftoverRobots_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +30% Tourism</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SwarmLikeFish_Name</Label>
+    <String>Swarm Like Fish</String>
+  </StringTable>
+  <StringTable>
+    <Label>SwarmLikeFish_Dec</Label>
+    <String>On this planet there is a specific species of fish which seems to possess a form of collective intelligence. The fish seem to become more intelligent the larger the group they're in, and in the largest schools can clearly communicate with us, and even seem to understand advanced concepts like space travel and where we're from. The fish also have several concerns about the way our colony is being built. What are your orders?</String>
+  </StringTable>
+  <StringTable>
+    <Label>SwarmLikeFish_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+  <StringTable>
+    <Label>SwarmLikeFish_Benevolent_Bonus_Name</Label>
+    <String>Do everything we can to accommodate the fish, and ensure all future colony development is run by them first. This is their home, and we will benefit more if we're gracious guests. In the meantime, do what we can to study their collectivized intelligence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SwarmLikeFish_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +10% Research, -10% Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>SwarmLikeFish_Neutral_Bonus_Name</Label>
+    <String>Continue to seek the guidance and counsel of the fish, though let's not forget our place here. We're the ones that can actually do space travel.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SwarmLikeFish_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +10% Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>SwarmLikeFish_Merciless_Bonus_Name</Label>
+    <String>Warn the fish that we're not popular in this part of space, and that now they won't be popular either. Enlist them to supplement our defensive perimeter. If anyone invades, get the fish to clog the enemy's guns with their dead.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SwarmLikeFish_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +10% Resistance Bonus</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SuperShark_Name</Label>
+    <String>Super Shark</String>
+  </StringTable>
+  <StringTable>
+    <Label>SuperShark_Dec</Label>
+    <String>The waters of this planet are patrolled by a monstrously large creature, filled with teeth and ill will. It seems to have taken a particular interest in your colony and has already killed many of your colonists with its aforementioned teeth and ill will. Your scientists have come up with a way of destroying the beast -- it's a really big gun -- but aren't sure what effect removing an alpha predator will have on the ecosystem or the impact to our kelp farms. What are your orders?</String>
+  </StringTable>
+  <StringTable>
+    <Label>SuperShark_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+  <StringTable>
+    <Label>SuperShark_Benevolent_Bonus_Name</Label>
+    <String>We can't be reckless here. Tell the scientists to study the creature further, until they can come up with some kind of passive defense. Until then, keep everyone inside.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SuperShark_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, -10% Food, +10% Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>SuperShark_Neutral_Bonus_Name</Label>
+    <String>If the beast is threatening our people we can't let it exist. Destroy the creature and get on with our lives. If it messes up the local ecosystem, we'll just have to deal with it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SuperShark_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, -10% Food Production</String>
+  </StringTable>
+  <StringTable>
+    <Label>SuperShark_Merciless_Bonus_Name</Label>
+    <String>Is there any way to harness the power of this animal? Tell the scientists to invent a cage. Then use that cage to trap the beast and let it loose on anyone that tries to attack us.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SuperShark_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +10% Resistance Bonus, -10% Food Production</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Animalstotame_Name</Label>
+    <String>Animals to tame</String>
+  </StringTable>
+  <StringTable>
+    <Label>Animalstotame_Dec</Label>
+    <String>The terrain of this planet has proven very challenging for our conventional ground vehicles to deal with, and some colonists have begun capturing and taming a hardy local species of marsupial to use for hopping around between buildings and colonies. The animals are well suited for the work, and don't seem to be suffering, but there have been a few accidents, and animal rights activists across the galaxy are demanding the practice be banned. What are your orders?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Animalstotame_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+  <StringTable>
+    <Label>Animalstotame_Benevolent_Bonus_Name</Label>
+    <String>This is shockingly primitive, disrespectful of the inherent rights these beasts have, and looks a bit silly. End the practice at once. Any animals too tame to return to the wild can be kept as pets.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Animalstotame_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +10% Approval</String>
+  </StringTable>
+  <StringTable>
+    <Label>Animalstotame_Neutral_Bonus_Name</Label>
+    <String>If the animals aren't overly suffering, what's the harm? Allow the practice to continue, but at least begin monitoring and regulating it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Animalstotame_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +10% Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Animalstotame_Merciless_Bonus_Name</Label>
+    <String>Would the animals work harder if they were suffering? See if we can find a way to make the animals suffer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Animalstotame_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +15% Manufacturing</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CollapsingIceBridge_Name</Label>
+    <String>Collapsing Ice Bridge</String>
+  </StringTable>
+  <StringTable>
+    <Label>CollapsingIceBridge_Dec</Label>
+    <String>Two continents of this planet are joined by a massive ice bridge, which is beginning to collapse. A number of primitive tribes still make their home on this bridge and are in danger of dying within the next year if they're not relocated. The ice bridge is remote however, and this won't come cheaply. What are your orders?</String>
+  </StringTable>
+  <StringTable>
+    <Label>CollapsingIceBridge_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+  <StringTable>
+    <Label>CollapsingIceBridge_Benevolent_Bonus_Name</Label>
+    <String>We can't let sentient life perish and do nothing to prevent it. Divert all the necessary resources to assist the natives find safety.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CollapsingIceBridge_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, -5% Manufacturing, +10% Approval</String>
+  </StringTable>
+  <StringTable>
+    <Label>CollapsingIceBridge_Neutral_Bonus_Name</Label>
+    <String>We have a hard enough time keeping our own people alive here. And interfering with primitive species always leads to complications.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CollapsingIceBridge_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic</String>
+  </StringTable>
+  <StringTable>
+    <Label>CollapsingIceBridge_Merciless_Bonus_Name</Label>
+    <String>It's time we put these primitives to work for us. Rescue as many as we can, and relocate them to Safety Camps where they can assist with various activities until their debt is paid.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CollapsingIceBridge_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +10% Manufacturing</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WaterReclamation_Name</Label>
+    <String>Water Reclamation</String>
+  </StringTable>
+  <StringTable>
+    <Label>WaterReclamation_Dec</Label>
+    <String>A new source of subterranean water has been discovered which if accessed could dramatically help this colony. The water could be used to boost food production or even just people's quality of life. Baths might be possible again, for example. What are your orders?</String>
+  </StringTable>
+  <StringTable>
+    <Label>WaterReclamation_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+  <StringTable>
+    <Label>WaterReclamation_Benevolent_Bonus_Name</Label>
+    <String>Divert some of the water to food production, but make as much of it available to the people as possible to ease the burden of our colony's onerous water restrictions.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WaterReclamation_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +5% Food Production, +20% Approval</String>
+  </StringTable>
+  <StringTable>
+    <Label>WaterReclamation_Neutral_Bonus_Name</Label>
+    <String>We can't be wasteful with this bounty. Direct all the water to food production.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WaterReclamation_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +10% Food Production</String>
+  </StringTable>
+  <StringTable>
+    <Label>WaterReclamation_Merciless_Bonus_Name</Label>
+    <String>The people will work harder if we can offer extra water as performance incentives. Also, now we can finally afford for people to work up a sweat.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WaterReclamation_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +10% Manufacturing</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Scorpions_Name</Label>
+    <String>Scorpions</String>
+  </StringTable>
+  <StringTable>
+    <Label>Scorpions_Dec</Label>
+    <String>This planet is populated by a species of gigantic subterranean insects that are thankfully normally not hostile to us. Our scientists have identified that the walls of their nests are lined with rare minerals which we could potentially excavate. This will not please the scorpions. What are your orders?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Scorpions_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+  <StringTable>
+    <Label>Scorpions_Benevolent_Bonus_Name</Label>
+    <String>Leave the giant scorpions be. For the obvious reasons, and also because they have become almost mascots of this colony, and anything which disturbs them will only make people unhappy.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Scorpions_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +10% Approval</String>
+  </StringTable>
+  <StringTable>
+    <Label>Scorpions_Neutral_Bonus_Name</Label>
+    <String>We won't risk an all out scorpion war but this is worth studying further. Continue with non-invasive research to find out why and how these beasts are gathering or producing these rare minerals.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Scorpions_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +10% Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>Scorpions_Merciless_Bonus_Name</Label>
+    <String>We shall crush the insects like... insects. Take their valuables and order everyone to wear boots if they're leaving the colony.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Scorpions_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +20% Manufacturing</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MysteriousNatives_Name</Label>
+    <String>Mysterious Natives</String>
+  </StringTable>
+  <StringTable>
+    <Label>MysteriousNatives_Dec</Label>
+    <String>This world has a group of mysterious nomadic natives who carry with them relics far more advanced than the rest of their technology. Their oral history give hints that they arrived here from a long journey some hundreds of years earlier and your scientists get the impression they're a failed colony which has regressed to pre-industrial levels. It's possible some of their relics could be of interest to your researchers, but they're quite valuable to the natives. What are your orders?</String>
+  </StringTable>
+  <StringTable>
+    <Label>MysteriousNatives_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+  <StringTable>
+    <Label>MysteriousNatives_Benevolent_Bonus_Name</Label>
+    <String>Leave the natives and their treasures be. Begin documenting their fascinating oral history however, which may be of interest to others in our culture.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MysteriousNatives_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +10% Influence</String>
+  </StringTable>
+  <StringTable>
+    <Label>MysteriousNatives_Neutral_Bonus_Name</Label>
+    <String>Leave the natives and their treasures be. Continue speaking with them however, to learn any other secrets they might have at how to survive on this world.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MysteriousNatives_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +10% Population Growth</String>
+  </StringTable>
+  <StringTable>
+    <Label>MysteriousNatives_Merciless_Bonus_Name</Label>
+    <String>These fools don't know the power of the trinkets they hold. Take them from them for their own safety, and also, sure, for our benefit.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MysteriousNatives_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +10% Research</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Mutations_Name</Label>
+    <String>Mutations</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mutations_Dec</Label>
+    <String>Despite the equipment and protocols set up to protect against the massive radiation on this planet, mutations are a fact of life for those who live here. The worst and most threatening mutations are dealt with surgically, but cosmetic disfigurements are often left as is, and the colonists simply learn to live with them. But the sight of these mutations are pretty upsetting for anyone who visits from off world, and trade is beginning to suffer. What are your orders?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mutations_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mutations_Benevolent_Bonus_Name</Label>
+    <String>Leave the colonists be. The rest of our civilization will simply have to learn to deal with it.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mutations_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +10% Approval, -10% Local Trade Revenue</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mutations_Neutral_Bonus_Name</Label>
+    <String>Begin encouraging the colonists to be more discreet in their dress and demeanor when dealing with people from off world. This won't make anyone happy, but will at least minimize the downsides for everyone.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mutations_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, -5% Local Approval</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mutations_Merciless_Bonus_Name</Label>
+    <String>This is disgusting, and these freaks will have to learn how to get along with the civilized world. Ban anyone with visible mutations from having an off world facing role. Begin encouraging the development of a hood and cloak economic sector.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mutations_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, -10% Local Approval, +10% Economy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IntelligentRadiation_Name</Label>
+    <String>Intelligent Radiation</String>
+  </StringTable>
+  <StringTable>
+    <Label>IntelligentRadiation_Dec</Label>
+    <String>The intense background radiation of this world occasionally causes strange interference patterns in display screens around your colony, and recently these patterns have shown signs of intelligent thought. Your scientists trace the patterns to crystal outcroppings around your colony. Studying this new form of intelligence could open the door to incredible breakthroughs in the understanding of life. On the other hand, those crystals are pretty valuable looking. What are your orders?</String>
+  </StringTable>
+  <StringTable>
+    <Label>IntelligentRadiation_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+  <StringTable>
+    <Label>IntelligentRadiation_Benevolent_Bonus_Name</Label>
+    <String>We will of course approach something with even the hint of intelligence with the utmost respect. Begin studying the crystals and radiation with an eye towards opening a dialog.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IntelligentRadiation_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +10% Research, +10% Influence</String>
+  </StringTable>
+  <StringTable>
+    <Label>IntelligentRadiation_Neutral_Bonus_Name</Label>
+    <String>It seems unlikely intelligence could exist within a static crystal, but something interesting is going on here. Begin intensive study of the crystals to find out what's happening.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IntelligentRadiation_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +10% Research</String>
+  </StringTable>
+  <StringTable>
+    <Label>IntelligentRadiation_Merciless_Bonus_Name</Label>
+    <String>If the crystals are valuable this is an easy decision. Mine them and sell them. If they fetch a higher price, then sure, claim they're intelligent.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IntelligentRadiation_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +10% Economy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MiningAccidents_Name</Label>
+    <String>Mining Accidents</String>
+  </StringTable>
+  <StringTable>
+    <Label>MiningAccidents_Dec</Label>
+    <String>Your geologists have come across an incredibly rich vein of rare minerals which could dramatically increase the economic output of this colony. Unfortunately, accessing them will be incredibly dangerous work, and even with the use of automated tools, the entire colony will ultimately be more exposed to radioactive elements. What are your orders?</String>
+  </StringTable>
+  <StringTable>
+    <Label>MiningAccidents_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+  <StringTable>
+    <Label>MiningAccidents_Benevolent_Bonus_Name</Label>
+    <String>If it can't be done safely, it can't be done at all. Collect the resources which can be gathered safely, but leave the rest as is.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MiningAccidents_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +10% Economy</String>
+  </StringTable>
+  <StringTable>
+    <Label>MiningAccidents_Neutral_Bonus_Name</Label>
+    <String>Do what we can to extract it safely, using as many automated techniques as possible.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MiningAccidents_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +10% Economy, -5% Population Growth</String>
+  </StringTable>
+  <StringTable>
+    <Label>MiningAccidents_Merciless_Bonus_Name</Label>
+    <String>Mine it all. Rare minerals are rare in a way that people aren't.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MiningAccidents_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +10% Economy, -50% Population Growth</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FunnyTastingFood_Name</Label>
+    <String>Funny Tasting Food</String>
+  </StringTable>
+  <StringTable>
+    <Label>FunnyTastingFood_Dec</Label>
+    <String>Food grown on this planet has to undergo intense treatment to reduce the trace poisons which permeate the world, a process which results in a distinct taste. Locals don't notice anything unusual, but off-world visitors find it exceedingly strange and even exotic tasting. Of late, the outside world has developed a faddish taste for this colony's food, and there has been much demand for the export of it, even to the point of leaving this colony short of food. What are your orders?</String>
+  </StringTable>
+  <StringTable>
+    <Label>FunnyTastingFood_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+  <StringTable>
+    <Label>FunnyTastingFood_Benevolent_Bonus_Name</Label>
+    <String>We need the food more here than elsewhere, though we can at least share the techniques we use to make it so it can be recreated elsewhere.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FunnyTastingFood_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +10% Influence, +10% Approval</String>
+  </StringTable>
+  <StringTable>
+    <Label>FunnyTastingFood_Neutral_Bonus_Name</Label>
+    <String>Well lets not do anything to endanger this colony's health, but beyond that, there's no harm in selling any excess food.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FunnyTastingFood_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +10% Influence, +10% Economy</String>
+  </StringTable>
+  <StringTable>
+    <Label>FunnyTastingFood_Merciless_Bonus_Name</Label>
+    <String>If it's more valuable elsewhere, it shall be sent elsewhere.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FunnyTastingFood_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +10% Economy, -10% Approval, -10% Food Production</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>LeakingSeals_Name</Label>
+    <String>Leaking Seals</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeakingSeals_Dec</Label>
+    <String>A sudden increase in storm activity on this planet has dramatically increased the weathering of the seals on your colony buildings. A new generation of self-healing seals will help minimize the damage, but replacing them all could be pretty expensive. What are your orders?</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeakingSeals_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeakingSeals_Benevolent_Bonus_Name</Label>
+    <String>Our colonists won't be made to suffer for our cheapness. Install the new seals, whatever the cost.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeakingSeals_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, -10% Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeakingSeals_Neutral_Bonus_Name</Label>
+    <String>Let's begin installing the new seals on an attrition basis, as the old ones break down. That should keep everyone safe enough, even if it does make us look cheap.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeakingSeals_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, -5% Approval, -5% Manufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeakingSeals_Merciless_Bonus_Name</Label>
+    <String>We can't afford that. And even if we could, we don't want to coddle these people. They'll never develop a tolerance for poison that way.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeakingSeals_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, -10% Population Growth</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BeautifulSunsets_Name</Label>
+    <String>Beautiful Sunsets</String>
+  </StringTable>
+  <StringTable>
+    <Label>BeautifulSunsets_Dec</Label>
+    <String>The atmosphere of this planet, thick with poisonous particulates, does have the side effect of causing beautiful, even spectacular sunsets, and word has spread through the galaxy of their beauty. A burgeoning tourist industry has developed, resulting in many coughing tourists, ignorant of the dangers of this planet. Your colonists are getting tired of stepping over their bodies. What are your orders?</String>
+  </StringTable>
+  <StringTable>
+    <Label>BeautifulSunsets_Title</Label>
+    <String>Colonizing Event</String>
+  </StringTable>
+  <StringTable>
+    <Label>BeautifulSunsets_Benevolent_Bonus_Name</Label>
+    <String>Begin heavily regulating this new industry. We can't establish a reputation for killing our guests, even if it does limit the number which ultimately come.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BeautifulSunsets_Benevolent_Bonus_Dec</Label>
+    <String>+10 Benevolent, +10% Tourism</String>
+  </StringTable>
+  <StringTable>
+    <Label>BeautifulSunsets_Neutral_Bonus_Name</Label>
+    <String>Ensure that all tourists who arrive are informed of the danger, and provide training courses and safety gear for anyone who needs them. But they're adults who can take their own risks.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BeautifulSunsets_Neutral_Bonus_Dec</Label>
+    <String>+10 Pragmatic, +10% Tourism, -5% Approval</String>
+  </StringTable>
+  <StringTable>
+    <Label>BeautifulSunsets_Merciless_Bonus_Name</Label>
+    <String>If those idiots want to choke on a sunset, why should we stop them? Hell, let's advertise for more of them to come, and also begin charging a coughing tax.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BeautifulSunsets_Merciless_Bonus_Dec</Label>
+    <String>+10 Malevolent, +10% Tourism, -10% Approval</String>
+  </StringTable>
+ 
+ 
+</StringTableList>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- DLC12_AbilityText.xml -->
+ 
+  <StringTable>
+    <Label>ImperialAbility_Name</Label>
+    <String>Imperial</String>
+  </StringTable>
+  <StringTable>
+    <Label>ImperialAbility_ShortName</Label>
+    <String>Imperial</String>
+  </StringTable>
+  <StringTable>
+    <Label>ImperialAbility_Dec</Label>
+    <String>Os navios em seu território ganham Hit Points adicionais por colônia controlada</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RavenousAbility_Name</Label>
+    <String>Ravenous</String>
+  </StringTable>
+  <StringTable>
+    <Label>RavenousAbility_ShortName</Label>
+    <String>Ravenous</String>
+  </StringTable>
+  <StringTable>
+    <Label>RavenousAbility_Dec</Label>
+    <String>Recebe alimentos frescos de cada batalha vitoriosa. (Despojos depois de 25 turnos, se não forem utilizados).</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ChaoticAbility_Name</Label>
+    <String>Caótico</String>
+  </StringTable>
+  <StringTable>
+    <Label>ChaoticAbility_ShortName</Label>
+    <String>Caótico</String>
+  </StringTable>
+  <StringTable>
+    <Label>ChaoticAbility_Dec</Label>
+    <String>Ganhe duas tecnologias aleatórias grátis no início de cada era tecnológica, começando com a Era da Guerra.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MitoticAbility_Name</Label>
+    <String>Mitosis</String>
+  </StringTable>
+  <StringTable>
+    <Label>MitoticAbility_ShortName</Label>
+    <String>Mitosis</String>
+  </StringTable>
+  <StringTable>
+    <Label>MitoticAbility_Dec</Label>
+    <String>Recebe um administrador gratuito para cada colônia existente nas proximidades ao colonizar um novo mundo.</String>
+  </StringTable>
+ 
+</StringTableList>

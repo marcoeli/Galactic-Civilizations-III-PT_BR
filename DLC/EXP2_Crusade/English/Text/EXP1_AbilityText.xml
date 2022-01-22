@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- AbilityText.xml -->
+ 
+<!-- Abilities Traits -->
+ 
+  <StringTable>
+    <Label>EXP1_Ability_Place_Holder_Name</Label>
+    <String>This is hear to overright the stings from the core game.</String>
+  </StringTable>
+ 
+</StringTableList>

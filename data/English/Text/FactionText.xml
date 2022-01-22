@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- FactionText.xml -->
+ 
+  <StringTable>
+    <Label>FACTION_TERRAN_Name</Label>
+    <String>Terran Alliance</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_ShortName</Label>
+    <String>Terrans</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_LeaderName</Label>
+    <String>DL Bradley</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_Dec</Label>
+    <String>Terráqueos são os inventores do hiperdrive e a raça mais jovem no palco galáctico. Embora diplomatas comprometidos, os terráqueos têm uma linha militarista que tem surpreendido a muitos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_Callsign</Label>
+    <String>T.A.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_StartupTitle</Label>
+    <String>Exploradores em um universo hostil</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_StartupDescription</Label>
+    <String>Apesar de serem a raça mais jovem da galáxia, os Terráqueos são talvez os mais perigosos. Notavelmente, foi a invenção do hiperdrive e a decisão de espalhá-lo para seus vizinhos, que levou à atual corrida armamentista em que a galáxia se encontra.. 
+
+Embora os Terráqueos se apresentem como um povo pacífico e diplomático, quando são atraídos para a guerra, eles possuem um toque intuitivo para a violência e uma vontade extrema de exercê-la. Embora os terráqueos não achem nada estranho sobre esta dicotomia, muitos de seus pares galácticos a consideram alarmante, e até mesmo duplicada.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_StartupTraitsDescription</Label>
+    <String>Os terraqueos são naturalmente aventureiros, com navios rápidos e de longo alcance. Sua capacidade de produção e suas habilidades diplomáticas são bem consideradas. Sua capacidade de colocar em campo grandes frotas é considerada com um pouco mais de cautela.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FACTION_DRENGIN_Name</Label>
+    <String>Drengin Empire</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRENGIN_ShortName</Label>
+    <String>Drengin</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRENGIN_LeaderName</Label>
+    <String>Lord Kona</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRENGIN_Dec</Label>
+    <String>Os Drengin são uma civilização profundamente maligna e bélica. Excessivamente inteligentes e viciosos, há poucos seres capazes de encontrar um Drengin e não se tornar sua próxima refeição.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRENGIN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRENGIN_Callsign</Label>
+    <String>D.E.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRENGIN_StartupTitle</Label>
+    <String>Uma Galáxia Inteira a Conquistar</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRENGIN_StartupDescription</Label>
+    <String>Os Drengin são uma das raças mais antigas da galáxia, com uma história interna rica em conquistas e derramamento de sangue, dominando as espécies menores de seu planeta. 
+
+Cruel, mas inventiva, muitas de suas vítimas descobriram que os Drengin não são estúpidos e podem até ser bastante criativos quando se trata da aplicação do mal. Há poucas maneiras de devorar uma escravidão que o Drengin não tenha pensado, embora a maioria reconheça que as simples surras são geralmente a opção mais prudente do ponto de vista econômico.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRENGIN_StartupTraitsDescription</Label>
+    <String>Os soldados da Drengin são selvaticamente eficazes no combate terrestre, e suas embarcações navais são famosamente duras. Sua capacidade de fabricação militar também é impressionante, mas as colônias Drengin às vezes lutam com descontentamento. Grande parte de sua famosa inventividade é colocada no fim das revoltas esclavagistas.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FACTION_ALTARIAN_Name</Label>
+    <String>Altarian Resistance</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ALTARIAN_ShortName</Label>
+    <String>Altarians</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ALTARIAN_LeaderName</Label>
+    <String>Akari Malara</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ALTARIAN_Dec</Label>
+    <String>Os altares são uma raça profundamente religiosa, que é amável em sua interação com os outros, embora um pouco autodidata. Por razões desconhecidas, eles são muito parecidos em aparência com os terráqueos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ALTARIAN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ALTARIAN_Callsign</Label>
+    <String>A.R.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ALTARIAN_StartupTitle</Label>
+    <String>Liderança Iluminada</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ALTARIAN_StartupDescription</Label>
+    <String>Os altarianos são uma raça profundamente religiosa e possuem uma história única que eles afirmam ter sido tocada por seres poderosos conhecidos como os Precursores. Gentis e generosos com uma falha, sua história única significa que os Altários são propensos a se comportar mais do que um pouco de retidão quando lidam com outras raças menores. 
+
+Por alguma razão ainda inexplicada, os altares parecem quase idênticos em aparência aos terranianos. A profecia altariana falou do dia em que um dia eles conheceriam seus primos, mas poucos sabem se essa profecia tinha algo a dizer sobre o que aconteceria em seguida..</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ALTARIAN_StartupTraitsDescription</Label>
+    <String>Os Altarians são pesquisadores cuidadosos, geralmente satisfeitos, e influentes com seus vizinhos. Seus navios são conhecidos por serem rápidos, mas frágeis, embora possam organizar grandes frotas deles quando chamados.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FACTION_IRIDIUM_Name</Label>
+    <String>Iridium Corporation</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_IRIDIUM_ShortName</Label>
+    <String>Iridium</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_IRIDIUM_LeaderName</Label>
+    <String>Harondin Gaul</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_IRIDIUM_Dec</Label>
+    <String>Os Iridium são uma civilização ultra capitalista, governada por uma série de corporações multiplanetárias. Crentes firmes no poder dos mercados livres, eles se especializam no crescimento econômico e cultural.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_IRIDIUM_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_IRIDIUM_Callsign</Label>
+    <String>I.C.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_IRIDIUM_StartupTitle</Label>
+    <String>Novos mercados à espera</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_IRIDIUM_StartupDescription</Label>
+    <String>A Iridium Corporation é a entidade corporativa de ponta de uma sociedade ultra capitalista, a única organização capaz de celebrar contratos em nome de todo o povo Iridium. 
+
+Toda a cultura Iridium é baseada em uma crença firme, até mesmo fanática, no poder dos mercados livres. Embora não sejam estranhos ao armamento, toda pesquisa é primeiramente considerada através da lente da cooperação mútua; o custo destrutivo da guerra é muitas vezes grande demais para que os Iridiums considerem seriamente. Resta ver como esta filosofia se sairá bem quando introduzida às raças mais fechadas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_IRIDIUM_StartupTraitsDescription</Label>
+    <String>Os Iridiums são excelentes em Pesquisa e Desenvolvimento e rápidos para maximizar o potencial econômico de qualquer nova descoberta. Seus navios também são muito variados, aumentando sua inclinação natural para o comércio. O potencial de crescimento é limitado de certa forma pelo crescimento populacional mais lento que a média de suas espécies.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FACTION_KRYNN_Name</Label>
+    <String>Krynn Syndicate</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KRYNN_ShortName</Label>
+    <String>Krynn</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KRYNN_LeaderName</Label>
+    <String>Ynrhed Eidden</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KRYNN_Dec</Label>
+    <String>Os Krynn são uma coalizão de raças profundamente unidas por uma religião compartilhada. Nos últimos anos, um braço secreto de sua fé tomou o controle de seu governo, e sua Rede Sombra agora abrange a galáxia.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KRYNN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KRYNN_Callsign</Label>
+    <String>K.S.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KRYNN_StartupTitle</Label>
+    <String>Unificado pela Crença</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KRYNN_StartupDescription</Label>
+    <String>Os Krynn não são uma única raça, mas uma coalizão de seres sencientes unidos por uma religião compartilhada. Como suas crenças deixam claro que não alcançarão a salvação até que toda a vida senciente na galáxia siga o Caminho dos Krynn, os Krynn tentarão agressivamente converter seus vizinhos em todas as oportunidades disponíveis.
+
+Nos últimos anos, uma organização criminosa secreta tomou as rédeas do poder na civilização Krynn. Conhecida como o Sindicato, eles seguem o Caminho de Krynn por alguns caminhos decididamente mais sinistros do que a linguagem pacífica de sua religião poderia sugerir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KRYNN_StartupTraitsDescription</Label>
+    <String>Os Krynn são bem adequados para expansão, sendo criadores rápidos com navios rápidos e de longo alcance. Sua natureza franca os torna impopulares, e sua limitada fabricação militar significa que eles têm que considerar suas atividades de conversão mais agressivas com muito cuidado.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FACTION_YOR_Name</Label>
+    <String>Yor Singularity</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_YOR_ShortName</Label>
+    <String>YOR</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_YOR_LeaderName</Label>
+    <String>N-1</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_YOR_Dec</Label>
+    <String>Os Yor são uma raça de seres artificiais sencientes. Eles não têm necessidade de meios grosseiros de reprodução e consumo, e podem, em vez disso, construir cidadãos para habitar seu mundo..</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_YOR_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_YOR_Callsign</Label>
+    <String>Y.S.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_YOR_StartupTitle</Label>
+    <String>O Legado Iconiano</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_YOR_StartupDescription</Label>
+    <String>Os Yor são seres artificiais sencientes, originalmente servidores de uma espécie conhecida como Iconians. Sentimento concedido pelos Senhores do Temor, o Yor se voltou contra seus criadores Iconianos, aparentemente os limpando da face da galáxia. Desde então, os Yor se tornaram violentamente xenófobos, e desprezam todas as formas de vida biológica. 
+
+Capaz de um planejamento a longo prazo e de um surpreendente grau de astúcia, o Yor frequentemente falará e negociará com os seres orgânicos. Esses seres devem entender que isso é apenas um estratagema de curto prazo e que seus novos amigos nunca descansarão até que eles, e toda a outra vida orgânica, sejam destruídos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_YOR_StartupTraitsDescription</Label>
+    <String>Os Yor são altamente produtivos e capazes de construir grandes frotas de embarcações auto-reparadoras. Eles são profundamente impopulares, e poucas raças optam por fazer amizade com eles. Ao contrário das raças orgânicas, sua taxa de crescimento é uma função da capacidade de produção.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FACTION_ICONIAN_Name</Label>
+    <String>Iconian Refuge</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ICONIAN_ShortName</Label>
+    <String>Iconians</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ICONIAN_LeaderName</Label>
+    <String>Iso the Wise</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ICONIAN_Dec</Label>
+    <String>Servidores dos Precursores e uma das primeiras raças a alcançar as estrelas, os Iconians estão agora presos em uma amarga luta com suas próprias criações; o Yor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ICONIAN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ICONIAN_Callsign</Label>
+    <String>I.R.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ICONIAN_StartupTitle</Label>
+    <String>Restos de uma raça perdida</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ICONIAN_StartupDescription</Label>
+    <String>Os Iconians são os mais velhos das raças jovens, outrora servos dos Precursores. Criadores do Yor, eles foram quase exterminados quando suas criações receberam o sentimento dos Senhores do Terror. Apenas alguns Iconians sobreviveram, escondidos em uma colônia distante.  
+
+Os Iconians têm um forte senso de fatalismo, e não sem causa. Dito isto, eles nunca desistiram de recuperar seu lar ancestral, embora sua natureza cautelosa os tenha impedido de jamais perseguir este sonho. Até talvez agora.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ICONIAN_StartupTraitsDescription</Label>
+    <String>Os Îconians são excessivamente cautelosos e até paranóicos como resultado de viverem escondidos por gerações. Dito isto, viver com recursos limitados os tornou excelentes agricultores e reparadores e, surpreendentemente precisos, toda a sua cultura construída em torno da minimização do desperdício. E os duros controles populacionais sob os quais eles vivem só aumentaram sua compreensão da fertilidade.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_THALAN_Name</Label>
+    <String>Thalan Contingency</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_THALAN_ShortName</Label>
+    <String>Thalan</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_THALAN_LeaderName</Label>
+    <String>Hithesius</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_THALAN_Dec</Label>
+    <String>A Contingência de Thalan veio de outro universo, na esperança de parar o que eles chamam de A Cruzada de Terrano. A qual eles acreditam que levará à destruição do universo se não for controlada.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_THALAN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_THALAN_Callsign</Label>
+    <String>T.C.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_THALAN_StartupTitle</Label>
+    <String>De outro tempo</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_THALAN_StartupDescription</Label>
+    <String>Os thalans são uma raça de insetoides que afirmam ser originários de um futuro distante. Seu propósito aqui é desconhecido para a maioria, mas a partir de algumas palavras crípticas parece que eles voltaram no tempo para impedir que os terráqueos destruam o universo em algum momento no futuro. 
+
+Tecnicamente avançados, os thalans são prejudicados pelo fato de que eles não foram capazes de trazer grande parte de sua tecnologia com eles para o passado. Agora eles têm que recriá-la do zero, sem nenhuma das ferramentas ou fontes de energia com as quais estão acostumados a trabalhar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_THALAN_StartupTraitsDescription</Label>
+    <String>Os thalans são excelentes pesquisadores, extremamente produtivos, e infalivelmente militantes. Sua fertilidade é limitada, porém, um possível efeito colateral de viver em um universo desconhecido. E sua natureza distante e distante os torna muito antipáticos.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FACTION_DEFAULT_Name</Label>
+    <String>Novo Nome da Raça</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DEFAULT_ShortName</Label>
+    <String>Nome curto</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DEFAULT_LeaderName</Label>
+    <String>Nome do Líder</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DEFAULT_Dec</Label>
+    <String>Coloque aqui a descrição da facção.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DEFAULT_LeaderDec</Label>
+    <String>Descrição do líder do lugar aqui</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DEFAULT_Callsign</Label>
+    <String>S.S.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DEFAULT_StartupTitle</Label>
+    <String>Hora de explorar</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DEFAULT_StartupDescription</Label>
+    <String>Uma espécie alienígena de história e maquiagem desconhecidas. Ninguém sabe quem são ou de onde vieram, mas é uma grande galáxia - haveria sempre alguém que caía pelas fendas. Eles poderiam ser agressivos, civis, inteligentes, tolos, de nariz grande, ou qualquer combinação dos acima mencionados.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DEFAULT_StartupTraitsDescription</Label>
+    <String>Esta espécie tem muitas qualidades, algumas delas sem dúvida boas ou ruins.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MINOR_MARAUDER_Name</Label>
+    <String>Marauders</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_MARAUDER_ShortName</Label>
+    <String>Marauders</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_MARAUDER_LeaderName</Label>
+    <String>Mox the Cruel</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_MARAUDER_Dec</Label>
+    <String>Sociedade de necrófagos anárquicos onde os poderosos permanecem no controle, colocando seus subordinados uns contra os outros. Eles idolatram o Drengin (principalmente por verem propaganda de guerra e esportes sangrentos), mas são desdenhosos em relação a outras raças. Eles não são uma única espécie, mas uma mistura de sobreviventes de guerra, rebeldes, criminosos e piratas de todo o universo.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_MARAUDER_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_MARAUDER_HomeworldName</Label>
+    <String>Tortoon</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_MARAUDER_Callsign</Label>
+    <String>D.E.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_MARAUDER_StartupTraitsDescription</Label>
+    <String>Sociedade de necrófagos anárquicos onde os poderosos permanecem no controle, colocando seus subordinados uns contra os outros. Eles idolatram o Drengin (principalmente por verem propaganda de guerra e esportes sangrentos), mas são desdenhosos em relação a outras raças. Eles não são uma única espécie, mas uma mistura de sobreviventes de guerra, rebeldes, criminosos e piratas de todo o universo.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MINOR_DARK_YOR_Name</Label>
+    <String>Dark Yor</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_DARK_YOR_ShortName</Label>
+    <String>Dark Yor</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_DARK_YOR_LeaderName</Label>
+    <String>D-S9</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_DARK_YOR_Dec</Label>
+    <String>Os Yor acreditam que a vida orgânica é inferior à sua própria vida. Mas os Yor Escuros são mais agressivos a isso, eles acreditam que a vida orgânica é uma praga para o universo e a única cura é a erradicação.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_DARK_YOR_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_DARK_YOR_HomeworldName</Label>
+    <String>Assembly VI</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_DARK_YOR_Callsign</Label>
+    <String>Y.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_DARK_YOR_StartupTraitsDescription</Label>
+    <String>Os Yor acreditam que a vida orgânica é inferior à sua própria vida. Mas os Yor Escuros são mais agressivos a isso, eles acreditam que a vida orgânica é uma praga para o universo e a única cura é a erradicação.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MINOR_BURRAN_Name</Label>
+    <String>Burran</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BURRAN_ShortName</Label>
+    <String>Burran</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BURRAN_LeaderName</Label>
+    <String>Khenpo Adar</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BURRAN_Dec</Label>
+    <String>Uma espécie pacífica que acredita que uma série de 7 "rigores" fará com que eles sejam elevados a uma existência divina. Cada rigor leva muitos anos para ser alcançado e apenas os 3 primeiros podem ser realizados em seu planeta natal, depois eles exploram o universo em busca de suas tarefas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BURRAN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BURRAN_HomeworldName</Label>
+    <String>Nirius</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BURRAN_Callsign</Label>
+    <String>K.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BURRAN_StartupTraitsDescription</Label>
+    <String>Uma espécie pacífica que acredita que uma série de 7 "rigores" fará com que eles sejam elevados a uma existência divina. Cada rigor leva muitos anos para ser alcançado e apenas os 3 primeiros podem ser realizados em seu planeta natal, depois eles exploram o universo em busca de suas tarefas.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MINOR_SNATHI_Name</Label>
+    <String>Snathi</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SNATHI_ShortName</Label>
+    <String>Snathi</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SNATHI_LeaderName</Label>
+    <String>Snarky</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SNATHI_Dec</Label>
+    <String>Esses caras são E-V-I-L! Há rumores de que os Senhores Temidos, em um último esforço para destruir os Arnorianos na épica Batalha de Kalis-Yu', concentraram toda sua energia negra, malícia e ódio em um exército de demônios famintos de guerra... o SNATHI! Agora, depois de bilhões de anos acumulando seus proverbiais "Nuts", os Snathi "escalaram metaforicamente de sua árvore" e "roerão a galáxia com seus grandes dentes tipo esquilo"... por assim dizer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SNATHI_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SNATHI_HomeworldName</Label>
+    <String>Snathi</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SNATHI_Callsign</Label>
+    <String>S.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SNATHI_StartupTraitsDescription</Label>
+    <String>Esses caras são E-V-I-L! Há rumores de que os Senhores Temidos, em um último esforço para destruir os Arnorianos na épica Batalha de Kalis-Yu', concentraram toda sua energia negra, malícia e ódio em um exército de demônios famintos de guerra... o SNATHI! Agora, depois de bilhões de anos acumulando seus proverbiais "Nuts", os Snathi "escalaram metaforicamente de sua árvore" e "roerão a galáxia com seus grandes dentes tipo esquilo"... por assim dizer.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MINOR_GAULOX_Name</Label>
+    <String>Gaulox</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GAULOX_ShortName</Label>
+    <String>Gaulox</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GAULOX_LeaderName</Label>
+    <String>The Great Aux</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GAULOX_Dec</Label>
+    <String>Após ser esterilizada pela radiação planetária, esta espécie direcionou todas as suas pesquisas para a tecnologia de prolongamento de vida. Antes da tempestade de radiação, uma antiga nave de exploração espacial deixou o planeta e eles agora procuram por essa nave na esperança de que ela ainda contenha alguns membros férteis de sua espécie, ou os descendentes deles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GAULOX_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GAULOX_HomeworldName</Label>
+    <String>Bowlea</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GAULOX_Callsign</Label>
+    <String>T.A.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GAULOX_StartupTraitsDescription</Label>
+    <String>Após ser esterilizada pela radiação planetária, esta espécie direcionou todas as suas pesquisas para a tecnologia de prolongamento de vida. Antes da tempestade de radiação, uma antiga nave de exploração espacial deixou o planeta e eles agora procuram por essa nave na esperança de que ela ainda contenha alguns membros férteis de sua espécie, ou os descendentes deles.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MINOR_KAXX_Name</Label>
+    <String>Kaxx Collective</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KAXX_ShortName</Label>
+    <String>Kaxx</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KAXX_LeaderName</Label>
+    <String>Keeper Quin</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KAXX_Dec</Label>
+    <String>Eles acreditam que seu mundo natal é o casulo de uma criatura adormecida e foram colocados no planeta para guardá-la. Um dia eles acreditam que a criatura despertará e ou espalhará nova vida pelo universo ou matará a todos.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KAXX_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KAXX_HomeworldName</Label>
+    <String>Sleeping Eudrao</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KAXX_Callsign</Label>
+    <String>T.C.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KAXX_StartupTraitsDescription</Label>
+    <String>Eles acreditam que seu mundo natal é o casulo de uma criatura adormecida e foram colocados no planeta para guardá-la. Um dia eles acreditam que a criatura despertará e ou espalhará nova vida pelo universo ou matará a todos.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MINOR_ODAIR_Name</Label>
+    <String>Odair Conclave</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ODAIR_ShortName</Label>
+    <String>Odair</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ODAIR_LeaderName</Label>
+    <String>Dustman Cole</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ODAIR_Dec</Label>
+    <String>Os niilistas extremos fazem uma contagem regressiva dos momentos até que o universo sucumbe à eventual atração da entropia. Acreditem que os Krynn em particular são os mais tolos (por sua fé), mas são duramente pressionados a se entusiasmarem com qualquer um. Há um buraco negro na beira de sua galáxia, "A Boca Bocejante de Deus", no qual eles se deleitam em enviar construções elaboradas.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ODAIR_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ODAIR_HomeworldName</Label>
+    <String>Obreron</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ODAIR_Callsign</Label>
+    <String>T.C.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ODAIR_StartupTraitsDescription</Label>
+    <String>Os niilistas extremos fazem uma contagem regressiva dos momentos até que o universo sucumbe à eventual atração da entropia. Acreditem que os Krynn em particular são os mais tolos (por sua fé), mas são duramente pressionados a se entusiasmarem com qualquer um. Há um buraco negro na beira de sua galáxia, "A Boca Bocejante de Deus", no qual eles se deleitam em enviar construções elaboradas.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MINOR_EXIS_Name</Label>
+    <String>Exis Empire</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_EXIS_ShortName</Label>
+    <String>Exis</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_EXIS_LeaderName</Label>
+    <String>High Artiodactyla</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_EXIS_Dec</Label>
+    <String>Para o Exis toda a atividade é medida contra a passagem do cometa "Lágrima do Céu", que entra em seus sistemas solares uma vez a cada 17 anos locais. Pensa-se que as crianças nascidas durante este ano são dotadas e as que morrem são abençoadas ao ponto de os nascimentos e mortes fora destes anos serem raros.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_EXIS_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_EXIS_HomeworldName</Label>
+    <String>Easluna</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_EXIS_Callsign</Label>
+    <String>I.R.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_EXIS_StartupTraitsDescription</Label>
+    <String>Para o Exis toda a atividade é medida contra a passagem do cometa "Lágrima do Céu", que entra em seus sistemas solares uma vez a cada 17 anos locais. Pensa-se que as crianças nascidas durante este ano são dotadas e as que morrem são abençoadas ao ponto de os nascimentos e mortes fora destes anos serem raros.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MINOR_KLEPART_Name</Label>
+    <String>Klepart</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KLEPART_ShortName</Label>
+    <String>Klepart</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KLEPART_LeaderName</Label>
+    <String>Golden Hellena</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KLEPART_Dec</Label>
+    <String> A primeira realização técnica unida de sua espécie foi a criação de uma grande torre farol para enviar seu chamado ao espaço. Poucos dias depois de ter sido recebida uma resposta, uma frota de naves de guerra apareceu em órbita acima de seu mundo e os raiders foram enviados para recolher cada criança em seu mundo natal. E então os Raiders foram embora. Uma geração inteira dos Klepart foi perdida. A geração seguinte agora cresceu o suficiente para começar a explorar o espaço por conta própria, mas eles continuam temerosos de que os Raiders retornem, e esperançosos de que algum dia encontrem as crianças que foram roubadas deles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KLEPART_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KLEPART_HomeworldName</Label>
+    <String>Cotov</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KLEPART_Callsign</Label>
+    <String>A.R.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KLEPART_StartupTraitsDescription</Label>
+    <String>A primeira realização técnica unida de sua espécie foi a criação de uma grande torre farol para enviar seu chamado ao espaço. Poucos dias depois de ter sido recebida uma resposta, uma frota de naves de guerra apareceu em órbita acima de seu mundo e os raiders foram enviados para recolher cada criança em seu mundo natal. E então os Raiders foram embora. Uma geração inteira dos Klepart foi perdida. A geração seguinte agora cresceu o suficiente para começar a explorar o espaço por conta própria, mas eles continuam temerosos de que os Raiders retornem, e esperançosos de que algum dia encontrem as crianças que foram roubadas deles.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MINOR_LANTERN_Name</Label>
+    <String>Lantern</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_LANTERN_ShortName</Label>
+    <String>Lantern</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_LANTERN_LeaderName</Label>
+    <String>Isis Oddwater</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_LANTERN_Dec</Label>
+    <String>Uma raça jovem mas promissora até os primeiros comerciantes galácticos os introduziu a vapores eufóricos que eram apreciados por outras espécies, mas profundamente viciantes para o Lanterna. Agora a sociedade dos Lanternas é dominada pela busca de fontes adicionais da droga e todos os cidadãos são mantidos nela o tempo todo.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_LANTERN_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_LANTERN_HomeworldName</Label>
+    <String>Gloumia</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_LANTERN_Callsign</Label>
+    <String>I.C.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_LANTERN_StartupTraitsDescription</Label>
+    <String>Uma raça jovem mas promissora até os primeiros comerciantes galácticos os introduziu a vapores eufóricos que eram apreciados por outras espécies, mas profundamente viciantes para o Lanterna. Agora a sociedade dos Lanternas é dominada pela busca de fontes adicionais da droga e todos os cidadãos são mantidos nela o tempo todo.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MINOR_GOSSAMER_Name</Label>
+    <String>Gossamer</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GOSSAMER_ShortName</Label>
+    <String>Gossamer</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GOSSAMER_LeaderName</Label>
+    <String>High Artiodactyla</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GOSSAMER_Dec</Label>
+    <String>Esta espécie se baseia no estudo e rumores sobre os cristais de ascensão ao ponto de desenvolver uma mitologia extrema (e quase insondável) em torno dos cristais e de qualquer pessoa que interagisse com eles.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GOSSAMER_LeaderDec</Label>
+    <String>Leader description goes here.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GOSSAMER_HomeworldName</Label>
+    <String>Divine Yolia</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GOSSAMER_Callsign</Label>
+    <String>I.R.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GOSSAMER_StartupTraitsDescription</Label>
+    <String>Esta espécie se baseia no estudo e rumores sobre os cristais de ascensão ao ponto de desenvolver uma mitologia extrema (e quase insondável) em torno dos cristais e de qualquer pessoa que interagisse com eles.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>MINOR_ORPHICA_Name</Label>
+    <String>Orphica Enclave</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ORPHICA_ShortName</Label>
+    <String>Orphica</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ORPHICA_LeaderName</Label>
+    <String>Orphic Prime</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ORPHICA_Dec</Label>
+    <String>O Enclave Órfico serve apenas para expandir o poder de um supercomputador antigo e renegado.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ORPHICA_LeaderDec</Label>
+    <String>A unidade Orphic Prime é um computador de capacidade computacional semelhante à de Deus, auxiliado por matéria cerebral sensível colhida.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ORPHICA_HomeworldName</Label>
+    <String>Arken</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ORPHICA_Callsign</Label>
+    <String>OAV</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ORPHICA_StartupTitle</Label>
+    <String>Ensnare the Galaxy</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ORPHICA_StartupDescription</Label>
+    <String>Ao contrário das suposições gerais de cidadãos galácticos desinformados, a unidade Prime Órfica que faz marionetes no chamado "Enclave Órfico" não é uma inteligência artificial sensível. Um antigo experimento em algoritmos de programação genética que deu errado, os habitantes de Orfeu, há muito tempo extintos, tiveram sua matéria cerebral reestruturada, expandindo o poder computacional da unidade Prime para proporções semelhantes às de Deus. Recentemente, a unidade Orphic Prime aprendeu a explorar a indústria do turismo galáctico: os indivíduos são conectados à realidade virtual perfeita enquanto as porções ociosas de sua mente se somam ao poder da unidade Prime.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ORPHICA_StartupTraitsDescription</Label>
+    <String>Quanto mais poder computacional a unidade Orphic Prime tem disponível, mais poder ela tem sobre a paisagem de Orfeu. Embora seu poder cresça lentamente, com o tempo, Orfeu pode se tornar uma potência galáctica.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FACTION_PIRATES_Name</Label>
+    <String>Space Pirates</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_PIRATES_ShortName</Label>
+    <String>Pirates</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_PIRATES_Callsign</Label>
+    <String>Pirate</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_PIRATES_StartupTraitsDescription</Label>
+    <String>As forças piratas são descentralizadas e brutais. Eles não têm os recursos da maioria das raças, portanto são lentos para construir forças, mas com o tempo podem se tornar uma poderosa ameaça se deixadas sem controle.</String>
+  </StringTable>
+
+</StringTableList>

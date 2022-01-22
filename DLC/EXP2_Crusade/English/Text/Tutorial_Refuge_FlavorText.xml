@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../data/Schema/FlavorText.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- Tutorial_FlavorText.xml -->
+ 
+  <FlavorTextDef>
+    <InternalName>Refuge_EndingFlavorText_Success</InternalName>
+    <FlavorTextOption>
+      <Text>One of the last remnants of the Terran Alliance has found a safe place to rebuild. If there is any further threat to Earth, humanity will at least have a sanctuary here.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Refuge_EndingFlavorText_Failure</InternalName>
+    <FlavorTextOption>
+      <Text>One of the last remnants of the Terran Alliance has been lost, unable to find a safe place in the Drengin controlled galaxy. 
+
+Only one hope for humanity remains. Their homeworld, Earth, remains safe behind its Precursor shield. But for how long?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_HereToHelp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Fleet Admiral has instructed me to assist you as much as possible. We should be able help you get our new world up and running in no time.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_HereToHelp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Good. Let's get started.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GettingStarted_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We don't have much to work here. Just the planet itself. I suggest we start there.
+
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GettingStarted_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Let's take a look at the planet. [COLOR=UIDefaultHighlight] [ICON=Video_Icon] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GettingStarted_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Managing your colonies is easy.
+
+[ICON=Bullet] Double click on the colony you want to manage or select it in the Planet Context window.
+[ICON=Bullet] Mouse over your Improvements and Planetary Resources to see what they do.
+[ICON=Bullet] You can build New Improvements by selecting them in the Actions list and choosing the tile to build on.
+[ICON=Bullet] You can also rush a project or Improvement if you have the required resources.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GettingStarted_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I want to review the area first.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SurveyShip_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We may only have one ship, but at least it's a useful one.
+
+I would suggest sending it out to survey the area. There is an artifact near the edge of our sensor range that looks promising.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SurveyShip_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>How do I survey anomalies?  [ICON=Video_Icon] [COLOR=UIDefaultHighlight]Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SurveyShip_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Anomalies can be an easy way to find precious resources, credits, or even entire ships. Caution is advised: some anomalies are guarded.
+
+[ICON=Bullet] To survey an Anomaly, simply select a ship that can [COLOR=UIDefaultHighlight]Survey Anomalies[/COLOR] and right click on the Anomaly. 
+[ICON=Bullet] All ships can be moved by right clicking on the target tile. 
+[ICON=Bullet] The Path Preview will let you know how long it will take to reach your destination.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SurveyShip_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I'll take care of it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_WhatToBuild_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What to build to build first on a new colony is always a tough choice. Shipyards let you begin constructing ships. A computer core helps get research going. A Space Elevator helps get manufacturing moving. We have enough money to RUSH any of these projects so that they are constructed in a single week.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_WhatToBuild_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I will feel better with a shipyard in orbit.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_WhatToBuild_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Having our own shipyard will be very helpful. 
+
+To help your shipyard build ships faster, build Planetary Improvements that boost the colony's [COLOR=UIDefaultHighlight]Ship Construction[/COLOR], like Star Ports and Factories.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_WhatToBuild_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I think a Space Elevator is an excellent idea.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_WhatToBuild_Counter2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Investing in the colony itself is always safe.
+
+To help your colony build Improvements and complete projects faster, build Planetary Improvements that boost your [COLOR=UIDefaultHighlight]Social Construction[/COLOR], like Factories and Power Plants.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_WhatToBuild_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I'll build what I want. This isn't my first colony.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ResearhHelp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The entire research team is eager to get to work. There are multiple categories of research to choose from. Each technology makes the next one cost slightly more.
+
+
+
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ResearhHelp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I'd like some advice.  [ICON=Video_Icon] [COLOR=UIDefaultHighlight]Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ResearhHelp_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Research screen lets you easily pick from all the technologies that we can currently pursue.
+
+[ICON=Bullet] Select a field of study in the Available Technologies list to begin researching it.
+[ICON=Bullet] The icons at the bottom of each tech show what that technology will unlock.
+[ICON=Bullet] Technologies can be sorted by category using the Icons at the top of the list.
+[ICON=Bullet] To explore the entire tech tree, click the Tech Tree button. 
+[ICON=Bullet] Selecting a tech further up the tree will automatically queue up the required pre-requisite techs.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ResearhHelp_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I understand what to do.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_AutoSurvey_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Discovery has reached the Anomaly we detected earlier and is reporting that they've discovered something very valuable.
+
+The Commodore of the Discovery has also asked me to remind you that he is perfectly capable of Surveying the area without being micromanaged.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_AutoSurvey_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Are you suggesting I let them Survey on their own?  [ICON=Video_Icon] [COLOR=UIDefaultHighlight]Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_AutoSurvey_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Survey ships can be Automated by selecting [COLOR=UIDefaultHighlight]Survey[/COLOR] from the Command menu of the ship context window.
+
+[ICON=Bullet] Auto Surveying ships will continue to Survey as long as they can find new Anomalies. Though they will stay away from more threatening looking anomalies.
+[ICON=Bullet] You can override an Auto Survey at any time by selecting the ship and giving it a new destination.
+[ICON=Bullet] Most ships have Automatic Behavior options, like Exploring and Guarding, so keep an eye on the command menu for different ships.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_AutoSurvey_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Inform the Discovery that it will go where I want when I want it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_AutoSurveyAlt_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Discovery has reached the Anomaly we detected earlier and is reporting that they've discovered something very valuable.
+
+The Commodore of the Discovery has also asked me to remind you that he is perfectly capable of Surveying the area without being micromanaged.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_AutoSurveyAlt_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Are you suggesting I let them Survey on their own?  [ICON=Video_Icon] [COLOR=UIDefaultHighlight]Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_AutoSurveyAlt_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Survey ships can be Automated by selecting [COLOR=UIDefaultHighlight]Survey[/COLOR] from the Command menu of the ship context window.
+
+[ICON=Bullet] Auto Surveying ships will continue to Survey as long as they can find new Anomalies. Though they will stay away from more threatening looking anomalies.
+[ICON=Bullet] You can override an Auto Survey at any time by selecting the ship and giving it a new destination.
+[ICON=Bullet] Most ships have Automatic Behavior options, like Exploring and Guarding, so keep an eye on the command menu for different ships.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_AutoSurveyAlt_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Inform the Discovery that it will go where I want when I want it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_JennaMessageFrozenFriends_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commodore, as we were leaving the sector our sensors picked up what might have been a very old distress beacon. It's coming from the event horizon of a black hole near you.
+
+You should check this out as soon as possible. The entire reason we chose that world of yours was because it seemed safe. It's best to be sure.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_JennaMessageFrozenFriends_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thanks for the heads up. We'll check it out immediately.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_FortunateColony_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The distress call was a lost colony ship, Commodore, filled with perfectly frozen colonists. This is a lucky find; colony ships can be expensive.
+
+Even better, the ship's navigational records have identified a nearby world perfect for colonization. 
+
+I will leave the decision in your capable hands, but it seems to me two worlds would be better then one.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_FortunateColony_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I'm sure our frosty new friends would welcome a pleasant new home.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_FortunateColony_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thank you for the help, Admiral, but I will do what I like with the new colony ship.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ColonizeFortune_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I am glad you took my advice. Fortune is an impressive world. Had we scouted it out first we certainly would have established your colony there.
+
+We are excited that you have been able to expand so quickly, but I want to caution you not to overreach. Your focus should be on fortifying the sector, not colonizing every half habitable rock.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ColonizeFortune_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I agree completely. But with the resources of two worlds this will be much easier.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_FortuneIdologyEvent_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Sir, we've come across a tricky ideological problem on Fortune.
+
+Our newly thawed colonists think that they should be their own independent colony. 
+
+We explained that they would be trapped on the edge of a black hole without us and our oversight, but some of them aren't listening to reason.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_FortuneIdologyEvent_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Inform them that if they work with us to secure this sector we will give them control of the colony when Admiral Casey returns. [COLOR=BenevolentBlue](Benevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_FortuneIdologyEvent_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We don't really have time to bicker. If they make trouble, arrest them. If not, leave them be. [COLOR=PragmaticGold](Pragmatic +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_FortuneIdologyEvent_Response3_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Round up the troublemakers and put them in jail. If need be, send a few to the black hole without a ship. [COLOR=WarRed](Malevolent +15)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GummyBears_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commodore, we're seeing traces of some strange radio transmissions coming from the other side of that sector. 
+
+Since this sector was assumed to be  empty by our survey team, we think it might be a sign of a previously unknown race. It might be wise to prioritize Researching the [COLOR=UIDefaultHighlight]Universal Translator[/COLOR] technology in case you run into some unexpected neighbors.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GummyBears_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Indeed, we don't need any more surprises.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ReseachUniversalTranslator_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The research team has finished updating our Universal Translators with the latest technologies.
+
+Now that we have the Universal Translator working, we have the option to research Technologies that will help us interact with and trade with other civilizations.
+
+We also have researchers coming up with new economic and governmental theories that they would like to pursue.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ReseachUniversalTranslator_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tell me more about these new theories. [ICON=Video_Icon][COLOR=UIDefaultHighlight] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ReseachUniversalTranslator_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>[ICON=Bullet] The Xeno Commerce branch will lead to technologies that focus on earning valuable Credits through trade with other races and by stimulating our own Economy.
+[ICON=Bullet] Diplomatic Specializations will lead to new forms of government and clever ways to spread our Influence throughout the galaxy.
+[ICON=Bullet] Diplomacy Technologies will help improve relations with other races and unlock new treaties.
+[ICON=Bullet] Espionage Technologies will help us keep an eye on other races without going to war with them, and allow us to train spies that can sabotage their planets or even steal Technologies.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SlyneGreetings_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Greetings, solid one! We have not seen your kind before in this sector.
+
+I am Raz-Spon Erg of the Slyne Swarm. We have heard of your people from the Iconians, with whom we have long traded technology and information.
+
+In particular, your hyperdrive has been a great benefit to us allowing the Slyne to spread beyond our own system.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SlyneGreetings_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It is a great pleasure to meet the Slyne. We hope we can co-exist peacefully.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SlyneGreetings_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excuse me, but I can't get over the fact that you look like a giant gummy bear.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SlyneGreetingsR2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Interesting. My translator tells me that a "bear" is a great and powerful beast from your home world. "Gummy" seems to be a state of matter that is properly and immensely flexible. 
+
+This is a very apt and poetic description of our race. I thank you for the compliment.
+
+We are the Slyne and we will be your new Gummy Bear friends.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SlyneGreetingsR2_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Yes. That is exactly what I meant.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SlyneGreetingsR1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have noticed that you have begun colonizing the sector and want to assure you that we have no objection to this. The Slyne no longer have an obsession with living on balls of rock, even if they are still something useful for mining.
+
+We only ask that you do not infringe on the resources near our world. In exchange for this, we would be more than willing to trade with you if you find yourself short of something valuable.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SlyneGreetingsR1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We are new to the sector and have not yet had time to begin collecting local resources.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SlyneGreetingsR1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>As long as you do not start claiming resources in our system, I'm sure we can work out something.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SlyneGift_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent. 
+
+We have done some tinkering with your clever Hyperdrive technology, and have managed to make it more efficient. It only seems fair that we share this with you. Think of it as a sample of the quality of our technology, should you need to trade anything with us in the future. (Gift: [COLOR=UIDefaultHighlight]  Interstellar Travel[/COLOR])</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SlyneGift_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thank you. That is truly a generous offer.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SlyneResourceHelp1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The Slyne are great engineers. We have found many uses for seemingly useless resources. I myself have an implant in my shoulder made from the brain of a Snuggler. It allows me to smell odors that most races don't even know exist.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SlyneResourceHelp1_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That's... interesting. Do you have any other advice for us? [ICON=Video_Icon][COLOR=UIDefaultHighlight] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SlyneResourceHelp1_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>[ICON=Bullet] To tap a resource, simply build a Starbase nearby and equip the Starbase with a Mining Ring.
+[ICON=Bullet] Durantium is a common resource found in asteroid belts. It is very useful for building large ships.
+[ICON=Bullet] Elierium can be found in nebulae and is useful for building powerful beam weapons.
+[ICON=Bullet] Antimatter nodes can be found on the event horizons of black holes and can be used to make incredibly powerful missile weapons.
+[ICON=Bullet] Thulium can be mined from dense planets near stars. It is perfect for making powerful mass driver weapons.
+[ICON=Bullet] Promethion gas is found on some gas giants and can be very useful for research experiments.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SlyneResourceHelp1_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You know, I think we will get back to you on that. Got to go.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_YouMetTheSlyne_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commodore, my communications officer informs me that you have met the Slyne.
+
+We knew of their existence in this sector, but had been trying to avoid contact with them. 
+
+From what we have been told they are not overtly hostile, but I'd suggest you still do whatever it takes to keep them friendly. We may not be looking for new allies, but we certainly aren't looking for more enemies.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_YouMetTheSlyne_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I was considering opening trade relations with them. Are there any tips you can give me? [ICON=Video_Icon][COLOR=UIDefaultHighlight] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_YouMetTheSlyne_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>[ICON=Bullet] Establish trade routes by building Freighters and sending them to aliens worlds. These will not only bring in credits but build good will between our races.
+[ICON=Bullet] Speak to them directly by clicking on their worlds and choosing "Speak To" in the context window. Or start a conversation with them from the Diplomacy screen.
+[ICON=Bullet] When trading directly with a race, you can make offers for resources, techs, or even ships, so long as you have something they want.
+[ICON=Bullet] You can also make Trade Agreements or even Treaties when speaking to alien races.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_YouMetTheSlyne_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Don't worry, I plan on ignoring them as much as possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_RelicReminder_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commodore, our scouts have discovered the location of a Precursor Relic near the center of the sector. The Research team thinks this would be a very valuable asset, and are concerned because of its close proximity to the Drengin colony.
+
+In the hopes that that we can get to it first, they have managed to piece together a Constructor Ship for you.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_RelicReminder_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Their initiative should be rewarded, give me more details. [ICON=Video_Icon][COLOR=UIDefaultHighlight] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_RelicReminder_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Precursor Relics are rare and ancient technological wonders. Studying them can be beneficial to our entire civilization.
+
+[ICON=Bullet] To study a Precursor relic, simply build a [COLOR=UIDefaultHighlight]Xeno Anthropology[/COLOR] lab on a nearby starbase.
+[ICON=Bullet] Precursor Relics can be studied to give different global Bonuses.
+[ICON=Bullet] There are 5 types of Precursor relics. Research, Economic, Manufacturing, Culture, and Approval.
+[ICON=Bullet] [COLOR=UIDefaultHighlight]Precursor Studies[/COLOR] technologies will unlock new starbase modules that can greatly boost these bonuses.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_RelicReminder_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I'll take care of it myself.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_JennaDrenginWarning_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commodore, I have some bad news. We have detected a newly established Drengin colony on the far side of your sector.
+
+It doesn't look like it has been there long, but I think it would be best if you take care of it before they can fortify the planet.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_JennaDrenginWarning_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We can keep an eye out for them but we have only just begun fortifying our own system.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_JennaDrenginWarning_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thanks for the warning. I'm sure I can manage to silence one Drengin colony.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SendingReinforcments_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>You won't be doing this entirely alone. I'm sending one of our Generals back to you along with a Transport and a few ships to escort it.
+
+It's going to take them a while to get back to you, but they have instructions to follow your orders like they were my own. 
+
+Use them wisely.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_SendingReinforcments_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thank you Admiral. I eagerly await their arrival.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_HereComesTheCalvary_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commodore, the reinforcements that Admiral Casey promised have arrived. They have also sent us the Technology we need to build more Transports if necessary. 
+
+You may want to attack the Drengin world directly with these ships, but I'm sure they would be happier with additional firepower backing them up.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_HereComesTheCalvary_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>It's been a while since I oversaw an invasion. Do you have any advice? [ICON=Video_Icon][COLOR=UIDefaultHighlight] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_HereComesTheCalvary_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>To invade a colonized world, you need 3 things: Transports, Legions, and nerves of steel.
+
+[ICON=Bullet] Transports require the  Planetary Invasion technology to build.  
+[ICON=Bullet] A Transport cannot attack a defended planet so eliminate any defending ships from orbit before invading.
+[ICON=Bullet] Transports get you to a planet, but your Legions do the fighting. The best way to Recruit new Legions is to train your Citizens to be Generals. 
+[ICON=Bullet] Learn new Invasion Strategies to increase your odds of success and help keep your legions alive.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_HereComesTheCalvary_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Excellent! We will eliminate the Drengin colony immediately.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_BuildSpaceElevator_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commodore, everyone seems very happy with the completion of the Space Elevator. 
+
+A Space Elevator is useful to all types of Construction. Factories and Powerplants will also contribute to Construction.
+
+Clustering Improvements of the same type can often result in more efficiency due to Adjacency effects. Some Improvements, like Power Plants, are particularly useful for this.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_BuildSpaceElevator_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tell me more about Adjacency. [ICON=Video_Icon][COLOR=UIDefaultHighlight] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_BuildSpaceElevator_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Where you place your Improvements on a planet can greatly affect the improvements level.
+
+[ICON=Bullet] Some tiles will have special planet features that will boost  the level of certain Improvement types.
+[ICON=Bullet] Some Improvements, like the Colony Capital, can boost the level of any Improvement.
+[ICON=Bullet] You can preview the adjacency effects of an Improvement by selecting the tile you wish to build on and choosing the Improvement from the Actions list.
+[ICON=Bullet] Mouse over an Improvement in the Actions List to see its level bonuses.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_BuildSpaceElevator_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Build Factories next to other Factories when possible. I got it. Go away.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_BuildXenoLab_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>The completion of our new Xeno Laboratory has our scientists requesting more. 
+
+They wanted to remind you that the more Research labs and other Improvements, like Computer Cores we have, the faster we they will be able to research new Technologies. 
+
+I would recommend keeping them happy. Not only are new Technologies useful, we can trade them with others races.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_BuildXenoLab_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That sounds reasonable. Do you have any other advice on Researching? [ICON=Video_Icon][COLOR=UIDefaultHighlight] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_BuildXenoLab_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Researching technologies can be the key to keeping up with our galactic neighbors.
+
+[ICON=Bullet] Building Improvements that increase the Research Output of a planet will greatly improve its research capacity.
+[ICON=Bullet] Citizens like Scientists can increase the Research capacity of a planet even more.
+[ICON=Bullet] Citizen promotions and Planetary projects can be used to give a large burst of research points in an emergency.
+[ICON=Bullet] Some Ideological Traits, Relics, and Technologies can boost the Research capacity of all your worlds.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_BuildXenoLab_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>More Research Improvements, more technologies. Pretty obvious.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ReseachPlanetology_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Now that we have researched Planetology, we have to decide how we focus our future efforts.
+
+We can pursue new ways to grow food on this strange new world of ours. But there are others who think they can find better ways to unlock our colony's potential.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ReseachPlanetology_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What other ideas do they have to pitch? [ICON=Video_Icon][COLOR=UIDefaultHighlight] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ReseachPlanetology_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>[ICON=Bullet] To find new ways to feed our population, focus on Xeno Agriculture. You can even learn how to exploit certain resources to assist you with this.
+[ICON=Bullet] Environmental Engineering helps us find new ways to further terraform our existing worlds. We can make even the least habitable of rocks worth living on.
+[ICON=Bullet] Xeno Adaptation leads to new Technologies that not only make our people more resilient, but allows them to live in even the most extreme environments.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ReseachPlanetology_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I think that's enough for now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_PopulationHelp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>As our colonies grow we will need to find ways to support a larger population. 
+
+For our population to grow we will need to build more cities.
+
+To build more cities we will need more food. We may want to set aside some land for farms. We can always use any excess food to build cities on other colonies.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_PopulationHelp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Do you have any other advice on building up our population? [ICON=Video_Icon][COLOR=UIDefaultHighlight] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_PopulationHelp_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>[ICON=Bullet] Population will grow as long as there is room. To increase the population of a colony, build more cities.
+[ICON=Bullet] Farms produce food, which is required to build cities. If you build a world that specializes in Farming, you can use that food to build cities on other worlds.
+[ICON=Bullet] You can increase the rate your population grows with improvements like hospitals.
+[ICON=Bullet] If your population gets too high, the amount of production you get from them will diminish.
+[ICON=Bullet] Building Morale Improvements like Entertainment Centers for colonies will keep your population happy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_PopulationHelp_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I get it: cities need food and people need cities.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_TrainCitizen_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Citizens are the most precious and powerful resource any Civilization can have. 
+
+They can be trained to do just about anything. Each of our departments would love to have a new citizen on their team. 
+
+They have asked me to point out some of the advantages different Citizens can bring. Would you like me to give you a summary?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_TrainCitizen_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Certainly, give me the highlights. [ICON=Video_Icon][COLOR=UIDefaultHighlight] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_TrainCitizen_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>[ICON=Bullet] Some Citizens, such as Workers and Scientists, can be stationed on planets to give large planetary bonuses.
+[ICON=Bullet] Other Citizens are more military minded. Commanders can be a great assistance to our fleets and Generals are fundamental when it comes to recruiting the Legions required to defend our worlds and conquer others.
+[ICON=Bullet] Citizens can be trained to be spies. They can spy on foreign races and even sabotage their worlds.
+[ICON=Bullet] Most Citizens give bonuses to all our worlds when not assigned to a specific world.
+[ICON=Bullet] Specialized Citizens can be Promoted, for a cost, to play even more roles in our civilization.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_TrainCitizen_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Understood. Citizens are amazing.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_DesignerHelp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commodore, you may know this already, but you can manage, modify, and even create new ship designs in the designer. 
+
+Our engineers have provided you with what they think are the most cutting edge ships our technology can provide. But if you find their work wanting, I would be happy to give you more advice on the matter.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_DesignerHelp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>What have you got for me? [ICON=Video_Icon][COLOR=UIDefaultHighlight] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_DesignerHelp_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>[ICON=Bullet] As you unlock new Technologies, new ship designs will be added and older designs will be updated.
+[ICON=Bullet] You can Favorite a design you want to be able to find quickly.
+[ICON=Bullet] You can view the details on all unlocked designs, even if you don't have the resources to build them.
+[ICON=Bullet] To design new ships, click on the New Design button. To modify an existing design, click the Use Design Button.
+[ICON=Bullet] In Design mode you can make simple changes, like adding weapons or even design new ships from scratch.
+[ICON=Bullet] Click the Get Ship Designs button to choose from thousands of amazing designs available on Steam.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_DesignerHelp_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Not right now.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GovernHelp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I might be able to be of some assistance.
+
+In the Civilization screen, you can find everything you need to oversee our entire Civilization. You can manage our global priorities or give Civilization-wide commands to our colonies and fleets.
+
+Would you like to know more?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GovernHelp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Sure. I could use a little friendly advice on that. [ICON=Video_Icon][COLOR=UIDefaultHighlight] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GovernHelp_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>[ICON=Bullet] The Civilization tab is where you can see an overall summary of our Civilization's assets. 
+[ICON=Bullet] Each specialized Citizen not stationed on a planet will boost the global production of our Civilization. 
+[ICON=Bullet] Leaders are special citizens that can be trained and assigned directly to different production foci.
+[ICON=Bullet] The Colonies list is an easy way to check on the status of each of your worlds.
+[ICON=Bullet] Commands will allow you to give global directives to your fleets, shipyards, and planets.
+[ICON=Bullet] Reports and graphs will help you keep track of your Civilization's growth and standing in the galaxy.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_GovernHelp_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I think I can handle it.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_DiplomacyHelp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have created this simulation to better show our relations with our galactic neighbors.
+
+This can be very useful when deciding who we should befriend and who we would be wise to fear.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_DiplomacyHelp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Interesting. Can you give me more details? [ICON=Video_Icon][COLOR=UIDefaultHighlight] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_DiplomacyHelp_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>[ICON=Bullet] Our Civilization is always at the center of the Simulation.
+[ICON=Bullet] In the upper right corner you can see a race's ranking in the galaxy and assign Diplomats.
+[ICON=Bullet] Races we have moderate relations with will surround us in the grey disk.
+[ICON=Bullet] Races we are at war with will be placed in the red ring on the outside of the simulation.
+[ICON=Bullet] Allies will be shown in a blue disk in the center.
+[ICON=Bullet] Clicking on a race will allow us to see who they are trading with, allied with, or at war with.
+[ICON=Bullet] For more details on our relations with each race, simply mouse over them.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_DiplomacyHelp_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I know how to deal with aliens.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ShipyardHelp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Any ship you have the technology and resources to build are displayed here. You can also, if you have the money, rush-buy them to make them immediately available.
+
+We also have constant requests from the private sector asking us to build ships for private expeditions.
+
+Would you like me to fill you in on the finer points of Shipyard management?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ShipyardHelp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I could probably stand a refresher course. [ICON=Video_Icon][COLOR=UIDefaultHighlight] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ShipyardHelp_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>[ICON=Bullet] All the ship designs from the Designer window will show up in the Shipyard. If you do not have a required resource to build them, they will be grayed out.
+[ICON=Bullet] All Shipyards must have at least one Sponsor planet sending them Ship Construction Points. The more sponsors, the faster a Shipyard will produce ships.
+[ICON=Bullet] If you do not have any ships available, funding private missions can greatly benefit your Civilization.
+[ICON=Bullet] Shipyards can be unanchored and moved slowly around the map to move them closer to Sponsor planets.
+[ICON=Bullet] You can build a new Shipyard quickly with a Constructor in an emergency.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ShipyardHelp_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Shipyards are used to build ships, duh.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_StarbaseHelp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Thanks to recent breakthroughs in Starbase engineering, we no longer need to send out an entire Constructor to a Starbase every time we want to upgrade it.
+
+As long as we have the required resources, the Starbase itself can build new modules at any time.
+
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_StarbaseHelp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>That will certainly make things easier to manage. Can you give me more details? [ICON=Video_Icon][COLOR=UIDefaultHighlight] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_StarbaseHelp_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>[ICON=Bullet] Specializing a Starbase costs nothing, but determines what modules can be added in the future.
+[ICON=Bullet] Economic Starbases can be used to boost the yields of colonies within their area of effect.
+[ICON=Bullet] Mining Starbase are used to tap Interstellar resources.
+[ICON=Bullet] Military Starbase can be used to fortify our planets and borders, giving bonuses to all nearby ships.
+[ICON=Bullet] Culture Starbases can help us spread our influence and even convince alien worlds to join our Civilization.
+[ICON=Bullet] All Starbases, regardless of type, can be equipped with Xeno Archaeology Labs that allows us to study Precursor Relics and Ascension Crystals.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_StarbaseHelp_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I think I can handle it from here.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_IdeologyHelp_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>As we make our way through the galaxy, we find that we have to make a lot of Ideological choices. 
+
+These choices lead to Ideological Traits that can greatly affect our Civilization and how the rest of the galaxy sees us.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_IdeologyHelp_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tell me more about Ideology. [ICON=Video_Icon][COLOR=UIDefaultHighlight] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_IdeologyHelp_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>[ICON=Bullet] Benevolent Ideology traits reward players who want to grow through influence and diplomacy.
+[ICON=Bullet] Pragmatic Ideology traits favor races that want to expand through trade, but are not afraid to go to war when needed.
+[ICON=Bullet] Malevolent Ideology Traits favor races that believe they should do whatever it takes to win, including eradicating anyone that gets in their way.
+[ICON=Bullet] Ideology is not set in stone, but the more decisions you make favoring a single Ideology, the more expensive it becomes to change your mind.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_IdeologyHelp_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I don't need to have Ideology explained to me by a robot.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ReseachColonialSettlements_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Sir, now that we have mastered Colonial Settlements, our Research teams are very divided.
+
+Many of them wish to focus on Technologies that will help us build  ships and colony infrastructure faster.
+ 
+Others insist that we focus on Xeno Experimentation as it will build up our Research capacity.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ReseachColonialSettlements_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>They each make good points, what do you think?  [ICON=Video_Icon][COLOR=UIDefaultHighlight] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ReseachColonialSettlements_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Colonial Settlement technologies focus on ways to make your colonies more useful.
+
+[ICON=Bullet] Xeno Manufacturing leads to Technologies that can greatly increase our colonies' total Construction output. Think better factories and power plants.
+[ICON=Bullet] Advanced resource mining techniques can also be found in in the Xeno Manufacturing Branch of the Tech tree.
+[ICON=Bullet] Xeno Experimentation leads to more advanced Research Labs and Starbase modules.
+[ICON=Bullet] To win a Technological victory, the Xeno Experimentation branch is a must.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ReseachColonialSettlements_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I can make my own research decisions, thanks.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ReseachArtificialGravity_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>We have completed our research in Artificial Gravity. 
+
+Our researchers are very excited because they believe this new Technology will lead to breakthroughs in just about every space-related field of study.
+
+</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ReseachArtificialGravity_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Tell me more about these potential breakthroughs. [ICON=Video_Icon][COLOR=UIDefaultHighlight] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ReseachArtificialGravity_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Artificial Gravity is the key to  more advanced drive modules/systems and better orbital manufacturing techniques.
+
+[ICON=Bullet] Interstellar Travel will lead to faster drives, as well as better ways to survive and exploit deep space.
+[ICON=Bullet] Orbital Manufacturing is the key to building bigger and better starships. 
+[ICON=Bullet] By studying Logistics, we can learn to better manage larger fleets and more efficiently mine Interstellar Resources.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ReseachArtificialGravity_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>No need to explain more.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ReseachMilitarization_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Now that we have researched Militarization, we can truly begin securing this sector.
+
+Militarization is the key to arming and defending our fleets, as well as training our citizens how to command them.
+
+It is also a necessity if we hope to defend our worlds or conquer others.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ReseachMilitarization_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I like having new ways to blow things up. [ICON=Video_Icon][COLOR=UIDefaultHighlight] Show Me[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ReseachMilitarization_Counter1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>[ICON=Bullet] Xeno Combat Techniques leads to new ways to train our Generals and Legions. It's also the key to new invasion Strategies and Planetary Defense systems.
+[ICON=Bullet] Starship Mobilization leads to new ways to better arm and defend our ships and fleets.
+[ICON=Bullet] Choosing which weapons and defenses to research can be greatly influenced by what resources we have access to. 
+[ICON=Bullet] We should watch our enemy's ships to find out what they're researching, so that we can counter their strategy if possible.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_ReseachMilitarization_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I've been blowing things up since before you were programmed. I know what I'm doing.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_WipeOutDrengin_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Congratulations on removing the Drengin from the sector, Commodore. You are well on your way to building us a valuable new colony.
+
+Our fleet will be reaching Earth soon. I don't yet know if this little Backup Plan was necessary, but your efforts will not go unrewarded either way.
+ </Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_WipeOutDrengin_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Just glad that I was able to be of service.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_WipeOutDrengin_Response2_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>I'm eager to put this behind me and return to the actual fight, Admiral.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_FinalMessage_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Commodore, I don't think you have to worry about getting bored. One way or another, I expect this Crusade has only just begun.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_Refuge_FinalMessage_Response1_FlavorText</InternalName>
+    <FlavorTextOption>
+      <Text>Good to hear it, Admiral. We will fight it together.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+ 
+</FlavorTextDefs>

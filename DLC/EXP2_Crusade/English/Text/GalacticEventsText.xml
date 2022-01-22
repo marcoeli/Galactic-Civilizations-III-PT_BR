@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- GalacticEventsText.xml -->
+ 
+  <StringTable>
+    <Label>GoldenAgeEvent_Name</Label>
+    <String>Idade de Ouro</String>
+  </StringTable>
+  <StringTable>
+    <Label>GoldenAgeEvent_Dec</Label>
+    <String>The entire galaxy has entered a new age of prosperity. Businesses are thriving, the standard of living across all civilizations increases at an incredible rate, and tax income everywhere is rolling in. The galaxy's economic experts state: "This is the new normal. Nothing could possibly go wrong!" 
+[COLOR=UIDefaultHighlight]Efeito Global: +20% Economia, todas as raças[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SpawnPirates_Name</Label>
+    <String>Piratas</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpawnPirates_Dec</Label>
+    <String>Um novo elemento, criminoso, começou a ser detectado à margem do espaço.  Piratas.
+
+Estes seres vis perseguem os indefesos e os incautos.  Devemos procurar e destruir seus ninhos sempre que os encontrarmos ou eles se tornarão uma ameaça sempre crescente em nosso comércio.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InfiniteShadesOfInfraredEvent_Name</Label>
+    <String>Tons infinitos de infravermelho</String>
+  </StringTable>
+  <StringTable>
+    <Label>InfiniteShadesOfInfraredEvent_Dec</Label>
+    <String>Os arqueólogos descobriram um romance antigo, que quando traduzido se revelou poderosamente erótico para uma ampla panóplia de espécies. Quando o romance foi divulgado ao público em geral, espalhou-se rapidamente pela galáxia, e agora foi publicado em todas as línguas conhecidas, em alguns casos com ilustrações muito coloridas. O recente pico nas taxas de natalidade é sem precedentes na história galáctica.
+[COLOR=UIDefaultHighlight]Efeito Global: +50% Crescimento, todas as raças[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BooooooooooooEvent_Name</Label>
+    <String>Boo</String>
+  </StringTable>
+  <StringTable>
+    <Label>BooooooooooooEvent_Dec</Label>
+    <String>Em uma colônia estrangeira, um grupo de exploradores ativou um estranho e antigo artefato alienígena que se revelou ser um poderoso transmissor. Seres sencientes por toda a galáxia logo começaram a relatar tanto dores de cabeça quanto uma estranha sensação de descontentamento. Aparentemente, uma super arma destinada a tornar uma população infeliz com seus líderes, foi disparada acidentalmente e levou a tumultos em todo o espaço conhecido.</String>
+  </StringTable>
+<StringTable>
+  <Label>BooooooooooooEvent_Bonus_Dec</Label>
+  <String>[COLOR=UIDefaultHighlight]Efeito Global: -20% Aprovação, todas as raças[/COLOR]</String>
+</StringTable>
+ 
+  <StringTable>
+    <Label>HelpfulDustEvent_Name</Label>
+    <String>Poeira Útil</String>
+  </StringTable>
+  <StringTable>
+    <Label>HelpfulDustEvent_Dec</Label>
+    <String>Uma nuvem de poeira surgiu do espaço profundo, aparentemente ao redor de cada planeta ao mesmo tempo. Consistindo em nanobots semi-sensíveis, visitantes de uma galáxia distante, eles imediatamente começam a ajudar com todo e qualquer projeto de construção orbital em andamento, ajudando todas as raças igualmente, independentemente de suas motivações.</String>
+  </StringTable>
+<StringTable>
+  <Label>HelpfulDustEvent_Bonus_Dec</Label>
+  <String>[COLOR=UIDefaultHighlight]Efeito Global:  Os estaleiros navais são mais eficientes.  (+20% Gastos Militares), todas as raças[/COLOR]</String>
+</StringTable>
+ 
+  <StringTable>
+    <Label>BloodLustEvent_Name</Label>
+    <String>Luxúria de sangue</String>
+  </StringTable>
+  <StringTable>
+    <Label>BloodLustEvent_Dec</Label>
+    <String>Uma doença incrivelmente viral espalhou-se pela galáxia, atacando o cérebro de todos os organismos sencientes. Embora não letal, parece tornar todos aqueles infectados significativamente mais agressivos. Isto tem um efeito mínimo no combate espacial devido a sua dependência de sistemas de computador semi-inteligentes, mas terá um impacto significativo nas formas mais íntimas de combate. E, é claro, todos os diplomatas estão tendo um efeito rude.</String>
+  </StringTable>
+<StringTable>
+  <Label>BloodLustEvent_Bonus_Dec</Label>
+  <String>[COLOR=UIDefaultHighlight]Efeito Global:  +20% Soldagem, -2 Diplomacia, todas as raças[/COLOR]</String>
+</StringTable>
+ 
+  <StringTable>
+    <Label>NeighborsEvent_Name</Label>
+    <String>Vizinhos</String>
+  </StringTable>
+  <StringTable>
+    <Label>NeighborsEvent_Dec</Label>
+    <String>Um orador motivacional se estabeleceu como uma voz proeminente na galáxia, suas vagas soluções para problemas complexos capturando a mente de todos os que o ouvem. Embora nenhum problema real pareça estar sendo resolvido por suas técnicas, as pessoas em cada indústria estão pelo menos se entendendo melhor com seus vizinhos.</String>
+  </StringTable>
+<StringTable>
+  <Label>NeighborsEvent_Bonus_Dec</Label>
+  <String>[COLOR=UIDefaultHighlight]Efeito Global:  +1 para todos os bônus de Adjacência existentes, todas as raças[/COLOR]</String>
+</StringTable>
+ 
+  <StringTable>
+    <Label>GivePeaceAChanceEvent_Name</Label>
+    <String>Dê uma chance à paz</String>
+  </StringTable>
+  <StringTable>
+    <Label>GivePeaceAChanceEvent_Dec</Label>
+    <String>Uma figura misteriosa de uma raça esquecida tem vagueado pela galáxia alertando para os custos terríveis da guerra. Sua mensagem de paz e unidade parece estar criando raízes em todos os que o ouvem, mesmo entre seus vizinhos mais agressivos. Diplomatas de toda a galáxia relatam que seus esforços estão agora encontrando muito mais tração.</String>
+  </StringTable>
+<StringTable>
+  <Label>GivePeaceAChanceEvent_Bonus_Dec</Label>
+  <String>[COLOR=UIDefaultHighlight]Efeito Global:  +1 Diplomacia, todas as raças[/COLOR]</String>
+</StringTable>
+ 
+  <StringTable>
+    <Label>TourismBoonEvent_Name</Label>
+    <String>Boon de Turismo</String>
+  </StringTable>
+  <StringTable>
+    <Label>TourismBoonEvent_Dec</Label>
+    <String>A palavra espalhou-se por toda a galáxia sobre o quão incrível é. Talvez ansiosos para vê-la antes que a guerra consuma tudo, viajantes de todas as raças estão explorando a galáxia e voltando para casa com histórias de suas aventuras. Nossos escritórios de turismo relatam que nunca viram tal interesse de visitantes de fora e nos exortam a fazer tudo o que pudermos para capitalizar sobre ela.</String>
+  </StringTable>
+<StringTable>
+  <Label>TourismBoonEvent_Bonus_Dec</Label>
+  <String>[COLOR=UIDefaultHighlight]Efeito Global:  +50% Renda do turismo, todas as raças[/COLOR]</String>
+</StringTable>
+ 
+  <StringTable>
+    <Label>SlowdownEvent_Name</Label>
+    <String>Desaceleração</String>
+  </StringTable>
+  <StringTable>
+    <Label>SlowdownEvent_Dec</Label>
+    <String>Devido a flutuações misteriosas em uma das dimensões críticas para a formação estável de hiper-campos, as viagens espaciais se tornaram significativamente mais difíceis. Por enquanto, as naves em todos os lugares da galáxia experimentarão velocidades máximas drasticamente reduzidas.</String>
+  </StringTable>
+<StringTable>
+  <Label>SlowdownEvent_Bonus_Dec</Label>
+  <String>[COLOR=UIDefaultHighlight]Efeito Global:  -25% Velocidade do navio, todas as raças[/COLOR]</String>
+</StringTable>
+ 
+ 
+</StringTableList>

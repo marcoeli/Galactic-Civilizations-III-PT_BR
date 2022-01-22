@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- TradeResourceText.xml -->
+ 
+  <StringTable>
+    <Label>ThuliumCatalyst_Name</Label>
+    <String>Thulium Deposit</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumCatalyst_ShortDec</Label>
+    <String>Rare planetary deposit that can be mined for Thulium.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumCatalystL1_Name</Label>
+    <String>Thulium Extractor</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumCatalystL1_ShortDec</Label>
+    <String>Can be used to mine rare deposits of Thulium useful for certain types of weapons and also increases wealth on planet.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumCatalystL2_Name</Label>
+    <String>Thulium Mine</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumCatalystL2_ShortDec</Label>
+    <String>Increase the yields of Thulium Mines.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ThuliumCatalystL3_Name</Label>
+    <String>Advanced Thulium Mine</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumCatalystL3_ShortDec</Label>
+    <String>Increase the yields of Thulium Mines.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CrystallizedElerium_Name</Label>
+    <String>Crystallized Elerium</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrystallizedElerium_ShortDec</Label>
+    <String>Rare planetary deposit that can be mined for Elerium which is used in energy weapons.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CrystallizedEleriumL1_Name</Label>
+    <String>Crystallized Elerium Extractor</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrystallizedEleriumL1_ShortDec</Label>
+    <String>Can be used to mine rare deposits of Crystallized Elerium and increase wealth.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CrystallizedEleriumL2_Name</Label>
+    <String>Crystallized Elerium Mine</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrystallizedEleriumL2_ShortDec</Label>
+    <String>Increase the yields of Crystallized Elerium Mines.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CrystallizedEleriumL3_Name</Label>
+    <String>Advanced Elerium Mine</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrystallizedEleriumL3_ShortDec</Label>
+    <String>Increase the yields of Crystallized Elerium Mines.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrometheusStone_Name</Label>
+    <String>Prometheus Stone</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrometheusStone_ShortDec</Label>
+    <String>Rare planetary deposit of solidified Promethion that can be mined.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrometheusStoneL1_Name</Label>
+    <String>Prometheus Stone Extractor</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrometheusStoneL1_ShortDec</Label>
+    <String>Can be used to mine rare deposits of Prometheus Stone which is also valuable in trade.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrometheusStoneL2_Name</Label>
+    <String>Prometheus Stone Mine</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrometheusStoneL2_ShortDec</Label>
+    <String>Increase the yields of Prometheus Stone Mines.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrometheusStoneL3_Name</Label>
+    <String>Advanced Prometheus Mine</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrometheusStoneL3_ShortDec</Label>
+    <String>Increase the yields of Prometheus Stone Mines.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HeliosOre_Name</Label>
+    <String>Helios Ore</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOre_ShortDec</Label>
+    <String>A beautiful exotic metal popular in many luxury items.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HeliosOreL1_Name</Label>
+    <String>Helios Ore Extractor</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOreL1_ShortDec</Label>
+    <String>A beautiful exotic metal popular in many luxury items.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HeliosOreL2_Name</Label>
+    <String>Helios Mine</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOreL2_ShortDec</Label>
+    <String>A beautiful exotic metal popular in many luxury items.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HeliosOreL3_Name</Label>
+    <String>Advanced Helios Mine</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOreL3_ShortDec</Label>
+    <String>A beautiful exotic metal popular in many luxury items.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperSilicates_Name</Label>
+    <String>Silicates</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicates_ShortDec</Label>
+    <String>This exotic material is useful in constructing powerful research databanks.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperSilicatesL1_Name</Label>
+    <String>Silicate Extractor</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicatesL1_ShortDec</Label>
+    <String>This exotic material is useful in constructing powerful research databanks.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperSilicatesL2_Name</Label>
+    <String>Silicate Mine</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicatesL2_ShortDec</Label>
+    <String>This exotic material is useful in constructing powerful research databanks.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HyperSilicatesL3_Name</Label>
+    <String>Advanced Silicate Mine</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicatesL3_ShortDec</Label>
+    <String>This exotic material is useful in constructing powerful research databanks.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XanthiumDeposit_Name</Label>
+    <String>Xanthium</String>
+  </StringTable>
+  <StringTable>
+    <Label>XanthiumDeposit_ShortDec</Label>
+    <String>A mineral with unusual energy absorption properties, Xanthium is prized by shipbuilders around the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XanthiumDepositL1_Name</Label>
+    <String>Xanthium Extractor</String>
+  </StringTable>
+  <StringTable>
+    <Label>XanthiumDepositL1_ShortDec</Label>
+    <String>This rare metal is prized by shipbuilders around the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XanthiumDepositL2_Name</Label>
+    <String>Xanthium Mine</String>
+  </StringTable>
+  <StringTable>
+    <Label>XanthiumDepositL2_ShortDec</Label>
+    <String>This rare metal is prized by shipbuilders around the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>XanthiumDepositL3_Name</Label>
+    <String>Advanced Xanthium Mine</String>
+  </StringTable>
+  <StringTable>
+    <Label>XanthiumDepositL3_ShortDec</Label>
+    <String>This rare metal is prized by shipbuilders around the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorNanites_Name</Label>
+    <String>Precursor Nanites</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorNanites_ShortDec</Label>
+    <String>These relics of the past are can be found dormant on many worlds in the galaxy, thought to be the remains of some sort of Precursor  system.  Endlessly trying to prepare the galaxy for their lost masters, Precursor Nanites can be an effective ground combat weapon.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorNanitesL1_Name</Label>
+    <String>Precursor Nanites</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorNanitesL1_ShortDec</Label>
+    <String>Tiny machines increase overall planetary production.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorNanitesL2_Name</Label>
+    <String>Precursor Nanites</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorNanitesL2_ShortDec</Label>
+    <String>Tiny machines increase overall planetary production.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PrecursorNanitesL3_Name</Label>
+    <String>Precursor Nanites</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorNanitesL3_ShortDec</Label>
+    <String>Tiny machines increase overall planetary production.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HarmonyCrystals_Name</Label>
+    <String>Harmony Crystal Deposit</String>
+  </StringTable>
+  <StringTable>
+    <Label>HarmonyCrystals_ShortDec</Label>
+    <String>These rare and beautiful Crystals, resonate with a gentle hum that instills a sense of wellbeing in most sentient beings.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HarmonyCrystalsL1_Name</Label>
+    <String>Harmony Crystal Extractor</String>
+  </StringTable>
+  <StringTable>
+    <Label>HarmonyCrystalsL1_ShortDec</Label>
+    <String>These rare and beautiful Crystals, resonate with a gentle hum.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HarmonyCrystalsL2_Name</Label>
+    <String>Harmony Crystal Mine</String>
+  </StringTable>
+  <StringTable>
+    <Label>HarmonyCrystalsL2_ShortDec</Label>
+    <String>These rare and beautiful Crystals, resonate with a gentle hum.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>HarmonyCrystalsL3_Name</Label>
+    <String>Advanced Harmony Crystal Mine</String>
+  </StringTable>
+  <StringTable>
+    <Label>HarmonyCrystalsL3_ShortDec</Label>
+    <String>These rare and beautiful Crystals, resonate with a gentle hum.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TechapodHive_Name</Label>
+    <String>Techapods</String>
+  </StringTable>
+  <StringTable>
+    <Label>TechapodHive_ShortDec</Label>
+    <String>These small six limbed semi-intelligent creatures are near perfect mimics, can be trained to do simple tasks, and are often used to take care of menial tasks in the cramped confines of starships.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TechapodHiveL1_Name</Label>
+    <String>Techapod Hatchery</String>
+  </StringTable>
+  <StringTable>
+    <Label>TechapodHiveL1_ShortDec</Label>
+    <String>These small creatures can be trained to do menial tasks on starships.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TechapodHiveL2_Name</Label>
+    <String>Techapod Farm</String>
+  </StringTable>
+  <StringTable>
+    <Label>TechapodHiveL2_ShortDec</Label>
+    <String>These small creatures can be trained to do menial tasks on starships.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TechapodHiveL3_Name</Label>
+    <String>Advanced Techapod Hive Farm</String>
+  </StringTable>
+  <StringTable>
+    <Label>TechapodHiveL3_ShortDec</Label>
+    <String>These small creatures can be trained to do menial tasks on starships.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SnugglerColony_Name</Label>
+    <String>Snuggler Colony</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnugglerColony_ShortDec</Label>
+    <String>These incredibly furry and soft creatures are the dream pet for all the children of the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SnugglerColonyL1_Name</Label>
+    <String>Snuggler Shelter</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnugglerColonyL1_ShortDec</Label>
+    <String>These furry creatures are the dream pet for children in the galaxy. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SnugglerColonyL2_Name</Label>
+    <String>Snuggler Farm</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnugglerColonyL2_ShortDec</Label>
+    <String>These furry creatures are the dream pet for children in the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SnugglerColonyL3_Name</Label>
+    <String>Advanced Snuggler Farm</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnugglerColonyL3_ShortDec</Label>
+    <String>These furry creatures are the dream pet for children in the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UltraSpice_Name</Label>
+    <String>Arnor Spice</String>
+  </StringTable>
+  <StringTable>
+    <Label>UltraSpice_ShortDec</Label>
+    <String>Everything tastes better with Arnor Spice, "Arnor spice makes it twice as nice!", This precious spice has been known to make fortunes for entire planets.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UltraSpiceL1_Name</Label>
+    <String>Arnor Spice Harvester</String>
+  </StringTable>
+  <StringTable>
+    <Label>UltraSpiceL1_ShortDec</Label>
+    <String>Arnor Spice expands consciousness leading to greater research capabilities.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UltraSpiceL2_Name</Label>
+    <String>Arnor Spice Farm</String>
+  </StringTable>
+  <StringTable>
+    <Label>UltraSpiceL2_ShortDec</Label>
+    <String>Increases spice production.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UltraSpiceL3_Name</Label>
+    <String>Advanced Arnor Spice Farm</String>
+  </StringTable>
+  <StringTable>
+    <Label>UltraSpiceL3_ShortDec</Label>
+    <String>Increases spice production.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EpimetheusPollen_Name</Label>
+    <String>Epimetheus Pollen</String>
+  </StringTable>
+  <StringTable>
+    <Label>EpimetheusPollen_ShortDec</Label>
+    <String>The pollen from this rare flower acts as a natural neural clouding agent, allowing for more effective  camouflage.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EpimetheusPollenL1_Name</Label>
+    <String>Epimetheus Refinery</String>
+  </StringTable>
+  <StringTable>
+    <Label>EpimetheusPollenL1_ShortDec</Label>
+    <String>The pollen from this rare flower acts as a natural neural clouding agent and other exotic chemicals.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EpimetheusPollenL2_Name</Label>
+    <String>Epimetheus Farm</String>
+  </StringTable>
+  <StringTable>
+    <Label>EpimetheusPollenL2_ShortDec</Label>
+    <String>The pollen from this rare flower acts as a natural neural clouding agent and other exotic chemicals.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EpimetheusPollenL3_Name</Label>
+    <String>Advanced Epimetheus Farm</String>
+  </StringTable>
+  <StringTable>
+    <Label>EpimetheusPollenL3_ShortDec</Label>
+    <String>The pollen from this rare flower acts as a natural neural clouding agent and other exotic chemicals.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ArtocarpusViriles_Name</Label>
+    <String>Artocarpus Fruit</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArtocarpusViriles_ShortDec</Label>
+    <String>This amazing fruit can be a stable food source on even the most arid planets. It does however have the side effect of making most of the known species in the galaxy more fertile.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ArtocarpusVirilesL1_Name</Label>
+    <String>Artocarpus Orchard</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArtocarpusVirilesL1_ShortDec</Label>
+    <String>This fruit is delicious and increases the fertility of most species.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ArtocarpusVirilesL2_Name</Label>
+    <String>Artocarpus Farm</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArtocarpusVirilesL2_ShortDec</Label>
+    <String>This fruit is delicious and increases the fertility of most species.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ArtocarpusVirilesL3_Name</Label>
+    <String>Advanced Artocarpus Farm</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArtocarpusVirilesL3_ShortDec</Label>
+    <String>This fruit is delicious and increases the fertility of most species.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ArableLand_Name</Label>
+    <String>Arable Land</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArableLand_ShortDec</Label>
+    <String>This fertile land is perfect for farming.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FarmL1_Name</Label>
+    <String>Farm</String>
+  </StringTable>
+  <StringTable>
+    <Label>FarmL1_ShortDec</Label>
+    <String>These minerals boost the yield of farms when used as a fertilizer.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FarmL2_Name</Label>
+    <String>High Yield Farm</String>
+  </StringTable>
+  <StringTable>
+    <Label>FarmL2_ShortDec</Label>
+    <String>These minerals boost the yield of farms when used as a fertilizer.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FarmL3_Name</Label>
+    <String>Advanced Farm</String>
+  </StringTable>
+  <StringTable>
+    <Label>FarmL3_ShortDec</Label>
+    <String>These minerals boost the yield of farms when used as a fertilizer.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MonsatiumDeposit_Name</Label>
+    <String>Monsatium</String>
+  </StringTable>
+  <StringTable>
+    <Label>MonsatiumDeposit_ShortDec</Label>
+    <String>These nutrient rich mineral deposits, give a tremendous boost to the yields of farms when used as a fertilizer.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MonsatiumDepositL1_Name</Label>
+    <String>Monsatium </String>
+  </StringTable>
+  <StringTable>
+    <Label>MonsatiumDepositL1_ShortDec</Label>
+    <String>These minerals boost the yield of farms when used as a fertilizer.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MonsatiumDepositL2_Name</Label>
+    <String>Monsatium Deposit Refinery</String>
+  </StringTable>
+  <StringTable>
+    <Label>MonsatiumDepositL2_ShortDec</Label>
+    <String>These minerals boost the yield of farms when used as a fertilizer.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MonsatiumDepositL3_Name</Label>
+    <String>Advanced Monsatium Deposit Refinery</String>
+  </StringTable>
+  <StringTable>
+    <Label>MonsatiumDepositL3_ShortDec</Label>
+    <String>These minerals boost the yield of farms when used as a fertilizer.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AurorusArboretum_Name</Label>
+    <String>Aurorus Arboretum</String>
+  </StringTable>
+  <StringTable>
+    <Label>AurorusArboretum_ShortDec</Label>
+    <String>These staggeringly beautiful bioluminescent trees stand near a Kilometer high, and are considered one of the natural wonders of the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AurorusArboretumL1_Name</Label>
+    <String>Aurorus Orchard</String>
+  </StringTable>
+  <StringTable>
+    <Label>AurorusArboretumL1_ShortDec</Label>
+    <String>These bioluminescent trees are one of the natural wonders of the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AurorusArboretumL2_Name</Label>
+    <String>Aurorus Arboretum Farm</String>
+  </StringTable>
+  <StringTable>
+    <Label>AurorusArboretumL2_ShortDec</Label>
+    <String>These bioluminescent trees are one of the natural wonders of the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AurorusArboretumL3_Name</Label>
+    <String>Advanced Aurorus Arboretum Farm</String>
+  </StringTable>
+  <StringTable>
+    <Label>AurorusArboretumL3_ShortDec</Label>
+    <String>These bioluminescent trees are one of the natural wonders of the galaxy.</String>
+  </StringTable>
+ 
+ 
+</StringTableList>

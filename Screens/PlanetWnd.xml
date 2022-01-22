@@ -1,0 +1,1675 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ScreenFile
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Data/Schema/Lib/Screen.xsd">
+  <Screen>
+    <InternalName>PlanetWnd</InternalName>
+
+    <UIControl>
+      <InternalName>PlanetWndBackground</InternalName>
+      <ControlType>GelUIFrame</ControlType>
+      <OffsetY>25</OffsetY>
+      <ArtDefine>SemiTransparentBG</ArtDefine>
+      <!-- <ArtDefine>TempPlanetBackground</ArtDefine> -->
+
+      <UIControl>
+        <InternalName>PlanetWndBlackBackground</InternalName>
+        <ControlType>Frame</ControlType>
+        <ArtDefine>SemiTransparentBG</ArtDefine>
+      </UIControl>
+
+      <UIControl>
+        <InternalName>PlanetWndTintBackground</InternalName>
+        <ControlType>Frame</ControlType>
+        <ArtDefine>CrusadeWhiteTintMask</ArtDefine>
+      </UIControl>
+
+      <UIControl>
+        <InternalName>PlanetWndBG</InternalName>
+        <ControlType>Custom</ControlType>
+        <CustomType>PlanetDetailsViewWindow</CustomType>
+      </UIControl>
+
+      <UIControl>
+        <InternalName>PlanetWndBGFrame</InternalName>
+        <ControlType>Frame</ControlType>
+        <!--<ArtDefine>TempPlanetBackground</ArtDefine>-->
+
+        <UIControl>
+          <InternalName>PlanetTitleFrame</InternalName>
+          <ControlType>GelUIFrame</ControlType>
+          <ArtDefine>CrusadeHeaderOverlayTop</ArtDefine>
+          <Height>32</Height>
+
+          <UIControl>
+            <InternalName>PlanetNameTitle</InternalName>
+            <ControlType>StaticText</ControlType>
+            <OffsetY>4</OffsetY>
+            <ArtDefine>ExtraLargeHeaderLabel</ArtDefine>
+            <Height>22</Height>
+            <FontData>
+              <AlignmentHorizontal>Center</AlignmentHorizontal>
+              <ColorDefine>UIDefaultHighlight</ColorDefine>
+            </FontData>
+            <Text>PLANETNAMETITLE</Text>
+          </UIControl>
+
+        </UIControl>
+
+        <UIControl>
+          <InternalName>PlanetPreviousButton</InternalName>
+          <ControlType>Button</ControlType>
+          <MyAnchorPoint>TopCenter</MyAnchorPoint>
+          <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+          <OffsetX>-250</OffsetX>
+          <OffsetY>5</OffsetY>
+          <ArtDefine>PreviousArrowButton</ArtDefine>
+          <Width>20</Width>
+          <Height>20</Height>
+        </UIControl>
+
+        <UIControl>
+          <InternalName>PlanetNextButton</InternalName>
+          <ControlType>Button</ControlType>
+          <MyAnchorPoint>TopCenter</MyAnchorPoint>
+          <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+          <OffsetX>250</OffsetX>
+          <OffsetY>5</OffsetY>
+          <ArtDefine>NextArrowButton</ArtDefine>
+          <Width>20</Width>
+          <Height>20</Height>
+        </UIControl>
+
+        <!--Bottom Frame-->
+
+        <UIControl>
+          <InternalName>PlanetBottomFrame</InternalName>
+          <ControlType>GelUIFrame</ControlType>
+          <MyAnchorPoint>BottomCenter</MyAnchorPoint>
+          <RelativeAnchorPoint>BottomCenter</RelativeAnchorPoint>
+          <ArtDefine>CrusadeHeaderOverlayBottom</ArtDefine>
+          <Height>42</Height>
+
+          <UIControl>
+            <InternalName>PlanetGovernButton</InternalName>
+            <ControlType>Button</ControlType>
+            <MyAnchorPoint>BottomLeft</MyAnchorPoint>
+            <RelativeAnchorPoint>BottomLeft</RelativeAnchorPoint>
+            <OffsetX>13</OffsetX>
+            <OffsetY>-5</OffsetY>
+            <ArtDefine>CrusadeButtomLarge</ArtDefine>
+            <Width>180</Width>
+            <Height>32</Height>
+            <FontData>
+              <FontDefine>LargeHeader</FontDefine>
+              <AlignmentHorizontal>Center</AlignmentHorizontal>
+            </FontData>
+            <Text>GOVERN_PLANET_STRING</Text>
+          </UIControl>
+
+          <UIControl>
+            <InternalName>PlanetWndDoneButton</InternalName>
+            <ControlType>Button</ControlType>
+            <MyAnchorPoint>BottomRight</MyAnchorPoint>
+            <RelativeAnchorPoint>BottomRight</RelativeAnchorPoint>
+            <OffsetX>-13</OffsetX>
+            <OffsetY>-5</OffsetY>
+            <ArtDefine>CrusadeButtomLarge</ArtDefine>
+            <Width>180</Width>
+            <Height>32</Height>
+            <FontData>
+              <FontDefine>LargeHeader</FontDefine>
+              <AlignmentHorizontal>Center</AlignmentHorizontal>
+            </FontData>
+            <Text>DONEBUTTON</Text>
+          </UIControl>
+
+        </UIControl>
+
+        <!--Bottom right, Production Queue and Done Button-->
+
+        <!--Planet Frame-->
+
+        <UIControl>
+          <InternalName>PlanetSurfaceBackgroundContainer</InternalName>
+          <ControlType>Frame</ControlType>
+          <MyAnchorPoint>MiddleCenter</MyAnchorPoint>
+          <RelativeAnchorPoint>MiddleCenter</RelativeAnchorPoint>
+          <!--This is a invisable container that contains the planet frame, and all its controls.
+					In this sample the creen can not get any wider than 1.777 of its hight, or 16:9. This fixes 21:9 issue.
+					What this really needs to do is say, I can not be wider than 16:9, or i cant be , but i cant be taller than 4:3-->
+          <OffsetY>-4</OffsetY>
+          <DynamicSizeDef>
+            <RelativeHeightMinusConstant>72</RelativeHeightMinusConstant>
+          </DynamicSizeDef>
+
+          <!--Planet Surface Container Aspect Ratio is derived from this frame, but actual size is irrelevant.-->
+          <UIControl>
+            <InternalName>PlanetSurfaceContainerSizeRef</InternalName>
+            <ControlType>Frame</ControlType>
+            <MyAnchorPoint>MiddleRight</MyAnchorPoint>
+            <RelativeAnchorPoint>MiddleRight</RelativeAnchorPoint>
+            <!--<OffsetX>-24</OffsetX>
+            <OffsetY>-4</OffsetY>-->
+            <!--<ArtDefine>MockupFrameCyan</ArtDefine>-->
+            <DynamicSizeDef>
+              <PercentRelativeWidth>.82</PercentRelativeWidth>
+              <MinWidth>1280</MinWidth>
+              <!--<HeightPercentageOfWidth>.56</HeightPercentageOfWidth>
+              <MinHeight>640</MinHeight>-->
+            </DynamicSizeDef>
+          </UIControl>
+
+          <UIControl>
+            <InternalName>PlanetSurfaceContainer</InternalName>
+            <ControlType>Frame</ControlType>
+            <MyAnchorPoint>MiddleRight</MyAnchorPoint>
+            <RelativeAnchorPoint>MiddleRight</RelativeAnchorPoint>
+            <!--<OffsetX>-24</OffsetX>
+            <OffsetY>-4</OffsetY>-->
+            <!--<ArtDefine>MockupFrame</ArtDefine>-->
+            <Width>1232</Width>
+            <Height>640</Height>
+            <DoNotOverwriteSizeChanges>true</DoNotOverwriteSizeChanges>
+
+            <UIControl>
+              <InternalName>StatsListDeviderLine</InternalName>
+              <ControlType>Frame</ControlType>
+              <MyAnchorPoint>MiddleRight</MyAnchorPoint>
+              <RelativeAnchorPoint>MiddleRight</RelativeAnchorPoint>
+              <OffsetX>-308</OffsetX>
+              <ArtDefine>VerticalFadeLine</ArtDefine>
+              <Width>1</Width>
+              <DynamicSizeDef>
+                <RelativeHeightMinusConstant>6</RelativeHeightMinusConstant>
+              </DynamicSizeDef>
+            </UIControl>
+
+            <!--Planet surface view frame-->
+
+            <!--This can be unhooked in Crusade-->
+            <UIControl>
+              <InternalName>PlanetGovernorName</InternalName>
+              <ControlType>StaticText</ControlType>
+              <OffsetY>36</OffsetY>
+              <ArtDefine>NormalHeaderLabel</ArtDefine>
+              <Height>22</Height>
+              <DynamicSizeDef>
+                <RelativeWidthMinusConstant>308</RelativeWidthMinusConstant>
+              </DynamicSizeDef>
+              <FontData>
+                <AlignmentHorizontal>Center</AlignmentHorizontal>
+                <ColorDefine>UIDefaultHighlight</ColorDefine>
+              </FontData>
+              <Text>PLANETNAMETITLE</Text>
+            </UIControl>
+
+            <UIControl>
+              <!--Planet Surface Aspect Ratio is derived from this frame, but actual size is irrelevant.-->
+              <InternalName>PlanetMapFrameSizeRef</InternalName>
+              <ControlType>Frame</ControlType>
+              <!--<ArtDefine>MockupFrameCyan</ArtDefine>-->
+              <DynamicSizeDef>
+                <WidthPercentageOfHeight>1.95</WidthPercentageOfHeight>
+                <RelativeHeightMinusConstant>256</RelativeHeightMinusConstant>
+              </DynamicSizeDef>
+              <ForceTransparentToMouse>true</ForceTransparentToMouse>
+            </UIControl>
+
+            <UIControl>
+              <!--Container in which the planet surface is centered.-->
+              <InternalName>PlanetMapFrame</InternalName>
+              <ControlType>Frame</ControlType>
+              <!--<OffsetY>28</OffsetY>-->
+              <!--<ArtDefine>MockupFrameGreen</ArtDefine>-->
+              <DynamicSizeDef>
+                <RelativeWidthMinusConstant>308</RelativeWidthMinusConstant>
+                <PercentRelativeHeight>.70</PercentRelativeHeight>
+              </DynamicSizeDef>
+
+              <UIControl>
+                <!--This is the Container that is gets its size set. And contains the Planet Surface and the planet surface grid.-->
+                <InternalName>PlanetSurfaceFrame</InternalName>
+                <ControlType>Frame</ControlType>
+                <MyAnchorPoint>MiddleCenter</MyAnchorPoint>
+                <RelativeAnchorPoint>MiddleCenter</RelativeAnchorPoint>
+                <!--<OffsetY>32</OffsetY>-->
+                <!--<ArtDefine>MockupFrameYellow</ArtDefine>-->
+                <Width>100</Width>
+                <Height>100</Height>
+                <DoNotOverwriteSizeChanges>true</DoNotOverwriteSizeChanges>
+
+                <UIControl>
+                  <InternalName>PlanetSurfaceBlurMask</InternalName>
+                  <ControlType>Frame</ControlType>
+                  <MyAnchorPoint>MiddleCenter</MyAnchorPoint>
+                  <RelativeAnchorPoint>MiddleCenter</RelativeAnchorPoint>
+                  <!--<ArtDefine>MockupFrame</ArtDefine>-->
+                  <DynamicSizeDef>
+                    <RelativeWidthMinusConstant>48</RelativeWidthMinusConstant>
+                    <HeightPercentageOfWidth>.51322</HeightPercentageOfWidth>
+                  </DynamicSizeDef>
+
+                  <UIControl>
+                    <InternalName>PlanetSurfaceBlackMask</InternalName>
+                    <ControlType>Frame</ControlType>
+                    <ArtDefine>BlackBG</ArtDefine>
+                  </UIControl>
+
+                  <UIControl>
+                    <InternalName>PlanetSurfaceBlackMask2</InternalName>
+                    <ControlType>Frame</ControlType>
+                    <ArtDefine>BlackBG</ArtDefine>
+                  </UIControl>
+
+                  <UIControl>
+                    <InternalName>PlanetSurfaceWnd</InternalName>
+                    <ControlType>Custom</ControlType>
+
+                    <UIControl>
+                      <InternalName>PlanetSurfaceScanLines</InternalName>
+                      <ControlType>Bink</ControlType>
+                      <ArtDefine>PlanetScanLines</ArtDefine>
+                    </UIControl>
+
+                  </UIControl>
+
+                  <UIControl>
+                    <InternalName>PlanetSurfaceGrid</InternalName>
+                    <ControlType>ListGrid</ControlType>
+                    <!--<ArtDefine>MockupFrame</ArtDefine>-->
+
+                    <UIControl>
+                      <InternalName>PlanetSurfaceGridEntrySize</InternalName>
+                      <ControlType>Frame</ControlType>
+                      <!--<ArtDefine>MockupFrameGreen</ArtDefine>-->
+                      <DynamicSizeDef>
+                        <PercentRelativeWidth>.09091</PercentRelativeWidth>
+                        <PercentRelativeHeight>.2105</PercentRelativeHeight>
+                        <AllowRoundingUp>false</AllowRoundingUp>
+                      </DynamicSizeDef>
+                    </UIControl>
+
+                  </UIControl>
+
+                  <UIControl>
+                    <InternalName>StatsTopDeviderLine1</InternalName>
+                    <ControlType>Frame</ControlType>
+                    <MyAnchorPoint>TopCenter</MyAnchorPoint>
+                    <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+                    <ArtDefine>CrusadeFadeLineHorzLong</ArtDefine>
+                    <Height>1</Height>
+                    <DynamicSizeDef>
+                      <RelativeWidthMinusConstant>-80</RelativeWidthMinusConstant>
+                    </DynamicSizeDef>
+                  </UIControl>
+
+                  <UIControl>
+                    <InternalName>StatsBottomDeviderLine1</InternalName>
+                    <ControlType>Frame</ControlType>
+                    <MyAnchorPoint>BottomCenter</MyAnchorPoint>
+                    <RelativeAnchorPoint>BottomCenter</RelativeAnchorPoint>
+                    <ArtDefine>CrusadeFadeLineHorzLong</ArtDefine>
+                    <Height>1</Height>
+                    <DynamicSizeDef>
+                      <RelativeWidthMinusConstant>-80</RelativeWidthMinusConstant>
+                    </DynamicSizeDef>
+                  </UIControl>
+
+                  <UIControl>
+                    <InternalName>PlanetSurfaceLeftLine1</InternalName>
+                    <ControlType>Frame</ControlType>
+                    <MyAnchorPoint>MiddleLeft</MyAnchorPoint>
+                    <RelativeAnchorPoint>MiddleLeft</RelativeAnchorPoint>
+                    <ArtDefine>CrusadeFadeLineVertLong</ArtDefine>
+                    <Width>1</Width>
+                    <DynamicSizeDef>
+                      <RelativeHeightMinusConstant>-80</RelativeHeightMinusConstant>
+                    </DynamicSizeDef>
+                  </UIControl>
+
+                  <UIControl>
+                    <InternalName>PlanetSurfaceRighttine1</InternalName>
+                    <ControlType>Frame</ControlType>
+                    <MyAnchorPoint>MiddleRight</MyAnchorPoint>
+                    <RelativeAnchorPoint>MiddleRight</RelativeAnchorPoint>
+                    <ArtDefine>CrusadeFadeLineVertLong</ArtDefine>
+                    <Width>1</Width>
+                    <DynamicSizeDef>
+                      <RelativeHeightMinusConstant>-80</RelativeHeightMinusConstant>
+                    </DynamicSizeDef>
+                  </UIControl>
+
+                  <UIControl>
+                    <InternalName>PlanetTraitsListBox</InternalName>
+                    <ControlType>ListBox</ControlType>
+                    <MyAnchorPoint>BottomLeft</MyAnchorPoint>
+                    <RelativeAnchorPoint>TopLeft</RelativeAnchorPoint>
+                    <OffsetX>16</OffsetX>
+                    <OffsetY>-4</OffsetY>
+                    <!--<ArtDefine>MockupFrameGreen</ArtDefine>-->
+                    <Height>22</Height>
+                    <DynamicSizeDef>
+                      <RelativeWidthMinusConstant>28</RelativeWidthMinusConstant>
+                    </DynamicSizeDef>
+                    <ListBoxOptions>
+                      <IsHorizontal>true</IsHorizontal>
+                    </ListBoxOptions>
+                  </UIControl>
+
+                </UIControl>
+
+              </UIControl>
+
+            </UIControl>
+
+            <UIControl>
+              <InternalName>PlanetListandQueueContainer</InternalName>
+              <ControlType>Frame</ControlType>
+              <MyAnchorPoint>TopRight</MyAnchorPoint>
+              <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+              <OffsetX>-8</OffsetX>
+              <OffsetY>6</OffsetY>
+              <!--<ArtDefine>MockupFrameGreen</ArtDefine>-->
+              <Width>290</Width>
+
+              <UIControl>
+                <InternalName>PlanetAvailableList</InternalName>
+                <ControlType>StaticText</ControlType>
+                <MyAnchorPoint>TopLeft</MyAnchorPoint>
+                <RelativeAnchorPoint>TopLeft</RelativeAnchorPoint>
+                <OffsetX>7</OffsetX>
+                <OffsetY>8</OffsetY>
+                <ArtDefine>LargeValueLabel</ArtDefine>
+                <Height>24</Height>
+                <FontData>
+                  <ColorDefine>UIDefaultHighlight</ColorDefine>
+                </FontData>
+                <Text>ManufacturingLISTBOXTITLE</Text>
+              </UIControl>
+
+              <UIControl>
+                <InternalName>PlanetImprovmentListFrame</InternalName>
+                <ControlType>Frame</ControlType>
+                <MyAnchorPoint>TopRight</MyAnchorPoint>
+                <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                <!--<ArtDefine>MockupFrame</ArtDefine>-->
+                <!--<DynamicSizeDef>
+                  <PercentRelativeHeight>.8</PercentRelativeHeight>
+                </DynamicSizeDef>-->
+
+                <UIControl>
+                  <InternalName>PlanetImpovmentTabGroup</InternalName>
+                  <ControlType>OptionButtonGroup</ControlType>
+                  <MyAnchorPoint>TopCenter</MyAnchorPoint>
+                  <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+                  <!--<OffsetY>24</OffsetY>-->
+                  <!--<ArtDefine>CrusadeFadeHeaderHorzLong</ArtDefine>-->
+                  <Height>38</Height>
+
+                  <UIControl>
+                    <InternalName>PlanetImpovmentTabAll</InternalName>
+                    <ControlType>Button</ControlType>
+                    <MyAnchorPoint>TopRight</MyAnchorPoint>
+                    <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                    <OffsetX>-111</OffsetX>
+                    <ArtDefine>CrusadeTabLeft</ArtDefine>
+                    <Width>48</Width>
+                    <FontData>
+                      <OffsetY>4</OffsetY>
+                    </FontData>
+
+                    <UIControl>
+                      <InternalName>ListTypeImprovmentsTabIcon</InternalName>
+                      <ControlType>Frame</ControlType>
+                      <MyAnchorPoint>MiddleCenter</MyAnchorPoint>
+                      <RelativeAnchorPoint>MiddleCenter</RelativeAnchorPoint>
+                      <ArtDefine>CrusadeImprovmentTabIcon</ArtDefine>
+                      <Width>32</Width>
+                      <Height>32</Height>
+                    </UIControl>
+
+                    <UIControl>
+                      <InternalName>ListTypeImprovmentsNewIcon</InternalName>
+                      <ControlType>Frame</ControlType>
+                      <MyAnchorPoint>TopRight</MyAnchorPoint>
+                      <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                      <ArtDefine>NewShipDesignIcon</ArtDefine>
+                      <Width>16</Width>
+                      <Height>16</Height>
+                    </UIControl>
+
+                  </UIControl>
+
+                  <UIControl>
+                    <InternalName>PlanetImpovmentTab1</InternalName>
+                    <ControlType>Button</ControlType>
+                    <MyAnchorPoint>TopRight</MyAnchorPoint>
+                    <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                    <OffsetX>-64</OffsetX>
+                    <ArtDefine>CrusadeTabCenter</ArtDefine>
+                    <Width>48</Width>
+                    <FontData>
+                      <AlignmentVertical>Center</AlignmentVertical>
+                      <OffsetY>8</OffsetY>
+                    </FontData>
+
+                    <UIControl>
+                      <InternalName>ListTypeUnitTabIcon</InternalName>
+                      <ControlType>Frame</ControlType>
+                      <MyAnchorPoint>MiddleCenter</MyAnchorPoint>
+                      <RelativeAnchorPoint>MiddleCenter</RelativeAnchorPoint>
+                      <OffsetY>2</OffsetY>
+                      <ArtDefine>CrusadeUnitTabIcon</ArtDefine>
+                      <Width>32</Width>
+                      <Height>32</Height>
+                    </UIControl>
+
+                    <UIControl>
+                      <InternalName>ListTypeUnitNewIcon</InternalName>
+                      <ControlType>Frame</ControlType>
+                      <MyAnchorPoint>TopRight</MyAnchorPoint>
+                      <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                      <ArtDefine>NewShipDesignIcon</ArtDefine>
+                      <Width>16</Width>
+                      <Height>16</Height>
+                    </UIControl>
+
+                  </UIControl>
+
+                  <UIControl>
+                    <InternalName>PlanetImpovmentTab2</InternalName>
+                    <ControlType>Button</ControlType>
+                    <MyAnchorPoint>TopRight</MyAnchorPoint>
+                    <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                    <OffsetX>-17</OffsetX>
+                    <ArtDefine>CrusadeTabRight</ArtDefine>
+                    <Width>48</Width>
+                    <FontData>
+                      <OffsetY>4</OffsetY>
+                    </FontData>
+
+                    <UIControl>
+                      <InternalName>ListTypeProjectTabIcon</InternalName>
+                      <ControlType>Frame</ControlType>
+                      <MyAnchorPoint>MiddleCenter</MyAnchorPoint>
+                      <RelativeAnchorPoint>MiddleCenter</RelativeAnchorPoint>
+                      <ArtDefine>CrusadeProjectTabIcon</ArtDefine>
+                      <Width>32</Width>
+                      <Height>32</Height>
+                    </UIControl>
+
+                    <UIControl>
+                      <InternalName>ListTypeProjectNewIcon</InternalName>
+                      <ControlType>Frame</ControlType>
+                      <MyAnchorPoint>TopRight</MyAnchorPoint>
+                      <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                      <ArtDefine>NewShipDesignIcon</ArtDefine>
+                      <Width>16</Width>
+                      <Height>16</Height>
+                    </UIControl>
+
+                  </UIControl>
+
+                </UIControl>
+
+                <!--Tab Container-->
+
+                <UIControl>
+                  <InternalName>PlanetProjectFilterBack</InternalName>
+                  <ControlType>Frame</ControlType>
+                  <OffsetY>38</OffsetY>
+                  <SnapToGridOptions>
+                    <AnchorPoint>TopLeft</AnchorPoint>
+                    <Direction>Horizontal</Direction>
+                    <AllowWrapping>true</AllowWrapping>
+                  </SnapToGridOptions>
+                  <ArtDefine>ListFilterBackground</ArtDefine>
+                  <Height>26</Height>
+                  <DynamicSizeDef>
+                    <RelativeWidthMinusConstant>2</RelativeWidthMinusConstant>
+                  </DynamicSizeDef>
+
+                  <UIControl>
+                    <InternalName>PlanetListSortFrame</InternalName>
+                    <ControlType>Frame</ControlType>
+                    <MyAnchorPoint>TopCenter</MyAnchorPoint>
+                    <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+                    <Height>26</Height>
+
+                    <UIControl>
+                      <InternalName>PlanetListSortTitle</InternalName>
+                      <ControlType>StaticText</ControlType>
+                      <OffsetX>7</OffsetX>
+                      <ArtDefine>SmallValueLabel</ArtDefine>
+                      <Text>SORT_BY_LABEL</Text>
+                    </UIControl>
+
+                    <UIControl>
+                      <InternalName>PlanetListSortButtonsFrame</InternalName>
+                      <ControlType>OptionButtonGroup</ControlType>
+                      <MyAnchorPoint>MiddleRight</MyAnchorPoint>
+                      <RelativeAnchorPoint>MiddleRight</RelativeAnchorPoint>
+                      <SnapToGridOptions>
+                        <AnchorPoint>MiddleLeft</AnchorPoint>
+                        <Direction>Horizontal</Direction>
+                        <AllowWrapping>false</AllowWrapping>
+                      </SnapToGridOptions>
+                      <Width>172</Width>
+                      <Height>20</Height>
+                      <ModeOptions>
+                        <AreValuesMutuallyExclusive>true</AreValuesMutuallyExclusive>
+                        <AllowButtonToggle>false</AllowButtonToggle>
+                        <AllowMultipleButtonClicks>true</AllowMultipleButtonClicks>
+                        <IncludeAllEntriesFilter>false</IncludeAllEntriesFilter>
+                      </ModeOptions>
+
+                      <UIControl>
+                        <InternalName>PlanetListSortNameButton</InternalName>
+                        <ControlType>Button</ControlType>
+                        <OffsetX>7</OffsetX>
+                        <ArtDefine>ColonySortNameToggleIcon</ArtDefine>
+                        <Width>16</Width>
+                        <Height>16</Height>
+                        <Tooltip>COLONY_SORT_NAME_TOOLTIP</Tooltip>
+                      </UIControl>
+
+                      <UIControl>
+                        <InternalName>PlanetListSortManufacturingButton</InternalName>
+                        <ControlType>Button</ControlType>
+                        <OffsetX>7</OffsetX>
+                        <ArtDefine>ColonySortManufacturingToggleIcon</ArtDefine>
+                        <Width>16</Width>
+                        <Height>16</Height>
+                        <Tooltip>COLONY_SORT_MANUFACTURING_TOOLTIP</Tooltip>
+                      </UIControl>
+
+                      <UIControl>
+                        <InternalName>PlanetListSortResearchButton</InternalName>
+                        <ControlType>Button</ControlType>
+                        <OffsetX>7</OffsetX>
+                        <ArtDefine>ColonySortResearchToggleIcon</ArtDefine>
+                        <Width>16</Width>
+                        <Height>16</Height>
+                        <Tooltip>COLONY_SORT_RESEARCH_TOOLTIP</Tooltip>
+                      </UIControl>
+
+                      <UIControl>
+                        <InternalName>PlanetListSortWealthButton</InternalName>
+                        <ControlType>Button</ControlType>
+                        <OffsetX>7</OffsetX>
+                        <ArtDefine>ColonySortWealthToggleIcon</ArtDefine>
+                        <Width>16</Width>
+                        <Height>16</Height>
+                        <Tooltip>COLONY_SORT_WEALTH_TOOLTIP</Tooltip>
+                      </UIControl>
+
+                      <UIControl>
+                        <InternalName>PlanetListSortInfluenceButton</InternalName>
+                        <ControlType>Button</ControlType>
+                        <OffsetX>7</OffsetX>
+                        <ArtDefine>ColonySortInfluenceToggleIcon</ArtDefine>
+                        <Width>16</Width>
+                        <Height>16</Height>
+                        <Tooltip>COLONY_SORT_INFLUENCE_TOOLTIP</Tooltip>
+                      </UIControl>
+
+                      <UIControl>
+                        <InternalName>PlanetListSortPopulationButton</InternalName>
+                        <ControlType>Button</ControlType>
+                        <OffsetX>7</OffsetX>
+                        <ArtDefine>ColonySortPopulationToggleIcon</ArtDefine>
+                        <Width>16</Width>
+                        <Height>16</Height>
+                        <Tooltip>COLONY_SORT_POPULATION_TOOLTIP</Tooltip>
+                      </UIControl>
+
+                      <UIControl>
+                        <InternalName>PlanetListSortApprovalButton</InternalName>
+                        <ControlType>Button</ControlType>
+                        <OffsetX>7</OffsetX>
+                        <ArtDefine>ColonySortApprovalToggleIcon</ArtDefine>
+                        <Width>16</Width>
+                        <Height>16</Height>
+                        <Tooltip>COLONY_SORT_APPROVAL_TOOLTIP</Tooltip>
+                      </UIControl>
+
+                    </UIControl>
+
+                  </UIControl>
+
+                </UIControl>
+
+                <UIControl>
+                  <InternalName>ProductionListBox</InternalName>
+                  <ControlType>ListBox</ControlType>
+                  <!--<ControlTemplate>ListBoxTemplate</ControlTemplate>-->
+                  <OffsetX>4</OffsetX>
+                  <OffsetY>64</OffsetY>
+                  <!--<ArtDefine>MockupFrame</ArtDefine>-->
+                  <DynamicSizeDef>
+                    <RelativeHeightMinusConstant>104</RelativeHeightMinusConstant>
+                  </DynamicSizeDef>
+                  <ListBoxOptions>
+                    <ScrollSpeed>20</ScrollSpeed>
+                  </ListBoxOptions>
+
+                  <UIControl>
+                    <InternalName>ProductionListBoxScrollBar</InternalName>
+                    <ControlType>ScrollBar</ControlType>
+                    <ControlTemplate>VerticalScrollbarTemplate</ControlTemplate>
+                    <MyAnchorPoint>TopRight</MyAnchorPoint>
+                    <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                    <Width>16</Width>
+                  </UIControl>
+
+                  <UIControl>
+                    <InternalName>PlanetButtonsLine</InternalName>
+                    <ControlType>Frame</ControlType>
+                    <MyAnchorPoint>BottomCenter</MyAnchorPoint>
+                    <RelativeAnchorPoint>BottomCenter</RelativeAnchorPoint>
+                    <OffsetY>1</OffsetY>
+                    <ArtDefine>HorizontalFadeLine</ArtDefine>
+                    <Height>1</Height>
+                  </UIControl>
+
+                </UIControl>
+
+                <UIControl>
+                  <InternalName>PlanetWndTopRightFrame</InternalName>
+                  <ControlType>Frame</ControlType>
+                  <MyAnchorPoint>BottomRight</MyAnchorPoint>
+                  <RelativeAnchorPoint>BottomRight</RelativeAnchorPoint>
+                  <OffsetX>-3</OffsetX>
+                  <OffsetY>-3</OffsetY>
+                  <!--<ArtDefine>MockupFrame</ArtDefine>-->
+                  <Height>38</Height>
+                  <DynamicSizeDef>
+                    <RelativeWidthMinusConstant>8</RelativeWidthMinusConstant>
+                  </DynamicSizeDef>
+
+                  <UIControl>
+                    <InternalName>UpgradeButton</InternalName>
+                    <ControlType>Button</ControlType>
+                    <MyAnchorPoint>MiddleRight</MyAnchorPoint>
+                    <RelativeAnchorPoint>MiddleRight</RelativeAnchorPoint>
+                    <ArtDefine>CrusadeButtomMediumFilled</ArtDefine>
+                    <Height>32</Height>
+                    <DynamicSizeDef>
+                      <PercentRelativeWidth>.5</PercentRelativeWidth>
+                    </DynamicSizeDef>
+                    <FontData>
+                      <AlignmentHorizontal>Center</AlignmentHorizontal>
+                    </FontData>
+                    <Text>UPGRADEBUTTON</Text>
+                  </UIControl>
+
+                  <UIControl>
+                    <InternalName>PlanetDestroyButton</InternalName>
+                    <ControlType>Button</ControlType>
+                    <MyAnchorPoint>MiddleLeft</MyAnchorPoint>
+                    <RelativeAnchorPoint>MiddleLeft</RelativeAnchorPoint>
+                    <ArtDefine>CrusadeButtomMediumFilled</ArtDefine>
+                    <Height>32</Height>
+                    <DynamicSizeDef>
+                      <PercentRelativeWidth>.5</PercentRelativeWidth>
+                    </DynamicSizeDef>
+                    <FontData>
+                      <AlignmentHorizontal>Center</AlignmentHorizontal>
+                    </FontData>
+                    <Text>DESTROYLABLE</Text>
+                  </UIControl>
+
+                </UIControl>
+
+              </UIControl>
+
+
+            </UIControl>
+
+            <UIControl>
+              <InternalName>PlanetStatsContainer</InternalName>
+              <ControlType>Frame</ControlType>
+              <MyAnchorPoint>BottomLeft</MyAnchorPoint>
+              <RelativeAnchorPoint>BottomLeft</RelativeAnchorPoint>
+              <OffsetX>8</OffsetX>
+              <OffsetY>-16</OffsetY>
+              <!--<ArtDefine>MockupFrame</ArtDefine>-->
+              <DynamicSizeDef>
+                <RelativeWidthMinusConstant>326</RelativeWidthMinusConstant>
+                <PercentRelativeHeight>.30</PercentRelativeHeight>
+              </DynamicSizeDef>
+
+              <UIControl>
+                <InternalName>PlanetStatsMask</InternalName>
+                <ControlType>Frame</ControlType>
+                <MyAnchorPoint>TopCenter</MyAnchorPoint>
+                <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+                <OffsetY>16</OffsetY>
+                <ArtDefine>BlackBG</ArtDefine>
+                <!--<ArtDefine>MockupFrameGreen</ArtDefine>-->
+                <DynamicSizeDef>
+                  <!--<RelativeWidthMinusConstant>0</RelativeWidthMinusConstant>-->
+                  <RelativeHeightMinusConstant>16</RelativeHeightMinusConstant>
+                </DynamicSizeDef>
+              </UIControl>
+
+              <UIControl>
+                <InternalName>PlanetStatsCenteringContainer</InternalName>
+                <ControlType>Frame</ControlType>
+                <MyAnchorPoint>TopCenter</MyAnchorPoint>
+                <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+                <!--<OffsetY>-16</OffsetY>-->
+                <SnapToGridOptions>
+                  <AnchorPoint>TopLeft</AnchorPoint>
+                  <Direction>Horizontal</Direction>
+                  <AllowWrapping>true</AllowWrapping>
+                </SnapToGridOptions>
+                 <!--<ArtDefine>MockupFrameCyan</ArtDefine>-->
+                <DynamicSizeDef>
+                  <RelativeHeightMinusConstant>1</RelativeHeightMinusConstant>
+                </DynamicSizeDef>
+
+                <UIControl>
+                  <InternalName>NonCrusadeStatSizingContainer</InternalName>
+                  <ControlType>Frame</ControlType>
+                  <SnapToGridOptions>
+                    <AnchorPoint>TopLeft</AnchorPoint>
+                    <Direction>Horizontal</Direction>
+                    <AllowWrapping>true</AllowWrapping>
+                  </SnapToGridOptions>
+                  <!--<ArtDefine>MockupFrame</ArtDefine>-->
+                  <DynamicSizeDef>
+                    <PercentRelativeWidth>.59</PercentRelativeWidth>
+                  </DynamicSizeDef>
+
+                  <UIControl>
+                    <InternalName>PlanetYieldsContainer</InternalName>
+                    <ControlType>Frame</ControlType>
+                    <!--<ArtDefine>MockupFrameGreen</ArtDefine>-->
+                    <DynamicSizeDef>
+                      <PercentRelativeWidth>.66</PercentRelativeWidth>
+                    </DynamicSizeDef>
+
+                    <!--<UIControl>
+                      <InternalName>PlanetYieldsLeft</InternalName>
+                      <ControlType>Frame</ControlType>
+                      <OffsetX>-9</OffsetX>
+                      <OffsetY>16</OffsetY>
+                      <ArtDefine>VerticalHalfFadeLineThick</ArtDefine>
+                      <Width>8</Width>
+                      <DynamicSizeDef>
+                        <RelativeHeightMinusConstant>-8</RelativeHeightMinusConstant>
+                      </DynamicSizeDef>
+                    </UIControl>-->
+
+                    <UIControl>
+                      <InternalName>PlanetYieldsCemter</InternalName>
+                      <ControlType>Frame</ControlType>
+                      <MyAnchorPoint>TopCenter</MyAnchorPoint>
+                      <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+                      <OffsetX>-4</OffsetX>
+                      <OffsetY>16</OffsetY>
+                      <ArtDefine>VerticalHalfFadeLineThick</ArtDefine>
+                      <Width>8</Width>
+                      <DynamicSizeDef>
+                        <RelativeHeightMinusConstant>-8</RelativeHeightMinusConstant>
+                      </DynamicSizeDef>
+                    </UIControl>
+
+                    <UIControl>
+                      <InternalName>PlanetYieldsRight</InternalName>
+                      <ControlType>Frame</ControlType>
+                      <MyAnchorPoint>TopRight</MyAnchorPoint>
+                      <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                      <OffsetY>16</OffsetY>
+                      <ArtDefine>VerticalHalfFadeLineThick</ArtDefine>
+                      <Width>8</Width>
+                      <DynamicSizeDef>
+                        <RelativeHeightMinusConstant>-8</RelativeHeightMinusConstant>
+                      </DynamicSizeDef>
+                    </UIControl>
+
+                    <UIControl>
+                      <InternalName>PlanetStatsYieldsHeadder</InternalName>
+                      <ControlType>StaticText</ControlType>
+                      <MyAnchorPoint>TopCenter</MyAnchorPoint>
+                      <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+                      <OffsetX>-8</OffsetX>
+                      <ArtDefine>SmallHeaderLabel</ArtDefine>
+                      <Height>12</Height>
+                      <FontData>
+                        <AlignmentHorizontal>Center</AlignmentHorizontal>
+                      </FontData>
+                      <Text>Planet_Production_Title</Text>
+                    </UIControl>
+
+                    <UIControl>
+                      <InternalName>PlanetYieldsGrid</InternalName>
+                      <ControlType>Frame</ControlType>
+                      <OffsetY>16</OffsetY>
+                      <!--<DynamicSizeDef>
+                    <RelativeHeightMinusConstant>32</RelativeHeightMinusConstant>
+                  </DynamicSizeDef>-->
+
+                      <UIControl>
+                        <InternalName>PlanetYieldFrame1</InternalName>
+                        <ControlType>Frame</ControlType>
+                        <MyAnchorPoint>TopLeft</MyAnchorPoint>
+                        <RelativeAnchorPoint>TopLeft</RelativeAnchorPoint>
+                        <!--<ArtDefine>MockupFrame</ArtDefine>-->
+                        <DynamicSizeDef>
+                          <PercentRelativeWidth>.5</PercentRelativeWidth>
+                          <PercentRelativeHeight>.33</PercentRelativeHeight>
+                        </DynamicSizeDef>
+                        <ForceOpaqueToMouse>true</ForceOpaqueToMouse>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldTitle1</InternalName>
+                          <ControlType>StaticText</ControlType>
+                          <OffsetX>12</OffsetX>
+                          <OffsetY>4</OffsetY>
+                          <!--<OffsetY>1</OffsetY>-->
+                          <ArtDefine>NormalValueLabel</ArtDefine>
+                          <Height>18</Height>
+                          <ForceTransparentToMouse>true</ForceTransparentToMouse>
+                          <FontData>
+                            <ColorDefine>UIDefaultHot</ColorDefine>
+                          </FontData>
+                          <Text>Planet_Social_Manufacturing_Yield_Title</Text>
+                        </UIControl>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldTitle1Line</InternalName>
+                          <ControlType>Frame</ControlType>
+                          <MyAnchorPoint>TopCenter</MyAnchorPoint>
+                          <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+                          <OffsetY>24</OffsetY>
+                          <ArtDefine>HorizontalFadeLine</ArtDefine>
+                          <Height>1</Height>
+                        </UIControl>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldValue1</InternalName>
+                          <ControlType>StaticText</ControlType>
+                          <MyAnchorPoint>TopRight</MyAnchorPoint>
+                          <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                          <OffsetX>-12</OffsetX>
+                          <OffsetY>4</OffsetY>
+                          <ArtDefine>NormalValueLabel</ArtDefine>
+                          <Height>18</Height>
+                          <ForceTransparentToMouse>true</ForceTransparentToMouse>
+                          <FontData>
+                            <AlignmentHorizontal>Right</AlignmentHorizontal>
+                          </FontData>
+                          <Text>3DIGITVALUE</Text>
+                        </UIControl>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldListbox1</InternalName>
+                          <ControlType>ListBox</ControlType>
+                          <OffsetX>12</OffsetX>
+                          <OffsetY>29</OffsetY>
+                          <DynamicSizeDef>
+                            <RelativeWidthMinusConstant>24</RelativeWidthMinusConstant>
+                          </DynamicSizeDef>
+                          <ForceTransparentToMouse>true</ForceTransparentToMouse>
+                          <ListBoxOptions>
+                            <IsHorizontal>true</IsHorizontal>
+                            <RenderBottomToTop>false</RenderBottomToTop>
+                          </ListBoxOptions>
+                        </UIControl>
+
+                      </UIControl>
+
+                      <UIControl>
+                        <InternalName>PlanetYieldFrame2</InternalName>
+                        <ControlType>Frame</ControlType>
+                        <MyAnchorPoint>MiddleLeft</MyAnchorPoint>
+                        <RelativeAnchorPoint>MiddleLeft</RelativeAnchorPoint>
+                        <!--<ArtDefine>MockupFrame</ArtDefine>-->
+                        <DynamicSizeDef>
+                          <PercentRelativeWidth>.5</PercentRelativeWidth>
+                          <PercentRelativeHeight>.33</PercentRelativeHeight>
+                        </DynamicSizeDef>
+                        <ForceOpaqueToMouse>true</ForceOpaqueToMouse>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldTitle2</InternalName>
+                          <ControlType>StaticText</ControlType>
+                          <OffsetX>12</OffsetX>
+                          <OffsetY>4</OffsetY>
+                          <!--<OffsetY>1</OffsetY>-->
+                          <ArtDefine>NormalValueLabel</ArtDefine>
+                          <Height>18</Height>
+                          <ForceTransparentToMouse>true</ForceTransparentToMouse>
+                          <FontData>
+                            <ColorDefine>UIDefaultHot</ColorDefine>
+                          </FontData>
+                          <Text>RESEARCHLABEL</Text>
+                        </UIControl>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldTitle2Line</InternalName>
+                          <ControlType>Frame</ControlType>
+                          <MyAnchorPoint>TopCenter</MyAnchorPoint>
+                          <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+                          <OffsetY>24</OffsetY>
+                          <ArtDefine>HorizontalFadeLine</ArtDefine>
+                          <Height>1</Height>
+                        </UIControl>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldValue2</InternalName>
+                          <ControlType>StaticText</ControlType>
+                          <MyAnchorPoint>TopRight</MyAnchorPoint>
+                          <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                          <OffsetX>-12</OffsetX>
+                          <OffsetY>4</OffsetY>
+                          <ArtDefine>NormalValueLabel</ArtDefine>
+                          <Height>18</Height>
+                          <ForceTransparentToMouse>true</ForceTransparentToMouse>
+                          <FontData>
+                            <AlignmentHorizontal>Right</AlignmentHorizontal>
+                          </FontData>
+                          <Text>3DIGITVALUE</Text>
+                        </UIControl>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldListbox2</InternalName>
+                          <ControlType>ListBox</ControlType>
+                          <OffsetX>12</OffsetX>
+                          <OffsetY>29</OffsetY>
+                          <!--<ArtDefine>MockupFrame</ArtDefine>-->
+                          <!--<Height>40</Height>-->
+                          <DynamicSizeDef>
+                            <RelativeWidthMinusConstant>12</RelativeWidthMinusConstant>
+                          </DynamicSizeDef>
+                          <ForceTransparentToMouse>true</ForceTransparentToMouse>
+                          <ListBoxOptions>
+                            <!--<OffsetX>2</OffsetX>
+                    <OffsetY>4</OffsetY>
+                    <MirrorOffsets>true</MirrorOffsets>-->
+                            <IsHorizontal>true</IsHorizontal>
+                            <RenderBottomToTop>false</RenderBottomToTop>
+                          </ListBoxOptions>
+                        </UIControl>
+
+                      </UIControl>
+
+                      <UIControl>
+                        <InternalName>PlanetYieldFrame3</InternalName>
+                        <ControlType>Frame</ControlType>
+                        <MyAnchorPoint>BottomLeft</MyAnchorPoint>
+                        <RelativeAnchorPoint>BottomLeft</RelativeAnchorPoint>
+                        <!--<ArtDefine>MockupFrame</ArtDefine>-->
+                        <DynamicSizeDef>
+                          <PercentRelativeWidth>.5</PercentRelativeWidth>
+                          <PercentRelativeHeight>.33</PercentRelativeHeight>
+                        </DynamicSizeDef>
+                        <ForceOpaqueToMouse>true</ForceOpaqueToMouse>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldTitle3</InternalName>
+                          <ControlType>StaticText</ControlType>
+                          <OffsetX>12</OffsetX>
+                          <OffsetY>4</OffsetY>
+                          <!--<OffsetY>1</OffsetY>-->
+                          <ArtDefine>NormalValueLabel</ArtDefine>
+                          <Height>18</Height>
+                          <ForceTransparentToMouse>true</ForceTransparentToMouse>
+                          <FontData>
+                            <ColorDefine>UIDefaultHot</ColorDefine>
+                          </FontData>
+                          <Text>NETINCOMELABELNOCOLON</Text>
+                        </UIControl>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldTitle3Line</InternalName>
+                          <ControlType>Frame</ControlType>
+                          <MyAnchorPoint>TopCenter</MyAnchorPoint>
+                          <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+                          <OffsetY>24</OffsetY>
+                          <ArtDefine>HorizontalFadeLine</ArtDefine>
+                          <Height>1</Height>
+                        </UIControl>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldValue3</InternalName>
+                          <ControlType>StaticText</ControlType>
+                          <MyAnchorPoint>TopRight</MyAnchorPoint>
+                          <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                          <OffsetX>-12</OffsetX>
+                          <OffsetY>4</OffsetY>
+                          <ArtDefine>NormalValueLabel</ArtDefine>
+                          <Height>18</Height>
+                          <ForceTransparentToMouse>true</ForceTransparentToMouse>
+                          <FontData>
+                            <AlignmentHorizontal>Right</AlignmentHorizontal>
+                          </FontData>
+                          <Text>3DIGITVALUE</Text>
+                        </UIControl>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldListbox3</InternalName>
+                          <ControlType>ListBox</ControlType>
+                          <OffsetX>12</OffsetX>
+                          <OffsetY>29</OffsetY>
+                          <!--<ArtDefine>MockupFrame</ArtDefine>-->
+                          <!--<Height>40</Height>-->
+                          <DynamicSizeDef>
+                            <RelativeWidthMinusConstant>12</RelativeWidthMinusConstant>
+                          </DynamicSizeDef>
+                          <ForceTransparentToMouse>true</ForceTransparentToMouse>
+                          <ListBoxOptions>
+                            <!--<OffsetX>2</OffsetX>
+                    <OffsetY>4</OffsetY>
+                    <MirrorOffsets>true</MirrorOffsets>-->
+                            <IsHorizontal>true</IsHorizontal>
+                            <RenderBottomToTop>false</RenderBottomToTop>
+                          </ListBoxOptions>
+                        </UIControl>
+                      </UIControl>
+
+                      <UIControl>
+                        <InternalName>PlanetYieldFrame4</InternalName>
+                        <ControlType>Frame</ControlType>
+                        <MyAnchorPoint>TopRight</MyAnchorPoint>
+                        <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                        <!--<ArtDefine>MockupFrame</ArtDefine>-->
+                        <DynamicSizeDef>
+                          <PercentRelativeWidth>.5</PercentRelativeWidth>
+                          <PercentRelativeHeight>.33</PercentRelativeHeight>
+                        </DynamicSizeDef>
+                        <ForceOpaqueToMouse>true</ForceOpaqueToMouse>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldTitle4</InternalName>
+                          <ControlType>StaticText</ControlType>
+                          <OffsetX>12</OffsetX>
+                          <OffsetY>4</OffsetY>
+                          <!--<OffsetY>1</OffsetY>-->
+                          <ArtDefine>NormalValueLabel</ArtDefine>
+                          <Height>18</Height>
+                          <ForceTransparentToMouse>true</ForceTransparentToMouse>
+                          <FontData>
+                            <ColorDefine>UIDefaultHot</ColorDefine>
+                          </FontData>
+                          <Text>Planet_Military_Manufacturing_Yield_Title</Text>
+                        </UIControl>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldTitle4Line</InternalName>
+                          <ControlType>Frame</ControlType>
+                          <MyAnchorPoint>TopCenter</MyAnchorPoint>
+                          <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+                          <OffsetY>24</OffsetY>
+                          <ArtDefine>HorizontalFadeLine</ArtDefine>
+                          <Height>1</Height>
+                        </UIControl>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldValue4</InternalName>
+                          <ControlType>StaticText</ControlType>
+                          <MyAnchorPoint>TopRight</MyAnchorPoint>
+                          <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                          <OffsetX>-12</OffsetX>
+                          <OffsetY>4</OffsetY>
+                          <ArtDefine>NormalValueLabel</ArtDefine>
+                          <Height>18</Height>
+                          <ForceTransparentToMouse>true</ForceTransparentToMouse>
+                          <FontData>
+                            <AlignmentHorizontal>Right</AlignmentHorizontal>
+                          </FontData>
+                          <Text>3DIGITVALUE</Text>
+                        </UIControl>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldListbox4</InternalName>
+                          <ControlType>ListBox</ControlType>
+                          <OffsetX>12</OffsetX>
+                          <OffsetY>29</OffsetY>
+                          <DynamicSizeDef>
+                            <RelativeWidthMinusConstant>12</RelativeWidthMinusConstant>
+                          </DynamicSizeDef>
+                          <ForceTransparentToMouse>true</ForceTransparentToMouse>
+                          <ListBoxOptions>
+                            <IsHorizontal>true</IsHorizontal>
+                            <RenderBottomToTop>false</RenderBottomToTop>
+                          </ListBoxOptions>
+                        </UIControl>
+
+                      </UIControl>
+
+                      <UIControl>
+                        <InternalName>PlanetYieldFrame5</InternalName>
+                        <ControlType>Frame</ControlType>
+                        <MyAnchorPoint>MiddleRight</MyAnchorPoint>
+                        <RelativeAnchorPoint>MiddleRight</RelativeAnchorPoint>
+                        <!--<ArtDefine>MockupFrame</ArtDefine>-->
+                        <DynamicSizeDef>
+                          <PercentRelativeWidth>.5</PercentRelativeWidth>
+                          <PercentRelativeHeight>.33</PercentRelativeHeight>
+                        </DynamicSizeDef>
+                        <ForceOpaqueToMouse>true</ForceOpaqueToMouse>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldTitle5</InternalName>
+                          <ControlType>StaticText</ControlType>
+                          <OffsetX>12</OffsetX>
+                          <OffsetY>4</OffsetY>
+                          <!--<OffsetY>1</OffsetY>-->
+                          <ArtDefine>NormalValueLabel</ArtDefine>
+                          <Height>18</Height>
+                          <ForceTransparentToMouse>true</ForceTransparentToMouse>
+                          <FontData>
+                            <ColorDefine>UIDefaultHot</ColorDefine>
+                          </FontData>
+                          <Text>Planet_Influance_Yield_Title</Text>
+                        </UIControl>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldTitle5Line</InternalName>
+                          <ControlType>Frame</ControlType>
+                          <MyAnchorPoint>TopCenter</MyAnchorPoint>
+                          <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+                          <OffsetY>24</OffsetY>
+                          <ArtDefine>HorizontalFadeLine</ArtDefine>
+                          <Height>1</Height>
+                        </UIControl>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldValue5</InternalName>
+                          <ControlType>StaticText</ControlType>
+                          <MyAnchorPoint>TopRight</MyAnchorPoint>
+                          <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                          <OffsetX>-12</OffsetX>
+                          <OffsetY>4</OffsetY>
+                          <ArtDefine>NormalValueLabel</ArtDefine>
+                          <Height>18</Height>
+                          <ForceTransparentToMouse>true</ForceTransparentToMouse>
+                          <FontData>
+                            <AlignmentHorizontal>Right</AlignmentHorizontal>
+                          </FontData>
+                          <Text>3DIGITVALUE</Text>
+                        </UIControl>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldListbox5</InternalName>
+                          <ControlType>ListBox</ControlType>
+                          <OffsetX>12</OffsetX>
+                          <OffsetY>29</OffsetY>
+                          <!--<ArtDefine>MockupFrame</ArtDefine>-->
+                          <!--<Height>40</Height>-->
+                          <DynamicSizeDef>
+                            <RelativeWidthMinusConstant>12</RelativeWidthMinusConstant>
+                          </DynamicSizeDef>
+                          <ForceTransparentToMouse>true</ForceTransparentToMouse>
+                          <ListBoxOptions>
+                            <!--<OffsetX>2</OffsetX>
+                    <OffsetY>4</OffsetY>
+                    <MirrorOffsets>true</MirrorOffsets>-->
+                            <IsHorizontal>true</IsHorizontal>
+                            <RenderBottomToTop>false</RenderBottomToTop>
+                          </ListBoxOptions>
+                        </UIControl>
+
+                      </UIControl>
+
+                      <UIControl>
+                        <InternalName>PlanetYieldFrame6</InternalName>
+                        <ControlType>Frame</ControlType>
+                        <MyAnchorPoint>BottomRight</MyAnchorPoint>
+                        <RelativeAnchorPoint>BottomRight</RelativeAnchorPoint>
+                        <!--<ArtDefine>MockupFrame</ArtDefine>-->
+                        <DynamicSizeDef>
+                          <PercentRelativeWidth>.5</PercentRelativeWidth>
+                          <PercentRelativeHeight>.33</PercentRelativeHeight>
+                        </DynamicSizeDef>
+                        <ForceOpaqueToMouse>true</ForceOpaqueToMouse>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldTitle6</InternalName>
+                          <ControlType>StaticText</ControlType>
+                          <OffsetX>10</OffsetX>
+                          <OffsetY>4</OffsetY>
+                          <!--<OffsetY>1</OffsetY>-->
+                          <ArtDefine>NormalValueLabel</ArtDefine>
+                          <Height>18</Height>
+                          <ForceTransparentToMouse>true</ForceTransparentToMouse>
+                          <FontData>
+                            <ColorDefine>UIDefaultHot</ColorDefine>
+                          </FontData>
+                          <Text>Planet_Food_Yield_Title</Text>
+                        </UIControl>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldTitle6Line</InternalName>
+                          <ControlType>Frame</ControlType>
+                          <MyAnchorPoint>TopCenter</MyAnchorPoint>
+                          <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+                          <OffsetY>24</OffsetY>
+                          <ArtDefine>HorizontalFadeLine</ArtDefine>
+                          <Height>1</Height>
+                        </UIControl>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldValue6</InternalName>
+                          <ControlType>StaticText</ControlType>
+                          <MyAnchorPoint>TopRight</MyAnchorPoint>
+                          <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                          <OffsetX>-10</OffsetX>
+                          <OffsetY>4</OffsetY>
+                          <ArtDefine>NormalValueLabel</ArtDefine>
+                          <Height>18</Height>
+                          <ForceTransparentToMouse>true</ForceTransparentToMouse>
+                          <FontData>
+                            <AlignmentHorizontal>Right</AlignmentHorizontal>
+                          </FontData>
+                          <Text>3DIGITVALUE</Text>
+                        </UIControl>
+
+                        <UIControl>
+                          <InternalName>PlanetYieldListbox6</InternalName>
+                          <ControlType>ListBox</ControlType>
+                          <OffsetX>6</OffsetX>
+                          <OffsetY>29</OffsetY>
+                          <!--<ArtDefine>MockupFrame</ArtDefine>-->
+                          <!--<Height>40</Height>-->
+                          <DynamicSizeDef>
+                            <RelativeWidthMinusConstant>12</RelativeWidthMinusConstant>
+                          </DynamicSizeDef>
+                          <ForceTransparentToMouse>true</ForceTransparentToMouse>
+                          <ListBoxOptions>
+                            <!--<OffsetX>2</OffsetX>
+                    <OffsetY>4</OffsetY>
+                    <MirrorOffsets>true</MirrorOffsets>-->
+                            <IsHorizontal>true</IsHorizontal>
+                            <RenderBottomToTop>false</RenderBottomToTop>
+                          </ListBoxOptions>
+                        </UIControl>
+                      </UIControl>
+
+                    </UIControl>
+
+                  </UIControl>
+
+                  <UIControl>
+                    <InternalName>PlanetSummaryContainer</InternalName>
+                    <ControlType>Frame</ControlType>
+                    <MyAnchorPoint>TopCenter</MyAnchorPoint>
+                    <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+                    <!--<ArtDefine>MockupFrameCyan</ArtDefine>-->
+                    <DynamicSizeDef>
+                      <PercentRelativeWidth>.33</PercentRelativeWidth>
+                      <!--<RelativeHeightMinusConstant>16</RelativeHeightMinusConstant>-->
+                    </DynamicSizeDef>
+
+                    <UIControl>
+                      <InternalName>PlanetSummaryHeadder</InternalName>
+                      <ControlType>StaticText</ControlType>
+                      <MyAnchorPoint>TopCenter</MyAnchorPoint>
+                      <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+                      <ArtDefine>SmallHeaderLabel</ArtDefine>
+                      <Height>12</Height>
+                      <FontData>
+                        <AlignmentHorizontal>Center</AlignmentHorizontal>
+                      </FontData>
+                      <Text>Planet_Colony_Stats_Title</Text>
+                    </UIControl>
+
+                    <UIControl>
+                      <InternalName>PlanetSummaryListBox</InternalName>
+                      <ControlType>ListBox</ControlType>
+                      <MyAnchorPoint>TopCenter</MyAnchorPoint>
+                      <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+                      <OffsetY>19</OffsetY>
+                      <!--<ArtDefine>MockupFrame</ArtDefine>-->
+                      <DynamicSizeDef>
+                        <RelativeHeightMinusConstant>3</RelativeHeightMinusConstant>
+                      </DynamicSizeDef>
+                      <ListBoxOptions>
+                        <AllowMultipleSelections>true</AllowMultipleSelections>
+                        <EnableToggleSelect>true</EnableToggleSelect>
+                      </ListBoxOptions>
+
+                      <UIControl>
+                        <InternalName>PlanetSummaryScrollBar</InternalName>
+                        <ControlType>ScrollBar</ControlType>
+                        <ControlTemplate>VerticalScrollbarTemplate</ControlTemplate>
+                        <MyAnchorPoint>MiddleRight</MyAnchorPoint>
+                        <RelativeAnchorPoint>MiddleRight</RelativeAnchorPoint>
+                        <Width>16</Width>
+                      </UIControl>
+
+                    </UIControl>
+
+                    <UIControl>
+                      <InternalName>PlanetSummaryRight</InternalName>
+                      <ControlType>Frame</ControlType>
+                      <MyAnchorPoint>TopRight</MyAnchorPoint>
+                      <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                      <OffsetY>16</OffsetY>
+                      <ArtDefine>VerticalHalfFadeLineThick</ArtDefine>
+                      <Width>8</Width>
+                      <DynamicSizeDef>
+                        <RelativeHeightMinusConstant>-8</RelativeHeightMinusConstant>
+                      </DynamicSizeDef>
+                    </UIControl>
+
+                  </UIControl>
+
+                </UIControl>
+
+                <UIControl>
+                  <InternalName>PlanetUnitsListWnd</InternalName>
+                  <ControlType>Custom</ControlType>
+                  <!--<ArtDefine>MockupFrame</ArtDefine>-->
+                  <DynamicSizeDef>
+                    <PercentRelativeWidth>.19</PercentRelativeWidth>
+                    <!--<RelativeHeightMinusConstant>16</RelativeHeightMinusConstant>-->
+                  </DynamicSizeDef>
+
+                  <UIControl>
+                    <InternalName>PlanetUnitsRight</InternalName>
+                    <ControlType>Frame</ControlType>
+                    <MyAnchorPoint>TopRight</MyAnchorPoint>
+                    <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                    <OffsetY>16</OffsetY>
+                    <ArtDefine>VerticalHalfFadeLineThick</ArtDefine>
+                    <Width>8</Width>
+                    <DynamicSizeDef>
+                      <RelativeHeightMinusConstant>-8</RelativeHeightMinusConstant>
+                    </DynamicSizeDef>
+                  </UIControl>
+
+                </UIControl>
+
+                <UIControl>
+                  <InternalName>PlanetWndBottomFrame</InternalName>
+                  <ControlType>Frame</ControlType>
+                  <!--<ArtDefine>MockupFrameGreen</ArtDefine>-->
+                  <DynamicSizeDef>
+                    <PercentRelativeWidth>.22</PercentRelativeWidth>
+                  </DynamicSizeDef>
+                  
+                  <!--Production Queue -->
+
+                  <UIControl>
+                    <InternalName>PlanetQueueHeaderContainer</InternalName>
+                    <ControlType>Frame</ControlType>
+                    <MyAnchorPoint>TopCenter</MyAnchorPoint>
+                    <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+                    <OffsetY>-2</OffsetY>
+                    <Height>16</Height>
+                    <DynamicSizeDef>
+                      <MaxWidth>180</MaxWidth>
+                    </DynamicSizeDef>
+                    <Tooltip>Move_Up_Label</Tooltip>
+
+
+                    <UIControl>
+                      <InternalName>ProductionQueueButtonsContainer</InternalName>
+                      <ControlType>Frame</ControlType>
+                      <MyAnchorPoint>TopRight</MyAnchorPoint>
+                      <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                      <SnapToGridOptions>
+                        <AnchorPoint>TopLeft</AnchorPoint>
+                        <Direction>Horizontal</Direction>
+                        <AllowWrapping>false</AllowWrapping>
+                      </SnapToGridOptions>
+                      <Width>34</Width>
+                      <Height>16</Height>
+
+                      <UIControl>
+                        <InternalName>ProductionQueueUpButton</InternalName>
+                        <ControlType>Button</ControlType>
+                        <ArtDefine>UpIconButton</ArtDefine>
+                        <Width>16</Width>
+                        <Height>16</Height>
+                        <Tooltip>Move_Up_Label</Tooltip>
+                      </UIControl>
+
+                      <UIControl>
+                        <InternalName>ProductionQueueDownButton</InternalName>
+                        <ControlType>Button</ControlType>
+                        <OffsetX>-2</OffsetX>
+                        <ArtDefine>DownIconButton</ArtDefine>
+                        <Width>16</Width>
+                        <Height>16</Height>
+                        <Tooltip>Move_Down_Label</Tooltip>
+                      </UIControl>
+
+                    </UIControl>
+                    
+                    <UIControl>
+                      <InternalName>ProductionQueueTitle</InternalName>
+                      <ControlType>StaticText</ControlType>
+                      <MyAnchorPoint>TopLeft</MyAnchorPoint>
+                      <RelativeAnchorPoint>TopLeft</RelativeAnchorPoint>
+                      <OffsetX>6</OffsetX>
+                      <OffsetY>2</OffsetY>
+                      <ArtDefine>SmallHeaderLabel</ArtDefine>
+                      <Height>12</Height>
+                      <ForceTransparentToMouse>true</ForceTransparentToMouse>
+                      <Text>PRODUCTIONQUEUETITLE</Text>
+                     
+                    </UIControl>
+
+                  </UIControl>
+
+                  <UIControl>
+                    <InternalName>ProductionQueue</InternalName>
+                    <ControlType>ListGrid</ControlType>
+                    <MyAnchorPoint>TopRight</MyAnchorPoint>
+                    <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                    <OffsetY>17</OffsetY>
+                    <!--<ArtDefine>MockupFrame</ArtDefine>-->
+                    <DynamicSizeDef>
+                      <RelativeHeightMinusConstant>51</RelativeHeightMinusConstant>
+                    </DynamicSizeDef>
+                    <ListBoxOptions>
+                      <ScrollSpeed>45</ScrollSpeed>
+                    </ListBoxOptions>
+
+                    <UIControl>
+                      <InternalName>ProductionQueueScrollBar</InternalName>
+                      <ControlType>ScrollBar</ControlType>
+                      <ControlTemplate>VerticalScrollbarTemplate</ControlTemplate>
+                      <MyAnchorPoint>TopRight</MyAnchorPoint>
+                      <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+                      <Width>16</Width>
+                    </UIControl>
+
+                  </UIControl>
+
+                  <UIControl>
+                    <InternalName>PlanetQueueButtonsLine</InternalName>
+                    <ControlType>Frame</ControlType>
+                    <MyAnchorPoint>BottomCenter</MyAnchorPoint>
+                    <RelativeAnchorPoint>BottomCenter</RelativeAnchorPoint>
+                    <OffsetY>-33</OffsetY>
+                    <ArtDefine>HorizontalFadeLine</ArtDefine>
+                    <Height>1</Height>
+                  </UIControl>
+
+                  <UIControl>
+                    <InternalName>PlanetWndQueueButtonsFrame</InternalName>
+                    <ControlType>Frame</ControlType>
+                    <MyAnchorPoint>BottomRight</MyAnchorPoint>
+                    <RelativeAnchorPoint>BottomRight</RelativeAnchorPoint>
+                    <OffsetX>-3</OffsetX>
+                    <!--<ArtDefine>MockupFrame</ArtDefine>-->
+                    <Height>32</Height>
+                    <DynamicSizeDef>
+                      <RelativeWidthMinusConstant>8</RelativeWidthMinusConstant>
+                    </DynamicSizeDef>
+
+                    <UIControl>
+                      <InternalName>PlanetQueueCancelButton</InternalName>
+                      <ControlType>Button</ControlType>
+                      <MyAnchorPoint>BottomLeft</MyAnchorPoint>
+                      <RelativeAnchorPoint>BottomLeft</RelativeAnchorPoint>
+                      <ArtDefine>CrusadeButtomMediumFilled</ArtDefine>
+                      <DynamicSizeDef>
+                        <PercentRelativeWidth>.34</PercentRelativeWidth>
+                      </DynamicSizeDef>
+                      <FontData>
+                        <AlignmentHorizontal>Center</AlignmentHorizontal>
+                      </FontData>
+                      <Text>CANCELBUTTON1</Text>
+                    </UIControl>
+
+                    <UIControl>
+                      <InternalName>PlanetQueueRushButton</InternalName>
+                      <ControlType>Button</ControlType>
+                      <MyAnchorPoint>BottomCenter</MyAnchorPoint>
+                      <RelativeAnchorPoint>BottomCenter</RelativeAnchorPoint>
+                      <ArtDefine>CrusadeButtomMediumFilled</ArtDefine>
+                      <DynamicSizeDef>
+                        <PercentRelativeWidth>.35</PercentRelativeWidth>
+                      </DynamicSizeDef>
+                      <FontData>
+                        <AlignmentHorizontal>Center</AlignmentHorizontal>
+                      </FontData>
+                      <Text>RUSHPLANETBUTTON</Text>
+                    </UIControl>
+
+                    <UIControl>
+                      <InternalName>PlanetQueueRepeatButton</InternalName>
+                      <ControlType>Button</ControlType>
+                      <MyAnchorPoint>BottomRight</MyAnchorPoint>
+                      <RelativeAnchorPoint>BottomRight</RelativeAnchorPoint>
+                      <ArtDefine>CrusadeButtomMediumFilled</ArtDefine>
+                      <DynamicSizeDef>
+                        <PercentRelativeWidth>.33</PercentRelativeWidth>
+                      </DynamicSizeDef>
+                      <FontData>
+                        <AlignmentHorizontal>Center</AlignmentHorizontal>
+                      </FontData>
+                      <Text>REPEATPLANETBUTTON</Text>
+                    </UIControl>
+
+                  </UIControl>
+
+                </UIControl>
+
+              </UIControl>
+
+              <UIControl>
+                <InternalName>PlanetStatsTopLine</InternalName>
+                <ControlType>Frame</ControlType>
+                <MyAnchorPoint>TopCenter</MyAnchorPoint>
+                <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+                <OffsetY>16</OffsetY>
+                <ArtDefine>CrusadeFadeLineHorzLong</ArtDefine>
+                <Height>1</Height>
+                <DynamicSizeDef>
+                  <RelativeWidthMinusConstant>-32</RelativeWidthMinusConstant>
+                </DynamicSizeDef>
+              </UIControl>
+
+            </UIControl>
+
+          </UIControl>
+
+        </UIControl>
+
+        <UIControl>
+          <InternalName>GovernPlanetWnd</InternalName>
+          <ControlType>Custom</ControlType>
+        </UIControl>
+
+        <UIControl>
+          <InternalName>GovernPlanetWithProductionWheelWnd</InternalName>
+          <ControlType>Custom</ControlType>
+        </UIControl>
+
+        <UIControl>
+          <InternalName>PlanetAlphaTitle</InternalName>
+          <ControlType>Frame</ControlType>
+          <MyAnchorPoint>TopCenter</MyAnchorPoint>
+          <RelativeAnchorPoint>TopCenter</RelativeAnchorPoint>
+          <OffsetY>30</OffsetY>
+          <ArtDefine>AlphaImage</ArtDefine>
+          <Width>512</Width>
+          <Height>32</Height>
+        </UIControl>
+
+        <!--I am hideing these off sreen becuse i dont have time to disable them. And we might want to bring them back.-->
+        <UIControl>
+          <InternalName>PlanetYieldFocus1CheckboxContainer</InternalName>
+          <ControlType>Frame</ControlType>
+          <MyAnchorPoint>TopRight</MyAnchorPoint>
+          <RelativeAnchorPoint>TopLeft</RelativeAnchorPoint>
+          <Width>256</Width>
+          <Height>256</Height>
+
+          <UIControl>
+            <InternalName>PlanetYieldFocus1CheckboxControl</InternalName>
+            <ControlType>CheckBox</ControlType>
+            <MyAnchorPoint>TopRight</MyAnchorPoint>
+            <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+            <OffsetX>-14</OffsetX>
+            <OffsetY>6</OffsetY>
+            <Width>16</Width>
+            <Height>16</Height>
+            <Tooltip>Manufacturing_Focus_Tooltip</Tooltip>
+
+            <UIControl>
+              <InternalName>PlanetYieldFocus1CheckBoxButton</InternalName>
+              <ControlType>Button</ControlType>
+              <ArtDefine>CheckBox</ArtDefine>
+            </UIControl>
+
+          </UIControl>
+
+          <UIControl>
+            <InternalName>PlanetYieldFocus2CheckboxControl</InternalName>
+            <ControlType>CheckBox</ControlType>
+            <MyAnchorPoint>TopRight</MyAnchorPoint>
+            <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+            <OffsetX>-14</OffsetX>
+            <OffsetY>6</OffsetY>
+            <Width>16</Width>
+            <Height>16</Height>
+            <Tooltip>Research_Focus_Tooltip</Tooltip>
+
+            <UIControl>
+              <InternalName>PlanetYieldFocus2CheckBoxButton</InternalName>
+              <ControlType>Button</ControlType>
+              <ArtDefine>CheckBox</ArtDefine>
+            </UIControl>
+
+          </UIControl>
+
+          <UIControl>
+            <InternalName>PlanetYieldFocus3CheckboxControl</InternalName>
+            <ControlType>CheckBox</ControlType>
+            <MyAnchorPoint>TopRight</MyAnchorPoint>
+            <RelativeAnchorPoint>TopRight</RelativeAnchorPoint>
+            <OffsetX>-14</OffsetX>
+            <OffsetY>6</OffsetY>
+            <Width>16</Width>
+            <Height>16</Height>
+            <Tooltip>Wealth_Focus_Tooltip</Tooltip>
+
+            <UIControl>
+              <InternalName>PlanetYieldFocus3CheckBoxButton</InternalName>
+              <ControlType>Button</ControlType>
+              <ArtDefine>CheckBox</ArtDefine>
+              <Width>16</Width>
+              <Height>16</Height>
+            </UIControl>
+
+          </UIControl>
+
+        </UIControl>
+
+      </UIControl>
+
+    </UIControl>
+
+  </Screen>
+
+</ScreenFile>

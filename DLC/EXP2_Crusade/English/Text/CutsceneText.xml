@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+ 
+<!-- Event Names and Descriptions -->
+	<StringTable>
+		<Label>FIRST_COLONY_NAME</Label>
+		<String>Primeira Colônia</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_COLONY_DESC</Label>
+		<String>Finalmente, após sua longa jornada, seus colonos puseram os pés em um mundo alienígena. Esforço e luta sem limites foram necessários para chegar até aqui, mas isso é apenas o começo. A galáxia está repleta de mundos para a tomada.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_MEDIUM_SHIP_NAME</Label>
+		<String>Primeira Nave Capitanea</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_MEDIUM_SHIP_DESC</Label>
+		<String>Com uma suave explosão de aceleração, o orgulho de sua frota deixa seu ninho. O primeiro de seu tipo, mas logo será unido por outros - uma frota capaz de dobrar a galáxia à sua vontade, seja ela qual for.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_DURANTIUM_NAME</Label>
+		<String>Primeira mina de Durantium</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_DURANTIUM_DESC</Label>
+		<String>Seus mineiros retornam com a primeira carga de minério de Durantium, detritos rochosos atados com uma cintilação de prata e ouro. Mais denso e resistente do que qualquer coisa que seu povo tenha visto antes, ele pode ser usado em protótipos de armaduras e armas cinéticas.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_ELERIUM_NAME</Label>
+		<String>Primeira mina de Elerium</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_ELERIUM_DESC</Label>
+		<String>Um brilho antinatural enche o navio mineiro enquanto ele atrai o primeiro lote da substância misteriosa, Elerium. É um material que tem estranhos efeitos sinérgicos em sistemas de alta energia, e pode ser usado em protótipos de escudos e armas de raios.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_PROMETHION_NAME</Label>
+		<String>Primeira Mina Promethion</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_PROMETHION_DESC</Label>
+		<String>A primeira de suas sondas retorna com latas cheias de preciosas Promethion. Incrivelmente instável, ao ponto de esta substância simplesmente não dever existir, ela pode ser usada em protótipos de sistemas de suporte de vida e motores.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_THULIUM_NAME</Label>
+		<String>Primeira mina de Thulium</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_THULIUM_DESC</Label>
+		<String>Seus mineiros começam a descarregar sua primeira carga de Thulium. Surpreendentemente monótono, é somente em dimensões mais elevadas que o Thulium mostra seu verdadeiro caráter, capaz de sentir e ser afetado por objetos a grandes distâncias. Isto pode ser usado em protótipos de sensores e sistemas de mira.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_ANTIMATTER_NAME</Label>
+		<String>Primeira Mina de Antimatéria</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_ANTIMATTER_DESC</Label>
+		<String>A primeira de suas sondas de mineração antimatéria - pouco mais que um motor com um furo - retorna da superfície do esquecimento com sua preciosa carga. Tendo resistido a todos os esforços para sintetizá-la, uma fonte confiável de antimatéria pode ser usada em protótipos de mísseis e sistemas de defesa pontual.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_TRANSPORT_NAME</Label>
+		<String>Primeiro Transporte</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_TRANSPORT_DESC</Label>
+    <String>Veni, vidi...ahh quem se importa? Resumindo, esta nave está abastecida com as tropas necessárias para fazer toneladas de novos amigos temporários e levar sua vingança através da galáxia. Aproveite!</String>
+  </StringTable>
+
+	<StringTable>
+		<Label>FIRST_TRADE_ROUTE_NAME</Label>
+		<String>Primeira rota comercial</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_TRADE_ROUTE_DESC</Label>
+		<String>Com uma cerimônia mínima, a primeira de suas fragatas comerciais se afasta de seu deslize. Ela trará de volta uma pequena parte da riqueza da galáxia, a primeira no que certamente será uma longa série de trocas lucrativas para seu povo.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_RAIDED_NAME</Label>
+		<String>Primeira incursão</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_RAIDED_DESC</Label>
+		<String>O canto implacável do sinalizador de socorro contou a história muito antes de seus batedores encontrarem os escombros: Alguém começou a atacar suas fragatas comerciais. Vive sem sentido jogado fora e recursos arrancados de seu alcance. Seu povo é suficientemente forte para perseverar, mas algo terá que ser feito em relação aos vilões por trás disso.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_STARBASE_NAME</Label>
+		<String>Primeira Base Estelar</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_STARBASE_DESC</Label>
+		<String>Seu povo já teve estruturas permanentes no espaço antes, mas nada como isto. Mais do que uma instalação, mais do que um lugar para construir naves, esta base estelar é uma extensão de sua própria civilização. Tudo o que você faz, tudo o que você se orgulha, tudo o que você e seu povo são, existirão aqui.</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_ANOMALY_NAME</Label>
+		<String>Primeira Pesquisa de Anomalias</String>
+	</StringTable>
+
+	<StringTable>
+		<Label>FIRST_ANOMALY_DESC</Label>
+		<String>Seu navio de pesquisa se aproxima cautelosamente do objeto misterioso, todos os sensores ajustados para maximizar o ganho. Um segredo do universo, o primeiro de muitos, está prestes a se revelar para você.</String>
+	</StringTable>
+ 
+  <!--Crusade events-->
+
+  <StringTable>
+    <Label>FIRST_CITIZEN_NAME</Label>
+    <String>Primeiro Cidadão</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>FIRST_CITIZEN_DESC</Label>
+    <String>%s, de %s subiu acima de todos os pares para se tornar um cidadão galáctico. Agora você pode treinar este cidadão para um número cada vez maior de especializações que ajudarão a moldar o destino de sua civilização..</String>
+  </StringTable>
+  
+</StringTableList>

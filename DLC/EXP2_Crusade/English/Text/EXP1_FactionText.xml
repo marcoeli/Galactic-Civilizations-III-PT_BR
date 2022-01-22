@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- EXP1_FactionText.xml -->
+ 
+  <StringTable>
+    <Label>EXP1_PLACE_HOLDER_FCTION_Name</Label>
+    <String>Place Holder Faction</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP1_PLACE_HOLDER_FCTION_ShortName</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP1_PLACE_HOLDER_FCTION_LeaderName</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP1_PLACE_HOLDER_FCTION_Dec</Label>
+    <String>EXP1 factions have been moved to the crusade factions file, this is here to overwrite the existing data from the core game, if you have EXP1 installed.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP1_PLACE_HOLDER_FCTION_LeaderDec</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP1_PLACE_HOLDER_FCTION_Callsign</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP1_PLACE_HOLDER_FCTION_StartupTitle</Label>
+    <String>Place Holder Faction</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP1_PLACE_HOLDER_FCTION_StartupDescription</Label>
+    <String>Place Holder Faction</String>
+  </StringTable>
+  <StringTable>
+    <Label>EXP1_PLACE_HOLDER_FCTION_StartupTraitsDescription</Label>
+    <String>Place Holder Faction</String>
+  </StringTable>
+ 
+</StringTableList>
