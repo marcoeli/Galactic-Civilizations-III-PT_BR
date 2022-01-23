@@ -179,7 +179,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>RuinsEvent_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, +10% Manufacturing</String>
+    <String>+10 Pragmatico, +10% Fabricação</String>
   </StringTable>
   <StringTable>
     <Label>RuinsEvent_Merciless_Bonus_Name</Label>
@@ -216,7 +216,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>SmartPlants_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic</String>
+    <String>+10 Pragmatico</String>
   </StringTable>
   <StringTable>
     <Label>SmartPlants_Merciless_Bonus_Name</Label>
@@ -224,7 +224,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>SmartPlants_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +20% Food Production</String>
+    <String>+10 Malevolente, +20% Produção de alimentos</String>
   </StringTable>
  
   <StringTable>
@@ -245,7 +245,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Worms_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, -10% Food Production, +10% Research</String>
+    <String>+10 Benevolentes, -10% Produção de alimentos, +10% Pesquisa</String>
   </StringTable>
   <StringTable>
     <Label>Worms_Neutral_Bonus_Name</Label>
@@ -254,7 +254,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Worms_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, +10% Food Production</String>
+    <String>+10 Pragmático, +10% Produção de alimentos</String>
   </StringTable>
   <StringTable>
     <Label>Worms_Merciless_Bonus_Name</Label>
@@ -262,7 +262,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Worms_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +20% Food Production, +10% Economy</String>
+    <String>+10 Malevolência, +20% Produção de alimentos, +10% Economia</String>
   </StringTable>
  
   <StringTable>
@@ -275,7 +275,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Disease_Title</Label>
-    <String>Colonizing Event</String>
+    <String>Evento de colonização</String>
   </StringTable>
   <StringTable>
     <Label>Disease_Benevolent_Bonus_Name</Label>
@@ -284,15 +284,15 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Disease_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, -10% Population Growth, +10% Research</String>
+    <String>+10 Benevolente, -10% Crescimento populacional, +10% Pesquisa</String>
   </StringTable>
   <StringTable>
     <Label>Disease_Neutral_Bonus_Name</Label>
-    <String>We'll have to quarantine the people who have the disease, and, sadly, prevent them from reproducing. The rest of the colony can continue on as is. We'll set up a room with a nice thick glass wall for families to briefly reunite.</String>
+    <String>Teremos que colocar em quarentena as pessoas que têm a doença e, infelizmente, impedi-las de se reproduzir. O resto da colônia pode continuar como está. Montaremos uma sala com uma bela parede de vidro espesso para que as famílias se reúnam brevemente.</String>
   </StringTable>
   <StringTable>
     <Label>Disease_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, -5% Population Growth</String>
+    <String>+10 Pragmático, -5% Crescimento da População</String>
   </StringTable>
   <StringTable>
     <Label>Disease_Merciless_Bonus_Name</Label>
@@ -300,7 +300,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Disease_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent</String>
+    <String>+10 Malevolente</String>
   </StringTable>
  
   <StringTable>
@@ -321,7 +321,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>High-GAnimalRacing_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, -10% Approval</String>
+    <String>+10 Benevolente, -10% Aprovação</String>
   </StringTable>
   <StringTable>
     <Label>High-GAnimalRacing_Neutral_Bonus_Name</Label>
@@ -329,7 +329,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>High-GAnimalRacing_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic</String>
+    <String>+10 Pragmatico</String>
   </StringTable>
   <StringTable>
     <Label>High-GAnimalRacing_Merciless_Bonus_Name</Label>
@@ -337,7 +337,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>High-GAnimalRacing_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +30% Tourism</String>
+    <String>+10 Malevolência, +30% Turismo</String>
   </StringTable>
  
   <StringTable>
@@ -358,7 +358,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AlienCulturalTrash_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, +10% Approval, -10% Manufacturing</String>
+    <String>+10 Benevolente, +10% Aprovação, -10% Fabricação</String>
   </StringTable>
   <StringTable>
     <Label>AlienCulturalTrash_Neutral_Bonus_Name</Label>
@@ -366,7 +366,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AlienCulturalTrash_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, +10% Approval, -10% Manufacturing, +10% Economy</String>
+    <String>+10 Pragmático, +10% Aprovação, -10% Fabricação, +10% Economia</String>
   </StringTable>
   <StringTable>
     <Label>AlienCulturalTrash_Merciless_Bonus_Name</Label>
@@ -374,7 +374,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AlienCulturalTrash_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, -10% Approval, +10% Manufacturing</String>
+    <String>+10 Malevolência, -10% Aprovação, +10% Fabricação</String>
   </StringTable>
  
   <StringTable>
@@ -395,7 +395,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AggressiveNatives_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, -10% Population Growth, +20% Influence</String>
+    <String>+10 Benevolente, -10% Crescimento populacional, +20% Influência</String>
   </StringTable>
   <StringTable>
     <Label>AggressiveNatives_Neutral_Bonus_Name</Label>
@@ -403,7 +403,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AggressiveNatives_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, -10% Approval, +10% Productivity</String>
+    <String>+10 Pragmática, -10% Aprovação, +10% Produtividade</String>
   </StringTable>
   <StringTable>
     <Label>AggressiveNatives_Merciless_Bonus_Name</Label>
@@ -411,7 +411,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AggressiveNatives_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, 20% Productivity</String>
+    <String>+10 Malevolência, 20% Produtividade</String>
   </StringTable>
  
   <StringTable>
@@ -432,7 +432,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Haunted_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, -10% Manufacturing, +10% Approval</String>
+    <String>+10 Benevolente, -10% Fabricação, +10% Aprovação</String>
   </StringTable>
   <StringTable>
     <Label>Haunted_Neutral_Bonus_Name</Label>
@@ -440,7 +440,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Haunted_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, +5% Approval</String>
+    <String>+10 Pragmático, +5% Aprovação</String>
   </StringTable>
   <StringTable>
     <Label>Haunted_Merciless_Bonus_Name</Label>
@@ -448,7 +448,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Haunted_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +10% Manufacturing, -10% Approval</String>
+    <String>+10 Malevolência, +10% Fabricação, -10% Aprovação</String>
   </StringTable>
  
   <StringTable>
@@ -469,7 +469,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>PowerfulDrug_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, +10% Approval</String>
+    <String>+10 Benevolente, +10% Aprovação</String>
   </StringTable>
   <StringTable>
     <Label>PowerfulDrug_Neutral_Bonus_Name</Label>
@@ -477,7 +477,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>PowerfulDrug_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, -5% Approval, +10% Economy, +10% Research</String>
+    <String>+10 Pragmática, -5% Aprovação, +10% Economia, +10% Pesquisa</String>
   </StringTable>
   <StringTable>
     <Label>PowerfulDrug_Merciless_Bonus_Name</Label>
@@ -485,7 +485,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>PowerfulDrug_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +10% Productivity</String>
+    <String>+10 Malevolência, +10% Produtividade</String>
   </StringTable>
  
   <StringTable>
@@ -498,7 +498,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Comet_Title</Label>
-    <String>Colonizing Event</String>
+    <String>Evento de colonização</String>
   </StringTable>
   <StringTable>
     <Label>Comet_Benevolent_Bonus_Name</Label>
@@ -506,7 +506,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Comet_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, +10% Research</String>
+    <String>+10 Benevolente, +10% de pesquisa</String>
   </StringTable>
   <StringTable>
     <Label>Comet_Neutral_Bonus_Name</Label>
@@ -514,7 +514,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Comet_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, +10% Research, -100 Credits</String>
+    <String>+10 Pragmático, +10% de Pesquisa, -100 Créditos</String>
   </StringTable>
   <StringTable>
     <Label>Comet_Merciless_Bonus_Name</Label>
@@ -522,7 +522,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Comet_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +10% Research, -20% Approval</String>
+    <String>+10 Malevolência, +10% Pesquisa, -20% Aprovação</String>
   </StringTable>
  
   <StringTable>
@@ -543,7 +543,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Thunderstorms_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, +10% Research</String>
+    <String>+10 Benevolente, +10% de pesquisa</String>
   </StringTable>
   <StringTable>
     <Label>Thunderstorms_Neutral_Bonus_Name</Label>
@@ -551,15 +551,15 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Thunderstorms_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, +30% Research, -5% Manufacturing</String>
+    <String>+10 Pragmática, +30% Pesquisa, -5% Fabricação</String>
   </StringTable>
   <StringTable>
     <Label>Thunderstorms_Merciless_Bonus_Name</Label>
-    <String>They knew what they were getting into when they were born into this society. Send the science nerds in. Give them all gloves or something.</String>
+    <String>Eles sabiam no que estavam se metendo quando nasceram nesta sociedade. Mande entrar os nerds da ciência. Dêem-lhes todas as luvas ou algo assim.</String>
   </StringTable>
   <StringTable>
     <Label>Thunderstorms_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +10% Research, -10% Approval</String>
+    <String>+10 Malevolência, +10% Pesquisa, -10% Aprovação</String>
   </StringTable>
  
   <StringTable>
@@ -568,60 +568,60 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>SolarFlare_Dec</Label>
-    <String>An increased period of solar activity has caused a species of previously dormant insects to suddenly begin swarming, greatly limiting activity in your colony. Your scientists have developed a sonic screen which can kill the insects, but believe there may also be a way to expand the technology to rid the world of the swarm forever. What effects that will have on the ecosystem are as yet unknown. What are your orders?</String>
+    <String>Um aumento do período de atividade solar fez com que uma espécie de insetos anteriormente adormecidos começasse subitamente a enxamear, limitando grandemente a atividade em sua colônia. Seus cientistas desenvolveram uma tela sônica que pode matar os insetos, mas acreditam que também pode haver uma maneira de expandir a tecnologia para livrar o mundo do enxame para sempre. Os efeitos que terão sobre o ecossistema são ainda desconhecidos. Quais são suas ordens?</String>
   </StringTable>
   <StringTable>
     <Label>SolarFlare_Title</Label>
-    <String>Colonizing Event</String>
+    <String>Evento de colonização</String>
   </StringTable>
   <StringTable>
     <Label>SolarFlare_Benevolent_Bonus_Name</Label>
-    <String>If this technology kills en masse, then we simply won't use it. Put everything behind shutters for awhile. This is simply a part of living on alien planets. In fact, consider advertising this strange event to stir up some increased tourism.</String>
+    <String>Se esta tecnologia mata em massa, então simplesmente não vamos usá-la. Coloque tudo atrás das persianas por algum tempo. Isto é simplesmente uma parte da vida em planetas alienígenas. De fato, considere a publicidade deste estranho evento para despertar algum aumento do turismo.</String>
   </StringTable>
   <StringTable>
     <Label>SolarFlare_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, -10% Manufacturing, -10% Approval, +10% Tourism</String>
+    <String>+10 Benevolente, -10% Fabricação, -10% Aprovação, +10% Turismo</String>
   </StringTable>
   <StringTable>
     <Label>SolarFlare_Neutral_Bonus_Name</Label>
-    <String>Apply the technology, but only enough for us to continue colony operations unabated.</String>
+    <String>Aplique a tecnologia, mas apenas o suficiente para que possamos continuar as operações de colônia sem interrupções.</String>
   </StringTable>
   <StringTable>
     <Label>SolarFlare_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic</String>
+    <String>+10 Pragmático</String>
   </StringTable>
   <StringTable>
     <Label>SolarFlare_Merciless_Bonus_Name</Label>
-    <String>Murder all the bugs. Murder the big ones and the little ones and especially the medium sized ones. Murder them all and then see how they taste.</String>
+    <String>Assassinar todos os insetos. Assassinar os grandes e os pequenos e especialmente os de tamanho médio. Assassinar todos eles e depois ver como eles sabem.</String>
   </StringTable>
   <StringTable>
     <Label>SolarFlare_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +20% Food Production</String>
+    <String>+10 Malevolência, +20% Produção de alimentos</String>
   </StringTable>
  
   <StringTable>
     <Label>LeftoverRobots_Name</Label>
-    <String>Leftover Robots</String>
+    <String>Restos de robôs</String>
   </StringTable>
   <StringTable>
     <Label>LeftoverRobots_Dec</Label>
-    <String>This planet was once the home of a fairly advanced alien species that created some extremely long lasting sub-sentient AI systems. Something you've done has triggered these systems defensive protocols, and now anyone who ventures outside of the colony is at risk of attack from primitive robotic creatures. What are your orders?</String>
+    <String>Este planeta já foi o lar de uma espécie exótica bastante avançada que criou alguns sistemas de IA sub-sentientes extremamente duradouros. Algo que você fez desencadeou estes protocolos defensivos de sistemas, e agora qualquer um que se aventure fora da colônia corre o risco de ser atacado por criaturas robóticas primitivas. Quais são suas ordens?</String>
   </StringTable>
   <StringTable>
     <Label>LeftoverRobots_Title</Label>
-    <String>Colonizing Event</String>
+    <String>Evento de colonização</String>
   </StringTable>
   <StringTable>
     <Label>LeftoverRobots_Benevolent_Bonus_Name</Label>
-    <String>So long as we're sure they're subsentient, there's no harm in taking defensive measures to thin out the robots around the colony. Let's just make sure to feel a little guilty about it, and maybe set up a museum to study them.</String>
+    <String>Enquanto tivermos certeza de que eles são subsentientes, não há mal nenhum em tomar medidas defensivas para desbastar os robôs ao redor da colônia. Vamos apenas nos sentir um pouco culpados por isso e talvez montar um museu para estudá-los.</String>
   </StringTable>
   <StringTable>
     <Label>LeftoverRobots_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, +10% Research, +10% Influence</String>
+    <String>+10 Benevolente, +10% Pesquisa, +10% Influência</String>
   </StringTable>
   <StringTable>
     <Label>LeftoverRobots_Neutral_Bonus_Name</Label>
-    <String>Let's not be bashful here; they're pests and can be treated as such. Kill all the robots and feast on their innards.</String>
+    <String>Não sejamos tímidos aqui; eles são pragas e podem ser tratados como tal. Matem todos os robôs e se banqueteiem em suas entranhas.</String>
   </StringTable>
   <StringTable>
     <Label>LeftoverRobots_Neutral_Bonus_Dec</Label>
@@ -629,48 +629,48 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>LeftoverRobots_Merciless_Bonus_Name</Label>
-    <String>Yes. Yes! Let's not just kill all the robots. Let's make it a sport. Let's make this planet the galaxy's premier destination for trophy robot hunting.</String>
+    <String>Sim, sim! Não vamos apenas matar todos os robôs. Vamos fazer disso um esporte. Vamos fazer deste planeta o principal destino da galáxia para a caça de troféus com robôs..</String>
   </StringTable>
   <StringTable>
     <Label>LeftoverRobots_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +30% Tourism</String>
+    <String>+10 Malevolência, +30% Turismo</String>
   </StringTable>
  
   <StringTable>
     <Label>SwarmLikeFish_Name</Label>
-    <String>Swarm Like Fish</String>
+    <String>Enxame como peixe</String>
   </StringTable>
   <StringTable>
     <Label>SwarmLikeFish_Dec</Label>
-    <String>On this planet there is a specific species of fish which seems to possess a form of collective intelligence. The fish seem to become more intelligent the larger the group they're in, and in the largest schools can clearly communicate with us, and even seem to understand advanced concepts like space travel and where we're from. The fish also have several concerns about the way our colony is being built. What are your orders?</String>
+    <String>Neste planeta existe uma espécie específica de peixe que parece possuir uma forma de inteligência coletiva. Os peixes parecem se tornar mais inteligentes quanto maior o grupo em que estão, e nos maiores cardumes podem claramente se comunicar conosco, e até parecem entender conceitos avançados como viagens espaciais e de onde somos. Os peixes também têm várias preocupações sobre a forma como nossa colônia está sendo construída. Quais são suas ordens?</String>
   </StringTable>
   <StringTable>
     <Label>SwarmLikeFish_Title</Label>
-    <String>Colonizing Event</String>
+    <String>Evento de colonização</String>
   </StringTable>
   <StringTable>
     <Label>SwarmLikeFish_Benevolent_Bonus_Name</Label>
-    <String>Do everything we can to accommodate the fish, and ensure all future colony development is run by them first. This is their home, and we will benefit more if we're gracious guests. In the meantime, do what we can to study their collectivized intelligence.</String>
+    <String>Fazer tudo o que pudermos para acomodar os peixes e garantir que todo o desenvolvimento futuro da colônia seja gerenciado por eles primeiro. Esta é a casa deles, e nos beneficiaremos mais se formos hóspedes graciosos. Enquanto isso, faça o que pudermos para estudar sua inteligência coletivizada.</String>
   </StringTable>
   <StringTable>
     <Label>SwarmLikeFish_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, +10% Research, -10% Manufacturing</String>
+    <String>+10 Benevolente, +10% Pesquisa, -10% Fabricação</String>
   </StringTable>
   <StringTable>
     <Label>SwarmLikeFish_Neutral_Bonus_Name</Label>
-    <String>Continue to seek the guidance and counsel of the fish, though let's not forget our place here. We're the ones that can actually do space travel.</String>
+    <String>Continue a buscar a orientação e o conselho dos peixes, embora não esqueçamos nosso lugar aqui. Somos nós que realmente podemos fazer viagens espaciais.</String>
   </StringTable>
   <StringTable>
     <Label>SwarmLikeFish_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, +10% Research</String>
+    <String>+10 Pragmática, +10% de pesquisa</String>
   </StringTable>
   <StringTable>
     <Label>SwarmLikeFish_Merciless_Bonus_Name</Label>
-    <String>Warn the fish that we're not popular in this part of space, and that now they won't be popular either. Enlist them to supplement our defensive perimeter. If anyone invades, get the fish to clog the enemy's guns with their dead.</String>
+    <String>Avise os peixes que não somos populares nesta parte do espaço, e que agora eles também não serão populares. Aliste-os para complementar nosso perímetro defensivo. Se alguém invadir, faça com que o peixe entupa as armas do inimigo com seus mortos.</String>
   </StringTable>
   <StringTable>
     <Label>SwarmLikeFish_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +10% Resistance Bonus</String>
+    <String>+10 Malévolo, +10% de Bônus de Resistência</String>
   </StringTable>
  
   <StringTable>
@@ -679,35 +679,35 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>SuperShark_Dec</Label>
-    <String>The waters of this planet are patrolled by a monstrously large creature, filled with teeth and ill will. It seems to have taken a particular interest in your colony and has already killed many of your colonists with its aforementioned teeth and ill will. Your scientists have come up with a way of destroying the beast -- it's a really big gun -- but aren't sure what effect removing an alpha predator will have on the ecosystem or the impact to our kelp farms. What are your orders?</String>
+    <String>As águas deste planeta são patrulhadas por uma criatura monstruosamente grande, cheia de dentes e de má vontade. Parece ter tido um interesse particular em sua colônia e já matou muitos de seus colonos com seus dentes e má vontade acima mencionados. Seus cientistas descobriram uma maneira de destruir a besta - é uma arma realmente grande - mas não têm certeza do efeito que a remoção de um predador alfa terá sobre o ecossistema ou o impacto para nossas fazendas de algas. Quais são suas ordens?</String>
   </StringTable>
   <StringTable>
     <Label>SuperShark_Title</Label>
-    <String>Colonizing Event</String>
+    <String>Evento de colonização</String>
   </StringTable>
   <StringTable>
     <Label>SuperShark_Benevolent_Bonus_Name</Label>
-    <String>We can't be reckless here. Tell the scientists to study the creature further, until they can come up with some kind of passive defense. Until then, keep everyone inside.</String>
+    <String>Não podemos ser imprudentes aqui. Diga aos cientistas para estudarem mais a criatura, até que eles possam inventar algum tipo de defesa passiva. Até lá, mantenha todos lá dentro.</String>
   </StringTable>
   <StringTable>
     <Label>SuperShark_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, -10% Food, +10% Research</String>
+    <String>+10 Benevolentes, -10% Alimentos, +10% Pesquisa</String>
   </StringTable>
   <StringTable>
     <Label>SuperShark_Neutral_Bonus_Name</Label>
-    <String>If the beast is threatening our people we can't let it exist. Destroy the creature and get on with our lives. If it messes up the local ecosystem, we'll just have to deal with it.</String>
+    <String>Se a besta está ameaçando nosso povo, não podemos deixar que ela exista. Destruir a criatura e seguir em frente com nossas vidas. Se ela atrapalhar o ecossistema local, teremos que lidar com ela.</String>
   </StringTable>
   <StringTable>
     <Label>SuperShark_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, -10% Food Production</String>
+    <String>+10 Pragmática, -10% Produção de alimentos</String>
   </StringTable>
   <StringTable>
     <Label>SuperShark_Merciless_Bonus_Name</Label>
-    <String>Is there any way to harness the power of this animal? Tell the scientists to invent a cage. Then use that cage to trap the beast and let it loose on anyone that tries to attack us.</String>
+    <String>Existe alguma maneira de aproveitar o poder deste animal? Diga aos cientistas para inventarem uma gaiola. Depois use essa gaiola para prender a besta e deixá-la solta em qualquer um que tente nos atacar.</String>
   </StringTable>
   <StringTable>
     <Label>SuperShark_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +10% Resistance Bonus, -10% Food Production</String>
+    <String>+10 Malévolo, +10% de Bônus de Resistência, -10% de Produção de Alimentos</String>
   </StringTable>
  
   <StringTable>
@@ -716,60 +716,60 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Animalstotame_Dec</Label>
-    <String>The terrain of this planet has proven very challenging for our conventional ground vehicles to deal with, and some colonists have begun capturing and taming a hardy local species of marsupial to use for hopping around between buildings and colonies. The animals are well suited for the work, and don't seem to be suffering, but there have been a few accidents, and animal rights activists across the galaxy are demanding the practice be banned. What are your orders?</String>
+    <String>O terreno deste planeta provou ser muito desafiador para nossos veículos terrestres convencionais, e alguns colonos começaram a capturar e domesticar uma espécie local resistente de marsupial para usar para saltar entre edifícios e colônias. Os animais são bem adequados para o trabalho e não parecem sofrer, mas houve alguns acidentes e os ativistas dos direitos dos animais em toda a galáxia estão exigindo que a prática seja banida. Quais são suas ordens?</String>
   </StringTable>
   <StringTable>
     <Label>Animalstotame_Title</Label>
-    <String>Colonizing Event</String>
+    <String>Evento de colonização</String>
   </StringTable>
   <StringTable>
     <Label>Animalstotame_Benevolent_Bonus_Name</Label>
-    <String>This is shockingly primitive, disrespectful of the inherent rights these beasts have, and looks a bit silly. End the practice at once. Any animals too tame to return to the wild can be kept as pets.</String>
+    <String>Isto é chocantemente primitivo, desrespeitoso dos direitos inerentes a estes animais, e parece um pouco bobo. Acabe imediatamente com a prática. Qualquer animal domesticado demais para voltar à natureza pode ser mantido como animal de estimação.</String>
   </StringTable>
   <StringTable>
     <Label>Animalstotame_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, +10% Approval</String>
+    <String>+10 Benevolente, +10% Aprovação</String>
   </StringTable>
   <StringTable>
     <Label>Animalstotame_Neutral_Bonus_Name</Label>
-    <String>If the animals aren't overly suffering, what's the harm? Allow the practice to continue, but at least begin monitoring and regulating it.</String>
+    <String>Se os animais não estão sofrendo demais, qual é o mal? Permita que a prática continue, mas pelo menos comece a monitorá-la e regulá-la.</String>
   </StringTable>
   <StringTable>
     <Label>Animalstotame_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, +10% Manufacturing</String>
+    <String>+10 Pragmático, +10% de fabricação</String>
   </StringTable>
   <StringTable>
     <Label>Animalstotame_Merciless_Bonus_Name</Label>
-    <String>Would the animals work harder if they were suffering? See if we can find a way to make the animals suffer.</String>
+    <String>Será que os animais trabalhariam mais se estivessem sofrendo? Veja se conseguimos encontrar uma maneira de fazer os animais sofrerem.</String>
   </StringTable>
   <StringTable>
     <Label>Animalstotame_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +15% Manufacturing</String>
+    <String>+10 Malevolência, +15% Fabricação</String>
   </StringTable>
  
   <StringTable>
     <Label>CollapsingIceBridge_Name</Label>
-    <String>Collapsing Ice Bridge</String>
+    <String>Ponte de gelo em colapso</String>
   </StringTable>
   <StringTable>
     <Label>CollapsingIceBridge_Dec</Label>
-    <String>Two continents of this planet are joined by a massive ice bridge, which is beginning to collapse. A number of primitive tribes still make their home on this bridge and are in danger of dying within the next year if they're not relocated. The ice bridge is remote however, and this won't come cheaply. What are your orders?</String>
+    <String>Dois continentes deste planeta estão unidos por uma enorme ponte de gelo, que está começando a ruir. Várias tribos primitivas ainda fazem sua casa nesta ponte e correm o risco de morrer dentro do próximo ano se não forem realocadas. A ponte de gelo é remota, porém, e isto não será barato. Quais são suas ordens?</String>
   </StringTable>
   <StringTable>
     <Label>CollapsingIceBridge_Title</Label>
-    <String>Colonizing Event</String>
+    <String>Evento de colonização</String>
   </StringTable>
   <StringTable>
     <Label>CollapsingIceBridge_Benevolent_Bonus_Name</Label>
-    <String>We can't let sentient life perish and do nothing to prevent it. Divert all the necessary resources to assist the natives find safety.</String>
+    <String>Não podemos deixar a vida sensível perecer e não fazer nada para impedi-la. Desviar todos os recursos necessários para ajudar os nativos a encontrar segurança.</String>
   </StringTable>
   <StringTable>
     <Label>CollapsingIceBridge_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, -5% Manufacturing, +10% Approval</String>
+    <String>+10 Benevolente, -5% Fabricação, +10% Aprovação</String>
   </StringTable>
   <StringTable>
     <Label>CollapsingIceBridge_Neutral_Bonus_Name</Label>
-    <String>We have a hard enough time keeping our own people alive here. And interfering with primitive species always leads to complications.</String>
+    <String>Já temos dificuldade suficiente para manter vivo nosso próprio povo aqui. E a interferência com espécies primitivas sempre leva a complicações.</String>
   </StringTable>
   <StringTable>
     <Label>CollapsingIceBridge_Neutral_Bonus_Dec</Label>
@@ -777,48 +777,48 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CollapsingIceBridge_Merciless_Bonus_Name</Label>
-    <String>It's time we put these primitives to work for us. Rescue as many as we can, and relocate them to Safety Camps where they can assist with various activities until their debt is paid.</String>
+    <String>É hora de colocarmos estes primitivos para trabalhar para nós. Resgatar o máximo que pudermos e realojá-los em Acampamentos de Segurança onde eles podem ajudar em várias atividades até que sua dívida seja paga.</String>
   </StringTable>
   <StringTable>
     <Label>CollapsingIceBridge_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +10% Manufacturing</String>
+    <String>+10 Malevolência, +10% de fabricação</String>
   </StringTable>
  
   <StringTable>
     <Label>WaterReclamation_Name</Label>
-    <String>Water Reclamation</String>
+    <String>Reclamação de água</String>
   </StringTable>
   <StringTable>
     <Label>WaterReclamation_Dec</Label>
-    <String>A new source of subterranean water has been discovered which if accessed could dramatically help this colony. The water could be used to boost food production or even just people's quality of life. Baths might be possible again, for example. What are your orders?</String>
+    <String>Foi descoberta uma nova fonte de água subterrânea que, se acessada, poderia ajudar dramaticamente esta colônia. A água poderia ser usada para aumentar a produção de alimentos ou mesmo apenas a qualidade de vida das pessoas. Os banhos poderiam ser possíveis novamente, por exemplo. Quais são suas ordens?</String>
   </StringTable>
   <StringTable>
     <Label>WaterReclamation_Title</Label>
-    <String>Colonizing Event</String>
+    <String>Evento de colonização</String>
   </StringTable>
   <StringTable>
     <Label>WaterReclamation_Benevolent_Bonus_Name</Label>
-    <String>Divert some of the water to food production, but make as much of it available to the people as possible to ease the burden of our colony's onerous water restrictions.</String>
+    <String>Desviar parte da água para a produção de alimentos, mas disponibilizar o máximo possível ao povo para aliviar o fardo das restrições onerosas da água de nossa colônia.</String>
   </StringTable>
   <StringTable>
     <Label>WaterReclamation_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, +5% Food Production, +20% Approval</String>
+    <String>+10 Benevolentes, +5% Produção de alimentos, +20% Aprovação</String>
   </StringTable>
   <StringTable>
     <Label>WaterReclamation_Neutral_Bonus_Name</Label>
-    <String>We can't be wasteful with this bounty. Direct all the water to food production.</String>
+    <String>Não podemos ser esbanjadores com esta recompensa. Direcionar toda a água para a produção de alimentos.</String>
   </StringTable>
   <StringTable>
     <Label>WaterReclamation_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, +10% Food Production</String>
+    <String>+10 Pragmático, +10% Produção de alimentos</String>
   </StringTable>
   <StringTable>
     <Label>WaterReclamation_Merciless_Bonus_Name</Label>
-    <String>The people will work harder if we can offer extra water as performance incentives. Also, now we can finally afford for people to work up a sweat.</String>
+    <String>As pessoas trabalharão mais se pudermos oferecer água extra como incentivo ao desempenho. Além disso, agora podemos finalmente dar-nos ao luxo de trabalhar para suar.</String>
   </StringTable>
   <StringTable>
     <Label>WaterReclamation_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +10% Manufacturing</String>
+    <String>+10 Malevolência, +10% de fabricação</String>
   </StringTable>
  
   <StringTable>
@@ -827,294 +827,294 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Scorpions_Dec</Label>
-    <String>This planet is populated by a species of gigantic subterranean insects that are thankfully normally not hostile to us. Our scientists have identified that the walls of their nests are lined with rare minerals which we could potentially excavate. This will not please the scorpions. What are your orders?</String>
+    <String>Este planeta é povoado por uma espécie de gigantescos insetos subterrâneos que, felizmente, normalmente não são hostis a nós. Nossos cientistas identificaram que as paredes de seus ninhos são revestidas de minerais raros que poderíamos potencialmente escavar. Isto não vai agradar aos escorpiões. Quais são suas ordens?</String>
   </StringTable>
   <StringTable>
     <Label>Scorpions_Title</Label>
-    <String>Colonizing Event</String>
+    <String>Evento de colonização</String>
   </StringTable>
   <StringTable>
     <Label>Scorpions_Benevolent_Bonus_Name</Label>
-    <String>Leave the giant scorpions be. For the obvious reasons, and also because they have become almost mascots of this colony, and anything which disturbs them will only make people unhappy.</String>
+    <String>Deixe os escorpiões gigantes em paz. Pelas razões óbvias, e também porque eles se tornaram quase mascotes desta colônia, e qualquer coisa que os perturbe só vai fazer as pessoas infelizes.</String>
   </StringTable>
   <StringTable>
     <Label>Scorpions_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, +10% Approval</String>
+    <String>+10 Benevolente, +10% Aprovação</String>
   </StringTable>
   <StringTable>
     <Label>Scorpions_Neutral_Bonus_Name</Label>
-    <String>We won't risk an all out scorpion war but this is worth studying further. Continue with non-invasive research to find out why and how these beasts are gathering or producing these rare minerals.</String>
+    <String>Não arriscaremos uma guerra de escorpiões, mas isto vale a pena estudar mais. Continue com a pesquisa não invasiva para descobrir por que e como estes animais estão reunindo ou produzindo estes minerais raros.</String>
   </StringTable>
   <StringTable>
     <Label>Scorpions_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, +10% Research</String>
+    <String>+10 Pragmática, +10% de pesquisa</String>
   </StringTable>
   <StringTable>
     <Label>Scorpions_Merciless_Bonus_Name</Label>
-    <String>We shall crush the insects like... insects. Take their valuables and order everyone to wear boots if they're leaving the colony.</String>
+    <String>Vamos esmagar os insetos como... insetos. Pegue seus objetos de valor e ordene a todos que usem botas se estiverem deixando a colônia.</String>
   </StringTable>
   <StringTable>
     <Label>Scorpions_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +20% Manufacturing</String>
+    <String>+10 Malevolência, +20% Fabricação</String>
   </StringTable>
  
   <StringTable>
     <Label>MysteriousNatives_Name</Label>
-    <String>Mysterious Natives</String>
+    <String>Nativos misteriosos</String>
   </StringTable>
   <StringTable>
     <Label>MysteriousNatives_Dec</Label>
-    <String>This world has a group of mysterious nomadic natives who carry with them relics far more advanced than the rest of their technology. Their oral history give hints that they arrived here from a long journey some hundreds of years earlier and your scientists get the impression they're a failed colony which has regressed to pre-industrial levels. It's possible some of their relics could be of interest to your researchers, but they're quite valuable to the natives. What are your orders?</String>
+    <String>Este mundo tem um grupo de misteriosos nativos nômades que carregam consigo relíquias muito mais avançadas do que o resto de sua tecnologia. Sua história oral dá pistas de que eles chegaram aqui de uma longa jornada algumas centenas de anos antes e seus cientistas têm a impressão de que são uma colônia fracassada que regressou aos níveis pré-industriais. É possível que algumas de suas relíquias possam ser de interesse para seus pesquisadores, mas elas são bastante valiosas para os nativos. Quais são suas ordens?</String>
   </StringTable>
   <StringTable>
     <Label>MysteriousNatives_Title</Label>
-    <String>Colonizing Event</String>
+    <String>Evento de colonização</String>
   </StringTable>
   <StringTable>
     <Label>MysteriousNatives_Benevolent_Bonus_Name</Label>
-    <String>Leave the natives and their treasures be. Begin documenting their fascinating oral history however, which may be of interest to others in our culture.</String>
+    <String>Deixar os nativos e seus tesouros em paz. Comece a documentar sua fascinante história oral, que pode ser de interesse para outros em nossa cultura.</String>
   </StringTable>
   <StringTable>
     <Label>MysteriousNatives_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, +10% Influence</String>
+    <String>+10 Benevolente, +10% Influência</String>
   </StringTable>
   <StringTable>
     <Label>MysteriousNatives_Neutral_Bonus_Name</Label>
-    <String>Leave the natives and their treasures be. Continue speaking with them however, to learn any other secrets they might have at how to survive on this world.</String>
+    <String>Deixar os nativos e seus tesouros em paz. Continue falando com eles, no entanto, para aprender quaisquer outros segredos que eles possam ter sobre como sobreviver neste mundo.</String>
   </StringTable>
   <StringTable>
     <Label>MysteriousNatives_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, +10% Population Growth</String>
+    <String>+10 Pragmático, +10% de crescimento da população</String>
   </StringTable>
   <StringTable>
     <Label>MysteriousNatives_Merciless_Bonus_Name</Label>
-    <String>These fools don't know the power of the trinkets they hold. Take them from them for their own safety, and also, sure, for our benefit.</String>
+    <String>Esses tolos não sabem o poder das bugigangas que possuem. Tirem-nas deles para sua própria segurança e também, com certeza, para nosso benefício.</String>
   </StringTable>
   <StringTable>
     <Label>MysteriousNatives_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +10% Research</String>
+    <String>+10 Malévolo, +10% de pesquisa</String>
   </StringTable>
  
   <StringTable>
     <Label>Mutations_Name</Label>
-    <String>Mutations</String>
+    <String>Mutações</String>
   </StringTable>
   <StringTable>
     <Label>Mutations_Dec</Label>
-    <String>Despite the equipment and protocols set up to protect against the massive radiation on this planet, mutations are a fact of life for those who live here. The worst and most threatening mutations are dealt with surgically, but cosmetic disfigurements are often left as is, and the colonists simply learn to live with them. But the sight of these mutations are pretty upsetting for anyone who visits from off world, and trade is beginning to suffer. What are your orders?</String>
+    <String>Apesar dos equipamentos e protocolos estabelecidos para proteger contra a radiação maciça neste planeta, as mutações são um fato de vida para aqueles que vivem aqui. As piores e mais ameaçadoras mutações são tratadas cirurgicamente, mas as desfigurações cosméticas são frequentemente deixadas como estão, e os colonos simplesmente aprendem a viver com elas. Mas a visão destas mutações é bastante perturbadora para quem visita o mundo fora, e o comércio está começando a sofrer. Quais são suas ordens?</String>
   </StringTable>
   <StringTable>
     <Label>Mutations_Title</Label>
-    <String>Colonizing Event</String>
+    <String>Evento de colonização</String>
   </StringTable>
   <StringTable>
     <Label>Mutations_Benevolent_Bonus_Name</Label>
-    <String>Leave the colonists be. The rest of our civilization will simply have to learn to deal with it.</String>
+    <String>Deixar os colonos em paz. O resto de nossa civilização terá simplesmente que aprender a lidar com isso.</String>
   </StringTable>
   <StringTable>
     <Label>Mutations_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, +10% Approval, -10% Local Trade Revenue</String>
+    <String>+10 Benevolentes, +10% Aprovação, -10% Receita comercial local</String>
   </StringTable>
   <StringTable>
     <Label>Mutations_Neutral_Bonus_Name</Label>
-    <String>Begin encouraging the colonists to be more discreet in their dress and demeanor when dealing with people from off world. This won't make anyone happy, but will at least minimize the downsides for everyone.</String>
+    <String>Comece a encorajar os colonos a serem mais discretos em seu traje e comportamento ao lidar com pessoas de fora do mundo. Isto não fará ninguém feliz, mas pelo menos minimizará os inconvenientes para todos.</String>
   </StringTable>
   <StringTable>
     <Label>Mutations_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, -5% Local Approval</String>
+    <String>+10 Pragmática, -5% Aprovação local</String>
   </StringTable>
   <StringTable>
     <Label>Mutations_Merciless_Bonus_Name</Label>
-    <String>This is disgusting, and these freaks will have to learn how to get along with the civilized world. Ban anyone with visible mutations from having an off world facing role. Begin encouraging the development of a hood and cloak economic sector.</String>
+    <String>Isto é nojento, e estes aberrações terão que aprender como se dar bem com o mundo civilizado. Proibir qualquer pessoa com mutações visíveis de ter um papel fora do mundo. Comece a incentivar o desenvolvimento de um setor econômico de capuz e manto.</String>
   </StringTable>
   <StringTable>
     <Label>Mutations_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, -10% Local Approval, +10% Economy</String>
+    <String>+10 Malevolência, -10% Aprovação local, +10% Economia</String>
   </StringTable>
  
   <StringTable>
     <Label>IntelligentRadiation_Name</Label>
-    <String>Intelligent Radiation</String>
+    <String>Radiação inteligente</String>
   </StringTable>
   <StringTable>
     <Label>IntelligentRadiation_Dec</Label>
-    <String>The intense background radiation of this world occasionally causes strange interference patterns in display screens around your colony, and recently these patterns have shown signs of intelligent thought. Your scientists trace the patterns to crystal outcroppings around your colony. Studying this new form of intelligence could open the door to incredible breakthroughs in the understanding of life. On the other hand, those crystals are pretty valuable looking. What are your orders?</String>
+    <String>A intensa radiação de fundo deste mundo ocasionalmente causa estranhos padrões de interferência em telas de exibição ao redor de sua colônia, e recentemente estes padrões têm mostrado sinais de pensamento inteligente. Seus cientistas rastreiam os padrões até afloramentos de cristais ao redor de sua colônia. Estudar esta nova forma de inteligência poderia abrir a porta para incríveis avanços na compreensão da vida. Por outro lado, esses cristais têm um aspecto bastante valioso. Quais são suas ordens?</String>
   </StringTable>
   <StringTable>
     <Label>IntelligentRadiation_Title</Label>
-    <String>Colonizing Event</String>
+    <String>Evento de colonização</String>
   </StringTable>
   <StringTable>
     <Label>IntelligentRadiation_Benevolent_Bonus_Name</Label>
-    <String>We will of course approach something with even the hint of intelligence with the utmost respect. Begin studying the crystals and radiation with an eye towards opening a dialog.</String>
+    <String>É claro que abordaremos algo até mesmo com a dica da inteligência com o máximo respeito. Comece a estudar os cristais e a radiação com um olho voltado para a abertura de um diálogo.</String>
   </StringTable>
   <StringTable>
     <Label>IntelligentRadiation_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, +10% Research, +10% Influence</String>
+    <String>+10 Benevolente, +10% Pesquisa, +10% Influência</String>
   </StringTable>
   <StringTable>
     <Label>IntelligentRadiation_Neutral_Bonus_Name</Label>
-    <String>It seems unlikely intelligence could exist within a static crystal, but something interesting is going on here. Begin intensive study of the crystals to find out what's happening.</String>
+    <String>Parece improvável que exista inteligência dentro de um cristal estático, mas algo interessante está acontecendo aqui. Comece o estudo intensivo dos cristais para descobrir o que está acontecendo.</String>
   </StringTable>
   <StringTable>
     <Label>IntelligentRadiation_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, +10% Research</String>
+    <String>+10 Pragmática, +10% de pesquisa</String>
   </StringTable>
   <StringTable>
     <Label>IntelligentRadiation_Merciless_Bonus_Name</Label>
-    <String>If the crystals are valuable this is an easy decision. Mine them and sell them. If they fetch a higher price, then sure, claim they're intelligent.</String>
+    <String>Se os cristais são valiosos, esta é uma decisão fácil. Minere e venda-os. Se eles forem buscar um preço mais alto, então com certeza, alegam que são inteligentes.</String>
   </StringTable>
   <StringTable>
     <Label>IntelligentRadiation_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +10% Economy</String>
+    <String>+10 Malevolência, +10% Economia</String>
   </StringTable>
  
   <StringTable>
     <Label>MiningAccidents_Name</Label>
-    <String>Mining Accidents</String>
+    <String>Acidentes de mineração</String>
   </StringTable>
   <StringTable>
     <Label>MiningAccidents_Dec</Label>
-    <String>Your geologists have come across an incredibly rich vein of rare minerals which could dramatically increase the economic output of this colony. Unfortunately, accessing them will be incredibly dangerous work, and even with the use of automated tools, the entire colony will ultimately be more exposed to radioactive elements. What are your orders?</String>
+    <String>Seus geólogos se depararam com uma veia incrivelmente rica de minerais raros que poderiam aumentar drasticamente a produção econômica desta colônia. Infelizmente, o acesso a eles será um trabalho incrivelmente perigoso e, mesmo com o uso de ferramentas automatizadas, toda a colônia acabará ficando mais exposta a elementos radioativos. Quais são suas ordens?</String>
   </StringTable>
   <StringTable>
     <Label>MiningAccidents_Title</Label>
-    <String>Colonizing Event</String>
+    <String>Evento de colonização</String>
   </StringTable>
   <StringTable>
     <Label>MiningAccidents_Benevolent_Bonus_Name</Label>
-    <String>If it can't be done safely, it can't be done at all. Collect the resources which can be gathered safely, but leave the rest as is.</String>
+    <String>Se não pode ser feito com segurança, não pode ser feito de forma alguma. Recolha os recursos que podem ser reunidos com segurança, mas deixe o resto como está.</String>
   </StringTable>
   <StringTable>
     <Label>MiningAccidents_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, +10% Economy</String>
+    <String>+10 Benevolente, +10% Economia</String>
   </StringTable>
   <StringTable>
     <Label>MiningAccidents_Neutral_Bonus_Name</Label>
-    <String>Do what we can to extract it safely, using as many automated techniques as possible.</String>
+    <String>Fazer o que pudermos para extraí-lo com segurança, utilizando o máximo de técnicas automatizadas possíveis.</String>
   </StringTable>
   <StringTable>
     <Label>MiningAccidents_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, +10% Economy, -5% Population Growth</String>
+    <String>+10 Pragmático, +10% Economia, -5% Crescimento populacional</String>
   </StringTable>
   <StringTable>
     <Label>MiningAccidents_Merciless_Bonus_Name</Label>
-    <String>Mine it all. Rare minerals are rare in a way that people aren't.</String>
+    <String>Mine tudo. Os minerais raros são raros de uma forma que as pessoas não são.</String>
   </StringTable>
   <StringTable>
     <Label>MiningAccidents_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +10% Economy, -50% Population Growth</String>
+    <String>+10 Malevolência, +10% Economia, -50% Crescimento populacional</String>
   </StringTable>
  
   <StringTable>
     <Label>FunnyTastingFood_Name</Label>
-    <String>Funny Tasting Food</String>
+    <String>Alimentos com sabor engraçado</String>
   </StringTable>
   <StringTable>
     <Label>FunnyTastingFood_Dec</Label>
-    <String>Food grown on this planet has to undergo intense treatment to reduce the trace poisons which permeate the world, a process which results in a distinct taste. Locals don't notice anything unusual, but off-world visitors find it exceedingly strange and even exotic tasting. Of late, the outside world has developed a faddish taste for this colony's food, and there has been much demand for the export of it, even to the point of leaving this colony short of food. What are your orders?</String>
+    <String>Os alimentos cultivados neste planeta têm que passar por um tratamento intenso para reduzir os traços de venenos que permeiam o mundo, um processo que resulta em um sabor distinto. Os habitantes locais não notam nada de anormal, mas os visitantes de fora do mundo acham isso extremamente estranho e até mesmo uma degustação exótica. Ultimamente, o mundo exterior tem desenvolvido um sabor fadigoso para a comida desta colônia, e tem havido muita demanda para sua exportação, a ponto de deixar esta colônia sem comida. Quais são suas ordens?</String>
   </StringTable>
   <StringTable>
     <Label>FunnyTastingFood_Title</Label>
-    <String>Colonizing Event</String>
+    <String>Evento de colonização</String>
   </StringTable>
   <StringTable>
     <Label>FunnyTastingFood_Benevolent_Bonus_Name</Label>
-    <String>We need the food more here than elsewhere, though we can at least share the techniques we use to make it so it can be recreated elsewhere.</String>
+    <String>Precisamos da comida mais aqui do que em qualquer outro lugar, embora possamos ao menos compartilhar as técnicas que usamos para fazê-la de modo que possa ser recriada em outro lugar.</String>
   </StringTable>
   <StringTable>
     <Label>FunnyTastingFood_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, +10% Influence, +10% Approval</String>
+    <String>+10 Benevolente, +10% Influência, +10% Aprovação</String>
   </StringTable>
   <StringTable>
     <Label>FunnyTastingFood_Neutral_Bonus_Name</Label>
-    <String>Well lets not do anything to endanger this colony's health, but beyond that, there's no harm in selling any excess food.</String>
+    <String>Bem, não vamos fazer nada para colocar em perigo a saúde desta colônia, mas além disso, não há mal nenhum em vender qualquer excesso de alimentos.</String>
   </StringTable>
   <StringTable>
     <Label>FunnyTastingFood_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, +10% Influence, +10% Economy</String>
+    <String>+10 Pragmático, +10% Influência, +10% Economia</String>
   </StringTable>
   <StringTable>
     <Label>FunnyTastingFood_Merciless_Bonus_Name</Label>
-    <String>If it's more valuable elsewhere, it shall be sent elsewhere.</String>
+    <String>Se for mais valioso em outro lugar, deve ser enviado para outro lugar.</String>
   </StringTable>
   <StringTable>
     <Label>FunnyTastingFood_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +10% Economy, -10% Approval, -10% Food Production</String>
+    <String>+10 Malevolência, +10% Economia, -10% Aprovação, -10% Produção de alimentos</String>
   </StringTable>
  
   <StringTable>
     <Label>LeakingSeals_Name</Label>
-    <String>Leaking Seals</String>
+    <String>Vedações com vazamento</String>
   </StringTable>
   <StringTable>
     <Label>LeakingSeals_Dec</Label>
-    <String>A sudden increase in storm activity on this planet has dramatically increased the weathering of the seals on your colony buildings. A new generation of self-healing seals will help minimize the damage, but replacing them all could be pretty expensive. What are your orders?</String>
+    <String>Um aumento repentino da atividade das tempestades neste planeta aumentou drasticamente a meteorologia dos vedantes nos edifícios de sua colônia. Uma nova geração de vedações auto-curativas ajudará a minimizar os danos, mas a substituição de todas elas pode ser bastante cara. Quais são suas ordens?</String>
   </StringTable>
   <StringTable>
     <Label>LeakingSeals_Title</Label>
-    <String>Colonizing Event</String>
+    <String>Evento de colonização</String>
   </StringTable>
   <StringTable>
     <Label>LeakingSeals_Benevolent_Bonus_Name</Label>
-    <String>Our colonists won't be made to suffer for our cheapness. Install the new seals, whatever the cost.</String>
+    <String>Nossos colonos não serão prejudicados por nossa mesquinhez. Instalar os novos vedantes, custe o que custar.</String>
   </StringTable>
   <StringTable>
     <Label>LeakingSeals_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, -10% Manufacturing</String>
+    <String>+10 Benevolentes, -10% de fabricação</String>
   </StringTable>
   <StringTable>
     <Label>LeakingSeals_Neutral_Bonus_Name</Label>
-    <String>Let's begin installing the new seals on an attrition basis, as the old ones break down. That should keep everyone safe enough, even if it does make us look cheap.</String>
+    <String>Vamos começar a instalar os novos vedantes com base no atrito, à medida que os antigos se quebram. Isso deve manter todos suficientemente seguros, mesmo que isso nos faça parecer sovinas.</String>
   </StringTable>
   <StringTable>
     <Label>LeakingSeals_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, -5% Approval, -5% Manufacturing</String>
+    <String>+10 Pragmática, -5% Aprovação, -5% Fabricação</String>
   </StringTable>
   <StringTable>
     <Label>LeakingSeals_Merciless_Bonus_Name</Label>
-    <String>We can't afford that. And even if we could, we don't want to coddle these people. They'll never develop a tolerance for poison that way.</String>
+    <String>Não podemos nos dar a esse luxo. E mesmo que pudéssemos, não queremos mimar essas pessoas. Eles nunca desenvolverão uma tolerância ao veneno dessa maneira.</String>
   </StringTable>
   <StringTable>
     <Label>LeakingSeals_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, -10% Population Growth</String>
+    <String>+10 Malévolo, -10% de crescimento populacional</String>
   </StringTable>
  
   <StringTable>
     <Label>BeautifulSunsets_Name</Label>
-    <String>Beautiful Sunsets</String>
+    <String>Lindos Pôr-do-sol</String>
   </StringTable>
   <StringTable>
     <Label>BeautifulSunsets_Dec</Label>
-    <String>The atmosphere of this planet, thick with poisonous particulates, does have the side effect of causing beautiful, even spectacular sunsets, and word has spread through the galaxy of their beauty. A burgeoning tourist industry has developed, resulting in many coughing tourists, ignorant of the dangers of this planet. Your colonists are getting tired of stepping over their bodies. What are your orders?</String>
+    <String>A atmosfera deste planeta, densa de partículas venenosas, tem o efeito colateral de causar belos e até espetaculares pores-do-sol, e a palavra se espalhou pela galáxia de sua beleza. Uma indústria turística florescente se desenvolveu, resultando em muitos turistas tossindo, ignorando os perigos deste planeta. Seus colonos estão ficando cansados de pisar em seus corpos. Quais são suas ordens?</String>
   </StringTable>
   <StringTable>
     <Label>BeautifulSunsets_Title</Label>
-    <String>Colonizing Event</String>
+    <String>Evento de colonização</String>
   </StringTable>
   <StringTable>
     <Label>BeautifulSunsets_Benevolent_Bonus_Name</Label>
-    <String>Begin heavily regulating this new industry. We can't establish a reputation for killing our guests, even if it does limit the number which ultimately come.</String>
+    <String>Comece a regular fortemente esta nova indústria. Não podemos estabelecer uma reputação de matar nossos convidados, mesmo que isso limite o número que acaba por vir.</String>
   </StringTable>
   <StringTable>
     <Label>BeautifulSunsets_Benevolent_Bonus_Dec</Label>
-    <String>+10 Benevolent, +10% Tourism</String>
+    <String>+10 Benevolente, +10% Turismo</String>
   </StringTable>
   <StringTable>
     <Label>BeautifulSunsets_Neutral_Bonus_Name</Label>
-    <String>Ensure that all tourists who arrive are informed of the danger, and provide training courses and safety gear for anyone who needs them. But they're adults who can take their own risks.</String>
+    <String>Assegurar que todos os turistas que chegam sejam informados sobre o perigo, e fornecer cursos de treinamento e equipamentos de segurança para qualquer pessoa que precise deles. Mas eles são adultos que podem assumir seus próprios riscos.</String>
   </StringTable>
   <StringTable>
     <Label>BeautifulSunsets_Neutral_Bonus_Dec</Label>
-    <String>+10 Pragmatic, +10% Tourism, -5% Approval</String>
+    <String>+10 Pragmático, +10% Turismo, -5% Aprovação</String>
   </StringTable>
   <StringTable>
     <Label>BeautifulSunsets_Merciless_Bonus_Name</Label>
-    <String>If those idiots want to choke on a sunset, why should we stop them? Hell, let's advertise for more of them to come, and also begin charging a coughing tax.</String>
+    <String>Se esses idiotas querem se engasgar no pôr-do-sol, por que devemos detê-los? Diabos, vamos fazer propaganda para que mais deles venham, e também começar a cobrar uma taxa de tosse.</String>
   </StringTable>
   <StringTable>
     <Label>BeautifulSunsets_Merciless_Bonus_Dec</Label>
-    <String>+10 Malevolent, +10% Tourism, -10% Approval</String>
+    <String>+10 Malevolência, +10% Turismo, -10% Aprovação</String>
   </StringTable>
  
  

@@ -145,7 +145,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>EntrepreneursAbility_Dec</Label>
-    <String>Starts with freighter, access to special trade related improvements, access to Acquisition and Marketing technologies receives 5 additional trade licenses.</String>
+    <String>Começa com o cargueiro, acesso a melhorias especiais relacionadas ao comércio, acesso às tecnologias de Aquisição e Marketing recebe 5 licenças comerciais adicionais.</String>
   </StringTable>
  
   <StringTable>
@@ -184,233 +184,233 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>ProlificAbility_Dec</Label>
-    <String>Planets start with 50% more population than is brought on the Colony ship. Population grows much faster.</String>
+    <String>Os planetas começam com 50% a mais de população do que é trazido no navio Colônia. A população cresce muito mais rápido.</String>
   </StringTable>
  
   <StringTable>
     <Label>AdaptableAbility_Name</Label>
-    <String>Adaptable</String>
+    <String>Adaptável</String>
   </StringTable>
   <StringTable>
     <Label>AdaptableAbility_ShortName</Label>
-    <String>Adaptable</String>
+    <String>Adaptável</String>
   </StringTable>
   <StringTable>
     <Label>AdaptableAbility_Dec</Label>
-    <String>Starts with Extreme World Colonization technology and access to the Precursor Archive achievement.</String>
+    <String>Começa com a tecnologia de Colonização do Mundo Extremo e acesso à realização do Arquivo Precursor.</String>
   </StringTable>
  
   <StringTable>
     <Label>DeterminedAbility_Name</Label>
-    <String>Determined</String>
+    <String>Determinado</String>
   </StringTable>
   <StringTable>
     <Label>DeterminedAbility_ShortName</Label>
-    <String>Determined</String>
+    <String>Determinado</String>
   </StringTable>
   <StringTable>
     <Label>DeterminedAbility_Dec</Label>
-    <String>Ships get +5 tiles of range.</String>
+    <String>Os navios recebem +5 ladrilhos de alcance.</String>
   </StringTable>
  
   <StringTable>
     <Label>AngryAbility_Name</Label>
-    <String>Angry</String>
+    <String>Zangado</String>
   </StringTable>
   <StringTable>
     <Label>AngryAbility_ShortName</Label>
-    <String>Angry</String>
+    <String>Zangado</String>
   </StringTable>
   <StringTable>
     <Label>AngryAbility_Dec</Label>
-    <String>They're just very angry. Start with a military vessel.</String>
+    <String>Eles estão apenas muito zangados. Comece com um navio militar.</String>
   </StringTable>
  
   <StringTable>
     <Label>DiplomaticAbility_Name</Label>
-    <String>Diplomatic</String>
+    <String>Diplomático</String>
   </StringTable>
   <StringTable>
     <Label>DiplomaticAbility_ShortName</Label>
-    <String>Diplomatic</String>
+    <String>Diplomático</String>
   </StringTable>
   <StringTable>
     <Label>DiplomaticAbility_Dec</Label>
-    <String>Can build the Galactic Council and starts with diplomatic bonus with all races.</String>
+    <String>Pode construir o Conselho Galáctico e começa com bônus diplomático com todas as raças.</String>
   </StringTable>
  
   <StringTable>
     <Label>ConquerorAbility_Name</Label>
-    <String>Conquerors</String>
+    <String>Conquistadores</String>
   </StringTable>
   <StringTable>
     <Label>ConquerorAbility_ShortName</Label>
-    <String>Conquerors</String>
+    <String>Conquistadores</String>
   </StringTable>
   <StringTable>
     <Label>ConquerorAbility_Dec</Label>
-    <String>Legions start at twice as good as anyone else's. Receives 2,500bc upon conquering a planet.</String>
+    <String>As legiões começam com o dobro do que as de qualquer outra pessoa. Recebe 2.500bc na conquista de um planeta.</String>
   </StringTable>
  
   <StringTable>
     <Label>HopefulAbility_Name</Label>
-    <String>Hopeful</String>
+    <String>Esperançoso</String>
   </StringTable>
   <StringTable>
     <Label>HopefulAbility_ShortName</Label>
-    <String>Hopeful</String>
+    <String>Esperançoso</String>
   </StringTable>
   <StringTable>
     <Label>HopefulAbility_Dec</Label>
-    <String>Believes any civilization capable of space travel must be a potential friend. Higher morale on planets.</String>
+    <String>Acredita que qualquer civilização capaz de viajar no espaço deve ser uma amiga em potencial. Moral mais elevado nos planetas.</String>
   </StringTable>
  
   <StringTable>
     <Label>CertainAbility_Name</Label>
-    <String>Certain</String>
+    <String>Certo</String>
   </StringTable>
   <StringTable>
     <Label>CertainAbility_ShortName</Label>
-    <String>Certain</String>
+    <String>Certo</String>
   </StringTable>
   <StringTable>
     <Label>CertainAbility_Dec</Label>
-    <String>Believes their philosophy should be universal, increased (+2) influence, special planet improvements. Planets receive 100 research every time an ideological trait is unlocked.</String>
+    <String>Acredita que sua filosofia deve ser universal, maior (+2) influência, melhorias especiais no planeta. Os planetas recebem 100 pesquisas cada vez que uma característica ideológica é destravada.</String>
   </StringTable>
  
   <StringTable>
     <Label>StarfaringAbility_Name</Label>
-    <String>Starfaring</String>
+    <String>Estrelinha</String>
   </StringTable>
   <StringTable>
     <Label>StarfaringAbility_ShortName</Label>
-    <String>Starfaring</String>
+    <String>Estrelinha</String>
   </StringTable>
   <StringTable>
     <Label>StarfaringAbility_Dec</Label>
-    <String>Ships immune to nebula and has access to special Hyperion improvements.</String>
+    <String>Navios imunes à nebulosa e tem acesso a melhorias especiais do Hyperion.</String>
   </StringTable>
  
   <StringTable>
     <Label>ParanoidAbility_Name</Label>
-    <String>Paranoid</String>
+    <String>Paranóico</String>
   </StringTable>
   <StringTable>
     <Label>ParanoidAbility_ShortName</Label>
-    <String>Paranoid</String>
+    <String>Paranóico</String>
   </StringTable>
   <StringTable>
     <Label>ParanoidAbility_Dec</Label>
-    <String>Free drones defend planets, shipyards and Starbases, and access to the Molecular Fabrication technologies.</String>
+    <String>Drones livres defendem planetas, estaleiros e bases estelares e acesso às tecnologias de Fabricação Molecular.</String>
   </StringTable>
  
   <StringTable>
     <Label>IntuitiveAbility_Name</Label>
-    <String>Intuitive</String>
+    <String>Intuitivo</String>
   </StringTable>
   <StringTable>
     <Label>IntuitiveAbility_ShortName</Label>
-    <String>Intuitive</String>
+    <String>Intuitivo</String>
   </StringTable>
   <StringTable>
     <Label>IntuitiveAbility_Dec</Label>
-    <String>Starts with free Research, and access to Xeno Anthropology technologies.</String>
+    <String>Começa com Pesquisa gratuita e acesso às tecnologias da Antropologia Xeno.</String>
   </StringTable>
  
   <StringTable>
     <Label>KnowledgeableAbility_Name</Label>
-    <String>Knowledgeable</String>
+    <String>Conhecedor</String>
   </StringTable>
   <StringTable>
     <Label>KnowledgeableAbility_ShortName</Label>
-    <String>Knowledgeable</String>
+    <String>Conhecedor</String>
   </StringTable>
   <StringTable>
     <Label>KnowledgeableAbility_Dec</Label>
-    <String>Starts knowing the location of other homeworlds, and access to the Gravitonic tree.</String>
+    <String>Começa a conhecer a localização de outros mundos natais, e o acesso à árvore gravitônica.</String>
   </StringTable>
  
   <StringTable>
     <Label>CyberneticAbility_Name</Label>
-    <String>Cybernetic</String>
+    <String>Cibernético</String>
   </StringTable>
   <StringTable>
     <Label>CyberneticAbility_ShortName</Label>
-    <String>Cybernetic</String>
+    <String>Cibernético</String>
   </StringTable>
   <StringTable>
     <Label>CyberneticAbility_Dec</Label>
-    <String>Gives Access to more powerful technologies and Improvements for races who are not afraid to interface with superior technologies.</String>
+    <String>Dá acesso a tecnologias mais poderosas e melhoras para as raças que não têm medo de interagir com tecnologias superiores.</String>
   </StringTable>
  
   <StringTable>
     <Label>SneakyAbility_Name</Label>
-    <String>Sneaky</String>
+    <String>Sorrateiro</String>
   </StringTable>
   <StringTable>
     <Label>SneakyAbility_ShortName</Label>
-    <String>Sneaky</String>
+    <String>Sorrateiro</String>
   </StringTable>
   <StringTable>
     <Label>SneakyAbility_Dec</Label>
-    <String>Starts Espionage technology.</String>
+    <String>Inicia a tecnologia Espionagem.</String>
   </StringTable>
  
   <StringTable>
     <Label>InventiveAbility_Name</Label>
-    <String>Inventive</String>
+    <String>Inventivo</String>
   </StringTable>
   <StringTable>
     <Label>InventiveAbility_ShortName</Label>
-    <String>Inventive</String>
+    <String>Inventivo</String>
   </StringTable>
   <StringTable>
     <Label>InventiveAbility_Dec</Label>
-    <String>Starts with an Engineering citizen type, Constructor ship.</String>
+    <String>Começa com um tipo de Cidadão Engenheiro, Navio construtor.</String>
   </StringTable>
  
   <StringTable>
     <Label>ResourcefulAbility_Name</Label>
-    <String>Resourceful</String>
+    <String>Engenhoso</String>
   </StringTable>
   <StringTable>
     <Label>ResourcefulAbility_ShortName</Label>
-    <String>Resourceful</String>
+    <String>Engenhoso</String>
   </StringTable>
   <StringTable>
     <Label>ResourcefulAbility_Dec</Label>
-    <String>Starts with some useful Resources.</String>
+    <String>Começa com alguns recursos úteis.</String>
   </StringTable>
  
   <StringTable>
     <Label>WarriorsAbility_Name</Label>
-    <String>Warriors</String>
+    <String>Guerreiros</String>
   </StringTable>
   <StringTable>
     <Label>WarriorsAbility_ShortName</Label>
-    <String>Warriors</String>
+    <String>Guerreiros</String>
   </StringTable>
   <StringTable>
     <Label>WarriorsAbility_Dec</Label>
-    <String>Ignore 10% of all damage done to their ships. All weapons have 10% longer range.</String>
+    <String>Ignorar 10% de todos os danos causados a seus navios. Todas as armas têm um alcance 10% maior.</String>
   </StringTable>
  
   <StringTable>
     <Label>VigilantAbility_Name</Label>
-    <String>Vigilant</String>
+    <String>Vigilante</String>
   </StringTable>
   <StringTable>
     <Label>VigilantAbility_ShortName</Label>
-    <String>Vigilant</String>
+    <String>Vigilante</String>
   </StringTable>
   <StringTable>
     <Label>VigilantAbility_Dec</Label>
-    <String>Starbases have larger Areas of Effect. Enemy ships are slowed, and player ships gain an attack bonus, while in the area of any starbase.</String>
+    <String>As Bases Estelares têm Áreas de Efeito maiores. As naves inimigas são desaceleradas e as naves dos jogadores ganham um bônus de ataque, enquanto que na área de qualquer base estelar.</String>
   </StringTable>
  
   <StringTable>
     <Label>AeroponicsAbility_Name</Label>
-    <String>Aeroponics</String>
+    <String>Aeropônica</String>
   </StringTable>
   <StringTable>
     <Label>AeroponicsAbility_ShortName</Label>
@@ -418,72 +418,72 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AeroponicsAbility_Dec</Label>
-    <String>A tradition of growing plants without soil enables Aeroponic Farms on any terrain with the Xeno Adaptation Technology.</String>
+    <String>Uma tradição de cultivar plantas sem solo permite que as fazendas aeropônicas em qualquer terreno com a Tecnologia de Adaptação Xeno.</String>
   </StringTable>
  
   <StringTable>
     <Label>SurveyStartingShip_Name</Label>
-    <String>[ICON=SurveyShip_Icon] Survey Ship</String>
+    <String>[ICON=SurveyShip_Icon] Navio de pesquisa</String>
   </StringTable>
   <StringTable>
     <Label>SurveyStartingShip_ShortName</Label>
-    <String>Survey Ship</String>
+    <String>Navio de pesquisa</String>
   </StringTable>
   <StringTable>
     <Label>SurveyStartingShip_Dec</Label>
-    <String>Begin with a Survey Ship that explores the galaxy and investigates valuable Anomalies.</String>
+    <String>Comece com um Navio de Pesquisa que explora a galáxia e investiga as valiosas Anomalias.</String>
   </StringTable>
  
   <StringTable>
     <Label>ColonyStartingShip_Name</Label>
-    <String>[ICON=ColonyShip_Icon] Colony Ship</String>
+    <String>[ICON=ColonyShip_Icon] Navio Colônia</String>
   </StringTable>
   <StringTable>
     <Label>ColonyStartingShip_ShortName</Label>
-    <String>Colony Ship</String>
+    <String>Navio Colônia</String>
   </StringTable>
   <StringTable>
     <Label>ColonyStartingShip_Dec</Label>
-    <String>Begin with a Colony Ship that  quickly begins the search for new worlds.</String>
+    <String>Comece com um Navio Colônia que rapidamente inicia a busca de novos mundos.</String>
   </StringTable>
  
   <StringTable>
     <Label>ConstructorsStartingShip_Name</Label>
-    <String>[ICON=Constructor_Icon] Constructors</String>
+    <String>[ICON=Constructor_Icon] Construtores</String>
   </StringTable>
   <StringTable>
     <Label>ConstructorsStartingShip_ShortName</Label>
-    <String>Constructors</String>
+    <String>Construtores</String>
   </StringTable>
   <StringTable>
     <Label>ConstructorsStartingShip_Dec</Label>
-    <String>Start with two Constructors that start to quickly tap the galactic resources.</String>
+    <String>Comece com dois Construtores que começam a explorar rapidamente os recursos galácticos.</String>
   </StringTable>
  
   <StringTable>
     <Label>ScoutsStartingShip_Name</Label>
-    <String>[ICON=Scout_Icon] Scouts</String>
+    <String>[ICON=Scout_Icon] Batedores</String>
   </StringTable>
   <StringTable>
     <Label>ScoutsStartingShip_ShortName</Label>
-    <String>Scouts</String>
+    <String>Batedores</String>
   </StringTable>
   <StringTable>
     <Label>ScoutsStartingShip_Dec</Label>
-    <String>Start with three tiny Scout Ships that quickly explore the galaxy.</String>
+    <String>Comece com três pequenas naves batedoras que exploram rapidamente a galáxia.</String>
   </StringTable>
  
   <StringTable>
     <Label>FuryStartingShip_Name</Label>
-    <String>[ICON=Fury_Icon] Furies</String>
+    <String>[ICON=Fury_Icon] Fúrias</String>
   </StringTable>
   <StringTable>
     <Label>FuryStartingShip_ShortName</Label>
-    <String>Furies</String>
+    <String>Fúrias</String>
   </StringTable>
   <StringTable>
     <Label>FuryStartingShip_Dec</Label>
-    <String>Starts with two Small Warships armed with experimental weapons and defense systems.</String>
+    <String>Começa com duas pequenas naves de guerra armadas com armas experimentais e sistemas de defesa.</String>
   </StringTable>
  
 </StringTableList>

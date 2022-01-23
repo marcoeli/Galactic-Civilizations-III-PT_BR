@@ -7,68 +7,68 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Basic_Commander_Name</Label>
-    <String>Commander</String>
+    <String>Comandante</String>
   </StringTable>
   <StringTable>
     <Label>Basic_Commander_Dec</Label>
-    <String>[ICON=Moves_Icon] Doubles Moves  of Fleet
-[ICON=Hitpoints_Icon] +50% fleet Hitpoints
-[ICON=ShipLogistics_Icon] +25% Logistics</String>
+    <String>[ICON=Moves_Icon] Dobro de Movimento da Frota
+[ICON=Hitpoints_Icon] +50% pontos de acerto da frota
+[ICON=ShipLogistics_Icon] +25% Logistica</String>
   </StringTable>
  
   <StringTable>
     <Label>Admiral_Commander_Name</Label>
-    <String>Admiral</String>
+    <String>Almirante</String>
   </StringTable>
   <StringTable>
     <Label>Admiral_Commander_Dec</Label>
-    <String>[ICON=AllWeaponsIcon] 25% All Weapons in Fleet
-[ICON=ShipsDefendingWorldIcon] 25% All Defenses in Fleet</String>
+    <String>[ICON=AllWeaponsIcon] 25% Todas as Armas da Frota
+[ICON=ShipsDefendingWorldIcon] 25% Todas as defesas da Frota</String>
   </StringTable>
  
   <StringTable>
     <Label>Navigator_Commander_Name</Label>
-    <String>Navigator</String>
+    <String>Navegador</String>
   </StringTable>
   <StringTable>
     <Label>Navigator_Commander_Dec</Label>
-    <String>Upgrades flagship to Star Surfer</String>
+    <String>Atualiza a navio almirante para Star Surfer</String>
   </StringTable>
  
   <StringTable>
     <Label>Martyr_Commander_Name</Label>
-    <String>Martyr</String>
+    <String>Mártir</String>
   </StringTable>
   <StringTable>
     <Label>Martyr_Commander_Dec</Label>
-    <String>Upgrades flagship to Martyr class, destroys any enemy fleet it comes into contact with (destroys friendly fleet too)</String>
+    <String>Melhora navio almirante para a classe Mártir, destrói qualquer frota inimiga com a qual entra em contato (destrói também a frota amiga)</String>
   </StringTable>
  
   <StringTable>
     <Label>Intimidator_Commander_Name</Label>
-    <String>Intimidator</String>
+    <String>Intimidador</String>
   </StringTable>
   <StringTable>
     <Label>Intimidator_Commander_Dec</Label>
-    <String>Upgrades flagship to Intimidator class, target enemy fleet bonuses</String>
+    <String>Melhora o navio almirante para a classe Intimidator, e visa os bônus da frota inimiga</String>
   </StringTable>
  
   <StringTable>
     <Label>Sovereign_Commander_Name</Label>
-    <String>Sovereign</String>
+    <String>Soberano</String>
   </StringTable>
   <StringTable>
     <Label>Sovereign_Commander_Dec</Label>
-    <String>Upgrades flagship to Sovereign class, target enemy fleet is changed to be owned by the League of Non-Aligned Planets. Sovereign ship is sacrifices.</String>
+    <String>Atualiza o navio-almirante para a classe Soberana, a frota inimiga alvo é alterada para ser propriedade da Liga dos Planetas Não-Alinhados. O navio Soberano é sacrificado.</String>
   </StringTable>
  
   <StringTable>
     <Label>Exterminator_Commander_Name</Label>
-    <String>Exterminator</String>
+    <String>Exterminador</String>
   </StringTable>
   <StringTable>
     <Label>Exterminator_Commander_Dec</Label>
-    <String>Converts a command ship to a Spore ship, capable of wiping out the entire population of an undefended planet.</String>
+    <String>Converte uma nave de comando em uma nave Esporo, capaz de aniquilar toda a população de um planeta indefeso.</String>
   </StringTable>
  
  

@@ -5,11 +5,11 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
 
   <StringTable>
     <Label>PrototypeSurveyModule_Name</Label>
-    <String>Prototype Survey Module</String>
+    <String>Protótipo de módulo de pesquisa</String>
   </StringTable>
   <StringTable>
     <Label>PrototypeSurveyModule_Dec</Label>
-    <String>Allows ship to survey anomalies, but requires Thulium to build.</String>
+    <String>Permite o levantamento de anomalias no navio, mas requer Thulium para construir.</String>
   </StringTable>
   
 </StringTableList>

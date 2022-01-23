@@ -7,11 +7,11 @@ xsi:noNamespaceSchemaLocation="../../../../../Game/Data/Schema/Lib/StringTable.x
  
   <StringTable>
     <Label>Crusade_1_Terran_Name</Label>
-    <String>Terran Alliance</String>
+    <String>Aliança Terrana</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_1_Terran_ShortName</Label>
-    <String>Terrans</String>
+    <String>Terranos</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_1_Terran_LeaderName</Label>
@@ -19,7 +19,7 @@ xsi:noNamespaceSchemaLocation="../../../../../Game/Data/Schema/Lib/StringTable.x
   </StringTable>
   <StringTable>
     <Label>Crusade_1_Terran_Dec</Label>
-    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+    <String>Os terranos são os inventores do hiperdrive e a raça mais jovem no palco galáctico. Embora diplomatas comprometidos, os terranianos têm uma linha militarista que tem surpreendido a muitos.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_1_Terran_LeaderDec</Label>
@@ -31,17 +31,17 @@ xsi:noNamespaceSchemaLocation="../../../../../Game/Data/Schema/Lib/StringTable.x
   </StringTable>
   <StringTable>
     <Label>Crusade_1_Terran_StartupTitle</Label>
-    <String>Don't Call It A Comeback</String>
+    <String>Não Chame de Regresso</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_1_Terran_StartupDescription</Label>
-    <String>For over a decade Earth was locked behind the Precursor Shield. Their foes thought them beaten. They were wrong. In their solitude, mankind found a new purpose, united behind a single goal: the destruction of the Drengin Empire. 
+    <String>Durante mais de uma década a Terra esteve trancada atrás do Escudo Precursor. Seus inimigos pensavam que tinham sido derrotados. Eles estavam errados. Em sua solidão, a humanidade encontrou um novo propósito, unida por trás de um único objetivo: a destruição do Império Drengin. 
 
-With the return of D.L. Bradley and the T.A.S. Crusader, Earth was finally able to escape the confines of the Precursor Shield. And now it's ready to retake its place in the galaxy.</String>
+Com o retorno de D.L. Bradley e da Cruzada T.A.S., a Terra finalmente conseguiu escapar dos confins do Escudo Precursor. E agora ela está pronta para reassumir seu lugar na galáxia.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_1_Terran_StartupTraitsDescription</Label>
-    <String>Lead by General Rafe Alan, the Terrans have command of the greatest fleet in human history. But they are untested, and still must face the bulk of the Drengin empire, which still controls hundreds of worlds.</String>
+    <String>Liderados pelo General Rafe Alan, os Terrans têm o comando da maior frota da história da humanidade. Mas eles não foram testados e ainda devem enfrentar a maior parte do império Drengin, que ainda controla centenas de mundos.</String>
   </StringTable>
  
   <StringTable>
@@ -58,7 +58,7 @@ With the return of D.L. Bradley and the T.A.S. Crusader, Earth was finally able 
   </StringTable>
   <StringTable>
     <Label>Crusade_1_Altarian_Dec</Label>
-    <String>Altarians are a deeply religious race that are kind in their interaction with others, although a bit self-righteous. For unknown reasons, they are very similar in appearance to the Terrans.</String>
+    <String>Os altares são uma raça profundamente religiosa, que é amável em sua interação com os outros, embora um pouco autodidata. Por razões desconhecidas, eles são muito parecidos em aparência com os terráqueos.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_1_Altarian_LeaderDec</Label>
@@ -78,7 +78,7 @@ With the return of D.L. Bradley and the T.A.S. Crusader, Earth was finally able 
   </StringTable>
   <StringTable>
     <Label>Crusade_1_Altarian_StartupTraitsDescription</Label>
-    <String>Altarians are careful researchers, generally content, and influential with their neighbors. Their ships are known for being fast but fragile, though they can organize large fleets of them when called upon. </String>
+    <String>Os altares são pesquisadores cuidadosos, geralmente satisfeitos e influentes com seus vizinhos. Seus navios são conhecidos por serem rápidos, mas frágeis, embora possam organizar grandes frotas deles quando chamados. </String>
   </StringTable>
  
   <StringTable>
@@ -95,7 +95,7 @@ With the return of D.L. Bradley and the T.A.S. Crusader, Earth was finally able 
   </StringTable>
   <StringTable>
     <Label>Crusade_1_Drengin_Dec</Label>
-    <String>The Drengin are a profoundly evil and warlike civilization. Exceedingly clever and vicious, there are few beings capable of meeting a Drengin and not becoming its next meal.</String>
+    <String>Os Drengin são uma civilização profundamente maligna e bélica. Excessivamente inteligentes e viciosos, há poucos seres capazes de encontrar um Drengin e não se tornar sua próxima refeição.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_1_Drengin_LeaderDec</Label>
@@ -115,7 +115,7 @@ With the return of D.L. Bradley and the T.A.S. Crusader, Earth was finally able 
   </StringTable>
   <StringTable>
     <Label>Crusade_1_Drengin_StartupTraitsDescription</Label>
-    <String>Drengin soldiers are savagely effective at ground-based combat, and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slaveling revolts.</String>
+    <String>Os soldados da Drengin são selvaticamente eficazes no combate terrestre, e suas embarcações navais são famosamente duras. Sua capacidade de fabricação militar também é impressionante, mas as colônias Drengin às vezes lutam com descontentamento. Grande parte de sua famosa inventividade é colocada no fim das revoltas esclavagistas.</String>
   </StringTable>
  
   <StringTable>
@@ -132,7 +132,7 @@ With the return of D.L. Bradley and the T.A.S. Crusader, Earth was finally able 
   </StringTable>
   <StringTable>
     <Label>Crusade_2_Terran_Dec</Label>
-    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+    <String>Os terranos são os inventores do hiperdrive e a raça mais jovem no palco galáctico. Embora diplomatas comprometidos, os terranianos têm uma linha militarista que tem surpreendido a muitos.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_2_Terran_LeaderDec</Label>
@@ -148,11 +148,11 @@ With the return of D.L. Bradley and the T.A.S. Crusader, Earth was finally able 
   </StringTable>
   <StringTable>
     <Label>Crusade_2_Terran_StartupDescription</Label>
-    <String>With control over their core systems solidified, the Terrans turn their attention to old allies, the Torians. Trapped by the Drengin behind a fleet of Hyperspace Destabilizers, Colonel Jenna Casey will have to navigate this part of the galaxy very carefully. It has been a long time since humans have seen these stars, and new forces may have established themselves in that time.</String>
+    <String>Com o controle sobre seus sistemas centrais solidificados, os terranianos voltam sua atenção para os velhos aliados, os torianos. Presa pela Drengin atrás de uma frota de desestabilizadores do hiperespaço, a coronel Jenna Casey terá que navegar com muito cuidado por esta parte da galáxia. Faz muito tempo que os humanos não vêem estas estrelas, e novas forças podem ter se estabelecido nesse tempo.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_2_Terran_StartupTraitsDescription</Label>
-    <String>Lead by Colonel Jenna Casey, the Terrans have sent a small expeditionary fleet tasked with freeing the Torians from Drengin rule. After first establishing a base of operations, they will have to explore this region and find some way to penetrate the Hyperspace Destabilizers placed around the Torian homeworld by the Drengin.</String>
+    <String>Liderados pela coronel Jenna Casey, os terranianos enviaram uma pequena frota expedicionária encarregada de libertar os torianos do domínio de Drengin. Após estabelecerem primeiro uma base de operações, eles terão que explorar esta região e encontrar alguma forma de penetrar os desestabilizadores do hiperespaço colocados ao redor do mundo natal toriano pela Drengin.</String>
   </StringTable>
  
   <StringTable>
@@ -169,7 +169,7 @@ With the return of D.L. Bradley and the T.A.S. Crusader, Earth was finally able 
   </StringTable>
   <StringTable>
     <Label>Crusade_2_Drengin_Dec</Label>
-    <String>The Drengin are a profoundly evil and warlike civilization. Exceedingly clever and vicious, there are few beings capable of meeting a Drengin and not becoming its next meal.</String>
+    <String>Os Drengin são uma civilização profundamente maligna e bélica. Excessivamente inteligentes e viciosos, há poucos seres capazes de encontrar um Drengin e não se tornar sua próxima refeição.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_2_Drengin_LeaderDec</Label>
@@ -189,7 +189,7 @@ With the return of D.L. Bradley and the T.A.S. Crusader, Earth was finally able 
   </StringTable>
   <StringTable>
     <Label>Crusade_2_Drengin_StartupTraitsDescription</Label>
-    <String>Drengin soldiers are savagely effective at ground-based combat, and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slaveling revolts.</String>
+    <String>Os soldados da Drengin são selvaticamente eficazes no combate terrestre, e suas embarcações navais são famosamente duras. Sua capacidade de fabricação militar também é impressionante, mas as colônias Drengin às vezes lutam com descontentamento. Grande parte de sua famosa inventividade é colocada no fim das revoltas esclavagistas.</String>
   </StringTable>
  
   <StringTable>
@@ -206,7 +206,7 @@ With the return of D.L. Bradley and the T.A.S. Crusader, Earth was finally able 
   </StringTable>
   <StringTable>
     <Label>Crusade_2_Slyne_Dec</Label>
-    <String>The Slyne are gelatinous beings capable with a natural understanding of technology, who  use a variety of cybernetic limbs and enhancements to project their will. Fickle and hard to kill, it's probably best to stay on their good side.</String>
+    <String>Os Slyne são seres gelatinosos capazes de uma compreensão natural da tecnologia, que utilizam uma variedade de membros cibernéticos e aperfeiçoamentos para projetar sua vontade. Instável e difícil de matar, provavelmente é melhor permanecer do seu lado bom.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_2_Slyne_LeaderDec</Label>
@@ -226,7 +226,7 @@ With the return of D.L. Bradley and the T.A.S. Crusader, Earth was finally able 
   </StringTable>
   <StringTable>
     <Label>Crusade_2_Slyne_StartupTraitsDescription</Label>
-    <String>The Slyne possess cybernetic limbs which can be swapped out as needed to suit whatever tasks the Slyne is asked to perform, making them naturally skilled shipbuilders. Additionally, their gelatinous nature makes them very difficult to kill.</String>
+    <String>Os Slyne possuem membros cibernéticos que podem ser trocados conforme necessário para se adequarem às tarefas que os Slyne são solicitados a realizar, tornando-os construtores navais naturalmente habilitados. Além disso, sua natureza gelatinosa os torna muito difíceis de matar.</String>
   </StringTable>
  
   <StringTable>
@@ -243,7 +243,7 @@ With the return of D.L. Bradley and the T.A.S. Crusader, Earth was finally able 
   </StringTable>
   <StringTable>
     <Label>Crusade_3a_Terran_Dec</Label>
-    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+    <String>Os terranos são os inventores do hiperdrive e a raça mais jovem no palco galáctico. Embora diplomatas comprometidos, os terranianos têm uma linha militarista que tem surpreendido a muitos.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_3a_Terran_LeaderDec</Label>
@@ -259,11 +259,11 @@ With the return of D.L. Bradley and the T.A.S. Crusader, Earth was finally able 
   </StringTable>
   <StringTable>
     <Label>Crusade_3a_Terran_StartupDescription</Label>
-    <String>Having saved the Torians, Jenna Casey has taken the information provided by the Slyne and traveled to the location of the Shard of the Telenanth. Unfortunately the Thalans, who have foreseen a great calamity caused by humanity, have been fortifying this area for decades. The only way to get the Shard will be to go through them.</String>
+    <String>Tendo salvo os torianos, Jenna Casey pegou as informações fornecidas pelo Slyne e viajou para a localização da Lasca do Telenanto. Infelizmente os thalans, que previram uma grande calamidade causada pela humanidade, vêm fortificando esta área há décadas. A única maneira de conseguir a Lasca será através deles.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_3a_Terran_StartupTraitsDescription</Label>
-    <String>Led by Jenna Casey, the Terrans have sent their most powerful fleet to a distant corner of the galaxy to find a Shard of the Telenanth. Combined with the Bane which powers their flagship, the Crusader, the Shard will unlock the full destructive power of these artifacts, and forever free humanity from the tyranny of their neighbors.</String>
+    <String>Liderados por Jenna Casey, os terranianos enviaram sua frota mais poderosa a um canto distante da galáxia para encontrar uma Lasca do Telenanto. Combinado com o Bane, que dá poder à sua nave principal, o Cruzado, a Lasca libertará todo o poder destrutivo desses artefatos, e libertará para sempre a humanidade da tirania de seus vizinhos.</String>
   </StringTable>
  
   <StringTable>
@@ -280,7 +280,7 @@ With the return of D.L. Bradley and the T.A.S. Crusader, Earth was finally able 
   </StringTable>
   <StringTable>
     <Label>Crusade_3a_Thalan_Dec</Label>
-    <String>The Thalan Contingency have come from another universe, in the hopes of stopping what they call The Terran Crusade. Which they believe will lead to the destruction of the universe if left unchecked.</String>
+    <String>A Contingência de Thalan veio de outro universo, na esperança de parar o que eles chamam de A Cruzada de Terrano. A qual eles acreditam que levará à destruição do universo se não for controlada.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_3a_Thalan_LeaderDec</Label>
@@ -300,7 +300,7 @@ With the return of D.L. Bradley and the T.A.S. Crusader, Earth was finally able 
   </StringTable>
   <StringTable>
     <Label>Crusade_3a_Thalan_StartupTraitsDescription</Label>
-    <String>Technically advanced, the Thalans are hampered by the fact that they were unable to bring much of their technology with them into the past. They now have to recreate it from scratch, with none of the tools or power sources they're accustomed to working with.</String>
+    <String>Tecnicamente avançados, os thalans são prejudicados pelo fato de que eles não foram capazes de trazer grande parte de sua tecnologia com eles para o passado. Agora eles têm que recriá-la do zero, sem nenhuma das ferramentas ou fontes de energia com as quais estão acostumados a trabalhar.</String>
   </StringTable>
  
   <StringTable>
@@ -317,7 +317,7 @@ With the return of D.L. Bradley and the T.A.S. Crusader, Earth was finally able 
   </StringTable>
   <StringTable>
     <Label>Crusade_3b_Terran_Dec</Label>
-    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+    <String>Terrans são os inventores do hiperdrive e a raça mais jovem no palco galáctico. Embora diplomatas comprometidos, os terranianos têm uma linha militarista que tem surpreendido a muitos.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_3b_Terran_LeaderDec</Label>
@@ -333,13 +333,13 @@ With the return of D.L. Bradley and the T.A.S. Crusader, Earth was finally able 
   </StringTable>
   <StringTable>
     <Label>Crusade_3b_Terran_StartupDescription</Label>
-    <String>Having chosen to reject the path that would lead them to the Shard and its power, Jenna Casey and the Terrans are contacted by the Thalan Contingency. Now that humanity has chosen to refuse the power of the Telenanth, the Thalans believe the galaxy stands on a great cusp in history, with a new, better future laid open that avoids the calamity they have long warned us of. 
+    <String>Tendo escolhido rejeitar o caminho que os levaria à Lasca e seu poder, Jenna Casey e os Terrans são contatados pela Contingência de Thalan. Agora que a humanidade optou por recusar o poder do Telenanto, os thalanos acreditam que a galáxia está em uma grande cúspide na história, com um novo e melhor futuro aberto que evita a calamidade da qual há muito nos alertam. 
 
-But within that new future, another calamity looms, at the hands of the Yor Singularity.</String>
+Mas dentro desse novo futuro, outra calamidade paira, nas mãos do Yor Singularity.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_3b_Terran_StartupTraitsDescription</Label>
-    <String>Led by Jenna Casey, the Terrans have sent their most powerful fleet to this sector to make contact with the Thalans. According to the Thalans, the Yor are on the threshold of achieving Singularity, which would unleash unforeseeable destructive energy across the galaxy. Having avoided one apocalypse, are we about to stumble into another?</String>
+    <String>Liderados por Jenna Casey, os terranianos enviaram sua frota mais poderosa a este setor para fazer contato com os thalans. De acordo com os thalans, os Yor estão no limiar da Singularidade, o que desencadearia uma energia destrutiva imprevisível através da galáxia. Tendo evitado um apocalipse, será que estamos prestes a tropeçar em outro?</String>
   </StringTable>
  
   <StringTable>
@@ -356,7 +356,7 @@ But within that new future, another calamity looms, at the hands of the Yor Sing
   </StringTable>
   <StringTable>
     <Label>Crusade_3b_Thalan_Dec</Label>
-    <String>The Thalan Contingency have come from another universe, in the hopes of stopping what they call The Terran Crusade. Which they believe will lead to the destruction of the universe if left unchecked.</String>
+    <String>A Contingência de Thalan veio de outro universo, na esperança de parar o que eles chamam de A Cruzada de Terrano. A qual eles acreditam que levará à destruição do universo se não for controlada.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_3b_Thalan_LeaderDec</Label>
@@ -376,7 +376,7 @@ But within that new future, another calamity looms, at the hands of the Yor Sing
   </StringTable>
   <StringTable>
     <Label>Crusade_3b_Thalan_StartupTraitsDescription</Label>
-    <String>Technically advanced, the Thalans are hampered by the fact that they were unable to bring much of their technology with them into the past. They now have to recreate it from scratch, with none of the tools or power sources they're accustomed to working with.</String>
+    <String>Tecnicamente avançados, os thalans são prejudicados pelo fato de que eles não foram capazes de trazer grande parte de sua tecnologia com eles para o passado. Agora eles têm que recriá-la do zero, sem nenhuma das ferramentas ou fontes de energia com as quais estão acostumados a trabalhar.</String>
   </StringTable>
  
   <StringTable>
@@ -393,7 +393,7 @@ But within that new future, another calamity looms, at the hands of the Yor Sing
   </StringTable>
   <StringTable>
     <Label>Crusade_3b_Yor_Dec</Label>
-    <String>The Yor are a race of sentient artificial beings. They have no need for crude means for reproduction and consumption, and can instead build citizens to inhabit their worlds.</String>
+    <String>Os Yor são uma raça de seres artificiais sencientes. Eles não têm necessidade de meios grosseiros de reprodução e consumo, e podem, em vez disso, construir cidadãos para habitar seus mundos.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_3b_Yor_LeaderDec</Label>
@@ -413,7 +413,7 @@ But within that new future, another calamity looms, at the hands of the Yor Sing
   </StringTable>
   <StringTable>
     <Label>Crusade_3b_Yor_StartupTraitsDescription</Label>
-    <String>The Yor are highly productive and capable of building large fleets of self-repairing vessels. They're profoundly unpopular, and few races opt to befriend them. Unlike organic races, their growth rate is a function of production capacity.</String>
+    <String>Os Yor são altamente produtivos e capazes de construir grandes frotas de embarcações auto-reparadoras. Eles são profundamente impopulares, e poucas raças optam por fazer amizade com eles. Ao contrário das raças orgânicas, sua taxa de crescimento é uma função da capacidade de produção.</String>
   </StringTable>
  
   <StringTable>
@@ -430,7 +430,7 @@ But within that new future, another calamity looms, at the hands of the Yor Sing
   </StringTable>
   <StringTable>
     <Label>Crusade_4a_Terran_Dec</Label>
-    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+    <String>Terranos são os inventores do hiperdrive e a raça mais jovem no palco galáctico. Embora diplomatas comprometidos, os terranianos têm uma linha militarista que tem surpreendido a muitos.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_4a_Terran_LeaderDec</Label>
@@ -446,13 +446,13 @@ But within that new future, another calamity looms, at the hands of the Yor Sing
   </StringTable>
   <StringTable>
     <Label>Crusade_4a_Terran_StartupDescription</Label>
-    <String>With the Shard finally in humanity's possession, D.L. Bradley will now finally confront the greatest evil in the galaxy: the Drengin. By combining the Bane with this Shard of the Telenanth, Bradley will show the Drengin a destructive energy they have never seen before.
+    <String>Com a Lasca finalmente em posse da humanidade, D.L. Bradley finalmente enfrentará o maior mal da galáxia: o Drengin. Ao combinar o Bane com esta Lasca do Telenanto, Bradley mostrará ao Drengin uma energia destrutiva que eles nunca viram antes.
 
-They will be made to pay for their crimes. Never again will humanity be imperiled.</String>
+Eles serão obrigados a pagar por seus crimes. Nunca mais a humanidade será imperiosa.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_4a_Terran_StartupTraitsDescription</Label>
-    <String>Led by Admiral D.L. Bradley, the Terrans have sent their most powerful weapon to finally end the Drengin threat.</String>
+    <String>Liderados pelo Almirante D.L. Bradley, os Terrans enviaram sua arma mais poderosa para finalmente acabar com a ameaça Drengin.</String>
   </StringTable>
  
   <StringTable>
@@ -469,7 +469,7 @@ They will be made to pay for their crimes. Never again will humanity be imperile
   </StringTable>
   <StringTable>
     <Label>Crusade_4a_Drengin_Dec</Label>
-    <String>The Drengin are a profoundly evil and warlike civilization. Exceedingly clever and vicious, there are few beings capable of meeting a Drengin and not becoming its next meal.</String>
+    <String>Os Drengin são uma civilização profundamente maligna e bélica. Excessivamente inteligentes e viciosos, há poucos seres capazes de encontrar um Drengin e não se tornar sua próxima refeição.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_4a_Drengin_LeaderDec</Label>
@@ -489,7 +489,7 @@ They will be made to pay for their crimes. Never again will humanity be imperile
   </StringTable>
   <StringTable>
     <Label>Crusade_4a_Drengin_StartupTraitsDescription</Label>
-    <String>Drengin soldiers are savagely effective at ground-based combat, and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slaveling revolts.</String>
+    <String>Os soldados da Drengin são selvaticamente eficazes no combate terrestre, e suas embarcações navais são famosamente duras. Sua capacidade de fabricação militar também é impressionante, mas as colônias Drengin às vezes lutam com descontentamento. Grande parte de sua famosa inventividade é colocada no fim das revoltas esclavagistas.</String>
   </StringTable>
  
   <StringTable>
@@ -506,7 +506,7 @@ They will be made to pay for their crimes. Never again will humanity be imperile
   </StringTable>
   <StringTable>
     <Label>Crusade_4a_Altarian_Dec</Label>
-    <String>Altarians are a deeply religious race that are kind in their interaction with others, although a bit self-righteous. For unknown reasons, they are very similar in appearance to the Terrans.</String>
+    <String>Os altares são uma raça profundamente religiosa, que é amável em sua interação com os outros, embora um pouco autodidata. Por razões desconhecidas, eles são muito parecidos em aparência com os terráqueos.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_4a_Altarian_LeaderDec</Label>
@@ -526,7 +526,7 @@ They will be made to pay for their crimes. Never again will humanity be imperile
   </StringTable>
   <StringTable>
     <Label>Crusade_4a_Altarian_StartupTraitsDescription</Label>
-    <String>Altarians are careful researchers, generally content, and influential with their neighbors. Their ships are known for being fast but fragile, though they can organize large fleets of them when called upon. </String>
+    <String>Os altares são pesquisadores cuidadosos, geralmente satisfeitos e influentes com seus vizinhos. Seus navios são conhecidos por serem rápidos, mas frágeis, embora possam organizar grandes frotas deles quando chamados. </String>
   </StringTable>
  
   <StringTable>
@@ -543,7 +543,7 @@ They will be made to pay for their crimes. Never again will humanity be imperile
   </StringTable>
   <StringTable>
     <Label>Crusade_4b_Terran_Dec</Label>
-    <String>Terrans are the inventors of hyperdrive and the youngest race on the galactic stage. Although committed diplomats, Terrans have a militaristic streak that has taken many by surprise.</String>
+    <String>Terrans são os inventores do hiperdrive e a raça mais jovem no palco galáctico. Embora diplomatas comprometidos, os terranianos têm uma linha militarista que tem surpreendido a muitos.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_4b_Terran_LeaderDec</Label>
@@ -559,13 +559,13 @@ They will be made to pay for their crimes. Never again will humanity be imperile
   </StringTable>
   <StringTable>
     <Label>Crusade_4b_Terran_StartupDescription</Label>
-    <String>Furious at the insubordination and humanity's rejection of the path he laid out for them, D.L. Bradley has taken his great vessel, the Crusader, and gone to search for more power. Jenna Casey and the combined Terran fleet must now confront the Drengin on their own.
+    <String>Furioso com a insubordinação e a rejeição da humanidade do caminho que ele traçou para eles, D.L. Bradley pegou seu grande navio, o Cruzado, e foi em busca de mais poder. Jenna Casey e a frota terrestre combinada devem agora enfrentar o Drengin por conta própria.
 
-Lacking the Crusader's incredible power, will they be able to turn back the Drengin theat, and finally buy some measure of peace for humanity?</String>
+Faltando o incrível poder do Cruzado, será que eles serão capazes de devolver o teatro Drengin, e finalmente comprar alguma medida de paz para a humanidade?</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_4b_Terran_StartupTraitsDescription</Label>
-    <String>Led by Jenna Casey, humanity's voice of reason, the Terrans now confront the Drengin. But without their greatest weapon, will humanity somehow be able to secure a future for themselves, and indeed, for the whole galaxy?</String>
+    <String>Liderados por Jenna Casey, a voz da razão da humanidade, os terráqueos agora enfrentam o Drengin. Mas sem sua maior arma, será que a humanidade de alguma forma será capaz de assegurar um futuro para si mesma, e de fato, para toda a galáxia?</String>
   </StringTable>
  
   <StringTable>
@@ -582,7 +582,7 @@ Lacking the Crusader's incredible power, will they be able to turn back the Dren
   </StringTable>
   <StringTable>
     <Label>Crusade_4b_Drengin_Dec</Label>
-    <String>The Drengin are a profoundly evil and warlike civilization. Exceedingly clever and vicious, there are few beings capable of meeting a Drengin and not becoming its next meal.</String>
+    <String>Os Drengin são uma civilização profundamente maligna e bélica. Excessivamente inteligentes e viciosos, há poucos seres capazes de encontrar um Drengin e não se tornar sua próxima refeição.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_4b_Drengin_LeaderDec</Label>
@@ -602,7 +602,7 @@ Lacking the Crusader's incredible power, will they be able to turn back the Dren
   </StringTable>
   <StringTable>
     <Label>Crusade_4b_Drengin_StartupTraitsDescription</Label>
-    <String>Drengin soldiers are savagely effective at ground-based combat, and their naval vessels are famously tough. Their military manufacturing ability is also impressive, but Drengin colonies do sometimes struggle with discontent. Much of their famous inventiveness is put into stopping slaveling revolts.</String>
+    <String>Os soldados da Drengin são selvaticamente eficazes no combate terrestre, e suas embarcações navais são famosamente duras. Sua capacidade de fabricação militar também é impressionante, mas as colônias Drengin às vezes lutam com descontentamento. Grande parte de sua famosa inventividade é colocada no fim das revoltas esclavagistas.</String>
   </StringTable>
  
   <StringTable>
@@ -619,7 +619,7 @@ Lacking the Crusader's incredible power, will they be able to turn back the Dren
   </StringTable>
   <StringTable>
     <Label>Crusade_4b_Thalan_Dec</Label>
-    <String>The Thalan Contingency have come from another universe, in the hopes of stopping what they call The Terran Crusade. Which they believe will lead to the destruction of the universe if left unchecked.</String>
+    <String>A Contingência de Thalan veio de outro universo, na esperança de parar o que eles chamam de A Cruzada de Terrano. A qual eles acreditam que levará à destruição do universo se não for controlada.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_4b_Thalan_LeaderDec</Label>
@@ -639,7 +639,7 @@ Lacking the Crusader's incredible power, will they be able to turn back the Dren
   </StringTable>
   <StringTable>
     <Label>Crusade_4b_Thalan_StartupTraitsDescription</Label>
-    <String>Technically advanced, the Thalans are hampered by the fact that they were unable to bring much of their technology with them into the past. They now have to recreate it from scratch, with none of the tools or power sources they're accustomed to working with.</String>
+    <String>Tecnicamente avançados, os thalans são prejudicados pelo fato de que eles não foram capazes de trazer grande parte de sua tecnologia com eles para o passado. Agora eles têm que recriá-la do zero, sem nenhuma das ferramentas ou fontes de energia com as quais estão acostumados a trabalhar.</String>
   </StringTable>
  
  
