@@ -9,37 +9,37 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Coalition_DisplayName</Label>
-    <String>Governo de Coalizão</String>
+    <String>Coalition Government</String>
   </StringTable>
  
   <StringTable>
     <Label>Coalition_Description</Label>
-    <String>Se perdermos uma eleição, um governo de coalizão será formado e o poder será detido por nossos inimigos políticos. Devemos manter a aprovação de nosso povo, ou governar pela força, se quisermos evitar isso.</String>
+    <String>If we lose an election a Coalition government will be formed, and power will be held by our political enemies. We must maintain the approval of our people, or rule by force, if we are to avoid this.</String>
   </StringTable>
  
   <StringTable>
     <Label>Coalition_ShortDescription</Label>
-    <String>Despojado do poder</String>
+    <String>Stripped of Power</String>
   </StringTable>
  
   <StringTable>
     <Label>Coalition_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Coalition_OpponentPartyAName</Label>
-    <String>Novo Partido do Poder</String>
+    <String>New Power Party</String>
   </StringTable>
  
   <StringTable>
     <Label>Coalition_OpponentPartyBName</Label>
-    <String>Partido do Movimento Popular</String>
+    <String>Peoples Movement Party</String>
   </StringTable>
  
   <StringTable>
     <Label>CoalitionSpecial_CoalitionManager_PositionName</Label>
-    <String>Chefe de coalizão</String>
+    <String>Coalition Manager</String>
   </StringTable>
  
   <StringTable>
@@ -49,42 +49,42 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Colonial_Description</Label>
-    <String>Trouxemos paz e esclarecimento a nosso planeta. É nossa responsabilidade trazê-la para o mundo além.</String>
+    <String>We have brought peace and enlightenment to our planet. It is our responsibility to bring it to the worlds beyond.</String>
   </StringTable>
  
   <StringTable>
     <Label>Colonial_ShortDescription</Label>
-    <String>Novos Mundos e Novos Líderes</String>
+    <String>New Worlds and New Leaders</String>
   </StringTable>
  
   <StringTable>
     <Label>Colonial_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Colonial_OpponentPartyAName</Label>
-    <String>A Pátria Primeiro</String>
+    <String>Homeland First</String>
   </StringTable>
  
   <StringTable>
     <Label>Colonial_OpponentPartyBName</Label>
-    <String>Partido Trabalhista</String>
+    <String>Labor Party</String>
   </StringTable>
  
   <StringTable>
     <Label>ColonialAdvisor_Growth_PositionName</Label>
-    <String>Conselheiro de colonização</String>
+    <String>Colonization Advisor</String>
   </StringTable>
  
   <StringTable>
     <Label>ColonialAdvisor_Manufacturing_PositionName</Label>
-    <String>Conselheiro de fabricação</String>
+    <String>Manufacturing Advisor</String>
   </StringTable>
  
   <StringTable>
     <Label>ColonialCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
   <StringTable>
@@ -94,477 +94,477 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Imperial_Description</Label>
-    <String>Nossa história está repleta de impérios outrora grandes que deixaram de conquistar e caíram na ruína. Nós não seremos um deles.</String>
+    <String>Our history is littered with once great empires who stopped conquering and fell to ruin. We will not be one of them.</String>
   </StringTable>
  
   <StringTable>
     <Label>Imperial_ShortDescription</Label>
-    <String>Uma Hierarquia Rigorosa</String>
+    <String>A Strict Hierarchy</String>
   </StringTable>
  
   <StringTable>
     <Label>Imperial_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Imperial_OpponentPartyAName</Label>
-    <String>A Ordem</String>
+    <String>The Order</String>
   </StringTable>
  
   <StringTable>
     <Label>Imperial_OpponentPartyBName</Label>
-    <String>A Mão de Ferro</String>
+    <String>The Iron Hand</String>
   </StringTable>
  
   <StringTable>
     <Label>ImperialMinister_MovesCap_PositionName</Label>
-    <String>Ministro de Conquista</String>
+    <String>Minister of Conquest</String>
   </StringTable>
  
   <StringTable>
     <Label>ImperialAdvisor_Military_PositionName</Label>
-    <String>Conselheiro Militar</String>
+    <String>Military Advisor</String>
   </StringTable>
  
   <StringTable>
     <Label>ImperialCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
   <StringTable>
     <Label>Theocracy_DisplayName</Label>
-    <String>Teocracia</String>
+    <String>Theocracy</String>
   </StringTable>
  
   <StringTable>
     <Label>Theocracy_Description</Label>
-    <String>Não é a raça ou uma casa compartilhada que une nossa nação, mas a fé. Outros governos caem, mas nossa religião é eterna.</String>
+    <String>It is not race or a shared home that binds our nation together, but faith. Other governments fall away, but our religion is eternal.</String>
   </StringTable>
  
   <StringTable>
     <Label>Theocracy_ShortDescription</Label>
-    <String>Unidos pela fé</String>
+    <String>United by Faith</String>
   </StringTable>
  
   <StringTable>
     <Label>Theocracy_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Theocracy_OpponentPartyAName</Label>
-    <String>Ortodoxo</String>
+    <String>Orthodox</String>
   </StringTable>
  
   <StringTable>
     <Label>Theocracy_OpponentPartyBName</Label>
-    <String>Heterodoxo</String>
+    <String>Heterodox</String>
   </StringTable>
  
   <StringTable>
     <Label>TheocracyMinister_GoodsAndServices_PositionName</Label>
-    <String>Ministro da Verdade</String>
+    <String>Minister of Truth</String>
   </StringTable>
  
   <StringTable>
     <Label>TheocracyCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
   <StringTable>
     <Label>Unity_DisplayName</Label>
-    <String>Unidade</String>
+    <String>Unity</String>
   </StringTable>
  
   <StringTable>
     <Label>Unity_Description</Label>
-    <String>"O governo é uma ferramenta de uma sociedade imperfeita. É desnecessário quando cada cidadão é um reflexo de nossos valores comuns". - Akari Malara</String>
+    <String>"Government is a tool of a flawed society. It is unneeded when each citizen is a reflection of our shared values." - Akari Malara</String>
   </StringTable>
  
   <StringTable>
     <Label>Unity_ShortDescription</Label>
-    <String>Nossas Tradições nos Vinculam</String>
+    <String>Our Traditions Bind Us</String>
   </StringTable>
  
   <StringTable>
     <Label>Unity_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Unity_OpponentPartyAName</Label>
-    <String>Tradicionalistas</String>
+    <String>Traditionalists</String>
   </StringTable>
  
   <StringTable>
     <Label>Unity_OpponentPartyBName</Label>
-    <String>Os Jovens</String>
+    <String>The Young</String>
   </StringTable>
  
   <StringTable>
     <Label>UnityAdvisor_Influence_PositionName</Label>
-    <String>Orador</String>
+    <String>Speaker</String>
   </StringTable>
  
   <StringTable>
     <Label>UnityCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
   <StringTable>
     <Label>Republic_DisplayName</Label>
-    <String>República Interstelar</String>
+    <String>Interstellar Republic</String>
   </StringTable>
  
   <StringTable>
     <Label>Republic_Description</Label>
-    <String>"A liberdade tem muitas dificuldades e a democracia não é perfeita, mas nunca tivemos que erguer um muro para manter nossos cidadãos dentro". - John F. Kennedy</String>
+    <String>"Freedom has many difficulties and democracy is not perfect, but we never had to put up a wall to keep our citizens in." - John F. Kennedy</String>
   </StringTable>
  
   <StringTable>
     <Label>Republic_ShortDescription</Label>
-    <String>Representantes do Governo Eleitos</String>
+    <String>Elected Representatives Govern</String>
   </StringTable>
  
   <StringTable>
     <Label>Republic_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Republic_OpponentPartyAName</Label>
-    <String>Partido da Velha República</String>
+    <String>Old Republic Party</String>
   </StringTable>
  
   <StringTable>
     <Label>Republic_OpponentPartyBName</Label>
-    <String>Partido de Guerra</String>
+    <String>War Party</String>
   </StringTable>
  
   <StringTable>
     <Label>RepublicMinister_DiplomacyTradeRouteWeight_PositionName</Label>
-    <String>Ministro das Relações Exteriores</String>
+    <String>Minister of Foreign Relations</String>
   </StringTable>
  
   <StringTable>
     <Label>RepublicAdvisor_Research_PositionName</Label>
-    <String>Conselheiro Científico</String>
+    <String>Science Advisor</String>
   </StringTable>
  
   <StringTable>
     <Label>RepublicAdvisor_ColonyGrossIncome_PositionName</Label>
-    <String>Conselheiro Econômico</String>
+    <String>Economic Advisor</String>
   </StringTable>
  
   <StringTable>
     <Label>RepublicCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
   <StringTable>
     <Label>Media_DisplayName</Label>
-    <String>Assimilação da mídia</String>
+    <String>Media Assimilation</String>
   </StringTable>
  
   <StringTable>
     <Label>Media_Description</Label>
-    <String>Você assiste ao nosso entretenimento e tem fome de informações sobre nossas celebridades. Você veste nossas marcas e se preocupa com os assuntos de que lhe falamos. Você já é um de nós.</String>
+    <String>You watch our entertainment and hunger for information about our celebrities. You wear our brands, and care about the issues we tell you about. You are already one of us.</String>
   </StringTable>
  
   <StringTable>
     <Label>Media_ShortDescription</Label>
-    <String>Junte-se a Nosso Coletivo</String>
+    <String>Join Our Collective</String>
   </StringTable>
  
   <StringTable>
     <Label>Media_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Media_OpponentPartyAName</Label>
-    <String>Sinergia pela Glaspop</String>
+    <String>Synergy by Glaspop</String>
   </StringTable>
  
   <StringTable>
     <Label>Media_OpponentPartyBName</Label>
-    <String>Não patrocinado</String>
+    <String>Unsponsored</String>
   </StringTable>
  
   <StringTable>
     <Label>MediaSpecial_Speaker1_PositionName</Label>
-    <String>Patrocinador de Celebridades</String>
+    <String>Celebrity Sponsor</String>
   </StringTable>
  
   <StringTable>
     <Label>MediaSpecial_Speaker2_PositionName</Label>
-    <String>Patrocinador de Celebridades</String>
+    <String>Celebrity Sponsor</String>
   </StringTable>
  
   <StringTable>
     <Label>MediaCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
   <StringTable>
     <Label>Utopian_DisplayName</Label>
-    <String>Utópico</String>
+    <String>Utopian</String>
   </StringTable>
  
   <StringTable>
     <Label>Utopian_Description</Label>
-    <String>A saúde e a felicidade de nossos cidadãos é tirada diretamente da saúde de nosso mundo. Não podemos atender a um e ignorar o outro.</String>
+    <String>The health and happiness of our citizens is directly drawn from the health of our worlds. We cannot attend to one and ignore the other.</String>
   </StringTable>
  
   <StringTable>
     <Label>Utopian_ShortDescription</Label>
-    <String>Zeladores de nossos mundos</String>
+    <String>Caretakers Of Our Worlds</String>
   </StringTable>
  
   <StringTable>
     <Label>Utopian_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Utopian_OpponentPartyAName</Label>
-    <String>Partido Agrário</String>
+    <String>Agrarian Party</String>
   </StringTable>
  
   <StringTable>
     <Label>Utopian_OpponentPartyBName</Label>
-    <String>Partido da Reforma Orçamentária</String>
+    <String>Budget Reform Party</String>
   </StringTable>
  
   <StringTable>
     <Label>UtopianSecretary_Growth_PositionName</Label>
-    <String>Secretário do Interior</String>
+    <String>Secretary of the Interior</String>
   </StringTable>
  
   <StringTable>
     <Label>UtopianMinister_Growth_PositionName</Label>
-    <String>Ministro da Habitação</String>
+    <String>Minister of Housing</String>
   </StringTable>
  
   <StringTable>
     <Label>UtopianSpecial_Fundamentalist_PositionName</Label>
-    <String>Ministro da Tradição</String>
+    <String>Minister of Tradition</String>
   </StringTable>
  
   <StringTable>
     <Label>UtopianSpecial_Bliss_PositionName</Label>
-    <String>Ministro do Bem-estar</String>
+    <String>Minister of Bliss</String>
   </StringTable>
  
   <StringTable>
     <Label>UtopianCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
   <StringTable>
     <Label>Monarchy_DisplayName</Label>
-    <String>Monarquia Estelar</String>
+    <String>Stellar Monarchy</String>
   </StringTable>
  
   <StringTable>
     <Label>Monarchy_Description</Label>
-    <String>Eu sou o alicerce sobre o qual este império está construído. É somente através da minha linhagem que ele sobreviverá e crescerá.</String>
+    <String>I am the bedrock upon which this empire is built. It is only through my bloodline that it will survive and grow.</String>
   </StringTable>
  
   <StringTable>
     <Label>Monarchy_ShortDescription</Label>
-    <String>Nosso Rei Tem Poder Absoluto</String>
+    <String>Our King Has Absolute Power</String>
   </StringTable>
  
   <StringTable>
     <Label>Monarchy_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Monarchy_OpponentPartyAName</Label>
-    <String>Partido do Segundo Filho</String>
+    <String>Second Son Party</String>
   </StringTable>
  
   <StringTable>
     <Label>Monarchy_OpponentPartyBName</Label>
-    <String>Revolucionários</String>
+    <String>Revolutionaries</String>
   </StringTable>
  
   <StringTable>
     <Label>MonarchyMinister_Military_PositionName</Label>
-    <String>Grão-Duque</String>
+    <String>Grand Duke</String>
   </StringTable>
  
   <StringTable>
     <Label>MonarchyCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
   <StringTable>
     <Label>Oligarchy_DisplayName</Label>
-    <String>Oligarquia da informação</String>
+    <String>Information Oligarchy</String>
   </StringTable>
  
   <StringTable>
     <Label>Oligarchy_Description</Label>
-    <String>Aproveitando o poder de nossa rede de comunicação, descobrimos que não precisamos de um governo perfeito para fazer nossos cidadãos felizes. Precisamos apenas da propaganda de um governo perfeito.</String>
+    <String>By harnessing the power of our communication network we have discovered that we don't need a perfect government to make our citizens happy. We only need the propaganda of a perfect government.</String>
   </StringTable>
  
   <StringTable>
     <Label>Oligarchy_ShortDescription</Label>
-    <String>A Mídia é Nossa Arma</String>
+    <String>The Media Is Our Weapon</String>
   </StringTable>
  
   <StringTable>
     <Label>Oligarchy_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Oligarchy_OpponentPartyAName</Label>
-    <String>Sindicato dos Banqueiros</String>
+    <String>Banker's Union</String>
   </StringTable>
  
   <StringTable>
     <Label>Oligarchy_OpponentPartyBName</Label>
-    <String>Sem voz</String>
+    <String>Voiceless</String>
   </StringTable>
  
   <StringTable>
     <Label>OligarchyMinister_TradeRoute_PositionName</Label>
-    <String>Negociador principal</String>
+    <String>Lead Negotiator</String>
   </StringTable>
  
   <StringTable>
     <Label>OligarchyAdvisor_Influence_PositionName</Label>
-    <String>Executivo de Mídia</String>
+    <String>Media Executive</String>
   </StringTable>
  
   <StringTable>
     <Label>OligarchyMinister_GoodsAndServices_PositionName</Label>
-    <String>Barão das Notícias</String>
+    <String>News Baron</String>
   </StringTable>
  
   <StringTable>
     <Label>OligarchyCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
   <StringTable>
     <Label>EmergencyCoalition_DisplayName</Label>
-    <String>Coalizão de Emergência</String>
+    <String>Emergency Coalition</String>
   </StringTable>
  
   <StringTable>
     <Label>EmergencyCoalition_Description</Label>
-    <String>Em tempos de crise, precisamos que nosso governo reivindique o controle total. Esperemos que eles renunciem a esse controle quando a crise tiver passado.</String>
+    <String>In times of crisis we need our government to claim complete control. Let us hope that they relinquish that control when the crisis has passed.</String>
   </StringTable>
  
   <StringTable>
     <Label>EmergencyCoalition_ShortDescription</Label>
-    <String>Medidas drásticas em tempos sombrios</String>
+    <String>Drastic Measures In Dark Times</String>
   </StringTable>
  
   <StringTable>
     <Label>EmergencyCoalition_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>EmergencyCoalition_OpponentPartyAName</Label>
-    <String>Partido Guardião</String>
+    <String>Watchdog Party</String>
   </StringTable>
  
   <StringTable>
     <Label>EmergencyCoalition_OpponentPartyBName</Label>
-    <String>Partido Anti-Regulamentação</String>
+    <String>Anti-Regulation Party</String>
   </StringTable>
  
   <StringTable>
     <Label>EmergencyCoalitionSpecial_EconomicDirector_PositionName</Label>
-    <String>Diretor Econômico</String>
+    <String>Economic Director</String>
   </StringTable>
  
   <StringTable>
     <Label>EmergencyCoalitionCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
   <StringTable>
     <Label>Aristocracy_DisplayName</Label>
-    <String>Aristocracia proprietária</String>
+    <String>Owner Aristocracy</String>
   </StringTable>
  
   <StringTable>
     <Label>Aristocracy_Description</Label>
-    <String>Os governos são propensos ao fracasso quando a sociedade deve confiar em cada cidadão para sobreviver. Esta é uma oposição à ordem natural, o rei deve governar o império, os fortes devem escravizar os fracos..</String>
+    <String>Governments are prone to failure when the society must trust each citizen to survive. This is an opposition to the natural order, the king should rule the empire, the strong should enslave the weak.</String>
   </StringTable>
  
   <StringTable>
     <Label>Aristocracy_ShortDescription</Label>
-    <String>Construído nas costas dos escravos</String>
+    <String>Built On The Back of Slaves</String>
   </StringTable>
  
   <StringTable>
     <Label>Aristocracy_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Aristocracy_OpponentPartyAName</Label>
-    <String>A Marca</String>
+    <String>The Branded</String>
   </StringTable>
  
   <StringTable>
     <Label>Aristocracy_OpponentPartyBName</Label>
-    <String>Abolucionistas</String>
+    <String>Abolutionists</String>
   </StringTable>
  
   <StringTable>
     <Label>AristocracySecretary_MaxManufacturing_PositionName</Label>
-    <String>Ministro da Motivação</String>
+    <String>Minister of Motivation</String>
   </StringTable>
  
   <StringTable>
     <Label>AristocracyMinister_Soldiering_PositionName</Label>
-    <String>Ministro do Recrutamento</String>
+    <String>Minister of Recruitment</String>
   </StringTable>
  
   <StringTable>
     <Label>AristocracySpecial_Cruel_PositionName</Label>
-    <String>Agente de obrigações</String>
+    <String>Bondsman</String>
   </StringTable>
  
   <StringTable>
     <Label>AristocracyCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
   <StringTable>
     <Label>Scientific_DisplayName</Label>
-    <String>Tecnocracia</String>
+    <String>Technocracy</String>
   </StringTable>
  
   <StringTable>
     <Label>Scientific_Description</Label>
-    <String>Não estamos mais ligados por estradas e pistas espaciais, mas por redes de comunicação. O mundo físico é apenas a base sobre a qual os infinitos mundos virtuais serão construídos.</String>
+    <String>We are no longer bound by roads and space lanes, but by communication networks. The physical world is only the bedrock that the infinite virtual worlds will be built upon.</String>
   </StringTable>
  
   <StringTable>
     <Label>Scientific_ShortDescription</Label>
-    <String>A ciência nos conduzirá</String>
+    <String>Science Will Lead Us</String>
   </StringTable>
  
   <StringTable>
     <Label>Scientific_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Scientific_OpponentPartyAName</Label>
-    <String>Ciência Sem restrições</String>
+    <String>Science Unbound</String>
   </StringTable>
  
   <StringTable>
@@ -574,407 +574,407 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>ScientificMinister_Research_PositionName</Label>
-    <String>Ministro da Ciência</String>
+    <String>Minister of Science</String>
   </StringTable>
  
   <StringTable>
     <Label>ScientificAdvisor_Research_PositionName</Label>
-    <String>Conselheiro em Educação</String>
+    <String>Education Advisor</String>
   </StringTable>
  
   <StringTable>
     <Label>ScientificCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
   <StringTable>
     <Label>Jihad_DisplayName</Label>
-    <String>Jihad Infinita</String>
+    <String>Infinite Jihad</String>
   </StringTable>
  
   <StringTable>
     <Label>Jihad_Description</Label>
-    <String>Outros governos fazem guerra por dinheiro, recursos ou disputas vãs. Mas nós trazemos a verdade. Se você não der ouvidos aos nossos missionários, você achará nossos soldados ainda mais convincentes.</String>
+    <String>Other governments wage war for money, resources or vain disputes. But we bring truth. If you won't listen to our missionaries, you will find our soldiers even more compelling.</String>
   </StringTable>
  
   <StringTable>
     <Label>Jihad_ShortDescription</Label>
-    <String>Limpando a galáxia</String>
+    <String>Cleansing The Galaxy</String>
   </StringTable>
  
   <StringTable>
     <Label>Jihad_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Jihad_OpponentPartyAName</Label>
-    <String>Portadores de tochas</String>
+    <String>Torchbearers</String>
   </StringTable>
  
   <StringTable>
     <Label>Jihad_OpponentPartyBName</Label>
-    <String>O Sem Deus</String>
+    <String>The Godless</String>
   </StringTable>
  
   <StringTable>
     <Label>JihadSpecial_Keeper_PositionName</Label>
-    <String>Guardião da Palavra</String>
+    <String>Keeper of the Word</String>
   </StringTable>
  
   <StringTable>
     <Label>JihadMinister_GoodsAndServices_PositionName</Label>
-    <String>Ministro da Verdade</String>
+    <String>Minister of Truth</String>
   </StringTable>
  
   <StringTable>
     <Label>JihadCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
   <StringTable>
     <Label>Empire_DisplayName</Label>
-    <String>Império Galáctico</String>
+    <String>Galactic Empire</String>
   </StringTable>
  
   <StringTable>
     <Label>Empire_Description</Label>
-    <String>Nosso governo será administrado por nossos cidadãos mais poderosos. Eles têm mais a ganhar e a perder com o sucesso de nossa sociedade.</String>
+    <String>Our government will be managed by our most powerful citizens. They have more to gain and lose by the success of our society.</String>
   </StringTable>
  
   <StringTable>
     <Label>Empire_ShortDescription</Label>
-    <String>Uma rede governamental construída sobre a força</String>
+    <String>A Governmnet Built On Strength</String>
   </StringTable>
  
   <StringTable>
     <Label>Empire_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Empire_OpponentPartyAName</Label>
-    <String>Grande Marcha</String>
+    <String>Grand March</String>
   </StringTable>
  
   <StringTable>
     <Label>Empire_OpponentPartyBName</Label>
-    <String>Partido das Necessidades Civis</String>
+    <String>Civilian Needs Party</String>
   </StringTable>
  
   <StringTable>
     <Label>EmpireSpecial_Legion_PositionName</Label>
-    <String>Comandante da Legião</String>
+    <String>Legion Commander</String>
   </StringTable>
  
   <StringTable>
     <Label>EmpireMinister_Military_PositionName</Label>
-    <String>Ministro da Guerra</String>
+    <String>Minister of War</String>
   </StringTable>
  
   <StringTable>
     <Label>EmpireMinister_Soldiering_PositionName</Label>
-    <String>Ministro de Conquista</String>
+    <String>Minister of Conquest</String>
   </StringTable>
  
   <StringTable>
     <Label>EmpireCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
   <StringTable>
     <Label>Plutocracy_DisplayName</Label>
-    <String>Plutocracia interestelar</String>
+    <String>Interstellar Plutocracy</String>
   </StringTable>
  
   <StringTable>
     <Label>Plutocracy_Description</Label>
-    <String>Substituímos nossos políticos pelas corporações que eles representam. Um cidadão é apenas uma engrenagem na roda. Nossas corporações são eternas.</String>
+    <String>We have replaced our politicians with the corporations they represent. A citizen is only a cog in the wheel. Our corporations are eternal.</String>
   </StringTable>
  
   <StringTable>
     <Label>Plutocracy_ShortDescription</Label>
-    <String>Supervisão Corporativa</String>
+    <String>Corporate Oversight</String>
   </StringTable>
  
   <StringTable>
     <Label>Plutocracy_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Plutocracy_OpponentPartyAName</Label>
-    <String>Fundo de Ação Política</String>
+    <String>Politcal Action Fund</String>
   </StringTable>
  
   <StringTable>
     <Label>Plutocracy_OpponentPartyBName</Label>
-    <String>Liga dos Trabalhadores</String>
+    <String>Worker League</String>
   </StringTable>
  
   <StringTable>
     <Label>PlutocracySecretary_ColonyGrossIncome_PositionName</Label>
-    <String>Diretor Financeiro</String>
+    <String>Chief Financial Officer</String>
   </StringTable>
  
   <StringTable>
     <Label>PlutocracyMinister_Resistance_PositionName</Label>
-    <String>Chefe de Segurança</String>
+    <String>Chief Security Officer</String>
   </StringTable>
  
   <StringTable>
     <Label>PlutocracyMinister_Tourism_PositionName</Label>
-    <String>Diretor de Marketing</String>
+    <String>Chief Marketing Officer</String>
   </StringTable>
  
   <StringTable>
     <Label>PlutocracyCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
   <StringTable>
     <Label>Singularity_DisplayName</Label>
-    <String>Singularidade</String>
+    <String>Singularity</String>
   </StringTable>
  
   <StringTable>
     <Label>Singularity_Description</Label>
-    <String>Nossa sociedade tem se tornado muito complexa para as mentes individuais. Ao entregar nosso governo à IA, os custos da burocracia desaparecem e cada cidadão receberá o cuidado direto do governo.</String>
+    <String>Our society has grown too complex for individual minds. By turning our government over to the AI the costs of bureaucracy are gone and each citizen will receive direct care from the government.</String>
   </StringTable>
  
   <StringTable>
     <Label>Singularity_ShortDescription</Label>
-    <String>A verdadeira IA nos ilumina</String>
+    <String>True AI Leads Us</String>
   </StringTable>
  
   <StringTable>
     <Label>Singularity_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Singularity_OpponentPartyAName</Label>
-    <String>Partido Pós-Humano</String>
+    <String>Post-Human Party</String>
   </StringTable>
  
   <StringTable>
     <Label>Singularity_OpponentPartyBName</Label>
-    <String>Humanistas</String>
+    <String>Humanists</String>
   </StringTable>
  
   <StringTable>
     <Label>SingularitySpecial_Halee_PositionName</Label>
-    <String>Pós-Humano</String>
+    <String>Post-Human</String>
   </StringTable>
  
   <StringTable>
     <Label>SingularityCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
   <StringTable>
     <Label>Objectivism_DisplayName</Label>
-    <String>Objetivismo</String>
+    <String>Objectivism</String>
   </StringTable>
  
   <StringTable>
     <Label>Objectivism_Description</Label>
-    <String>"A maioria se une contra os males da corrupção e da ganância, mas para um governo, altruísmo e esperança são igualmente prejudiciais".- Harondin Gaul</String>
+    <String>"Most rally against the evils of corruption and greed, but for a government, altruism and hope are equally damaging."- Harondin Gaul</String>
   </StringTable>
  
   <StringTable>
     <Label>Objectivism_ShortDescription</Label>
-    <String>Governo sem ideais</String>
+    <String>Government Without Ideals</String>
   </StringTable>
  
   <StringTable>
     <Label>Objectivism_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Objectivism_OpponentPartyAName</Label>
-    <String>Partido Racional</String>
+    <String>Rational Party</String>
   </StringTable>
  
   <StringTable>
     <Label>Objectivism_OpponentPartyBName</Label>
-    <String>Partido da Compaixão</String>
+    <String>Compassion Party</String>
   </StringTable>
  
   <StringTable>
     <Label>ObjectivismSpecial_Advocate_PositionName</Label>
-    <String>Advogado do indivíduo</String>
+    <String>Advocate of the Individual</String>
   </StringTable>
  
   <StringTable>
     <Label>ObjectivismSecretary_MaxManufacturing_PositionName</Label>
-    <String>Secretário de Direitos de Propriedade</String>
+    <String>Secretary of Property Rights</String>
   </StringTable>
  
   <StringTable>
     <Label>ObjectivismSecretary_ColonyGrossIncome_PositionName</Label>
-    <String>Secretário do Comércio</String>
+    <String>Secretary of Commerce</String>
   </StringTable>
  
   <StringTable>
     <Label>ObjectivismMinister_Research_PositionName</Label>
-    <String>Ministro da Educação</String>
+    <String>Minister of Education</String>
   </StringTable>
  
   <StringTable>
     <Label>ObjectivismCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
   <StringTable>
     <Label>Federation_DisplayName</Label>
-    <String>Federação das Estrelas</String>
+    <String>Star Federation</String>
   </StringTable>
  
   <StringTable>
     <Label>Federation_Description</Label>
-    <String>Não podemos acreditar que sejamos os únicos aptos a liderar. Cada mundo merece respeito, cada povo uma voz. O governo deve servir a todos igualmente.</String>
+    <String>We cannot believe that we are the only ones fit to lead. Each world deserves respect, each people a voice. The government should serve all equally.</String>
   </StringTable>
  
   <StringTable>
     <Label>Federation_ShortDescription</Label>
-    <String>Muitas vozes sob uma bandeira</String>
+    <String>Many Voices Under One Banner</String>
   </StringTable>
  
   <StringTable>
     <Label>Federation_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Federation_OpponentPartyAName</Label>
-    <String>Partido Unido</String>
+    <String>United Member Party</String>
   </StringTable>
  
   <StringTable>
     <Label>Federation_OpponentPartyBName</Label>
-    <String>Partido Isolacionista</String>
+    <String>Isolationist Party</String>
   </StringTable>
  
   <StringTable>
     <Label>FederationSecretary_GoodsAndServices_PositionName</Label>
-    <String>Secretário do Interior</String>
+    <String>Secretary of the Interior</String>
   </StringTable>
  
   <StringTable>
     <Label>FederationSecretary_Diplomacy_PositionName</Label>
-    <String>Secretário de Estado</String>
+    <String>Secretary of State</String>
   </StringTable>
  
   <StringTable>
     <Label>FederationSecretary_Influence_PositionName</Label>
-    <String>Secretário de Propaganda</String>
+    <String>Secretary of Propaganda</String>
   </StringTable>
  
   <StringTable>
     <Label>FederationCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
   <StringTable>
     <Label>Communion_DisplayName</Label>
-    <String>Comunhão Galáctica</String>
+    <String>Galactic Communion</String>
   </StringTable>
  
   <StringTable>
     <Label>Communion_Description</Label>
-    <String>Um governo é um conjunto de pessoas, não de regiões. Onde estão nossos cidadãos, assim existe o Estado. Onde um cidadão celebra, todos nós celebramos. Onde um cidadão sofre, todos nós sofremos..</String>
+    <String>A government is a collection of people, not regions. Where our citizens are, so exists the state. Where a citizen celebrates, we all celebrate. Where a citizen suffers, we all suffer.</String>
   </StringTable>
  
   <StringTable>
     <Label>Communion_ShortDescription</Label>
-    <String>O Governo que Serve</String>
+    <String>Government That Serves</String>
   </StringTable>
  
   <StringTable>
     <Label>Communion_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Communion_OpponentPartyAName</Label>
-    <String>O Pabulum</String>
+    <String>The Pabulum</String>
   </StringTable>
  
   <StringTable>
     <Label>Communion_OpponentPartyBName</Label>
-    <String>O Nepenthe</String>
+    <String>The Nepenthe</String>
   </StringTable>
  
   <StringTable>
     <Label>CommunionSecretary_ShipRange_PositionName</Label>
-    <String>Olhos Divinos</String>
+    <String>Divine Eyes</String>
   </StringTable>
  
   <StringTable>
     <Label>CommunionSecretary_FoodIncome_PositionName</Label>
-    <String>Mão Divina</String>
+    <String>Divine Hand</String>
   </StringTable>
  
   <StringTable>
     <Label>CommunionSpecial_DivineSoul_PositionName</Label>
-    <String>Alma Divina</String>
+    <String>Divine Soul</String>
   </StringTable>
  
   <StringTable>
     <Label>CommunionCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
   <StringTable>
     <Label>Kingdom_DisplayName</Label>
-    <String>Reino Galáctico</String>
+    <String>Galactic Kingdom</String>
   </StringTable>
  
   <StringTable>
     <Label>Kingdom_Description</Label>
-    <String>Deixe os governos mais fracos travarem batalhas internas. Em nossa sociedade, cada cidadão servirá a alguém maior. Não haverá disputas, apenas obediência e conquista..</String>
+    <String>Let weaker governments fight internal battles. In our society each citizen will serve someone greater. There will be no disputes, only obedience and conquest.</String>
   </StringTable>
  
   <StringTable>
     <Label>Kingdom_ShortDescription</Label>
-    <String>Governo que você serve</String>
+    <String>Governmnet You Serve</String>
   </StringTable>
  
   <StringTable>
     <Label>Kingdom_PlayerPartyName</Label>
-    <String>Lealista</String>
+    <String>Loyalist</String>
   </StringTable>
  
   <StringTable>
     <Label>Kingdom_OpponentPartyAName</Label>
-    <String>Câmara dos Lordes</String>
+    <String>House of Lords</String>
   </StringTable>
  
   <StringTable>
     <Label>Kingdom_OpponentPartyBName</Label>
-    <String>O Sofrimento</String>
+    <String>The Suffering</String>
   </StringTable>
  
   <StringTable>
     <Label>KingdomSpecial_LordProtector_PositionName</Label>
-    <String>Lorde Protetor</String>
+    <String>Lord Protector</String>
   </StringTable>
  
   <StringTable>
     <Label>KingdomMinister_Military_PositionName</Label>
-    <String>Ministro da Guerra</String>
+    <String>Minister of War</String>
   </StringTable>
  
   <StringTable>
     <Label>KingdomMinister_MaxManufacturing_PositionName</Label>
-    <String>Ministro da Indústria</String>
+    <String>Minister of Industry</String>
   </StringTable>
  
   <StringTable>
     <Label>KingdomCabinetMember_Crisis_PositionName</Label>
-    <String>Gerente de Crise</String>
+    <String>Crisis Manager</String>
   </StringTable>
  
 </StringTableList>

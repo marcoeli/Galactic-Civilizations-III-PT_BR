@@ -7,15 +7,15 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>CommonwealthAbility_Name</Label>
-    <String>[ICON=Diplomatic_Trait_Icon]  Comunidade</String>
+    <String>[ICON=Diplomatic_Trait_Icon]  Commonwealth</String>
   </StringTable>
   <StringTable>
     <Label>CommonwealthAbility_ShortName</Label>
-    <String>Comunidade</String>
+    <String>Commonwealth</String>
   </StringTable>
   <StringTable>
     <Label>CommonwealthAbility_Dec</Label>
-    <String>Maior Capacidade Diplomática</String>
+    <String>Increased Diplomatic Ability</String>
   </StringTable>
  
 </StringTableList>

@@ -7,138 +7,138 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/FlavorText.xsd">
   <FlavorTextDef>
 		<InternalName>ELECTION_WARNING_LOSE</InternalName>
 		<FlavorTextOption>
-			<Text>We are scheduled for an election in 5 weeks. Pollsters report that we are likely to [COLOR=UIDefaultHighlight]lose by a landslide[/COLOR].
+			<Text>Estamos agendados para uma eleição dentro de 5 semanas. Pesquisadores informam que é provável que [COLOR=UIDefaultHighlight]perderá por uma avalanche[/COLOR].
 
-			Elections require that we watch our approval rating closely. Voters will not be easily swayed by short term measures and will consider their morale over a long period. All the things that increase approval will help us win elections like lowering the tax rate and building approval improvements. Or we can consider forms of government that don't hold elections. If we lose an election we will fall to a [COLOR=UIDefaultHighlight]Coalition Government[/COLOR] which limits our power. Including blocking our ability to declare war.</Text>
+			As eleições exigem que observemos de perto nosso índice de aprovação. Os eleitores não serão facilmente influenciados por medidas de curto prazo e considerarão seu moral durante um longo período. Todas as coisas que aumentam a aprovação nos ajudarão a vencer as eleições, como a redução da taxa de impostos e melhorias na aprovação de edifícios. Ou podemos considerar formas de governo que não realizam eleições. Se perdermos uma eleição, cairemos para um [COLOR=UIDefaultHighlight]Governo de Coalizão[/COLOR] o que limita nosso poder. Incluindo o bloqueio de nossa capacidade de declarar guerra.</Text>
 		</FlavorTextOption>
 	</FlavorTextDef>
 
 	<FlavorTextDef>
 		<InternalName>ELECTION_WARNING_LOW</InternalName>
 		<FlavorTextOption>
-			<Text>We are scheduled for an election in 5 weeks. Pollsters report that we are likely to [COLOR=UIDefaultHighlight]lose, but it will be close[/COLOR]. We should focus on increasing morale.
+			<Text>Estamos agendados para uma eleição dentro de 5 semanas. Pesquisadores informam que é provável que [COLOR=UIDefaultHighlight]perde, mas será por pouco[/COLOR]. Devemos nos concentrar em aumentar o moral.
 
-			Elections require that we watch our approval rating closely. Voters will not be easily swayed by short term measures and will consider their morale over a long period. All the things that increase approval will help us win elections like lowering the tax rate and building approval improvements. Or we can consider forms of government that don't hold elections. If we lose an election we will fall to a [COLOR=UIDefaultHighlight]Coalition Government[/COLOR] which limits our power. Including blocking our ability to declare war.</Text>
+			As eleições exigem que observemos de perto nosso índice de aprovação. Os eleitores não serão facilmente influenciados por medidas de curto prazo e considerarão seu moral durante um longo período. Todas as coisas que aumentam a aprovação nos ajudarão a vencer as eleições, como a redução da taxa de impostos e melhorias na aprovação de edifícios. Ou podemos considerar formas de governo que não realizam eleições. Se perdermos uma eleição, cairemos para um [COLOR=UIDefaultHighlight]Governo de Coalizão[/COLOR] o que limita nosso poder. Incluindo o bloqueio de nossa capacidade de declarar guerra.</Text>
 		</FlavorTextOption>
 	</FlavorTextDef>
 
 	<FlavorTextDef>
 		<InternalName>ELECTION_WARNING_HIGH</InternalName>
 		<FlavorTextOption>
-			<Text>We are scheduled for an election in 5 weeks. Pollsters report that we are likely to [COLOR=UIDefaultHighlight]win, but it will be close[/COLOR]. We can't allow morale to drop.
+			<Text>Estamos agendados para uma eleição dentro de 5 semanas. Pesquisadores informam que é provável que [COLOR=UIDefaultHighlight]vencer, mas será por pouco[/COLOR]. Não podemos permitir que o moral caia.
 
-			Elections require that we watch our approval rating closely. Voters will not be easily swayed by short term measures and will consider their morale over a long period. All the things that increase approval will help us win elections like lowering the tax rate and building approval improvements. Or we can consider forms of government that don't hold elections. If we lose an election we will fall to a [COLOR=UIDefaultHighlight]Coalition Government[/COLOR] which limits our power. Including blocking our ability to declare war.</Text>
+			As eleições exigem que observemos de perto nosso índice de aprovação. Os eleitores não serão facilmente influenciados por medidas de curto prazo e considerarão seu moral durante um longo período. Todas as coisas que aumentam a aprovação nos ajudarão a vencer as eleições, como a redução da taxa de impostos e melhorias na aprovação de edifícios. Ou podemos considerar formas de governo que não realizam eleições. Se perdermos uma eleição, cairemos para um [COLOR=UIDefaultHighlight]Governo de Coalizão[/COLOR] o que limita nosso poder. Incluindo o bloqueio de nossa capacidade de declarar guerra.</Text>
 		</FlavorTextOption>
 	</FlavorTextDef>
 
 	<FlavorTextDef>
 		<InternalName>ELECTION_WARNING_WIN</InternalName>
 		<FlavorTextOption>
-			<Text>We are scheduled for an election in 5 weeks. Pollsters report that we are likely to [COLOR=UIDefaultHighlight]win by a landslide[/COLOR].
+			<Text>Estamos agendados para uma eleição dentro de 5 semanas. Pesquisadores informam que é provável que [COLOR=UIDefaultHighlight]vencer por um avalanche[/COLOR].
 
-			Elections require that we watch our approval rating closely. Voters will not be easily swayed by short term measures and will consider their morale over a long period. All the things that increase approval will help us win elections like lowering the tax rate and building approval improvements. Or we can consider forms of government that don't hold elections. If we lose an election we will fall to a [COLOR=UIDefaultHighlight]Coalition Government[/COLOR] which limits our power. Including blocking our ability to declare war.</Text>
+			As eleições exigem que observemos de perto nosso índice de aprovação. Os eleitores não serão facilmente influenciados por medidas de curto prazo e considerarão seu moral durante um longo período. Todas as coisas que aumentam a aprovação nos ajudarão a vencer as eleições, como a redução da taxa de impostos e melhorias na aprovação de edifícios. Ou podemos considerar formas de governo que não realizam eleições. Se perdermos uma eleição, cairemos para um [COLOR=UIDefaultHighlight]Coalition Government[/COLOR] o que limita nosso poder. Incluindo o bloqueio de nossa capacidade de declarar guerra.</Text>
 		</FlavorTextOption>
 	</FlavorTextDef>
 
 	<FlavorTextDef>
 		<InternalName>ELECTION_WARNING_RESPONSE_ECONOMY</InternalName>
 		<FlavorTextOption>
-			<Text>Let's review our Economic options. [COLOR=UIDefaultHighlight](Opens Economy screen)[/COLOR]</Text>
+			<Text>Vamos rever nossas opções econômicas. [COLOR=UIDefaultHighlight](Abre a tela de economia)[/COLOR]</Text>
 		</FlavorTextOption>
 	</FlavorTextDef>
 
 	<FlavorTextDef>
 		<InternalName>ELECTION_WARNING_RESPONSE_GOVERNMENT</InternalName>
 		<FlavorTextOption>
-			<Text>Let's review our Government options. [COLOR=UIDefaultHighlight](Opens Government screen)[/COLOR]</Text>
+			<Text>Vamos rever nossas opções governamentais. [COLOR=UIDefaultHighlight](Abre a tela do Governo)[/COLOR]</Text>
 		</FlavorTextOption>
 	</FlavorTextDef>
 
 	<FlavorTextDef>
 		<InternalName>ELECTION_WARNING_RESPONSE_WAIT</InternalName>
 		<FlavorTextOption>
-			<Text>Give me a moment.</Text>
+			<Text>Dê-me um momento.</Text>
 		</FlavorTextOption>
 	</FlavorTextDef>
 
 	<FlavorTextDef>
 		<InternalName>COLONY_LIMIT_WARNING</InternalName>
 		<FlavorTextOption>
-			<Text>Our government is insufficient for the needs of our growing civilization. New colonies complain that the government only serves the homeworld and decisions across our worlds are becoming increasingly delayed by deeper and deeper levels of bureaucracy.
+			<Text>Nosso governo é insuficiente para as necessidades de nossa crescente civilização. As novas colônias reclamam que o governo só serve ao mundo natal e as decisões em nosso mundo estão se tornando cada vez mais atrasadas por níveis cada vez mais profundos de burocracia.
 
-        Governments are only effective at managing a certain number of worlds. After this [COLOR=UIDefaultHighlight]Colony Limit[/COLOR] is exceeded we will suffer a Morale penalty for each Colony we control beyond this limit. We can also form [COLOR=UIDefaultHighlight]Commonwealths[/COLOR] to decrease the amount of colonies we have to manage directly.</Text>
+        Os governos só são eficazes na gestão de um certo número de mundos. Depois disso, os governos [COLOR=UIDefaultHighlight]Limite da colônia[/COLOR] for ultrapassado, sofreremos uma penalidade moral por cada colônia que controlarmos além deste limite. Também podemos formar [COLOR=UIDefaultHighlight]Comunidade[/COLOR] para diminuir a quantidade de colônias que temos que administrar diretamente.</Text>
 		</FlavorTextOption>
 	</FlavorTextDef>
 
 	<FlavorTextDef>
 		<InternalName>COLONY_LIMIT_WARNING_RESPONSE_GOVERNMENT</InternalName>
 		<FlavorTextOption>
-			<Text>Let's review our Government options. [COLOR=UIDefaultHighlight](Opens Government screen)[/COLOR]</Text>
+			<Text>Vamos rever nossas opções governamentais. [COLOR=UIDefaultHighlight](Abre a tela do Governo)[/COLOR]</Text>
 		</FlavorTextOption>
 	</FlavorTextDef>
 
   <FlavorTextDef>
     <InternalName>COLONY_LIMIT_WARNING_RESPONSE_COMMONWEALTH</InternalName>
     <FlavorTextOption>
-      <Text>Let's create a Commonwealth. [COLOR=UIDefaultHighlight](Opens Commonwealth screen)[/COLOR]</Text>
+      <Text>Vamos criar uma Comunidade. [COLOR=UIDefaultHighlight](Abre a tela da Comunidade)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
   <FlavorTextDef>
 		<InternalName>COLONY_LIMIT_WARNING_RESPONSE_WAIT</InternalName>
 		<FlavorTextOption>
-			<Text>Give me a moment.</Text>
+			<Text>Dê-me um momento.</Text>
 		</FlavorTextOption>
 	</FlavorTextDef>
 
   <FlavorTextDef>
     <InternalName>COLONY_LIMIT_WARNING_TECH</InternalName>
     <FlavorTextOption>
-      <Text>Our government is insufficient for the needs of our growing civilization. New colonies complain that the government only serves the homeworld and decisions across our worlds are becoming increasingly delayed by bureaucracy.
+      <Text>Nosso governo é insuficiente para as necessidades de nossa crescente civilização. As novas colônias reclamam que o governo só serve ao mundo natal e as decisões em nosso mundo estão se tornando cada vez mais atrasadas pela burocracia.
 
-        Governments are only effective at managing a certain number of worlds. After this [COLOR=UIDefaultHighlight]Colony Limit[/COLOR] is exceeded we suffer a Morale penalty for each Colony beyond this limit. Unfortunately we haven't discovered any governments that increase our Colony Limit. We should discover technologies that allow more advanced forms of government, either by research or by trading with other civilizations. We can also form [COLOR=UIDefaultHighlight]Commonwealths[/COLOR] to decrease the amount of colonies we have to manage directly.</Text>
+        Os governos só são eficazes na gestão de um certo número de mundos. Depois disso, os governos [COLOR=UIDefaultHighlight]Limite da colônia[/COLOR] é excedido, sofremos uma pena moral para cada colônia além deste limite. Infelizmente, não descobrimos nenhum governo que aumente nosso limite de colônias. Devemos descobrir tecnologias que permitam formas mais avançadas de governo, seja pela pesquisa ou pelo comércio com outras civilizações. Também podemos formar [COLOR=UIDefaultHighlight]Comunidade[/COLOR] para diminuir a quantidade de colônias que temos que administrar diretamente.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
   <FlavorTextDef>
     <InternalName>COLONY_LIMIT_WARNING_TECH_RESPONSE_TECH</InternalName>
     <FlavorTextOption>
-      <Text>Let's review our Research options. [COLOR=UIDefaultHighlight](Opens Research screen)[/COLOR]</Text>
+      <Text>Vamos rever nossas opções de Pesquisa. [COLOR=UIDefaultHighlight](Abre a tela de Pesquisa)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
   <FlavorTextDef>
     <InternalName>COLONY_LIMIT_WARNING_TECH_RESPONSE_COMMONWEALTH</InternalName>
     <FlavorTextOption>
-      <Text>Let's create a Commonwealth. [COLOR=UIDefaultHighlight](Opens Commonwealth screen)[/COLOR]</Text>
+      <Text>Vamos criar uma Comunidade. [COLOR=UIDefaultHighlight](Abre a tela da Comunidade)[/COLOR]</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
   <FlavorTextDef>
     <InternalName>COLONY_LIMIT_WARNING_TECH_RESPONSE_WAIT</InternalName>
     <FlavorTextOption>
-      <Text>Give me a moment.</Text>
+      <Text>Dê-me um momento.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
 
   <FlavorTextDef>
 		<InternalName>CHOOSE_FIRST_GOVERNMENT</InternalName>
 		<FlavorTextOption>
-			<Text>Now that we have expanded beyond our homeworld, the colonists are crying out for structure. It is time for us to choose a form of government that is ready to handle a galactic civilization.</Text>
+			<Text>Agora que nos expandimos além de nosso mundo natal, os colonos estão clamando por estrutura. Está na hora de escolhermos uma forma de governo que esteja pronta para lidar com uma civilização galáctica.</Text>
 		</FlavorTextOption>
 	</FlavorTextDef>
 
 	<FlavorTextDef>
 		<InternalName>CHOOSEFIRSTGOVERNMENT_RESPONSE_GO_NOW</InternalName>
 		<FlavorTextOption>
-			<Text>Great, let's get started! [COLOR=UIDefaultHighlight](Opens Government screen)[/COLOR]</Text>
+			<Text>Ótimo, vamos começar! [COLOR=UIDefaultHighlight](Abre a tela do Governo)[/COLOR]</Text>
 		</FlavorTextOption>
 	</FlavorTextDef>
 
 	<FlavorTextDef>
 		<InternalName>CHOOSEFIRSTGOVERNMENT_RESPONSE_WAIT</InternalName>
 		<FlavorTextOption>
-			<Text>Give me a moment.</Text>
+			<Text>Dê-me um momento.</Text>
 		</FlavorTextOption>
 	</FlavorTextDef>
   

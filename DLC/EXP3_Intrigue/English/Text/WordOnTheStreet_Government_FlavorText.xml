@@ -7,152 +7,152 @@
 	<FlavorTextDef>
 		<InternalName>WORDONTHESTREET_GOVERNMENT_HIGHMORALE</InternalName>
 		<FlavorTextOption>
-			<Text>We are planning a rally to support {LEADERNAME:1}!</Text>
-			<Text>I heard {PLANETNAME:1} has just found a delicious new animal to exploit. Good for them.</Text>
-			<Text>{PLAYERFACTIONLONG:1} is the best civilization in the galaxy. And maybe other galaxies.</Text>
-			<Text>{PLANETNAME:1} is beautiful. I think we should name it after {LEADERNAME:1}.</Text>
-			<Text>I feel sorry for aliens who can't live in {PLAYERFACTIONLONG:1}. They don't know what they're missing.</Text>
+			<Text>Estamos planejando um evento para ajudar {LEADERNAME:1}!</Text>
+			<Text>Ouvi dizer que {PLANETNAME:1} acaba de encontrar um novo animal delicioso para explorar. Bom para eles.</Text>
+			<Text>{PLAYERFACTIONLONG:1} é a melhor civilização da galáxia. E talvez outras galáxias.</Text>
+			<Text>{PLANETNAME:1} é lindo. Acho que devemos dar-lhe o nome de {LEADERNAME:1}.</Text>
+			<Text>Sinto pena dos alienígenas que não podem viver em {PLAYERFACTIONLONG:1}. Eles não sabem o que estão perdendo.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Coalition</ListenerGovernment>
 			</Requirements>
-			<Text>This Coalition government is wasting time, they need to put {LEADERNAME:1} back in power!</Text>
+			<Text>Este governo de Coalizão está perdendo tempo, eles precisam colocar {LEADERNAME:1} de volta no poder!</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Colonial</ListenerGovernment>
 			</Requirements>
-			<Text>I really like it here on {PLANETNAME:1}. It's so unspoiled. And I like not knowing what's over the next rise.</Text>
+			<Text>Eu realmente gosto daqui em {PLANETNAME:1}. É tão imaculado. E não gosto de saber o que há sobre a próxima ascensão.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>EmergencyCoalition</ListenerGovernment>
 			</Requirements>
-			<Text>People need to stop complaining. We're in an emergency, and the authorities are handling it.</Text>
+			<Text>As pessoas precisam parar de reclamar. Estamos em uma emergência, e as autoridades estão tratando disso.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Communion</ListenerGovernment>
 			</Requirements>
-			<Text>{PLAYERFACTIONLONG:1} is the best because we're all in it together. Anyone who disagrees should be shot into the sun.</Text>
+			<Text>{PLAYERFACTIONLONG:1} é o melhor porque estamos todos juntos nisto. Quem discorda deve ser baleado ao sol.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Empire</ListenerGovernment>
 			</Requirements>
-			<Text>{LEADERNAME:1} is wise and powerful. I'm glad their political opponents all mysteriously disappeared.</Text>
+			<Text>{LEADERNAME:1} é sábio e poderoso. Fico feliz que seus oponentes políticos tenham desaparecido misteriosamente.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Kingdom</ListenerGovernment>
 			</Requirements>
-			<Text>{LEADERNAME:1} is both wise and just. We're lucky to have such a considerate ruler.</Text>
+			<Text>{LEADERNAME:1} é ao mesmo tempo sábio e justo. Temos a sorte de ter um governante tão atencioso.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Imperial</ListenerGovernment>
 			</Requirements>
-			<Text>It's good to see {PLAYERFACTIONLONG:1}'s soldiers on parade, with their smart uniforms.</Text>
-			<Text>None of the other planets we've seen in this galaxy are as good as {PLANETNAME:1}. Soon, we will rule this pitiful galaxy.</Text>
+			<Text>É bom ver os soldados do {PLAYERFACTIONLONG:1} em desfile, com seus uniformes inteligentes.</Text>
+			<Text>Nenhum dos outros planetas que vimos nesta galáxia é tão bom quanto {PLANETNAME:1}. Em breve, vamos governar esta galáxia miserável.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Jihad</ListenerGovernment>
 			</Requirements>
-			<Text>I can't wait to be old enough to sign up for the legions! All praise {LEADERNAME:1}! Death to their enemies!</Text>
+			<Text>Mal posso esperar para ter idade suficiente para me inscrever nas legiões! Todos os louvores  a {LEADERNAME:1}! Morte a seus inimigos!</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Oligarchy</ListenerGovernment>
 			</Requirements>
-			<Text>Nothing but good news coming back from the frontier. Makes me proud to live in {PLAYERFACTIONLONG:1}.</Text>
+			<Text>Nada além de boas notícias que voltam da fronteira. Faz-me orgulhoso de viver em {PLAYERFACTIONLONG:1}.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Plutocracy</ListenerGovernment>
 			</Requirements>
-			<Text>If people want to be wealthier, they need to work harder. {PLANETNAME:1} is doing great.</Text>
+			<Text>Se as pessoas querem ser mais ricas, elas precisam trabalhar mais. {PLANETNAME:1} está indo muito bem.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Republic</ListenerGovernment>
 			</Requirements>
-			<Text>Everyone in the galaxy can see how powerful we are. They know we can't be pushed around. But they also know we will never be the aggressor, either.</Text>
+			<Text>Todos na galáxia podem ver como somos poderosos. Eles sabem que não podemos ser empurrados por aí. Mas eles também sabem que também nunca seremos o agressor.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Objectivism</ListenerGovernment>
 			</Requirements>
-			<Text>I'm making more money than ever. {LEADERNAME:1} has sure set us on the right path.</Text>
+			<Text>Estou ganhando mais dinheiro do que nunca. {LEADERNAME:1} com certeza nos colocou no caminho certo.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Aristocracy</ListenerGovernment>
 			</Requirements>
-			<Text>Anyone who complains is just jealous. We follow the natural order of sentients ruling sentients. And we are glorious because of it.</Text>
+			<Text>Qualquer pessoa que reclama é apenas ciumenta. Seguimos a ordem natural dos sencientes que governam os sencientes. E somos gloriosos por causa disso.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Singularity</ListenerGovernment>
 			</Requirements>
-			<Text>{LEADERNAME:1} has done a great job managing {PLANETNAME:1}. Whatever their nature, they know how we like to live.</Text>
+			<Text>{LEADERNAME:1} fez um ótimo trabalho gerenciando {PLANETNAME:1}. Qualquer que seja sua natureza, eles sabem como gostamos de viver.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Federation</ListenerGovernment>
 			</Requirements>
-			<Text>We just moved here from outside {PLAYERFACTIONLONG:1}. It's better than we ever could have hoped. Everyone's been so welcoming.</Text>
+			<Text>Acabamos de nos mudar para cá de fora {PLAYERFACTIONLONG:1}. É melhor do que jamais poderíamos ter esperado. Todos têm sido tão acolhedores.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Monarchy</ListenerGovernment>
 			</Requirements>
-			<Text>Every night I look up at the night sky and smile, knowing that all those stars will one day be claimed in the name of {LEADERNAME:1}.</Text>
+			<Text>Todas as noites olho para o céu noturno e sorrio, sabendo que todas aquelas estrelas um dia serão reclamadas em nome do {LEADERNAME:1}.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Scientific</ListenerGovernment>
 			</Requirements>
-			<Text>It's absurd to think of how inefficient {PLANETNAME:1} used to be before proper leadership took control.</Text>
+			<Text>É absurdo pensar em como era ineficiente {PLANETNAME:1} antes da liderança adequada assumir o controle.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Theocracy</ListenerGovernment>
 			</Requirements>
-			<Text>Another glorious day on {PLANETNAME:1}, as it was ordained to be.</Text>
+			<Text>Outro dia glorioso no {PLANETNAME:1}, como foi ordenado para ser.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Unity</ListenerGovernment>
 			</Requirements>
-			<Text>Unity is well. Unity approves of Unity's progress on all matters.</Text>
+			<Text>A unidade está bem. A Unidade aprova o progresso da Unidade em todos os assuntos.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Utopian</ListenerGovernment>
 			</Requirements>
-			<Text>I have no complaints. I once heard a man who had complaints, but then he went away somewhere. Good.</Text>
+			<Text>Eu não tenho reclamações. Uma vez ouvi um homem que tinha queixas, mas depois ele foi embora para algum lugar. Ótimo.</Text>
 		</FlavorTextOption>
 
 	</FlavorTextDef>
@@ -160,151 +160,151 @@
 	<FlavorTextDef>
 		<InternalName>WORDONTHESTREET_GOVERNMENT_MIDMORALE</InternalName>
 		<FlavorTextOption>
-			<Text>Just between you and me, I don't know about {LEADERNAME:1}. They keep making promises they can't keep.</Text>
-			<Text>I trust {LEADERNAME:1}. I hope they're strong enough to keep our government together.</Text>
-			<Text>{PLANETNAME:1} is grossly underequipped. It often feels like the rest of {PLAYERFACTIONLONG:1} is passing us by.</Text>
-			<Text>Everything is going fairly well. Not perfectly. But anyone who expects things to be perfect isn't being realistic.</Text>
-			<Text>Things have turned around a bit. But {LEADERNAME:1} shouldn't relax yet. There's still room for improvement.</Text>
+			<Text>Só entre você e eu, eu não sei sobre {LEADERNAME:1}. Ele continua fazendo promessas que não podem cumprir.</Text>
+			<Text>Confio em {LEADERNAME:1}. Espero que ele seja forte o suficiente para manter nosso governo unido.</Text>
+			<Text>{PLANETNAME:1} é grosseiramente subequipado. Muitas vezes parece que o resto do {PLAYERFACTIONLONG:1} está passando por nós.</Text>
+			<Text>Tudo está indo razoavelmente bem. Não perfeitamente. Mas qualquer um que espera que as coisas sejam perfeitas não está sendo realista.</Text>
+			<Text>As coisas mudaram um pouco. Mas o {LEADERNAME:1} ainda não deve relaxar. Ainda há espaço para melhorias.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Coalition</ListenerGovernment>
 			</Requirements>
-			<Text>I was worried when we moved to a Coalition government, but things are going surprisingly well.</Text>
+			<Text>Fiquei preocupado quando nos mudamos para um governo de Coalizão, mas as coisas estão indo surpreendentemente bem.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Colonial</ListenerGovernment>
 			</Requirements>
-			<Text>The problem with all this focus on colonization is that they think you're just a number. There are real lives being shuffled around!</Text>
+			<Text>O problema com todo esse foco na colonização é que eles pensam que você é apenas um número. Há vidas reais sendo remexidas!</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>EmergencyCoalition</ListenerGovernment>
 			</Requirements>
-			<Text>I've heard {LEADERNAME:1} doesn't have to put up with these restrictions placed on us regular citizens. Emergency, my rear.</Text>
+			<Text>Ouvi dizer que {LEADERNAME:1} não tem que suportar estas restrições impostas a nós, cidadãos comuns. Emergência, minha retaguarda.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Communion</ListenerGovernment>
 			</Requirements>
-			<Text>My cousin said that they have way more public facilities on {PLANETNAME:1} than we do here. Is that true? Is that allowed?</Text>
+			<Text>Meu primo disse que eles têm muito mais instalações públicas em {PLANETNAME:1} do que nós temos aqui. Isso é verdade? Isso é permitido?</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Empire</ListenerGovernment>
 			</Requirements>
-			<Text>{LEADERNAME:1} promises much and delivers little. Do they think we can take the galaxy like this?</Text>
+			<Text>{LEADERNAME:1} promete muito e entrega pouco. Eles acham que podemos tomar a galáxia desta maneira?</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Kingdom</ListenerGovernment>
 			</Requirements>
-			<Text>Are we planning to conquer another system? I wonder if one day we should just settle for what we have.</Text>
+			<Text>Estamos planejando conquistar outro sistema? Será que um dia devemos apenas nos contentar com o que temos?</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Imperial</ListenerGovernment>
 			</Requirements>
-			<Text>Have we subdued any more worlds lately? I want off {PLANETNAME:1}. I've got my reasons.</Text>
+			<Text>Temos subjugado mais algum mundo ultimamente? Eu quero sair de {PLANETNAME:1}. Eu tenho minhas razões.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Jihad</ListenerGovernment>
 			</Requirements>
-			<Text>How long will this war go on? How many children will we lose to this madness? We can't carry on like this.</Text>
+			<Text>Por quanto tempo esta guerra vai durar? Quantas crianças perderemos com esta loucura? Não podemos continuar assim.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Oligarchy</ListenerGovernment>
 			</Requirements>
-			<Text>Am I the only one who's suspicious that the only thing we hear on {PLANETNAME:1} is good news?</Text>
+			<Text>Sou o único que desconfia que a única coisa que ouvimos no {PLANETNAME:1} são boas notícias?</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Plutocracy</ListenerGovernment>
 			</Requirements>
-			<Text>I just bought a mark 3020, and the 3021 is already out. I don't want to buy it, but how can I not?</Text>
+			<Text>Acabei de comprar uma marca 3020, e a 3021 já está lançada. Eu não quero comprá-lo, mas como não fazê-lo?</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Republic</ListenerGovernment>
 			</Requirements>
-			<Text>I know it's not too popular a thing to say, but I think {LEADERNAME:1}'s government is basically doing an okay job.</Text>
+			<Text>Sei que não é uma coisa muito popular para se dizer, mas acho que o governo do {LEADERNAME:1} está basicamente fazendo um bom trabalho.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Objectivism</ListenerGovernment>
 			</Requirements>
-			<Text>My business hasn't been doing so well lately. Something's not right. I bet someone's leaching from {PLANETNAME:1}'s colonial government.</Text>
+			<Text>Meu negócio não tem se saído tão bem ultimamente. Algo não está bem. Aposto que alguém está saindo do governo colonial de {PLANETNAME:1}.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Aristocracy</ListenerGovernment>
 			</Requirements>
-			<Text>{LEADERNAME:1} is conducting a poll? Right. They only listen to the local nobility. And the local nobility sure doesn't listen to us.</Text>
+			<Text>{LEADERNAME:1} está realizando uma pesquisa? Certo. Eles só escutam a nobreza local. E a nobreza local certamente não nos ouve.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Singularity</ListenerGovernment>
 			</Requirements>
-			<Text>It's weird how {LEADERNAME:1} knows what we want before we do. Not bad. Just weird.</Text>
+			<Text>É estranho como {LEADERNAME:1} sabe o que queremos antes de fazer. Nada mal. Apenas estranho.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Federation</ListenerGovernment>
 			</Requirements>
-			<Text>Whatever threats {PLAYERFACTIONLONG:1} faces, we must never compromise our core principals. I'm worried that commitment has been slipping lately.</Text>
+			<Text>Quaisquer que sejam as ameaças {PLAYERFACTIONLONG:1} enfrentadas, nunca devemos comprometer nossos princípios fundamentais. Preocupa-me que o compromisso tenha sido negligenciado ultimamente.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Monarchy</ListenerGovernment>
 			</Requirements>
-			<Text>{LEADERNAME:1} got us this far. Let's hold off the revolutionary talk and trust them to get us a bit further yet.</Text>
+			<Text>{LEADERNAME:1} nos levou até aqui. Vamos parar com a conversa revolucionária e confiar nele para nos levar um pouco mais longe ainda.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Scientific</ListenerGovernment>
 			</Requirements>
-			<Text>We need more universities on {PLANETNAME:1}. Our children are destined to be second class citizens without them.</Text>
+			<Text>Precisamos de mais universidades em {PLANETNAME:1}. Nossos filhos estão destinados a serem cidadãos de segunda classe sem elas.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Theocracy</ListenerGovernment>
 			</Requirements>
-			<Text>Between you and me, my brothers and sisters here are a bit less devout than they were on my homeworld. The prelates let them get away with too much!</Text>
+			<Text>Entre você e eu, meus irmãos e irmãs aqui são um pouco menos devotos do que eram em meu mundo natal. Os prelados os deixaram escapar com muita coisa!</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Unity</ListenerGovernment>
 			</Requirements>
-			<Text>Unity has struggled lately. Unity can see this. Unity knows it must do better.</Text>
+			<Text>A unidade tem lutado ultimamente. A unidade pode ver isto. A unidade sabe que deve fazer melhor.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Utopian</ListenerGovernment>
 			</Requirements>
-			<Text>I saw a flaw the other day here on {PLANETNAME:1}. I hope the leaders are addressing it.</Text>
+			<Text>Eu vi uma falha  outro dia aqui no {PLANETNAME:1}. Espero que os líderes estejam se dirigindo a ela.</Text>
 		</FlavorTextOption>
 
 	</FlavorTextDef>
@@ -312,151 +312,151 @@
 	<FlavorTextDef>
 		<InternalName>WORDONTHESTREET_GOVERNMENT_LOWMORALE</InternalName>
 		<FlavorTextOption>
-			<Text>I support {LEADERNAME:1}, but I feel like I'm the only one.</Text>
-			<Text>{PLANETNAME:1} is a disaster! Our government is focused on the wrong priorities. Whose fault is this?</Text>
-			<Text>{PLANETNAME:1} is hideous. I think we should name it after {LEADERNAME:1}.</Text>
-			<Text>Things aren't going well in {PLAYERFACTIONLONG:1}. And I'm not the only one who thinks it!</Text>
-			<Text>These endless mishaps and disasters have been going on too long. Someone needs to stop this.</Text>
+			<Text>Eu apoio {LEADERNAME:1}, mas sinto que sou o único.</Text>
+			<Text>{PLANETNAME:1} é um desastre! Nosso governo está focado nas prioridades erradas. De quem é a culpa disto?</Text>
+			<Text>{PLANETNAME:1} é hediondo. Acho que devemos dar-lhe o nome de {LEADERNAME:1}.</Text>
+			<Text>As coisas não estão indo bem em {PLAYERFACTIONLONG:1}. E eu não sou o único que pensa assim!</Text>
+			<Text>Estes intermináveis contratempos e desastres vêm ocorrendo há muito tempo. Alguém precisa parar isto.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Coalition</ListenerGovernment>
 			</Requirements>
-			<Text>{PLAYERFACTIONLONG:1} is dysfunctional. This coalition won't last long, and then where will we be?</Text>
+			<Text>{PLAYERFACTIONLONG:1} é disfuncional. Esta coalizão não vai durar muito, e então onde estaremos nós?</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Colonial</ListenerGovernment>
 			</Requirements>
-			<Text>I've had it with the makeshift facilities, and the attacks by wild beasts, and the strange, tasteless food. I'm sick of the frontier life.</Text>
+			<Text>Estou farto das instalações improvisadas, dos ataques de animais selvagens e dos alimentos estranhos e sem sabor. Estou farto da vida fronteiriça.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>EmergencyCoalition</ListenerGovernment>
 			</Requirements>
-			<Text>How long can an emergency go on for? {PLANETNAME:1} feels more and more tense every day. I'm worried someone's going to snap.</Text>
+			<Text>Por quanto tempo uma emergência pode continuar? {PLANETNAME:1} se sente cada vez mais tenso a cada dia. Estou preocupado que alguém se arrependa.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Communion</ListenerGovernment>
 			</Requirements>
-			<Text>My neighbors aren't contributing as much as they can to the local cooperative. We need more anonymous reporting measures.</Text>
+			<Text>Meus vizinhos não estão contribuindo tanto quanto podem para a cooperativa local. Precisamos de mais medidas de informação anônima.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Empire</ListenerGovernment>
 			</Requirements>
-			<Text>{LEADERNAME:1} is a monster. Wait. Are you writing this down? No, stop!</Text>
+			<Text>{LEADERNAME:1} é um monstro. Espere. Você está anotando isso? Não, pare!</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Kingdom</ListenerGovernment>
 			</Requirements>
-			<Text>I've lived on {PLANETNAME:1} my whole life, and look how little I have to show for it. Everything I make goes to the landowners. What about me?</Text>
+			<Text>Eu vivi em {PLANETNAME:1} minha vida inteira, e veja como tenho pouco a mostrar para isso. Tudo que eu faço vai para os proprietários de terras. E quanto a mim?</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Imperial</ListenerGovernment>
 			</Requirements>
-			<Text>Every planet in the galaxy is better than {PLANETNAME:1}. It's a good thing we'll conquer them all. Because I want off this one.</Text>
+			<Text>Cada planeta da galáxia é melhor do que {PLANETNAME:1}. É bom que os conquistemos a todos. Porque eu quero sair deste aqui.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Jihad</ListenerGovernment>
 			</Requirements>
-			<Text>{LEADERNAME:1} needs to focus less on our enemies and more on building things. {PLANETNAME:1} is a shambles.</Text>
+			<Text>{LEADERNAME:1} precisa se concentrar menos em nossos inimigos e mais na construção das coisas. {PLANETNOME:1} é um desastre.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Oligarchy</ListenerGovernment>
 			</Requirements>
-			<Text>I would tell you what I really thought, but you wouldn't print it.</Text>
+			<Text>Eu lhe diria o que eu realmente pensava, mas você não o imprimiria.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Plutocracy</ListenerGovernment>
 			</Requirements>
-			<Text>When I complained about all the people dying in the slums they tried to sell me a life insurance policy. I bought it, but still it seems wrong.</Text>
+			<Text>Quando reclamei sobre todas as pessoas morrendo nas favelas, eles tentaram me vender uma apólice de seguro de vida. Eu a comprei, mas mesmo assim parece errado.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Republic</ListenerGovernment>
 			</Requirements>
-			<Text>We need an independent auditor to look into the results of the last colonial election. There was something shifty going on. No-one likes this government that much.</Text>
+			<Text>Precisamos de um auditor independente para analisar os resultados das últimas eleições coloniais. Algo mudou. Ninguém gosta assim tanto deste governo.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Objectivism</ListenerGovernment>
 			</Requirements>
-			<Text>{LEADERNAME:1} is a fraud! This system only benefits them and their cronies! They're the real takers!</Text>
+			<Text>{LEADERNAME:1} é uma fraude! Este sistema só beneficia a eles e a seus companheiros! Eles são os verdadeiros beneficiários!</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Aristocracy</ListenerGovernment>
 			</Requirements>
-			<Text>I haven't liked {PLANETNAME:1} since most of my family was taken to the new colony. It feels so empty here now.</Text>
+			<Text>Eu não gosto {PLANETNAME:1} desde que a maior parte da minha família foi levada para a nova colônia. Agora me sinto tão vazio aqui.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Singularity</ListenerGovernment>
 			</Requirements>
-			<Text>{LEADERNAME:1} is wrong! {LEADERNAME:1} is not flawless! Why won't anyone listen to me?</Text>
+			<Text>{LEADERNAME:1} está errado! {LEADERNAME:1} não é impecável! Por que ninguém me ouve?</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Federation</ListenerGovernment>
 			</Requirements>
-			<Text>I think {LEADERNAME:1} has been in power for too long. Their ideas are stale. We need a change.</Text>
+			<Text>Creio que {LEADERNAME:1} tem estado no poder por muito tempo. Suas idéias estão ultrapassadas. Precisamos de uma mudança.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Monarchy</ListenerGovernment>
 			</Requirements>
-			<Text>They say back on the old world, there used to be a government with elected leaders. Real ones, not the puppets of {LEADERNAME:1} we have now.</Text>
+			<Text>Dizem que, no velho mundo, costumava haver um governo com líderes eleitos. Os reais, não os bonecos de {LEADERNAME:1} que temos agora.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Scientific</ListenerGovernment>
 			</Requirements>
-			<Text>Oh, their CV is very impressive on paper, but I'm not sure if {LEADERNAME:1} really groks what's going on in this galaxy.</Text>
+			<Text>Oh, seu CV é muito impressionante no papel, mas não tenho certeza se o {LEADERNAME:1} realmente entende o que está acontecendo nesta galáxia.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Theocracy</ListenerGovernment>
 			</Requirements>
-			<Text>{LEADERNAME:1} is weak. Chosen from above or not, it's time for a change. Another can be Chosen.</Text>
+			<Text>{LEADERNAME:1} é fraco. Escolhido de cima ou não, é hora de uma mudança. Outro pode ser escolhido.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Unity</ListenerGovernment>
 			</Requirements>
-			<Text>I... Unity sometimes misses a time before Unity. Unity has its downsides, all can see that.</Text>
+			<Text>Eu... A Unidade às vezes perde um tempo antes da Unidade. A Unidade tem seus pontos negativos, todos podem ver isso.</Text>
 		</FlavorTextOption>
 
 		<FlavorTextOption>
 			<Requirements>
 				<ListenerGovernment>Utopian</ListenerGovernment>
 			</Requirements>
-			<Text>Everything is perfect and good, and that's good, and I approve and... I'm thinking of moving away. What is there to do if everything is perfect?</Text>
+			<Text>Tudo é perfeito e bom, e isso é bom, e eu aprovo e... Estou pensando em ir embora. O que há para fazer se tudo estiver perfeito?</Text>
 		</FlavorTextOption>
 
 	</FlavorTextDef>

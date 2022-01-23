@@ -10,7 +10,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   
   <StringTable>
     <Label>CrisisArchangelShip_Dec</Label>
-    <String>A esperança de um planeta inteiro foi colocada nesta nave.</String>
+    <String>The hope of an entire planet was put into this ship.</String>
   </StringTable>
 
   <StringTable>
@@ -20,37 +20,37 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   
   <StringTable>
     <Label>CrisisGoliathShip_Dec</Label>
-    <String>Ainda temos que encontrar um problema que um canhão suficientemente grande não resolverá.</String>
+    <String>We have yet to find a problem that a large enough cannon won't solve.</String>
   </StringTable>
 
   <StringTable>
     <Label>CrisisRetributionShip_Name</Label>
-    <String>Retribuição</String>
+    <String>Retribution</String>
   </StringTable>
   
   <StringTable>
     <Label>CrisisRetributionShip_Dec</Label>
-    <String>Milhões de nomes estão inscritos no casco, um de cada vítima morta pela falta de coração do controlador. Cada um deles, este navio espera vingar.</String>
+    <String>Millions of names are inscribed on the hull, one of every victim killed by the controller's heartlessness. Each one this ship hopes to avenge.</String>
   </StringTable>
 
   <StringTable>
     <Label>CrisisMessengerShip_Name</Label>
-    <String>O Mensageiro</String>
+    <String>The Messenger</String>
   </StringTable>
   
   <StringTable>
     <Label>CrisisMessengerShip_Dec</Label>
-    <String>Construído para viajar até a borda do espaço, para que possamos levar uma mensagem para o controlador além.</String>
+    <String>Built to travel to the edge of space, that we might get a message to the controller beyond.</String>
   </StringTable>
 
   <StringTable>
     <Label>CrisisTimelessShip_Name</Label>
-    <String>Atemporal</String>
+    <String>Timeless</String>
   </StringTable>
   
   <StringTable>
     <Label>CrisisTimelessShip_Dec</Label>
-    <String>O atemporal cria um campo que permite que ele exista fora do tempo normal. Ao fazer isso, ele é capaz de quebrar as limitações da física tal como a conhecemos. Esperamos que isto não prejudique a galáxia tal como a conhecemos.</String>
+    <String>The Timeless creates a field which allows it to exist outside of normal time. By doing so it is capable of breaking the limitations of physics as we know them. We hope this won't damage the galaxy as we know it.</String>
   </StringTable>
 
   <StringTable>
@@ -60,127 +60,127 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   
   <StringTable>
     <Label>GovernmentAristocracyShip_Dec</Label>
-    <String>Inicialmente produzido para derrubar violentamente revoltas de escravos, o Flail é igualmente eficaz na destruição de navios de guerra inimigos. O navio é tão temido que alguns proprietários criam cartazes para duplicar a sombra do Flail no campo onde seus escravos trabalham.</String>
+    <String>Initially produced to violently put down slave revolts, the Flail is just as effective at destroying enemy warships. The ship is so feared some owners create billboards to duplicate the Flail's shadow on the field where their slaves work.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentCoalitionShip_Name</Label>
-    <String>Patriota</String>
+    <String>Patriot</String>
   </StringTable>
   
   <StringTable>
     <Label>GovernmentCoalitionShip_Dec</Label>
-    <String>Este navio fortemente armado pode ser exatamente o que precisamos para nos salvar em tempos desesperados.</String>
+    <String>This heavily armed ship may be exactly what we need to save us in desperate times.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentCommunionShip_Name</Label>
-    <String>Comissário</String>
+    <String>Commissar</String>
   </StringTable>
   
   <StringTable>
     <Label>GovernmentCommunionShip_Dec</Label>
-    <String>A Comissária é a nave mais opulenta da galáxia, e pode receber mais de dez mil cidadãos em grande estilo. Mantendo uma programação constante de celebridades e dignitários, ele proporciona +20 de moral ao planeta em órbita.</String>
+    <String>The Commissar is the galaxy's most opulent ship, and can host over ten thousand citizens in style. By maintaining a constant schedule of celebrities and dignitaries it provides +20 Morale to the planet it orbits.</String>
   </StringTable>
   
   <StringTable>
     <Label>GovernmentEmpireShip_Name</Label>
-    <String>Executor</String>
+    <String>Enforcer</String>
   </StringTable>
   
   <StringTable>
     <Label>GovernmentEmpireShip_Dec</Label>
-    <String>Este grande navio de guerra foi construído para liderar invasões. Ele contém até uma plataforma de fabricação que pode impulsionar em 25% toda a construção dos planetas que orbita.</String>
+    <String>This large warship was built to lead invasions. It even contains a manufacturing platform which can boost All Construction of planets it orbits by 25%.</String>
   </StringTable>
   
   <StringTable>
     <Label>GovernmentFederationShip_Name</Label>
-    <String>Presidente Galáctico</String>
+    <String>Galactic President</String>
   </StringTable>
   
   <StringTable>
     <Label>GovernmentFederationShip_Dec</Label>
-    <String>Resolvendo diretamente questões locais e burocracia desnecessária, o Presidente da galáxia fornece +50% de produção ao planeta que orbita.</String>
+    <String>By directly resolving local issues and needless bureaucracy the Galactic President provides +50% Production to the planet it orbits.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentJihadShip_Name</Label>
-    <String>Inquisidor</String>
+    <String>Inquisitor</String>
   </StringTable>
   
   <StringTable>
     <Label>GovernmentJihadShip_Dec</Label>
-    <String>Embora projetado principalmente para a batalha, o Inquisitor também fornece +25% de Produção Militar ao planeta em órbita. Isto não se deve tanto a qualquer habilidade inata da nave quanto ao efeito intimidador de sua presença.</String>
+    <String>Though primarily designed for battle, the Inquisitor also provides +25% Military Production to the planet it orbits. This isn't because of any innate ability of the ship as much as the intimidating effect of its presence.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentKingdomShip_Name</Label>
-    <String>Vice-Rei</String>
+    <String>Viceroy</String>
   </StringTable>
   
   <StringTable>
     <Label>GovernmentKingdomShip_Dec</Label>
-    <String>O Vice-Rei foi construído para conquistar mundos. Desde liderar o ataque até fornecer +20% a todas as construções para o planeta que orbita, para que possam reconstruir antes de passar para o próximo sistema.</String>
+    <String>The Viceroy was built to conquer worlds. From leading the assault to providing +20% to All Construction for the planet it orbits so that they can rebuild before it moves on to the next system.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentMonarchyShip_Name</Label>
-    <String>Princesa</String>
+    <String>Princess</String>
   </StringTable>
   
   <StringTable>
     <Label>GovernmentMonarchyShip_Dec</Label>
-    <String>A Princesa é a mão esquerda de nosso monarca, e sua supervisão proporciona +25% de renda e +25% de moral para o planeta que sua nave orbita.</String>
+    <String>The Princess is the left hand of our monarch, and her oversight provides +25% Income and +25% Morale to the planet her ship orbits.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentMonarchyShip2_Name</Label>
-    <String>Príncipe</String>
+    <String>Prince</String>
   </StringTable>
   
   <StringTable>
     <Label>GovernmentMonarchyShip2_Dec</Label>
-    <String>O Príncipe é o braço direito de nosso monarca, e sua supervisão fornece +25% de Produção Militar para o planeta que sua nave orbita.</String>
+    <String>The Prince the is the right hand of our monarch, and his oversight provides +25% Military Production to the planet his ship orbits.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentOligarchyShip_Name</Label>
-    <String>A Mão Invisível</String>
+    <String>The Invisible Hand</String>
   </StringTable>
   
   <StringTable>
     <Label>GovernmentOligarchyShip_Dec</Label>
-    <String>A Mão Invisível é capaz de monitorar as transações financeiras de todo um planeta. Ela torna estes dados disponíveis para todos os investidores, não importa quão pequenos sejam, e todos com uma necessidade financeira para que possam negociar sem problemas. Isto proporciona +100% de renda para o planeta em órbita.</String>
+    <String>The Invisible Hand is capable of monitoring the financial transactions of an entire planet. It makes this data available to every investor, no matter how small, and everyone with a financial need so they can trade seamlessly. This provides +100% Income to the planet it orbits.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentPlutocracyShip_Name</Label>
-    <String>Administrador Jelon</String>
+    <String>Administrator Jelon</String>
   </StringTable>
   
   <StringTable>
     <Label>GovernmentPlutocracyShip_Dec</Label>
-    <String>O administrador Jelon é um fenômeno. Sua supervisão melhora quase todos os aspectos do planeta que ele orbita, proporcionando +10% de pesquisa, +10% de renda, +10% de produção e +10% de moral..</String>
+    <String>Administrator Jelon is a phenom. His oversight improves nearly all aspects of the planet he orbits, providing +10% Research, +10% Income, +10% Production and +10% Morale.</String>
   </StringTable>
   
   <StringTable>
     <Label>GovernmentRepublicShip_Name</Label>
-    <String>A nave do Primeiro Ministro</String>
+    <String>Prime Minister's Starship</String>
   </StringTable>
   
   <StringTable>
     <Label>GovernmentRepublicShip_Dec</Label>
-    <String>A supervisão direta do Primeiro Ministro revigora um mundo, fornecendo +30% a Toda Construção, Influência e Moral.</String>
+    <String>The direct oversight of the Prime Minister invigorates a world, providing +30% to All Construction, Influence and Morale.</String>
   </StringTable>
   
   <StringTable>
     <Label>GovernmentScientificShip_Name</Label>
-    <String>Czar da Ciência</String>
+    <String>Science Czar</String>
   </StringTable>
   
   <StringTable>
     <Label>GovernmentScientificShip_Dec</Label>
-    <String>O Science Czar é capaz de simular grandes interações a nível molecular. Ao disponibilizar esta capacidade para o planeta, ele é capaz de fornecer +50% de Pesquisa.</String>
+    <String>The Science Czar is able to simulate large interactions at the molecular level. By making this capability available to the planet it orbits it is able to provide +50% Research.</String>
   </StringTable>
   
   <StringTable>
@@ -190,117 +190,117 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   
   <StringTable>
     <Label>GovernmentSingularityShip_Dec</Label>
-    <String>Embora o Overmind impulsione a produção do planeta que orbita, sua lenda é seu verdadeiro poder. Orbitando como uma lua obsidiana, ela fornece +100% de influência e +100% de construção social ao planeta em órbita.</String>
+    <String>Though the Overmind boosts the production of the planet it orbits, its legend is its true power. Orbiting like an obsidian moon it provides +100% Influence and +100% Social Construction to the planet it orbits.</String>
   </StringTable>
   
   <StringTable>
     <Label>GovernmentTheocracyShip_Name</Label>
-    <String>Defensor da Fé</String>
+    <String>Defender of the Faith</String>
   </StringTable>
   
   <StringTable>
     <Label>GovernmentTheocracyShip_Dec</Label>
-    <String>O símbolo de nosso favor divino. A sua visão inspira a fé de todo o planeta que orbita e proporciona +5 de moral.</String>
+    <String>The symbol of our divine favor. The sight of it inspires the faith of the entire planet it orbits and provides +5 Morale.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentUnityShip_Name</Label>
-    <String>Prefeito</String>
+    <String>Prefect</String>
   </StringTable>
   
   <StringTable>
     <Label>GovernmentUnityShip_Dec</Label>
-    <String>O Prefeito liga os sistemas de fabricação do planeta que orbita, fornecendo +5 a Todas as Construções.</String>
+    <String>The Prefect links the manufacturing systems of the planet it orbits, providing +5 to All Construction.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent00_Name</Label>
-    <String>Emblema do Governo</String>
+    <String>Government Emblem</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent00_Dec</Label>
-    <String>Os navios do governo não pagam manutenção</String>
+    <String>Government ships don't pay Maintenance</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent01_Name</Label>
-    <String>Defensor da Fé</String>
+    <String>Defender of the Faith</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent01_Dec</Label>
-    <String>+5 De moral no planeta que esta nave está orbitando.</String>
+    <String>+5 Morale on the planet this ship is orbiting.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent02_Name</Label>
-    <String>Prefeito</String>
+    <String>Prefect</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent02_Dec</Label>
-    <String>+5 de produção no planeta que esta nave está orbitando.</String>
+    <String>+5 Production on the planet this ship is orbiting.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent03_Name</Label>
-    <String>A nave do Primeiro Ministro</String>
+    <String>Prime Minister's Starship</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent03_Dec</Label>
-    <String>+30% para Toda Construção, Influência e Moral no planeta que esta nave está orbitando.</String>
+    <String>+30% to All Construction, Influence and Morale on the planet this ship is orbiting.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent04_Name</Label>
-    <String>Príncipe</String>
+    <String>Prince</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent04_Dec</Label>
-    <String>+25% de produção de navios no planeta esta nave está orbitando.</String>
+    <String>+25% Ship Production on the planet this ship is orbiting.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent05_Name</Label>
-    <String>Princesa</String>
+    <String>Princess</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent05_Dec</Label>
-    <String>+25% de renda e +25% de moral no planeta que esta nave está orbitando.</String>
+    <String>+25% Income and +25% Morale on the planet this ship is orbiting.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent06_Name</Label>
-    <String>A Mão Invisível</String>
+    <String>The Invisible Hand</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent06_Dec</Label>
-    <String>+100% de renda no planeta esta nave está orbitando.</String>
+    <String>+100% Income on the planet this ship is orbiting.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent07_Name</Label>
-    <String>Inquisidor</String>
+    <String>Inquisitor</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent07_Dec</Label>
-    <String>+25% de produção de navios no planeta esta nave está orbitando.</String>
+    <String>+25% Ship Production on the planet this ship is orbiting.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent08_Name</Label>
-    <String>Executor</String>
+    <String>Enforcer</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent08_Dec</Label>
-    <String>+25% de produção no planeta que esta nave está orbitando.</String>
+    <String>+25% Production on the planet this ship is orbiting.</String>
   </StringTable>
 
   <StringTable>
@@ -310,87 +310,87 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
 
   <StringTable>
     <Label>GovernmentShipComponent09_Dec</Label>
-    <String>+100% de Influência e +100% de Construção Social no planeta que esta nave está orbitando.</String>
+    <String>+100% Influence and +100% Social Construction on the planet this ship is orbiting.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent10_Name</Label>
-    <String>Presidente da galáxia</String>
+    <String>Galactic President</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent10_Dec</Label>
-    <String>+50% de produção no planeta esta nave está orbitando.</String>
+    <String>+50% Production on the planet this ship is orbiting.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent11_Name</Label>
-    <String>Comissário</String>
+    <String>Commissar</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent11_Dec</Label>
-    <String>+20 Moral no planeta esta nave está orbitando.</String>
+    <String>+20 Morale on the planet this ship is orbiting.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent12_Name</Label>
-    <String>Vice-Rei</String>
+    <String>Viceroy</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent12_Dec</Label>
-    <String>+5 Produção no planeta que esta nave está orbitando.</String>
+    <String>+5 Production on the planet this ship is orbiting.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent13_Name</Label>
-    <String>Czar da Ciência</String>
+    <String>Science Czar</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent13_Dec</Label>
-    <String>+50% Pesquisa no planeta que esta nave está orbitando.</String>
+    <String>+50% Research on the planet this ship is orbiting.</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent14_Name</Label>
-    <String>Administrador Jelon</String>
+    <String>Administrator Jelon</String>
   </StringTable>
 
   <StringTable>
     <Label>GovernmentShipComponent14_Dec</Label>
-    <String>+10% de pesquisa, produção, moral e renda no planeta que esta nave está orbitando.</String>
+    <String>+10% Research, Production, Morale and Income on the planet this ship is orbiting.</String>
   </StringTable>
 
   <StringTable>
     <Label>CrisisTimelessShipComponent_Name</Label>
-    <String>Motor em Tempo Real</String>
+    <String>Real-Time Engine</String>
   </StringTable>
 
   <StringTable>
     <Label>CrisisTimelessShipComponent_Dec</Label>
-    <String>Ao permitir que o Timeless exista fora do tempo normal, o Timeless pode se mover quase instantaneamente e é quase impossível de ser atingido em batalha.</String>
+    <String>By allowing the Timeless to exist outside of normal time the Timeless can move almost instantly and is almost impossible to hit in battle.</String>
   </StringTable>
 
   <StringTable>
     <Label>CrisisMessengerShipComponent_Name</Label>
-    <String>Relé de Eco Infinito</String>
+    <String>Infinite Echo Relay</String>
   </StringTable>
 
   <StringTable>
     <Label>CrisisMessengerShipComponent_Dec</Label>
-    <String>Desenvolvido para permitir que um sinal viaje além dos limites do universo conhecido, para tentar entregar uma mensagem a qualquer pessoa além.</String>
+    <String>Developed to allow a signal to travel beyond the limits of the known universe, to attempt to deliver a message to anyone beyond.</String>
   </StringTable>
 
   <StringTable>
     <Label>CrisisArchangelShipComponent_Name</Label>
-    <String>Motor Talaria</String>
+    <String>Talaria Engine</String>
   </StringTable>
 
   <StringTable>
     <Label>CrisisArchangelShipComponent_Dec</Label>
-    <String>Este motor não pode queimar por muito tempo. Mas se não nos salvar na primeira vez, há pouca necessidade dele depois.</String>
+    <String>This engine cannot burn for long. But if it doesn't save us the first time, there is little need for it after.</String>
   </StringTable>
 
   <StringTable>

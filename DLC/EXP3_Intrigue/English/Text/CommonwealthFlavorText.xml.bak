@@ -12,7 +12,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerHasUniversalTranslator>true</ListenerHasUniversalTranslator>
       </Requirements>
-      <Text>Este é um dia que será lembrado por muito tempo na história. {PLAYERFACTIONLONG:1} aguarda com expectativa nossa parceria com {PLAYERFACTIONLONG:2}.</Text>
+      <Text>Este é um dia que será lembrado por muito tempo na história.  O {PLAYERFACTIONLONG:1} aguarda com expectativa nossa parceria com o {PLAYERFACTIONLONG:2}.</Text>
       <PreferenceWeight>1</PreferenceWeight>
     </FlavorTextOption>
     

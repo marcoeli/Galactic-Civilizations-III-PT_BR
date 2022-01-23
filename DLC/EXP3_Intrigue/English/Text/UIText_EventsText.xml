@@ -9,82 +9,82 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Event_Aristocracy02_Name</Label>
-    <String>The Chainbreakers</String>
+    <String>Os Quebra-Correntes</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Aristocracy02_Dec</Label>
-    <String>An organization of escaped slaves has begun targeting our civilization, trying to cripple the foundation of our economy by freeing our slaves.</String>
+    <String>Uma organização de escravos fugitivos começou a visar nossa civilização, tentando aleijar os alicerces de nossa economia, libertando nossos escravos.</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Aristocracy01_Name</Label>
-    <String>The Age Of Compliance</String>
+    <String>A Era da Conformidade</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Aristocracy01_Dec</Label>
-    <String>Our slaves have finally been broken, accepting their roles in the glory of our civilization. A sudden surge in productivity, approval, and even research now washes over everything, burnishing all chains to a lusterous shine.
+    <String>Nossos escravos finalmente foram quebrados, aceitando seus papéis na glória de nossa civilização. Um súbito aumento de produtividade, aprovação e até mesmo pesquisa agora lava sobre tudo, queimando todas as correntes até um brilho lustroso.
 
-[COLOR=UIDefaultHighlight]Global Effect: +25% Production, Approval and Research for 5 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +25% Produção, Aprovação e Pesquisa para 5 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Aristocracy03_Name</Label>
-    <String>Crunch Time</String>
+    <String>Tempo de crise</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Aristocracy03_Dec</Label>
-    <String>An unexpected confluence of several deadlines has prompted your overseers to begin working their slaves harder. This has led to a dramatic increase in productivity, though it remains to be seen how many will survive the process. 
+    <String>Uma confluência inesperada de vários prazos fez com que seus supervisores começassem a trabalhar mais duro com seus escravos. Isto levou a um aumento dramático na produtividade, embora ainda não se saiba quantos sobreviverão ao processo. 
 
-[COLOR=UIDefaultHighlight]Global Effect: +10% Production and -0.1 Growth for 10 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Global Effect: +10% Produção e -0,1 Crescimento para 10 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Colonial02_Name</Label>
-    <String>The Bounty</String>
+    <String>A Recompensa</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Colonial02_Dec</Label>
-    <String>A dissident group has constructed a powerful warship called the Bounty and has begun raiding our planets in retaliation for what they call our "oppressive regime". They demand an end to colonial government immediately to allow colonies a greater say in their destiny.</String>
+    <String>Um grupo dissidente construiu um poderoso navio de guerra chamado Bounty e começou a invadir nossos planetas em retaliação ao que eles chamam de nosso "regime opressivo". Eles exigem o fim imediato do governo colonial para permitir às colônias uma maior influência em seu destino.</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Colonial01_Name</Label>
-    <String>Founding Day</String>
+    <String>Dia da fundação</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Colonial01_Dec</Label>
-    <String>Colonies around our civilization have begun celebrating anniversaries of various colonial milestones. This has led to a very confusing holiday calendar, but general increased happiness throughout our civilization. 
+    <String>Colônias ao redor de nossa civilização começaram a celebrar os aniversários de vários marcos coloniais. Isto levou a um calendário de feriados muito confuso, mas aumentou a felicidade geral em toda a nossa civilização. 
 
-[COLOR=UIDefaultHighlight]Global Effect:  +10% Approval for 10 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global:  +10% Aprovação para 10 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Colonial03_Name</Label>
-    <String>Fast Turn Around</String>
+    <String>Turnos rápidos</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Colonial03_Dec</Label>
-    <String>So adept your people are at the art of colonization, that they were able to quickly generate a new colony ship from spare parts without anyone noticing. 
+    <String>Seu povo é tão adepto da arte da colonização, que foi capaz de gerar rapidamente uma nova nave colônia a partir de peças de reposição sem que ninguém percebesse. 
 
-[COLOR=UIDefaultHighlight]Free Colony Ship[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Navio Colônia Grátis[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Colonial04_Name</Label>
-    <String>Trader Gossip</String>
+    <String>Fofoca do comerciante</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Colonial04_Dec</Label>
-    <String>Our captains and commanders speak to each other all the time, forming an informal network for sharing starfaring wisdom. Recently this whisper network has reached something of a critical mass, producing a bounty of useful information on safe channels and profitable trade routes.
+    <String>Nossos capitães e comandantes falam um com o outro o tempo todo, formando uma rede informal para compartilhar a sabedoria de starfaring. Recentemente, esta rede de sussurros atingiu uma massa crítica, produzindo uma grande quantidade de informações úteis sobre canais seguros e rotas comerciais lucrativas.
 
-[COLOR=UIDefaultHighlight]+50% Trade Route income for 20 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+50% de receitas de rotas comerciais para 20 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -94,203 +94,203 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Event_Emergency02_Dec</Label>
-    <String>Our people have begun to strain at the emergency measures we've placed on them to get through this crisis. Many suggest the crisis has passed, or is no longer as bad as it once was, and long to return to the old ways. 
+    <String>Nosso pessoal começou a se esforçar com as medidas de emergência que lhes impusemos para superar esta crise. Muitos sugerem que a crise passou, ou não é mais tão ruim quanto era antes, e que há muito tempo voltamos aos velhos caminhos. 
 
-[COLOR=UIDefaultHighlight]Global Effect:  -25% Approval for 10 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -25% Aprovação para 10 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Emergency01_Name</Label>
-    <String>Solidarity</String>
+    <String>Solidariedade</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Emergency01_Dec</Label>
-    <String>This moment of crisis has instilled a new sense of patriotism amongst our civilians, leading to increased attention to and support for our armed forces.
+    <String>Este momento de crise incutiu um novo senso de patriotismo entre nossos civis, levando a uma maior atenção e apoio às nossas forças armadas.
 
-[COLOR=UIDefaultHighlight]Global Effect: +25% Soldiering for 20 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +25% soldados por 20 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Emergency03_Name</Label>
-    <String>Moment of Silence</String>
+    <String>Momento de Silêncio</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Emergency03_Dec</Label>
-    <String>For a brief time, all members of our civilization stop what they're doing and remember the events which led our people down this dark path. 
+    <String>Por um breve período, todos os membros de nossa civilização param o que estão fazendo e se lembram dos eventos que levaram nosso povo a este caminho sombrio. 
 
-[COLOR=UIDefaultHighlight]Global Effect: -50% Production for 2 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -50% Produção em 2 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Imperial01_Name</Label>
-    <String>The Emperor's Ascension</String>
+    <String>A Ascensão do Imperador</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Imperial01_Dec</Label>
-    <String>Long live the Emperor! The ascent of a new Emperor to the throne has provoked widespread celebrations throughout the empire, citizens everywhere are convinced they'll like him much better than the last guy. 
+    <String>Viva o Imperador! A ascensão de um novo Imperador ao trono provocou celebrações generalizadas em todo o império, os cidadãos de todos os lugares estão convencidos de que gostarão muito mais dele do que do último homem. 
 
-[COLOR=UIDefaultHighlight]Global Effect: +25% Approval for 10 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +25% Aprovação para 10 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Imperial02_Name</Label>
-    <String>The Path Of The Citizen</String>
+    <String>O caminho do cidadão</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Imperial02_Dec</Label>
-    <String>Stories of bravery from the front lines of the Empire are devoured by the populace, who now fetishize everything there is about soldiering and your armed forces in general. 
+    <String>Histórias de bravura das linhas de frente do Império são devoradas pela população, que agora fetichizam tudo o que existe sobre o soldado e suas forças armadas em geral. 
 
-[COLOR=UIDefaultHighlight]Global Effect:  +25% Soldiering and Resistance for 20 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global:  +25% Soldados e Resistência por 20 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Republic01_Name</Label>
-    <String>Commerce Raiders</String>
+    <String>Raiders do Comércio</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Republic01_Dec</Label>
-    <String>An organized group of pirates has banded together to create a large capital ship to better aid their raiding efforts. They've targeted us due to our prosperity.</String>
+    <String>Um grupo organizado de piratas se uniu para criar um grande navio capitaneado para melhor ajudar em seus esforços de ataque. Eles nos visaram devido a nossa prosperidade.</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Republic02_Name</Label>
-    <String>Questionable Senator</String>
+    <String>Senador questionável</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Republic02_Dec</Label>
-    <String>One of our senators has been accused of accepting bribes from a pirate collective. There is no evidence of criminal activity and he denies the charge, but the public demands action.</String>
+    <String>Um de nossos senadores foi acusado de aceitar subornos de um coletivo pirata. Não há evidência de atividade criminosa e ele nega a acusação, mas o público exige ação.</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Republic02_Choice1Dec</Label>
-    <String>Even the hint of impropriety cannot be tolerated, fire him.</String>
+    <String>Mesmo a dica de impropriedade não pode ser tolerada, demita-o.</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Republic02_Choice1BonusDec</Label>
-    <String>+5 Benevolent, +10% Morale for 10 turns</String>
+    <String>+5 Benevolente, +10% de moral por 10 turnos</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Republic02_Choice2Dec</Label>
-    <String>No action can be taken until charges are proven.</String>
+    <String>Nenhuma ação pode ser tomada até que as acusações sejam comprovadas.</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Republic02_Choice2BonusDec</Label>
-    <String>+5 Pragmatic</String>
+    <String>+5 Pragmatico</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Republic02_Choice3Dec</Label>
-    <String>Promote him.</String>
+    <String>Promova-o.</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Republic02_Choice3BonusDec</Label>
-    <String>+5 Malevolent, +10% Income for 10 turns</String>
+    <String>+5 Malévolo, +10% de renda para 10 turnos</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Republic02b_Name</Label>
-    <String>Questionable Senator Part 2</String>
+    <String>Senador questionável Parte 2</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Republic02b_Dec</Label>
-    <String>Investigation into the questionable senator has shown that the rumors were spread by the pirate collective as an attempt to discredit the honest Senator. Your faith in him was well deserved and your people's respect for you grows. 
+    <String>A investigação sobre o questionável senador mostrou que os rumores foram divulgados pelo coletivo pirata como uma tentativa de desacreditar o honesto senador. Sua fé nele foi bem merecida e o respeito de seu povo por você cresce. 
 
-[COLOR=UIDefaultHighlight]Global Effect: +5% Morale for 25 Turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +5% de moral para 25 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Monarchy01_Name</Label>
-    <String>The Golden Age</String>
+    <String>A Era Dourada</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Monarchy01_Dec</Label>
-    <String>Your wise and considered leadership has brought much needed stability to your realm, all your subjects aligned in their efforts and minds. A boon in economics, research, and productivity is felt everywhere. History will look back kindly on this age.
+    <String>Sua sábia e considerada liderança trouxe a estabilidade muito necessária ao seu reino, todos os seus súditos alinhados em seus esforços e mentes. Uma bênção em economia, pesquisa e produtividade é sentida em todos os lugares. A História olhará para trás com gentileza para esta época.
 
-[COLOR=UIDefaultHighlight]Global Effect: +10% to Research, Manufacturing and Income for 25 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +10% para Pesquisa, Manufatura e Renda por 25 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Utopian01_Name</Label>
-    <String>A Beacon Unto Others</String>
+    <String>Um Farol para os Outros</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Utopian01_Dec</Label>
-    <String>The galaxy can see what we've built here, and the benefit of ourt Utopian government. We've had a sudden influx of applicants for immigration, along with some souls who've just turned up uninvited. We'll find room for them somewhere.
+    <String>A galáxia pode ver o que construímos aqui, e o benefício de nosso governo utópico. Tivemos um súbito afluxo de candidatos à imigração, juntamente com algumas almas que acabaram de aparecer sem serem convidadas. Vamos encontrar espaço para eles em algum lugar.
 
-[COLOR=UIDefaultHighlight]Global Effect: +25% Growth for 25 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +25% de crescimento para 25 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Jihad01_Name</Label>
-    <String>Trembling Boots</String>
+    <String>Botas trêmulas</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Jihad01_Dec</Label>
-    <String>As word spreads around the galaxy of our new government and our unwavering commitment to the destruction of our enemies, fear has begun to set in. They know we are coming for them. And they know they will be powerless to stop us.
+    <String>medida que a palavra se espalha pela galáxia de nosso novo governo e nosso inabalável compromisso com a destruição de nossos inimigos, o medo começou a instalar-se. Eles sabem que estamos vindo em busca deles. E sabem que serão impotentes para nos deter.
 
-[COLOR=UIDefaultHighlight]Global Effect: +20% Soldiering for 50 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +20% soldados por 50 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Kingdom01_Name</Label>
-    <String>Feast of the Stars</String>
+    <String>Festa das Estrelas</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_Kingdom01_Dec</Label>
-    <String>This year we celebrate the etablishment of our glorious Galactic Kingdom by having a Feast of the Stars. All the worldlords have been instructed to open their larders to their folk, which should make all very jolly and content.
+    <String>Este ano, celebramos o estabelecimento de nosso glorioso Reino Galáctico por meio de uma Festa das Estrelas. Todos os senhores do mundo foram instruídos a abrir suas despensas para sua gente, o que deve tornar tudo muito alegre e contente.
 
-[COLOR=UIDefaultHighlight]Global Effect: +25% Morale for 10 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: +25% de moral por 10 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_LowApproval01_Name</Label>
-    <String>Worker Strikes!</String>
+    <String>Greve dos trabalhadores!</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_LowApproval01_Dec</Label>
-    <String>Worker morale is at an all time low. Across our worlds million of protesters are refusing to work until the government changes. Factories have been forced to close down and construction sites lay dormant. 
+    <String>O moral dos trabalhadores está sempre em baixa. Em todo nosso mundo, milhões de manifestantes se recusam a trabalhar até que o governo mude. As fábricas foram forçadas a fechar e os canteiros de obras estão adormecidos. 
 
-[COLOR=UIDefaultHighlight]Global Effect: -25% Social Construction for 5 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -25% Construção Social para 5 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_LowApproval02_Name</Label>
-    <String>Widespread Protests!</String>
+    <String>Protestos generalizados!</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_LowApproval02_Dec</Label>
-    <String>As morale and our government continue to fall our citizens have taken to launching massive protests. News media outlets from across the galaxy are broadcasting these protests and it is undermining our standing with other civilizations. 
+    <String>Como o moral e nosso governo continuam a cair, nossos cidadãos têm levado a lançar protestos maciços. Os veículos de notícias de toda a galáxia estão transmitindo esses protestos e isso está minando nossa posição junto a outras civilizações. 
 
-[COLOR=UIDefaultHighlight]Global Effect: -50% Influence for 10 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -50% Influência por 10 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_LowApproval03_Name</Label>
-    <String>Citizens Fleeing!</String>
+    <String>Cidadãos em fuga!</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_LowApproval03_Dec</Label>
-    <String>Governmental approval has dropped so low that many of our citizens are leaving to become members of other civilizations. Transport ships are full of passengers trying to leave and trade ships from other civilizations are being overwhelmed by citizens asking them to go along when they leave port. 
+    <String>A aprovação governamental caiu tão baixo que muitos de nossos cidadãos estão partindo para se tornarem membros de outras civilizações. Os navios de transporte estão cheios de passageiros que tentam partir e os navios de outras civilizações estão sendo sobrecarregados por cidadãos que lhes pedem para ir junto quando saem do porto. 
 
-[COLOR=UIDefaultHighlight]Global Effect: -75% Influence for 15 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: -75% Influência para 15 turnos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -300,33 +300,33 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Event_HighApproval01_Dec</Label>
-    <String>A wave of patriotism spurred on by strong governmental approval is sweeping our worlds. Many highlight this as a golden age for our civilization and we will remember this as a key moment when will all stood together. 
+    <String>Uma onda de patriotismo estimulada por uma forte aprovação governamental está varrendo nosso mundo. Muitos destacam isto como uma era dourada para nossa civilização e nós nos lembraremos disto como um momento chave quando todos estarão juntos. 
 
-[COLOR=UIDefaultHighlight]Global Effect: Permanent +10% Invasion resistance[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: Permanente +10% de resistência à invasão[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_HighApproval02_Name</Label>
-    <String>Highest Approval Rating Yet!</String>
+    <String>A mais alta classificação de aprovação até agora!</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_HighApproval02_Dec</Label>
-    <String>Our government is so popular on our worlds that government branded and licensed items are flying off store shelves. Costumes of our esteemed leader were the most popular this past holiday season and our leaders most popular slogans have been inscribed on items from apparel to toilet plungers. These licensing fees have resulted in an unexpected windfall for the governmental coffers.
+    <String>Nosso governo é tão popular em nosso mundo que itens de marca e licenciados pelo governo estão voando das prateleiras das lojas. Os trajes de nosso estimado líder foram os mais populares nesta última temporada de férias e nossos slogans mais populares foram inscritos em artigos de vestuário a desentupidores de banheiro. Estas taxas de licenciamento resultaram em uma inesperada queda inesperada para os cofres do governo.
 
-[COLOR=UIDefaultHighlight]+450 Credits[/COLOR]</String>
+[COLOR=UIDefaultHighlight]+450 Créditos[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_HighApproval03_Name</Label>
-    <String>Other Civilizations Are Envious!</String>
+    <String>Outras Civilizações são invejosas!</String>
   </StringTable>
  
   <StringTable>
     <Label>Event_HighApproval03_Dec</Label>
-    <String>Our high approval is well known, even among other civilizations. The luxuries our people enjoy, and the support of our government have made the citizens of other governments envious. 
+    <String>Nossa alta aprovação é bem conhecida, mesmo entre outras civilizações. Os luxos que nosso povo desfruta, e o apoio de nosso governo fizeram com que os cidadãos de outros governos ficassem invejosos. 
 
-[COLOR=UIDefaultHighlight]Global Effect: +100% Influence for 15 turns[/COLOR]</String>
+[COLOR=UIDefaultHighlight]Efeito Global: Influência de +100% para 15 turnos[/COLOR]</String>
   </StringTable>
  
 </StringTableList>

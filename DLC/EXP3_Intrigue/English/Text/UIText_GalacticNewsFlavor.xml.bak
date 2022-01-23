@@ -11,7 +11,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
         <PlayerMustKnowSpeaker>true</PlayerMustKnowSpeaker>
         <PlayerMustKnowListener>true</PlayerMustKnowListener>
       </Requirements>
-      <Text>Acabamos de receber uma denúncia anônima de nossas fontes de que a {PLAYERFACTION:0} emitiu uma declaração de guerra contra a {PLAYERFACTION:1}.</Text>
+      <Text>We've just recieved an anonymous tip from our sources that the {PLAYERFACTION:0} has issued a statement of war against the {PLAYERFACTION:1}.</Text>
     </FlavorTextOption>
     <FlavorTextOption>
       <Requirements>
@@ -19,7 +19,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
         <PlayerMustKnowSpeaker>false</PlayerMustKnowSpeaker>
         <PlayerMustKnowListener>true</PlayerMustKnowListener>
       </Requirements>
-      <Text>Acabamos de receber de nossas fontes uma dica anônima de que uma civilização desconhecida emitiu uma declaração de guerra contra a {PLAYERFACTION:1}.</Text>
+      <Text>We've just recieved an anonymous tip from our sources that an unknown civilization has issued a statement of war against the {PLAYERFACTION:1}.</Text>
     </FlavorTextOption>
     <FlavorTextOption>
       <Requirements>
@@ -27,7 +27,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
         <PlayerMustKnowSpeaker>true</PlayerMustKnowSpeaker>
         <PlayerMustKnowListener>false</PlayerMustKnowListener>
       </Requirements>
-      <Text>Acabamos de receber uma denúncia anônima de nossas fontes de que a {PLAYERFACTION:0} emitiu uma declaração de guerra contra uma civilização desconhecida.</Text>
+      <Text>We've just recieved an anonymous tip from our sources that the {PLAYERFACTION:0} has issued a statement of war against an unknown civilization.</Text>
     </FlavorTextOption>
   </FlavorTextDef>
   
