@@ -7,68 +7,68 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Tutorial_Name</Label>
-    <String>Backup Plan (Tutorial)</String>
+    <String>Plano de Apoio (Tutorial)</String>
   </StringTable>
  
   <StringTable>
     <Label>Tutorial_Refuge_Name</Label>
-    <String>Backup Plan (Tutorial)</String>
+    <String>Plano de Apoio (Tutorial)</String>
   </StringTable>
  
   <StringTable>
     <Label>Tutorial_Refuge_Dec</Label>
-    <String>You have been sent to a remote world with the goal to build up the colony and be ready to take on enemy forces.</String>
+    <String>Você foi enviado a um mundo remoto com o objetivo de construir a colônia e estar pronto para enfrentar as forças inimigas.</String>
   </StringTable>
  
   <StringTable>
     <Label>Tutorial_Refuge_ShortDec</Label>
-    <String>You have been sent to a remote world with the goal to build up the colony and be ready to take on enemy forces.</String>
+    <String>Você foi enviado a um mundo remoto com o objetivo de construir a colônia e estar pronto para enfrentar as forças inimigas.</String>
   </StringTable>
   <StringTable>
     <Label>Tutorial_Refuge_EXP2_TUTORIAL_FACTION_RESISTANCE_Name</Label>
-    <String>Terran Resistance</String>
+    <String>Resistência Terrana</String>
   </StringTable>
   <StringTable>
     <Label>Tutorial_Refuge_EXP2_TUTORIAL_FACTION_SYLNE_Name</Label>
-    <String>Slyne Swarm</String>
+    <String>Enxame de Slyne</String>
   </StringTable>
   <StringTable>
     <Label>Tutorial_Refuge_EXP2_TUTORIAL_FACTION_DRENGIN_Name</Label>
-    <String>Drengin Empire</String>
+    <String>Império Drengin</String>
   </StringTable>
   <StringTable>
     <Label>Tutorial_Refuge_EXP2_TUTORIAL_FACTION_PIRATES_Name</Label>
-    <String>Pirates</String>
+    <String>Piratas</String>
   </StringTable>
  
   <StringTable>
     <Label>Tutorial_Refuge_BuildOutColony_Message</Label>
-    <String>Build New Improvements</String>
+    <String>Construir novas melhorias</String>
   </StringTable>
  
   <StringTable>
     <Label>Tutorial_Refuge_ReseachNewTechs_Message</Label>
-    <String>Research New Technologies</String>
+    <String>Pesquisa de novas tecnologias</String>
   </StringTable>
  
   <StringTable>
     <Label>Tutorial_Refuge_SurveyAnomolies_Message</Label>
-    <String>Survey Local Space</String>
+    <String>Espaço local de pesquisa</String>
   </StringTable>
  
   <StringTable>
     <Label>Tutorial_Refuge_TrainCitizen_Message</Label>
-    <String>Train Citizens</String>
+    <String>Treinar cidadãos</String>
   </StringTable>
  
   <StringTable>
     <Label>Tutorial_Refuge_IncounterNewRace_Message</Label>
-    <String>Encounter New Races</String>
+    <String>Encontro de Novas Raças</String>
   </StringTable>
  
   <StringTable>
     <Label>Tutorial_Refuge_KillDrengin_Message</Label>
-    <String>Eliminate Drengin Colony</String>
+    <String>Eliminar a colônia Drengin</String>
   </StringTable>
  
 </StringTableList>

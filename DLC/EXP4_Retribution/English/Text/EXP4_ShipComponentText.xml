@@ -7,38 +7,38 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>SupplyModule_Name</Label>
-    <String>Cargo Hold</String>
+    <String>Porão de carga</String>
   </StringTable>
   <StringTable>
     <Label>SupplyModule_Dec</Label>
-    <String>Provides 100 construction to colony it is sent to.</String>
+    <String>Fornece 100 construções para a colônia para a qual é enviada.</String>
   </StringTable>
  
   <StringTable>
     <Label>EngineerComponent_Name</Label>
-    <String>Engineer Component</String>
+    <String>Componente do engenheiro</String>
   </StringTable>
   <StringTable>
     <Label>EngineerComponent_Dec</Label>
-    <String>Provides 100 starship production to any colony it is sent to.</String>
+    <String>Fornece 100 produções de naves estelares para qualquer colônia para a qual seja enviada.</String>
   </StringTable>
  
   <StringTable>
     <Label>HypergateComponent_Name</Label>
-    <String>Hypergate Component</String>
+    <String>Componente Hypergate</String>
   </StringTable>
   <StringTable>
     <Label>HypergateComponent_Dec</Label>
-    <String>Allows construction of Hypergates.</String>
+    <String>Permite a construção de Hypergates.</String>
   </StringTable>
  
   <StringTable>
     <Label>SporeComponent_Name</Label>
-    <String>Spore Module</String>
+    <String>Módulo de esporos</String>
   </StringTable>
   <StringTable>
     <Label>SporeComponent_Dec</Label>
-    <String>Creates a Spore ship, capable of wiping out the entire population of an undefended planet.</String>
+    <String>Cria uma nave Esporo, capaz de aniquilar toda a população de um planeta indefeso.</String>
   </StringTable>
  
  

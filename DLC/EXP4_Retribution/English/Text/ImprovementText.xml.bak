@@ -38,7 +38,25 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>ColonyCapitalUpgrade2_ShortDec</Label>
-    <String>Fornece as necessidades básicas de uma colônia. </String>
+    <String>Ela fornece as necessidades básicas de uma colônia. </String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>InspirationExtractor_Name</Label>
+    <String>Extrator de inspirações</String>
+  </StringTable>
+  <StringTable>
+    <Label>InspirationExtractor_ShortDec</Label>
+    <String>Extrai quaisquer idéias de colonos voluntariamente ou não.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TempleOfDespair_Name</Label>
+    <String>Templo do Desespero</String>
+  </StringTable>
+  <StringTable>
+    <Label>TempleOfDespair_ShortDec</Label>
+    <String>Conquista. Informa ao universo que estamos de volta.  Recruta um Comandante.</String>
   </StringTable>
  
   <StringTable>
@@ -47,7 +65,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>StrategicCommand_ShortDec</Label>
-    <String>Maravilha Galáctica. Produz um General.</String>
+    <String>Maravilha Galáctica, Produz um General. [COLOR=UIDefaultHot]Não pode ser destruído.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -155,6 +173,24 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Starport_ShortDec</Label>
+    <String>Constrói navios mais rápido.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ResupplyCenter_Name</Label>
+    <String>Centro de reabastecimento</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResupplyCenter_ShortDec</Label>
+    <String>Constrói navios mais rápido.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EngineeringCenter_Name</Label>
+    <String>Centro de Engenharia</String>
+  </StringTable>
+  <StringTable>
+    <Label>EngineeringCenter_ShortDec</Label>
     <String>Constrói navios mais rápido</String>
   </StringTable>
  
@@ -165,6 +201,42 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   <StringTable>
     <Label>SpaceElevator_ShortDec</Label>
     <String>Aumenta a produção planetária, facilitando a entrada de ativos no espaço.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>IndustrialCenter_Name</Label>
+    <String>Centro Industrial</String>
+  </StringTable>
+  <StringTable>
+    <Label>IndustrialCenter_ShortDec</Label>
+    <String>O centro da fabricação de sua civilização.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SupplyDepot_Name</Label>
+    <String>Depósito de Abastecimento</String>
+  </StringTable>
+  <StringTable>
+    <Label>SupplyDepot_ShortDec</Label>
+    <String>Agiliza a distribuição de bens e suprimentos aos residentes, melhorando o moral e a produtividade.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ColonizationCenter_Name</Label>
+    <String>Centro de Colonização</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonizationCenter_ShortDec</Label>
+    <String>Registra cidadãos que não foram previamente cadastrados em nossos registros para colonização, aumentando nossa população disponível.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TyronsDestiny_Name</Label>
+    <String>O destino de Tyron</String>
+  </StringTable>
+  <StringTable>
+    <Label>TyronsDestiny_ShortDec</Label>
+    <String>Recruta ávidos colonos e fornece um navio colônia totalmente lotado.</String>
   </StringTable>
  
   <StringTable>
@@ -225,7 +297,6 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
     <Label>QuantumPowerPlant_Name</Label>
     <String>Usina Quantum</String>
   </StringTable>
- 
   <StringTable>
     <Label>QuantumPowerPlant_ShortDec</Label>
     <String>Torna as fábricas mais eficientes e impulsiona a produção.</String>
@@ -327,7 +398,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>OmegaResearchCenter_ShortDec</Label>
-    <String>Torna os laboratórios mais eficientes, e impulsiona a Pesquisa.</String>
+    <String>Torna os laboratórios mais eficientes, e impulsiona a Pesquisa. [COLOR=UIDefaultHot]Não pode ser destruído.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -372,7 +443,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>EyesOfUniverse_ShortDec</Label>
-    <String>Localiza o mundo natal de todas as civilizações capazes de Hyperdrive.</String>
+    <String>Localiza o mundo natal de todas as civilizações capazes de Hyperdrive. [COLOR=UIDefaultHot]Não pode ser destruído.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -382,6 +453,15 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   <StringTable>
     <Label>BrindlesObservatory_ShortDec</Label>
     <String>Descobre um planeta habitável próximo após a conclusão.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>DimensionalObservatory_Name</Label>
+    <String>Observatório Dimensional</String>
+  </StringTable>
+  <StringTable>
+    <Label>DimensionalObservatory_ShortDec</Label>
+    <String>Aumenta nosso conhecimento do universo. Também melhora a velocidade da Hyperlane.</String>
   </StringTable>
  
   <StringTable>
@@ -399,7 +479,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>City_ShortDec</Label>
-    <String>Aumente a população que sua colônia pode suportar.</String>
+    <String>Aumente a população que sua colônia pode suportar. [COLOR=UIDefaultHot]Não pode ser destruído.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -484,6 +564,15 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
  
   <StringTable>
+    <Label>PlanetaryConversion_Name</Label>
+    <String>Conversão planetária</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetaryConversion_ShortDec</Label>
+    <String>Permite-nos converter um ladrilho improdutivo em um útil.</String>
+  </StringTable>
+ 
+  <StringTable>
     <Label>PlanetaryUpgrade_Name</Label>
     <String>Upgrade do solo planetário</String>
   </StringTable>
@@ -530,7 +619,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>Biospheres_Name</Label>
-    <String>Biosferas</String>
+    <String>Ultra Terraformador</String>
   </StringTable>
   <StringTable>
     <Label>Biospheres_ShortDec</Label>
@@ -543,7 +632,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>HyperionSensorSystem_ShortDec</Label>
-    <String>Aumenta o alcance dos sensores das naves construídas no estaleiro deste planeta.</String>
+    <String>Aumenta o alcance dos sensores das naves construídas no estaleiro deste planeta.  Obtém níveis de ganho de militares e de toda a construção. [COLOR=UIDefaultHot]Não pode ser destruído.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -552,16 +641,16 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>HyperionLogisticsSystem_ShortDec</Label>
-    <String>Reduz o custo logístico das naves construídas no estaleiro deste planeta.</String>
+    <String>Reduz o custo logístico das naves construídas no estaleiro deste planeta.  Ganhos de níveis militares e de toda a construção. [COLOR=UIDefaultHot]Não pode ser destruído.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>HyperionShrinker_Name</Label>
-    <String>Retrator de Hyperion</String>
+    <String>Retractor de Hyperion</String>
   </StringTable>
   <StringTable>
     <Label>HyperionShrinker_ShortDec</Label>
-    <String>Aumenta a capacidade do casco dos navios.</String>
+    <String>Aumenta a capacidade do casco dos navios. [COLOR=UIDefaultHot]Não pode ser destruído.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -570,7 +659,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>HyperionSupplySystem_ShortDec</Label>
-    <String>Aumenta o alcance das naves construídas no estaleiro deste planeta.</String>
+    <String>Increases the range of ships built at this planet's shipyard.  Gains levels from Military and All Construction. [COLOR=UIDefaultHot]Não pode ser destruído.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -579,7 +668,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>HyperionShipyard_ShortDec</Label>
-    <String>Aumentar os pontos de acerto das naves construídas no estaleiro deste planeta.</String>
+    <String>Increase the hitpoints of ships built at this planet's shipyard.  Gains levels from Military and All Construction. [COLOR=UIDefaultHot]Não pode ser destruído.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -588,7 +677,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>PlanetaryDome_ShortDec</Label>
-    <String>Torna nosso planeta quase invulnerável à invasão tradicional.</String>
+    <String>Greatly Increases the Resistance of a colony.  Gains levels from Military and All Construction.</String>
   </StringTable>
  
   <StringTable>
@@ -597,7 +686,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>MilitaryAcadamyTech_ShortDec</Label>
-    <String>Permite o treinamento de Legiões</String>
+    <String>Allows training of Legions. Gains levels from Military and All Construction.</String>
   </StringTable>
  
   <StringTable>
@@ -606,16 +695,16 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>OrbitalDefensePlatform_ShortDec</Label>
-    <String>Fornece uma força defensiva de combatentes de assalto.</String>
+    <String>Provides a defending force of assault fighters. Gains levels from Military and All Construction.</String>
   </StringTable>
  
   <StringTable>
     <Label>DiplomaticCorp_Name</Label>
-    <String>Corpo Diplomático.</String>
+    <String>Diplomatic Corps.</String>
   </StringTable>
   <StringTable>
     <Label>DiplomaticCorp_ShortDec</Label>
-    <String>Permite o treinamento de Diplomatas</String>
+    <String>Allows training of Diplomats</String>
   </StringTable>
  
   <StringTable>
@@ -624,16 +713,16 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AdminCenter_ShortDec</Label>
-    <String>Aumenta o número de Administradores</String>
+    <String>Increases the number of colonies and starbases we can manage. Organizes nearby improvements</String>
   </StringTable>
  
   <StringTable>
     <Label>GalacticIntelligenceAgency_Name</Label>
-    <String>Agência Galáctica de Inteligência</String>
+    <String>Galactic Intelligence Agency</String>
   </StringTable>
   <StringTable>
     <Label>GalacticIntelligenceAgency_ShortDec</Label>
-    <String>Fornece um Espião após a conclusão</String>
+    <String>Provides a Spy upon completion. [COLOR=UIDefaultHot]Can not be destroyed.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -642,7 +731,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Embassy_ShortDec</Label>
-    <String>Facilita as relações com outras raças e ajuda a disseminar a Influência.</String>
+    <String>Facilitates relations with other races and helps spread Influence. [COLOR=UIDefaultHot]Não pode ser destruído.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -651,7 +740,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>DiplomaticDistrict_ShortDec</Label>
-    <String>Facilita as relações com outras raças e ajuda a disseminar a Influência.</String>
+    <String>Facilitates relations with other races and helps spread Influence.</String>
   </StringTable>
  
   <StringTable>
@@ -705,7 +794,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>AssimilationFoundation_ShortDec</Label>
-    <String>Aumenta a Influência de todos os mundos em nossa civilização.</String>
+    <String>Increases the Influence of all worlds in our civilization. [COLOR=UIDefaultHot]Não pode ser destruído.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -714,21 +803,21 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>CulturalBeacon_ShortDec</Label>
-    <String>Permite o treinamento de Celebridades</String>
+    <String>Increases the influence of this planet, allows the training of celebrities and can not be destroyed.</String>
   </StringTable>
  
   <StringTable>
     <Label>GalacticCouncil_Name</Label>
-    <String>Conselho Galáctico</String>
+    <String>Galactic Council</String>
   </StringTable>
   <StringTable>
     <Label>GalacticCouncil_ShortDec</Label>
-    <String>Concede um diplomata e aumenta a influência deste planeta.</String>
+    <String>Grants a diplomat and increases the influence of this planet. [COLOR=UIDefaultHot]Não pode ser destruído.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>MarketCenter_Name</Label>
-    <String>Mercado</String>
+    <String>Market Center</String>
   </StringTable>
   <StringTable>
     <Label>MarketCenter_ShortDec</Label>
@@ -777,7 +866,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>GalacticStockExchange_ShortDec</Label>
-    <String>Aumenta a renda bruta de todos os nossos mundos.</String>
+    <String>Increases the gross Income of all our worlds. [COLOR=UIDefaultHot]Não pode ser destruído.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -786,7 +875,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>FinancialCapital_ShortDec</Label>
-    <String>Uma melhoria única que aumenta muito a renda e a influência.</String>
+    <String>A unique improvement that greatly boosts Income and Influence. [COLOR=UIDefaultHot]Não pode ser destruído.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -822,7 +911,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>GalacticBazar_ShortDec</Label>
-    <String>Aumenta a renda comercial das rotas comerciais através de nossa civilização.</String>
+    <String>Increases Trade Income from trade routes across our civilization. [COLOR=UIDefaultHot]Não pode ser destruído.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -858,25 +947,25 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>MegaResort_ShortDec</Label>
-    <String>Aumenta a aprovação mundial.</String>
+    <String>Increases a world's Approval.</String>
   </StringTable>
  
   <StringTable>
-    <Label>VirtualWorld_Name</Label>
-    <String>Mundo Virtual</String>
+    <Label>VirtualVacation_Name</Label>
+    <String>Virtual Vacation</String>
   </StringTable>
   <StringTable>
-    <Label>VirtualWorld_ShortDec</Label>
-    <String>Aumenta a aprovação em todos os nossos mundos.</String>
+    <Label>VirtualVacation_ShortDec</Label>
+    <String>Allows citizens to experience other worlds from the comfort of their homes.</String>
   </StringTable>
  
   <StringTable>
     <Label>EntertainmentCapital_Name</Label>
-    <String>Capital do entretenimento</String>
+    <String>Entertainment Capital</String>
   </StringTable>
   <StringTable>
     <Label>EntertainmentCapital_ShortDec</Label>
-    <String>Uma melhoria única que impulsiona muito a Aprovação e Influência.</String>
+    <String>A unique improvement that greatly boosts Approval and Influence. [COLOR=UIDefaultHot]Não pode ser destruído.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
@@ -885,7 +974,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>PaxtonsEmporium_ShortDec</Label>
-    <String>A feira intergaláctica única converterá uma pequena porcentagem de cada ladrilho de influência que você possui em renda turística.</String>
+    <String>The one-of-a-kind intergalactic trade show will convert a small percentage of every tile of influence you own into tourism income.</String>
   </StringTable>
  
   <StringTable>
@@ -894,7 +983,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>ImportExport_ShortDec</Label>
-    <String>Permite aos visitantes de mundos alienígenas experimentar as maravilhas de nossa civilização.</String>
+    <String>Allows visitors from alien worlds to sample the wonders of our civilization.</String>
   </StringTable>
  
   <StringTable>
@@ -903,16 +992,16 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>PortofCall_ShortDec</Label>
-    <String>Uma pequena porcentagem dos viajantes em sua influência irá visitar e gastar seu dinheiro.</String>
+    <String>A small percent of travelers in your influence will visit and spend their money.</String>
   </StringTable>
  
   <StringTable>
     <Label>TouristHaven_Name</Label>
-    <String>Extravagância</String>
+    <String>Extravaganza</String>
   </StringTable>
   <StringTable>
     <Label>TouristHaven_ShortDec</Label>
-    <String>Atraia turistas de toda a galáxia para seu mundo.</String>
+    <String>Attract tourists from all over the galaxy to your world.</String>
   </StringTable>
  
   <StringTable>
@@ -921,7 +1010,7 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>TouristDestination_ShortDec</Label>
-    <String>Construir o maior parque temático da história do universo conhecido.</String>
+    <String>Build the greatest theme park in the history of the known universe.</String>
   </StringTable>
  
   <StringTable>
@@ -930,16 +1019,25 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>RestaurantEternity_ShortDec</Label>
-    <String>Permite recrutar Empresários. Converte cada ladrilho que você possui em renda turística.</String>
+    <String>Allows you to recruit Entrepreneurs. Converts every tile you own into tourism income.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>WorkCampKorath_Name</Label>
+    <String>Work Camp</String>
+  </StringTable>
+  <StringTable>
+    <Label>WorkCampKorath_ShortDec</Label>
+    <String>Increases a colony's Manufacturing. Slaves also live in the camp. Great for getting colonies moving.</String>
   </StringTable>
  
   <StringTable>
     <Label>WorkCamp_Name</Label>
-    <String>Campo de trabalho</String>
+    <String>Work Camp</String>
   </StringTable>
   <StringTable>
     <Label>WorkCamp_ShortDec</Label>
-    <String>Aumenta a fabricação de uma colônia. Os escravos também vivem no Campo.</String>
+    <String>Increases a colony's Manufacturing. Slaves also live in the camp.</String>
   </StringTable>
  
   <StringTable>
@@ -948,16 +1046,16 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>ForcedLaborCamp_ShortDec</Label>
-    <String>Aumenta a fabricação de uma colônia. Os escravos também vivem no Campo.</String>
+    <String>Increases a colony's Manufacturing. Slaves also live in the camp.</String>
   </StringTable>
  
   <StringTable>
     <Label>SlaveCamp_Name</Label>
-    <String>Campo de Escravos</String>
+    <String>Acampamento de Escravos</String>
   </StringTable>
   <StringTable>
     <Label>SlaveCamp_ShortDec</Label>
-    <String>Aumenta a fabricação de uma colônia. Os escravos também vivem no Campo.</String>
+    <String>Increases a colony's Manufacturing. Slaves also live in the camp.</String>
   </StringTable>
  
   <StringTable>
@@ -966,133 +1064,133 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>SlaveWorks_ShortDec</Label>
-    <String>Aumenta a fabricação de uma colônia. Os escravos também vivem no Campo.</String>
+    <String>Increases a colony's Manufacturing. Slaves also live in the camp.</String>
   </StringTable>
  
   <StringTable>
     <Label>DevilsForge_Name</Label>
-    <String>A Forja do Diabo</String>
+    <String>Devil's Forge</String>
   </StringTable>
   <StringTable>
     <Label>DevilsForge_ShortDec</Label>
-    <String>Aumenta a fabricação de uma colônia. Os escravos também vivem no campo.</String>
+    <String>Increases a colony's Manufacturing. Slaves also live in the camp.</String>
   </StringTable>
  
   <StringTable>
     <Label>SlavePit_Name</Label>
-    <String>Poço de escravos</String>
+    <String>Slave Pit</String>
   </StringTable>
   <StringTable>
     <Label>SlavePit_ShortDec</Label>
-    <String>Aumenta a fabricação de uma colônia. Os escravos também vivem no campo.</String>
+    <String>Increases a colony's Manufacturing. Gains levels from All Construction and Research.</String>
   </StringTable>
  
   <StringTable>
     <Label>SlaveMill_Name</Label>
-    <String>Moinho de escravos</String>
+    <String>Slave Mill</String>
   </StringTable>
   <StringTable>
     <Label>SlaveMill_ShortDec</Label>
-    <String>Aumenta a fabricação de uma colônia. Os escravos também vivem no campo.</String>
+    <String>Increases a colony's Manufacturing. Gains levels from All Construction and Research.</String>
   </StringTable>
  
   <StringTable>
     <Label>SlaveFactory_Name</Label>
-    <String>Fábrica de Escravos</String>
+    <String>Slave Factory</String>
   </StringTable>
   <StringTable>
     <Label>SlaveFactory_ShortDec</Label>
-    <String>Aumenta a fabricação de uma colônia. Os escravos também vivem no campo.</String>
+    <String>Increases a colony's Manufacturing. Gains levels from All Construction and Research.</String>
   </StringTable>
  
   <StringTable>
     <Label>ResearchChamber_Name</Label>
-    <String>Câmara de Pesquisa</String>
+    <String>Research Chamber</String>
   </StringTable>
   <StringTable>
     <Label>ResearchChamber_ShortDec</Label>
-    <String>Aumenta a Pesquisa de uma colônia.</String>
+    <String>Increases a colony's Research.</String>
   </StringTable>
  
   <StringTable>
     <Label>ResearchStockade_Name</Label>
-    <String>Armazém de Pesquisa</String>
+    <String>Research Stockade</String>
   </StringTable>
   <StringTable>
     <Label>ResearchStockade_ShortDec</Label>
-    <String>Aumenta a Pesquisa de uma colônia.</String>
+    <String>Increases a colony's Research.</String>
   </StringTable>
  
   <StringTable>
     <Label>ResearchMotivator_Name</Label>
-    <String>Motivador de pesquisa</String>
+    <String>Research Motivator</String>
   </StringTable>
   <StringTable>
     <Label>ResearchMotivator_ShortDec</Label>
-    <String>Aumenta a Pesquisa de uma colônia.</String>
+    <String>Increases a colony's Research.</String>
   </StringTable>
  
   <StringTable>
     <Label>ResearchExtractor_Name</Label>
-    <String>Extrator de pesquisa</String>
+    <String>Research Extractor</String>
   </StringTable>
   <StringTable>
     <Label>ResearchExtractor_ShortDec</Label>
-    <String>Aumenta a Pesquisa de uma colônia.</String>
+    <String>Increases a colony's Research.</String>
   </StringTable>
  
   <StringTable>
     <Label>ResearchAmplifier_Name</Label>
-    <String>Amplificador de pesquisa</String>
+    <String>Research Amplifier</String>
   </StringTable>
   <StringTable>
     <Label>ResearchAmplifier_ShortDec</Label>
-    <String>Aumenta a Pesquisa de uma colônia.</String>
+    <String>Increases a colony's Research.</String>
   </StringTable>
  
   <StringTable>
     <Label>SlaveRecycler_Name</Label>
-    <String>Reciclador de Escravos</String>
+    <String>Slave Recycler</String>
   </StringTable>
   <StringTable>
     <Label>SlaveRecycler_ShortDec</Label>
-    <String>Torna as fazendas mais eficientes e fornece mais alimentos. </String>
+    <String>Makes farms more efficient and provides more food. </String>
   </StringTable>
  
   <StringTable>
     <Label>ProteinResequencer_Name</Label>
-    <String>Resequenciador de Proteína</String>
+    <String>Protein Resequencer</String>
   </StringTable>
   <StringTable>
     <Label>ProteinResequencer_ShortDec</Label>
-    <String>Torna as fazendas mais eficientes e aproveita mais os alimentos. </String>
+    <String>Makes farms more efficient and profides more food. </String>
   </StringTable>
  
   <StringTable>
     <Label>Garrison_Name</Label>
-    <String>Guarnição</String>
+    <String>Garrison</String>
   </StringTable>
   <StringTable>
     <Label>Garrison_ShortDec</Label>
-    <String>Aumenta a resistência nos planetas.</String>
+    <String>Increases resistance on planets.</String>
   </StringTable>
  
   <StringTable>
     <Label>BlackMarket_Name</Label>
-    <String>Mercado Negro</String>
+    <String>Black Market</String>
   </StringTable>
   <StringTable>
     <Label>BlackMarket_ShortDec</Label>
-    <String>Aumenta a renda bruta de um mundo.</String>
+    <String>Increases a world's gross Income.</String>
   </StringTable>
  
   <StringTable>
     <Label>FightingPit_Name</Label>
-    <String>Campo de luta</String>
+    <String>Fighting Pit</String>
   </StringTable>
   <StringTable>
     <Label>FightingPit_ShortDec</Label>
-    <String>Aumenta a aprovação</String>
+    <String>Increases approval</String>
   </StringTable>
  
   <StringTable>
@@ -1101,862 +1199,898 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
   </StringTable>
   <StringTable>
     <Label>Arena_ShortDec</Label>
-    <String>Aumenta a aprovação</String>
+    <String>Increases approval</String>
   </StringTable>
  
   <StringTable>
     <Label>Slaughtertorium_Name</Label>
-    <String>Matadouro</String>
+    <String>Slaughtertorium</String>
   </StringTable>
   <StringTable>
     <Label>Slaughtertorium_ShortDec</Label>
-    <String>Aumenta a aprovação</String>
+    <String>Increases approval</String>
   </StringTable>
  
   <StringTable>
     <Label>HuntingGrounds_Name</Label>
-    <String>Áreas de caça</String>
+    <String>Hunting Grounds</String>
   </StringTable>
   <StringTable>
     <Label>HuntingGrounds_ShortDec</Label>
-    <String>Aumenta a aprovação</String>
+    <String>Increases approval</String>
   </StringTable>
  
   <StringTable>
     <Label>SocialMatrix_Name</Label>
-    <String>Matriz Social</String>
+    <String>Social Matrix</String>
   </StringTable>
   <StringTable>
     <Label>SocialMatrix_ShortDec</Label>
-    <String>Aumenta a fabricação e a pesquisa de um mundo.</String>
+    <String>Increases the Manufacturing and Research of a world. Gains levels from Research and All Construction.</String>
   </StringTable>
  
   <StringTable>
     <Label>DarkEnergyLab_Name</Label>
-    <String>Laboratório de Energia Escura</String>
+    <String>Dark Energy Lab</String>
   </StringTable>
   <StringTable>
     <Label>DarkEnergyLab_ShortDec</Label>
-    <String>Aumenta a fabricação e a pesquisa de um mundo.</String>
+    <String>Increases the Manufacturing and Research of a world.</String>
   </StringTable>
  
   <StringTable>
     <Label>BiosphereManipulator_Name</Label>
-    <String>Manipulador da Biosfera</String>
+    <String>Biosphere Manipulator</String>
   </StringTable>
   <StringTable>
     <Label>BiosphereManipulator_ShortDec</Label>
-    <String>Terraforma qualquer ladrilho de baixa qualidade.</String>
+    <String>Terraform any low quality tile.</String>
   </StringTable>
  
   <StringTable>
     <Label>ChampionsTemple_Name</Label>
-    <String>Templo do Campeão</String>
+    <String>Champion's Temple</String>
   </StringTable>
   <StringTable>
     <Label>ChampionsTemple_ShortDec</Label>
-    <String>Aumenta a prontidão militar de um mundo.</String>
+    <String>Increases military readiness of a world.</String>
   </StringTable>
  
   <StringTable>
     <Label>HealingPools_Name</Label>
-    <String>Piscinas de Cura</String>
+    <String>Healing Pools</String>
   </StringTable>
   <StringTable>
     <Label>HealingPools_ShortDec</Label>
-    <String>Aumenta a aprovação</String>
+    <String>Increases approval</String>
   </StringTable>
  
   <StringTable>
     <Label>MeditationCenter_Name</Label>
-    <String>Centro de Meditação</String>
+    <String>Meditation Center</String>
   </StringTable>
   <StringTable>
     <Label>MeditationCenter_ShortDec</Label>
-    <String>Aumenta a aprovação</String>
+    <String>Increases approval</String>
   </StringTable>
  
   <StringTable>
     <Label>CommunionShrine_Name</Label>
-    <String>Santuário da Comunhão</String>
+    <String>Communion Shrine</String>
   </StringTable>
   <StringTable>
     <Label>CommunionShrine_ShortDec</Label>
-    <String>Aumenta a aprovação</String>
+    <String>Increases approval</String>
   </StringTable>
  
   <StringTable>
     <Label>DrathianTemple_Name</Label>
-    <String>Templo Drathian</String>
+    <String>Drathian Temple</String>
   </StringTable>
   <StringTable>
     <Label>DrathianTemple_ShortDec</Label>
-    <String>Aumenta a aprovação</String>
+    <String>Increases approval.</String>
   </StringTable>
  
   <StringTable>
     <Label>ShrineoftheMithrilar_Name</Label>
-    <String>Santuário do Mithrilar</String>
+    <String>Shrine of the Mithrilar</String>
   </StringTable>
   <StringTable>
     <Label>ShrineoftheMithrilar_ShortDec</Label>
-    <String>Aumenta a Aprovação e Influência de um mundo.</String>
+    <String>Increases the Approval and Influence of a world. [COLOR=UIDefaultHot]Can not be destroyed.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>ShrineofTandis_Name</Label>
-    <String>Santuário de Tandis</String>
+    <String>Shrine of Tandis</String>
   </StringTable>
   <StringTable>
     <Label>ShrineofTandis_ShortDec</Label>
-    <String>Aumenta a Aprovação e Influência em todos os seus mundos.</String>
+    <String>Increases Approval and Influence on all of your worlds. [COLOR=UIDefaultHot]Can not be destroyed.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorSouvenirs_Name</Label>
-    <String>Loja de lembranças do precursor</String>
+    <String>Precursor Souvenir Shop</String>
   </StringTable>
   <StringTable>
     <Label>PrecursorSouvenirs_ShortDec</Label>
-    <String>Aumentar a renda mundial.</String>
+    <String>Increase the worlds Income.</String>
   </StringTable>
  
   <StringTable>
     <Label>FreeMarket_Name</Label>
-    <String>Mercado Livre</String>
+    <String>Free Market</String>
   </StringTable>
   <StringTable>
     <Label>FreeMarket_ShortDec</Label>
-    <String>Aumenta a riqueza e a influência do mundo.</String>
+    <String>Increases a worlds wealth and Influence.</String>
   </StringTable>
  
   <StringTable>
     <Label>IridiumStore_Name</Label>
-    <String>Loja de Iridium</String>
+    <String>Iridium Store</String>
   </StringTable>
   <StringTable>
     <Label>IridiumStore_ShortDec</Label>
-    <String>Aumenta a riqueza e a influência do mundo.</String>
+    <String>Increases a worlds wealth and Influence.</String>
   </StringTable>
  
   <StringTable>
     <Label>IridiumCenter_Name</Label>
-    <String>Centro de Iridium</String>
+    <String>Iridium Center</String>
   </StringTable>
   <StringTable>
     <Label>IridiumCenter_ShortDec</Label>
-    <String>Aumenta a riqueza e a influência do mundo.</String>
+    <String>Increases a worlds wealth and Influence.</String>
   </StringTable>
  
   <StringTable>
     <Label>IridiumWorld_Name</Label>
-    <String>Mundo do Iridium</String>
+    <String>Iridium World</String>
   </StringTable>
   <StringTable>
     <Label>IridiumWorld_ShortDec</Label>
-    <String>Aumenta a riqueza e a influência do mundo.</String>
+    <String>Increases a worlds wealth and Influence.</String>
   </StringTable>
  
   <StringTable>
     <Label>GalacticShowcase_Name</Label>
-    <String>Vitrine Galáctica</String>
+    <String>Galactic Showcase</String>
   </StringTable>
   <StringTable>
     <Label>GalacticShowcase_ShortDec</Label>
-    <String>Aumenta a renda bruta de um mundo.</String>
+    <String>Increases a world's gross Income and influence. [COLOR=UIDefaultHot]Can not be destroyed.[/COLOR]</String>
   </StringTable>
  
   <StringTable>
     <Label>CoordinationTemple_Name</Label>
-    <String>Templo de Coordenação</String>
+    <String>Coordination Temple</String>
   </StringTable>
   <StringTable>
     <Label>CoordinationTemple_ShortDec</Label>
-    <String>Dá Bônus de Adjacência a todas as melhorias adjacentes.</String>
+    <String>Gives Adjacency Bonus to all adjacent Improvements.</String>
   </StringTable>
  
   <StringTable>
     <Label>LaborMission_Name</Label>
-    <String>Missão Trabalhista</String>
+    <String>Labor Mission</String>
   </StringTable>
   <StringTable>
     <Label>LaborMission_ShortDec</Label>
-    <String>Dá Bônus de Adjacência a todas as melhorias adjacentes.</String>
+    <String>Gives Adjacency Bonus to all adjacent Improvements.</String>
   </StringTable>
  
   <StringTable>
     <Label>LaborOracle_Name</Label>
-    <String>Oráculo do Trabalho</String>
+    <String>Labor Oracle</String>
   </StringTable>
   <StringTable>
     <Label>LaborOracle_ShortDec</Label>
-    <String>Dá Bônus de Adjacência a todas as melhorias adjacentes.</String>
+    <String>Gives Adjacency Bonus to all adjacent Improvements.</String>
   </StringTable>
  
   <StringTable>
     <Label>EnforcementTemple_Name</Label>
-    <String>Templo de aplicação da lei</String>
+    <String>Enforcement Temple</String>
   </StringTable>
   <StringTable>
     <Label>EnforcementTemple_ShortDec</Label>
-    <String>Aumenta a riqueza mundial.</String>
+    <String>Increases a world's wealth.</String>
   </StringTable>
  
   <StringTable>
     <Label>ShadowTemple_Name</Label>
-    <String>Templo das Sombras</String>
+    <String>Shadow Temple</String>
   </StringTable>
   <StringTable>
     <Label>ShadowTemple_ShortDec</Label>
-    <String>Aumenta a Relação Diplomática com outros mundos.</String>
+    <String>Increase Diplomatic Relation with other worlds.</String>
   </StringTable>
  
   <StringTable>
     <Label>KrynnConsulate_Name</Label>
-    <String>Consulado de Krynn</String>
+    <String>Krynn Consulate</String>
   </StringTable>
   <StringTable>
     <Label>KrynnConsulate_ShortDec</Label>
-    <String>Aumenta a Influência Mundial &amp; Aprovação.</String>
+    <String>Increases a worlds Influence &amp; Approval.</String>
   </StringTable>
  
   <StringTable>
     <Label>KrynniacTemple_Name</Label>
-    <String>Templo de Krynniac</String>
+    <String>Krynniac Temple</String>
   </StringTable>
   <StringTable>
     <Label>KrynniacTemple_ShortDec</Label>
-    <String>Aumenta a Influência Mundial &amp; Aprovação</String>
+    <String>Increases a worlds Influence &amp; Approval.</String>
   </StringTable>
  
   <StringTable>
     <Label>KrynniacMission_Name</Label>
-    <String>Missão Krynniac</String>
+    <String>Krynniac Mission</String>
   </StringTable>
   <StringTable>
     <Label>KrynniacMission_ShortDec</Label>
-    <String>Aumenta a Influência Mundial &amp; Aprovação</String>
+    <String>Increases a worlds Influence &amp; Approval.</String>
   </StringTable>
  
   <StringTable>
     <Label>KrynniacOrder_Name</Label>
-    <String>Ordem Krynniac</String>
+    <String>Krynniac Order</String>
   </StringTable>
   <StringTable>
     <Label>KrynniacOrder_ShortDec</Label>
-    <String>Aumenta a Influência Mundial &amp; Aprovação</String>
+    <String>Increases a worlds Influence &amp; Approval.</String>
   </StringTable>
  
   <StringTable>
     <Label>KrynniacOracle_Name</Label>
-    <String>Oráculo de Krynniac</String>
+    <String>Krynniac Oracle</String>
   </StringTable>
   <StringTable>
     <Label>KrynniacOracle_ShortDec</Label>
-    <String>Aumenta uma Aprovação de Influência Mundial,  &amp; Pesquisa.</String>
+    <String>Increases a worlds Influence Approval,  &amp; Research.</String>
   </StringTable>
  
   <StringTable>
     <Label>KrynniacMinistry_Name</Label>
-    <String>Ministério Krynniac</String>
+    <String>Krynniac Ministry</String>
   </StringTable>
   <StringTable>
     <Label>KrynniacMinistry_ShortDec</Label>
-    <String>Aumenta uma Aprovação de Influência Mundial,  &amp; Turismo.</String>
+    <String>Increases a worlds Influence Approval,  &amp; Tourism.</String>
   </StringTable>
  
   <StringTable>
     <Label>KrynniacSanctuary_Name</Label>
-    <String>Santuário de Krynniac</String>
+    <String>Krynniac Sanctuary</String>
   </StringTable>
   <StringTable>
     <Label>KrynniacSanctuary_ShortDec</Label>
-    <String>Aumenta uma Aprovação de Influência Mundial,  &amp; turismo.</String>
+    <String>Increases a worlds Influence Approval,  &amp; Tourism.</String>
   </StringTable>
  
   <StringTable>
     <Label>ManufacturingYor_Name</Label>
-    <String>Centro de Produção</String>
+    <String>Production Center</String>
   </StringTable>
   <StringTable>
     <Label>ManufacturingYor_ShortDec</Label>
-    <String>Aumenta a produção</String>
+    <String>Increases Production</String>
   </StringTable>
  
   <StringTable>
     <Label>ManufacturingCollective_Name</Label>
-    <String>Fabricação Coletiva</String>
+    <String>Manufacturing Collective</String>
   </StringTable>
   <StringTable>
     <Label>ManufacturingCollective_ShortDec</Label>
-    <String>Aumenta a fabricação de uma colônia.</String>
+    <String>Increases a colony's Manufacturing.</String>
   </StringTable>
  
   <StringTable>
     <Label>IndustrialCollective_Name</Label>
-    <String>Coletivo Industrial</String>
+    <String>Industrial Collective</String>
   </StringTable>
   <StringTable>
     <Label>IndustrialCollective_ShortDec</Label>
-    <String>Aumenta a fabricação de uma colônia.</String>
+    <String>Increases a colony's Manufacturing.</String>
   </StringTable>
  
   <StringTable>
     <Label>MechanizedCollective_Name</Label>
-    <String>Coletivo Mecanizado</String>
+    <String>Mechanized Collective</String>
   </StringTable>
   <StringTable>
     <Label>MechanizedCollective_ShortDec</Label>
-    <String>Aumenta a fabricação de uma colônia.</String>
+    <String>Increases a colony's Manufacturing.</String>
   </StringTable>
  
   <StringTable>
     <Label>ManufacturingMatrix_Name</Label>
-    <String>Matriz de fabricação</String>
+    <String>Manufacturing Matrix</String>
   </StringTable>
   <StringTable>
     <Label>ManufacturingMatrix_ShortDec</Label>
-    <String>Aumenta a fabricação de uma colônia.</String>
+    <String>Increases a colony's Manufacturing.</String>
   </StringTable>
  
   <StringTable>
     <Label>ManufactureLife_Name</Label>
-    <String>Produção População</String>
+    <String>Manufacture Population</String>
   </StringTable>
   <StringTable>
     <Label>ManufactureLife_ShortDec</Label>
-    <String>Aumenta a população da colônia.</String>
+    <String>Increases the population of the colony.</String>
   </StringTable>
  
   <StringTable>
     <Label>ResearchYor_Name</Label>
-    <String>Processador de informações</String>
+    <String>Information Processor</String>
   </StringTable>
   <StringTable>
     <Label>ResearchYor_ShortDec</Label>
-    <String>Aumenta a Pesquisa de uma colônia.</String>
+    <String>Increases a colony's Research.</String>
   </StringTable>
  
   <StringTable>
     <Label>ResearchCollective_Name</Label>
-    <String>Pesquisa Coletiva</String>
+    <String>Research Collective</String>
   </StringTable>
   <StringTable>
     <Label>ResearchCollective_ShortDec</Label>
-    <String>Aumenta a Pesquisa de uma colônia.</String>
+    <String>Increases a colony's Research.</String>
   </StringTable>
  
   <StringTable>
     <Label>ResearchArray_Name</Label>
-    <String>Matriz de Pesquisa</String>
+    <String>Research Array</String>
   </StringTable>
   <StringTable>
     <Label>ResearchArray_ShortDec</Label>
-    <String>Aumenta a Pesquisa de uma colônia.</String>
+    <String>Increases a colony's Research.</String>
   </StringTable>
  
   <StringTable>
     <Label>ResearchMind_Name</Label>
-    <String>Mente de Pesquisa</String>
+    <String>Research Mind</String>
   </StringTable>
   <StringTable>
     <Label>ResearchMind_ShortDec</Label>
-    <String>Aumenta a Pesquisa de uma colônia.</String>
+    <String>Increases a colony's Research.</String>
   </StringTable>
  
   <StringTable>
     <Label>ResearchMatrix_Name</Label>
-    <String>Matriz de Pesquisa</String>
+    <String>Research Matrix</String>
   </StringTable>
   <StringTable>
     <Label>ResearchMatrix_ShortDec</Label>
-    <String>Aumenta a Pesquisa de uma colônia.</String>
+    <String>Increases a colony's Research.</String>
   </StringTable>
  
   <StringTable>
     <Label>HyperionMatrix_Name</Label>
-    <String>Matriz Hyperion</String>
+    <String>Hyperion Matrix</String>
   </StringTable>
   <StringTable>
     <Label>HyperionMatrix_ShortDec</Label>
-    <String>Impulsione a pesquisa de todas as suas colônias.</String>
-  </StringTable>
- 
-  <StringTable>
-    <Label>UniversalSoilAdapter_Name</Label>
-    <String>Adaptador Universal de Solo</String>
-  </StringTable>
-  <StringTable>
-    <Label>UniversalSoilAdapter_ShortDec</Label>
-    <String>Terraformar um ladrilho de qualquer qualidade.</String>
+    <String>Boost the research of all your colonies.</String>
   </StringTable>
  
   <StringTable>
     <Label>XenoAnthropology_Name</Label>
-    <String>Centro de Antropologia Xeno</String>
+    <String>Xeno Anthropology Center</String>
   </StringTable>
   <StringTable>
     <Label>XenoAnthropology_ShortDec</Label>
-    <String>Potencializa as relações com outras raças, e ajuda a espalhar nossa influência.</String>
+    <String>Boost the relations with other races, and helps spread our influence.</String>
   </StringTable>
  
   <StringTable>
     <Label>UniversalOutreach_Name</Label>
-    <String>Centro de Divulgação Universal</String>
+    <String>Universal Outreach Center</String>
   </StringTable>
   <StringTable>
     <Label>UniversalOutreach_ShortDec</Label>
-    <String>Potencializa as relações com outras raças, e ajuda a espalhar a influência.</String>
+    <String>Boost the relations with other races, and helps spread influence.</String>
   </StringTable>
  
   <StringTable>
     <Label>FutureStudies_Name</Label>
-    <String>Centro de Estudos Futuros</String>
+    <String>Future Studies Center</String>
   </StringTable>
   <StringTable>
     <Label>FutureStudies_ShortDec</Label>
-    <String>Potencializa as relações com outras raças, e ajudar a espalhar nossa influência.</String>
+    <String>Boost the relations with other races, and helps spread our influence.</String>
   </StringTable>
  
   <StringTable>
     <Label>MolecularFabricatorc_Name</Label>
-    <String>Fabricante Molecular</String>
+    <String>Molecular Fabricator</String>
   </StringTable>
   <StringTable>
     <Label>MolecularFabricatorc_ShortDec</Label>
-    <String>Aumenta a fabricação e Pesquisa de uma colônia.</String>
+    <String>Increases a colony's Manufacturing and Research.</String>
   </StringTable>
  
   <StringTable>
     <Label>IndustrialReplicator_Name</Label>
-    <String>Replicador Industrial</String>
+    <String>Industrial Replicator</String>
   </StringTable>
   <StringTable>
     <Label>IndustrialReplicator_ShortDec</Label>
-    <String>Aumenta a fabricação e Pesquisa de uma colônia.</String>
+    <String>Increases a colony's Manufacturing and Research.</String>
   </StringTable>
  
   <StringTable>
     <Label>PrecursorArchive_Name</Label>
-    <String>Arquivo do precursor</String>
+    <String>PrecursorArchive</String>
   </StringTable>
   <StringTable>
     <Label>PrecursorArchive_ShortDec</Label>
-    <String>Aumenta consideravelmente a pesquisa de uma colônia.</String>
+    <String>Greatly Increases a colony's Research.</String>
   </StringTable>
  
   <StringTable>
     <Label>DreamConclave_Name</Label>
-    <String>Conclave dos sonhos</String>
+    <String>Dream Conclave</String>
   </StringTable>
   <StringTable>
     <Label>DreamConclave_ShortDec</Label>
-    <String>Aumenta a moral de todas as colônias, bem como a taxa de Influência e Pesquisa de seu planeta-sede.</String>
+    <String>Increases the Morale of all colonies, as well as the Influence and Research rate of its host planet.</String>
   </StringTable>
  
   <StringTable>
     <Label>CentralMine_Name</Label>
-    <String>Mina Central</String>
+    <String>Central Mine</String>
   </StringTable>
   <StringTable>
     <Label>CentralMine_ShortDec</Label>
-    <String>Aumenta a Produtividade de uma colônia.</String>
+    <String>Increases a colony's Productivity.</String>
   </StringTable>
  
   <StringTable>
     <Label>LearningCenter_Name</Label>
-    <String>Centro de aprendizagem</String>
+    <String>Learning Center</String>
   </StringTable>
   <StringTable>
     <Label>LearningCenter_ShortDec</Label>
-    <String>Aumenta a capacidade de Pesquisa de uma colônia.</String>
+    <String>Increases a colony's Research capacity.</String>
   </StringTable>
  
   <StringTable>
     <Label>School_Name</Label>
-    <String>Escola</String>
+    <String>Research Conclave</String>
   </StringTable>
   <StringTable>
     <Label>School_ShortDec</Label>
-    <String>Aumenta a capacidade de Pesquisa de uma colônia.</String>
+    <String>Increases a colony's Research capacity.</String>
   </StringTable>
  
   <StringTable>
     <Label>University_Name</Label>
-    <String>Universidade</String>
+    <String>Interstellar University</String>
   </StringTable>
   <StringTable>
     <Label>University_ShortDec</Label>
-    <String>Aumenta a capacidade de Pesquisa de uma colônia.</String>
+    <String>Increases a colony's Research capacity.</String>
   </StringTable>
  
   <StringTable>
     <Label>CityofLearning_Name</Label>
-    <String>Cidade do Conhecimento</String>
+    <String>City of Learning</String>
   </StringTable>
   <StringTable>
     <Label>CityofLearning_ShortDec</Label>
-    <String>Aumenta a capacidade de Pesquisa de uma colônia.</String>
+    <String>Increases a colony's Research capacity.</String>
   </StringTable>
  
   <StringTable>
     <Label>ResearchCommune_Name</Label>
-    <String>Comuna de Pesquisa</String>
+    <String>Research Commune</String>
   </StringTable>
   <StringTable>
     <Label>ResearchCommune_ShortDec</Label>
-    <String>Aumenta a capacidade de Pesquisa de uma colônia.</String>
+    <String>Increases a colony's Research capacity.</String>
   </StringTable>
  
   <StringTable>
     <Label>AeroponicFarm_Name</Label>
-    <String>Fazenda Aeroponica</String>
+    <String>Aeroponic Farm</String>
   </StringTable>
   <StringTable>
     <Label>AeroponicFarm_ShortDec</Label>
-    <String>Aumenta a alimentação de nosso mundo.</String>
+    <String>Increases our world's food.</String>
   </StringTable>
  
   <StringTable>
     <Label>HydroponicFarm_Name</Label>
-    <String>Fazenda hidropônica</String>
+    <String>Hydroponic Farm</String>
   </StringTable>
   <StringTable>
     <Label>HydroponicFarm_ShortDec</Label>
-    <String>Aumenta a alimentação mundial.</String>
+    <String>Increases our world's food.</String>
   </StringTable>
  
   <StringTable>
     <Label>HydroponicAccelerator_Name</Label>
-    <String>Acelerador Hidropônico</String>
+    <String>Hydroponic Accelerator</String>
   </StringTable>
   <StringTable>
     <Label>HydroponicAccelerator_ShortDec</Label>
-    <String>Aumenta a alimentação mundial.</String>
+    <String>Increases our world's food.</String>
   </StringTable>
  
   <StringTable>
     <Label>TiredHydroponicFarm_Name</Label>
-    <String>Fazenda hidropônica em níveis</String>
+    <String>Tiered Hydroponic Farm</String>
   </StringTable>
   <StringTable>
     <Label>TiredHydroponicFarm_ShortDec</Label>
-    <String>Aumenta a alimentação mundial.</String>
+    <String>Increases our world's food.</String>
   </StringTable>
  
   <StringTable>
     <Label>AutomatedHydroponicFarm_Name</Label>
-    <String>Fazenda Hidropônica Automatizada</String>
+    <String>Automated Hydroponic Farm</String>
   </StringTable>
   <StringTable>
     <Label>AutomatedHydroponicFarm_ShortDec</Label>
-    <String>Aumenta a alimentação mundial.</String>
+    <String>Increases our world's food.</String>
   </StringTable>
  
   <StringTable>
     <Label>BirthingPools_Name</Label>
-    <String>Piscinas de Parto</String>
+    <String>Birthing Pools</String>
   </StringTable>
   <StringTable>
     <Label>BirthingPools_ShortDec</Label>
-    <String>Aumenta a taxa de crescimento populacional de um planeta.</String>
+    <String>Increases a planet's population growth rate.</String>
   </StringTable>
  
   <StringTable>
     <Label>Hotsprings_Name</Label>
-    <String>Fontes termais</String>
+    <String>Hot springs</String>
   </StringTable>
   <StringTable>
     <Label>Hotsprings_ShortDec</Label>
-    <String>Aumenta o moral do mundo</String>
+    <String>Increases a world's Morale</String>
   </StringTable>
  
   <StringTable>
     <Label>HealingWater_Name</Label>
-    <String>Água de cura</String>
+    <String>Healing Water</String>
   </StringTable>
   <StringTable>
     <Label>HealingWater_ShortDec</Label>
-    <String>Aumenta o moral mundial</String>
+    <String>Increases a world's Morale</String>
   </StringTable>
  
   <StringTable>
     <Label>WealnessFalls_Name</Label>
-    <String>Cascatas do Bem-estar</String>
+    <String>Wellness Falls</String>
   </StringTable>
   <StringTable>
     <Label>WealnessFalls_ShortDec</Label>
-    <String>Aumenta o moral mundial</String>
+    <String>Increases a world's Morale</String>
   </StringTable>
  
   <StringTable>
     <Label>CleansingTide_Name</Label>
-    <String>Maré de Limpeza</String>
+    <String>Cleansing Tide</String>
   </StringTable>
   <StringTable>
     <Label>CleansingTide_ShortDec</Label>
-    <String>Aumenta o moral mundial</String>
+    <String>Increases a world's Morale</String>
   </StringTable>
  
   <StringTable>
     <Label>NavigationCenter_Name</Label>
-    <String>Centro de navegação</String>
+    <String>Navigation Center</String>
   </StringTable>
   <StringTable>
     <Label>NavigationCenter_ShortDec</Label>
-    <String>Aumentar os movimentos de todos os navios.</String>
+    <String>Increase the moves of all ship.</String>
   </StringTable>
  
   <StringTable>
     <Label>GalacticNavigationNetwork_Name</Label>
-    <String>Rede Galáctica de Navegação</String>
+    <String>Galactic Navigation Network</String>
   </StringTable>
   <StringTable>
     <Label>GalacticNavigationNetwork_ShortDec</Label>
-    <String>Aumenta os movimentos de todos os navios.</String>
+    <String>Increase the moves of all ship.</String>
   </StringTable>
  
   <StringTable>
     <Label>GalacticNavigatorsGuild_Name</Label>
-    <String>Guilda Galáctica de Navegadores</String>
+    <String>Galactic Navigators Guild</String>
   </StringTable>
   <StringTable>
     <Label>GalacticNavigatorsGuild_ShortDec</Label>
-    <String>Aumenta os movimentos de todos os navios.</String>
+    <String>Increase the moves of all ship.</String>
   </StringTable>
  
   <StringTable>
     <Label>WeatherControlCenter_Name</Label>
-    <String>Centro de Controle Climático</String>
+    <String>Weather Control Center</String>
   </StringTable>
   <StringTable>
     <Label>WeatherControlCenter_ShortDec</Label>
-    <String>Aumenta um Planeta em geral, aumentando o moral, diminuindo a Manutenção e aumentando a Produção.</String>
+    <String>Increases a Planet overall by boosting Morale, lowering Maintenance, and increasing Production.</String>
   </StringTable>
  
   <StringTable>
     <Label>WeatherControlZenith_Name</Label>
-    <String>Controle Climático Zenith</String>
+    <String>Weather Control Zenith</String>
   </StringTable>
   <StringTable>
     <Label>WeatherControlZenith_ShortDec</Label>
-    <String>Aumenta um Planeta em geral, aumentando o moral, diminuindo a Manutenção e aumentando a Produção.</String>
+    <String>Increases a Planet overall by boosting Morale, lowering Maintenance, and increasing Production.</String>
   </StringTable>
  
   <StringTable>
     <Label>TempleofValor_Name</Label>
-    <String>Templo de Valor</String>
+    <String>Temple of Valor</String>
   </StringTable>
   <StringTable>
     <Label>TempleofValor_ShortDec</Label>
-    <String>Aumenta a capacidade das colônias de resistir à invasão.</String>
+    <String>Increases a colonies ability to resist invasion.</String>
   </StringTable>
  
   <StringTable>
     <Label>StellarForge_Name</Label>
-    <String>Forja Estelar</String>
+    <String>Stellar Forge</String>
   </StringTable>
   <StringTable>
     <Label>StellarForge_ShortDec</Label>
-    <String>Aumenta os pontos de acerto e diminui a manutenção de todos os estaleiros navais patrocinados construídos.</String>
+    <String>Increases the Hit points, and lowers the maintenance of all ship built sponsored shipyard.</String>
   </StringTable>
  
   <StringTable>
     <Label>AntimatterPowerPlant_Name</Label>
-    <String>Usina de Antimatéria</String>
+    <String>Antimatter Power Plant</String>
   </StringTable>
   <StringTable>
     <Label>AntimatterPowerPlant_ShortDec</Label>
-    <String>Aumenta muito as habilidades de todas as melhorias adjacentes a ela, mas requer Antimatéria para construir.</String>
+    <String>Greatly Increases the  abilities of all Improvements Adjacent to it, but requires Antimatter to build.</String>
   </StringTable>
  
   <StringTable>
     <Label>MissionaryCenter_Name</Label>
-    <String>Centro Missionário</String>
+    <String>Missionary Center</String>
   </StringTable>
   <StringTable>
     <Label>MissionaryCenter_ShortDec</Label>
-    <String>Impulsiona a influência de um planeta e gera pontos de Ideologia Benevolente.</String>
+    <String>Boost a planet's influence and generates Benevolent Ideology points.</String>
   </StringTable>
  
   <StringTable>
     <Label>ElevationFoundation_Name</Label>
-    <String>Fundação de Elevação</String>
+    <String>Elevation Foundation</String>
   </StringTable>
   <StringTable>
     <Label>ElevationFoundation_ShortDec</Label>
-    <String>Impulsionar o moral da colônia enquanto gera um ponto de ideologia benevolente a cada 10 turnos.</String>
+    <String>Boost colony's morale while generating a Benevolent ideology point every 10 turns.</String>
   </StringTable>
  
   <StringTable>
     <Label>TempleofEnlightenment_Name</Label>
-    <String>Templo do Iluminismo</String>
+    <String>Temple of Enlightenment</String>
   </StringTable>
   <StringTable>
     <Label>TempleofEnlightenment_ShortDec</Label>
-    <String>Aumenta a pesquisa da colônia enquanto gera um ponto de ideologia benevolente a cada 5 turnos.</String>
+    <String>Increases the colony's research while generating a Benevolent Ideology point every 5 turns.</String>
   </StringTable>
  
   <StringTable>
     <Label>PreparednessCenter_Name</Label>
-    <String>Centro de preparação</String>
+    <String>Preparedness Center</String>
   </StringTable>
   <StringTable>
     <Label>PreparednessCenter_ShortDec</Label>
-    <String>Impulsiona a Defesa Planetária e gera 1 ponto de Ideologia Pragmática a cada 10 turnos.</String>
+    <String>Boost Planetary Defense and generates 1 Pragmatic Ideology point every 10 turns.</String>
   </StringTable>
  
   <StringTable>
     <Label>ArbitrationCenter_Name</Label>
-    <String>Centro de Arbitragem</String>
+    <String>Arbitration Center</String>
   </StringTable>
   <StringTable>
     <Label>ArbitrationCenter_ShortDec</Label>
-    <String>Aumenta o turismo e a influência no mundo.</String>
+    <String>Increases tourism and influence on world.</String>
   </StringTable>
  
   <StringTable>
     <Label>IntimidationCenter_Name</Label>
-    <String>Centro de Intimidação</String>
+    <String>Intimidation Center</String>
   </StringTable>
   <StringTable>
     <Label>IntimidationCenter_ShortDec</Label>
-    <String>Suprime os descontentes e gera pontos de Ideologia Malévola.</String>
+    <String>Suppresses malcontents, and generates Malevolent Ideology points.</String>
   </StringTable>
  
   <StringTable>
     <Label>CitadelofRevenue_Name</Label>
-    <String>Cidadela da Receita</String>
+    <String>Citadel of Revenue</String>
   </StringTable>
   <StringTable>
     <Label>CitadelofRevenue_ShortDec</Label>
-    <String>Aumenta muito a renda de um planeta e gera pontos de Ideologia Malévola.</String>
+    <String>Greatly boosts a planet's income, and generates Malevolent Ideology points.</String>
   </StringTable>
  
   <StringTable>
     <Label>DeathFurnace_Name</Label>
-    <String>Fornos de Morte</String>
+    <String>Death Furnaces</String>
   </StringTable>
   <StringTable>
     <Label>DeathFurnace_ShortDec</Label>
-    <String>Aumenta a produção global de um mundo e gera pontos de Ideologia Malévola a cada 5 turnos.</String>
+    <String>Increases the overall production of a world and generates Malevolent Ideology point every 5 turns.</String>
   </StringTable>
  
   <StringTable>
     <Label>AquaticBiospheres1_Name</Label>
-    <String>Biosferas aquáticas</String>
+    <String>Aquatic Biospheres</String>
   </StringTable>
   <StringTable>
     <Label>AquaticBiospheres1_ShortDec</Label>
-    <String>Terraformar qualquer ladrilho único recuperável restante.</String>
+    <String>Terraform any remaining single salvageable tile.</String>
   </StringTable>
  
   <StringTable>
     <Label>AquaticBiospheres2_Name</Label>
-    <String>Biosferas aquáticas avançadas</String>
+    <String>Advanced Aquatic Biospheres</String>
   </StringTable>
   <StringTable>
     <Label>AquaticBiospheres2_ShortDec</Label>
-    <String>Terraformar qualquer ladrilho único recuperável restante.</String>
+    <String>Terraform any remaining single salvageable tile.</String>
   </StringTable>
  
   <StringTable>
     <Label>AquaticBiospheres3_Name</Label>
-    <String>Biosferas Ultra Aquáticas</String>
+    <String>Ultra Aquatic Biospheres</String>
   </StringTable>
   <StringTable>
     <Label>AquaticBiospheres3_ShortDec</Label>
-    <String>Terraformar qualquer ladrilho único restante recuperável, em cada uma de suas colônias.</String>
+    <String>Terraform any remaining single salvageable tile, on each of your colonies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MonumentResistance_Name</Label>
+    <String>Monument of the Final War</String>
+  </StringTable>
+  <StringTable>
+    <Label>MonumentResistance_ShortDec</Label>
+    <String>This monument will galvanize the citizens of this world against invaders generating 5 legions of fresh troops.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MonumentApproval_Name</Label>
+    <String>Eulogy of the Fallen</String>
+  </StringTable>
+  <StringTable>
+    <Label>MonumentApproval_ShortDec</Label>
+    <String>A reminder of those sacrficed for what we have.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MonumentSoldiering_Name</Label>
+    <String>Grave of Lessers</String>
+  </StringTable>
+  <StringTable>
+    <Label>MonumentSoldiering_ShortDec</Label>
+    <String>A monument to those we have already destroyed. Raises 5 new legions of troops.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MonumentProduction_Name</Label>
+    <String>Idol of Chains</String>
+  </StringTable>
+  <StringTable>
+    <Label>MonumentProduction_ShortDec</Label>
+    <String>A reminder that our warships are an extension of our spirit.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MonumentGlobal_Name</Label>
+    <String>Shrine of A'Aghohl</String>
+  </StringTable>
+  <StringTable>
+    <Label>MonumentGlobal_ShortDec</Label>
+    <String>A monument to Kindar A'Aghohl, who leads us from darkness.</String>
   </StringTable>
  
   <StringTable>
     <Label>AidEconomy_Name</Label>
-    <String>Ajuda Econômica</String>
+    <String>Aid Economy</String>
   </StringTable>
   <StringTable>
     <Label>AidEconomy_ShortDec</Label>
-    <String>Fornece 50 créditos</String>
+    <String>Provides 25 credits</String>
   </StringTable>
  
   <StringTable>
     <Label>AidResearch_Name</Label>
-    <String>Ajuda à Pesquisa</String>
+    <String>Aid Research</String>
   </StringTable>
   <StringTable>
     <Label>AidResearch_ShortDec</Label>
-    <String>Fornece 50 pesquisas</String>
+    <String>Provides 100 research</String>
   </StringTable>
  
   <StringTable>
     <Label>RecruitCitizen_Name</Label>
-    <String>Recrutar Cidadão</String>
+    <String>Recruit Citizen</String>
   </StringTable>
   <StringTable>
     <Label>RecruitCitizen_ShortDec</Label>
-    <String>Recruta um novo Cidadão para sua Civilização.</String>
+    <String>Recruits a new Citizen to your Civilization.</String>
   </StringTable>
  
   <StringTable>
     <Label>RecruitScientist_Name</Label>
-    <String>Recrutar Cientista</String>
+    <String>Recruit Scientist</String>
   </StringTable>
   <StringTable>
     <Label>RecruitScientist_ShortDec</Label>
-    <String>Recruta um Cientista para sua Civilização.</String>
+    <String>Recruits a Scientist for your Civilization.</String>
   </StringTable>
  
   <StringTable>
     <Label>RecruitSpy_Name</Label>
-    <String>Recrutar Espião</String>
+    <String>Recruit Spy</String>
   </StringTable>
   <StringTable>
     <Label>RecruitSpy_ShortDec</Label>
-    <String>Recruta um Espião para sua Civilização</String>
+    <String>Recruits a Spy for your Civilization</String>
   </StringTable>
  
   <StringTable>
     <Label>RecruitEntrepreneur_Name</Label>
-    <String>Recrutar Empresário</String>
+    <String>Recruit Entrepreneur</String>
   </StringTable>
   <StringTable>
     <Label>RecruitEntrepreneur_ShortDec</Label>
-    <String>Recruta um Empresário para sua Civilização.</String>
+    <String>Recruits an Entrepreneur for your Civilization.</String>
   </StringTable>
  
   <StringTable>
     <Label>TrainDiplomat_Name</Label>
-    <String>Treinar Diplomata</String>
+    <String>Train Diplomat</String>
   </StringTable>
   <StringTable>
     <Label>TrainDiplomat_ShortDec</Label>
-    <String>Recruta um Diplomata para sua Civilização</String>
+    <String>Recruits a Diplomat to your Civilization</String>
   </StringTable>
  
   <StringTable>
     <Label>TrainCelebrity_Name</Label>
-    <String>Treinar Celebridades</String>
+    <String>Train Celebrity</String>
   </StringTable>
   <StringTable>
     <Label>TrainCelebrity_ShortDec</Label>
-    <String>Recruta uma Celebridade para se unir à sua Civilização.</String>
+    <String>Recruits a Celebrity to join your Civilization.</String>
   </StringTable>
  
   <StringTable>
     <Label>TrainLegion_Name</Label>
-    <String>Formar Legião</String>
+    <String>Train Legion</String>
   </StringTable>
   <StringTable>
     <Label>TrainLegion_ShortDec</Label>
-    <String>Treina uma legião de soldados para sua Civilização.</String>
+    <String>Trains a legion of soldiers for your Civilization.</String>
   </StringTable>
  
   <StringTable>
     <Label>StationGarrisonProject_Name</Label>
-    <String>Estação de Guarnição</String>
+    <String>Station Garrison</String>
   </StringTable>
   <StringTable>
     <Label>StationGarrisonProject_ShortDec</Label>
-    <String>Estação permanente uma legião para a defesa deste planeta.</String>
+    <String>Permanently Stations one Legion to the defense of this planet.</String>
   </StringTable>
  
  

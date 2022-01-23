@@ -10,7 +10,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
 
   <StringTable>
     <Label>Hyperlane_Bonus_Description</Label>
-    <String>Hyperlane +{VALUE}% Moves</String>
+    <String>Hyperlane +{VALUE}% Movimento</String>
   </StringTable>
   
 </StringTableList>
