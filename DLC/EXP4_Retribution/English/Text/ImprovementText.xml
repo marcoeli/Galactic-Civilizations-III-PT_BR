@@ -223,11 +223,11 @@ xsi:noNamespaceSchemaLocation="../../../../Data/Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>ColonizationCenter_Name</Label>
-    <String>Colonization Center</String>
+    <String>Centro de Colonização</String>
   </StringTable>
   <StringTable>
     <Label>ColonizationCenter_ShortDec</Label>
-    <String>Registers citizens not previously recorded in our records for colonization, increasing our available population.</String>
+    <String>Registra cidadãos que não foram previamente cadastrados em nossos registros para colonização, aumentando nossa população disponível.</String>
   </StringTable>
  
   <StringTable>

@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- UIText_EventsText.xml -->
+ 
+<!-- Event Names and Descriptions -->
+ 
+  <StringTable>
+    <Label>Event_Aristocracy02_Name</Label>
+    <String>The Chainbreakers</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Aristocracy02_Dec</Label>
+    <String>An organization of escaped slaves has begun targeting our civilization, trying to cripple the foundation of our economy by freeing our slaves.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Aristocracy01_Name</Label>
+    <String>The Age Of Compliance</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Aristocracy01_Dec</Label>
+    <String>Our slaves have finally been broken, accepting their roles in the glory of our civilization. A sudden surge in productivity, approval, and even research now washes over everything, burnishing all chains to a lusterous shine.
+
+[COLOR=UIDefaultHighlight]Global Effect: +25% Production, Approval and Research for 5 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Aristocracy03_Name</Label>
+    <String>Crunch Time</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Aristocracy03_Dec</Label>
+    <String>An unexpected confluence of several deadlines has prompted your overseers to begin working their slaves harder. This has led to a dramatic increase in productivity, though it remains to be seen how many will survive the process. 
+
+[COLOR=UIDefaultHighlight]Global Effect: +10% Production and -0.1 Growth for 10 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Colonial02_Name</Label>
+    <String>The Bounty</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Colonial02_Dec</Label>
+    <String>A dissident group has constructed a powerful warship called the Bounty and has begun raiding our planets in retaliation for what they call our "oppressive regime". They demand an end to colonial government immediately to allow colonies a greater say in their destiny.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Colonial01_Name</Label>
+    <String>Founding Day</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Colonial01_Dec</Label>
+    <String>Colonies around our civilization have begun celebrating anniversaries of various colonial milestones. This has led to a very confusing holiday calendar, but general increased happiness throughout our civilization. 
+
+[COLOR=UIDefaultHighlight]Global Effect:  +10% Approval for 10 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Colonial03_Name</Label>
+    <String>Fast Turn Around</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Colonial03_Dec</Label>
+    <String>So adept your people are at the art of colonization, that they were able to quickly generate a new colony ship from spare parts without anyone noticing. 
+
+[COLOR=UIDefaultHighlight]Free Colony Ship[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Colonial04_Name</Label>
+    <String>Trader Gossip</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Colonial04_Dec</Label>
+    <String>Our captains and commanders speak to each other all the time, forming an informal network for sharing starfaring wisdom. Recently this whisper network has reached something of a critical mass, producing a bounty of useful information on safe channels and profitable trade routes.
+
+[COLOR=UIDefaultHighlight]+50% Trade Route income for 20 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Emergency02_Name</Label>
+    <String>Chafing</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Emergency02_Dec</Label>
+    <String>Our people have begun to strain at the emergency measures we've placed on them to get through this crisis. Many suggest the crisis has passed, or is no longer as bad as it once was, and long to return to the old ways. 
+
+[COLOR=UIDefaultHighlight]Global Effect:  -25% Approval for 10 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Emergency01_Name</Label>
+    <String>Solidarity</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Emergency01_Dec</Label>
+    <String>This moment of crisis has instilled a new sense of patriotism amongst our civilians, leading to increased attention to and support for our armed forces.
+
+[COLOR=UIDefaultHighlight]Global Effect: +25% Soldiering for 20 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Emergency03_Name</Label>
+    <String>Moment of Silence</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Emergency03_Dec</Label>
+    <String>For a brief time, all members of our civilization stop what they're doing and remember the events which led our people down this dark path. 
+
+[COLOR=UIDefaultHighlight]Global Effect: -50% Production for 2 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Imperial01_Name</Label>
+    <String>The Emperor's Ascension</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Imperial01_Dec</Label>
+    <String>Long live the Emperor! The ascent of a new Emperor to the throne has provoked widespread celebrations throughout the empire, citizens everywhere are convinced they'll like him much better than the last guy. 
+
+[COLOR=UIDefaultHighlight]Global Effect: +25% Approval for 10 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Imperial02_Name</Label>
+    <String>The Path Of The Citizen</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Imperial02_Dec</Label>
+    <String>Stories of bravery from the front lines of the Empire are devoured by the populace, who now fetishize everything there is about soldiering and your armed forces in general. 
+
+[COLOR=UIDefaultHighlight]Global Effect:  +25% Soldiering and Resistance for 20 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic01_Name</Label>
+    <String>Commerce Raiders</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic01_Dec</Label>
+    <String>An organized group of pirates has banded together to create a large capital ship to better aid their raiding efforts. They've targeted us due to our prosperity.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02_Name</Label>
+    <String>Questionable Senator</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02_Dec</Label>
+    <String>One of our senators has been accused of accepting bribes from a pirate collective. There is no evidence of criminal activity and he denies the charge, but the public demands action.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02_Choice1Dec</Label>
+    <String>Even the hint of impropriety cannot be tolerated, fire him.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02_Choice1BonusDec</Label>
+    <String>+5 Benevolent, +10% Morale for 10 turns</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02_Choice2Dec</Label>
+    <String>No action can be taken until charges are proven.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02_Choice2BonusDec</Label>
+    <String>+5 Pragmatic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02_Choice3Dec</Label>
+    <String>Promote him.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02_Choice3BonusDec</Label>
+    <String>+5 Malevolent, +10% Income for 10 turns</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02b_Name</Label>
+    <String>Questionable Senator Part 2</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Republic02b_Dec</Label>
+    <String>Investigation into the questionable senator has shown that the rumors were spread by the pirate collective as an attempt to discredit the honest Senator. Your faith in him was well deserved and your people's respect for you grows. 
+
+[COLOR=UIDefaultHighlight]Global Effect: +5% Morale for 25 Turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Monarchy01_Name</Label>
+    <String>The Golden Age</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Monarchy01_Dec</Label>
+    <String>Your wise and considered leadership has brought much needed stability to your realm, all your subjects aligned in their efforts and minds. A boon in economics, research, and productivity is felt everywhere. History will look back kindly on this age.
+
+[COLOR=UIDefaultHighlight]Global Effect: +10% to Research, Manufacturing and Income for 25 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Utopian01_Name</Label>
+    <String>A Beacon Unto Others</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Utopian01_Dec</Label>
+    <String>The galaxy can see what we've built here, and the benefit of ourt Utopian government. We've had a sudden influx of applicants for immigration, along with some souls who've just turned up uninvited. We'll find room for them somewhere.
+
+[COLOR=UIDefaultHighlight]Global Effect: +25% Growth for 25 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Jihad01_Name</Label>
+    <String>Trembling Boots</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Jihad01_Dec</Label>
+    <String>As word spreads around the galaxy of our new government and our unwavering commitment to the destruction of our enemies, fear has begun to set in. They know we are coming for them. And they know they will be powerless to stop us.
+
+[COLOR=UIDefaultHighlight]Global Effect: +20% Soldiering for 50 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Kingdom01_Name</Label>
+    <String>Feast of the Stars</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_Kingdom01_Dec</Label>
+    <String>This year we celebrate the etablishment of our glorious Galactic Kingdom by having a Feast of the Stars. All the worldlords have been instructed to open their larders to their folk, which should make all very jolly and content.
+
+[COLOR=UIDefaultHighlight]Global Effect: +25% Morale for 10 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_LowApproval01_Name</Label>
+    <String>Worker Strikes!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_LowApproval01_Dec</Label>
+    <String>Worker morale is at an all time low. Across our worlds million of protesters are refusing to work until the government changes. Factories have been forced to close down and construction sites lay dormant. 
+
+[COLOR=UIDefaultHighlight]Global Effect: -25% Social Construction for 5 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_LowApproval02_Name</Label>
+    <String>Widespread Protests!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_LowApproval02_Dec</Label>
+    <String>As morale and our government continue to fall our citizens have taken to launching massive protests. News media outlets from across the galaxy are broadcasting these protests and it is undermining our standing with other civilizations. 
+
+[COLOR=UIDefaultHighlight]Global Effect: -50% Influence for 10 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_LowApproval03_Name</Label>
+    <String>Citizens Fleeing!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_LowApproval03_Dec</Label>
+    <String>Governmental approval has dropped so low that many of our citizens are leaving to become members of other civilizations. Transport ships are full of passengers trying to leave and trade ships from other civilizations are being overwhelmed by citizens asking them to go along when they leave port. 
+
+[COLOR=UIDefaultHighlight]Global Effect: -75% Influence for 15 turns[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_HighApproval01_Name</Label>
+    <String>Patriotic Celebrations!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_HighApproval01_Dec</Label>
+    <String>A wave of patriotism spurred on by strong governmental approval is sweeping our worlds. Many highlight this as a golden age for our civilization and we will remember this as a key moment when will all stood together. 
+
+[COLOR=UIDefaultHighlight]Global Effect: Permanent +10% Invasion resistance[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_HighApproval02_Name</Label>
+    <String>Highest Approval Rating Yet!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_HighApproval02_Dec</Label>
+    <String>Our government is so popular on our worlds that government branded and licensed items are flying off store shelves. Costumes of our esteemed leader were the most popular this past holiday season and our leaders most popular slogans have been inscribed on items from apparel to toilet plungers. These licensing fees have resulted in an unexpected windfall for the governmental coffers.
+
+[COLOR=UIDefaultHighlight]+450 Credits[/COLOR]</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_HighApproval03_Name</Label>
+    <String>Other Civilizations Are Envious!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Event_HighApproval03_Dec</Label>
+    <String>Our high approval is well known, even among other civilizations. The luxuries our people enjoy, and the support of our government have made the citizens of other governments envious. 
+
+[COLOR=UIDefaultHighlight]Global Effect: +100% Influence for 15 turns[/COLOR]</String>
+  </StringTable>
+ 
+</StringTableList>

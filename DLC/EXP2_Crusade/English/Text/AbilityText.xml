@@ -150,37 +150,37 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>WealthyAbility_Name</Label>
-    <String>Wealthy</String>
+    <String>Riqueza</String>
   </StringTable>
   <StringTable>
     <Label>WealthyAbility_ShortName</Label>
-    <String>Wealthy</String>
+    <String>Riqueza</String>
   </StringTable>
   <StringTable>
     <Label>WealthyAbility_Dec</Label>
-    <String>Starts with 1000 more credits. Planets start with an extra production point.</String>
+    <String>Começa com mais 1000 créditos. Os planetas começam com um ponto de produção extra.</String>
   </StringTable>
  
   <StringTable>
     <Label>PatrioticAbility_Name</Label>
-    <String>Bureaucrats</String>
+    <String>Burocratas</String>
   </StringTable>
   <StringTable>
     <Label>PatrioticAbility_ShortName</Label>
-    <String>Bureaucrats</String>
+    <String>Burocratas</String>
   </StringTable>
   <StringTable>
     <Label>PatrioticAbility_Dec</Label>
-    <String>Starts game with 10 extra Administrator points and access to coordination technologies.</String>
+    <String>Começa o jogo com 10 pontos adicionais de Administrador e acesso às tecnologias de coordenação.</String>
   </StringTable>
  
   <StringTable>
     <Label>ProlificAbility_Name</Label>
-    <String>Prolific</String>
+    <String>Prolifico</String>
   </StringTable>
   <StringTable>
     <Label>ProlificAbility_ShortName</Label>
-    <String>Prolific</String>
+    <String>Prolifico</String>
   </StringTable>
   <StringTable>
     <Label>ProlificAbility_Dec</Label>

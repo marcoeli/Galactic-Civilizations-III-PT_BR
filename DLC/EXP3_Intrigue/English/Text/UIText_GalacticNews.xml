@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- UIText_GalacticNews.xml -->
+ 
+<!-- Galactic News Text Strings -->
+ 
+  <StringTable>
+    <Label>TopFivePlanetApproval_InternalName</Label>
+    <String>TopFivePlanetApproval</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetApproval_NewsTitle</Label>
+    <String>Bel's Annual Quality of Life Survey</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetApproval_NewsDescription</Label>
+    <String>The Bel Research Center has released the results of their extensive survey aimed at finding the most content planets in the known galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetProduction_InternalName</Label>
+    <String>TopFivePlanetProduction</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetProduction_NewsTitle</Label>
+    <String>The Fortune Five</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetProduction_NewsDescription</Label>
+    <String>Our economics editors have found the most productive colonies in known space, worlds where every citizen is a cog in a glorious machine.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetPopulation_InternalName</Label>
+    <String>TopFivePlanetPopulation</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetPopulation_NewsTitle</Label>
+    <String>Top 5 Dating Destinations</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetPopulation_NewsDescription</Label>
+    <String>GNN's lifestyle and dating experts know there are plenty of fish in the galaxy. But there are even more than normal on these five worlds due to their massive populations.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetResearch_InternalName</Label>
+    <String>TopFivePlanetResearch</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetResearch_NewsTitle</Label>
+    <String>Elite University Survey</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetResearch_NewsDescription</Label>
+    <String>The weekly periodical Zintor has published its annual university rankings, identifying the best colonies in the galaxy based on their academic, research, and drinking cultures.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetFarming_InternalName</Label>
+    <String>TopFivePlanetFarming</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetFarming_NewsTitle</Label>
+    <String>UPFP Breadbasket Awards</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetFarming_NewsDescription</Label>
+    <String>The United Planets Food Programme has generated its list of the greatest contributing planets to the fight against galactic hunger.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetInfluence_InternalName</Label>
+    <String>TopFivePlanetInfluence</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetInfluence_NewsTitle</Label>
+    <String>Planetary Thought Leaders</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFivePlanetInfluence_NewsDescription</Label>
+    <String>Being Magazine has released its list of the most influential thought leaders in the galaxy, the ones most capable of managing all our affairs for us.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BottomFivePlanetApproval_InternalName</Label>
+    <String>BottomFivePlanetApproval</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BottomFivePlanetApproval_NewsTitle</Label>
+    <String>Corruption Watch Top 5</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>BottomFivePlanetApproval_NewsDescription</Label>
+    <String>VileRant, the Post-Ethical Complaint Hub has released its annual tally of the most coercive and incompetent governments within the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveMostPowerfulCivs_InternalName</Label>
+    <String>TopFiveMostPowerfulCivs</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveMostPowerfulCivs_NewsTitle</Label>
+    <String>Forceful Five</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveMostPowerfulCivs_NewsDescription</Label>
+    <String>The private security firm ForceUse has documented the most powerful civilizations in the galaxy, the ones most capable of influencing the galaxy's fate.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivApproval_InternalName</Label>
+    <String>TopFiveCivApproval</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivApproval_NewsTitle</Label>
+    <String>Stability Survey</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivApproval_NewsDescription</Label>
+    <String>The travel site Galaxia has released its list of the most stable civilizations in the galaxy, ideal choices for any family-friendly holiday.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivProduction_InternalName</Label>
+    <String>TopFiveCivProduction</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivProduction_NewsTitle</Label>
+    <String>The Lucre List</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivProduction_NewsDescription</Label>
+    <String>The Lucre Institute has released its tally of the galaxy's hottest economies, providing its users with even more investment opportunities.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivPopulation_InternalName</Label>
+    <String>TopFiveCivPopulation</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivPopulation_NewsTitle</Label>
+    <String>BIA Galactic Census</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivPopulation_NewsDescription</Label>
+    <String>BIA, the galactic actuarial agency, has finished compiling its galactic census, identifying which factions are the most populous.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivResearch_InternalName</Label>
+    <String>TopFiveCivResearch</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivResearch_NewsTitle</Label>
+    <String>NTOR Knowledge Audit</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivResearch_NewsDescription</Label>
+    <String>A study of studies has identified the factions who have published the most research papers and gone the furthest in their pursuit of advanced technologies.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivFarming_InternalName</Label>
+    <String>TopFiveCivFarming</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivFarming_NewsTitle</Label>
+    <String>The Victuals List</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivFarming_NewsDescription</Label>
+    <String>The Galactic Larder, a trade publication for food distributors, has published its most recent survey on the most well fed civilizations in the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivInfluence_InternalName</Label>
+    <String>TopFiveCivInfluence</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivInfluence_NewsTitle</Label>
+    <String>TheStyle! Trendsetters!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivInfluence_NewsDescription</Label>
+    <String>TheStyle! magazine has released its tally of the galaxy's most influential civilizations, the ones whose style is aped by every other sentient, and even some of the smarter animals.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivBenevolent_InternalName</Label>
+    <String>TopFiveCivBenevolent</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivBenevolent_NewsTitle</Label>
+    <String>The Giving Masses</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivBenevolent_NewsDescription</Label>
+    <String>Although normally uncomfortable with lists of this nature, leaders from religious groups across the galaxy have seen fit to honor the civilizations most responsible for improving the welfare of sentient beings.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivNeutral_InternalName</Label>
+    <String>TopFiveCivNeutral</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivNeutral_NewsTitle</Label>
+    <String>The Most Rational Civilizations</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivNeutral_NewsDescription</Label>
+    <String>Ration, the journal of unallied thinkers, has once again published a list of the most pragmatic civilizations in the galaxy, the ones best able to make hard decisions and stick with them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivMerciless_InternalName</Label>
+    <String>TopFiveCivMerciless</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivMerciless_NewsTitle</Label>
+    <String>The Shame List</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TopFiveCivMerciless_NewsDescription</Label>
+    <String>The Galactic Organization For Dialog has published its annual Shame List of the most militant, heavily armed, and just disagreeable civilizations in the galaxy.</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>WarWasDeclared_NewsTitle</Label>
+    <String>This Means War</String>
+  </StringTable>
+  
+</StringTableList>

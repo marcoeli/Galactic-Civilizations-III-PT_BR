@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
+<FlavorTextDefs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+
+  <FlavorTextDef>
+    <InternalName>COMMONWEALTH_GREETING</InternalName>
+
+    <FlavorTextOption>
+      <ResponseTag>DEFAULT_COMMONWEALTH_GREETING</ResponseTag>
+      <Requirements>
+        <ListenerHasUniversalTranslator>true</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>This is a day that shall be long remembered in history.  The {PLAYERFACTIONLONG:1} look forward to our partnership with the {PLAYERFACTIONLONG:2}</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    
+  </FlavorTextDef>
+  
+  <FlavorTextDef>
+    <InternalName>COMMONWEALTH_RESPONSE_PEACEFUL</InternalName>
+
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerHasUniversalTranslator>true</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>We shall work together for the good of our people.</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+
+  <FlavorTextDef>
+    <InternalName>COMMONWEALTH_RESPONSE_MILITARISTIC</InternalName>
+
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerHasUniversalTranslator>true</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>This is indeed a glorious day. Together we shall crush our enemies!</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  
+</FlavorTextDefs>

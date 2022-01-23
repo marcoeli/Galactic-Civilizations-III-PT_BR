@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Crusade editor -->
+<!-- EXP3_RaceTraitText.xml -->
+ 
+  <StringTable>
+    <Label>CommonwealthAbility_Name</Label>
+    <String>[ICON=Diplomatic_Trait_Icon]  Commonwealth</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommonwealthAbility_ShortName</Label>
+    <String>Commonwealth</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommonwealthAbility_Dec</Label>
+    <String>Increased Diplomatic Ability</String>
+  </StringTable>
+ 
+</StringTableList>

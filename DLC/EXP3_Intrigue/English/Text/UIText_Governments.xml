@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- UIText_Governments.xml -->
+ 
+<!-- Governments Text Strings -->
+ 
+  <StringTable>
+    <Label>Coalition_DisplayName</Label>
+    <String>Coalition Government</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Coalition_Description</Label>
+    <String>If we lose an election a Coalition government will be formed, and power will be held by our political enemies. We must maintain the approval of our people, or rule by force, if we are to avoid this.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Coalition_ShortDescription</Label>
+    <String>Stripped of Power</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Coalition_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Coalition_OpponentPartyAName</Label>
+    <String>New Power Party</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Coalition_OpponentPartyBName</Label>
+    <String>Peoples Movement Party</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CoalitionSpecial_CoalitionManager_PositionName</Label>
+    <String>Coalition Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Colonial_DisplayName</Label>
+    <String>Colonial</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Colonial_Description</Label>
+    <String>We have brought peace and enlightenment to our planet. It is our responsibility to bring it to the worlds beyond.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Colonial_ShortDescription</Label>
+    <String>New Worlds and New Leaders</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Colonial_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Colonial_OpponentPartyAName</Label>
+    <String>Homeland First</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Colonial_OpponentPartyBName</Label>
+    <String>Labor Party</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ColonialAdvisor_Growth_PositionName</Label>
+    <String>Colonization Advisor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ColonialAdvisor_Manufacturing_PositionName</Label>
+    <String>Manufacturing Advisor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ColonialCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Imperial_DisplayName</Label>
+    <String>Imperial</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Imperial_Description</Label>
+    <String>Our history is littered with once great empires who stopped conquering and fell to ruin. We will not be one of them.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Imperial_ShortDescription</Label>
+    <String>A Strict Hierarchy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Imperial_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Imperial_OpponentPartyAName</Label>
+    <String>The Order</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Imperial_OpponentPartyBName</Label>
+    <String>The Iron Hand</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ImperialMinister_MovesCap_PositionName</Label>
+    <String>Minister of Conquest</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ImperialAdvisor_Military_PositionName</Label>
+    <String>Military Advisor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ImperialCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Theocracy_DisplayName</Label>
+    <String>Theocracy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Theocracy_Description</Label>
+    <String>It is not race or a shared home that binds our nation together, but faith. Other governments fall away, but our religion is eternal.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Theocracy_ShortDescription</Label>
+    <String>United by Faith</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Theocracy_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Theocracy_OpponentPartyAName</Label>
+    <String>Orthodox</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Theocracy_OpponentPartyBName</Label>
+    <String>Heterodox</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TheocracyMinister_GoodsAndServices_PositionName</Label>
+    <String>Minister of Truth</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>TheocracyCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unity_DisplayName</Label>
+    <String>Unity</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unity_Description</Label>
+    <String>"Government is a tool of a flawed society. It is unneeded when each citizen is a reflection of our shared values." - Akari Malara</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unity_ShortDescription</Label>
+    <String>Our Traditions Bind Us</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unity_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unity_OpponentPartyAName</Label>
+    <String>Traditionalists</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Unity_OpponentPartyBName</Label>
+    <String>The Young</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnityAdvisor_Influence_PositionName</Label>
+    <String>Speaker</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UnityCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Republic_DisplayName</Label>
+    <String>Interstellar Republic</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Republic_Description</Label>
+    <String>"Freedom has many difficulties and democracy is not perfect, but we never had to put up a wall to keep our citizens in." - John F. Kennedy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Republic_ShortDescription</Label>
+    <String>Elected Representatives Govern</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Republic_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Republic_OpponentPartyAName</Label>
+    <String>Old Republic Party</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Republic_OpponentPartyBName</Label>
+    <String>War Party</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RepublicMinister_DiplomacyTradeRouteWeight_PositionName</Label>
+    <String>Minister of Foreign Relations</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RepublicAdvisor_Research_PositionName</Label>
+    <String>Science Advisor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RepublicAdvisor_ColonyGrossIncome_PositionName</Label>
+    <String>Economic Advisor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>RepublicCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Media_DisplayName</Label>
+    <String>Media Assimilation</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Media_Description</Label>
+    <String>You watch our entertainment and hunger for information about our celebrities. You wear our brands, and care about the issues we tell you about. You are already one of us.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Media_ShortDescription</Label>
+    <String>Join Our Collective</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Media_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Media_OpponentPartyAName</Label>
+    <String>Synergy by Glaspop</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Media_OpponentPartyBName</Label>
+    <String>Unsponsored</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MediaSpecial_Speaker1_PositionName</Label>
+    <String>Celebrity Sponsor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MediaSpecial_Speaker2_PositionName</Label>
+    <String>Celebrity Sponsor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MediaCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Utopian_DisplayName</Label>
+    <String>Utopian</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Utopian_Description</Label>
+    <String>The health and happiness of our citizens is directly drawn from the health of our worlds. We cannot attend to one and ignore the other.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Utopian_ShortDescription</Label>
+    <String>Caretakers Of Our Worlds</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Utopian_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Utopian_OpponentPartyAName</Label>
+    <String>Agrarian Party</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Utopian_OpponentPartyBName</Label>
+    <String>Budget Reform Party</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UtopianSecretary_Growth_PositionName</Label>
+    <String>Secretary of the Interior</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UtopianMinister_Growth_PositionName</Label>
+    <String>Minister of Housing</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UtopianSpecial_Fundamentalist_PositionName</Label>
+    <String>Minister of Tradition</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UtopianSpecial_Bliss_PositionName</Label>
+    <String>Minister of Bliss</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>UtopianCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Monarchy_DisplayName</Label>
+    <String>Stellar Monarchy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Monarchy_Description</Label>
+    <String>I am the bedrock upon which this empire is built. It is only through my bloodline that it will survive and grow.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Monarchy_ShortDescription</Label>
+    <String>Our King Has Absolute Power</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Monarchy_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Monarchy_OpponentPartyAName</Label>
+    <String>Second Son Party</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Monarchy_OpponentPartyBName</Label>
+    <String>Revolutionaries</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MonarchyMinister_Military_PositionName</Label>
+    <String>Grand Duke</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>MonarchyCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Oligarchy_DisplayName</Label>
+    <String>Information Oligarchy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Oligarchy_Description</Label>
+    <String>By harnessing the power of our communication network we have discovered that we don't need a perfect government to make our citizens happy. We only need the propaganda of a perfect government.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Oligarchy_ShortDescription</Label>
+    <String>The Media Is Our Weapon</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Oligarchy_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Oligarchy_OpponentPartyAName</Label>
+    <String>Banker's Union</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Oligarchy_OpponentPartyBName</Label>
+    <String>Voiceless</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OligarchyMinister_TradeRoute_PositionName</Label>
+    <String>Lead Negotiator</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OligarchyAdvisor_Influence_PositionName</Label>
+    <String>Media Executive</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OligarchyMinister_GoodsAndServices_PositionName</Label>
+    <String>News Baron</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>OligarchyCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EmergencyCoalition_DisplayName</Label>
+    <String>Emergency Coalition</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EmergencyCoalition_Description</Label>
+    <String>In times of crisis we need our government to claim complete control. Let us hope that they relinquish that control when the crisis has passed.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EmergencyCoalition_ShortDescription</Label>
+    <String>Drastic Measures In Dark Times</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EmergencyCoalition_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EmergencyCoalition_OpponentPartyAName</Label>
+    <String>Watchdog Party</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EmergencyCoalition_OpponentPartyBName</Label>
+    <String>Anti-Regulation Party</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EmergencyCoalitionSpecial_EconomicDirector_PositionName</Label>
+    <String>Economic Director</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EmergencyCoalitionCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Aristocracy_DisplayName</Label>
+    <String>Owner Aristocracy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Aristocracy_Description</Label>
+    <String>Governments are prone to failure when the society must trust each citizen to survive. This is an opposition to the natural order, the king should rule the empire, the strong should enslave the weak.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Aristocracy_ShortDescription</Label>
+    <String>Built On The Back of Slaves</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Aristocracy_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Aristocracy_OpponentPartyAName</Label>
+    <String>The Branded</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Aristocracy_OpponentPartyBName</Label>
+    <String>Abolutionists</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AristocracySecretary_MaxManufacturing_PositionName</Label>
+    <String>Minister of Motivation</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AristocracyMinister_Soldiering_PositionName</Label>
+    <String>Minister of Recruitment</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AristocracySpecial_Cruel_PositionName</Label>
+    <String>Bondsman</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>AristocracyCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Scientific_DisplayName</Label>
+    <String>Technocracy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Scientific_Description</Label>
+    <String>We are no longer bound by roads and space lanes, but by communication networks. The physical world is only the bedrock that the infinite virtual worlds will be built upon.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Scientific_ShortDescription</Label>
+    <String>Science Will Lead Us</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Scientific_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Scientific_OpponentPartyAName</Label>
+    <String>Science Unbound</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Scientific_OpponentPartyBName</Label>
+    <String>Luddites</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ScientificMinister_Research_PositionName</Label>
+    <String>Minister of Science</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ScientificAdvisor_Research_PositionName</Label>
+    <String>Education Advisor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ScientificCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Jihad_DisplayName</Label>
+    <String>Infinite Jihad</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Jihad_Description</Label>
+    <String>Other governments wage war for money, resources or vain disputes. But we bring truth. If you won't listen to our missionaries, you will find our soldiers even more compelling.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Jihad_ShortDescription</Label>
+    <String>Cleansing The Galaxy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Jihad_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Jihad_OpponentPartyAName</Label>
+    <String>Torchbearers</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Jihad_OpponentPartyBName</Label>
+    <String>The Godless</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>JihadSpecial_Keeper_PositionName</Label>
+    <String>Keeper of the Word</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>JihadMinister_GoodsAndServices_PositionName</Label>
+    <String>Minister of Truth</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>JihadCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Empire_DisplayName</Label>
+    <String>Galactic Empire</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Empire_Description</Label>
+    <String>Our government will be managed by our most powerful citizens. They have more to gain and lose by the success of our society.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Empire_ShortDescription</Label>
+    <String>A Governmnet Built On Strength</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Empire_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Empire_OpponentPartyAName</Label>
+    <String>Grand March</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Empire_OpponentPartyBName</Label>
+    <String>Civilian Needs Party</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EmpireSpecial_Legion_PositionName</Label>
+    <String>Legion Commander</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EmpireMinister_Military_PositionName</Label>
+    <String>Minister of War</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EmpireMinister_Soldiering_PositionName</Label>
+    <String>Minister of Conquest</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>EmpireCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Plutocracy_DisplayName</Label>
+    <String>Interstellar Plutocracy</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Plutocracy_Description</Label>
+    <String>We have replaced our politicians with the corporations they represent. A citizen is only a cog in the wheel. Our corporations are eternal.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Plutocracy_ShortDescription</Label>
+    <String>Corporate Oversight</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Plutocracy_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Plutocracy_OpponentPartyAName</Label>
+    <String>Politcal Action Fund</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Plutocracy_OpponentPartyBName</Label>
+    <String>Worker League</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlutocracySecretary_ColonyGrossIncome_PositionName</Label>
+    <String>Chief Financial Officer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlutocracyMinister_Resistance_PositionName</Label>
+    <String>Chief Security Officer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlutocracyMinister_Tourism_PositionName</Label>
+    <String>Chief Marketing Officer</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>PlutocracyCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Singularity_DisplayName</Label>
+    <String>Singularity</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Singularity_Description</Label>
+    <String>Our society has grown too complex for individual minds. By turning our government over to the AI the costs of bureaucracy are gone and each citizen will receive direct care from the government.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Singularity_ShortDescription</Label>
+    <String>True AI Leads Us</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Singularity_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Singularity_OpponentPartyAName</Label>
+    <String>Post-Human Party</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Singularity_OpponentPartyBName</Label>
+    <String>Humanists</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SingularitySpecial_Halee_PositionName</Label>
+    <String>Post-Human</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>SingularityCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Objectivism_DisplayName</Label>
+    <String>Objectivism</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Objectivism_Description</Label>
+    <String>"Most rally against the evils of corruption and greed, but for a government, altruism and hope are equally damaging."- Harondin Gaul</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Objectivism_ShortDescription</Label>
+    <String>Government Without Ideals</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Objectivism_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Objectivism_OpponentPartyAName</Label>
+    <String>Rational Party</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Objectivism_OpponentPartyBName</Label>
+    <String>Compassion Party</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ObjectivismSpecial_Advocate_PositionName</Label>
+    <String>Advocate of the Individual</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ObjectivismSecretary_MaxManufacturing_PositionName</Label>
+    <String>Secretary of Property Rights</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ObjectivismSecretary_ColonyGrossIncome_PositionName</Label>
+    <String>Secretary of Commerce</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ObjectivismMinister_Research_PositionName</Label>
+    <String>Minister of Education</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>ObjectivismCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Federation_DisplayName</Label>
+    <String>Star Federation</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Federation_Description</Label>
+    <String>We cannot believe that we are the only ones fit to lead. Each world deserves respect, each people a voice. The government should serve all equally.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Federation_ShortDescription</Label>
+    <String>Many Voices Under One Banner</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Federation_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Federation_OpponentPartyAName</Label>
+    <String>United Member Party</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Federation_OpponentPartyBName</Label>
+    <String>Isolationist Party</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FederationSecretary_GoodsAndServices_PositionName</Label>
+    <String>Secretary of the Interior</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FederationSecretary_Diplomacy_PositionName</Label>
+    <String>Secretary of State</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FederationSecretary_Influence_PositionName</Label>
+    <String>Secretary of Propaganda</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FederationCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Communion_DisplayName</Label>
+    <String>Galactic Communion</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Communion_Description</Label>
+    <String>A government is a collection of people, not regions. Where our citizens are, so exists the state. Where a citizen celebrates, we all celebrate. Where a citizen suffers, we all suffer.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Communion_ShortDescription</Label>
+    <String>Government That Serves</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Communion_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Communion_OpponentPartyAName</Label>
+    <String>The Pabulum</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Communion_OpponentPartyBName</Label>
+    <String>The Nepenthe</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CommunionSecretary_ShipRange_PositionName</Label>
+    <String>Divine Eyes</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CommunionSecretary_FoodIncome_PositionName</Label>
+    <String>Divine Hand</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CommunionSpecial_DivineSoul_PositionName</Label>
+    <String>Divine Soul</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>CommunionCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Kingdom_DisplayName</Label>
+    <String>Galactic Kingdom</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Kingdom_Description</Label>
+    <String>Let weaker governments fight internal battles. In our society each citizen will serve someone greater. There will be no disputes, only obedience and conquest.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Kingdom_ShortDescription</Label>
+    <String>Governmnet You Serve</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Kingdom_PlayerPartyName</Label>
+    <String>Loyalist</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Kingdom_OpponentPartyAName</Label>
+    <String>House of Lords</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>Kingdom_OpponentPartyBName</Label>
+    <String>The Suffering</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KingdomSpecial_LordProtector_PositionName</Label>
+    <String>Lord Protector</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KingdomMinister_Military_PositionName</Label>
+    <String>Minister of War</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KingdomMinister_MaxManufacturing_PositionName</Label>
+    <String>Minister of Industry</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>KingdomCabinetMember_Crisis_PositionName</Label>
+    <String>Crisis Manager</String>
+  </StringTable>
+ 
+</StringTableList>
