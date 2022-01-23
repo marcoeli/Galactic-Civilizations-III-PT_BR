@@ -14,52 +14,52 @@ xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
  
   <StringTable>
     <Label>DiseaseEvent_Dec</Label>
-    <String>An attempt to create an improved antibiotic has instead produced a bacteria that is immune to our treatments. It has escaped the lab and your scientists warn that it is spreading on {PLANETNAME}. It can be fatal to infants and the elderly.</String>
+    <String>Uma tentativa de criar um antibiótico melhorado produziu, ao invés disso, uma bactéria que é imune a nossos tratamentos. Ela escapou do laboratório e seus cientistas avisam que está se espalhando no {PLANETNAME}. Ele pode ser fatal para bebês e idosos.</String>
   </StringTable>
  
   <StringTable>
     <Label>DiseaseEvent_Benevolent_Bonus_Name</Label>
-    <String>Prioritize health care and make sure the infected have time and resources to recover.</String>
+    <String>Dar prioridade aos cuidados de saúde e garantir que os infectados tenham tempo e recursos para se recuperar.</String>
   </StringTable>
  
   <StringTable>
     <Label>DiseaseEvent_Benevolent_Bonus_Dec</Label>
-    <String>+5 Benevolent, -25% Production on Affected planet for 10 turns</String>
+    <String>+5 Benevolente, -25% Produção no planeta afetado por 10 turnos</String>
   </StringTable>
  
   <StringTable>
     <Label>DiseaseEvent_Neutral_Bonus_Name</Label>
-    <String>Warn the citizens to be cautious, but there is little we can reasonably do.</String>
+    <String>Avise os cidadãos para serem cautelosos, mas há pouco que possamos razoavelmente fazer.</String>
   </StringTable>
  
   <StringTable>
     <Label>DiseaseEvent_Neutral_Bonus_Dec</Label>
-    <String>+5 Pragmatic, -25% Growth on Affected planet for 20 turns</String>
+    <String>+5 Pragmático, -25% de crescimento no planeta afetado por 20 turnos</String>
   </StringTable>
  
   <StringTable>
     <Label>DiseaseEvent_Merciless_Bonus_Name</Label>
-    <String>Quarantine the sick, by force if need be.</String>
+    <String>Colocar os doentes em quarentena, se necessário, à força.</String>
   </StringTable>
  
   <StringTable>
     <Label>DiseaseEvent_Merciless_Bonus_Dec</Label>
-    <String>+5 Malevolent, -25% Morale on Affected planet for 5 turns</String>
+    <String>+5 Malevolência, -25% de moral no planeta afetado durante 5 turnos</String>
   </StringTable>
  
   <StringTable>
     <Label>MessageEvent_Name</Label>
-    <String>Message</String>
+    <String>Mensagem</String>
   </StringTable>
  
   <StringTable>
     <Label>MessageEvent_Dec</Label>
-    <String>Our people would like to send a beacon out into the universe. A message to the other starfaring races we will one day meet.</String>
+    <String>Nosso povo gostaria de enviar um farol para o universo. Uma mensagem para as outras raças estelares que um dia encontraremos.</String>
   </StringTable>
  
   <StringTable>
     <Label>MessageEvent_Benevolent_Bonus_Name</Label>
-    <String>Send a message of peace and hope.</String>
+    <String>Envie uma mensagem de paz e esperança.</String>
   </StringTable>
  
   <StringTable>

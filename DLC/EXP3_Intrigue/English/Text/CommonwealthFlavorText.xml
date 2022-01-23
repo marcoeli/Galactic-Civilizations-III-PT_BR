@@ -12,7 +12,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerHasUniversalTranslator>true</ListenerHasUniversalTranslator>
       </Requirements>
-      <Text>This is a day that shall be long remembered in history.  The {PLAYERFACTIONLONG:1} look forward to our partnership with the {PLAYERFACTIONLONG:2}</Text>
+      <Text>Este é um dia que será lembrado por muito tempo na história.  O {PLAYERFACTIONLONG:1} aguarda com expectativa nossa parceria com o {PLAYERFACTIONLONG:2}.</Text>
       <PreferenceWeight>1</PreferenceWeight>
     </FlavorTextOption>
     
@@ -25,7 +25,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerHasUniversalTranslator>true</ListenerHasUniversalTranslator>
       </Requirements>
-      <Text>We shall work together for the good of our people.</Text>
+      <Text>Trabalharemos juntos para o bem de nosso povo.</Text>
       <PreferenceWeight>1</PreferenceWeight>
     </FlavorTextOption>
   </FlavorTextDef>
@@ -37,7 +37,7 @@ xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
       <Requirements>
         <ListenerHasUniversalTranslator>true</ListenerHasUniversalTranslator>
       </Requirements>
-      <Text>This is indeed a glorious day. Together we shall crush our enemies!</Text>
+      <Text>Este é de fato um dia glorioso. Juntos esmagaremos nossos inimigos!</Text>
       <PreferenceWeight>1</PreferenceWeight>
     </FlavorTextOption>
   </FlavorTextDef>
